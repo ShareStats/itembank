@@ -1,2 +1,3 @@
-# itembank
-Repository for all the ShareStats items
+# ShareStats itembank
+
+This repository contains all the ShareStats items.
