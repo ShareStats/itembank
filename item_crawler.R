@@ -14,6 +14,6 @@ for (i in 1:n) {
   print(text[line.nr])
   
   # replace word in text file using sed in bash
-  # sed -i -e 's/<string-to-find>/<string-to-replace>/' <your-file-path>
+  # sed -i '' -E 's/<string-to-find>/<string-to-replace>/' <your-file-path>
   
 }
