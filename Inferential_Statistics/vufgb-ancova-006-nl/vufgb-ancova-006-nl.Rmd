@@ -1,0 +1,51 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-ancova-006-nl-table01.jpg", recursive = TRUE)
+```
+
+Question
+========
+  
+Zie onderstaande tabel. In een onderzoek worden verschillen in inkomen tussen drie ethnische groepen in de Verenigde Staten onderzocht (N = 80). De onafhankelijke variabele race had drie niveau’s: 1) White, 2) Hispanic en 3) Black. De afhankelijke variabele is het inkomen (inc), en als covariaat wordt het aantal jaren genoten onderwijs (educ) gebruikt. Gegeven is de volgende output van een GLM.
+
+![](vufgb-ancova-006-nl-table01.jpg)
+  
+Tips:
+
+- Bij ANCOVA is het aantal vrijheidsgraden voor een covariaat gelijk aan 1. 
+
+- In een ANCOVA met een interactie tussen covariaat en de factor is het aantal vrijheidsgraden voor de Error gelijk aan n − 2 × g.
+
+- De vrijheidsgraden voor de interactie zijn gelijk aan het product van de vrijheidsgraden van Covariaat en Factor.
+
+- Voor een echte ANCOVA is het aantal vrijdheidsgraden voor de Error gelijk aan n − g − 1.
+
+Is de onderzoeker gerechtigd om de covariaat educ te gebruiken in een ANCOVA?
+
+Answerlist
+----------
+* Ja, want de interactie race*educ is niet significant F(· · ·) = 1.476.
+* Ja, want de interactie race*educ is niet significant F(· · ·) = 1.516.
+* Nee, want de interactie race*educ is niet significant F(· · ·) = 1.476.
+* Nee, want de interactie race*educ is niet significant F(· · ·) = 1.516.
+
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Correct
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-ancova-006-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA
+exextra[Type]: Conceptual, Interpretating output
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

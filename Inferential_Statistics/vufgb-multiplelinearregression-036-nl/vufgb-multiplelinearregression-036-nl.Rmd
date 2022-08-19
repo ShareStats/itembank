@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-multiplelinearregression-036-nl-table01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+In een steekproef van 50 kinderen uit de jeugdhulpverlening wordt onderzocht of er een verband is tussen het aantal meegemaakte traumatische gebeurtenissen en internaliserende gedragsproblemen. In de meervoudige regressieanalyse wordt gecontroleerd voor leeftijd.
+
+Toets aan hand van de gegevens in onderstaande SPSS tabel of het bovengenoemde verband significant is.
+
+![](vufgb-multiplelinearregression-036-nl-table01.jpg)
+  
+Answerlist
+----------
+* $t = 3.97,\;df = 47,\;p < .001$
+* $t = 3.97,\;df = 48,\;p < .001$
+* $t = 0.95,\;df = 47,\;p > .05$
+* $t = 0.95,\;df = 48,\;p > .05$
+
+Solution
+========
+
+Answerlist
+----------
+* Correct
+* Incorrect
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-multiplelinearregression-036-nl
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Regression/Multiple linear regression
+exextra[Type]: Performing analysis, Interpreting output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

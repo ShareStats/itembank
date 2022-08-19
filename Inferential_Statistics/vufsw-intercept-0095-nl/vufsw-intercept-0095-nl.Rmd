@@ -1,0 +1,83 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Screen__Shot__2020-04-30__at__15.09.34.png")
+```
+
+Question
+========
+Een onderzoeker voert een enkelvoudige regressie-analyse uit met de mate
+van vertrouwen in de politie (variabele: "**Rapportcijfer\_politie**")
+als afhankelijke variabele en de dummy variabele
+"**Migrantieachtergrond**" als onafhankelijke variabele.  
+Wat is het intercept (de constante) in dit model? En wat is de betekenis
+van dit getal?   
+  
+<img src="Screen__Shot__2020-04-30__at__15.09.34.png"
+class="fr-fic fr-dii enlargeimage tvcss_2"
+alt="Screen Shot 2020-04-30 at 15.09.34" />
+
+Answerlist
+----------
+* Het intercept is ,065. Dit is de gemiddelde mate van vertrouwen in de
+  politie van mensen *zonder* een migratieachtergrond.
+* Het intercept is ,065. Dit is de gemiddelde mate van vertrouwen in de
+  politie van mensen *met* een migratieachtergrond.
+* Het intercept is 7,213. Dit is de gemiddelde mate van vertrouwen in de
+  politie van mensen *zonder* een migratieachtergrond.
+* Het intercept is 7,213. Dit is de gemiddelde mate van vertrouwen in de
+  politie van mensen *met* een migratieachtergrond.
+* Het intercept is ,083. Dit is de gemiddelde mate van vertrouwen in de
+  politie van mensen *zonder* een migratieachtergrond.
+* Het intercept is ,083. Dit is de gemiddelde mate van vertrouwen in de
+  politie van mensen *met* een migratieachtergrond.
+* Het intercept is -,784. Dit is de gemiddelde mate van vertrouwen in de
+  politie van mensen *zonder* een migratieachtergrond.
+* Het intercept is -,784. Dit is de gemiddelde mate van vertrouwen in de
+  politie van mensen *met* een migratieachtergrond.
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+
+Language  
+Nederlands
+
+Levels of Difficulty  
+Easy
+
+M&T Basics of quantitative research  
+Basics of quantitative research
+
+M&T BIS  
+Default value
+Answerlist
+----------
+* False
+* False
+* True
+* False
+* False
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-intercept-0095-nl
+extype: schoice
+exsolution: 00100000
+exshuffle: TRUE
+exsection: inferential statistics/regression/intercept
+exextra[Type]: interpretating output
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical literacy
+

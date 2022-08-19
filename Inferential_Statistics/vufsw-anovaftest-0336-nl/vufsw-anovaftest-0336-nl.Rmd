@@ -1,0 +1,48 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Capture.gif")
+include_supplement("Capture1.gif")
+```
+
+Question
+========
+We analyseren of de prestaties van scholieren verschillen tussen 3
+vakken: literatuur, essay writing en wiskunde (ze staan in deze volgorde
+in de dataset). Daarnaast onderzoeken wij of de eventuele verschillen
+tussen de 3 vakken variëren tussen mannelijke en vrouwelijke scholieren.
+Daarom gebruiken wij een Mixed Design ANOVA. De output van deze analyse
+staat hieronder. Female is gecodeerd als 0: man, 1: vrouw.  
+Met welke F-waarde kunnen wij toetsen of de verschillen in prestaties
+tussen wiskunde en de andere 2 vakken samen writing variëren tussen
+mannelijke en vrouwelijke scholieren?   
+  
+<img src="Capture.gif" class="fr-fic fr-dii tvcss_2" alt="Capture" />  
+<img src="mediafiles/Capture1.gif" class="fr-fic fr-dii tvcss_3"
+alt="Capture1" />
+
+
+Solution
+========
+
+
+
+
+
+Dit is de F-waarde in de tabel Within Subject Contrasts in de interactie
+field\*female, Level 3 vs previous
+
+
+
+
+
+Meta-information
+================
+exname: vufsw-anovaftest-0336-nl
+extype: num
+exsolution: 6.448
+extol: 0
+exsection: inferential statistics/parametric techniques/anova/anova f-test
+exextra[Type]: interpretating output
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical reasoning
+

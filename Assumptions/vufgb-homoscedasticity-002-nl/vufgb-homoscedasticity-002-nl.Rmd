@@ -1,0 +1,39 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-homoscedasticity-002-nl-graph01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+Bekijk onderstaande residuenplot. Welke aanname van het algemene lineaire model
+wordt hier geschonden?
+
+![](vufgb-homoscedasticity-002-nl-graph01.jpg)
+  
+Answerlist
+----------
+* Homogeniteit van regressie
+* Sfericiteit
+* Normaliteit
+* Homoscedasticiteit
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Incorrect
+* Correct
+
+Meta-information
+================
+exname: vufgb-homoscedasticity-002-nl
+extype: schoice
+exsolution: 0001
+exsection: Assumptions/Homoscedasticity, Assumptions/Homoscedasticity/Residual plot, Assumptions
+exextra[Type]: Interpreting graph
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,42 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-ancova-031-nl-table01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+In een experimenteel onderzoek waarin drie groepen worden vergeleken op een factor wil de onderzoeker weten of het nodig is voor leeftijd als covariaat te controleren. Hij voert hiertoe in eerste instantie een ANCOVA analyse met interactie uit. Voer op basis van de gegevens in onderstaande tabel een *F*-toets uit voor het Interactie-effect.
+
+Wat is je conclusie over welk ANCOVA model de onderzoeker dient te gebruiken om te controleren voor de covariaat?
+
+![](vufgb-ancova-031-nl-table01.jpg)
+  
+Answerlist
+----------
+* $F = 4 > 3.23$, dus onderzoeker dient ANCOVA model *met* interactie te gebruiken
+* $F = 4 > 3.23$, dus onderzoeker dient ANCOVA model *zonder* interactie te gebruiken
+* $F = 2 < 3.23$, dus onderzoeker dient ANCOVA model *met* interactie te gebruiken
+* $F = 2 < 3.23$, dus onderzoeker dient ANCOVA model *zonder* interactie te gebruiken
+
+Solution
+========
+
+$F = \frac{MS_{Interactie}}{MSE} = \frac{4}{2} = 2$ met $df_{1} = 2$ en $df_{2} = 40$. Kritieke grens in *F*-tabel opzoeken bij deze vrijheidsgraden, is inderdaad 3.23. Gevonden *F* < kritieke *F*, dus nulhypothese van geen interactie niet verwerpen. Onderzoeker dient dus het model zonder interactie te gebruiken.
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Incorrect
+* Correct
+
+Meta-information
+================
+exname: vufgb-ancova-031-nl
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA
+exextra[Type]: Performing analysis, Interpreting output, Test choice
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Reasoning

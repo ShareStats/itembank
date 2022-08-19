@@ -1,0 +1,80 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1602951598702.png")
+include_supplement("1602951629778.png")
+```
+
+Question
+========
+Onderstaande analyses zijn uitgevoerd op data van een steekproef van
+jong volwassenen tussen 20 en 40 jaar die zijn ondervraagd via een
+vragenlijst waarin naar hun culturele voorkeuren is gevraagd. De
+onderzoeksvragen zijn (1) in hoeverre de hoeveelheid televisiekijken
+(variabele: TVKIJKEN (schaal 0-1): een hogere score betekent dat meer tv
+gekeken wordt) veroorzaakt wordt door de sociale positie van het
+ouderlijk milieu (gemeten is de opleiding van de ouders (variabele:
+FAMEDUC (schaal 0-7), variërend van primair onderwijs (0) tot
+universiteit (7) een hogere score betekent een hogere opleiding) en (2)
+of deze relatie verklaard kan worden door de mate waarin vroeger (toen
+de respondent 12 jaar was) door de ouders televisie gekeken werd
+(variabele: FAMTV (schaal 0-1), een hogere score betekent dat meer tv
+gekeken werd).  
+Hieronder staan de resultaten van twee regressieanalyses.  
+  
+Regressie 1:  
+<img src="1602951598702.png" class="fr-fic fr-dii tvcss_2"
+alt="1602951598702" />  
+  
+Regressie 2:  
+<img src="1602951629778.png" class="fr-fic fr-dii tvcss_3"
+alt="1602951629778" />  
+  
+Hoe interpreteer je de constante **in model 2 in de eerste
+regressieanalyse**?
+
+Answerlist
+----------
+* De constante .465 geeft de laagste score op ‘tvwatching’ aan, waarbij de
+  opleiding van de ouders en de mate van televisie kijken door de ouders
+  vroeger constant zijn gehouden
+* De constante .465 geeft de voorspelde score op ‘tvwatching’ aan voor
+  respondenten met een gemiddelde score op de opleiding van de ouders en
+  een gemiddelde score op de mate van televisie kijken door de ouders
+  vroeger
+* De constante .465 geeft de voorspelde score op ‘tvwatching’ aan, voor
+  respondenten van wie de ouders het laagst zijn opgeleid (0) en vroeger
+  het minst televisie keken (0)
+* De constante .465 geeft het effect van de opleiding van de ouders op
+  ‘tvwatching’ aan voor respondenten van wie de ouders vroeger het minst
+  televisie keken (0)
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+Answerlist
+----------
+* False
+* False
+* True
+* False
+
+Meta-information
+================
+exname: vufsw-mediation-1364-nl
+extype: schoice
+exsolution: 0010
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression/mediation
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical literacy
+

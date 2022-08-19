@@ -1,0 +1,34 @@
+Question
+========
+  
+Er worden twee linear mixed models gebruikt: een ‘leeg’ model zonder fixed effect van tijd (2 parameters, -2Log-Likelihood=2563.90), en een model met een lineair fixed effect van tijd (3 parameters, -2Log-Likelihood=2561.57). 
+
+Voer een likelihood-ratio test uit om te toetsen of er sprake is van een lineair effect van tijd.
+  
+Answerlist
+----------
+* $\chi^{2}(df = 1) = 2.33;\;p < .05$
+* $\chi^{2}(df = 1) = 2.33;\;p > .05$
+* $\chi^{2}(df = 1) = 5.43;\;p < .05$
+* $\chi^{2}(df = 1) = 5.43;\;p > .05$
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Correct
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-multilevel_analysis-302-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Multilevel Analysis,Inferential Statistics/Bayesian Statistics/Likelihood, Inferential Statistics/Multilevel Analysis, Inferential Statistics/NHST/Test statistic/Chi-squared
+exextra[Type]: Performing analysis
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

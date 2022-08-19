@@ -1,0 +1,63 @@
+Question
+========
+A researcher is interested in the percentage of employees in the
+Netherlands who suffer from burn-out complaints. The researcher draws a
+random sample of 130 Dutch employees, for which we find: p̂* = *0.12  
+  
+Calculate the 95% confidence interval.
+
+Answerlist
+----------
+* \[0.064; 0.176\]
+* \[0.099; 0.141\]
+* \[0.091; 0.149\]
+* \[0.118; 0.122\]
+
+Solution
+========
+
+
+
+
+
+You can calculate this with the following formula: CI for p̂
++/-* t(se) *with *se* = (√(p̂(1 - p̂)) / n)  
+  
+Thus, se = (*√ *(0.12 \* (1 - 0.12)) / 130 ) = 0.0285 and CI = 0.12 +/-
+1.96 \* 0.0285 = \[0.064; 0.176\]*  
+*
+
+
+
+
+
+Language  
+Nederlands
+
+Levels of Difficulty  
+Medium
+
+M&T BIS  
+Default value
+
+M&T Hypothesis testing: means  
+Default value
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-width-1159-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/confidence intervals/width
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: english
+exextra[Level]: statistical literacy
+

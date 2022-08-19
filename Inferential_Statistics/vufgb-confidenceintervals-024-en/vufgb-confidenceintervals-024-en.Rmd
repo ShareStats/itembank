@@ -1,0 +1,44 @@
+Question
+========
+  
+The mean in a sample of 25 persons is 15, the variance is 9. 
+
+Calculate the 95% confidence interval for the population mean.
+  
+Answerlist
+----------
+* 13.82 ; 16.18
+* 13.76 ; 16.24
+* 11.28 ; 18.72
+* 14.75 ; 15.25
+
+Solution
+========
+
+$95 \% \; CI: \; mean \pm t._{025} \times se$
+
+So, firstly you have to find the corresponding *t*-value and calculate the standard error.
+
+*t*-value at $df = n-1 = 25-1 = 24: \; 2.064$
+
+$se = \frac{s}{\sqrt{n}} = \frac{3}{5} = 0.6$
+
+When you fill this in, you get: $15 \pm 2.064 \times 0.6$, which is $13.76 \; ; \; 16.24$.
+
+Answerlist
+----------
+* Incorrect
+* Correct
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-confidenceintervals-024-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Confidence Intervals
+exextra[Type]: English
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

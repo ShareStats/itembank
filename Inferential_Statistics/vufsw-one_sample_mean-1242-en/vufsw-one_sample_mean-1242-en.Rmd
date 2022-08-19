@@ -1,0 +1,72 @@
+Question
+========
+Suppose a teacher wants to test whether the average number of days that
+students spend a week on statistics is higher than 3 days.  
+Which type of test would he best use?
+
+Answerlist
+----------
+* One-sample t-test
+* Independent t-test
+* Chi-square test
+* Simple regression
+
+Solution
+========
+
+
+
+
+
+It is a one sample t test, because **The **One Sample t Test** is
+commonly used to **test **the following:**  
+
+1.  Statistical difference between a **sample** mean and a known or
+    hypothesized value of the mean in the population.
+2.  Statistical difference between the **sample** mean and the
+    **sample** midpoint of the **test** variable.
+
+The **independent t-test**, is an inferential statistical **test** that
+determines whether there is a statistically significant difference
+between the means in two unrelated groups.  
+  
+ **Use** the **chi**-**square test** for independence to determine
+whether there is a significant relationship between two categorical
+variables.  
+  
+Use a simple regression
+[](http://statisticsbyjim.com/glossary/regression-analysis/)to describe
+the relationships between an independent variable and a dependent
+variable.
+
+
+
+
+
+Levels of Difficulty  
+Easy
+
+M&T Hypothesis testing: means  
+Default value
+
+M&T Model selection  
+Default value
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-one sample mean-1242-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/t-test/one sample mean
+exextra[Type]: test choice
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical literacy
+

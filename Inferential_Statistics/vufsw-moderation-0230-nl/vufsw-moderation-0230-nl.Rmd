@@ -1,0 +1,76 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1553776532675.png")
+```
+
+Question
+========
+Hieronder zijn twee regressielijnen weergegeven, voor mannelijke en
+vrouwelijke studenten (zie Figuur 1). De afhankelijke variabele
+“**studieprestaties**” is gemeten op een schaal van 1 tot 10. De
+variabele “**geslacht**” is een dummy variabele (man = 1; vrouw  = 0);
+De variabele “**collegebezoek**” is de mate waarin iemand aanwezig is
+geweest bij de wekelijkse oefencolleges (‘low’ = bijna ooit; ‘high’ =
+bijna altijd).  
+Is er in dit geval sprake van een moderatie-effect (interactie-effect)
+van de variabele geslacht? Hoe kun je dit uit de figuur afleiden?   
+  
+<img src="1553776532675.png" class="fr-fic fr-dii enlargeimage tvcss_2"
+alt="1553776532675" />
+
+Answerlist
+----------
+* Nee, want het verschil in studieprestaties tussen mannen en vrouwen is
+  constant: dit verschil wordt niet groter of kleiner als studenten vaker
+  colleges bezoeken.
+* Nee, want het verschil in de mate van collegebezoek tussen mannen en
+  vrouwen is constant: de vrouwen zijn bij alle drie de groepen (low,
+  medium en high) oververtegenwoordigd.
+* Ja, want de studieprestaties nemen toe naarmate studenten vaker aanwezig
+  zijn bij colleges, en dit effect treedt op bij zowel de mannen als de
+  vrouwen.
+* Ja, want geslacht heeft een invloed op studieprestaties: vrouwen behalen
+  hogere studieprestaties dan mannen.
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+
+Language  
+Nederlands
+
+Levels of Difficulty  
+Easy
+
+M&T Basics of quantitative research  
+Basics of quantitative research
+
+M&T BIS  
+Default value
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-moderation-0230-nl
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression/moderation
+exextra[Type]: interpretating graph
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical reasoning
+

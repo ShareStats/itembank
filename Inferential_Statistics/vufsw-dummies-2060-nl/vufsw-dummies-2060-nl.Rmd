@@ -1,0 +1,59 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Schermafbeelding__2019-01-30__om__14.42.09.png")
+```
+
+Question
+========
+In een onderzoek naar culturele participatie onder scholieren is de
+volgende vraag gesteld.  
+<img src="Schermafbeelding__2019-01-30__om__14.42.09.png"
+class="fr-fic fr-dii tvcss_2"
+alt="Schermafbeelding 2019-01-30 om 14.42.09" />  
+  
+Stel je wilt een regressieanalyse doen met cultuurparticipatie als
+afhankelijke variabele en deze als onafhankelijke. Is het noodzakelijk
+van deze variabele dummy’s te maken, en zo ja, hoeveel om in de analyse
+op te nemen?
+
+Answerlist
+----------
+* Nee, het is niet noodzakelijk, alleen als je niet-lineaire verbanden
+  wilt onderzoeken. Het mag wel: je moet dan 5 dummy-variabelen opnemen
+* Nee, het is niet noodzakelijk, alleen als je niet-lineaire verbanden
+  wilt onderzoeken. Het mag wel: je moet dan 6 dummy-variabelen opnemen
+* Ja, het is noodzakelijk want het is een categorische variabele: je moet
+  dan 5 dummy-variabelen opnemen
+* Ja, het is noodzakelijk want het is een categorische variabele: je moet
+  dan 6 dummy-variabelen opnemen
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-dummies-2060-nl
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/regression/dummies
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical thinking
+

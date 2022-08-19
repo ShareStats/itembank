@@ -1,0 +1,60 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1602951598702.png")
+include_supplement("1602951629778.png")
+```
+
+Question
+========
+The analyses below were carried out on data from a sample of young
+adults aged between 20 and 40 years who were interviewed via a
+questionnaire asking about their cultural preferences. The research
+questions are (1) to what extent the amount of television viewing
+(variable: TVWatching (scale 0-1): a higher score means that more TV is
+watched) is caused by the social position of the parental environment
+(measured is the education of the parents (variable: FAMEDUC (scale
+0-7), ranging from primary education (0) to university (7) a higher
+score means a higher education) and (2) whether this relationship can be
+explained by the extent to which television used to be watched (when the
+respondent was 12 years old) by the parents (variable: FAMTV (scale
+0-1), a higher score means that more television was watched).  
+Below are the results of two regression analyses.  
+  
+Regression 1:  
+<img src="1602951598702.png" class="fr-fic fr-dii tvcss_2"
+alt="1602951598702" />  
+  
+Regression 2:  
+<img src="1602951629778.png" class="fr-fic fr-dii tvcss_3"
+alt="1602951629778" />  
+  
+  
+What is the indirect effect (mediation effect) of 'fameduc' through
+'famtv' on 'tvwatching' (use the unstandardized coefficients)?   
+*Just give a number in three decimal places, nothing else.*
+
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+
+Meta-information
+================
+exname: vufsw-mediation-1367-en
+extype: num
+exsolution: -0.008
+extol: 0.001
+exsection: inferential statistics/regression/multiple linear regression/mediation
+exextra[Type]: interpreting output
+exextra[Program]: calculator
+exextra[Language]: english
+exextra[Level]: statistical thinking
+

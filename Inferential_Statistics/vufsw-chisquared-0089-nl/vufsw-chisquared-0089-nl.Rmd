@@ -1,0 +1,79 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1641893103260.png")
+```
+
+Question
+========
+De onderzoeker wil nagaan of er een verband bestaat tussen leeftijd en
+contact met de politie. De gegevens hierover staan in Tabel 1 (onderaan
+de vraag).  
+H<sub>0</sub>: Leeftijdscategorie en contact met politie zijn
+onafhankelijk.  
+H<sub>a</sub>: Leeftijdscategorie en contact met politie zijn
+afhankelijk.  
+  
+De onderzoeker rekent op basis van deze gegevens de Chi-kwadraat
+statistic uit. Dit blijkt **70,18** te zijn.  
+  
+Wat is je conclusie wat betreft de nulhypothese? Toets met alpha =
+.05.  
+  
+Tabel 1: De samenhang tussen leeftijd en contact met politie.
+Geobserveerde aantallen, met gestandaardiseerd residu (*standardized
+residual*) tussen haakjes.  
+<img src="1641893103260.png" class="fr-fic fr-dii tvcss_2"
+alt="1641893103260" />
+
+Answerlist
+----------
+* We kunnen de nulhypothese **wel** verwerpen, omdat de geobserveerde
+  Chi-squared statistic **kleiner** is dan de kritieke Chi-squared.
+* We kunnen de nulhypothese **niet** verwerpen, omdat de geobserveerde
+  Chi-squared statistic **kleiner** is dan de kritieke Chi-squared.
+* We kunnen de nulhypothese **niet** verwerpen, omdat de geobserveerde
+  Chi-squared statistic **groter** is dan de kritieke Chi-squared.
+* We kunnen de nulhypothese **wel** verwerpen, omdat de geobserveerde
+  Chi-squared statistic **groter** is dan de kritieke Chi-squared.
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+
+Language  
+Nederlands
+
+Levels of Difficulty  
+Easy
+
+M&T Basics of quantitative research  
+Basics of quantitative research
+ 
+Default value
+Answerlist
+----------
+* False
+* False
+* False
+* True
+
+Meta-information
+================
+exname: vufsw-chisquared-0089-nl
+extype: schoice
+exsolution: 0001
+exshuffle: TRUE
+exsection: inferential statistics/nhst/test statistic/chi-squared
+exextra[Type]: interpretating output
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical thinking
+

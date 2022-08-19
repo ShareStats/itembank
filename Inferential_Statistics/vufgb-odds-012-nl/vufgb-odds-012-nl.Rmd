@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-odds-012-nl-figure01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+Gegeven is onderstaande figuur behorende bij het proportional odds model. 
+
+Wat zien we in deze figuur?
+
+![](vufgb-odds-012-nl-figure01.jpg)
+  
+Answerlist
+----------
+* Het verband tussen de cumulatieve kans op *Y* en *X*. Dit is een log-lineair verband.
+* Het verband tussen *Y* en de cumulatieve kans op *X*. Dit is een log-lineair verband.
+* Het verband tussen de cumulatieve kans op *Y* en *X*. Dit is een logistisch verband.
+* Het verband tussen *Y* en de cumulatieve kans op *X*. Dit is een logistisch verband.
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Correct
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-odds-012-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Regression/Logistic regression/Odds, Inferential Statistics/Regression/Logistic regression
+exextra[Type]: Interpreting graph, Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

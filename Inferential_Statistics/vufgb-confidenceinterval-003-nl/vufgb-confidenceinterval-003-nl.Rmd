@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-confidenceinterval-003-nl-table01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+Een kinderpsycholoog doet onderzoek naar de relatie tussen de oppositioneel-opstandige gedragstoornis (ODD), sociaal-economische status (SES) en assertiviteit (ASS). De onderzoeksvraag is of de kans op het ontwikkelen van ODD voorspeld kan worden op basis van de scores op de andere twee variabelen. Hiervoor wordt een logische regressie uitgevoerd. Een deel van de resultaten is hieronder weergegeven.
+
+![](vufgb-confidenceinterval-003-nl-table01.jpg)
+  
+Wat is van toepassing op de ontbrekende waarden bij de betrouwbaarheidsintervallen voor EXP(B) die zijn weergegeven met *a* en *b*?  
+  
+Answerlist
+----------
+* *a* > 1, *b* < 1
+* *a* > 1, *b* > 1
+* *a* < 1, *b* < 1
+* *a* < 1, *b* > 1
+
+Solution
+========
+
+Answerlist
+----------
+* Correct
+* Incorrect
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-confidenceinterval-003-nl
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Regression/Confidence interval, Inferential Statistics/Regression/Logistic regression
+exextra[Type]: Interpreting output
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

@@ -1,0 +1,66 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Schermafbeelding__2019-02-04__om__10.54.16.png")
+include_supplement("Schermafbeelding__2019-02-04__om__10.54.30.png")
+```
+
+Question
+========
+We analyseren data die afkomstig zijn van scholieren van het voortgezet
+onderwijs uit de Jongeren & Cultuurdata (Ganzeboom & Nagel, 1998-2002).
+Voor dit databestand zijn ruim 3000 jongeren ondervraagd in de leeftijd
+van grofweg 14 tot 17 jaar. In onderstaande regressieanalyse is de
+participatie in populaire cultuur de afhankelijke variabele (pjcul:
+0-100, van weinig naar veel participatie) en zijn de onafhankelijke
+variabelen moeders cultuurparticipatie (pmcul: 0-1, van minst naar meest
+cultureel actief) en schoolniveau (in dummy’s, referentiegroep =
+vmbo-b). Er zijn in model 3 bovendien interacties toegevoegd tussen
+moeders cultuurparticipatie en schoolniveau.  
+  
+<img src="Schermafbeelding__2019-02-04__om__10.54.16.png"
+class="fr-fic fr-dii tvcss_2"
+alt="Schermafbeelding 2019-02-04 om 10.54.16" />  
+<img src="Schermafbeelding__2019-02-04__om__10.54.30.png"
+class="fr-fic fr-dii tvcss_3"
+alt="Schermafbeelding 2019-02-04 om 10.54.30" />  
+Hoe groot is volgens model 3 in de steekproef het verschil in
+participatie in populaire cultuur tussen vmbo-b leerlingen en vwo
+leerlingen met een zeer cultureel actieve moeder (pmcul = 1)?
+
+Answerlist
+----------
+* 0.724
+* 20.031
+* 43.342
+* 62.649
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-moderation-2104-nl
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression/moderation
+exextra[Type]: interpreting output
+exextra[Program]: calculator
+exextra[Language]: dutch
+exextra[Level]: statistical literacy
+

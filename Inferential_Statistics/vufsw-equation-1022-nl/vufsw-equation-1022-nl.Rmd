@@ -1,0 +1,61 @@
+Question
+========
+Als je onderzoek deed naar het effect van *hours *training en *attitude*
+op de prestaties van een specifieke vaardigheid (bijv. Aantal gescoorde
+goals: *performance*), en de regressieresultaten geven je de volgende
+regressievergelijking, welke van de volgende uitspraken is waar?  
+  
+*p**e**r**f**o**r**m**a**n**c**e* = 1.23<sup>\*</sup> + 0.112 × *a**t**t**i**t**u**d**e* + 0.531<sup>\*</sup> × *h**o**u**r**s* + 0.167<sup>\*</sup> × *a**t**t**i**t**u**d**e* × *h**o**u**r**s*  
+  
+  
+  
+\* betekent statistisch significant
+
+Answerlist
+----------
+* Wanneer de houding van de atleet positief is, is er een positief
+  significant verband tussen uren training en sportprestaties.
+* Wanneer de houding van de atleet positief is, is er een positieve
+  niet-significante relatie tussen uren training en sportprestaties.
+* Wanneer de houding van de atleet positief is, is er een negatieve
+  significante relatie tussen uren training en sportprestaties.
+* Wanneer de houding van de atleet positief is, is er een negatieve
+  niet-significante relatie tussen uren training en sportprestaties.
+
+Solution
+========
+
+
+
+
+
+*p**e**r**f**o**r**m**a**n**c**e* = 1.23<sup>\*</sup> + 0.112 × *a**t**t**i**t**u**d**e* + 0.531<sup>\*</sup> × *h**o**u**r**s* + 0.167<sup>\*</sup> × *a**t**t**i**t**u**d**e* × *h**o**u**r**s*  
+  
+The effect of hours on performance is:  
+  
+(0.531 + 0.167\*attitude). So, if attitude is positive, this number we
+always be positive.Since, both the coefficient of the main effect of
+hours and the interaction effect are statistically significant, we
+expect the effect of hours to be always significant if attitude is
+positive.
+
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-equation-1022-nl
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/regression/equation
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical literacy
+

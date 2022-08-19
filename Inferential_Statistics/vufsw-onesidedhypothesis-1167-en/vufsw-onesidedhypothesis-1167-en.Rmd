@@ -1,0 +1,93 @@
+Question
+========
+A researcher wants to test whether the proportion of Dutch students who
+have ever used cannabis is higher than 20%. The alternative hypothesis
+of the researcher is therefore as follows: H<sub>a</sub>: π &gt; 0.20.
+The observed proportion in the mentioned sample (n = 150) is 0.24.  
+  
+The researcher uses a significance level of 5% (alpha = 0.05).  
+  
+Is the null hypothesis H0 rejected in this study?
+
+Answerlist
+----------
+* Yes, because there is sufficient empirical evidence to assume that the
+  proportion of Dutch students who have ever used cannabis is higher than
+  0.20.
+* Yes, because there is not enough empirical evidence to assume that the
+  proportion of Dutch pupils who have ever used cannabis is higher than
+  0.20.
+* No, because there is sufficient empirical evidence to assume that the
+  proportion of Dutch students who have ever used cannabis is higher than
+  0.20.
+* No, because there is not enough empirical evidence to assume that the
+  proportion of Dutch school students who ever used cannabis is higher
+  than 0.20.
+
+Solution
+========
+
+
+
+
+
+The true answer is: No, because there is not enough empirical evidence
+to assume that the proportion of Dutch pupils who ever used cannabis is
+higher than 0.20.  
+  
+The alternative hypothesis is that the mean is higher than 0.2 and we
+found a proportion of 0.24. However,  
+  
+Compute the standard error (se) of the sampling distribution. se =
+sqrt\[ P \* ( 1 - P ) / n \]  
+where P is the hypothesized value of population proportion in the null
+hypothesis, and n is the sample size.  
+  
+For this example: σ = sqrt\[ P \* ( 1 - P ) / n \] = sqrt
+(0.2)(0.8)/150=0.033  
+  
+The test statistic is a z-score (z) defined by the following equation: z
+= (p - P) / se  
+where P is the hypothesized value of population proportion in the null
+hypothesis, p is the sample proportion, and se is the standard deviation
+of the sampling distribution.  
+z = (0.24-0.20)/0.033=1.22  
+  
+The critical value (one tailed) is 1.64.  
+  
+Because 1.22 is smaller than 1.64 there is not enough evidence.
+
+
+
+
+
+Language  
+Nederlands
+
+Levels of Difficulty  
+Medium
+
+M&T BIS  
+Default value
+
+M&T Hypothesis testing: proportions  
+Default value
+Answerlist
+----------
+* False
+* False
+* False
+* True
+
+Meta-information
+================
+exname: vufsw-onesidedhypothesis-1167-en
+extype: schoice
+exsolution: 0001
+exshuffle: TRUE
+exsection: inferential statistics/nhst/hypothesis/one sided hypothesis
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: english
+exextra[Level]: statistical thinking
+

@@ -1,0 +1,62 @@
+Question
+========
+If you were researching the effect of *hours* of training and
+*attitude *on the performance of a specific skill (e.g. the number of
+goals scored: *performance*), and the regression results give you the
+following regression equation, which of the following statements is
+true?  
+*p**e**r**f**o**r**m**a**n**c**e* = 1.23<sup>\*</sup> + 0.112 × *a**t**t**i**t**u**d**e* + 0.531<sup>\*</sup> × *h**o**u**r**s* + 0.167<sup>\*</sup> × *a**t**t**i**t**u**d**e* × *h**o**u**r**s*  
+  
+  
+\* indicates a statistically significant effect
+
+Answerlist
+----------
+* When the athlete’s attitude is positive there is a positive significant
+  relationship between hours of training and sports performance.
+* When the athlete’s attitude is positive there is a positive
+  non-significant relationship between hours of training and sports
+  performance.
+* When the athlete’s attitude is positive there is a negative significant
+  relationship between hours of training and sports performance.
+* When the athlete’s attitude is positive there is a negative
+  non-significant relationship between hours of training and sports
+  performance.
+
+Solution
+========
+
+
+
+
+
+*p**e**r**f**o**r**m**a**n**c**e* = 1.23<sup>\*</sup> + 0.112 × *a**t**t**i**t**u**d**e* + 0.531<sup>\*</sup> × *h**o**u**r**s* + 0.167<sup>\*</sup> × *a**t**t**i**t**u**d**e* × *h**o**u**r**s*  
+  
+The effect of hours on performance is:  
+  
+(0.531 + 0.167\*attitude). If *attitude *is positive, this number will
+always be positive. Since both the coefficient of the main effect of
+*hours* and the interaction effect are statistically significant, we
+expect the effect of *hours* to be always significant if *attitude* is
+positive.
+
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-equation-1022-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/regression/equation
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical literacy
+

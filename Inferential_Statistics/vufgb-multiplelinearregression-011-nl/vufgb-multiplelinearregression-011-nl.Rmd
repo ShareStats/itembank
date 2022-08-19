@@ -1,0 +1,32 @@
+Question
+========
+  
+Wat als de multipele correlatie *R* in een meervoudig regressiemodel een waarde 1 heeft? 
+
+  
+Answerlist
+----------
+* Dan is de conditionele variantie 0 en is er sprake van een sterk verband tussen de predictoren en de afhankelijke variabele.
+* Dan is de marginale variantie 0 en is er sprake van een sterk verband tussen de predictoren en de afhankelijke variabele.
+* Dan is de conditionele variantie 0 en is er sprake van een sterk verband tussen de predictoren onderling.
+* Dan is de marginale variantie 0 en is er sprake van een sterk verband tussen de predictoren onderling.
+
+Solution
+========
+
+Answerlist
+----------
+* Correct
+* Incorrect
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-multiplelinearregression-011-nl
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Regression/Multiple linear regression
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

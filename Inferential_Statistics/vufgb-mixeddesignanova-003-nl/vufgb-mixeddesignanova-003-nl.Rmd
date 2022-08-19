@@ -1,0 +1,28 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-mixeddesignanova-003-nl", recursive = TRUE)
+```
+
+Question
+========
+De volgende resultaten worden gevonden in *linear mixed model* voor herhaalde metingen. De variabele "Mate van openstellen" werd gemeten tijdens een interventie voor ouders met een verstandelijke beperking.
+
+![](vufgb-mixeddesignanova-003-nl.png)
+
+Wat is de juiste interpretatie van de variantieschatting "Intercept [subject = PPN]"?
+
+Answerlist
+----------
+* Ouders zijn zich meer gaan openstellen tijdens de interventie.
+* De mate waarin ouders zich bij start van de interventie al openstellen varieert.
+* De mate waarin ouders zich meer zijn gaan openstellen tijdens de interventie varieert.
+* De mate waarin ouders zich openstellen tijdens de interventie hangt af van het tijdstip.
+
+Meta-information
+================
+exname: vufgb-mixeddesignanova-003-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Mixed design ANOVA
+exextra[Type]: Interpretating output
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

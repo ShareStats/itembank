@@ -1,0 +1,49 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Capture2.gif")
+include_supplement("Capture3.gif")
+include_supplement("Capture4.gif")
+include_supplement("Capture5.gif")
+```
+
+Question
+========
+Je gebruikt een MANOVA met de prestaties van scholieren in 3 vakken
+(literatuur, essay writing en wiskunde) als afhankelijke variabelen.   
+  
+Wat is de cross-product error (CP<sub>M</sub>) tussen literatuur
+(*reading score*) en wiskunde (*math score*)? Rond af
+op **drie **decimalen   
+  
+Hieronder vind je de output.  
+  
+<img src="Capture2.gif" class="fr-fic fr-dii tvcss_2" alt="Capture2" />  
+<img src="Capture3.gif" class="fr-fic fr-dii tvcss_3" alt="Capture3" />  
+<img src="Capture4.gif" class="fr-fic fr-dii tvcss_4" alt="Capture4" />  
+<img src="Capture5.gif" class="fr-fic fr-dii tvcss_5" alt="Capture5" />
+
+
+Solution
+========
+
+
+
+
+
+Dit is te vinden in de Residual SSCP Matrix
+
+
+
+
+
+Meta-information
+================
+exname: vufsw-manova-0288-nl
+extype: num
+exsolution: 12629.561
+extol: 0
+exsection: inferential statistics/parametric techniques/anova/manova
+exextra[Type]: interpretating output
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical reasoning
+

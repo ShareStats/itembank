@@ -1,0 +1,66 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Screenshot__2021-02-13__at__12.28.08.png")
+```
+
+Question
+========
+Een onderzoeker heeft een regressie-analyse uitgevoerd om iemands
+interesse in politiek (Y) te voorspellen op basis van hoe vaak iemand
+per week nieuwsartikelen leest <span
+class="tvcss_2 tvcss_3 tvcss_4 tvcss_5 tvcss_6 tvcss_7">(X). </span>Politieke
+interesse is gemeten met een schaal die loopt van 1 (‘helemaal niet
+geïnteresseerd’) tot 10 (<span
+class="tvcss_2 tvcss_3 tvcss_4 tvcss_5 tvcss_6 tvcss_7">‘</span>zeer
+geïnteresseerd’). De formule die bij de regressielijn hoort staat
+hieronder.  
+Wat kun je zeggen over de **causaliteit** tussen X and Y?   
+  
+<img src="Screenshot__2021-02-13__at__12.28.08.png"
+class="fr-fic fr-dii tvcss_8" alt="Screenshot 2021-02-13 at 12.28.08" />
+
+Answerlist
+----------
+* Hoe vaak iemand per week nieuwsartikelen leest, is alleen causaal
+  gerelateerd aan iemands politieke interesse indien er geen extrapolatie
+  plaatsvindt buiten het waargenomen bereik.
+* Hoe vaak iemand per week nieuwsartikelen leest, is alleen causaal
+  gerelateerd aan iemands politieke interesse indien er geen *prediction
+  errors* (voorspellingsfouten) zijn.
+* Hoe vaak iemand per week nieuwsartikelen leest, is alleen causaal
+  gerelateerd aan iemands politieke interesse indien er geen *influential
+  outliers* (invloedrijke uitbijters) zijn.
+* We kunnen op basis van een regressie-analyse geen harde conclusie
+  trekken over de causaliteit en moeten goed nadenken over mogelijke
+  alternatieve verklaringen voor het gevonden verband.
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+Answerlist
+----------
+* False
+* False
+* False
+* True
+
+Meta-information
+================
+exname: vufsw-simplelinearregression-0076-nl
+extype: schoice
+exsolution: 0001
+exshuffle: TRUE
+exsection: inferential statistics/regression/simple linear regression
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical literacy
+

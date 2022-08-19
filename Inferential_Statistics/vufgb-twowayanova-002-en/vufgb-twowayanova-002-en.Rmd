@@ -1,0 +1,26 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-twowayanova-002-en.png", recursive = TRUE)
+```
+
+Question
+========
+We carried out a two-way ANOVA without interaction. Below, you see the resulting incomplete ANOVA table. Calculate the partial $\eta^2$ for RACE and describe the effect size.
+
+![](vufgb-twowayanova-002-en.png)
+
+Answerlist
+----------
+* 0.04. This is a *small to medium* effect.
+* 0.07. This is a *medium to large* effect.
+* 0.07. This is a *small to medium* effect.
+* 0.04. This is a *medium to large* effect.
+
+Meta-information
+================
+exname: vufgb-twowayanova-002-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
+exextra[Type]: Calculation, Case, Interpretating output
+exextra[Language]: English
+exextra[Level]: Statistical Thinking

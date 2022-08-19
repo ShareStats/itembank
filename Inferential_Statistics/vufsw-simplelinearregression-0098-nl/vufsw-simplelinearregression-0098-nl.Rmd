@@ -1,0 +1,65 @@
+Question
+========
+Een docent is geïnteresseerd in de invloed van het aantal uren dat
+studenten hebben gestudeerd ("**UREN**") op het tentamencijfer
+("**CIJFER**"). Hij voert een regressie-analyse uit met deze twee
+variabelen, met gegevens van een steekproef van 60 studenten.  
+  
+Gegeven is het volgende lineair model voor deze relatie: CIJFER = 2,80 +
+0,30 \* UREN.  
+  
+Bij een regressie veronderstellen we een ***lineaire*** relatie tussen X
+en Y. Wat houdt deze assumptie van lineariteit in bij het bovenstaande
+model?
+
+Answerlist
+----------
+* We gaan ervan uit dat het aantal UREN een invloed zal hebben op CIJFER,
+  *maar niet andersom*.
+* Dat houdt in dat we verwachten dat de invloed van UREN op CIJFER bij
+  elke vergelijkbare toename van het aantal UREN *hetzelfde* zal zijn.
+* Dat houdt in dat we verwachten dat de invloed van UREN op CIJFER
+  *positief* zal zijn.
+* We verwachten dat het effect opgaat voor *alle* studenten in onze
+  steekproef.
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+
+Language  
+Nederlands
+
+M&T Basics of quantitative research  
+Basics of quantitative research
+
+M&T BIS  
+Default value
+Answerlist
+----------
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-simplelinearregression-0098-nl
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: inferential statistics/regression/simple linear regression
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical reasoning
+

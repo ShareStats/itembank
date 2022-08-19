@@ -1,0 +1,64 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Capture2.gif")
+```
+
+Question
+========
+A psychologist was interested in whether the amount of news people watch
+(minutes per day) predicts how depressed they are (from 0 = not
+depressed to 7 = very depressed). What does the interpretation of the
+constant?  
+  
+<img src="Capture2.gif" class="fr-fic fr-dii enlargeimage tvcss_2"
+alt="Capture(2)" />
+
+Answerlist
+----------
+* The average depression when the variable news equals its mean
+* The average depression is 7.241 when news exposure increases by 1 unit.
+* As news exposure increases by 1 minute, depression increases by 7.241
+  units.
+* The average depression is 7.241 when news exposure is zero
+
+Solution
+========
+
+
+
+
+
+This is the definition of the interpretation of the constant. The
+constant represents the average value of the dependent variable Y when
+all the independent variables equal zero.
+
+
+
+
+
+Language  
+English
+
+M&T MVA  
+Standaardwaarde
+
+M&T Regression assumptions  
+Default value
+Answerlist
+----------
+* False
+* False
+* False
+* True
+
+Meta-information
+================
+exname: vufsw-simplelinearregression-1005-en
+extype: schoice
+exsolution: 0001
+exshuffle: TRUE
+exsection: inferential statistics/regression/simple linear regression
+exextra[Type]: interpretating output
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical reasoning
+

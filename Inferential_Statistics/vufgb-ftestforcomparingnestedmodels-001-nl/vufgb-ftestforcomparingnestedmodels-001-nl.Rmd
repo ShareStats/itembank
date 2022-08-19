@@ -1,0 +1,25 @@
+Question
+========
+Door middel van een modelvergelijkingstest (*Model Comparison Test*) worden de volgende 2 geneste modellen vergeleken. De steekproefgrootte is 50.
+
+* Gereduceerd model: $\hat{y} = a + b_1 x_1 + b_2 x_2 + b_3 x_3$
+* Compleet model: $\hat{y} = a + b_1 x_1 + b_2 x_2 + b_3 x_3 + b_4 x_1 x_2 + b_5 x_1 x_3$
+
+Vul de volgende zin aan: "De Model Comparison Test heeft in de teller ... vrijheidsgraden en in de noemer ... vrijheidsgraden."
+
+Answerlist
+----------
+* 2, 46
+* 2, 44
+* 4, 46
+* 6, 44
+
+Meta-information
+================
+exname: vufgb-ftestforcomparingnestedmodels-001-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Regression/Multiple linear regression/F-test for comparing (nested) models
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

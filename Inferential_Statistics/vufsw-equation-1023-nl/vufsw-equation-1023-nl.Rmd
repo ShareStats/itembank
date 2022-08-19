@@ -1,0 +1,39 @@
+Question
+========
+Als je het effect onderzocht van uren "*hours*" training (predictor) en
+houding "*attitude"* (moderator) op de prestaties van een specifieke
+vaardigheid (bijv. Aantal gescoorde goals: *performance*), en de
+regressieresultaten geven je de volgende regressievergelijking,
+hoeveel **is het effect van uren training** op prestaties als houding
+gelijk is aan het gemiddelde?  
+*  
+Alle variabelen in deze regressie zijn gecentreerd. Gebruik een punt als
+decimaal scheidingsteken en rond af naar 3 decimalen.*  
+  
+*p**e**r**f**o**r**m**a**n**c**e* = 1.23<sup>\*</sup> + 0.112 × *a**t**t**i**t**u**d**e* + 0.531<sup>\*</sup> × *h**o**u**r**s* + 0.167<sup>\*</sup> × *a**t**t**i**t**u**d**e* × *h**o**u**r**s*
+
+
+Solution
+========
+
+
+
+
+
+If attitude equals its mean then, since it is mean centered, it should
+be replaced by 0 in the regression equation.
+
+
+
+Meta-information
+================
+exname: vufsw-equation-1023-nl
+extype: num
+exsolution: 0.531
+extol: 0
+exsection: inferential statistics/regression/equation
+exextra[Type]: performing analysis
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical literacy
+

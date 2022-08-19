@@ -1,0 +1,76 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1606661124383.png")
+include_supplement("1605701561156.png")
+include_supplement("1605701548380.png")
+include_supplement("1605701537573.png")
+```
+
+Question
+========
+Onderstaande analyses zijn afkomstig van een representatieve steekproef
+uit de Nederlandse bevolking (ISSP, 2007). De vraag is of de ‘happiness’
+(variabele happy: schaal 1-4, een hogere score betekent dat men in het
+algemeen vaker gelukkig is) verschilt tussen niet-religieuze personen en
+religieuze personen met verschillende religies.  
+  
+<img src="1606661124383.png" class="fr-fic fr-dii tvcss_2"
+alt="1606661124383" /><img src="1605701561156.png" class="fr-fic fr-dii tvcss_3"
+alt="1605701561156" />  
+  
+  
+<img src="1605701548380.png" class="fr-fic fr-dii tvcss_4"
+alt="1605701548380" /> <img src="1605701537573.png" class="fr-fic fr-dii tvcss_5"
+alt="1605701537573" />  
+  
+Hoe kunnen we de uitkomsten van de analyse samenvatten?
+
+Answerlist
+----------
+* De F-toets wijst uit dat het aannemelijk is dat de gemiddelde
+  ‘happiness’ in de groepen niet gelijk is in de populatie, maar er is
+  niet aan de assumptie van homogeniteit van varianties voldaan, dus
+  kunnen we geen definitieve uitspraken doen
+* De F-toets wijst uit dat er onvoldoende bewijs is dat de gemiddelde
+  ‘happiness’ in de groepen niet gelijk is in de populatie, maar er is
+  niet aan de assumptie van homogeniteit van varianties voldaan, dus
+  kunnen we geen definitieve uitspraken doen
+* De F-toets wijst uit dat het aannemelijk is dat de gemiddelde
+  ‘happiness’ in de groepen niet hetzelfde is in de populatie. Omdat er
+  aan de assumptie van homogeniteit van varianties is voldaan, is dit de
+  samenvatting van de uitkomsten.
+* De F-toets wijst uit dat er onvoldoende bewijs is dat de gemiddelde
+  ‘happiness’ in de groepen niet gelijk is in de populatie. Omdat er aan
+  de assumptie van homogeniteit van varianties is voldaan, is dit de
+  samenvatting van de uitkomsten.
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+Answerlist
+----------
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-oneway anova-1321-nl
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/anova/oneway anova
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical thinking
+

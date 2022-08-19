@@ -1,0 +1,38 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-ftestforcomparingnestedmodels-007-nl-figure01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+Een F-toets wordt gebruikt om twee modellen met elkaar te vergelijken. Beide modellen staan weergegeven in onderstaande figuur. Wat is de nulhypothese die hoort bij deze F-toets?
+
+![](vufgb-ftestforcomparingnestedmodels-007-nl-figure01.jpg)
+  
+Answerlist
+----------
+* Geen effect van factor A.
+* Wel een effect van factor A.
+* Geen effect van de covariaat.
+* Wel een effect van de covariaat.
+
+Solution
+========
+
+Answerlist
+----------
+* Correct
+* Incorrect
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-ftestforcomparingnestedmodels-007-nl
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Regression/Multiple linear regression/F-test for comparing (nested) models
+exextra[Type]: Interpreting graph
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

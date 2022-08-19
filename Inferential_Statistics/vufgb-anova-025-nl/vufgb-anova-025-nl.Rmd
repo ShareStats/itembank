@@ -1,0 +1,38 @@
+Question
+========
+
+Bereken het aantal vrijheidsgraden behorend bij het Interactie-effect AB in een factoriele ANOVA met 3 X 3 design.
+  
+Answerlist
+----------
+* 2
+* 3
+* 4
+* 9
+
+Solution
+========
+
+$df = (g-1) \times (h-1) = (3-1) \times (3-1) = 2 \times 2 = 4$.
+
+Als je ANOVA model als regressiemodel met dummy variabelen uitschrijft krijg je twee dummy variabelen voor Factor 1 en twee dummy variabelen voor Factor 2. Dat levert in het regressiemodel $2 \times 2 = 4$ interactietermen op. Verschil in parameters tussen model met en zonder interactie is dan dus 4. 
+
+Dit is de redenering als je de *F*-toets opvat als model vergelijkingstoets! 
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Correct
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-anova-025-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA
+exextra[Type]: Calculation
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

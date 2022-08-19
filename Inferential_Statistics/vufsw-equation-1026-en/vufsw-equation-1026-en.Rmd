@@ -1,0 +1,86 @@
+Question
+========
+If you were researching the effect of *hours *of training (predictor)
+and *attitude *(moderator) on the performance of a specific skill (e.g.
+the number of goals scored: *performance*) and the regression results
+give you the following regression equation, which of the following
+statements is ***in*****correct**?  
+  
+*All the variables in this regression are mean-centred.*  
+  
+*p**e**r**f**o**r**m**a**n**c**e* = 1.23<sup>\*</sup> + 0.112 × *a**t**t**i**t**u**d**e* + 0.531<sup>\*</sup> × *h**o**u**r**s* + 0.167<sup>\*</sup> × *a**t**t**i**t**u**d**e* × *h**o**u**r**s*  
+  
+\* indicates a statistically significant effect
+
+Answerlist
+----------
+* The effect of hours training on the performance of a specific skill is
+  lower for higher scores of attitude than for lower scores of attitude.
+* The effect of hours training on the performance of a specific skill is
+  higher for higher scores of attitude than for lower scores of attitude.
+* The mean score in performance in a specific skill equals 1.23 if hours
+  of training and attitude equal its mean values.
+* If the variable hours of training equal its mean, then an increase of
+  attitude by 1 unit results in a mean increase of performance by 0.112
+  units.
+
+Solution
+========
+
+
+
+
+
+The correct answer is the option "*The effect of hours training on the
+performance of a specific skill is lower for higher scores of attitude
+than for lower scores of attitude"*. This is correct because the
+statement is incorrect! The regression equation shows that the
+interaction effect (0.167) is positive and not negative as the statement
+suggests. This means that the effect of hours on performance increases
+with attitude.  
+  
+The option "*The effect of hours training on the performance of a
+specific skill is higher for higher scores of attitude than for lower
+scores of attitude*" is incorrect because the statement is correct! The
+regression equation shows that the interaction effect (0.167) is
+positive. This means that the effect of hours on performance increases
+with attitude.  
+  
+The option "*The mean score in performance in a specific skill equals
+1.23 if hours of training and attitude equal its mean values*" is
+incorrect because the statement is correct! Both attitude and hours are
+mean-centred, so when these variables take their mean value, they should
+be replaced with 0 in the regression equation. This means that in that
+case, performance would equal the constant = 1.23.  
+*p**e**r**f**o**r**m**a**n**c**e* = 1.23<sup>\*</sup> + 0.112 × *a**t**t**i**t**u**d**e* + 0.531<sup>\*</sup> × *h**o**u**r**s* + 0.167<sup>\*</sup> × *a**t**t**i**t**u**d**e* × *h**o**u**r**s* = 1.23 + 0.112 × 0 + 0.531<sup>\*</sup> × 0 + 0.167<sup>\*</sup> × 0 × 0 = 1.23  
+  
+The option "*If the variable hours of training equal its mean, then an
+increase of attitude by 1 unit results in a mean increase of performance
+by 0.112 units*" is incorrect because the statement is correct! Hours
+training is mean-centred, so when this variable takes its mean value, it
+should be replaced with 0 in the regression equation. In this case, the
+effect of attitude on performance is 0.112.  
+  
+*p**e**r**f**o**r**m**a**n**c**e* = 1.23<sup>\*</sup> + 0.112 × *a**t**t**i**t**u**d**e* + 0.531<sup>\*</sup> × *h**o**u**r**s* + 0.167<sup>\*</sup> × *a**t**t**i**t**u**d**e* × *h**o**u**r**s* = 1.23 + 0.112 × *a**t**t**i**t**u**d**e* + 0.531<sup>\*</sup> × 0 + 0.167<sup>\*</sup> × *a**t**t**i**t**u**d**e* × 0 = 1.23 + 0.112 × *a**t**t**i**t**u**d**e*
+
+
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-equation-1026-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/regression/equation
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical literacy
+

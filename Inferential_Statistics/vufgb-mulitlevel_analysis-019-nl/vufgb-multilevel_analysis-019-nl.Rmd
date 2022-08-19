@@ -1,0 +1,32 @@
+Question
+========
+
+In een Linear Mixed Model wordt de volgende variantieschatting gevonden voor de regressiecoëfficiënt van tijd: 25.25 (se=12.12). Voer de juiste Wald toets uit (zoals deze ook in de SPSS output voor Mixed Models wordt gegeven) om te toetsen of er significante variatie is in het effect van Tijd. 
+  
+Answerlist
+----------
+* $Chi^{2} = 4.34$. De gevonden $Chi^{2}$-waarde is groter dan 3.84, dus de bijbehorende *p*-waarde kleiner dan .05. Dit betekent dat er wel significante variatie is in effect van tijd.
+* $Chi^{2} = 4.34$. De gevonden $Chi^{2}$-waarde is groter dan 3.84, dus de bijbehorende *p*-waarde groter dan .05. Dit betekent dat er geen significante variatie is in effect van tijd.
+* $z = 2.08$. De gevonden z-waarde is groter dan 1.96, dus de bijbehorende *p*-waarde groter dan .05. Dit betekent dat er geen significante variatie is in effect van tijd.
+* $z = 2.08$. De gevonden z-waarde is groter dan 1.96, dus de bijbehorende *p*-waarde kleiner dan .05. Dit betekent dat er wel significante variatie is in effect van tijd.
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Incorrect
+* Correct
+
+Meta-information
+================
+exname: vufgb-mulitlevel_analysis-019-nl
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Multilevel Analysis
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

@@ -1,0 +1,110 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1641299727441.png")
+```
+
+Question
+========
+In Nederland mogen gemeentes gedeeltelijk zelf de verdeling van hun
+zorguitgaven bepalen.  
+  
+Twee gemeentes vroegen zich af hoe tevreden inwoners zijn met de zorg
+die ze van de gemeente ontvangen (op een schaal van 1, zeer ontevreden
+tot 10, erg tevreden) en hebben deze vraag aan een aantal respondenten
+voorgelegd. Hieronder staan de resultaten van het onderzoek.  
+  
+De nulhypothese luidt dat er geen verschil in tevredenheid tussen de
+beide gemeentes is en voert hiervoor een ANOVA uit.  
+  
+Bereken op basis van bovenstaande gegevens de Mean Sum of Squares Model
+(MS<sub>M</sub>). *Rond af op 1 decimaal*  
+  
+<img src="1641299727441.png" class="fr-fic fr-dii tvcss_2"
+alt="1641299727441" />  
+  
+**  
+**
+
+
+Solution
+========
+
+
+
+
+
+gemeente A      score tevredenheid (schaal van 0 tot 10)               
+                                                                       
+        
+respondent 1    7              0,75       0,5625                       
+                            
+respondent 2    6              -0,25      0,0625                       
+                            
+respondent 3    5              -1,25      1,5625                       
+                            
+respondent 4    7              0,75       0,5625                       
+                            
+gemeente B                                                             
+                                         
+respondent 5    6              0,25       0,0625                       
+                            
+respondent 6    4              -1,75      3,0625                       
+                            
+respondent 7    5              -0,75      0,5625                       
+                            
+respondent 8    8              2,25       5,0625                       
+                            
+                                                                       
+                                        
+totaal gemiddelde=        6                                             
+                                                
+                                                                       
+                                        
+Total sum of squares= Σ(Y-Ῡ)²                                           
+                                                        
+Model sum of squares=Σnk\*(Ῡk-Ῡ)²                                       
+                                                                 
+Residual sum of
+squares=Σ(Y-Ῡk)²=(4-5)²+(5-5)²+(6-5)²+(6-6)²+(3-6)²+(9-6)²=20           
+                                                                        
+              
+Mean square model= MSS/dfm                                             
+                                                  
+Mean square residual= RSS/dfr=20/4=5                                   
+                                                            
+F=MSM/MSR                                                               
+                                     
+                                                                       
+                                        
+                                                                       
+                                        
+                                                                       
+                                        
+ gemeente A     6,25                       SSm       0,5               
+                           
+gemeente B       5,75                       SSr         11,5           
+                             
+                                               MSM     0,5/1=0,5       
+                                      
+                                               RSS     
+  11,5/6=1,916667                                                
+                                                                       
+                                        
+                F=           0,5/1,916667=0,261                      
+ een erg kleine F dus waarschijnlijk niet significant
+
+
+
+
+
+Meta-information
+================
+exname: vufsw-onewayanova-0257-nl
+extype: num
+exsolution: 0.5
+extol: 0
+exsection: inferential statistics/parametric techniques/anova/oneway anova
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: dutch
+exextra[Level]: statistical thinking
+

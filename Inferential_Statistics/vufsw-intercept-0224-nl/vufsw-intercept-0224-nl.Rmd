@@ -1,0 +1,73 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Screenshot__2021-03-16__at__15.15.45.png")
+```
+
+Question
+========
+Stel, we hebben een onderzoek uitgevoerd en een regressiemodel geschat
+om na te gaan welke factoren de mentale gezondheid onder werknemers
+beïnvloeden. Er wordt voorspeld dat hoge psychologische eisen, gebrek
+aan controle over het werk, en gebrek aan sociale ondersteuning op het
+werk allemaal de mentale gezondheid verminderen.  
+  
+We meten "mentale gezondheid" (Y) op een schaal van 0-100, waarbij een
+hogere score een betere mentale gezondheid betekent. Voor de kenmerken
+van de baan die iemand heeft, maken we een onderscheid tussen
+"psychologische eisen" (*X*1), "gebrek aan controle" (*X*2) en "gebrek
+aan sociale ondersteuning" (*X*3). We meten elke onafhankelijke
+variabele op een schaal van 0 (laag op dit kenmerk) t/m 4 (hoog op dit
+kenmerk).  
+  
+We vinden de onderstaande regressievergelijking.   
+  
+Wat is het intercept (de constante) en hoe moet je dit getal
+interpreteren?  
+<img src="Screenshot__2021-03-16__at__15.15.45.png"
+class="fr-fic fr-dii enlargeimage tvcss_2"
+alt="Screenshot 2021-03-16 at 15.15.45" />
+
+Answerlist
+----------
+* Het intercept = 61. Dit is de voorspelde mentale gezondheid als de baan
+  van de persoon 0 scoort op psychologische eisen, 0 scoort op gebrek aan
+  controle over de baan en 0 scoort op gebrek aan sociale ondersteuning.
+* Het intercept = (61-13-9-3=) 36. Dit is de voorspelde mentale gezondheid
+  als de baan van de persoon 0 scoort op psychologische eisen, 0 scoort op
+  gebrek aan controle over de baan en 0 scoort op gebrek aan sociale
+  ondersteuning.
+* Het intercept = 61. Dit is een betekenisloos getal en is alleen
+  opgenomen in de regressie-vergelijking om wiskundige redenen.
+* Het intercept = (61-13-9-3=) 36. Dit is een betekenisloos getal en is
+  alleen opgenomen in de regressie-vergelijking om wiskundige redenen.
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-intercept-0224-nl
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/regression/intercept
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical literacy
+

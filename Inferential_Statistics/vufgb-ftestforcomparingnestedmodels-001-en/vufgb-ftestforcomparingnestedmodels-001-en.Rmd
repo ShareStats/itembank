@@ -1,0 +1,25 @@
+Question
+========
+In a Model Comparison Test, the following 2 nested models are compared. The sample size is 50. 
+
+* Reduced model: $\hat{y} = a + b_1 x_1 + b_2 x_2 + b_3 x_3$
+* Complete model: $\hat{y} = a + b_1 x_1 + b_2 x_2 + b_3 x_3 + b_4 x_1 x_2 + b_5 x_1 x_3$
+
+Complete the following sentence: "The Model Comparison Test has in the numerator ... degrees of freedom and in the denominator ... degrees of freedom."
+
+Answerlist
+----------
+* 2, 46
+* 2, 44
+* 4, 46
+* 6, 44
+
+Meta-information
+================
+exname: vufgb-ftestforcomparingnestedmodels-001-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Regression/Multiple linear regression/F-test for comparing (nested) models
+exextra[Type]: Calculation
+exextra[Language]: English
+exextra[Level]: Statistical Thinking

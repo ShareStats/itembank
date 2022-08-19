@@ -1,0 +1,82 @@
+Question
+========
+If you increase the sample size by a factor of four, the width of the
+confidence interval will......
+
+Answerlist
+----------
+* increase by a factor of two.
+* increase by a factor of 4.
+* decrease by a factor of two.
+* decrease by a factor of 4.
+
+Solution
+========
+
+
+
+
+
+The answer: *increase by a factor of two *is **wrong**. It is true that
+the factor is 2, but increasing the sample size decreases the width of
+confidence intervals because it decreases the standard error. The
+standard error for a population percentage has the square root of the
+sample size in the denominator.  
+  
+The answer: *increase by a factor of 4* is **wrong**. Increasing the
+sample size decreases the width of confidence intervals because it
+decreases the standard error. Also, the standard error for a population
+percentage has the square root of the sample size in the denominator.
+Hence, increasing the sample size by a factor of 4 (i.e., multiplying it
+by 4) is equivalent to multiplying the standard error by 1/2.  
+  
+The answer: *decrease by a factor of two* is **correct**. The standard
+error for a population percentage has the square root of the sample size
+in the denominator. Hence, increasing the sample size by a factor of 4
+(i.e., multiplying it by 4) is equivalent to multiplying the standard
+error by 1/2. Hence, the interval will be half as wide.  
+  
+The answer: *decrease by a factor of 4* is **wrong**. It is true that it
+decreases but not by a factor of 4. The standard error for a population
+percentage has the square root of the sample size in the denominator.
+Hence, increasing the sample size by a factor of 4 (i.e., multiplying it
+by 4) is equivalent to multiplying the standard error by 1/2. Hence, the
+interval will be half as wide.  
+  
+If you would like to know more about sample sizes watch this
+[clip](https://www.youtube.com/watch?v=QHzMPzHQgEg&index=9&list=PLyLpEs0x9BnmPTE2RRRJW058Nf7R_2xQa).
+
+
+
+
+
+Language  
+Nederlands
+
+Levels of Difficulty  
+Difficult
+
+M&T BIS  
+Default value
+
+M&T Distributions  
+Default value
+Answerlist
+----------
+* False
+* False
+* True
+* False
+
+Meta-information
+================
+exname: vufsw-width-1233-en
+extype: schoice
+exsolution: 0010
+exshuffle: TRUE
+exsection: inferential statistics/confidence intervals/width
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical literacy
+

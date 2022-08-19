@@ -1,0 +1,55 @@
+Question
+========
+Welke assumptie moet in acht genomen worden wanneer er gebruikt wordt
+gemaakt van een Mixed Design ANOVA?
+
+Answerlist
+----------
+* Homogeneity of variances
+* Sphericity
+* Homogeneity of variances en sphericity
+* Homogeneity of covariance matrices
+
+Solution
+========
+
+
+
+
+
+In one-way ANOVA moeten de varianties van de residuen gelijk zijn voor
+alle groepen van de onafhankelijke variabele. Dit is de homogeneity of
+variances assumptie.  
+In Repeated Measures ANOVA moeten de varianties van de verschilscores
+van de condities gelijk zijn. Dit is de assumptie van Sphericity.  
+Een Mixed Design ANOVA is een combinatie van een between-groups design
+en een Repeated Measures design. Dus, de assumptie van homogeneity of
+variances moet gelden voor het between groups onderdeel en de assumptie
+van Sphericity voor het Repeated Measures onderdeel.  
+In MANOVA moeten de varianties van de residuen van elke afhankelijke
+variabele en de covarianties van alle paren van afhankelijke variabelen
+gelijk zijn voor alle groepen van de onafhankelijke variabele. Dit is de
+assuptie van Homogeneity of Covariance Matrices.
+
+
+
+
+Answerlist
+----------
+* False
+* False
+* True
+* False
+
+Meta-information
+================
+exname: vufsw-assumptions-0265-nl
+extype: schoice
+exsolution: 0010
+exshuffle: TRUE
+exsection: assumptions
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical literacy
+

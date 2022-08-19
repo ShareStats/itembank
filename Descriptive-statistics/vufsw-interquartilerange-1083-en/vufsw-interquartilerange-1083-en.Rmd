@@ -1,0 +1,87 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1580470436317.png")
+```
+
+Question
+========
+A curious researcher asked a sample of students in an online
+questionnaire about their shoe size. The box plot below shows the
+answers.  
+Based on the box plot, what was (about) the interquartile range?  
+  
+<img src="1580470436317.png" class="fr-fic fr-dii tvcss_2"
+alt="1580470436317" />
+
+Answerlist
+----------
+* 1 shoe size
+* 2 shoe sizes
+* 3 shoe sizes
+* 8 shoe sizes
+* 4 shoe sizes
+
+Solution
+========
+
+
+
+
+
+It is 3: from 39 - 42  
+The **interquartile range** is a measure of where the middle
+fifty[](https://www.statisticshowto.datasciencecentral.com/middle-fifty/)
+is in a data set. Where a
+range[ ](https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/statistics-definitions/range-statistics/)is
+a measure of where the beginning and end are in a set, **an
+interquartile range is a measure of where the bulk of the values
+lie.**That’s why it’s preferred over many other measures of
+spread[](https://www.statisticshowto.datasciencecentral.com/measures-of-spread/)
+(i.e. the average of
+median)[](https://www.statisticshowto.datasciencecentral.com/average/)[](https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/statistics-definitions/median-formula/)
+when reporting things like school performance or SAT scores. The
+interquartile range formula is the first quartile subtracted from the
+third quartile:  
+  
+**IQR = Q<sub>3</sub> – Q<sub>1</sub>.**
+
+
+
+
+
+Language  
+English
+
+Levels of Difficulty  
+Easy
+
+M&T Basics of quantitative research  
+Basics of quantitative research
+
+M&T BIS  
+Default value
+
+M&T Descriptive statistics  
+Default value
+
+M&T Distributions  
+Default value
+Answerlist
+----------
+* False
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-interquartilerange-1083-en
+extype: schoice
+exsolution: 00100
+exshuffle: TRUE
+exsection: descriptive statistics/summary statistics/measures of spread/interquartile range/ boxplot
+exextra[Type]: interpretating output
+exextra[Program]: calculator
+exextra[Language]: english
+exextra[Level]: statistical literacy
+

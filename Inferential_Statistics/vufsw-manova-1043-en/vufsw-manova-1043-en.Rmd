@@ -1,0 +1,58 @@
+Question
+========
+Which of the following statements is true about MANOVA  
+  
+I. MANOVA controls for the overall error rate, ensuring that the risk of
+Type I errors does not increase.  
+II. MANOVA is suitable to study the effect of an experimental
+manipulation on dependent variables which are not correlated with each
+other.
+
+Answerlist
+----------
+* Statement I is correct and statement II is incorrect.
+* Statement I is incorrect and statement II is correct.
+* Both statements are correct.
+* Both statements are incorrect.
+
+Solution
+========
+
+
+
+
+
+By analyzing simultaneously several dependent variables MANOVA corrects
+for the familywise error rate. Thus, the statement "It controls for the
+overall error rate, ensuring that the risk of Type I errors does not
+increase." is correct.  
+  
+MANOVA studies the effect of (at least one) independent variable on
+several dependent variables that are correlated with each other. If they
+are uncorrelation with each other, MANOVA makes no sense. therefore the
+statement" It is suitable to study the effect of an experimental
+manipulation on dependent variables which are not correlated with each
+other." is incorrect
+
+
+
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-manova-1043-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/anova/manova
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical reasoning
+

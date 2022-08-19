@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-homoscedasticity-001-nl-scatterplot01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+Een onderzoeker voert een lineaire regressie uit. Als eerste gaat hij na of er aan de aannames van het lineaire regressiemodel is voldaan. Hij ziet het volgende plaatje met residuscores.
+
+![](vufgb-homoscedasticity-001-nl-scatterplot01.jpg)
+  
+Welke aanname is hier geschonden?  
+  
+Answerlist
+----------
+* Aselecte trekking.
+* Homoscedasticiteit.
+* Lineair verband tussen x en y.
+* De conditionele verdeling van y is normaal verdeeld.
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Correct
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-homoscedasticity-001-nl
+extype: schoice
+exsolution: 0100
+exsection: Assumptions/Homoscedasticity, Assumptions, Descriptive statistics/Data representation/Graphs/Scatterplot
+exextra[Type]: Interpretating graph
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

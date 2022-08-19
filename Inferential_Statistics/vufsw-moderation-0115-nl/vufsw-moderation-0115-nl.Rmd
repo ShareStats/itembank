@@ -1,0 +1,98 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Screen__Shot__2020-04-30__at__22.56.25.png")
+```
+
+Question
+========
+Hieronder staat de resultaten van een stapsgewijze regressie-analyse. De
+afhankelijke variabele “**Rapportcijfer\_politie**” is iemands
+vertrouwen in de politie gemeten op een schaal die loopt van 1 (heel
+weinig vertrouwen) t/m 10 (heel veel vertrouwen).
+“**Migratieachtergrond** (1 = ja, 0 = nee) is een dummy variabele die
+aangeeft op iemand een migratieachtergrond heeft.
+"**Politie\_naar\_respondent**"** **is een dummy variabele die aangeeft
+of iemand het afgelopen jaar contact had met de politie omdat de politie
+naar hem/haar toekwam (score = 1) of iemand daarentegen geen contact had
+of iemand zelf naar de politie toeging (score = 0). Tot slot is
+"**Politie\_naar\_respondent\_Migratieachtergrond**"** **een
+multiplicatieve interactie-term van de variabelen Migratieachtergrond en
+Politie\_naar\_respondent.  
+  
+Bestudeer het regressiemodel met de interactie-term (Model 2).  
+  
+Stel, we vergelijken twee personen **zonder** een migratieachtergrond
+met elkaar, Donny en Klaas Jan. Donny heeft afgelopen jaar contact gehad
+met de politie omdat de politie naar hem toe kwam; Klaas Jan had het
+afgelopen jaar *geen* contact met de politie. Hoeveel lager is het
+geschatte vertrouwen in de politie van Donny in vergelijking met Klaas
+Jan?  
+  
+En stel dat we nu twee personen **met** een migratieachtergrond met
+elkaar vergelijken, Dušan en Hakim. Dušan heeft afgelopen jaar contact
+gehad met de politie omdat de politie naar hem toe kwam; Hakim had het
+afgelopen jaar *geen* contact met de politie. Hoeveel lager is het
+geschatte vertrouwen in de politie van Dušan in vergelijking met
+Hakim?  
+  
+<img src="Screen__Shot__2020-04-30__at__22.56.25.png"
+class="fr-fic fr-dii enlargeimage tvcss_2"
+alt="Screen Shot 2020-04-30 at 22.56.25" />
+
+Answerlist
+----------
+* Donny heeft **0,538***minder* vertrouwen in de politie dan Klaas Jan. En
+  Dušan heeft **1,144** (0,538 + 0,606) *minder* vertrouwen in de politie
+  dan Hakim.
+* Donny heeft **0,068** (0,606 – 0,538) *minder* vertrouwen in de politie
+  dan Klaas Jan. En Dušan heeft **0,606***minder* vertrouwen in de politie
+  dan Hakim.
+* Donny heeft **1,144** (0,606 + 0,538) *minder* vertrouwen in de politie
+  dan Klaas Jan. En Dušan heeft **0,606***minder* vertrouwen in de politie
+  dan Hakim.
+* Donny heeft **0,606***minder* vertrouwen in de politie dan Klaas Jan. En
+  Dušan heeft **1,144** (0,538 + 0,606) *minder* vertrouwen in de politie
+  dan Hakim.
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+
+Language  
+Nederlands
+
+Levels of Difficulty  
+Easy
+
+M&T Basics of quantitative research  
+Basics of quantitative research
+
+M&T BIS  
+Default value
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-moderation-0115-nl
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression/moderation
+exextra[Type]: interpretating output
+exextra[Program]: calculator
+exextra[Language]: dutch
+exextra[Level]: statistical literacy
+

@@ -1,0 +1,43 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-confidenceinterval-002-nl-table01.jpg", recursive = TRUE)
+```
+
+Question
+========
+  
+In de analyse die werd
+uitgevoerd op de data van 348 studenten werden drie variabelen gebruikt: cijfer op blackboardtoetsen
+(BBtot), cijfer op het practicum (PRA) en cijfer op het tentamen (tenteind). Er werd van tevoren
+aangenomen dat alle cijfers een positieve relatie met elkaar hebben.
+
+Bepaal het 95% betrouwbaarheidsinterval voor de regressiecoëfficiënt van PRA.
+
+![](vufgb-confidenceinterval-002-nl-table01.jpg)
+  
+Answerlist
+----------
+* $−0.067 < \beta_{2} < 0.382$
+* $−0.024 < \beta_{2} < 0.282$
+* $0.079 < \beta_{2} < 0.235$
+* $0.004 < \beta_{2} < 0.310$
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Incorrect
+* Correct
+
+Meta-information
+================
+exname: vufgb-confidenceinterval-002-nl
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Regression/Confidence interval, Inferential Statistics/Regression/R squared
+exextra[Type]: Calculation, Interpretating output
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

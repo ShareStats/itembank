@@ -1,0 +1,40 @@
+Question
+========
+
+In een one-way ANOVA worden de gemiddeldes van vier groepen vergeleken. 
+
+Bereken de rechteroverschrijdingskans die nodig is om de Bonferroni intervallen voor alle mogelijke paren van gemiddeldes op te kunnen stellen.
+  
+Answerlist
+----------
+* 0.0125
+* 0.00833
+* 0.00625
+* 0.00417
+
+Solution
+========
+
+Het aantal groepen is 4. Het aantal mogelijke paren is dan $(g-1) \times 2 = 3 \times 2 = 6$. 
+
+Het Bonferroni gecorrigeerde alpha niveau is dan $\frac{0.05}{6}$.
+
+De rechteroverschrijdingskans is daarvan de helft, dus $\frac{0.05}{(6 \times 2)} = \frac{0.05}{12} = 0.00417$.
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Incorrect
+* Correct
+
+Meta-information
+================
+exname: vufgb-posthoctest-004-nl
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Post-hoc test, Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Calculation
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

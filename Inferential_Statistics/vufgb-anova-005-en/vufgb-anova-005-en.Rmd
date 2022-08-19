@@ -1,0 +1,39 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-anova-005-en-venndiagram01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+In an ANOVA, the main effects of Factor A and B are included in the model. The research study has an unbalanced design, such that the overlap below is observed. What part of the explained variance of Y is assigned to Factor A if Type III sum of squares are used with Factor A included in the model first?
+
+![](vufgb-anova-005-en-venndiagram01.jpg)
+  
+Answerlist
+----------
+* 2+5+6+7
+* 5+6+7
+* 6+7
+* 7
+
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Incorrect
+* Correct
+
+Meta-information
+================
+exname: vufgb-anova-005-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA, Descriptive statistics/Data representation/Graphs/Venn diagram
+exextra[Type]: Interpreting graph, Conceptual
+exextra[Program]: 
+exextra[Language]: Englishh
+exextra[Level]: Statistical Literacy

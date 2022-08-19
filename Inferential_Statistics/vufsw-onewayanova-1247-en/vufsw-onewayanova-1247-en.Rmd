@@ -1,0 +1,64 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1644915328114.png")
+```
+
+Question
+========
+A researcher performs a regression analysis using SPSS and receives the
+following ANOVA table:  
+  
+<img src="1644915328114.png" class="fr-fic fr-dii tvcss_2"
+alt="1644915328114" />  
+  
+How much variance of Y is explained by this regression model?
+
+Answerlist
+----------
+* 4.2%
+* 4.8%
+* 5.1%
+* This can not be calculated on the basis of the above output.
+
+Solution
+========
+
+
+
+
+
+You can calculate the R<sup>2</sup> by (total sum of squares -residual)
+/ total sum of squares=(2564,601-2433,288)/ 2564,601=
+131,313/2564,601=0,051  
+Thus 5,1 %
+
+
+
+
+
+Levels of Difficulty  
+Difficult
+
+M&T Bivariate linear regression  
+Bivariate linear regression
+
+M&T Multivariate linear regression  
+Default value
+Answerlist
+----------
+* False
+* False
+* True
+* False
+
+Meta-information
+================
+exname: vufsw-onewayanova-1247-en
+extype: schoice
+exsolution: 0010
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/anova/oneway anova
+exextra[Type]: interpretating output
+exextra[Program]: calculator
+exextra[Language]: english
+exextra[Level]: statistical thinking
+

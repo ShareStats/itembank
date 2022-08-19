@@ -1,0 +1,26 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-chisquaredforindependence-001-en.png", recursive = TRUE)
+```
+
+Question
+========
+Consider a research study about the association between educational program and civic engagement. In this study, 100 Psychology students and 50 Mathematics students were surveyed. Specifically, researchers asked them whether they were considering to engage in volunteer activities during their program. The choices available to each person were "Yes", "No", and "Undecided." Listed below are the results of the survey. Determine the chi-squared test statistic to test independence and the degrees of freedom of the corresponding distribution. 
+
+![](vufgb-chisquaredforindependence-001-en.png)
+
+Answerlist
+----------
+* $χ^2$ = 1.73, with 6 degrees of freedom.
+* $χ^2$ = 7.69, with 6 degrees of freedom.
+* $χ^2$ = 1.73, with 2 degrees of freedom.
+* $χ^2$ = 7.69, with 2 degrees of freedom.
+
+Meta-information
+================
+exname: vufgb-chisquaredforindependence-001-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/Cross tables/Chi-Squared for Independence, 
+exextra[Type]: Calculation, Case
+exextra[Language]: English
+exextra[Level]: Statistical Thinking

@@ -1,0 +1,28 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-logisticregression-008-nl.png", recursive = TRUE)
+```
+
+Question
+========
+Gegeven is de volgende logistische curve. Deze hoort bij een logistische regressieanalyse. 
+
+![](vufgb-logisticregression-008-nl.png)
+
+Wat staat er op de Y-as?
+
+Answerlist
+----------
+* De kans op Y = 1.
+* De odds van de kans op Y = 1.
+* De logit van de kans op Y = 1.
+* De dichotome Y-variabele.
+
+Meta-information
+================
+exname: vufgb-logisticregression-008-nl
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Regression/Logistic regression
+exextra[Type]: Interpretating graph
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

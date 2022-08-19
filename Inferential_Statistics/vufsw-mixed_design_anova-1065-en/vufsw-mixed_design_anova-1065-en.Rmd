@@ -1,0 +1,60 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Capture12428.gif")
+```
+
+Question
+========
+On the basis of the output below, Field and Lawson (2003) reported the
+effects of giving the same children aged 7–9 years positive, negative or
+no information about novel animals. This variable was called 'Infotype'
+(levels of Infotype were entered in the following order: positive
+information, negative information, no information). The gender of the
+child was also examined. The outcome was the centred time taken for the
+children to put their hand in a box in which they believed either the
+positive, negative or no information animal was housed. The assumption
+of Sphericity is not violated.  
+  
+<img src="Capture12428.gif" class="fr-fic fr-dii tvcss_2"
+alt="Capture" />  
+Contrast analysis was performed on these data. Using the output given
+above, report the Mean Square that is used in the testing whether
+infotype led to significant differences irrespectively of gender. Round
+your answer to **three **decimal places.
+
+
+Solution
+========
+
+
+
+
+
+We look at the table with the Tests of Within Subject Effects. According
+to the question, the assumption of sphericity is not violated.
+Therefore, the correct answer is 4.588
+
+
+
+
+
+Language  
+English & Nederlands
+
+M&T Mixed design ANOVA  
+Default value
+
+M&T MVA  
+Standaardwaarde
+
+Meta-information
+================
+exname: vufsw-mixed design anova-1065-en
+extype: num
+exsolution: 4.588
+extol: 0
+exsection: inferential statistics/parametric techniques/anova/mixed design anova
+exextra[Type]: interpreting out
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical thinking
+

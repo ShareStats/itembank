@@ -1,0 +1,60 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("durbinwatson.png")
+```
+
+Question
+========
+This table shows information about whether one of the assumptions of
+linear regression is **not** met. Which assumption is that?  
+  
+<img src="durbinwatson.png" class="fr-fic fr-dii tvcss_2"
+alt="durbinwatson" />
+
+Answerlist
+----------
+* Independence of errors
+* Multicollinearity
+* Homoscedasticity
+* Normality of residuals
+
+Solution
+========
+
+
+
+
+
+This table shows the Durbin-Watson test, which tests for independence of
+errors (autocorrelation).
+
+
+
+
+
+Language  
+English
+
+M&T MVA  
+Standaardwaarde
+
+M&T Regression assumptions  
+Default value
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-assumptions-1009-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/regression/assumptions
+exextra[Type]: interpretating output
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical reasoning
+

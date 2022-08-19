@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-chisquared-005-nl-table01.jpg", recursive = TRUE)
+```
+
+Question
+========
+  
+In een onderzoek naar toekomstige levensplannen zijn 100 studenten psychologie en 50 studenten pedagogiek gevraagd of ze een Master gaan volgen na het voltooien van hun huidige Bachelorprogramma. Personen konden “Ja”, “nee” of “weet ik nog niet” antwoorden. In onderstaande tabel staan de resultaten. Bepaal de Chi-kwadraat toetsstatistiek die bij deze steekproef hoort en het aantal vrijheidsgraden (***degrees of freedom***) van de bijbehorende verdeling.
+
+![](vufgb-chisquared-005-nl-table01.jpg)
+
+  
+Answerlist
+----------
+* $\chi^{2} = 3.71$, met 6 vrijheidsgraden
+* $\chi^{2} = 11.63$,  met 6 vrijheidsgraden
+* $\chi^{2} = 3.71$,  met 2 vrijheidsgraden
+* $\chi^{2} = 11.63$,  met 2 vrijheidsgraden
+
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Incorrect
+* Correct
+
+Meta-information
+================
+exname: vufgb-chisquared-005-nl
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/NHST/Test statistic/Chi-squared
+exextra[Type]: Calculation
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

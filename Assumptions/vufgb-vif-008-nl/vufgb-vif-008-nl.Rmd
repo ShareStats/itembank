@@ -1,0 +1,36 @@
+Question
+========
+
+Een onderzoekster wil weten of er sprake is van extreme multicollineariteit in haar multipele lineaire regressie met drie predictoren. De multipele correlatie tussen $X_{1}$ en de andere twee predictoren is 0.90. Bereken de VIF waarde voor $X_{1}$. 
+
+Is er op basis van deze VIF waarde sprake van extreme multicollineariteit?
+  
+Answerlist
+----------
+* $VIF = 5.26$; wel extreme multicollineariteit
+* $VIF = 5.26$; geen extreme multicollineariteit
+* $VIF = 11.11$; geen extreme multicollineariteit
+* $VIF = 11.11$; wel extreme multicollineariteit
+
+Solution
+========
+
+Gebruik formule $VIF = \frac{1}{(1-R_{j}^{2})} = \frac{1}{(1-0.90^{2})} = \frac{1}{0.19} = 5.26$. Een VIF waarde van 10 of hoger wordt gezien als extreme multicollineairiteit. Waardes hoger dan 2-5 worden overigens gezien als 'mogelijk problematisch'.
+
+Answerlist
+----------
+* Correct
+* Incorrect
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-vif-008-nl
+extype: schoice
+exsolution: 1000
+exsection: Assumptions/Multicolinearity/VIF, Assumptions/Multicolinearity, Inferential Statistics/Regression/Multiple linear regression
+exextra[Type]: Conceptual, Calculation, Interpreting output
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

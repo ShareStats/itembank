@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-prediction-006-nl-scatterplot01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+Gegeven is onderstaande puntenwolk (‘scatterplot’) met regressielijn die het verband tussen armoede en moord in verschillende staten in de Verenigde Staten weergeeft. 
+
+Bepaal de voorspelde *y*-score ($\hat{y}$) voor de staat Lousiana (LA).
+
+![](vufgb-prediction-006-nl-scatterplot01.jpg)
+  
+Answerlist
+----------
+* 5.7
+* 14.6
+* 20.3
+* 26.3
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Correct
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-prediction-006-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Regression/Prediction, Descriptive statistics/Data representation/Graphs/Scatterplot, Inferential Statistics/Regression
+exextra[Type]: Interpreting graph
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

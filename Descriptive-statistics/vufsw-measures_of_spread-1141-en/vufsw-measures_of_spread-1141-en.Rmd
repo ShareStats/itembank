@@ -1,0 +1,84 @@
+Question
+========
+A researcher asks 10 people if they did not eat (0) or they did eat (1)
+vegetarian the previous day. This yields the data below.  
+  
+
+<table>
+<tbody>
+<tr class="odd">
+<td>Observation</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+</tr>
+<tr class="even">
+<td><em> x </em></td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+
+  
+The standard error of the proportion of people who eat vegetarian is ...
+
+Answerlist
+----------
+* 0.021
+* 0.145
+* 0.153
+* 0.458
+
+Solution
+========
+
+
+
+
+
+The standard error calculation is; se = sd / (√n)  
+  
+First calculate the sd: the root from difference between value and the
+mean, all sum than divide by the n and from that number again the
+root.  
+(7x(0,3)<sup>2</sup> + 3X (0,7)<sup>2</sup>)=  2.107  
+  
+SD = √ (2.107/10)= 0.459  
+SE= 0.459 / √10 = 0.145
+
+
+Answerlist
+----------
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-measures of spread-1141-en
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: descriptive statistics/summary statistics/measures of spread
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: english
+exextra[Level]: statistical literacy
+

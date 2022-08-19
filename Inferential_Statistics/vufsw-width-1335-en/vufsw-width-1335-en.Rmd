@@ -1,0 +1,59 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1631181429909.png")
+```
+
+Question
+========
+<img src="1631181429909.png" class="fr-fic fr-dii tvcss_2"
+alt="1631181429909" />  
+  
+Above is the correlation matrix showing the correlation between the
+degree of enjoyment experienced in literature classes earlier in school
+and subsequent attitudes toward reading. Via bootstrapping, the 95%
+confidence interval is shown running from .230 to .385.  
+  
+What does this interval mean?
+
+Answerlist
+----------
+* If we assume that this sample is among the 95% of samples that contain
+  the population value, the correlation in the population is between .230
+  and .385.
+* For 95%, you can be confident that the population value is between .230
+  and .385.
+* There is a 95% chance that the population value in the interval is
+  between .230 and .385.
+* With 95% confidence, the population value fluctuates between .230 and
+  .385.
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-width-1335-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/confidence intervals/width
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical reasoning
+

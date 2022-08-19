@@ -1,0 +1,28 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-mediation-006-nl.png", recursive = TRUE)
+```
+
+Question
+========
+In onderstaande tabel staat een deel van de uitkomsten van een mediatiemodel. 
+
+![](vufgb-mediation-006-nl.png)
+
+Bereken de standaardfout (*SE~ab~*) die hoort bij de Sobeltest voor het mediatie-effect.
+
+Answerlist
+----------
+* 0.95.
+* 1.40.
+* 1.46.
+* 1.76.
+
+Meta-information
+================
+exname: vufgb-mediation-006-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Regression/Multiple linear regression/Mediation
+exextra[Type]: Calculation, Interpretating output
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

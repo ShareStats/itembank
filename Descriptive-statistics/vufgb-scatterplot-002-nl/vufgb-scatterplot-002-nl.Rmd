@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-scatterplot-002-nl.png", recursive = TRUE)
+```
+
+Question
+========
+Gegeven is onderstaande puntenwolk (*scatterplot*).
+
+![](vufgb-scatterplot-002-nl.png)
+
+Welke conclusie is juist?
+
+Answerlist
+----------
+* Het verband tussen de variabelen is **negatief**. De *SSE* is **0**.
+* Het verband tussen de variabelen is **negatief**. De *SSE* is **1**.
+* Het verband tussen de variabelen is **positief**. De *SSE* is **0**.
+* Het verband tussen de variabelen is **positief**. De *SSE* is **1**.
+
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Correct
+* Incorrect
+
+
+Meta-information
+================
+exname: vufgb-scatterplot-002-nl
+extype: schoice
+exsolution: 0010
+exsection: Descriptive statistics/Data representation/Graphs/Scatterplot
+exextra[Type]: Interpretating graph
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-multicolinearity-004-nl-table01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+In een onderzoek wordt een vragenlijst op verschillende periodes van het jaar afgenomen. Groep 1 maakt de test in Januari, Groep 2 in Mei en Groep 3 in September. In totaal doen 51 personen mee. In onderstaande tabel staat voor elke groep het gemiddelde op de test, het aantal observaties en de standaardafwijking vermeld.
+
+![](vufgb-multicolinearity-004-nl-table01.jpg)
+  
+Welke van de volgende stellingen is juist? Als er sprake is van multicollineariteit dan... 
+  
+Answerlist
+----------
+* ...leidt het weglaten van één van de predictoren tot een relatief grote afname in $R^{2}$.
+* ...kan een model met significante $R^{2}$ grote P-waarden voor de predictoren geven.
+* ...worden de standaardfouten van de geschatte regressieparameters kunstmatig lager.
+* ...zullen de Variance Inflation Factors (VIFs) relatief laag zijn.
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Correct
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-multicolinearity-004-nl
+extype: schoice
+exsolution: 0100
+exsection: Assumptions/Multicolinearity, Inferential Statistics/Regression/R squared, Inferential Statistics/NHST/p-value
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

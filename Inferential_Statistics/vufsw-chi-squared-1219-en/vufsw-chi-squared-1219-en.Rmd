@@ -1,0 +1,102 @@
+Question
+========
+Consider the following contingency table with the variable income in the
+rows and the variable job satisfaction in the columns. The values in the
+cells are the observed frequencies. The values in parentheses are the
+expected frequencies.  
+  
+
+<table class="tvcss_2 tvcss_3 tvcss_4">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td class="tvcss_5"><br />
+</td>
+<td class="tvcss_6"><br />
+</td>
+<td colspan="2" class="tvcss_7 tvcss_8"><em>Job satisfaction</em><br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_5"><br />
+</td>
+<td class="tvcss_6"><br />
+</td>
+<td class="tvcss_9">Unsatisfied</td>
+<td class="tvcss_10">Satisfied</td>
+</tr>
+<tr class="odd">
+<td rowspan="3" class="tvcss_5 tvcss_11"><em>Income</em><br />
+</td>
+<td class="tvcss_6">Below modal</td>
+<td class="tvcss_9">20 (15)</td>
+<td class="tvcss_10">10 (15)</td>
+</tr>
+<tr class="even">
+<td class="tvcss_6">Modal</td>
+<td class="tvcss_9">20 (20)</td>
+<td class="tvcss_10">20 (20)</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_6">Above modal</td>
+<td class="tvcss_9">10 (15)</td>
+<td class="tvcss_10">20 (15)</td>
+</tr>
+</tbody>
+</table>
+
+  
+Perform a Chi-square (*X*<sup>2</sup>) test for the data presented in
+the table. What is the correct conclusion with α = 0.05?
+
+Answerlist
+----------
+* There is a statistical association between income and satisfaction,
+  because the observed *X*<sup>2</sup> is smaller than the critical
+  *X*<sup>2</sup>.
+* There is no statistical association between income and satisfaction,
+  because the observed *X*<sup>2</sup> is smaller than the critical
+  *X*<sup>2</sup>.
+* There is a statistical association between income and satisfaction,
+  because the observed *X*<sup>2</sup> is greater than the critical
+  *X*<sup>2</sup>.
+* There is no statistical association between income and satisfaction,
+  because the observed *X*<sup>2</sup> is greater than the critical
+  *X*<sup>2</sup>.
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-chi-squared-1219-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/nhst/test statistic/chi-squared
+exextra[Type]: performing analysis
+exextra[Program]: calculator
+exextra[Language]: english
+exextra[Level]: statistical thinking
+

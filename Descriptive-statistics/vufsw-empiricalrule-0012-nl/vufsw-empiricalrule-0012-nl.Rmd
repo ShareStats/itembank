@@ -1,0 +1,66 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("image001578cc6dc.gif")
+include_supplement("image002578cc6dc.gif")
+include_supplement("image003578cc6dc.gif")
+```
+
+Question
+========
+De beschrijvende statistieken van een variabele zien er als volgt uit:  
+  
+<img src="image001578cc6dc.gif" class="fr-fic fr-dii"
+alt="image001578cc6dc" />  
+<img src="image002578cc6dc.gif" class="fr-fic fr-dii"
+alt="image002578cc6dc" />  
+<img src="image003578cc6dc.gif" class="fr-fic fr-dii"
+alt="image003578cc6dc" />  
+  
+Welke van de onderstaande uitspraken over de empirische regel
+(“Empirical Rule”) is juist? Als de data normaal verdeeld is, dan geldt
+bij benadering dat ...
+
+Answerlist
+----------
+* 95% van de steekproefgemiddelden ligt tussen 1.30 en 2.54
+* 95% van de standaarddeviaties ligt tussen 0.28 en 0.34.
+* 95% van de standaardfouten ligt tussen 0.28 en 0.34.
+* 95% van de observaties ligt tussen 1.30 en 2.54.
+* 95% van de z-scores ligt tussen 1.30 en 2.54.
+
+Solution
+========
+
+
+
+
+
+The empirical rule is a statistical rule which states that for a normal
+distribution, almost all data will fall within three standard deviations
+of the mean. Broken down, the empirical rule shows that 68% will fall
+within the first standard deviation, 95% within the first two standard
+deviations, and 99.7% will fall within the first three standard
+deviations of the distribution's average.
+
+
+
+
+Answerlist
+----------
+* False
+* False
+* False
+* True
+* False
+
+Meta-information
+================
+exname: vufsw-empiricalrule-0012-nl
+extype: schoice
+exsolution: 00010
+exshuffle: TRUE
+exsection: distributions/continuous/normal
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical literacy
+

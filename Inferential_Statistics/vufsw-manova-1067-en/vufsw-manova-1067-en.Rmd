@@ -1,0 +1,59 @@
+Question
+========
+Which of the following 2 statements is/are correct for discriminant
+analysis as a follow-up to MANOVA?  
+  
+I. Discriminant analysis predicts the category of experimental
+manipulation from the dependent variables of MANOVA  
+II. With discriminant analysis we decide which of the 4 tests of MANOVA
+(Pillai's trace, Roy's Largest Root, Wilk's Lamda and Hotellings Trace)
+to use.
+
+Answerlist
+----------
+* Both statements I and II are correct
+* Both statements I and II are **in**correct
+* Statement I is correct, while statement II is **in**correct
+* Statement I is **in**correct, while statement II is correct
+
+Solution
+========
+
+
+
+
+
+The  statement "Discriminant analysis predicts the category of
+experimental manipulation from the dependent variables of MANOVA" is
+correct. Discriminant Analysis turns around the situation of MANOVA. The
+dependent variables of MANOVA are used as predictors in discriminant
+analysis, while the independent variable of MANOVA (the experimental
+manipulation) is the dependent variable.  
+  
+The  statement " With discriminant analysis we decide which of the 4
+tests of MANOVA (Pillai's trace, Roy's Largest Root, Wilk's Lamda and
+Hotellings Trace) to use" is incorrect. Discriminant analysis has
+nothing to do with it.
+
+
+
+
+Answerlist
+----------
+* False
+* False
+* True
+* False
+
+Meta-information
+================
+exname: vufsw-manova-1067-en
+extype: schoice
+exsolution: 0010
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/anova/manova
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical reasoning
+

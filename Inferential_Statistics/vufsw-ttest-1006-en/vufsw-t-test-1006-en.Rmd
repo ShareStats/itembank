@@ -1,0 +1,61 @@
+Question
+========
+What is the significance test for a b-coefficient (t-test) testing?
+
+Answerlist
+----------
+* It tests the null hypothesis that, in the population, the coefficient is
+  zero against the alternative hypothesis that the coefficient in the
+  population is **not **zero
+* It tests the null hypothesis that, in the population, the coefficient
+  equals the same value as the one found for the sample against the
+  alternative hypothesis that the coefficient in the population does
+  **not** equal the same value as the one found for the sample
+* It tests the null hypothesis that the coefficient is **not **zero in the
+  population against the alternative hypothesis that the coefficient in
+  the population is zero
+* It tests whether the P-value of the coefficient equals 0.05
+
+Solution
+========
+
+
+
+
+
+The significance test for the b-coefficient tests the following:  
+  
+*H*<sub>*0*</sub> : *b* = 0  
+*H*<sub>*a*</sub> : *b* ≠ 0
+
+
+
+
+
+Language  
+English
+
+M&T MVA  
+Standaardwaarde
+
+M&T Regression assumptions  
+Default value
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-t-test-1006-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/t-test
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical literacy
+

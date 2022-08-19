@@ -1,0 +1,36 @@
+Question
+========
+
+Pim heeft bij zijn proefpersonen depressieve klachten gedurende vier weken elke week gemeten. De helft van de proefpersonen kreeg gedurende vier weken een behandeling aangeboden, de andere helft niet. Pim wil met behulp van een herhaalde metingen ANOVA toetsen of het effect van tijd op depressieve klachten anders verloopt bij mensen die aan de behandeling hebben meegedaan vergeleken met mensen die de behandeling niet hebben gekregen.
+
+Wat voor soort variabele is Tijd in de herhaalde metingen ANOVA?
+  
+Answerlist
+----------
+* Error variabele
+* Mixed variabele
+* Within-Subjects Factor
+* Between-Subjects Factor
+
+Solution
+========
+
+In herhaalde metingen ANOVA wordt onderscheid gemaakt tussen Within-Subjects Factoren en Between-Subjects Factoren. Within-Subjects Factoren zijn variabelen die herhaaldelijk binnen dezelfde personen gemeten worden, en die dus in waarde kunnen variëren binnen dezelfde persoon. Between-Subjects Factoren zijn variabelen die niet herhaaldelijk worden gemeten. Waardes variëren niet binnen personen maar wel tussen personen. Tijd is dus een Within-Subjects Factor.
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Correct
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-onewayrepeatedmeasuresanova-022-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway repeated measures ANOVA
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

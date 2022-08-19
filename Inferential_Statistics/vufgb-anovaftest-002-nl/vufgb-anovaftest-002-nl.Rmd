@@ -1,0 +1,36 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-anovaftest-002-nl-graph-01.png", recursive = TRUE)
+```
+Question
+========
+  
+Vul onderstaande tabel aan met resultaten van een eenwegs ANOVA. Wat is de *F*-waarde, en wat betekent dit?
+
+![](vufgb-anovaftest-002-nl-graph-01.png)
+  
+Answerlist
+----------
+* *F* = 3.00, de variantie tussen groepen is groter dan de variantie binnen groepen.
+* *F* = 0.33, de variantie tussen groepen is kleiner dan de variantie binnen groepen.
+* *F* = 3.00, de variantie binnen groepen is groter dan de variantie tussen groepen.
+* *F* = 0.33, de variantie binnen groepen is kleiner dan de variantie tussen groepen.
+
+Solution
+========
+
+Answerlist
+----------
+* Correct
+* Incorrect
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-anovaftest-002-nl
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANOVA F-test, Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA,
+exextra[Type]: Calculation, Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

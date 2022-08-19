@@ -1,0 +1,58 @@
+Question
+========
+Welke van de volgende uitspraken over MANOVA is waar?  
+   
+I. MAVOVA controleert voor alle residuele variantie en zorgt ervoor dat
+het risico op fouten van type I niet toeneemt.  
+II. MANOVA is geschikt om het effect van een experimentele manipulatie
+op afhankelijke variabelen die niet met elkaar gecorreleerd zijn, te
+bestuderen.
+
+Answerlist
+----------
+* Uitspraak I is correct en uitspraak II is incorrect.
+* Uitspraak I is incorrect en uitspraak II is correct.
+* Beide uitspraken zijn correct.
+* Beide uitspraken zijn incorrect.
+
+Solution
+========
+
+
+
+
+
+By analyzing simultaneously several dependent variables MANOVA corrects
+for the familywise error rate. Thus, the statement "It controls for the
+overall error rate, ensuring that the risk of Type I errors does not
+increase." is correct.  
+  
+MANOVA studies the effect of (at least one) independent variable on
+several dependent variables that are correlated with each other. If they
+are uncorrelation with each other, MANOVA makes no sense. therefore the
+statement" It is suitable to study the effect of an experimental
+manipulation on dependent variables which are not correlated with each
+other." is incorrect
+
+
+
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-manova-1043-nl
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/anova/manova
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical reasoning
+

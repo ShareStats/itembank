@@ -1,0 +1,84 @@
+Question
+========
+We onderzoeken het effect van uren "*hours"* training en houding
+"*attitude*" op de prestaties "*performance*" van een specifieke
+vaardigheid (bijv. Aantal gescoorde goals).  
+  
+Voor dit doel voeren we 2 regressies uit met performance als de
+afhankelijke variabele. In de eerste regressie worden hours training en
+attitude opgenomen als onafhankelijke variabelen, terwijl we in de
+tweede regressie ook de interactie tussen hours training en attitude
+toevoegen als een onafhankelijke variabele.  
+  
+We voeren de F-test uit voor de R<sup>2</sup>-verandering om te
+beslissen of we de tweede regressie in plaats van de eerste kiezen.  
+  
+  
+De volgende regressievergelijking verwijst naar de tweede regressie.
+Welke van de volgende uitspraken over de R<sup>2</sup>-verandering en de
+F-test van de R<sup>2</sup>-verandering is aannemelijk?  
+  
+*p**e**r**f**o**r**m**a**n**c**e* = 1.23<sup>\*</sup> + 0.112 × *a**t**t**i**t**u**d**e* + 0.531<sup>\*</sup> × *h**o**u**r**s* + 0.167<sup>\*</sup> × *a**t**t**i**t**u**d**e* × *h**o**u**r**s*  
+  
+\* betekent statistisch significant
+
+Answerlist
+----------
+* R<sup>2</sup> change = 0.051, F(1,537)=4.2537, P-value=0.0396
+* R<sup>2</sup> change = 0.051, F(1,537)=4.2537, P-value=0.396
+* R<sup>2</sup> change = -0.001, F(1,537)=4.2537, P-value=0.0396
+* R<sup>2</sup> change = -0.001, F(1,537)=4.2537, P-value=0.396
+
+Solution
+========
+
+
+
+
+
+These numbers indicate an increase in the R<sup>2 </sup>due to the
+inclusion of the interaction in the regression and a statistically
+significant F-test for the R<sup>2 </sup>change. The interaction effect
+between attitude and hours is statistically significant (see the \* that
+is placed next to it in the regression equation). In the case of a
+single interaction, the F-test of the R<sup>2</sup> change always agrees
+with the t-test of the interaction. When a variable is included in the
+regression the R<sup>2 </sup>always increases, at least by a tiny bit.
+In no whatsoever case can the R<sup>2 </sup>decrease due to the
+inclusion of a variable in the regression. Moreover, the interaction
+effect between attitude and hours is statistically significant (see the
+\* that is placed next to it in the regression equation). In the case of
+a single interaction, the F-test of the R<sup>2</sup> change always
+agrees with the t-test of the interaction.
+
+
+
+
+
+Language  
+English
+
+M&T Dimitris Pavlopoulos  
+Default value
+
+M&T Moderation  
+Default value
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-r squared change-1028-nl
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression/r squared change
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical literacy
+

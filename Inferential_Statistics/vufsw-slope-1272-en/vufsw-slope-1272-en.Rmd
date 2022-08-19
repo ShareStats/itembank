@@ -1,0 +1,73 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1553595822664.png")
+```
+
+Question
+========
+A researcher runs a multiple regression to determine which factors
+affect how much people **watch TV** (Y). The data come from the
+*European Social Survey* of 2014. The questionnaire is administered to a
+random sample of residents of the Netherlands 18 years old or older
+(N=1362). The dependent variable Y is measured with a question with
+answer options varying from 1 (“less than half an hour per day”) to 7
+(“more than 3 hours per day”). **Education** (Educyrs) is measured in
+the number of years that the respondent has followed education. The
+scores in this variable vary from 0 to 28 years. The table below
+presents the results of this regression.  
+  
+<img src="1553595822664.png" class="fr-fic fr-dii tvcss_2"
+alt="1553595822664" />  
+  
+Fill in the blanks:  
+  
+If an individual that has followed the 10 years in education is compared
+with someone that has followed 11 years of education, we expect a lower
+score in watching TV by **\_\_\_\_\_\_\_\_\_\_\_ \[Text 1\]**.  
+  
+If we run a two-sided test with a significance level of 5% (α = 0.05),
+we can conclude that the effect of the number of years of education is
+significant, because the P-value equals **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\[Text 2\].**
+
+Answerlist
+----------
+* **Text 1:** 0.113. **Text 2:** 0.045.
+* **Text 1:** 0.113. **Text 2:** 0.013.
+* **Text 1:** 0.172. **Text 2:** 0.045.
+* **Text 1:** 0.172. **Text 2:** 0.013.
+* **Text 1:** 2.495. **Text 2:** 0.013.
+* **Text 1:** 2.495. **Text 2:** 0.045
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+Answerlist
+----------
+* False
+* True
+* False
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-slope-1272-en
+extype: schoice
+exsolution: 010000
+exshuffle: TRUE
+exsection: inferential statistics/regression/slope
+exextra[Type]: interpretating output
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical literacy
+

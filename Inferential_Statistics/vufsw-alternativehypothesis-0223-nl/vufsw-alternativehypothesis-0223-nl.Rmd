@@ -1,0 +1,66 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Screenshot__2021-03-16__at__15.15.45.png")
+```
+
+Question
+========
+Stel, we hebben een onderzoek uitgevoerd en een regressiemodel geschat
+om na te gaan welke factoren de mentale gezondheid onder werknemers
+beïnvloeden. Er wordt voorspeld dat hoge psychologische eisen, gebrek
+aan controle over het werk, en gebrek aan sociale ondersteuning op het
+werk allemaal de mentale gezondheid verminderen.  
+  
+We meten "mentale gezondheid" (Y) op een schaal van 0-100, waarbij een
+hogere score een betere mentale gezondheid betekent. Voor de kenmerken
+van de baan die iemand heeft, maken we een onderscheid tussen
+"psychologische eisen" (*X*1), "gebrek aan controle" (*X*2) en "gebrek
+aan sociale ondersteuning" (*X*3). We meten elke onafhankelijke
+variabele op een schaal van 0 (laag op dit kenmerk) t/m 4 (hoog op dit
+kenmerk).  
+  
+We vinden de volgende regressievergelijking (zie onder) :  
+Wat is de alternatieve hypothese voor het effect van psychologische
+eisen op iemands mentale gezondheid?  
+  
+<img src="Screenshot__2021-03-16__at__15.15.45.png"
+class="fr-fic fr-dii enlargeimage tvcss_2"
+alt="Screenshot 2021-03-16 at 15.15.45" />
+
+Answerlist
+----------
+* Ha: β = 0
+* Ha: β &gt; 0
+* Ha: β &lt; 0
+* Ha: β ≠ 0
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+Answerlist
+----------
+* False
+* False
+* True
+* False
+
+Meta-information
+================
+exname: vufsw-alternativehypothesis-0223-nl
+extype: schoice
+exsolution: 0010
+exshuffle: TRUE
+exsection: inferential statistics/nhst/hypothesis/alternative hypothesis
+exextra[Type]: test choise
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical reasoning
+

@@ -1,0 +1,38 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-nullhypothesis-008-nl-figure01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+In onderstaande plaatje staan de univariate en multivariate verwerpingsgebieden voor $Y_{1}$ en $Y_{2}$ dat voor minimaal 1 uitkomst de nulhypothese wordt verworpen. Stel, in een steekproef wordt de combinatie van steekproefgemiddelden punt P gevonden. Wat zijn dan de conclusies bij univariaat en multivariaat toetsen?
+
+![](vufgb-nullhypothesis-008-nl-figure01.jpg)
+  
+Answerlist
+----------
+* Univariaat: wel $H_{0}$ verwerpen. ; Multivariaat: wel $H_{0}$ verwerpen.
+* Univariaat: wel $H_{0}$ verwerpen. ; Multivariaat: niet $H_{0}$ verwerpen.
+* Univariaat: niet $H_{0}$ verwerpen. ; Multivariaat: wel $H_{0}$ verwerpen.
+* Univariaat: niet $H_{0}$ verwerpen. ; Multivariaat: niet $H_{0}$ verwerpen.
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Correct
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-nullhypothesis-008-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/NHST/Hypothesis/Null hypothesis
+exextra[Type]: Interpreting graph
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

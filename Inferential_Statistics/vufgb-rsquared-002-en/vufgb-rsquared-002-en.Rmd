@@ -1,0 +1,43 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-rsquared-002-en-table01.jpg", recursive = TRUE)
+```
+
+Question
+========
+  
+From the regression analysis performed on survey data on 99 participants it is apparent that there is a statistically significant positive
+association between the number of minutes per day someone watches television and that person's *cholesterol concentration*. Part of the
+regression output is provided below.
+
+What percentage of the total variance in cholesterol concentration is explained in this model?
+  
+  
+![](vufgb-rsquared-002-en-table01.jpg)
+
+Answerlist
+----------
+  * 35.9%
+* 64.1%
+* 12.9%
+* 87.1%
+
+Solution
+========
+  
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Correct
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-rsquared-002-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Regression/R squared
+exextra[Type]: Interpretating output
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Thinking

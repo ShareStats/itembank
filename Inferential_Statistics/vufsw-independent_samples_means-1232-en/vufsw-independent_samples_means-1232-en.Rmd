@@ -1,0 +1,56 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Capture.gif")
+```
+
+Question
+========
+A researcher draws a random sample of 200 employees of a multinational.
+The questionnaire that they filled out contained a question about the
+respondent's income. The employer claims that there should be no
+difference in income between men (group 1) and women (group 2). The
+researcher expects that women earn less than men and tests this
+expectation with α = 0.05. Below are the results. The analysis takes
+account of relevant control variables (not visible in the output).  
+   
+<img src="Capture.gif" class="fr-fic fr-dii tvcss_2" alt="Capture" />   
+For this question, use the results of "Equal Variances not Assumed". The
+H<sub>0</sub> is not rejected because ...
+
+Answerlist
+----------
+* p &gt; α.
+* The value 0 falls within the 95% confidence interval.
+* a and b are both correct.
+* This conclusion is incorrect. H<sub>0</sub> has to be be rejected.
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-independent samples means-1232-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/t-test/independent samples means
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical literacy
+

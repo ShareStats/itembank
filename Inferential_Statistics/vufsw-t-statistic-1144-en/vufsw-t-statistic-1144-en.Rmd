@@ -1,0 +1,71 @@
+Question
+========
+A researcher asks 160 randomly chosen people what the ideal group size
+(in number of persons) is to work as a team on an assignment. The
+respondents' response is on average 6.3, with a standard deviation of
+2.8. The researcher tests whether this average deviates significantly
+from a test average of 8.  
+  
+Suppose that instead of 160 people, only 80 people would have
+participated in the study, and that the average (6.3) and standard
+deviation (2.8) would be the same. What does the decrease in the number
+of respondents mean for the calculated (observed) t-value?
+
+Answerlist
+----------
+* The t-value is unchanged.
+* The absolute t-value has become smaller.
+* The absolute t-value has become higher.
+* Data is missing to calculate the t-value
+
+Solution
+========
+
+
+
+
+
+The absolute t-value has become smaller.  
+  
+t=mean-mean(test)/se and the se=S/ √n  
+  
+If n becomes smaller than the se becomes higher, thus t becomes
+smaller.  
+  
+If you want to know more about this t-test watch this  
+[clip](https://www.youtube.com/watch?v=9V6L3Zu3PP0&index=3&list=PLyLpEs0x9BnkUdochj7JEC-2javLshojj)
+
+
+
+
+
+Language  
+Nederlands
+
+Levels of Difficulty  
+Difficult
+
+M&T BIS  
+Default value
+
+M&T Hypothesis testing: means  
+Default value
+Answerlist
+----------
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-t-statistic-1144-en
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: inferential statistics/nhst/test statistic/t-statistic
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical reasoning
+

@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-mixeddesignanova-005-nl", recursive = TRUE)
+```
+
+Question
+========
+Er worden twee linear mixed models gebruikt:
+
+* Een model met fixed lineair effect van tijd (4 parameters);
+* En een model met een random lineair effect van tijd (5 parameters). 
+
+![](vufgb-mixeddesignanova-005-nl.png)
+
+Voer een *likelihood-ratio test* uit om te toetsen of er sprake is van een random effect van Tijd.
+
+Answerlist
+----------
+* $χ^2 (df = 1) = 22.22$; $p < .001$.
+* $χ^2 (df = 5) = 22.22$; $p < .001$.
+* $χ^2 (df = 1) = 24.22$; $p < .001$.
+* $χ^2 (df = 5) = 24.22$; $p < .001$.
+
+Meta-information
+================
+exname: vufgb-mixeddesignanova-005-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Mixed design ANOVA
+exextra[Type]: Calculation, Case, Interpretating output
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

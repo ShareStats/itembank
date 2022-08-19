@@ -1,0 +1,48 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-oddsratio-004-nl-table01.jpg", recursive = TRUE)
+```
+
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-oddsratio-004-nl-table02.jpg", recursive = TRUE)
+```
+
+Question
+========
+  
+Zie onderstaande logistische regressie-output. In de analyse werd de diagnose depressie (ja=1) door een psychiater voorspeld op basis van de score op de General Health Questionnaire (GHQ) en geslacht (vrouw=1).
+
+![](vufgb-oddsratio-004-nl-table01.jpg)
+  
+Uit hetzelfde data is gegeven de volgende 2 × 2 tabel voor sekse en diagnose.
+
+![](vufgb-oddsratio-004-nl-table02.jpg)  
+  
+Hoe groot is de Odds ratio?
+  
+Answerlist
+----------
+* 17800.28
+* 1.04
+* 0.01
+* 2.55
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Correct
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-oddsratio-004-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Regression/Logistic regression/Odds ratio, Descriptive statistics/Data representation/Tables
+exextra[Type]: Calculation, Interpretating graph
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

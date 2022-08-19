@@ -1,0 +1,42 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-ftestforcomparingnestedmodels-009-nl-table01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+Gegeven zijn de ANOVA tabellen van twee geneste regressiemodellen: een model met twee predictoren, en een model met twee predictoren en hun interactie. 
+
+Gebruik de modelvergelijkingstest (Model Comparison Test) om te bepalen of er sprake is van significante interactie.
+
+![](vufgb-ftestforcomparingnestedmodels-009-nl-table01.jpg)
+  
+Answerlist
+----------
+* $F(df1=3, \; df2=21)= 3.16 > 3.07$, dus significante interactie
+* $F(df1=1, \; df2=3)= 0.57 <10.13$, dus geen significante interactie
+* $F(df1=1, \; df2=21)= 1.82 < 4.32$, dus geen significante interactie
+* $F(df1=1, \; df2=1)= 0.54 < 161.4$, dus geen significante interactie
+
+Solution
+========
+
+$F= \frac{[(SSE_{r}-SSE_{c})/df_{1}]}{[SSE_{c}/df_{2}]} =\frac{[(565-520)/1]}{[520/21]} = \frac{45}{24.76}=1.82$. Met $df_{1}=1$ (verschil in df’s tussen compleet en gereduceerd model) en $df_{2}=21$ (df van SSE in complete model). Zoek in de F-tabel op bij $df_{1}=1$ en $df_{2}=21$ wat de kritieke F-waarde is, dit is 4.32. Gevonden F < kritieke F, dus het toevoegen van de interactie-term in model 2 leidt niet tot significant minder error, dus is er geen significante interactie.
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Correct
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-ftestforcomparingnestedmodels-009-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Regression/Multiple linear regression/F-test for comparing (nested) models, Inferential Statistics/Parametric Techniques/ANOVA
+exextra[Type]: Performing analysis, Calculation, Interpreting output
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

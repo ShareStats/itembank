@@ -1,0 +1,96 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1547820971946.png")
+```
+
+Question
+========
+The table below describes data from a survey held at a museum.  
+  
+
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><br />
+</td>
+<td class="tvcss_2">Managerial position<br />
+</td>
+<td class="tvcss_3">Supporting function<br />
+</td>
+<td class="tvcss_4">Hired as a freelancer<br />
+</td>
+<td class="tvcss_5">Total</td>
+</tr>
+<tr class="even">
+<td>Men</td>
+<td class="tvcss_2">12</td>
+<td class="tvcss_3">20</td>
+<td class="tvcss_4">11</td>
+<td class="tvcss_5">43</td>
+</tr>
+<tr class="odd">
+<td>women</td>
+<td class="tvcss_2">8</td>
+<td class="tvcss_3">26</td>
+<td class="tvcss_4">9</td>
+<td class="tvcss_5">43</td>
+</tr>
+<tr class="even">
+<td>Total</td>
+<td class="tvcss_2">20</td>
+<td class="tvcss_3">46</td>
+<td class="tvcss_4">20</td>
+<td class="tvcss_5">86</td>
+</tr>
+</tbody>
+</table>
+
+  
+Are gender and type of job at this museum independent of each other?
+Test with alpha = .05.
+
+Answerlist
+----------
+* Yes, because the observed chi-squared is larger than the critical
+  chi-squared.
+* Yes, because the observed chi-square is smaller than the critical
+  chi-square. .
+
+Solution
+========
+
+
+
+
+
+The critical value can be found in the table. The observed value can be
+calculated with:  
+  
+<img src="1547820971946.png" class="fr-fic fr-dii tvcss_7"
+alt="1547820971946" />  
+f<sub>0</sub> is the observed number en f<sub>e </sub>is the expected
+number. r = row and c = column.
+
+Answerlist
+----------
+* False
+* True
+
+Meta-information
+================
+exname: vufsw-chi-squared for independence-1262-en
+extype: schoice
+exsolution: 01
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/cross tables/chi-squared for independence
+exextra[Type]: performing analysis
+exextra[Program]: calculator
+exextra[Language]: english
+exextra[Level]: statistical thinking
+

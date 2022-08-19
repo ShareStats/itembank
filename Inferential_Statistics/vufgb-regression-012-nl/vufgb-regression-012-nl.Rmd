@@ -1,0 +1,36 @@
+Question
+========
+
+Bij Multipele regressie geldt voor de se van parameter $b_{j}$:
+
+$se = \frac{1}{\sqrt{1-R^{2}_{j}}}$x$\frac{s}{s_{xj}\sqrt{n-1}}$
+
+Dit laat zien dat se het hoogst is indien de correlatie tussen de predictoren ... is en de standaardafwijking op predictor j ... .
+  
+Answerlist
+----------
+* groot, klein
+* groot, groot
+* klein, klein
+* klein, groot
+
+Solution
+========
+
+Answerlist
+----------
+* Correct
+* Incorrect
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-regression-012-nl
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Regression, Inferential Statistics/Regression/Residuals
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

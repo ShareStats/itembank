@@ -1,0 +1,43 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-proportion-001-nl-table01.jpg", recursive = TRUE)
+```
+
+Question
+========
+  
+(Chronische) depressiviteit komt bij mannen en vrouwen in verschillende mate voor. Bereken op basis van onderstaande kruistabel het relatieve risico voor depressiviteit om deze samenhang weer te geven.
+
+![](vufgb-proportion-001-nl-table01.jpg)
+  
+Formule voor relative risk:
+
+$rr = \frac{\pi_{1}}{\pi_{2}}$
+
+Answerlist
+----------
+* 1.21
+* 1.75
+* 1.81
+* 2.19
+
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Correct
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-proportion-001-nl
+extype: schoice
+exsolution: 0100
+exsection: Descriptive statistics/Summary Statistics/Proportion, Descriptive statistics/Data representation/Tables
+exextra[Type]: Calculation
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

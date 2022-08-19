@@ -1,0 +1,56 @@
+Question
+========
+What is the correct z-score for a 97% confidence interval for a
+population proportion?
+
+Answerlist
+----------
+* 1.88
+* 1.96
+* 2.05
+* 2.17
+
+Solution
+========
+
+
+
+
+
+It is 2.17.  
+  
+Explanation: 3% left and right, thus 1,5 % left for the table = 98,5.  
+Look at 0.985 in the table (table: Standard Normal Cumulative
+Probabilities) and it is 2.17.
+
+
+
+
+
+Levels of Difficulty  
+Easy
+
+M&T Distributions  
+Default value
+
+M&T Hypothesis testing: proportions  
+Default value
+Answerlist
+----------
+* False
+* False
+* False
+* True
+
+Meta-information
+================
+exname: vufsw-confidencelevel-1180-en
+extype: schoice
+exsolution: 0001
+exshuffle: TRUE
+exsection: inferential statistics/confidence intervals/confidence level
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical literacy
+

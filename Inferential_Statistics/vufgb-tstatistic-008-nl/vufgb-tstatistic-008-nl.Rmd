@@ -1,0 +1,40 @@
+Question
+========
+  
+Gegeven is een *t*-verdeling met 23 vrijheidsgraden. 
+
+Bij welke *t*-waarde ligt 97.5% van de waardes aan de rechterkant?
+  
+Answerlist
+----------
+* -2.500
+* -2.069
+* 2.069
+* 2.500 
+
+Solution
+========
+
+Kijk in de *t*-tabel bij $df = 23$.
+
+Een *t*-waarde van 2.069 geeft een rechter overschrijdingskans van 2.5%. Dat betekent dat er 2.5% van de waardes aan de rechterkant ligt. Bij een *t*-waarde van -2.069 ligt er 2.5% van de waardes aan de linkerkant, en dus 97.5% van de waardes aan de rechterkant.
+
+Tip: Teken de *t*-verdeling en zet de *t*-waardes en bijbehorende overschrijdingskansen van de 4 antwoordopties erin!
+
+Answerlist
+----------
+* Incorrect
+* Correct
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-tstatistic-008-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/NHST/Test statistic/t-statistic, Distributions/Continuous/t-distribution
+exextra[Type]: Interpreting output
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

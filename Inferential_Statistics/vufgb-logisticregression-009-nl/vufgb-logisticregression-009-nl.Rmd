@@ -1,0 +1,28 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-logisticregression-009-nl.png", recursive = TRUE)
+```
+
+Question
+========
+Gegeven is onderstaande frequentietabel. Deze betreft de nominale variabele "Gehechtheidsrelatie". De steekproef bestond uit 80 kinderen. 
+
+![](vufgb-logisticregression-009-nl.png)
+
+Bereken de *baseline logit* van de kans op een uitkomst "Avoidant", wanneer "Secure" de referentiecategorie is.
+
+Answerlist
+----------
+* -2.08
+* -1.61
+* 2.08
+* 1.61
+
+Meta-information
+================
+exname: vufgb-logisticregression-009-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Regression/Logistic regression
+exextra[Type]: Calculation, Case, Interpretating output
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

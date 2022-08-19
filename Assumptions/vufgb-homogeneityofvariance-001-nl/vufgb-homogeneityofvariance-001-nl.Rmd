@@ -1,0 +1,28 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-homogeneityofvariance-001-nl.png", recursive = TRUE)
+```
+
+Question
+========
+  Onderstaande figuur geeft 3 populatieverdelingen weer.
+
+![](vufgb-homogeneityofvariance-001-nl.png)
+
+Welke assumptie van ANOVA met $\grave{e}\grave{e}n$ factor (of: "Groep") wordt hier geschonden?
+  
+Answerlist
+----------
+* Dat de populatieverdelingen normaal verdeeld zijn.
+* Dat de populatievariantie in elke groep hetzelfde is.
+* Dat de populatieverdelingen onafhankelijk zijn.
+* Dat het populatiegemiddelde in elke groep hetzelfde is.
+
+Meta-information
+================
+exname: vufgb-homogeneityofvariance-001-nl
+extype: schoice
+exsolution: 0100
+exsection: Assumptions/Homogeneity of variance, Distributions/Continuous/Normal, Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Conceptual, Interpretating graph
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

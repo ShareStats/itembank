@@ -1,0 +1,75 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Untitled.png")
+```
+
+Question
+========
+Hieronder zijn de uitkomsten van twee afzonderlijke regressies
+weergegeven (voor vrouwen en mannen apart). “**Gender**” is een dummy
+variabele die iemands sekse meet (0 = man; 1 = vrouw). De afhankelijke
+variabele “**CGPA**” staat voor iemands *College Grade Point Average* en
+meet iemands studieprestaties op een schaal van 2,5 (minimale score) t/m
+4,0 (maximale score). “**WatchTV**” is een variabele die aangeeft
+hoeveel minuten per dag iemand doorgaans besteedt aan tv kijken.  
+We voeren een tweezijdige toetsing uit met α = 0,05 (alpha =5%). Wat
+kunnen we op basis van deze uitkomsten concluderen?   
+  
+<img src="Untitled.png" class="fr-fic fr-dii enlargeimage tvcss_2"
+alt="Untitled" />
+
+Answerlist
+----------
+* Bij mannen heeft tv kijken een significante *negatieve *invloed op
+  iemands studieprestaties, bij vrouwen heeft tv kijken een significante
+  *positieve* invloed op iemands studieprestaties.
+* Bij mannen heeft tv kijken een significante negatieve invloed op iemands
+  studieprestaties, bij vrouwen heeft tv kijken *geen* significante
+  invloed op iemands studieprestaties.
+* Bij zowel mannen als vrouwen heeft tv kijken een significante positieve
+  invloed op iemands studieprestaties.
+* Bij zowel mannen als vrouwen heeft tv kijken *geen* significante invloed
+  op iemands studieprestaties.
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+
+Language  
+Nederlands
+
+Levels of Difficulty  
+Easy
+
+M&T Basics of quantitative research  
+Basics of quantitative research
+
+M&T BIS  
+Default value
+Answerlist
+----------
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-moderation-0028-nl
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression/moderation
+exextra[Type]: interpretating output
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical literacy
+

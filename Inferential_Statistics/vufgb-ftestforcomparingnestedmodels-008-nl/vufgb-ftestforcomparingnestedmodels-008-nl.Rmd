@@ -1,0 +1,39 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-ftestforcomparingnestedmodels-008-nl-table01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+Gegeven zijn de ANOVA tabellen van twee geneste regressiemodellen: een model met twee predictoren, en een model met twee predictoren en hun interactie. Gebruik de model- vergelijkingstest (‘Model Comparison Test’) om te bepalen of er sprake is van significante interactie.
+
+![](vufgb-ftestforcomparingnestedmodels-008-nl-table01.jpg)
+  
+Answerlist
+----------
+* *F*(df1=3, df2=30)= 4.48 > 2.92, dus significante interactie
+* *F*(df1=3, df2=29)= 4.33 > 2.93, dus significante interactie
+* *F*(df1=1, df2=30)= 13.45 > 4.17, dus significante interactie
+* *F*(df1=1, df2=29)= 13.00 > 4.18, dus significante interactie
+
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Incorrect
+* Correct
+
+Meta-information
+================
+exname: vufgb-ftestforcomparingnestedmodels-008-nl
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Regression/Multiple linear regression/F-test for comparing (nested) models
+exextra[Type]: Performing analysis, Interpreting output, Calculation
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

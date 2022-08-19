@@ -1,0 +1,39 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-odds-006-nl-table01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+In een logistische regressieanalyse wordt de diagnose ADHD voorspeld aan hand van de variabelen leeftijd (in jaren) en sekse (0=jongen, 1=meisje). In onderstaande tabel staat de output. Wat is de kans dat een twaalfjarige jongen ADHD heeft?
+
+![](vufgb-odds-006-nl-table01.jpg)
+  
+Answerlist
+----------
+* 0.03
+* 0.04
+* 0.07
+* 0.36
+
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Correct
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-odds-006-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Regression/Logistic regression/Odds
+exextra[Type]: Interpreting output, Calculation
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

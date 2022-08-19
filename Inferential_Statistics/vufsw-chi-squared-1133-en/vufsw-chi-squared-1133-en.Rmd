@@ -1,0 +1,116 @@
+Question
+========
+An investigation among the members of a large trade union organization
+on the relationship between their degree of involvement (low, middle,
+high) at the trade union and their participation in a strike (yes, no)
+provides the following data:  
+  
+
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><br />
+</td>
+<td><em>involvement</em></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><br />
+</td>
+<td>low</td>
+<td>middle</td>
+<td> high</td>
+<td>                 total</td>
+</tr>
+<tr class="odd">
+<td><em>participation in strike</em></td>
+<td><br />
+</td>
+<td><br />
+</td>
+<td><br />
+</td>
+<td><br />
+</td>
+</tr>
+<tr class="even">
+<td>yes  </td>
+<td>30                           </td>
+<td>25</td>
+<td>  70</td>
+<td>                 125</td>
+</tr>
+<tr class="odd">
+<td>no</td>
+<td>70</td>
+<td>25</td>
+<td>  30</td>
+<td>                 125</td>
+</tr>
+<tr class="even">
+<td>total</td>
+<td>100</td>
+<td>50                     </td>
+<td>100</td>
+<td>                 250</td>
+</tr>
+</tbody>
+</table>
+
+  
+What is the critical *chi* square value in this test with a significance
+level  alpha= 0.05?
+
+Answerlist
+----------
+* 1.96
+* 3.84
+* 5.99
+* 124.3
+
+Solution
+========
+
+
+
+
+
+The degrees of freedom (df) is 2 and alpha=0.05, so the critical value
+of *chi* square is 5.99 (see table)  
+(1.96 is the critical value of the *t* distribution with more than 100
+degrees of freedom. )  
+(3.84 is the critical value of the *chi* square distribution if there is
+only one degree of freedom)  
+(124.3 is the critical value of the *chi* square distribution if there
+are 100 degrees of freedom)
+
+
+
+Answerlist
+----------
+* False
+* False
+* True
+* False
+
+Meta-information
+================
+exname: vufsw-chi-squared-1133-en
+extype: schoice
+exsolution: 0010
+exshuffle: TRUE
+exsection: inferential statistics/nhst/test statistic/chi-squared
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical literacy
+

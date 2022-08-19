@@ -1,0 +1,35 @@
+Question
+========
+
+Er worden twee geneste binaire logistische regressiemodellen met elkaar vergeleken. Het eerste model bevat 1 predictor en geeft een -2 Log-Likelihood waarde van 65. Het tweede model bevat 2 predictoren en geeft een -2 Log-Likelihood waarde van 62. 
+
+Voer een chi-kwadraat toets uit om te toetsen of het model met de tweede predictor significant meer verklaart dan het model 
+zonder de tweede predictor.
+  
+Answerlist
+----------
+* $\chi^{2}(df = 1) = 9, p < .05$
+* $\chi^{2}(df = 2) = 9, p < .05$
+* $\chi^{2}(df = 1) = 3, p > .05$
+* $\chi^{2}(df = 2) = 3, p > .05$
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Correct
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-multilevel_analysis-020-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Multilevel Analysis
+exextra[Type]: Performing analysis
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

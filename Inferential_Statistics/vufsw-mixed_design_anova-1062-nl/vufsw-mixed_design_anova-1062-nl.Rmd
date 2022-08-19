@@ -1,0 +1,83 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Capture5.png")
+```
+
+Question
+========
+Er is een experiment uitgevoerd om het effect van een gesprek via een
+handsfree mobiele telefoon, een gesprek met een passagier in de auto en
+geen afleiding/distraction (baseline) op de rijnauwkeurigheid te
+vergelijken. Twintig deelnemers uit twee verschillende leeftijdsgroepen
+(18-25 jaar en 26-40 jaar) namen deel. Alle deelnemers in beide
+leeftijdsgroepen namen deel aan alle drie de condities van het
+experiment (in tegengestelde volgorde) en hun rijnauwkeurigheid werd
+gemeten door een iemand die zich niet bewust was van de experimentele
+hypothese. Welke van de volgende zinnen is de juiste interpretatie van
+het main effect van distraction?  
+  
+  
+<img src="Capture5.png" class="fr-fic fr-dii tvcss_2 tvcss_3"
+alt="Capture(5)" />
+
+Answerlist
+----------
+* Het hoofdeffect van distraction is significant, *F* (2, 36) = 45.95,  *p
+  &lt;* .001.  Dit effect geeft aan dat ratings van rijnauwkeurigheid
+  verschillen tussen de drie types van distraction
+* Het hoofdeffect van distraction is significant, *F*(1.681, 30.257) =
+  45.95, *p &lt;* .001. Dit effect geeft aan dat ratings van
+  rijnauwkeurigheid verschillen tussen de drie types van distraction.
+* De interactie tussen de leeftijd van de bestuurder en de type van
+  distraction is significant, *F*(2,36) = 45.95, *p* &lt; .001. Dit effect
+  geeft aan dat ratings van rijnaukeurigheid verschillen tussen de twee
+  leeftijdsgroepen.
+* Het is onmogelijk het hoofdeffect van distraction te intepreteren omdat
+  de assumptie van sphericiteit geschonden is.
+
+Solution
+========
+
+
+
+
+
+Mauchly's test for sphericity shows that the assumption of sphericity is
+not violated. Therefore, we look at the row 'Sphericity assumed". The
+question is about the main effect, so we look at the first panel of the
+table. The F-value is *F* (2, 36) = 45.95 and the p-value is .000.
+Therefore, the option " The main effect of distraction is significant,
+ *F* (2, 36) = 45.95,  *p*  = .00. This effect tells us that the profile
+of ratings of driving accuracy differed across the three types of
+distraction" is correct.
+
+
+
+
+
+Language  
+English & Nederlands
+
+M&T Mixed design ANOVA  
+Default value
+
+M&T MVA  
+Standaardwaarde
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-mixed design anova-1062-nl
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/anova/mixed design anova
+exextra[Type]: interpreting out
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical thinking
+

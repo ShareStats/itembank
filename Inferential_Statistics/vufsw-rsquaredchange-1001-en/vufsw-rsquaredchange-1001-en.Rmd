@@ -1,0 +1,56 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Capture5.gif")
+```
+
+Question
+========
+A consumer researcher was interested in what factors influence people's
+fear responses to horror films. She measured gender (0 = female, 1 =
+male) and how much a person is prone to believe in things that are not
+real (fantasy proneness) on a scale from 0 to 4 (0 = not at all
+fantasy-prone, 4 = very fantasy-prone). Fear responses were measured on
+a scale from 0 (not at all scared) to 15 (the most scared I have ever
+felt). How much variance (as a percentage) in fear is shared by gender
+and fantasy proneness in the **population**? Give a percentage as a
+response without the % symbol (e.g. 10.1). Use only one decimal.  
+  
+<img src="Capture5.gif"
+class="fr-fic fr-dii enlargeimage tvcss_2 tvcss_3" alt="Capture(5)" />
+
+
+Solution
+========
+
+
+
+
+
+Since you are asked to provide the percentage of explained variance in
+the population, the correct answer is the Adjusted R<sup>2</sup> and not
+the R<sup>2</sup>.
+
+
+
+
+
+Language  
+English
+
+M&T MVA  
+Standaardwaarde
+
+M&T Regression assumptions  
+Default value
+
+Meta-information
+================
+exname: vufsw-rsquaredchange-1001-en
+extype: num
+exsolution: 13.5
+extol: 0
+exsection: inferential statistics/regression/multiple linear regression/r squared change
+exextra[Type]: interpretating output
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical reasoning
+

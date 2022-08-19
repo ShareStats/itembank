@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-ancova-030-nl-figure01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+Een onderzoeker is geïnteresseerd in het effect van medicatiegebruik op depressieve klachten van vrouwen tijdens de zwangerschap. Zij deelt een steekproef van vrouwen aselect in een groep die antidepressiva krijgt (SSRI), een placebo krijgt (Placebo), of op een wachtlijst komt (WL). Ze doet een pretest en posttest van de depressieve klachten (respectievelijk DVpre en DVpost). Ze voert een analyse uit en maakt onderstaande figuur. 
+
+Welke analysetechniek heeft zij gebruikt?
+
+![](vufgb-ancova-030-nl-figure01.jpg)
+  
+Answerlist
+----------
+* Eenwegs variantieanalyse (‘One-way ANOVA’)
+* Tweewegs variantieanalyse (‘Two-way ANOVA’)
+* Driewegs variantieanalyse (‘Three-way ANOVA’)
+* Covariantieanalyse (ANCOVA)
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Incorrect
+* Correct
+
+Meta-information
+================
+exname: vufgb-ancova-030-nl
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA
+exextra[Type]: Interpreting graph, Test choice
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

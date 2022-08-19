@@ -1,0 +1,38 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-anova-021-nl-venndiagram01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+In een ANOVA worden de hoofdeffecten van Factor A en Factor B opgenomen. De studie in kwestie heeft een ongebalanceerd design, waardoor onderstaande overlap het gevolg is. Welke verklaarde variantie van Y wordt toegeschreven aan Factor B indien er Type I kwadratensommen worden bepaald en Factor B het eerst in het model wordt geplaatst?
+
+![](vufgb-anova-021-nl-venndiagram01.jpg)
+  
+Answerlist
+----------
+* 4 + 5 + 6
+* 4 + 7
+* 4 + 6
+* 4
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Correct
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-anova-021-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA, Descriptive statistics/Data representation/Graphs/Venn diagram
+exextra[Type]: Interpreting graph
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

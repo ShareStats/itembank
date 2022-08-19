@@ -1,0 +1,45 @@
+Question
+========
+  
+Het gemiddelde in een steekproef van 25 personen is 15, de variantie 9. 
+
+Bereken het 95% betrouwbaarheidsinterval voor het populatiegemiddelde.
+  
+Answerlist
+----------
+* 13.82 ; 16.18
+* 13.76 ; 16.24
+* 11.28 ; 18.72
+* 14.75 ; 15.25
+
+Solution
+========
+
+$95\% \; BI:\;gemiddelde\pm t._{025}\times se$
+
+Je moet dus eerst de t-waarde vinden en de standaardfout uitrekenen.
+
+*t*-waarde bij $df=n-1=25-1=24:\;2.064$
+
+$se = \frac{s}{\sqrt{n}} = \frac{3}{5} = 0.6$
+
+Invullen geeft: $15 \pm 2.064 \times 0.6 \rightarrow 13.76\; ;\; 16.24$
+
+
+Answerlist
+----------
+* Incorrect
+* Correct
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-onesamplemean-047-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/t-test/One sample mean, confidence interval
+exextra[Type]: Calculation
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

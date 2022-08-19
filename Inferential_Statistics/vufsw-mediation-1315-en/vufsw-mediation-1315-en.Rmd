@@ -1,0 +1,67 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1606293471454.png")
+include_supplement("1606293416277.png")
+```
+
+Question
+========
+The analyses below were carried out on data from a sample of young
+adults aged between 20 and 40 years who were interviewed via a
+questionnaire about their cultural preferences. The research questions
+are:  
+  
+1: to what extent the preference for cultural holidays (variable: CULVAC
+(scale 0-1): a higher score means a stronger preference for cultural
+holidays) is caused by the social position of the parental environment
+(measured is the education of the parents (variable: FAMEDUC (scale
+0-7), ranging from primary education (0) to university (7), a higher
+score means a higher education) and  
+  
+2: whether this relationship can be explained by the own achieved level
+of education (variable: EDUC (scale 0-6), ranging from lower vocational
+education (0) to university (6), a higher score means a higher
+education).  
+  
+Below are the results of two regression analyses.  
+  
+Regression analysis 1:  
+  
+<img src="1606293471454.png" class="fr-fic fr-dii tvcss_2"
+alt="1606293471454" />  
+  
+  
+Regression analysis 2:  
+  
+<img src="1606293416277.png" class="fr-fic fr-dii tvcss_3"
+alt="1606293416277" />  
+  
+What is the indirect effect (mediation effect) of 'FAMEDUC' through
+'EDUC' on 'CULVAC'?   
+*Just give a number in three decimal places, nothing else*
+
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+
+Meta-information
+================
+exname: vufsw-mediation-1315-en
+extype: num
+exsolution: 0.014
+extol: 0.001
+exsection: inferential statistics/regression/multiple linear regression/mediation
+exextra[Type]: interpreting output
+exextra[Program]: calculator
+exextra[Language]: english
+exextra[Level]: statistical literacy
+

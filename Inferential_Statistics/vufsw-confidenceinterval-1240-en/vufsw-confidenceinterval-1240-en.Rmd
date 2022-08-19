@@ -1,0 +1,85 @@
+Question
+========
+Ten students have been randomly selected. It is checked whether the
+number of times per week that they go out (X) is related to their
+physical health (Y). The regression results are below. Use the results
+to find the 95% confidence interval around the slope that is found in
+the sample.  
+  
+The regression formula is Y = 3.58 + 0.09x with 8 degrees of freedom  
+  
+
+<table>
+<tbody>
+<tr class="odd">
+<td>Predictor</td>
+<td><em> b </em> (Coef)</td>
+<td>SE<em><sub>b</sub></em></td>
+<td>t</td>
+<td>p</td>
+</tr>
+<tr class="even">
+<td>Constant</td>
+<td>3.58</td>
+<td>.09</td>
+<td>45.85</td>
+<td>.00</td>
+</tr>
+<tr class="odd">
+<td>go out</td>
+<td>.09</td>
+<td>.02</td>
+<td>4.50</td>
+<td>.00</td>
+</tr>
+</tbody>
+</table>
+
+Answerlist
+----------
+* (0.04; 0.14)
+* (3.40; 3.77)
+* (0.07; 0.11)
+* (-0.45; 0.51)
+
+Solution
+========
+
+
+
+
+
+You can calculate this with the following formula: CI for B
++/-* t(se)*  
+The t value is 2.306 (see table: *t* Distribution Critical Values).  
+  
+Thus: 0.09 +/- 2.306 \* 0.02 = (0.04; 0.14)
+
+
+
+
+
+M&T Bivariate linear regression  
+Bivariate linear regression
+
+M&T Multivariate linear regression  
+Default value
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-confidenceinterval-1240-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/regression/confidence interval
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: english
+exextra[Level]: statistical literacy
+

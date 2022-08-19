@@ -1,0 +1,38 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-regression-017-nl-graph-01.png", recursive = TRUE)
+```
+Question
+========
+  
+Bekijk onderstaande SPSS uitkomsten. Er is een meervoudige regressie uitgevoerd naar de effecten van prosociaal gedrag en het kunnen wisselen van aandacht op de schoolprestaties van 350 leerlingen. De schoolprestaties zijn gemeten aan de hand van een gestandaardiseerde CITO test met een gemiddelde score van 0 en een standaarddeviatie van 1. 
+
+![](vufgb-regression-017-nl-graph-01.png) 
+
+Wat is het 95% betrouwbaarheidsinterval voor de regressiecoëfficiënt (b) van aandacht wisselen en wat betekent dat?
+  
+Answerlist
+----------
+* [0.01; 0.40]; dit betekent dat het verband tussen aandacht wisselen en schoolprestaties significant afhangt van prosociaal gedrag.
+* [0.01; 0.40]; dit betekent dat aandacht wisselen significant samenhangt met schoolprestaties, gecontroleerd voor prosociaal gedrag.
+* [0.00; 0.41]; dit betekent dat het verband tussen aandacht wisselen en schoolprestaties **niet** significant afhangt van prosociaal gedrag. 
+* [0.00; 0.41]; dit betekent dat aandacht wisselen **niet** significant samenhangt met schoolprestaties, gecontroleerd voor prosociaal gedrag.
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Correct
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-regression-017-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Regression, Inferential Statistics/Regression/Confidence interval
+exextra[Type]: Calculation, Case
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

@@ -1,0 +1,39 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-tstatistic-004-nl-table01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+In onderstaande SPSS-tabel staan de resultaten van een meervoudige regressieanalyse zonder interactie. Voer een *t*-toets uit om te bepalen of er een verband is tussen Angstdispositie en Angst bij presentatie, statistisch gecontroleerd voor Leeftijd (*N* = 412).
+
+![](vufgb-tstatistic-004-nl-table01.jpg)
+  
+Answerlist
+----------
+* *t*=16.51 > 1.96, dus er is wel een verband.
+* 1.96 < *t*=16.51, dus er is geen verband.
+* *t*=16.26 > 1.96, dus er is wel een verband.
+* 1.96 < *t*=16.26, dus er is geen verband.
+
+
+Solution
+========
+
+Answerlist
+----------
+* Correct
+* Incorrect
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-tstatistic-004-nl
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/NHST/Test statistic/t-statistic
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

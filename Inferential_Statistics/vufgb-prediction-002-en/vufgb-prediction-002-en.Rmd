@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-prediction-002-en-table01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+A psychologist researches the relationship between sick leave (*ziekteverzuim*) as measured in hours per year, exercise (*beweging*) as measured in hours of sport per month and job satisfaction (*tevredenheid*) as measured on a Likert scale from 1: very unsatisfied to 5: very satisfied.
+
+![](vufgb-prediction-002-en-table01.jpg)
+
+What is, according to estimated regression equation, the predicted number of sick leave hours per year for an employee who exercises for 4 hours per month and who is very satisfied with the job?
+  
+  
+Answerlist
+----------
+* 11.74 hours
+* 18.92 hours
+* 20.96 hours
+* 30.18 hours
+
+Solution
+========
+
+Answerlist
+----------
+* Correct
+* Incorrect
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-prediction-002-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Regression/Prediction, Descriptive statistics/Data representation/Tables
+exextra[Type]: Calculation, Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Thinking

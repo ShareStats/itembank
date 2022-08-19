@@ -1,0 +1,53 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1598532290271.png")
+```
+
+Question
+========
+Below you can see a matrix with the correlation between rgmlife and
+rgmfam. Rgmlife = reading lifestyle magazines, such as Cosmopolitan.
+Rmgfam = reading family magazines, such as Panorama.  
+  
+<img src="1598532290271.png" class="fr-fic fr-dii tvcss_2"
+alt="1598532290271" />  
+Using the data in the above correlation matrix, calculate the
+correlation between rmglife and rmgfam.
+
+Answerlist
+----------
+* 0.006
+* 0.431
+* 1.444
+* .093
+
+Solution
+========
+
+
+
+
+
+= .006 /((sqrt(.062))\*(sqrt(.067))) = .093
+
+
+
+
+Answerlist
+----------
+* False
+* False
+* False
+* True
+
+Meta-information
+================
+exname: vufsw-correlation-2000-en
+extype: schoice
+exsolution: 0001
+exshuffle: TRUE
+exsection: descriptive statistics/summary statistics/bivariate statistics/correlation
+exextra[Type]: interpreting output
+exextra[Program]: calculator
+exextra[Language]: english
+exextra[Level]: statistical thinking
+

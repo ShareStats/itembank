@@ -1,0 +1,65 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1605615806837.png")
+include_supplement("1606486140139.png")
+include_supplement("1602949868065.png")
+include_supplement("1602949886975.png")
+include_supplement("1602949911308.png")
+```
+
+Question
+========
+The partial correlation matrix below, including zero-order correlations,
+investigated whether there is a relationship between age and the salary
+of a catwalk model and whether this relationship changes when you hold
+the influence of the model's attractiveness constant. Y = Salary (in
+pounds), X = Age (in years), and the third variable (Z) is
+attractiveness (Beauty: a scale where a higher score means higher
+attractiveness).  
+<img src="1605615806837.png" class="fr-fic fr-dii tvcss_2"
+alt="1605615806837" />  
+  
+If you round off the correlations to two decimal places, which causal
+model applies to the results of the analysis?
+
+Answerlist
+----------
+* <img src="1606486140139.png" class="fr-fic fr-dii tvcss_3"
+  alt="1606486140139" />
+* <img src="1602949868065.png" class="fr-fic fr-dii tvcss_3"
+  alt="1602949868065" />
+* <img src="1602949886975.png" class="fr-fic fr-dii tvcss_4"
+  alt="1602949886975" />
+* <img src="1602949911308.png" class="fr-fic fr-dii tvcss_5"
+  alt="1602949911308" />
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-correlations-1296-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/correlations
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical literacy
+

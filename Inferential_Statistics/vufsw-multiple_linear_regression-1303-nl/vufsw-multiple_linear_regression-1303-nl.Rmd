@@ -1,0 +1,74 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1606660757397.png")
+```
+
+Question
+========
+De onderstaande analyses zijn afkomstig van data uit het
+onderzoekproject Jeugd en Cultuur (Ganzeboom en Nagel, 1998-2002) waarin
+ruim 3000 scholieren in de leeftijd van 14-17 jaar zijn ondervraagd over
+hun houding tegenover cultuur. Verder is er informatie over hun sociale
+achtergrond en de cultuurparticipatie van hun ouders. De vraag is in
+hoeverre de cultuurparticipatie van de moeder de houding tegenover
+cultuur van scholieren beïnvloedt, en of deze invloed verschilt tussen
+scholieren van westerse en niet westerse achtergrond.  
+  
+De afhankelijke variabele is ‘Houding tegenover cultuur’ (ATT: een
+schaal 1-4, waarbij een hogere score een positievere attitude betekent).
+De cultuurparticipatie van de moeder (MCUL) is een continue schaal, 0-1,
+waarbij een hogere score een hogere participatie betekent. De westerse
+versus niet-westerse achtergrond van de scholieren is gemeten via de
+variabele ‘MIN’ (0 = westers, 1 = niet-westers). Ook is in model 2 de
+interactie tussen ‘MIN’ en ‘MCUL’ opgenomen (MIN\_MCUL).  
+  
+<img src="1606660757397.png" class="fr-fic fr-dii tvcss_2"
+alt="1606660757397" />  
+  
+Hoe moet de constante van **regressiemodel 1** geïnterpreteerd worden?
+
+Answerlist
+----------
+* Als de laagste score op de houding tegenover cultuur (ATT) die in de
+  data voorkomt
+* Als de voorspelde score op de houding tegenover cultuur (ATT) van een
+  scholier met een westerse achtergrond met een moeder met een zeer lage
+  cultuurparticipatie (0)
+* Als de voorspelde score op de moeders cultuurparticipatie (MCUL), van
+  een scholier met een westerse achtergrond en die een zeer negatieve
+  houding tegenover cultuur heeft (ATT = 0)
+* Als de laagste score op de houding tegenover cultuur (ATT) die in de
+  data voorkomt waarbij constant gehouden is op moeders
+  cultuurparticipatie (MCUL) en de westerse versus niet-westerse
+  achtergrond van de scholier (MIN)
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+Answerlist
+----------
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-multiple linear regression-1303-nl
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical literacy
+

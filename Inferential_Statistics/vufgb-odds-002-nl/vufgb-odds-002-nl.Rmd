@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-odds-002-nl-table01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+Zie de onderstaande logistische regressie-uitkomsten. In een onderzoek (n = 50), moeten programmeurs een programmeerprobleem in een uur oplossen. Het
+resulterende databestand bevat de responsvariabele ‘opgelost’ (dummy, binnen een uur opgelost=1) en de predictoren ‘ervaring’ (programmeerervaring in maanden) en geslacht (dummy, man=1).
+
+![](vufgb-odds-002-nl-table01.jpg)
+  
+Hoeveel keer zo groot wordt de odds als een programmeur twee maanden meer ervaring heeft?  
+  
+Answerlist
+----------
+* 1.58
+* 2.50
+* 0.46
+* 0.40
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Correct
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-odds-002-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Regression/Logistic regression/Odds
+exextra[Type]: Calculation
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

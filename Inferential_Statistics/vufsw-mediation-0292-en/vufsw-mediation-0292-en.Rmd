@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("mediation.png")
+```
+
+Question
+========
+Look at the mediation model below. If all regressions of the Baron and
+Kenny method are performed with the same n, c = 0.31, α = 0.9 and b =
+0.2, what is the value of c' ? *Use 2 decimal places*  
+  
+<img src="mediation.png" class="fr-fic fr-dii tvcss_2"
+alt="mediation" />
+
+
+Solution
+========
+
+
+
+
+
+ *αb* = *c-c*'  
+So, 0.9\*0.2 = 0.31 - c' en dus c'=0.13
+
+
+
+
+
+Meta-information
+================
+exname: vufsw-mediation-0292-en
+extype: num
+exsolution: 0.13
+extol: 0.01
+exsection: inferential statistics/regression/multiple linear regression/mediation
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: english
+exextra[Level]: statistical reasoning
+

@@ -1,0 +1,63 @@
+Question
+========
+Jij voert een MANOVA uit met 3 afhankelijke variabelen en gelijke
+groepsgroottes voor de categorieën van de onafhankelijke variabele.  
+  
+Er worden 3 Levene's testen uitgevoerd. Als één daarvan statistisch
+**\[--I--\]** is dan kun je concluderen dat de assumption of 'equality
+of covariance matrices' **\[--II--\]** wordt.
+
+Answerlist
+----------
+* I. significant  
+  II. geschonden
+* I. significant  
+  II. niet geschonden
+* I. significant  
+  II. niet getest
+* I. insignificant  
+  II. geschonden
+* I. insignificant  
+  II. niet geschonden
+* I. insignificant  
+  II. niet getest
+
+Solution
+========
+
+
+
+
+
+In MANOVA there is one Levene's test performed for every dependent
+variable. Therefore, there are 3 Levene's tests done in this case. If
+one of them is statistically significant, this means that the variances
+cannot be assumed equal across groups for one of the dependent
+variables. Therefore, the assumption of the homogeneity of the
+covariance matrices (which is another word as the equality of variances
+and covariances) is violated.
+
+
+
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-levene's test-1050-nl
+extype: schoice
+exsolution: 100000
+exshuffle: TRUE
+exsection: assumptions/homogeneity of variance/levene's test
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical literacy
+

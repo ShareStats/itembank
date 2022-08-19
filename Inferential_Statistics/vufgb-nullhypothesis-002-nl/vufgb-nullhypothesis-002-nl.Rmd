@@ -1,0 +1,36 @@
+Question
+========
+
+Bij een covariantieanalyse (ANCOVA) wordt er eerst getoetst of er een interactie-effect is tussen de covariaat x en de nominale variabele z. Hiervoor wordt het volgende model geschat:
+
+$E(y) = \alpha+\beta_{1}x+\beta_{2}x+\beta_{3}xz$
+
+Wat is bij deze toets de nulhypothese?
+  
+Answerlist
+----------
+* $\beta_{1}=\beta_{2}=\beta_{3}$
+* $\beta_{1}=0$
+* $\beta_{2}=0$
+* $\beta_{3}=0$
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Incorrect
+* Correct
+
+Meta-information
+================
+exname: vufgb-nullhypothesis-002-nl
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/NHST/Hypothesis/Null hypothesis, Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

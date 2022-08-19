@@ -1,0 +1,48 @@
+Question
+========
+To prefer a MANOVA over separate ANOVA's, the dependent variables should
+…
+
+Answerlist
+----------
+* Weakly correlate.
+* Moderately correlate.
+* Perfectly correlate.
+* Very strongly correlate.
+
+Solution
+========
+
+
+
+
+
+The intuition is that since MANOVA accounts for the correlation between
+the dependent variables, then if the dependent variables are not
+correlated then there is no need for a MANOVA and you can run simple
+ANOVAs. If there is a very high correlation, then by explaining the
+variance in one of the dependent variables, you explain what you can
+explain with this model. So, again there is no need for a MANOVA.
+
+
+
+
+Answerlist
+----------
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-manova-1042-en
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/anova/manova
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical reasoning
+

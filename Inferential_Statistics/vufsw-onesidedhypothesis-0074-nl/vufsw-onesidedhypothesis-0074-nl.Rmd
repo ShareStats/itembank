@@ -1,0 +1,91 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Screen__Shot__2020-04-22__at__14.08.43.png")
+```
+
+Question
+========
+Een survey bevatte onder andere de onderstaande vraag in hoeverre iemand
+vertrouwen heeft in de politie. Deze variabele heet
+“**Rapportcijfer\_politie**”.  
+  
+Respondenten beantwoordden ook vragen over hun herkomst. Volgens de
+definitie van het CBS heeft een persoon een migratieachtergrond als deze
+persoon, of één van de ouders, in een ander land is geboren. Op basis
+hiervan heeft de onderzoeker de dummy variabele
+"**Migratieachtergrond" **geconstrueerd (1=respondent heeft een
+migratieachtergrond; 0=respondent heeft geen migratieachtergrond).  
+  
+Zij verwacht dat mensen met een migratieachtergrond minder vertrouwen
+hebben in de politie dan mensen zonder migratieachtergrond en formuleert
+de onderstaande nulhypothese (H<sub>0</sub>) en alternatieve hypothese
+(H<sub>a</sub>):  
+  
+H<sub>0</sub>: de gemiddelde mate van vertrouwen in de politie van
+mensen met een migratieachtergrond wijkt *niet *af van de gemiddelde
+mate van vertrouwen in de politie van mensen zonder een
+migratieachtergrond.  
+H<sub>a</sub>: de gemiddelde mate van vertrouwen in de politie van
+mensen met een migratieachtergrond is* lager* dan de gemiddelde mate van
+vertrouwen in de politie van mensen zonder een migratieachtergrond.  
+  
+Gaat de onderzoeker een tweezijdige of éénzijdige toets uitvoeren?  
+  
+<img src="Screen__Shot__2020-04-22__at__14.08.43.png"
+class="fr-fic fr-dii enlargeimage tvcss_2"
+alt="Screen Shot 2020-04-22 at 14.08.43" />
+
+Answerlist
+----------
+* Een éénzijdige toets, omdat "Migratieachtergrond" een dichtome variabele
+  is (een dummy variabele).
+* Een éénzijdige toets, omdat de onderzoeker een richting aangeeft bij de
+  alternatieve hypothese.
+* Een tweezijdige toets, omdat we in dit geval twee groepen met elkaar
+  vergelijken (mensen met een migratieachtergrond en mensen zonder een
+  migratieachtergrond).
+* Een tweezijdige toets, omdat de onderzoeker *geen* richting aangeeft bij
+  de nulhypothese.
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+
+Language  
+Nederlands
+
+Levels of Difficulty  
+Easy
+
+M&T Basics of quantitative research  
+Basics of quantitative research
+
+M&T BIS  
+Default value
+Answerlist
+----------
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-onesidedhypothesis-0074-nl
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: inferential statistics/nhst/hypothesis/one sided hypothesis
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical literacy
+

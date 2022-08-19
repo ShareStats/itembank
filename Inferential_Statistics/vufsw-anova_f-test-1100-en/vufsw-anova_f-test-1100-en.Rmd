@@ -1,0 +1,58 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("anova__table.jpg")
+```
+
+Question
+========
+A psychologist runs a regression with empathy as a dependent variable
+(Y) and gender as the independent variable (X). She finds an F-statistic
+of 83.1, with p &lt; 0.001 (see the ANOVA table below). What does this
+mean?  
+  
+  
+<img src="anova__table.jpg" class="fr-fic fr-dii tvcss_2"
+alt="anova table" />
+
+Answerlist
+----------
+* The association between gender and empathy is positive and statistically
+  significant.
+* The regression model with gender does significantly better in explaining
+  the variance in empathy than a model without explanatory variables.
+* The mean of empathy differs significantly from the mean of gender.
+* The Regression Sum of Squares is positive and statistically significant.
+
+Solution
+========
+
+
+
+
+
+The F-statistic is a measure of predictive power, and depends on the
+mean square for regression and the mean square error. The F-statistic is
+significant if the model does better in explaining the variance of the
+dependent variable than a model without any explanatory variables.
+
+
+
+
+Answerlist
+----------
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-anova f-test-1100-en
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/anova/anova f-test
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical reasoning
+

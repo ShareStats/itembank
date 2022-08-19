@@ -1,0 +1,111 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Screen__Shot__2020-02-08__at__14.51.59.png")
+```
+
+Question
+========
+We investigate survey data of a sample of 239 respondents. Given is the
+following correlation matrix (Pearson correlation coefficient) of three
+questions of a scale.  
+  
+
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td class="tvcss_2"><br />
+</td>
+<td class="tvcss_3">Item1</td>
+<td class="tvcss_4">Item2</td>
+<td class="tvcss_4">Item3</td>
+</tr>
+<tr class="even">
+<td class="tvcss_2">Item1<br />
+</td>
+<td class="tvcss_3">1<br />
+</td>
+<td class="tvcss_4"><br />
+</td>
+<td class="tvcss_4"><br />
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_2">Item2</td>
+<td class="tvcss_3">.312</td>
+<td class="tvcss_4">1</td>
+<td class="tvcss_4"><br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_2">Item3</td>
+<td class="tvcss_3">.357</td>
+<td class="tvcss_4">.451</td>
+<td class="tvcss_4">1</td>
+</tr>
+</tbody>
+</table>
+
+  
+The data furthermore shows that the average correlation between the
+three items is 0.373. Assume that the variances of the three items are
+the same. How high is Cronbach's alpha?
+
+Answerlist
+----------
+* 0.877
+* 0.728
+* 0.641
+* 0.942
+* 0.801
+
+Solution
+========
+
+
+
+
+
+You can calculate it with: (3\*0,373)/(1+(2\*0,373))=0,641  
+Cronbach’s alpha can be written as a function of the number of test
+items and the average inter-correlation among the items. Below, we show
+the formula for the standardized Cronbach’s alpha:  
+  
+<img src="Screen__Shot__2020-02-08__at__14.51.59.png"
+class="fr-fic fr-dii tvcss_7"
+alt="Screen Shot 2020-02-08 at 14.51.59" />  
+  
+Here **k** is equal to the number of items, r-bar is the average
+inter-item correlation among the items.  
+One can see from this formula that if you increase the number of items,
+you increase Cronbach’s alpha.  Additionally, if the average inter-item
+correlation is low, alpha will be low.  As the average inter-item
+correlation increases, Cronbach’s alpha increases as well (holding the
+number of items constant).
+
+
+
+Answerlist
+----------
+* False
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-cronbach's alpha-1170-en
+extype: schoice
+exsolution: 00100
+exshuffle: TRUE
+exsection: reliability/analysis/cronbach's alpha
+exextra[Type]: performing analysis
+exextra[Program]: calculator
+exextra[Language]: english
+exextra[Level]: statistical thinking
+

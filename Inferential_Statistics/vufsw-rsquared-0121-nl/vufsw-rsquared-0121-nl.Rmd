@@ -1,0 +1,90 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Screen__Shot__2020-04-30__at__15.36.58.png")
+```
+
+Question
+========
+Hieronder staan de resultaten van een meervoudige regressie-analyse met
+de mate van vertrouwen in de politie (variabele:
+"**Rapportcijfer\_politie**") als afhankelijke variabele, gemeten op een
+schaal die loopt van 1 (heel weinig vertrouwen) t/m 10 (heel veel
+vertrouwen). De drie onafhankelijke variabelen in het model zijn:  
+  
+
+-   **Migratieachtergrond**: 0 = nee; 1 = ja.
+-   **Leeftijdscategorie**: gemeten met een schaal met vijf categorieën
+    die oplopen van score 0 (16 t/m 19 jaar) tot en met 4 (65 jaar of
+    ouder).
+-   **Opleidingsniveau**: de hoogste opleiding die een respondent
+    momenteel volgt of al afgerond heeft, gemeten met een schaal met zes
+    categorieën die oplopen van score 0 (geen enkele opleiding) t/m
+    score 5 (Wetenschappelijk Onderwijs).  
+      
+
+Leeftijdscategorie en opleidingsniveau hebben een ordinaal meetniveau,
+maar zullen we voor het gemak als kwantitatief beschouwen.  
+Stel dat we de variabele Migratieachtergrond** **uit ons regressie-model
+verwijderen. Zal de **verklaarde variantie** dan dalen, gelijk blijven,
+of stijgen?  
+  
+<img src="Screen__Shot__2020-04-30__at__15.36.58.png"
+class="fr-fic fr-dii enlargeimage tvcss_2"
+alt="Screen Shot 2020-04-30 at 15.36.58" />
+
+Answerlist
+----------
+* Deze zal gelijk blijven, omdat de verklaarde variantie *niet*
+  afhankelijk is van het aantal onafhankelijke variabelen in het model.
+* Deze zal stijgen, omdat deze onafhankelijke variabele een negatieve
+  invloed heeft op Y.
+* Deze zal dalen, omdat deze onafhankelijke variabele een significante
+  invloed heeft op Y.
+* Deze zal stijgen, omdat het aantal onafhankelijke variabelen in het
+  model afneemt.
+* Deze zal gelijk blijven, omdat het meetniveau van de afhankelijke
+  variabele (Y) in het model hierdoor *niet* beïnvloed wordt.
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+
+Language  
+Nederlands
+
+Levels of Difficulty  
+Easy
+
+M&T Basics of quantitative research  
+Basics of quantitative research
+
+M&T BIS  
+Default value
+Answerlist
+----------
+* False
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-rsquared-0121-nl
+extype: schoice
+exsolution: 00100
+exshuffle: TRUE
+exsection: inferential statistics/regression/r squared
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical reasoning
+

@@ -1,0 +1,67 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("multiple__reg__formula__2.jpg")
+```
+
+Question
+========
+Hieronder is de formule van een multiple regressie van Y weergegeven met
+twee onafhankelijke variabelen (X<sub>1</sub> en X<sub>2</sub>).  
+Stel, je wilt weten of **X**<sub>**1** </sub>een significante invloed
+heeft op Y, gecontroleerd voor het effect van X<sub>2\  </sub>op Y
+("X<sub>2 </sub>wordt constant gehouden").  
+  
+Wat moet je dan in dit geval toetsen? Je moet dan als onderzoeker
+toetsen of ...  
+  
+<img src="multiple__reg__formula__2.jpg"
+class="fr-fic fr-dii enlargeimage tvcss_2"
+alt="multiple reg formula 2" />
+
+Answerlist
+----------
+* De waarde van **b**<sub>**1** </sub>significant afwijkt van 0
+* Het verschil tussen de waarde van **b**<sub>**1** </sub>en de waarde van
+  **b<sub>**2**</sub>** ****significant afwijkt van 0
+* Het verschil tussen de waarde van **X**<sub>**1** </sub>en de waarde van
+  **b**<sub>**1**</sub> significant afwijkt van 0
+* De waarde van **X**<sub>**1**</sub>significant afwijkt van 0
+* De waarde van **X<sub>**1** </sub>**–** X**<sub>**2** </sub>significant
+  afwijkt van 0
+
+Solution
+========
+
+
+
+
+
+ y = a + b<sub>1</sub> x <sub>1 </sub>+ b<sub>2</sub> x <sub>2</sub>
+
+
+
+
+
+Language  
+Nederlands
+
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-equation-0040-nl
+extype: schoice
+exsolution: 10000
+exshuffle: TRUE
+exsection: inferential statistics/regression/equation
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical literacy
+

@@ -1,0 +1,183 @@
+Question
+========
+A researcher wants to know if workers score better in test B than in
+test A. For this purpose, she draws a random sample of 10 workers who
+take both tests. The tests concern the same content and in each one of
+them, the maximum score is 100 points.  
+  
+The data are the following:  
+  
+
+<table class="tvcss_2 tvcss_3">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td class="tvcss_4"><strong>Worker</strong></td>
+<td class="tvcss_5"><strong>Score test A</strong><br />
+</td>
+<td class="tvcss_6"><strong>Score test B</strong><br />
+</td>
+<td class="tvcss_7"><strong>Difference (B – A)</strong><br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">1<br />
+</td>
+<td class="tvcss_5 tvcss_8">95<br />
+</td>
+<td class="tvcss_6 tvcss_8">90<br />
+</td>
+<td class="tvcss_7 tvcss_8">-5<br />
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_4">2<br />
+</td>
+<td class="tvcss_5 tvcss_8">45<br />
+</td>
+<td class="tvcss_6 tvcss_8">65<br />
+</td>
+<td class="tvcss_7 tvcss_8">20<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">3<br />
+</td>
+<td class="tvcss_5 tvcss_8">61<br />
+</td>
+<td class="tvcss_6 tvcss_8">65<br />
+</td>
+<td class="tvcss_7 tvcss_8">4<br />
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_4">4<br />
+</td>
+<td class="tvcss_5 tvcss_8">88<br />
+</td>
+<td class="tvcss_6 tvcss_8">75<br />
+</td>
+<td class="tvcss_7 tvcss_8">-13<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">5<br />
+</td>
+<td class="tvcss_5 tvcss_8">91<br />
+</td>
+<td class="tvcss_6 tvcss_8">92<br />
+</td>
+<td class="tvcss_7 tvcss_8">1<br />
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_4">6<br />
+</td>
+<td class="tvcss_5 tvcss_8">32<br />
+</td>
+<td class="tvcss_6 tvcss_8">45<br />
+</td>
+<td class="tvcss_7 tvcss_8">13<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">7<br />
+</td>
+<td class="tvcss_5 tvcss_8">44<br />
+</td>
+<td class="tvcss_6 tvcss_8">65<br />
+</td>
+<td class="tvcss_7 tvcss_8">21<br />
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_4">8<br />
+</td>
+<td class="tvcss_5 tvcss_8">63<br />
+</td>
+<td class="tvcss_6 tvcss_8">67<br />
+</td>
+<td class="tvcss_7 tvcss_8">4<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">9<br />
+</td>
+<td class="tvcss_5 tvcss_8">89<br />
+</td>
+<td class="tvcss_6 tvcss_8">84<br />
+</td>
+<td class="tvcss_7 tvcss_8">-5<br />
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_4">10<br />
+</td>
+<td class="tvcss_5 tvcss_8">64<br />
+</td>
+<td class="tvcss_6 tvcss_8">63<br />
+</td>
+<td class="tvcss_7 tvcss_8">-1<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4"><strong>Mean</strong></td>
+<td class="tvcss_5 tvcss_9">67.2<br />
+</td>
+<td class="tvcss_6 tvcss_9">71.1<br />
+</td>
+<td class="tvcss_7 tvcss_9">3.9<br />
+</td>
+</tr>
+</tbody>
+</table>
+
+  
+Which statistical test should be used to test the hypothesis that
+workers score better in test B than in test A?
+
+Answerlist
+----------
+* A test for a proportion
+* A one-sample t-test for the mean
+* An independent t-test
+* A dependent t-test
+* A chi-squared test
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+Answerlist
+----------
+* False
+* False
+* False
+* True
+* False
+
+Meta-information
+================
+exname: vufsw-paired samples-1275-en
+extype: schoice
+exsolution: 00010
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/t-test/paired samples
+exextra[Type]: test choice
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical thinking
+

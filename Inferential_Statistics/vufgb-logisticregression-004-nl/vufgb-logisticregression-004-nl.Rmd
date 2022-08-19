@@ -1,0 +1,28 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-logisticregression-004-nl.png", recursive = TRUE)
+```
+
+Question
+========
+Gegeven is onderstaande frequentietabel voor de nominale variabele Gehechtheidsrepresentatie.
+
+![](vufgb-logisticregression-004-nl.png)
+
+De steekproef bevat 80 volwassenen. Bereken de baseline logit van de kans op een uitkomst "Preoccupied" als "Secure-Autonomous" de referentiecategorie is.
+
+Answerlist
+----------
+* -1.20.
+* -0.06.
+* 1.10.
+* 2.71.
+
+Meta-information
+================
+exname: vufgb-logisticregression-004-nl
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Regression/Logistic regression
+exextra[Type]: Calculation, Interpretating output
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

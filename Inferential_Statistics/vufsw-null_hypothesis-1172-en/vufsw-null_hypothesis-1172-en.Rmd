@@ -1,0 +1,68 @@
+Question
+========
+A researcher wants to know whether there is more litter in the
+Netherlands than in Germany. The variable 'litter' is measured by the
+amount of litter per m2. A t-test is used for this study. What is the
+null hypothesis of this research?
+
+Answerlist
+----------
+* The average amount of litter in both the Netherlands and Germany is 0.
+* The average amount of litter in the samples of both the Netherlands and
+  Germany is unknown.
+* There is a difference in the average amount of litter between the
+  Netherlands and Germany.
+* There is no difference in the average amount of litter between the
+  Netherlands and Germany.
+
+Solution
+========
+
+
+
+
+
+There is no difference in the average amount of litter between the
+Netherlands and Germany.  
+H<sub>0\  \  \   </sub>Mean<sub> Netherlands</sub>= Mean
+<sub>Germany</sub>  
+The alternative hypothesis is that there **is** a difference in the
+average amount of litter between the Netherlands and Germany, more in
+the Netherlands than in Germany in this example.  
+H<sub>a\  \  </sub>Mean<sub> Netherlands </sub> &gt;   Mean
+<sub>Germany</sub>
+
+
+
+
+
+Language  
+Nederlands
+
+Levels of Difficulty  
+Easy
+
+M&T BIS  
+Default value
+
+M&T Hypothesis testing: means  
+Default value
+Answerlist
+----------
+* False
+* False
+* False
+* True
+
+Meta-information
+================
+exname: vufsw-null hypothesis-1172-en
+extype: schoice
+exsolution: 0001
+exshuffle: TRUE
+exsection: inferential statistics/nhst/hypothesis/null hypothesis
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical literacy
+

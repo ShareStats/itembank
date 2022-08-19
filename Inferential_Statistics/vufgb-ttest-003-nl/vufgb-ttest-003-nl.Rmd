@@ -1,0 +1,57 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-ttest-003-nl-table01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+In een onderzoek wordt de reactietijd van 10 studenten op een cognitieve taak gemeten tijdens twee condities: terwijl ze alleen zijn, en terwijl ze met anderen zijn. In onderstaande tabel vind je de reactietijden in milliseconden in de twee condities, en het verschil in reactietijden tussen de twee condities.
+
+Hoe groot is de gevonden *t*-waarde van de toets voor de gelijkheid van de twee gemiddelden in de twee condities? 
+
+Tip: gebruik de ‘paired-difference *t*-test’.
+
+![](vufgb-ttest-003-nl-table01.jpg)
+  
+Answerlist
+----------
+* 1.14
+* 1.20
+* 3.60
+* 11.38
+
+Solution
+========
+
+$t = \frac{(gemiddelde \; van \; verschilscores–0)}{se}$
+
+Je moet dus eerst het gemiddelde van de verschilscores en de standaardfout uitrekenen.
+
+Gemiddelde van verschilscores: $\frac{(20+30-10+40+30+10+0+20+20+10)}{10} = \frac{170}{10} = 17$
+
+Standaarddeviatie van verschilscores:
+$\sqrt{\frac{(20-17)^{2}+(30-17)^{2}+(-10-17)^2+(40-17)^2+(30-17)^2+(10-17)^2+(0-17)^2+(20-17)^2+(20-17)^2+(10-17)^2}{(10-1)}} = \sqrt{\frac{2010}{9}} = 14.94$
+
+$se = \frac{s}{\sqrt{n}} = \frac{14.94}{\sqrt{10}} = 4.73$
+
+Invullen geeft: $\frac{(17–0)}{4.73} = 3.60$
+
+Tip: kans op een rekenfout verkleinen? Maak dan een rekentabel voor het uitrekenen van de standaarddeviatie van de verschilscores door een kolom met de ongekwadrateerde deviaties en een kolom met de gekwadrateerde deviaties aan de tabel toe te voegen.
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Correct
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-ttest-003-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/t-test
+exextra[Type]: Interpreting output, Calculation
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

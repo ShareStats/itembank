@@ -1,0 +1,64 @@
+Question
+========
+A researcher wants to investigate within a group of employees whether
+the income (measured by the net monthly salary in euros) has an
+influence on the degree of absenteeism (measured by the number of missed
+days due to illness during the past year). Which statistical technique
+or test is most suitable for testing this?
+
+Answerlist
+----------
+* Regression analysis to predict the number of missed days per year with
+  the income.
+* A t-test for 'independent samples' to test the effect of the income on
+  the number of missed days.
+* A t-test for 'paired (dependent) samples' to test the effect of the
+  income on the number of missed days
+* A Chi squared test to test the association between the income and the
+  number of missed days.
+
+Solution
+========
+
+
+
+
+
+A t-test is for comparing two means and a chi square test is to test a
+categorical association. The correct answer is a regression analysis to
+predict the number of missed days per year with the income.
+
+
+
+
+
+Language  
+Nederlands
+
+Levels of Difficulty  
+Easy
+
+M&T BIS  
+Default value
+
+M&T Model selection  
+Default value
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-simple linear regression-1143
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/regression/simple linear regression
+exextra[Type]: test choice
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical reasoning
+

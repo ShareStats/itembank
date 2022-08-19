@@ -1,0 +1,74 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1602953152623.png")
+```
+
+Question
+========
+Field beschrijft een onderzoek over de groeiende belangstelling voor
+cosmetische chirurgische behandelingen. Hij verzamelde data over de
+kwaliteit van leven onder een steekproef van respondenten van wie een
+deel een cosmetische operatie had ondergaan en een deel nog op de
+wachtlijst stond daarvoor (variabele: surgery: 0 = waiting list, 1 =
+cosmetic surgery). Hij meet de kwaliteit van leven bij aanmelding voor
+de cosmetische ingreep, de ‘baseline’ kwaliteit van leven (variabele:
+Base\_Qol, schaal 0-1, een hogere score betekent een hogere kwaliteit
+van leven) en na een tijdje, nadat de ingreep had plaatsgevonden voor
+degenen die de operatie direct ondergingen, maar ook op hetzelfde moment
+voor de groep die nog op de wachtlijst stond (variabele: Post\_Qol,
+schaal 0-100, een hogere score betekent een hogere kwaliteit van
+leven).  
+  
+Hieronder staan de resultaten van een regressieanalyse met de nameting
+van kwaliteit van leven als afhankelijke variabele (Post\_Qol), en
+waarin het wel of niet hebben ondergaan van de cosmetische ingreep
+(Surgery) en de ‘baseline’ kwaliteit van leven (Base\_Qol) in het model
+zijn opgenomen. In model 2 is bovendien de interactie tussen ‘surgery’
+en ‘baseline’ kwaliteit van leven aan het model toegevoegd
+(Base\_Qol\_surgery).  
+  
+<img src="1602953152623.png" class="fr-fic fr-dii tvcss_2"
+alt="1602953152623" />  
+  
+Hoeveel hoger of lager is volgens **model 2** de kwaliteit van leven
+(Post\_Qol) van de groep die de cosmetische ingreep heeft ondergaan dan
+die van de groep die nog op de wachtlijst staat, voor degenen met een
+zeer lage (0) de ‘baseline’ kwaliteit van leven?
+
+Answerlist
+----------
+* 31.142 punten lager op de schaal van 0-100 van Post\_Qol
+* 8.494 punten hoger op de schaal van 0-100 van Post\_Qol
+* 26.382 punten hoger op de schaal van 0-100 van Post\_Qol
+* 17.888 punten hoger op de schaal van 0-100 van Post\_Qol
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+Answerlist
+----------
+* False
+* False
+* False
+* True
+
+Meta-information
+================
+exname: vufsw-moderation-1356-nl
+extype: schoice
+exsolution: 0001
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression/moderation
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: dutch
+exextra[Level]: statistical literacy
+

@@ -1,0 +1,28 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-logisticregression-005-nl.png", recursive = TRUE)
+```
+
+Question
+========
+Gegeven is onderstaande tabel met uitkomsten van een multinomiale logistische regressieanalyse. 
+
+![](vufgb-logisticregression-005-nl.png)
+
+De predictor "Female" is dummy-gecodeerd (0 = man, 1 = vrouw). Welke uitspraak over vrouwen en ijsjes is waar, als je kijkt naar het resultaat *Exp*(*B*) = 2.263?
+
+Answerlist
+----------
+* De verhouding vrouwen versus mannen met een voorkeur voor chocolade-ijs is ruim twee.
+* De kans dat vrouwen van chocolade-ijs houden is ruim twee keer zo groot als voor mannen.
+* De kansverhouding tussen voorkeur voor chocolade-ijs ten opzichte van vanille-ijs is ruim twee keer zo groot voor vrouwen ten opzichte van mannen.
+* De kansverhouding tussen mannen en vrouwen is ruim twee keer zo groot voor chocolade-ijs ten opzichte van aardbeienijs.
+
+Meta-information
+================
+exname: vufgb-logisticregression-005-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Regression/Logistic regression
+exextra[Type]: Case, Interpretating output
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

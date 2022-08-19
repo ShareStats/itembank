@@ -1,0 +1,78 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Schermafbeelding__2019-01-30__om__19.34.46.png")
+include_supplement("Schermafbeelding__2019-01-30__om__19.36.05.png")
+```
+
+Question
+========
+In an experiment, participants were randomly divided into two groups
+(group variable: ERROR\_APPROACH) that had to perform a task. The two
+groups were instructed differently beforehand: error prevention ("you
+are not allowed to make mistakes") and error management ("you are
+allowed to make mistakes, you learn from them"). Below is a series of
+AN(C)OVA analyses that examined whether the 'error-approach' influenced
+how well the task was performed (PERFORMANCE). SELFCONTROL (degree of
+self-discipline, measured prior to the experiment) is a covariate in
+these analyses.  
+  
+  
+  
+<img src="Schermafbeelding__2019-01-30__om__19.34.46.png"
+class="fr-fic fr-dii tvcss_2"
+alt="Schermafbeelding 2019-01-30 om 19.34.46" /><img src="Schermafbeelding__2019-01-30__om__19.36.05.png"
+class="fr-fic fr-dii tvcss_3"
+alt="Schermafbeelding 2019-01-30 om 19.36.05" />  
+  
+See additional analyses. Taking into account differences in self-control
+between the two groups, how large are the estimated differences between
+the 'error prevention' group and the 'error management' group?
+
+Answerlist
+----------
+* -19.311
+* -16.116
+* -8.198
+* -64.922
+
+Solution
+========
+
+
+
+
+
+
+
+
+
+
+Answerlist
+----------
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-ancova-2075-en
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/anova/ancova
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: Meta-information
+================
+exname: vufsw-correlation-1294-en
+extype: num
+exsolution: 0.2
+extol: 0
+exsection: descriptive statistics/summary statistics/bivariate statistics/correlation
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: english
+exextra[Level]: statistical literacy
+
+exextra[Level]: statistical literacy
+

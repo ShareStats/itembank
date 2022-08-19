@@ -1,0 +1,80 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1644999332975.png")
+```
+
+Question
+========
+With two brands of candles (Brand X and Brand Y), it has been tested how
+many hours they will last. The results are below.  
+  
+<img src="1644999332975.png" class="fr-fic fr-dii tvcss_2"
+alt="1644999332975" />  
+  
+H<sub>0</sub>: mean1 - mean2 = 0  
+H<sub>a</sub>: mean1 - mean2 is not equal to 0  
+  
+Draw conclusions about the hypotheses with a significance level of .01
+(alpha = 1%).
+
+Answerlist
+----------
+* We can reject the null hypothesis, since the absolute observed t-value
+  is greater than the critical t-value.
+* We can not reject the null hypothesis, since the absolute observed
+  t-value is greater than the critical t-value.
+* We can reject the null hypothesis, since the absolute observed t-value
+  is less than the critical t-value.
+* We can not reject the null hypothesis, since the absolute observed
+  t-value is less than the critical t-value.
+
+Solution
+========
+
+
+
+
+
+We can reject the null hypothesis, since the absolute observed t-value
+is greater than the critical t-value.  
+We can calculate the t value with:  
+  
+Compare means: (ȳ<sub>2</sub> - ȳ<sub>1</sub>) ± *t*(*se*) with *se* =
+sqrt \[ (*s*<sub>1</sub><sup>2</sup> / *n*<sub>1</sub>) +
+(*s*<sub>2</sub><sup>2</sup> / *n<sub>2</sub>*) \]  
+Test *H*<sub>0</sub> : *μ*1 = *μ*2 using *t* = (ȳ<sub>2</sub> -
+ȳ<sub>1</sub>) / *se*
+
+
+
+
+
+Language  
+Nederlands
+
+Levels of Difficulty  
+Medium
+
+M&T BIS  
+Default value
+
+M&T Hypothesis testing: means  
+Default value
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-independentsamplesmeans-1174-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/t-test/independent samples means
+exextra[Type]: performing analysis
+exextra[Program]: calculator
+exextra[Language]: english
+exextra[Level]: statistical thinking
+

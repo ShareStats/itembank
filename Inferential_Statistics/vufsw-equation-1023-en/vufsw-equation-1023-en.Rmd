@@ -1,0 +1,44 @@
+Question
+========
+If you were researching the effect of *hours *of training (predictor)
+and *attitude *(moderator) on the performance of a specific skill (e.g.
+the number of goals scored: *performance*), and the regression results
+give you the following regression equation, how much **is the effect of
+hours of training** on performance if *attitude *equals its mean? All
+the variables in this regression are mean-centred.  
+  
+*Use a full stop/point as a decimal separator and round to 3
+decimals.*  
+  
+*p**e**r**f**o**r**m**a**n**c**e* = 1.23<sup>\*</sup> + 0.112 × *a**t**t**i**t**u**d**e* + 0.531<sup>\*</sup> × *h**o**u**r**s* + 0.167<sup>\*</sup> × *a**t**t**i**t**u**d**e* × *h**o**u**r**s*  
+  
+\* indicates a statistically significant effect
+
+
+Solution
+========
+
+
+
+
+
+If attitude equals its mean then, since it is mean centered, it should
+be replaced by 0 in the regression equation.  
+  
+*p**e**r**f**o**r**m**a**n**c**e* = 1.23<sup>\*</sup> + 0.112 × *a**t**t**i**t**u**d**e* + 0.531<sup>\*</sup> × *h**o**u**r**s* + 0.167<sup>\*</sup> × *a**t**t**i**t**u**d**e* × *h**o**u**r**s*  
+ = 1.23 + 0.112 × 0 + 0.531<sup>\*</sup> × *h**o**u**r**s* + 0.167<sup>\*</sup> × 0 × *h**o**u**r**s* = 1.23 + 0.531 × *h**o**u**r**s*
+
+
+
+Meta-information
+================
+exname: vufsw-equation-1023-en
+extype: num
+exsolution: 0.531
+extol: 0
+exsection: inferential statistics/regression/equation
+exextra[Type]: performing analysis
+exextra[Program]: NA
+exextra[Language]: english
+exextra[Level]: statistical literacy
+
