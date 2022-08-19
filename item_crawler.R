@@ -15,6 +15,4 @@ for (i in 1:n) {
   
   print(text[line.nr])
   
-
-  
 }
