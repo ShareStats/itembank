@@ -1,10 +1,7 @@
-errors <- readLines("errors.txt")
+# retrieve path to all rmarkdown files
+all.item.paths <- list.files(pattern = ".Rmd", ignore.case = TRUE, recursive = TRUE)
 
-extraction.list <- strsplit(errors, split = ":")
-
-error.file.paths <- sapply(extraction.list,"[[",1)
-
-n = length(error.file.paths)
+n = length(all.item.paths)
 
 for (i in 1:n) {
   
@@ -13,11 +10,11 @@ for (i in 1:n) {
   # print(file[1])
   # This worked
 
-  # convert to UTF8  
-  writeLines(iconv(readLines(error.file.paths[i]), 
+  # convert al items to UTF8  
+  writeLines(iconv(readLines(all.item.paths[i]), 
                    from = "", 
                    to = "UTF8"), 
-             file(error.file.paths[i], encoding="UTF-8")
+             file(all.item.paths[i], encoding="UTF-8")
              )
   
 }
