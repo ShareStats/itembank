@@ -10,13 +10,17 @@ for (i in 1:n) {
   # Search for something in text and return line number
   # Some usefull key words: exsection Language Type Level
   
-  # Interpretating -> Interpreting
-  if( grep("Interpretating", text) ) {
+
   
-  line.nr = grep("Interpretating", text)
+  # Only write file if changes need to be made
+  if( !identical(grep("Interpretating", text), integer(0) ) ) {
   
-  print(text[line.nr])
+    # Interpretating -> Interpreting
+    text <- gsub("Interpretating", "Interpreting", text)
+    line.nr = grep("Interpreting", text)  
   
+    print(text[line.nr])
+    writeLines(text, all.item.paths[i])
   }
   
 }
