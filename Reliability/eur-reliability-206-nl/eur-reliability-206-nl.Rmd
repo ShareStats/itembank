@@ -1,0 +1,36 @@
+Question
+========
+Studenten die het examen (X1) sociale psychologie op de UVA niet hebben gehaald moeten een herkansing (X2) doen. Deze herkansing vindt twee weken na het eerste examen plaats. Het criterium om de grens te halen is gelijk voor beide examens. De betrouwbaarheid van het examen is 1 en de betrouwbaarheid van de herkansing is 0. Stel dat de studenten die de herkansing moeten doen, deze herkansing niet voorbereiden. Hun true scores zijn dus hetzelfde voor de eerste toets en de herkansing. Neem aan dat in de populatie 30% van de studenten een true score heeft boven het criterium. Neem verder aan dat wanneer studenten op alle vragen gokken zij een kans hebben van 50% om de toets te halen. Hoe groot is de kans dat een student die de herkansing moet doen, een true score heeft 
+boven het criterium, dus 𝑝(𝜏 ≥ 𝑐𝑟𝑖𝑡|𝑋2 = 1)?
+
+Answerlist
+----------
+* 0
+* .3
+* .5
+* 1
+
+
+Solution
+========
+The answer is 0. The reliability of the first exam is 1, so everybody with a true score equal to or higher than the criterion, passes the first exam and will not take the retest. Everybody who takes the retest therefore, has a true score below the criterion.
+
+Answerlist
+----------
+* Goed
+* Fout
+* Fout
+* Fout
+
+
+Meta-information
+================
+exname: eur-reliability-206-nl
+extype: schoice
+exsolution: 1000
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Reasoning
+exshuffle: TRUE

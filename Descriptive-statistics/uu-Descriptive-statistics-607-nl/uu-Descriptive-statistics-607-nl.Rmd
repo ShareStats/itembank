@@ -1,0 +1,46 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Descriptive-statistics-607-nl-data.sav", recursive = TRUE)
+include_supplement("uu-Descriptive-statistics-607-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+
+**Download**: [SPSS file](uu-Descriptive-statistics-607-nl-data.sav), [CSV file](uu-Descriptive-statistics-607-nl-data.csv)
+
+Open het databestand.
+
+Beantwoord de volgende vragen. 
+
+**Beantwoord iedere vraag met alle decimalen die in de output vermeld staan.**
+
+Answerlist
+----------
+* Het aantal respondenten waarvan de score op herkennen van vormen bekend is, is…
+* De standaardafwijking van herkennen van dieren is…
+* De maximaal behaalde score op herkennen van kleuren is…
+* De modus van herkennen van woorden is…
+
+Solution
+========
+
+Answerlist
+----------
+* Answer: 192
+* Answer: 15.08422
+* Answer: 19.00
+* Answer: 19.00
+
+
+Meta-information
+================
+exname: uu-Descriptive-statistics-607-nl.rmd
+extype: cloze
+exclozetype: num|num|num|num 
+exsolution: 192|15.08422|19.00|19.00
+extol: 0
+exsection: Descriptive statistics
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS, JASP
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

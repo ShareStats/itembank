@@ -1,0 +1,33 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-residualplot-001-nl-tabel.jpg", recursive = TRUE)
+```
+
+Question
+========
+Zie onderstaande figuur. Deze figuur wordt in de eerste plaats gemaakt om te onderzoeken of er sprake is van 
+
+![](uu-residualplot-001-nl-tabel.jpg)
+
+Answerlist
+----------
+* normaal verdeelde errors.
+* multicollineariteit.
+* invloedrijke uitbijters.
+* heteroscedasticiteit.
+
+
+Solution
+========
+
+Een "Normal P-P plot" wordt gebruikt om normaliteit te checken. 
+
+Meta-information
+================
+exname: uu-residual-plot-001-nl.Rmd
+extype: schoice
+exsolution: 1000
+exsection: Assumptions/Homoscedasticity/Residual plot
+exextra[Type]: Interpretating graph
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

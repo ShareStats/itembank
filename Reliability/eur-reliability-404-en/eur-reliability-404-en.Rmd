@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-reliability-404-en-data.sav", recursive = TRUE)
+include_supplement("eur-reliability-404-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+A researcher working at the psychology institute investigates alcohol abuse among adolescents. The researcher designed a questionnaire with 12 items using Likert scales ranging from 1 (completely disagree) to 5 (completely agree). An example of an item is: When I go out, I often consume more than 5 alcoholic beverages. The answers of 608 adolescent girls (1) and boys (2) to the 12 items are in the dataset. Note: higher scores on the questionnaire reflect more alcohol abuse.
+
+What is the highest correlation between an item and the corrected item total? (3 decimals)
+
+Open the dataset below to answer this question:
+
+**Download** [SPSS file](eur-reliability-404-en-data.sav), [CSV file](eur-reliability-404-en-data.csv)
+
+
+Solution
+========
+The highest correlation between an item and the corrected item total is 0.824 (ask for scale if item deleted descriptives when conducting the reliability analysis and look for the item-corrected total correlation).
+
+
+Meta-information
+================
+exname: eur-reliability-404-en
+extype: num
+exsolution: 0.824
+extol: 0
+exsection: Reliability/Descriptives, Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Interpretating output, Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

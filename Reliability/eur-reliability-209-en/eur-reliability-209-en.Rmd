@@ -1,0 +1,59 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+
+Question
+========
+Below you see the item variances of 12 items that together form a test to measure performance anxiety. The variance of the total score is 52.5. How many parallel items have to be added to get a reliability of .8?
+
+```{r, echo=FALSE}
+library(knitr)
+library(exams)
+Items <- 1:6
+Variance <- c(1.50, 2.10, 1.20, 0.80, 1.00, 1.30, 2.10, 2.20, 2.50, 0.90, 1.20, 1.70)
+table <- cbind(Items, Variance)
+kable(table)
+```
+Use the following formulas:
+
+
+$Alpha = (k / (k-1)) \times ( 1 - ∑S^2_i / S^2_x)$
+
+$n = (Rxx-revised \times (1-Rxx-original))/(Rxx-original \times (1- Rxx-revised))$
+
+Where Rxx-revised is the alfa you want to obtain and Rxx-original the reliability you originally had.
+
+Answerlist
+----------
+* 20
+* 8
+* 7
+* 19
+
+
+Solution
+========
+The sum of the variances is 18.5. The reliability of the test is $12 \div 11 \times (1-18.5 \div 52.2)=.706$. 
+Spearman-Brown formula can be used to calculate the lengthening factor n. This n is: $.23 \div .14=1.662$. 
+When we product this value with 12, this is 19.9. This means that 8 items have to be added.
+
+Answerlist
+----------
+* False
+* True
+* False
+* False
+
+
+Meta-information
+================
+exname: eur-reliability-209-en
+extype: schoice
+exsolution: 0100
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Calculate
+exextra[Program]: Calculator
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exshuffle: TRUE

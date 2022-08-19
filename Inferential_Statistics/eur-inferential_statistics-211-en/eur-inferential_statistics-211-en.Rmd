@@ -1,0 +1,43 @@
+Question
+========
+In order to select new personnel the police-force uses a procedure in which applicants are rated on three continuous scales: stress-resistance, sociability, and intelligence. To study the validity of this procedure a random sample of police officers is rated on these three psychological scales. Additionally, their supervisor rates their overall functioning on a scale ranging from 0 (poor functioning) to 100 (excellent functioning).
+
+A researcher wants to know whether stress-resistance and sociability together explain a significant proportion of the variation in overall functioning after controlling for intelligence. 
+Which analysis technique is most suited for this purpose?
+
+Answerlist
+----------
+* Hierarchical regression analysis
+* Multiple regression analysis (method: enter)
+* Mixed ANOVA
+* ANCOVA
+
+
+Solution
+========
+Hierarchical regression analysis is the correct answer. You want to know what the effect is of two continuous variables on overall functioning when controlling for a third continuous variable. Out of these options, only a hierarchical regression will give an answer to this question through R-squared change. 
+
+A multiple regression analysis would only test for a general effect (explained variance) and would not control for a specific variable. 
+
+Mixed ANOVA is irrelevant as there is no mix of between- and within-subjects factors.
+
+An ANCOVA is also not relevant here. You use an ANCOVA when you want to look at the effect of a categorical independent variable on a continuous dependent variable, while controlling for another continuous variable (covariate) that covariates with the dependent variable. In this case, there is no categorical independent variable.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-211-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Regression/Multiple linear regression/R squared change, Inferential Statistics/Regression/Simple linear regression, Inferential Statistics/Regression/R squared
+exextra[Type]: Test choice
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

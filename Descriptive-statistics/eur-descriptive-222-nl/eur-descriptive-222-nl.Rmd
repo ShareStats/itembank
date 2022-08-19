@@ -1,0 +1,30 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-222-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-222-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Het is gebleken dat de cijfers van het vak "inleiding in de economie" (variabele inleiding_economie) niet voor alle studenten goed berekend zijn. Alle studenten met een 8.0 of hoger krijgen er daarom 0.2 punten bij. Voer deze verandering door in het databestand en bereken het gemiddelde voor alle studenten (dus met cijfers hoger, gelijk aan EN lager dan een 8.0) voor de aangepaste cijfers. 
+
+n.b.Het aangepaste cijfer kan boven de 10 uit komen, hier hoef je NIET voor te corrigeren bij het berekenen van het gemiddelde. Schrijf je antwoord in het antwoordvakje (met 3 cijfers achter de komma)
+
+**Download**: [SPSS file](eur-descriptive-222-nl-data.sav), [CSV file](eur-descriptive-222-nl-data.csv)
+
+
+Solution
+========
+Het correcte antwoord is 4.641.
+
+
+Meta-information
+================
+exname: eur-descriptive-222-nl
+extype: num
+exsolution: 4.641
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
+exextra[Type]: Data manipulation, Calculation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

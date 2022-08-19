@@ -1,0 +1,36 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+Question
+========
+Below you find the observed scores on two parallel forms of a depression scale consisting of 8 items scored on a 5‐point Likert scale.
+
+```{r, echo=FALSE}
+library(knitr)
+Participant <- 1:6
+Form1 <- c(17,21,14,28,32,24)
+Form2 <- c(19,23,11,24,34,21)
+table <- cbind(Participant, Form1, Form2)
+kable(table)
+```
+
+Calculate the reliability of depression scale using the alternate forms estimate of reliability.
+
+
+Solution
+========
+The reliability of the depression scale can be estimated by calculating the correlation between the two alternative forms. The correlation is: $r_{F1,F2}$ = $\frac{38.67}{\sqrt{37.89 \times 46.67}} = .920$
+
+
+Meta-information
+================
+exname: eur-reliability-101-en
+extype: num
+exsolution: .920
+extol: 0
+exsection: Reliability/Analysis/Parallel forms
+exextra[Type]: Calculation
+exextra[Program]: Calculator
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

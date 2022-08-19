@@ -1,0 +1,50 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+
+Question
+========
+In the following study we want to know how 100 “PvdA”+”VVD” voters feel about the party they voted for at the moment.
+
+Calculate the Chi-square.
+
+```{r, echo = FALSE}
+Positive <- c(10, 20)
+Negative <- c(30, 40)
+table <- rbind(Positive, Negative)
+colnames(table) <- c("PvdA", "VVD")
+kable(table, caption = "Voted")
+```
+
+Answerlist
+----------
+* $\chi^2 = 1.14$
+* $\chi^2 = 0.86$
+* $\chi^2 = 0.79$
+* $\chi^2 = 0.68$
+
+
+Solution
+========
+The correct answer is 0.79.
+
+Answerlist
+----------
+* This answer is incorrect
+* This answer is incorrect
+* This is the correct answer!
+* This answer is incorrect
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-116-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/NHST/Test statistic/Chi-squared
+exextra[Type]: Calculation
+exextra[Program]: Calculator
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exshuffle: FALSE

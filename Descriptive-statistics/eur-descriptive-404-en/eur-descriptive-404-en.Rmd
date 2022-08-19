@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-404-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-404-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+A knowledge test on alcohol contains 20 items and is administered to 202 high school students. The variable [total score] gives the total correct scores. Gender (0 = woman; 1 = man) and alcohol use (0 = very often; 1 = often; 2 = sometimes; 3 = never) are also included in the dataset. 
+
+How many students have a total score that is more than 2 standard deviations above the group mean? (no decimals)
+
+Open the dataset below to answer this question:
+
+**Download** [SPSS file](eur-descriptive-404-en-data.sav), [CSV file](eur-descriptive-404-en-data.csv)
+
+
+Solution
+========
+The number of students with a total score that is more than 2 standard deviations above the mean is three (calculate z-scores and look for z-scores greater than 2).
+
+
+Meta-information
+================
+exname: eur-descriptive-404-en
+extype: num
+exsolution: 3
+extol: 0
+exsection: Descriptive statistics/Score interpretation/z-score
+exextra[Type]: Data manipulation, Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Thinking

@@ -1,0 +1,30 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-254-nl-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-254-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Je hoort heel vaak dat mensen uit grote gezinnen socialer zijn dan mensen die bijvoorbeeld enig kind waren. Een onderzoeker die zelf enig kind was vindt dit onzin. Nu besluit hij in zijn eentje een onderzoek te doen dat aantoont dat de stelling niet waar is. Hij trekt daarvoor een steekproef uit de Nederlandse bevolking en neemt bij de deelnemers een vragenlijst af om hun mate van socialiteit te bepalen. Daarnaast stelt hij vast of een deelnemer man [Geslacht = 0] of vrouw [Geslacht = 1] is, en of de deelnemer enig kind is [Gezin = 1], 1 of 2 broers/zussen heeft [Gezin = 2], of meer dan 2 broers/zussen heeft [Gezin = 3].
+
+Wat is in een model met de factor Gezin en de afhankelijke variabele Socialiteit de waarde van de gemiddelde residuele variantie (MS_within) in de steekproef? (3 decimalen)
+
+**Download**: [SPSS file](eur-inferential_statistics-254-nl-data.sav), [CSV file](eur-inferential_statistics-254-nl-data.csv)
+
+
+Solution
+========
+Het correcte antwoord is 26.461
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-254-nl
+extype: num
+exsolution: 26.461
+extol: 0
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,46 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(exams)
+library(knitr)
+```
+
+Question
+========
+In a random sample of 60 households from City 1, 45 decorate their house during the holidays. In a random sample of 50 households from nearby City 2, 40 households decorate their house. We want to estimate the difference in the proportion of households that decorate their house using a 95% confidence interval. What is the large sample standard error of the difference in sample proportions?
+
+Answerlist
+----------
+* 0.040
+* 0.0795
+* 0.0802
+* 0.1125
+
+
+Solution
+========
+The correct answer is 0.0975
+
+Answerlist
+----------
+* This answer is incorrect
+* This is the correct answer!
+* This answer is incorrect
+* This answer is incorrect
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-117-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/z-test/Two proportions, Inferential Statistics/Confidence Intervals/Confidence level
+exextra[Type]: Calculate
+exextra[Program]: Calculator
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exshuffle: FALSE

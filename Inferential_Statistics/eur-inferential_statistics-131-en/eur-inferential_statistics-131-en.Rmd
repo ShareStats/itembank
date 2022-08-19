@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-131-en-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-131-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Currently, in the Netherlands, there is debate about the usefulness of long-term detention with psychiatric treatment. A psychiatrist of a Dutch long-term detention centre collected data about aggression of detainees. The detainees were observed during group treatment sessions and the level of aggressive behavior was rated at four points in time: (1) 2 days after their admission to the centre [T1_aggression] ; (2) half a year after admission [T2_aggression]; (3) a year after admission [T3_aggression]; and (4) a year and a half after admission [T4_aggression]. The level of aggressive behavior was rated by means of a semi-structured interview, resulting in scores ranging from 0 (not aggressive) to 40 (extremely aggressive). Furthermore, the psychiatrist registered whether detainees suffered from psychosis or not [psychosis].
+
+Open the data file.
+
+Conduct an analysis for all subjects to determine whether the level of aggressive behavior differs between the four measurements [T1_aggression, T2_aggression, T3_aggression, T4_aggression]. What is the F-value for this effect according to univariate approach? (3 decimals)
+
+**Download**: [SPSS file](eur-inferential_statistics-131-en-data.sav), [CSV file](eur-inferential_statistics-131-en-data.csv)
+
+
+Solution
+========
+The F-value is 521.962.
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-131-en
+extype: num
+exsolution: 521.962
+extol: 0
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway repeated measures ANOVA
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

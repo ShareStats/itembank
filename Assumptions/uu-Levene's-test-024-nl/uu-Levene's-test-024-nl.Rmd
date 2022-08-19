@@ -1,0 +1,37 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Levene's-test-024-nl-tabel.jpg", recursive = TRUE)
+```
+
+
+
+Question
+========
+Een groep onderzoekers is geïnteresseerd in de verschillen in hartslag in angstsituaties, tussen mensen met een fobie en mensen zonder fobie. Ze willen een covariantie-analyse uitvoeren waarbij ze controleren voor hartslag in rust. Ze krijgen onder andere de volgende output:
+
+![](uu-Levene's-test-024-nl-tabel.jpg)
+
+Is voldaan aan de voorwaarde voor homogeniteit van regressiecoëfficiënten?
+
+Answerlist
+----------
+* Ja, want p = .324
+* Ja, want p = .218
+* Nee, want p = .324
+* Nee, want p = .218
+
+
+Solution
+========
+
+
+
+Meta-information
+================
+exname: uu-Levene's-test-024-nl.Rmd
+extype: schoice
+exsolution: 0100
+exsection: Assumptions/Homogeneity of variance/Levene's test
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

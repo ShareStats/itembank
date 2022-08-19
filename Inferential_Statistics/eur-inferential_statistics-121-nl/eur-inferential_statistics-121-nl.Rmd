@@ -1,0 +1,34 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-121-nl-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-121-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+*Kennis over het beroepsveld.*
+
+Een kennistoets over het beroepsveld van psychologen en pedagogen bestaat uit 20 items en is afgenomen bij 202 studenten uit de master psychologie en pedagogiek. Het totale aantal correct beantwoorde vragen is weergegeven in de variabele [totaalscore]. De variabele [opleiding] geeft aan of iemand pedagogiek (0) of psychologie (1) studeert. De variabele [masterrichting] geeft aan welke materrichting iemand volgt, namelijk klinische kinder en jeugd (0), orthopedagogiek (1), brein en cognitie (2) of arbeids- en organisatie psychologie (3).
+
+Open het databestand.
+
+Een onderzoeker denkt dat er verschillen zijn in totaalscore tussen studenten die klinische kinder en jeugd; orthopedagogiek; brein en cognitie en arbeids- en organisatie psychologie hebben gedaan. (variabele [masterrichting]). Voer een analyse uit om te onderzoeken of studenten uit verschillende masterrichtingen verschillen in gemiddelde totaalscore [totaalscore]. Wat is de effect size (partial eta squared) van dit effect? (3 decimalen)
+
+**Download**: [SPSS file](eur-inferential_statistics-121-nl-data.sav), [CSV file](eur-inferential_statistics-121-nl-data.csv)
+
+
+Solution
+========
+De effectsize, partial eta squared, is .007. De correcte analyse bij deze vraag is ANOVA.
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-121-nl
+extype: num
+exsolution: .007
+extol: 0
+exsection: Inferential Statistics/Effect size/Eta squared
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

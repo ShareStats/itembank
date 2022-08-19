@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(exams)
+library(knitr)
+```
+
+Question
+========
+A test that is constructed to measure math performance in grade 3 measures an unidentified number of constructs that constitute math performance. This tests consists of the following items:
+
+Item 1: $234+23$ 
+
+Item 2: $67 \times 5$ 
+
+Item 3: $76 \times 2$
+
+Item 4: $356 - 298$
+
+Item 5: $245 + 265$
+
+Item 6: $5 \times 36$
+
+Based on the content of this test, how may factors do you expect to find? Note: Multiple potential answers can be given. The underlying argument is more important than the number of factors.
+
+
+Solution
+========
+There are three kinds of items, addition, subtraction and multiplication. We expect to find three factors (addition, subtraction and multiplication). However, one could also argue that addition and subtraction fall under the same underlying construct, making it possible that one could expect two factors.
+
+
+Meta-information
+================
+exname: eur-factor-103-en
+extype: string
+exsolution: 
+extol: 
+exsection: Factor analysis/Exploratory factor analysis
+exextra[Type]: Conceptual
+exextra[Program]: none
+exextra[Language]: English
+exextra[Level]: Statistical Reasoning

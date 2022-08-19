@@ -1,0 +1,36 @@
+
+
+Question
+========
+Stichting Skepsis werpt een kritische blik op buitengewone beweringen, pseudowetenschappelijke theorieën, dubieuze therapieën en paranormale overtuigingen. Er is in dit kader een experiment gedaan naar de mate van scepsis van academici bij het beoordelen van onderzoeksresultaten. Respondenten werden random toegewezen aan drie informatiebronnen:
+
+1 = wetenschapsbijlage van de krant, 
+2 = peer reviewed wetenschappelijk tijdschrift,
+3 = populair wetenschappelijk tijdschrift.
+
+Naast deze experimentele conditie werden ook de variabele SEKSE en de variabele LEEFTIJD (in jaren) betrokken in de analyse.
+
+Stel dat geen van de noodzakelijke assumpties is geschonden, welke analysetechniek is dan het meest geschikt voor het analyseren van de relaties tussen de onafhankelijke variabelen en de afhankelijke variabele?
+
+Answerlist
+----------
+* Tweeweg ANOVA
+* Tweeweg ANCOVA
+* Drieweg ANCOVA
+* Drieweg ANOVA
+
+
+Solution
+========
+Uitleg: De afhankelijke variabele is de beoordeling die de respondenten geven aan de artikelen. Hoe dit gemeten is, wordt niet duidelijk. Echter wijzen alle antwoordcategorieën op een variabele van minimaal interval-meetniveau. De onafhankelijke variabele in dit onderzoek is het type informatiebron (nominaal meetniveau, 3 categorieën). Daarnaast is het voor de hand liggend om te controleren op SEKSE (nominaal, 2 categorieën) en LEEFTIJD (in jaren, dus ratio meetniveau). In deze cursus is geen aandacht besteedt aan nominale covariaten, zodoende wordt SEKSE meegenomen als onafhankelijke variabele. Dit brengt het totaal op twee onafhankelijke variabelen, één covariaat en één afhankelijke variabele. Dit levert een tweeweg ANCOVA op als passende analysetechniek.
+
+
+Meta-information
+================
+exname: uu-ancova-132-nl.Rmd
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA
+exextra[Type]: Test choice
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

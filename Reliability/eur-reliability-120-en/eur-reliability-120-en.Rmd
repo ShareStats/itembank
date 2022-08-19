@@ -1,0 +1,34 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(exams)
+library(knitr)
+
+# add picture
+include_supplement("eur-reliability-120-en-img120.png", recursive = TRUE)
+include_supplement("eur-reliability-120-en-img1201.png", recursive = TRUE)
+```
+Question
+========
+In a clinical study, a researcher investigates the relationship between visual analogue scales (VAS) and interpretation bias (VAS‐IB) in children who have been diagnosed with an anxiety disorder. Below you see the scatterplot of the two variables in the non‐clinical population. The correlation between the variables is .5.
+
+![](eur-reliability-120-en-img1201.png)
+
+Explain whether the correlation between VAS‐IB and VAS‐SA in a clinical population, in which the VAS‐IB scores will roughly be in the range [60,100], will be about the same, lower or higher than the correlation in the non‐clinical population.
+
+Solution
+========
+The correlation between VAS‐IB and VAS‐SA in a clinical population will be lower than the correlation in the non‐clinical situation. This is because there is a restriction of range in at least one of the variables (VAS‐SA). Because the variation in scores is lower, the correlation between any other variable will be smaller. See the figure below. For the whole range (left) the correlation is much higher than for the restricted [60‐100] range.
+
+![](eur-reliability-120-en-img120.png)
+
+Meta-information
+================
+exname: eur-reliability-120-en
+extype: string
+exsolution: 
+extol: 
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

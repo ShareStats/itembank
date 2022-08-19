@@ -1,0 +1,29 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-244-en-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-244-en-data.csv", recursive = TRUE)
+```
+Question
+========
+Feyenoord and Ajax fans often criticize each other's teams. We will be looking at what team a person is a fan of [Fan, where Feyenoord = 0 and Ajax = 1], in what city a person lives [City, where Rotterdam = 1, Amsterdam = 2, Dordrecht = 3 and Haarlem = 4], the number of games played by the favourite team that they watched over the years (so the amount of games played by Feyenoord watched by a Feyenoord fan) [played_favourite] and to the amount of games played by the other team that someone watched over the years [played_other]. We also registered whose team became division champion in the last 4 years [Champion, where No championship = 0 and Championship = 1].
+
+What is the Relative Risk (RR) of winning the championship [Champion=1] for Feyenoord fans compared to Ajax fans [Fan]? Report the Relative Risk (using 3 decimals).
+
+**Download**: [SPSS file](inferential_statistics-244-en-data.sav), [CSV file](inferential_statistics-244-en-data.csv)
+
+
+Solution
+========
+The correct answer is 0.833.
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-244-en
+extype: num
+exsolution: 0.833
+extol: 0
+exsection: Inferential Statistics/Parametric Techniques/Cross tables
+exextra[Type]: Interpretating output, Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

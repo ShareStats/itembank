@@ -1,0 +1,33 @@
+Question
+========
+  
+Five students conduct five different experiments. Each of the five experiments has five possible outcomes, denoted by $A, B, C, D,$ and $E$. No other outcomes are possible. Let $P(A), P(B), P(C), P(D),$ and $P(E)$ denote the probabilities with which these outcomes will be observed. Based on their data the students estimate these probabilities as follows:
+
+Student 1: $P(A)=0.15, P(B)=0.25, P(C)=0.13, P(D)=0.37, P(E)=0.10$
+
+Student 2: $P(A)=0.21, P(B)=0.26, P(C)=0.54, P(D)=0.02, P(E)=0.04$
+
+Student 3: $P(A)=0.23, P(B)=0.47, P(C)=0.19, P(D)=0.05, P(E)=0.06$
+
+Student 4: $P(A)=0.10, P(B)=0.30, P(C)=0.10, P(D)=0.60, P(E)=-0.10$
+
+Student 5: $P(A)=0.17, P(B)=0.23, P(C)=0.15, P(D)=0.45, P(E)=0.03$
+
+Which of the students definitely made a mistake in the calculation? Explain why you think they made a mistake. Multiple answers are possible. 
+
+Solution
+========
+Student 2: The sum of the probabilities exceeds 1.
+
+Student 4: A probability cannot be negative.
+
+Student 5: The sum of the probabilities exceeds 1.
+
+Meta-information
+================
+exname: uu-General-Rules-005-en.Rmd
+extype: string
+exsolution: 2, 4 and 5
+exsection: Probability/Elementary Probability/General Rules
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

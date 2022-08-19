@@ -1,0 +1,37 @@
+Question
+========
+According to classical test theory the variance of the observed score is equal to the variance of the true score plus the variance of the error. Which of the following answers is a correct representation of the mathematical proof of this?
+
+Answerlist
+----------
+* $S^2_{XO} = S^2_{XT+XE} = S_{(XT+XE)(XT+XE)} = S_{X^2_T + X^2_E - 2{XTXE}} = S^2_{XT} + S^2_{XE} -2c_{XtXE} = S^2_{XT} + S^2_{XE}$
+* $S^2_{XO} = S^2_{XT+XE} = S_{(XT+XE)(XT+XE)} = S_{X^2_T + X^2_E + XTXE} = S^2_{XT} + S^2_{XE} -2c_{XtXE} = S^2_{XT} + S^2_{XE}$
+* $S^2_{XO} = S^2_{XT+XE} = S_{(XT+XE)(XT+XE)} = S_{X^2_T + X^2_E - 2{XTXE}} = S^2_{XT} + S^2_{XE} +2c_{XtXE} = S^2_{XT} + S^2_{XE}$
+* $S^2_{XO} = S^2_{XT+XE} = S_{(XT+XE)(XT+XE)} = S_{X^2_T + X^2_E + 2{XTXE}} = S^2_{XT} + S^2_{XE} -2c_{XtXE} = S^2_{XT} + S^2_{XE}$
+
+
+Solution
+========
+- It is not MINUS 2cxtxe, but PLUS. 
+- it is 2 times cxtxe and not once. 
+- For the fourth step, we speak of the true score and error variance, not standard deviation (squares are missing)
+
+Answerlist
+----------
+* False
+* False
+* True
+* False
+
+
+Meta-information
+================
+exname: eur-reliability-204-en
+extype: schoice
+exsolution: 0010
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Reasoning
+exshuffle: TRUE

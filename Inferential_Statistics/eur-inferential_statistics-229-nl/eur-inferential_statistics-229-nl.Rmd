@@ -1,0 +1,30 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-229-nl-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-229-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een vraag die onderzoekers al jaren bezighoudt is…slaap je nu echt slechter als je naar een horror-film hebt gekeken? Om deze vraag voor eens en voor altijd te beantwoorden heeft een onderzoeker aan de EUR een steekproef getrokken uit alle bezoekers van een Horror-film festival (Slasher-fest) in Rotterdam.  De deelnemers moesten aangeven hoe lang de film was die ze hadden gekeken op het festival, en hoeveel uur ze de avond na het festival hadden geslapen. Ook heeft de onderzoeker een vragenlijst afgenomen bij de deelnemers waarmee hij hun “mate van angstigheid” kon meten, en heeft hij geregistreerd of iemand man [Geslacht = 0] of vrouw [Geslacht = 1] was.
+
+Als je de correlatie wilt weten tussen het aantal uren slaap [UrenSlaap] en het aantal minuten film [MinutenFilm], kijk je naar de Pearson correlatie. Geef de waarde van deze correlatie. (3 decimalen)
+
+**Download**: [SPSS file](eur-inferential_statistics-229-nl-data.sav), [CSV file](eur-inferential_statistics-229-nl-data.csv)
+
+
+Solution
+========
+Het correcte antwoord is 0.069.
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-229-nl
+extype: num
+exsolution: 0.069
+extol: 0
+exsection: Inferential Statistics/Parametric Techniques/Correlations/Pearson
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

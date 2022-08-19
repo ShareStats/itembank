@@ -1,0 +1,44 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Cronbach's-alpha-008-nl-tabel.jpg", recursive = TRUE)
+```
+
+
+
+Question
+========
+De onderstaande SPSS-uitvoer van de betrouwbaarheidsanalyse voor de schaal Negatieve Faalangst is gebaseerd op de gegevens van de Prestatie Motivatie Test voor Kinderen (PMTK). 
+Stel dat je de test moet verkorten, welk van de vier genoemde items komt dan het minst in aanmerking om uit de schaal te verwijderen? 
+  
+
+![](uu-Cronbach's-alpha-008-nl-tabel.jpg)
+  
+Answerlist
+----------
+* Item 1
+* Item 5
+* Item 11
+* Item 14
+
+Solution
+========
+  
+Deze vraag kan op 2 manieren benaderd worden, namelijk op basis van de item-rest correlatie en op basis van Cronbach’s Alpha if item deleted.
+-	Item-rest correlatie: hoe hoger de item-rest correlatie is (kolom: Corrected Item-Total Correlation), des te beter een item past in de schaal. Een item komt dus het minst in aanmerking als de Item-rest correlatie het hoogst is (wat wijst op item 11, r = .61).
+- Cronbach’s Alpha if item deleted: In de gelijknamige kolom is de Cronbach’s Alpha gegeven, als het betreffende item uit de schaal verwijderd wordt. Aangezien het doel is om een zo hoog mogelijk Cronbach’s Alpha te hebben, komt een item het minst in aanmerking om verwijderd te worden als Cronbach’s alpha het laagst is (wat wijst op item 11, alpha = .829).
+
+
+Answerlist
+----------
+
+
+
+Meta-information
+================
+exname: uu-Cronbach's-alpha-008-nl.Rmd
+extype: schoice
+exsolution: 0010
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

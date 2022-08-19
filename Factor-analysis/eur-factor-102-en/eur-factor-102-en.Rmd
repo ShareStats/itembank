@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+
+# add picture
+include_supplement("EUR-Factor-102-ENG-img102.png", recursive = TRUE)
+```
+
+Question
+========
+Below you can find the output of a factor analysis on 8 items measuring mutuism, alongside its relevant screeplot.
+
+```{r, echo=FALSE}
+library(knitr)
+Factor <- 1:8
+Total <- c(2.2, 1.8, 1.1, 0.9, 0.8, "...", 0.3, 0.3)
+table <- cbind(Factor, Total)
+kable(table)
+```
+
+![](EUR-Factor-102-ENG-img102.png)
+
+Based on the table as well as the screeplot, how many factors would you choose?
+
+
+Solution
+========
+Based on the screeplot, one should choose two factors. However, there are three factors with eigenvalues larger than 1; based on the kaiser criterion, one would have to go with three factors. This last criterion however does not account for the fact that tests with a larger number of items are more likely to have eigenvalues larger than 1 compared to tests with a smaller number of tests, even when these two tests aim to measure the same constructs. Between these two options, basing the decision off of the differences in eigenvalues and the scree plot is the preferred option (2 factors), but it is difficult to decide how many factors we should choose without any theory or information about the interpretability of the factors.
+
+
+Meta-information
+================
+exname: eur-factor-102-en
+extype: num
+exsolution: 2
+extol: 0
+exsection: Factor analysis/Scree plot, Factor analysis/Exploratory factor analysis, Factor analysis/Eigenvalues, Factor analysis/Explained variance
+exextra[Type]: Interpreting graph
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Reasoning

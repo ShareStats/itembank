@@ -1,0 +1,28 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-226-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-226-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Wat is de Z-score voor macro-economie (variabele: macro_economie) van student met studentnummer 344000 (variabele: st)? Schrijf je antwoord in het antwoordvakje (met 5 cijfers achter de komma).
+
+**Download**: [SPSS file](eur-descriptive-226-nl-data.sav), [CSV file](eur-descriptive-226-nl-data.csv)
+
+
+Solution
+========
+Het correcte antwoord is 1.99334.
+
+
+Meta-information
+================
+exname: eur-descriptive-226-nl
+extype: num
+exsolution: 1.99334
+extol: 0
+exsection: Descriptive statistics/Score interpretation/z-score
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

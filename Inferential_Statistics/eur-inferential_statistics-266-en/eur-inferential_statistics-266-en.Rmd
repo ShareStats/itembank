@@ -1,0 +1,28 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-266-en-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-266-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Test whether the mean grade on course exam 1.1 (variable course1_1) deviates significantly from the mean grade on course exam 1.6 (variable course1_6). Write the observed t-value in the answer box (with 3 decimal places).
+
+**Download**: [SPSS file](eur-inferential_statistics-266-en-data.sav), [CSV file](eur-inferential_statistics-266-en-data.csv)
+
+
+Solution
+========
+The correct solution is 26.535.
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-266-en
+extype: num
+exsolution: 26.535
+extol: 0
+exsection: Inferential Statistics/NHST/Test statistic/t-statistic, Inferential Statistics/Parametric Techniques/t-test/Paired samples
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

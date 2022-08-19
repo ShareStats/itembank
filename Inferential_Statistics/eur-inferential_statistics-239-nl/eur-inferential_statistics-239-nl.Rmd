@@ -1,0 +1,30 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-239-nl-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-239-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een onderzoeker twijfelt of hij toch niet beter atleet kan worden, en als hij daarvoor kiest, welke sport hij dan het beste kan kiezen. Om dit voor zichzelf te bepalen heeft hij een steekproef getrokken uit alle professionele sporters in de VS en bepaald wat hun gemiddelde jaarlijkse inkomen was (in 10.000 dollars). Daarnaast heeft hij bepaald wat voor sport [Voetbal = 1, Basketbal = 2, Honkbal = 3] iemand deed, en of het ging om een mannelijke [Geslacht = 0] of een vrouwelijke [Geslacht = 1] atleet.
+
+Wat is de effect size [partial eta squared] van het interactie-effect van type sport [Sport] en geslacht [Geslacht]? (3 decimalen)
+
+**Download**: [SPSS file](eur-inferential_statistics-239-nl-data.sav), [CSV file](eur-inferential_statistics-239-nl-data.csv)
+
+
+Solution
+========
+Het antwoord is 0.028.
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-239-nl
+extype: num
+exsolution: 0.028
+extol: 0
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA, Inferential Statistics/Effect size/Eta squared
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

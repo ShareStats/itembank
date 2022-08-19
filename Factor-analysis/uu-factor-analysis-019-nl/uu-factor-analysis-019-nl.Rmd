@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-factor-analysis-019-nl-tabel.jpg", recursive = TRUE)
+```
+
+
+
+Question
+========
+  
+Welke uitspraak is juist over het reduceren van het aantal factoren? 
+
+![](uu-factor-analysis-019-nl-tabel.jpg)
+  
+Answerlist
+----------
+* Aan de hand van het percentage verklaarde variantie zouden we kiezen voor 1 factor, want 31.7% is al een goed deel van de variantie die verklaard wordt.
+* Aan de hand van de factorladingen zouden we kiezen voor twee factoren, want er is 1 item dat op 2 factoren laadt, dus die twee moeten samengevoegd worden. 
+* Aan de hand van de interfactor correlaties zouden we kiezen voor 3 factoren, want geen van de correlaties geven gekwadrateerd een matig of sterk verband aan. 
+* Aan de hand van het scree-plot kiezen we voor twee factoren want de knik zit boven de 2. 
+
+
+
+
+Solution
+========
+
+
+Answerlist
+----------
+
+
+Meta-information
+================
+exname: uu-factor-analysis-019-nl.Rmd
+extype: schoice
+exsolution: 0010
+exsection: Factor analysis
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

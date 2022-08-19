@@ -1,0 +1,28 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-262-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-262-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Wat is de bovengrens van het 95% betrouwbaarheidsinterval voor het gemiddelde van de bloktoets van 4.1 (variabele vak41)? Schrijf je antwoord in het antwoordvakje (met 4 cijfers achter de komma)
+
+**Download**: [SPSS file](eur-descriptive-262-nl-data.sav), [CSV file](eur-descriptive-262-nl-data.csv)
+
+
+Solution
+========
+Het correcte antwoord is 6.0728.
+
+
+Meta-information
+================
+exname: eur-descriptive-262-nl
+extype: num
+exsolution: 6.0728
+extol: 0
+exsection: Inferential Statistics/Confidence Intervals/Confidence level, Inferential Statistics/Confidence Intervals/Width
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

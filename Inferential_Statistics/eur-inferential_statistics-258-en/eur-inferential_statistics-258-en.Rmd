@@ -1,0 +1,30 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-258-en-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-258-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+A researcher is aware that he is a very narcissistic person, and wants to switch to a job in which this narcissism is not such a big deal. To determine which job he should choose he takes a random sample of the members of the International Club for Quite Narcissistic People (ICQNP) and determined the degree of narcissism using a questionnaire. In addition, he determined the job [Job, where CEO = 1, Manager = 2 and Statistician = 3] of the participants, and whether they are male [Gender = 0] or female [Gender = 1].
+
+What is the effect size [partial eta squared] for the interaction effect of job [Job] and gender [Gender]? (3 decimals)
+
+**Download**: [SPSS file](eur-inferential_statistics-258-en-data.sav), [CSV file](eur-inferential_statistics-258-en-data.csv)
+
+
+Solution
+========
+The correct answer is 0.023.
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-258-en
+extype: num
+exsolution: 0.023
+extol: 0
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

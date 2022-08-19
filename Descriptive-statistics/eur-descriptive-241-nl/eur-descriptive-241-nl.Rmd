@@ -1,0 +1,28 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-241-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-241-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Bereken het aantal studenten dat lager of gelijk aan een 3.9 heeft gescoord voor 3 van de 7 tentamens (variabelen: vak1 t/m vak7). Schrijf je antwoord in het antwoordvakje (geen cijfers achter de komma).
+
+**Download**: [SPSS file](eur-descriptive-241-nl-data.sav), [CSV file](eur-descriptive-241-nl-data.csv)
+
+
+Solution
+========
+Het correcte antwoord is 124.
+
+
+Meta-information
+================
+exname: eur-descriptive-241-nl
+extype: num
+exsolution: 124
+extol: 0
+exsection: Descriptive statistics/Score interpretation/Percentile, Descriptive statistics/Summary Statistics/Proportion
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

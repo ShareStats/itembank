@@ -1,0 +1,30 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-128-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-128-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Open the SPSS file.
+
+A researcher wants to recode the 7-point scale for statement 2 (variable statement2) to a 5-point scale: the response options 1 and 2 are combined into category 2 and the answer options 6 and 7 are combined to form category 6. The other options remain the same, i.e., 3 = 3, 4 = 4 and 5 = 5. Calculate the mean course exam grade for course 1.3 (variable course1_3) for students in the new category 6 of statement 2. Round your answer to 5 decimal places.
+
+**Download**: [SPSS file](eur-descriptive-128-en-data.sav), [CSV file](eur-descriptive-128-en-data.csv)
+
+
+Solution
+========
+The mean course exam grade for course 1.3 for students in the new category 6 of statement 2 is 4.63364.
+
+
+Meta-information
+================
+exname: eur-descriptive-128-en
+extype: num
+exsolution: 4.63364
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
+exextra[Type]: Calculation, Data manipulation
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

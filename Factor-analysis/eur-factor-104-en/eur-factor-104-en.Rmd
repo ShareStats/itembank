@@ -1,0 +1,33 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(exams)
+library(knitr)
+
+# add picture
+include_supplement("eur-factor-104-en-img104.png", recursive = TRUE)
+```
+
+
+Question
+========
+![](eur-factor-104-en-img104.png)
+
+A principal component analyses was performed on six items to extract the number of factors. The output from SPSS is shown in the matrices above. Why isn’t the factor matrix a useful matrix to interpret the extracted factors?
+
+
+Solution
+========
+The factor matrix gives the factor loadings of the unrotated solution. In general this matrix shows relatively high loadings on the first factor and lower loadings on the second, third, etc. factor. Therefore it is hard to interpret the factors on the basis of the loadings in the factor matrix.
+
+
+Meta-information
+================
+exname: eur-factor-104-en
+extype: string
+exsolution: 
+extol: 
+exsection: Factor analysis, Factor analysis/Factor loadings, Factor analysis/Confirmatory factor analysis, Factor analysis/Principle component analysis
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

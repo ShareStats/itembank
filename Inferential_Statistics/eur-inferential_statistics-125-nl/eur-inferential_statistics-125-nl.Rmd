@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-125-nl-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-125-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een onderzoeker is geïnteresseerd in de gevolgen van de financiële crisis voor 16- en 17 jarigen en wil graag hun uitgaven aan vrije tijd in november 2012 [expenses_nov] voorspellen aan de hand van een aantal predictoren. Ze heeft de volgende gegevens verzameld bij 202 jongeren: 1) De uitgaven in de maand november 2012 [expenses_nov]; 2) de uitgaven in de maand juli 2012 [expenses_jul]; 3) de inkomsten uit een bijbaan in november 2012 [salary_nov]; 4) het aantal uren dat de jongeren gemiddeld aan hun studie besteedden in de maand december 2012 [studytime]; en 5) het opleidingsniveau [education] (1 = vmbo, 2 = havo, 3 = vwo). 
+
+Open het databestand. Voorspel de uitgaven in november 2012 [expenses_nov] uit de uitgaven in de maand juli 2012 [expenses_jul], de inkomsten uit een bijbaan in december 2012 [salary_nov] en studietijd [studytime]. 
+
+Wat is in dit model de voorspelde uitgave in november 2012 voor de jongere met proefpersoonnummer [pp] 63? (geen decimalen)
+
+**Download**: [SPSS file](eur-inferential_statistics-125-nl-data.sav), [CSV file](eur-inferential_statistics-125-nl-data.csv)
+
+
+Solution
+========
+De voorspelde uitgave in november 2012 voor de jongere met proefpersoonnummer 63 is 274.
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-125-nl
+extype: num
+exsolution: 274
+extol: 0
+exsection: Inferential Statistics/Regression/Prediction
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,47 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Eigenvalues-031-nl-tabel.jpg", recursive = TRUE)
+```
+
+
+
+Question
+========
+  
+‘Aan moderne ouders worden zoveel eisen gesteld, dat ze gemakkelijk faalangst kunnen oplopen’ (Trouw, 7 januari 2014). 
+In een onderzoek naar de onzekerheden en faalangst van ouders is aan een aselecte steekproef van ouders een verzameling van 21 relevante items voorgelegd. De respondenten moesten voor elk item aangeven in welke mate het van toepassing was (1 = geheel niet op mij van toepassing tot en met 7 = geheel op mij van toepassing).
+
+Voorbeeld: De verantwoordelijkheid van de opvoeding valt mij zwaar.
+
+Zie onderstaande uitvoer van een principal axis factoranalyse (PAF) met scheve (oblimin) rotatie voor 21 items over onzekerheid en faalangst van ouders. 
+
+Hoeveel factoren selecteer je op basis van het eigenwaarde groter dan 1 criterium?
+
+![](uu-Eigenvalues-031-nl-tabel.jpg)
+  
+Answerlist
+----------
+* 1
+* 2
+* 3
+* Meer dan 4
+
+Solution
+========
+  
+Uitleg: Bij het eigenwaardecriterium selecteer je de factoren met een eigenwaarde groter dan 1. In de kolom Total onder het kopje Initial Eigenvalues is te zien dat 6 factoren een eigenwaarde groter dan 1 hebben. In dit onderzoek worden zodoende 6 factoren (meer dan 4) geselecteerd op basis van het eigenwaardecriterium.
+
+Answerlist
+----------
+
+
+
+Meta-information
+================
+exname: uu-Eigenvalues-031-nl.Rmd
+extype: schoice
+exsolution: 0001
+exsection: Factor analysis/Eigenvalues
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

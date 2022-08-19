@@ -1,0 +1,43 @@
+
+Question
+========
+  
+In een experiment naar de gevoeligheid voor omgevingsgeluiden bij de uitvoering van cognitieve taken krijgen de deelnemers tien opgaven. De betrouwbaarheid rXX’ van deze test (berekend over de samengestelde score van de tien opgaven) bedraagt .60. Een onderzoeker besluit tot een uitbreiding met vijf gelijkwaardige opgaven.
+
+De geschatte betrouwbaarheid van de verlengde test (rvv') is dan:
+
+
+Answerlist
+----------
+* rvv' is kleiner of gelijk aan 0.60
+* rvv' is groter dan 0.60 maar kleiner of gelijk aan 0.70
+* rvv' is groter dan 0.70 maar kleiner of gelijk aan 0.80
+* rvv' is groter dan 0.80
+
+Solution
+========
+  
+We bepalen eerste de verlengingsfactor:
+
+$v= \frac {k'}{k} = \frac {Nieuwe aantal items} {Oorspronkelijk aantal items} = \frac {15}{10} = 1.50$
+
+We weten dat de oorspronkelijke betrouwbaarheid van de test .60 was. Met behulp van de SPearman Brown formule berekenen we de geschatte betrouwbaarheid van de verlenge test:
+
+$r_{vv'} = \frac {v * r_{oo'}} {1 + (v-1)r{oo'}} = \frac {1.50 * 0.60}  {1+ (1.50-1) * 0.60} = \frac {0.90}{1.30} = 0.69 $
+  
+
+
+Answerlist
+----------
+
+
+
+Meta-information
+================
+exname: uu-reliability-005-nl.Rmd
+extype: schoice
+exsolution: 0100
+exsection: Reliability
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

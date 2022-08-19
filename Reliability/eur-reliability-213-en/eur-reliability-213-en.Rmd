@@ -1,0 +1,46 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+
+Question
+========
+Exams aim at measuring a person's true score. The accuracy of this measurement of the true score will likely be lower if the reliability of the test is too low. One way to theoretically compensate for this lower accuracy is by calculating the adjusted true score: $X_{est} = x̄ + R_{xx}(X_o-x̄)$
+
+Suppose that the average score of a psychometric exam is 5.8. The reliability of this test is .31 (Cronbach’s alpha); A grade of at least 5.5 is needed to pass the exam. 
+
+The table below shows the frequencies of the students who did not pass the first exam. How many of these students do you expect to pass the retake without preparing? Assume that the reliability of the retake is 1. Round the answer to 2 decimals
+
+
+```{r, echo=FALSE}
+library(knitr)
+library(exams)
+Grade <- c(2.1, 3.4, 3.7, 4.0, 4.3, 4.6, 4.9, 5.2)
+Frequency <- c(2, 10, 15, 20, 15, 15, 10, 13)
+table <- rbind(Grade, Frequency)
+kable(table)
+```
+
+
+Solution
+========
+We can calculate the observed score which is accompanied with an adjusted true score 5.5. 
+$5.5 = 5.8 + .31(x - 5.8)$
+$-.3 = .31X - 1.798$
+$1.498 = .31X$
+$X = 4.83$
+
+Thus, an observed score of 4.83 or higher would lead to an expected true score 5.5. 23 students have observed scores higher than 4.83 and will pass the retake without preparing.
+
+
+Meta-information
+================
+exname: eur-reliability-213-en
+extype: num
+exsolution: 23
+extol: 0
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Calculate
+exextra[Program]: Calculator
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

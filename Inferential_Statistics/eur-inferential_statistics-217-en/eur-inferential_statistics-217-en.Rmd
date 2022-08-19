@@ -1,0 +1,40 @@
+Question
+========
+The figure below is an interaction plot resulting from a factorial ANOVA with two between-subject factors, A and B, each with two conditions and N = 40.
+
+![figure 1: Factorial ANOVA](Factorial Anova.PNG)
+
+Which of the three effects in the factorial ANOVA would certainly NOT be significant?
+
+Answerlist
+----------
+* the main effect of A, we are not sure about the main effect of B
+* the main effect of A as well as the main effect of B
+* the interaction effect A*B
+* b, and c are both correct
+
+
+Solution
+========
+The main effect of an independent variable refers to the overall effect of this variable on the dependent variable, regardless of the level of the other independent variable. From the graph you can see that there is no difference in means between A1 and A2. This average appears to be the same for both conditions (you can see for each condition of A by taking the midpoint between the lines B1 and B2; the point you find for A1 is at the same height as the point for A2). So there is no main effect of A, because in this case you would expect a difference between the means of A1 and A2. The same is also true for B1 and B2. So there is also no main effect of B.
+
+You would however expect an interaction, considering the lines cross each other so cleanly.
+
+Answerlist
+----------
+* False
+* True
+* False
+* False
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-217-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA, Inferential Statistics/NHST/p-value
+exextra[Type]: Interpretating graph
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

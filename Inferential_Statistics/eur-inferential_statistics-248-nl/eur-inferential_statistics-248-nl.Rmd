@@ -1,0 +1,30 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-248-nl-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-248-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Zoals iedere volwassene weet is koffie van onschatbare waarde op de werkvloer…..geen koffie, geen productiviteit. Dicht bij het koffieapparaat zitten is dan ook een must voor iedere werknemer. Om te kijken hoe belangrijk een plek dicht het koffie-apparaat is heeft een onderzoeker aan de EUR een steekproef getrokken uit alle werknemers in Nederland. De deelnemers moesten daarom voor de eerste maandag van de maand aangeven hoeveel minuten ze die dag in totaal bezig waren met lopen van en naar het koffie-apparaat, en hoeveel uur ze die dag hebben gewerkt. Ook heeft de onderzoeker een vragenlijst afgenomen bij de deelnemers waarmee hij hun “work-a-holic” score kon bepalen, en heeft hij geregistreerd of iemand man [Geslacht = 0] of vrouw [Geslacht = 1] was.
+
+Als je de correlatie wilt weten tussen het aantal uren besteed aan werk [UrenWerk] en het aantal minuten gespendeerd aan lopen naar het koffiezet apparaat [MinutenKoffie], kijk je naar de Pearson correlatie. Geef de waarde van deze correlatie. (3 decimalen)
+
+**Download**: [SPSS file](eur-inferential_statistics-248-nl-data.sav), [CSV file](eur-inferential_statistics-248-nl-data.csv)
+
+
+Solution
+========
+Het antwoord is 0.075.
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-248-nl
+extype: num
+exsolution: 0.075
+extol: 0
+exsection: Inferential Statistics/Parametric Techniques/Correlations/Pearson
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

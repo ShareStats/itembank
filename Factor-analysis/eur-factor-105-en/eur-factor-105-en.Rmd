@@ -1,0 +1,26 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+
+Question
+========
+A researcher is interested in measuring motivation. She realizes that motivation consists of various aspects or dimensions. Based on the results of a factor analysis, she can extract 4 dimensions. A colleague advised her to use rotation. What is a advantage of conducting a(n) (oblique) rotation?
+
+
+Solution
+========
+Conducting a(n) (oblique) rotation is very helpful when interpreting the factors. The technique allows you to discover whether simple structure exists and thus investigate whether items that theoretically measure the same thing exclusively load on the same factor.
+
+
+Meta-information
+================
+exname: eur-factor-105-en
+extype: string
+exsolution: 
+extol: 
+exsection: Factor analysis/Rotations, Factor analysis/Exploratory factor analysis
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

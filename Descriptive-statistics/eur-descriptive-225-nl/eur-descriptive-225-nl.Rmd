@@ -1,0 +1,28 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-225-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-225-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Wat is de standaarddeviatie van de cijfers voor macro-economie (variabele: macro_economie)? Schrijf je antwoord in het antwoordvakje (met 5 cijfers achter de komma).
+
+**Download**: [SPSS file](eur-descriptive-225-nl-data.sav), [CSV file](eur-descriptive-225-nl-data.csv)
+
+
+Solution
+========
+Het correcte antwoord is 2.02117.
+
+
+Meta-information
+================
+exname: eur-descriptive-225-nl
+extype: num
+exsolution: 2.02117
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

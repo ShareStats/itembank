@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-133-en-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-133-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+A researcher is interested in the influence of the drop in price for gasoline (bezine) on students who own a car. He wants to predict how many kilometers they will drive in in Januari 2015 [KM_JAN] by using a few predictors. For 202 students, the researcher has gathered the following data: 1) actual driven kilometers in Jan 2015 [KM_JAN], 2) actual driven kilometers in October 2014 [KM_OCT], 3) income for January 2015 [INCOME_JAN], 4) total kilometers traveled using public transport for February 2015 [PUB_TRANS], and 5) type of car [car] (1 = hybrid, 2 = sedan, 3 = suv).
+
+Open the data file. 
+
+Compute the correlations between the predictors: [KM_OCT],  [INCOME_JAN], [PUB_TRANS], and the outcome variable [KM_JAN]. Choose in this analysis a listwise exclusion of missing values. Which predictor has the highest correlation with the outcome variable? Report this correlation. (3 decimals)
+
+**Download**: [SPSS file](eur-inferential_statistics-133-en-data.sav), [CSV file](eur-inferential_statistics-133-en-data.csv)
+
+
+Solution
+========
+The correlation is 0.694.
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-133-en
+extype: num
+exsolution: 0.451
+extol: 0
+exsection: Inferential Statistics/Parametric Techniques/Correlations/Pearson
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

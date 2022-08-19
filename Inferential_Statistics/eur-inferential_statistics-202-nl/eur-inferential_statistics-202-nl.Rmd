@@ -1,0 +1,58 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+
+Question
+========
+Een onderzoeker wil weten of kinderen die vaak een koptelefoon op hebben een slechter gehoor hebben dan kinderen die nooit een koptelefoon op hebben. Hoe hoger de score op de gehoortest, des te beter het gehoor. De betrouwbaarheid van een gehoormeting is .81. In onderstaande tabel staan de gemiddelden en standaarddeviaties van de twee groepen. Hoe hoog zou de effect-size Cohen’s d, $d_{XT}$ zijn als de gehoortest perfect betrouwbaar was geweest?
+
+```{r, echo=FALSE}
+library(knitr)
+Condition <- c("Headphones", "No headphones")
+Mean <- c(10, 11.25)
+SD <- c(2, 3)
+N <- c(30, 30)
+table <- cbind(Condition, Mean, SD, N)
+kable(table)
+```
+
+Answerlist
+----------
+* .405
+* .490
+* .545
+* .556
+
+
+Solution
+========
+First you use: 
+ $d_{xO} = (x̄_{O1} -x̄_{O2}) \div √ ((S^2_{O1}+S^2_{O2}) \div 2)$ to calculate $d_{Xo}$. 
+
+This makes $(11.25 - 10) \div √((9 + 4) \div 2)=1.25 \div √6.5 = (1.25 ) \div (2.5495) = 0.490$. 
+
+Then you use:
+$d_{X_O} = d_{X_T} \times √R_{XX}$
+
+To calculate $d_{X_T}$, this makes $0.409 \div √0.81 = 0.409 \div 0.9 = 0.545$.
+
+Answerlist
+----------
+* False
+* False
+* True
+* False
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-202-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Effect size/Cohen's d
+exextra[Type]: Calculate
+exextra[Program]: Calculator
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exshuffle: TRUE

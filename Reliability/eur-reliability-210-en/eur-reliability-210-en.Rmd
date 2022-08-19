@@ -1,0 +1,55 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+
+Question
+========
+In the population, shyness is normally distributed with a mean of 12 and a standard  deviation of 5. The reliability of a shyness test is .78 (Cronbach’s alpha). In a study on shyness, the 40 shyest children were selected (children with the highest scores on the test). Twenty of these children were assigned to a control groups and 20 to a treatment group. The children in the treatment group received an assertiveness intervention. After the  intervention, the shyness test was administered again to all of the children. Below, the means of the control and the treatment groups on both measurements are given. 
+
+```{r, echo=FALSE}
+library(knitr)
+Group <- c("Control group (n=20)", "Treatment group (n=20)")
+Mean_pretest <- c(20, 20)
+Mean_posttest <- c(18, 16)
+table <- cbind(Group, Mean_pretest, Mean_posttest)
+kable(table)
+```
+
+Evaluate the statements below:
+
+I. If the reliability of the shyness test were to be 0, then the mean on the pre-test would have been higher for both groups. 
+
+II. Because there is a control group, there is no regression to the mean in this case.
+
+Answerlist
+----------
+* Statement I and statement II are both true
+* Statement I is true and statement II is false
+* Statement I is false and statement II is true
+* Statement I and statement II are both false
+
+
+Solution
+========
+Both statements are false. If the reliability were 0, then you have only measurement error and in that case the scores on the pre-test could have been either higher, lower, or equal. Including a control group does not influence the presence of regression to the mean, but merely concerns the design of the study and whether causal conclusions may be drawn (see WE chapter 7).
+
+Answerlist
+----------
+* False
+* False
+* False
+* True
+
+
+Meta-information
+================
+exname: eur-reliability-210-en
+extype: schoice
+exsolution: 0001
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Reasoning
+exshuffle: TRUE

@@ -1,0 +1,30 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-241-en-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-241-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Feyenoord and Ajax fans often criticize each other's teams. We will be looking at what team a person is a fan of [Fan, where Feyenoord = 0 and Ajax = 1], in what city a person lives [City, where Rotterdam = 1, Amsterdam = 2, Dordrecht = 3 and Haarlem = 4], the number of games played by the favourite team that they watched over the years (so the amount of games played by Feyenoord watched by a Feyenoord fan) [played_favourite] and to the amount of games played by the other team that someone watched over the years [played_other]. We also registered whose team became division champion in the last 4 years [Champion, where No championship = 0 and Championship = 1].
+
+Test if the average number of games watched when the favourite team played differs significantly from the number of games watched when the other team played. Report the obtained p-value. (using 3 decimals).
+
+**Download**: [SPSS file](inferential_statistics-241-en-data.sav), [CSV file](inferential_statistics-241-en-data.csv)
+
+
+Solution
+========
+The correct p-value is 0.332.
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-241-en
+extype: num
+exsolution: 0.332
+extol: 0
+exsection: Inferential Statistics/Parametric Techniques/t-test/Independent samples means
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

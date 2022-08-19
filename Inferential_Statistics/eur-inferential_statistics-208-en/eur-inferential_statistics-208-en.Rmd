@@ -1,0 +1,44 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+
+
+Question
+========
+A PhD student at the institute of Psychology investigates the effect of gender in video modelling on the accuracy on a later task in which the participants have to perform a similar task as was explained in the video by a male or female model. From a meta study he learned that he may expect a main effect for gender: both male and female students learn more from male video models than from female video models. The effect-size in this meta-study was .80. Based on this effect-size the PhD makes a power calculation and decides that he needs 18 participants in each of the two conditions. 
+
+Below you see the descriptive statistics the PhD student got from SPSS.
+
+```{r, echo=FALSE}
+library(knitr)
+Group <- c("Male model", "Female model")
+Mean <- c(20, 20)
+SD <- c(1.8, 1.7)
+n <- c(18, 18)
+table <- cbind(Group, Mean, SD, n)
+kable(table)
+```
+
+The reliability of the accuracy scores of the PhD student turned out to be .64.
+Calculate the effect-size of the data using these descriptive data from the study of the PhD student. Round to 2 decimals.
+
+
+Solution
+========
+The formula for the effect-size is: $d = \frac {x̄m - x̄f}{sp}$. Since both groups consist of 18 people the pooled standard deviation is simply the 
+average of the two standard deviations. The pooled standard deviation is $sp = \sqrt {\frac{1.8^2 + 1.7^2}{2}} = 1.75$.
+So the effect-size (Cohen's d) is $d = \frac{6.3 - 5.2}{1.75} = .629 = .63$
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-208-en
+extype: num
+exsolution: 0.63
+extol: 0
+exsection: Inferential Statistics/Effect size/Cohen's d, Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Calculate
+exextra[Program]: Calculator
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

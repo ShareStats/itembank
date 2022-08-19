@@ -1,0 +1,26 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(exams)
+library(knitr)
+```
+Question
+========
+A psychometrician working at CITO wants to evaluate the criterion validity of a dyslexia test. The reliability of the test $R_xx$ has already been investigated and turned out to be .70. The criterion measure is the judgement of a school psychologist which is quite, though not perfectly, reliable: $R_yy = $ .80. The observed correlation between the test and criterium turned out to be .6. The psychometrician doubts whether she should calculate the adjusted correlation and what variable she has to adjust; the test, the criterion or both. She is advised to calculate the adjusted correlation. Give an argument why adjusting in this case may give an inflated impression of the real criterion validity.
+
+
+Solution
+========
+Adjusting may give an inflated impression of the real criterion validity because it is unrealistic that dyslexia can be measured without error (perfectly reliable).
+
+
+Meta-information
+================
+exname: eur-reliability-118-en
+extype: string
+exsolution: 
+extol: 
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

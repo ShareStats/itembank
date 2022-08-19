@@ -1,0 +1,46 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Compontent-correlation-matrix-024-nl-tabel.jpg", recursive = TRUE)
+```
+
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Compontent-correlation-matrix-024-nl-tabel2.jpg", recursive = TRUE)
+```
+
+
+Question
+========
+  
+Een groep onderzoekers wil een instrument ontwikkelen dat meet hoe getraumatiseerd kinderen zijn na het meemaken van een auto ongeluk. Op basis van bestaande trauma literatuur hebben ze items gemaakt die bij een van de volgende schalen horen: herbeleving, vermijding, geprikkeldheid, en slaapproblemen. Omdat de kinderen zelf te getraumatiseerd zijn, nemen ze hun 36 items af bij 314 ouders.  Omdat de onderzoekers vier subschalen verwachten voeren ze een factor analyse uit met 4 factoren. Deel van de SPSS output staat hieronder.
+
+![](uu-Compontent-correlation-matrix-024-nl-tabel.jpg)
+![](uu-Compontent-correlation-matrix-024-nl-tabel2.jpg)
+
+Tot hoeveel factoren zou je reduceren op basis van de factor correlaties?
+  
+Answerlist
+----------
+* Tot 1 factor, want alle factoren hangen sterk met elkaar samen
+* Ik zou niet verder reduceren omdat alle correlaties zwak tot matig zijn
+* Tot 2 factoren omdat factoren 1, 2 en 3 te sterk samenhangen en daardoor 1 factor vormen, en factor 4 wel op zichzelf staat 
+* Tot 3 factoren omdat factoren 1 en 3 en factoren 2 en 3 te sterk samenhangen en daardoor 1 factor worden, en factor 1 en 4 niet echt met de andere factoren samenhangen
+
+Solution
+========
+  
+Tot 2 factoren is het goede antwoord.
+
+Answerlist
+----------
+
+
+
+Meta-information
+================
+exname: uu-Compontent-correlation-matrix-024-nl.Rmd
+extype: schoice
+exsolution: 0010
+exsection: Factor analysis/Compontent correlation matrix
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,35 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-118-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-118-nl-data.csv", recursive = TRUE)
+```
+
+
+Question
+========
+*Werk voor psychologen en pedagogen.*
+
+Een wetenschapper heeft de opdracht gekregen om te onderzoeken of het afgestudeerde psychologen en pedagogen lukt om een baan op niveau te vinden. De onderzoeker heeft zelf een vragenlijst ontworpen bestaande uit 12 Likert items met 5 antwoordmogelijkheden die variëren van helemaal mee oneens (1) tot helemaal mee eens (5). Een voorbeeld van een item is: Ik heb veel moeite moeten doen om een vacature voor een baan op niveau te vinden. De antwoorden van 608 pedagogen (1) en psychologen (2), onderscheiden in de variabele [psy_ped], op de twaalf items staan weergegeven in het databestand. NB. Hoe meer de respondent het eens is met de stellingen, des te moeilijker hij/zij het vindt om een baan op niveau te vinden.
+
+Open het databestand.
+
+Bereken de totaalscore als de som van alle antwoorden op alle items. Houd rekening met de missings bij het berekenen van de totaalscore en neem personen die minder dan 8 antwoorden hebben gegeven niet mee. Rond de totaalscores af op gehele getallen. Wat is het gemiddelde van de totaalscore? (3 decimalen)
+
+**Download**: [SPSS file](eur-descriptive-118-nl-data.sav), [CSV file](eur-descriptive-118-nl-data.csv)
+
+
+Solution
+========
+Het gemiddelde van de totaalscore is 33.799.
+
+
+Meta-information
+================
+exname: eur-descriptive-118-nl
+extype: num
+exsolution: 33.799
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

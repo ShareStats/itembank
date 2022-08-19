@@ -1,0 +1,38 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-ancova-115-nl-tabel.jpg", recursive = TRUE)
+```
+
+
+
+Question
+========
+Er is een onderzoek gedaan naar het effect van de factoren financiële problemen (FIN met 0 = geen en 1 = wel) en studiemotivatie (MOT met 1 = matig, 2 = hoog, 3 = zeer hoog) op het aantal behaalde studiepunten in de eerste twee jaar (STP) van de studie Onderwijskunde staat. Hieronder staat de SPSS-uitvoer van een analyse.
+
+Welke nulhypotheses worden bij een significantieniveau (alpha) van 5% verworpen?
+
+
+![](uu-ancova-115-nl-tabel.jpg)
+
+Answerlist
+----------
+* $H_{0}$: $\mu_{Mot1}$ = $\mu_{Mot2}$ = $\mu_{Mot3}$  	èn 	$H_{0}$: $\mu_{FIN0}$ = $\mu_{FIN1}$
+* $H_{0}$: μ $\mu_{Mot1}$ = $\mu_{Mot2}$ = $\mu_{Mot3}$  	èn 	$H_{0}$: effect MOT*FIN = 0
+* $H_{0}$: $\mu_{FIN0}$ = $\mu_{FIN1}$ èn $H_{0}$: effect MOT*FIN = 0
+* $H_{0}$: $\mu_{Mot1}$ = $\mu_{Mot2}$ = $\mu_{Mot3}$ èn $H_{0}$: $\mu_{FIN0}$ = $\mu_{FIN1}$ èn $H_{0}$: effect MOT*FIN = 0
+
+
+Solution
+========
+
+
+
+Meta-information
+================
+exname: uu-ancova-115-nl.Rmd
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

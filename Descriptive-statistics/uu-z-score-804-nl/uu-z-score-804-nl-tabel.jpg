@@ -1,0 +1,28 @@
+Question
+========
+Waarom is het beter om een variantie-analysetoets (ANOVA) uit te voeren in plaats van drie aparte t-toetsen?
+
+Answerlist
+----------
+* Variantieanalyse maakt met één toets duidelijk welke groepen van elkaar verschillen.
+* Variantieanalyse past beter bij het ordinale meetniveau van de afhankelijke variabele.
+* Variantieanalyse geeft een kleinere kans op het onterecht vinden van een verschil tussen de groepen.
+* Variantieanalyse geeft een kleinere kans op een type II fout.
+
+
+Solution
+========
+Een variantieanalyse is makkelijker om uit te voeren (is maar één toets, tegenover 3 aparte t-toetsen). Echter, is er nog een post-hoc (waarin meerdere t-toetsen worden uitgevoerd) nodig om duidelijk te maken welke groepen van elkaar verschillen.
+De reden dat variantieanalyse de voorkeur krijgt, is kanskapitalisatie. Kanskapitalisatie geeft aan dat de kans op het voorkomen van Type I fouten groter wordt wanneer er een groter aantal toetsen wordt uitgevoerd.
+
+
+Meta-information
+================
+exname: uu-anova-1394-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Reasoning

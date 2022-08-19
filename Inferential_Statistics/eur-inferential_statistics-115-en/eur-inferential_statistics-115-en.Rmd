@@ -1,0 +1,35 @@
+Question
+========
+In a Chi-square test of independence the term “expected counts” refers to:
+
+Answerlist
+----------
+* The counts that one deems known for the population under study
+* The counts observed in the sample data.
+* The counts observed in the population under study
+* The counts that can be calculated based on the null hypothesis.
+
+
+Solution
+========
+The expected counts refer to the counts that can be calculated based on the null hypothesis, as we are always comparing our model to the null-hypothesis. So we would expect certain values based on the null hypothesis and check whether the observed values deviate from these expected values considerably.
+
+Answerlist
+----------
+* This answer is incorrect
+* This answer is incorrect
+* This answer is incorrect
+* This is the correct answer!
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-115-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/NHST/Test statistic/Chi-squared
+exextra[Type]: Conceptual
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exshuffle: FALSE

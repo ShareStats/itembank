@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-factor-404-en-data.sav", recursive = TRUE)
+include_supplement("eur-factor-404-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+A researcher investigates the factors that may explain alcohol abuse among the elderly. Based on the theory, the researcher suspects that different dimensions can be distinguished concerning alcohol abuse. She designed 34 statements the elderly can agree or disagree with on a four-point scale (1 = completely agree; 2 = somewhat agree; 3 = somewhat disagree; 4 = completely disagree). An example of a statement is: When I feel lonely, I enjoy drinking an alcoholic beverage. The questionnaire was administered to 312 elderly (>70 years). The responses of the participants to the 34 statements are given in the dataset.
+
+After conducting a factor analysis with principal axis factoring with 3 factors and a promax rotation, what is the loading (in the pattern matrix) of item 9 on factor 2? (3 decimals)
+
+Open the dataset below to answer this question:
+
+**Download** [SPSS file](eur-factor-404-en-data.sav), [CSV file](eur-factor-404-en-data.csv)
+
+
+Solution
+========
+The loading of item 9 on factor 2 after promax rotation is 0.004 (see the pattern matrix).
+
+
+Meta-information
+================
+exname: eur-factor-404-en
+extype: num
+exsolution: 0.004
+extol: 0
+exsection: Factor analysis/Pattern matrix, Factor analysis/Factor loadings, Factor analysis/Exploratory factor analysis
+exextra[Type]: Interpretating output, Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

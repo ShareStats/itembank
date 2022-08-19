@@ -1,0 +1,37 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+Question
+========
+Below you can find the observed scores on a depression scale with a one‐week interval.High scores indicate high levels of depression.
+
+```{r, echo=FALSE}
+library(knitr)
+Participant <- 1:6
+Form1 <- c(17,21,14,28,32,24)
+Form2 <- c(19,23,11,24,34,21)
+table <- cbind(Participant, Form1, Form2)
+kable(table)
+```
+
+Calculate the test‐retest reliability. To decrease your work: 
+$s^2_{1st} = 37.06$, $s^2_{2nd} = 54.56$ and $c_{1st,2nd} = 37.89$.
+
+
+Solution
+========
+The test‐retest reliability is equal to the correlation between the two scores on the two administrations. This correlation is:  $r_{F1,F2}$ = $\frac{37.89}{\sqrt{37.06 \times 54.56}} = .843$.
+
+
+Meta-information
+================
+exname: eur-reliability-102-en
+extype: num
+exsolution: .843
+extol: 0.005
+exsection: Reliability/Analysis/Test-retest
+exextra[Type]: Calculation
+exextra[Program]: Calculator
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

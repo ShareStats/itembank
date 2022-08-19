@@ -1,0 +1,35 @@
+Question
+========
+A researcher wonders whether a test that measures depression in toddlers is a good predictor for depression during adolescence. The researcher thinks that the relationship between test score and criterion (depression at adolescence) is different for boys and girls. What kind of bias does the researcher expect?
+
+Answerlist
+----------
+* construct bias
+* intercept bias
+* internal bias
+* slope bias
+
+
+Solution
+========
+This is slope bias. The relationship is different for boys and girls so in the regression equation (y=b0+b1*X) the b1 differs for boys and girls.
+
+Answerlist
+----------
+* False
+* False
+* False
+* True
+
+
+Meta-information
+================
+exname: eur-validity-202-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Regression/Slope
+exextra[Type]: Calculate
+exextra[Program]: Calculator
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exshuffle: TRUE

@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-141-en-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-141-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+A researcher from Erasmus University Rotterdam is investigating the possible advantages of PBL on students’ social competencies and has gathered social competency scores about students on four occasions. These scores come from observations by the researcher 2 days after their first PBL group (T1_social), six months after their first PBL tutor group (T2­_social), a year after their first PBL tutor group (T3_social) and a year and a half after their first PBL tutor group (T4_social). At these four occasions, social competence was measured using a semi-structured interview with scores varying from 0 (not social) to 40 (very social). Additionally, the researcher determines whether a student is shy or not [SHY]. 
+
+Open the data file.
+
+The researcher thinks that being shy or not [SHY] may influence the change in social competency over time. Conduct the appropriate analysis to test this hypothesis. What is the F-value for this effect according to univariate approach? (3 decimals)
+
+**Download**: [SPSS file](eur-inferential_statistics-141-en-data.sav), [CSV file](eur-inferential_statistics-141-en-data.csv)
+
+
+Solution
+========
+The F-value is 0.451.
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-141-en
+extype: num
+exsolution: 0.451
+extol: 0
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Mixed design ANOVA
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

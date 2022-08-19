@@ -1,0 +1,30 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-224-nl-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-224-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Mannen en vrouwen hebben in de auto vaak commentaar op elkaars rijgedrag. We kijken naar het geslacht van wie er achter het stuur zit [Chauffeur, waarbij man = 0, vrouw = 1], in welk merk auto iemand rijdt [Auto, waarbij Ford = 1, Audi = 2, Toyota = 3, en Volkswagen = 4], naar de gereden kilometers [Gereden_kilometers] en naar de kilometers als bijrijder [Bijrijder_kilometers]. Ook kijken we naar wie een botsing heeft gekregen en wie niet [Botsing, waarbij geen botsing = 0, wel botsing = 1].
+
+Wat is de kans dat áls er een botsing is geweest [Botsing], er een mannelijke chauffeur was [Chauffeur]? Schrijf de kans (geen percentage) in het antwoordvakje (met 2 cijfers achter de komma).
+
+**Download**: [SPSS file](eur-inferential_statistics-224-nl-data.sav), [CSV file](eur-inferential_statistics-224-nl-data.csv)
+
+
+Solution
+========
+Het correcte antwoord is 0.46.
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-224-nl
+extype: num
+exsolution: 0.46
+extol: 0
+exsection: Inferential Statistics/Parametric Techniques/Cross tables
+exextra[Type]: Interpretating output, Calculation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

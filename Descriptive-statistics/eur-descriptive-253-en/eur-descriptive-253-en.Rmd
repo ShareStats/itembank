@@ -1,0 +1,28 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-253-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-253-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Of the male students [Gender = 1], what percentage had the high school profile "economy and society" (variable: profile, where profile 2 = economy and society)? Write your answer in the answer box (1 decimal place).
+
+**Download**: [SPSS file](eur-descriptive-253-en-data.sav), [CSV file](eur-descriptive-253-en-data.csv)
+
+
+Solution
+========
+The correct answer is 32.9.
+
+
+Meta-information
+================
+exname: eur-descriptive-253-en
+extype: num
+exsolution: 32.9
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Proportion
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

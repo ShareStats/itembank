@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-135-en-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-135-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+A researcher is interested in the influence of the drop in price for gasoline (bezine) on students who own a car. He wants to predict how many kilometers they will drive in in Januari 2015 [KM_JAN] by using a few predictors. For 202 students, the researcher has gathered the following data: 1) actual driven kilometers in Jan 2015 [KM_JAN], 2) actual driven kilometers in October 2014 [KM_OCT], 3) income for January 2015 [INCOME_JAN], 4) total kilometers traveled using public transport for February 2015 [PUB_TRANS], and 5) type of car [car] (1 = hybrid, 2 = sedan, 3 = suv).
+
+Open the data file.
+
+What is the standardized residual for the person who drove 264.2 kilometers in January 2015 [KM_JAN]? (3 decimals)
+
+**Download**: [SPSS file](eur-inferential_statistics-135-en-data.sav), [CSV file](eur-inferential_statistics-135-en-data.csv)
+
+
+Solution
+========
+The standardized residual for the person who drove 264.2 kilometers in January 2015 is -0.599.
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-135-en
+extype: num
+exsolution: -0.599
+extol: 0
+exsection: Inferential Statistics/Regression/Standardized coefficient
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

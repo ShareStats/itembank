@@ -1,0 +1,28 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-260-nl-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-260-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Toets of het gemiddelde cijfer op tentamen 4 (variabele vak4) significant afwijkt van het gemiddelde cijfer op tentamen 5 (variabele vak5). Schrijf de gevonden t-waarde in het antwoordvakje (met 3 cijfers achter de komma).
+
+**Download**: [SPSS file](eur-inferential_statistics-260-nl-data.sav), [CSV file](eur-inferential_statistics-260-nl-data.csv)
+
+
+Solution
+========
+Het correcte antwoord is 3.354.
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-260-nl
+extype: num
+exsolution: 3.354
+extol: 0
+exsection: Inferential Statistics/NHST/Test statistic/t-statistic, Inferential Statistics/Parametric Techniques/t-test/Paired samples
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

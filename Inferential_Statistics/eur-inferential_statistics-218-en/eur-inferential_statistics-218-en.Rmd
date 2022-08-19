@@ -1,0 +1,36 @@
+Question
+========
+When the interaction between the between-subjects factor and the covariate is significant, which assumption of ANCOVA is statistically violated?
+
+Answerlist
+----------
+* linearity of the relationship between the variables
+* normality of residuals
+* homogeneity of regression slopes
+* independence of the covariate and the between-subjects factor
+
+
+Solution
+========
+A significant interaction indicates that the slopes of the different groups differ significantly from each other. The assumption of the homogeneity of the slopes is thus violated.
+
+All other assumptions cannot be assessed with the information we currently possess.
+
+Answerlist
+----------
+* False
+* False
+* True
+* False
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-218-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Regression/Slope, Assumptions, Inferential Statistics/Regression/Simple linear regression
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

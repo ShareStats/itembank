@@ -1,0 +1,24 @@
+Question
+========
+On the first question in the exam of course 2.8, 189 students gave a correct answer and 71 students gave an incorrect answer. 
+Suppose we create a variable based on the scores for this exam question, where 0 = incorrect answer and 1 = correct answer.
+
+What is the standard deviation of this variable?
+
+
+Solution
+========
+The standard deviation of this variable is $\sqrt{p \times (1 - p)}$, where $p$ is the proportion correct: $\frac{189}{189+71}= .73$. Thus, the standard deviation is $\sqrt{.73 \times (1 - .73)} = .45$ (taking the square root of the variance).
+
+
+Meta-information
+================
+exname: eur-descriptive-113-en
+extype: num
+exsolution: .45
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
+exextra[Type]: Calculate
+exextra[Program]: Calculater
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

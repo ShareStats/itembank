@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-assumptions-104-nl-data.sav", recursive = TRUE)
+include_supplement("eur-assumptions-104-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+*Testing effect* 
+
+Uit onderzoek is gebleken dat wanneer mensen gezichten van vreemden moeten leren zij deze op de lange termijn beter kunnen onthouden wanneer zij de gezichten eerst bestuderen en daarna zichzelf testen met het koppelen van de gezichten aan de bijbehorende naam, dan wanneer zij de gezichten twee keer bestuderen. Een onderzoeker aan het instituut voor psychologie wil weten of dit zogenaamde testing effect zich ook in het klaslokaal openbaart. Ze deelt een groep van 60 VWO leerlingen in in drie groepen [condition]. De leerlingen in groep 1 bestuderen 2 keer achter elkaar een lijst met 30 gezichten en de bijbehorende namen (1 = restudy), de leerlingen in groep 2 bestuderen dezelfde gezichten en bijbehorende namen 1 keer en testen zichzelf daarna (2 = testing). Hierbij moeten ze hun hand op de lijst met namen van mensen leggen en zelf bedenken hoe de persoon op de foto heet. Leerlingen in groep 3 bestuderen de gezichten en namen slechts 1 keer (3 = study_once). Een week na het bestuderen krijgen alle leerlingen een test waarbij zij de 30 gezichten te zien krijgen en de bijbehorende naam moeten geven. Het totaal aantal correct geïdentificeerde mensen staat weergegeven in de variabele score [score]. De onderzoeker heeft verder nog voor iedere leerling een sociale vaardigheidsscore [sociaal] verzameld.
+
+Open het databestand.
+
+Doe een analyse om te bepalen of er verschil is tussen de drie condities [condition] op het aantal correct geïdentificeerde mensen [score]. Toets of de assumptie van homogene varianties in de drie condities geschonden wordt. Hoe groot is de F-waarde die bij deze assumptietoets hoort? (3 decimalen)
+
+**Download**: [SPSS file](eur-assumptions-104-nl-data.sav), [CSV file](eur-assumptions-104-nl-data.csv)
+
+Solution
+========
+Het F-waarde is 0.291. De correcte analyse is ANOVA with met een zogenaamde 'homogeneity test'. In SPSS is dit Levene's test.
+
+Meta-information
+================
+exname: eur-assumptions-104-nl
+extype: num
+exsolution: 0.291
+extol: 0
+exsection: Assumptions/Homogeneity of variance/Levene's test
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,45 @@
+Question
+========
+  
+In een hogere orde hoofdcomponenten analyse van tien tests heeft de onderzoeker uiteindelijk gekozen voor een twee-factoroplossing. De eigenwaarde $\lambda_1$ van de Factor 1 is 4.1 en de eigenwaarde $\lambda_2$ van Factor 2 is 1.3.
+
+Pas de volgende criteria toe voor een kwalitatieve beoordeling van de factoroplossing:
+
+- Verklaarde variantie lager dan 30%: slecht
+- Verklaarde variantie tussen de 30% - 50%: matig
+- Verklaarde variantie hoger dan 50%: goed
+
+Hoe beoordeel jij, op basis van verklaarde variantie en de genoemde criteria, de twee-factoroplossing?
+
+
+Answerlist
+----------
+* Als goed want de verklaarde variantie is hoger dan 50%. 
+* Als matig want de verklaarde variantie is tussen de 30% en 50%.
+* Als slecht want de verklaarde variantie is lager dan 30%.
+* Over de kwaliteit kunnen we met de verstrekte gegevens geen geldige uitspraak doen.
+
+
+Solution
+========
+  
+Uitleg: In de toelichting staat gegeven dat er 10 variabelen in deze factoranalyse zijn meegenomen. Dit betekent dat de maximale eigenwaarde gelijk is aan 10.00 (bij volledige overlap van de factor met alle variabelen). Een factor met een eigenwaarde van 4.1, verklaart zodoende 41% (4.1 / 10.0) van de totale variantie. Aangezien in dit voorbeeld geen oblique rotatie is toegepast, hebben de factoren geen overlap. Om die reden kan met de volgende berekening de verklaarde variantie van de factoren berekend worden:
+
+4.1/10.0 + 1.3/ 10.0 = .41 + .13 = .54
+
+In totaal wordt liefst 54% van de variantie verklaard door de twee factoren.
+
+Answerlist
+----------
+
+
+
+Meta-information
+================
+exname: uu-Explained-variance-008-nl.Rmd
+extype: schoice
+exsolution: 1000
+exsection: Factor analysis/Explained variance
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

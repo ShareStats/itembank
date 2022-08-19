@@ -1,0 +1,36 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-factor-111-nl-data.sav", recursive = TRUE)
+include_supplement("eur-factor-111-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+*Werk voor psychologen en pedagogen.*
+
+Een wetenschapper doet onderzoek naar factoren die kunnen verklaren waarom de carriëremogelijkheden voor psychologen en pedagogen soms gering zijn. Vanuit theoretische inzichten over carriëremogelijkheden heeft de onderzoeker het idee dat er verschillende dimensies onderscheiden kunnen worden die iets te maken hebben met de carriëremogelijkheden. Ze heeft 34 stellingen bedacht waarop respondenten op een 4-puntsschaal (1. helemaal mee eens; 2. een beetje mee eens; 3. niet zo erg mee eens; 4. helemaal niet mee eens) aan kunnen geven of ze het eens zijn met een stelling. Een voorbeeld van een stelling is: “Ik heb tijdens mijn opleiding een relevante stage gelopen”. De vragenlijst is afgenomen bij 312 afgestudeerden. De responsen van de deelnemers op de 34 stellingen staan weergegeven in het databestand. 
+
+Open het databestand.
+
+Voer een factor analyse uit met principal axis factoring, waarbij 4 factoren worden geëxtraheerd en een varimax rotatie wordt uitgevoerd. Door welke factor wordt item 1 het best verklaard? (noteer factornummer)
+
+
+**Download**: [SPSS file](eur-factor-111-nl-data.sav), [CSV file](eur-factor-111-nl-data.csv)
+
+
+Solution
+========
+Factor 2. In de geroteerde oplossing is de lading van item 1 het hoogst op factor 2, namelijk .950.
+Het kwadraat van een factorlading is het percentage variantie dat de betreffende factor van het item verklaart. Factor 2 verklaart in deze oplossing de meeste variantie van item 1.
+
+
+Meta-information
+================
+exname: eur-factor-111-nl
+extype: num
+exsolution: 2
+extol: 0
+exsection: Factor analysis/Pattern matrix
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

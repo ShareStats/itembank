@@ -1,0 +1,39 @@
+Question
+========
+Uit eerder onderzoek naar de WISC is gebleken dat deze een betrouwbaarheid heeft van .71 (Cronbach’s alpha). Een onderzoeker aan het CITO doet wil weten wat de correlatie is tussen de WISC en een CITO toets. Hij trekt een steekproef van 102 kinderen en vindt een correlatie van .86. Hoe kan het dat deze correlatie hoger is dan de wortel uit de betrouwbaarheid van de WISC?
+
+Answerlist
+----------
+* Dit kan komen doordat Cronbach’s alpha een overschatting geeft van de betrouwbaarheid in de populatie.
+* Dit kan komen door steekproef fluctuatie in de schatting van Cronbach’s alpha.
+* Dit kan komen doordat de CITO toets een hoge betrouwbaarheid heeft.
+* Dit kan komen doordat de true score variantie in de CITO scores hoog is.
+
+
+Solution
+========
+- Cronbach’s alpha gives an underestimation of the reliability in the population, not an overestimation.
+- When you calculate the maximum correlation you assume that the reliability of the other variable is 1, so the high reliability of the CITO test is not the correct answer.
+- The variance in true scores on the CITO test being high is not the correct answer, because this would increase the reliability of the Cito test.
+
+This leaves us with the answer regarding sample fluctuation being the only correct answer, because you may have drawn an “extreme” sample from the population with a higher correlation.
+
+Answerlist
+----------
+* Fout
+* Goed
+* Fout
+* Fout
+
+
+Meta-information
+================
+exname: eur-reliability-207-nl
+extype: schoice
+exsolution: 0100
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Reasoning
+exshuffle: TRUE

@@ -1,0 +1,39 @@
+Question
+========
+Bij een oblique rotatie geeft spss zowel een structure matrix als een pattern matrix als output. Beoordeel de volgende stellingen over deze twee matrices.
+
+1. In de structure matrix zijn de correlaties tussen de factoren gelijk aan nul.
+2. De getallen in de pattern matrix geven de unieke correlatie tussen een factor en een item
+weer.
+
+Answerlist
+----------
+* Stelling 1 is correct en stelling 2 is incorrect.
+* Stelling 2 is correct en stelling 1 is incorrect.
+* Stelling 1 en stelling 2 zijn beide correct.
+* Stelling 1 en stelling 2 zijn beide incorrect.
+
+
+Solution
+========
+Statement 1 is incorrect. The structure matrix contains the correlations between the items and the factors; In an oblique rotation the correlation between the factors is not necessarily zero. Statement 2 is correct: the pattern matrix contains the correlation between the factor and the items corrected for the correlation between factors.
+
+Answerlist
+----------
+* Fout
+* Goed
+* Fout
+* Fout
+
+
+Meta-information
+================
+exname: eur-factor_analysis-202-nl
+extype: schoice
+exsolution: 0100
+exsection: Factor analysis/Rotations
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exshuffle: TRUE

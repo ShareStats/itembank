@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-407-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-407-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+A knowledge test on alcohol contains 20 items and is administered to 202 high school students. The variable [total score] gives the total correct scores. Gender (0 = woman; 1 = man) and alcohol use (0 = very often; 1 = often; 2 = sometimes; 3 = never) are also included in the dataset. 
+
+Convert the total score of each student to a normalized score (rankit) with a mean of 10 and a standard deviation of 5. Round the normalized score. What is the normalized total score of the student with id=31? (no decimals)
+
+Open the dataset below to answer this question:
+
+**Download** [SPSS file](eur-descriptive-407-en-data.sav), [CSV file](eur-descriptive-407-en-data.csv)
+
+
+Solution
+========
+The normalized score of the student with id=31 is 9 (normalize the scores using rank cases and then transform the scores so the new variable has a mean of 10 and a standard deviation of 5).
+
+
+Meta-information
+================
+exname: eur-descriptive-407-en
+extype: num
+exsolution: 9
+extol: 0
+exsection: Descriptive statistics
+exextra[Type]: Data manipulation
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

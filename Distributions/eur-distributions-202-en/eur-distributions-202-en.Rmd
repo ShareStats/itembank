@@ -1,0 +1,41 @@
+Question
+========
+Evaluate the following statements about transformation of scores:
+
+1. After standardizing raw scores, the scores will be approximately normally distributed.
+
+2. When raw scores are normalized, a non-linear transformation is performed.
+
+Answerlist
+----------
+* Statement 1 and statement 2 are both true
+* Statement 1 is true and statement 2 is false
+* Statement 1 is false and statement 2 is true
+* Statement 1 and statement 2 are both false
+
+
+Solution
+========
+Statement 1 is false: after standardization, the scores have the same distribution as the raw scores, which is not necessarily normal. 
+
+Statement 2 is correct: when scores are normalized, you have to perform a non-linear transformation in order to change the distribution of the raw scores (make them more normally distributed).
+
+Answerlist
+----------
+* False
+* False
+* True
+* False
+
+
+Meta-information
+================
+exname: eur-distributions-202-en
+extype: schoice
+exsolution: 0010
+exsection: Distributions/Continuous/Normal
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exshuffle: TRUE

@@ -1,0 +1,58 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+
+Question
+========
+Below you find the scores of six students on the course 1.1 exam (social psychology) and the course 1.3 exam (statistics). Calculate the covariance between the exam scores of course 1.1 and course 1.3.
+
+```{r, echo = FALSE}
+Students <- 1:6
+Exam_Course_1.1 <- c(7.5, 6.2, 5.2, 8.2, 9.2, 6.9)
+Exam_Course_1.3 <- c(6.8, 5.4, 7.6, 7.6, 8.4, 4.7)
+
+table <- cbind(Students, Exam_Course_1.1, Exam_Course_1.3)
+kable(table, col.names = c("Students", "Exam Course 1.1", "Exam Course 1.3"))
+```
+
+
+Solution
+========
+```{r, echo = F}
+Students <- 1:6
+Exam_Course_1.1 <- c(7.5, 6.2, 5.2, 8.2, 9.2, 6.9)
+Exam_Course_1.3 <- c(6.8, 5.4, 7.6, 7.6, 8.4, 4.7)
+table <- cbind(Students, Exam_Course_1.1, Exam_Course_1.3)
+
+product_dev11_dev13 <- c("(7.5 ‐ 7.2)(6.8 ‐ 6.75)", "(6.2 ‐ 7.2)(5.4 ‐ 6.75)", "(5.2 ‐ 7.2)(7.6 ‐ 6.75)", "(8.2 ‐ 7.2)(7.6 ‐ 6.75)", "(9.2 ‐ 7.2)(8.4 ‐ 6.75)", "(6.9 ‐ 7.2)(4.7 ‐ 6.75)")
+answer_table <- cbind(table, product_dev11_dev13)
+Sum <- c("", 43.20, 40.50, 4.43)
+Mean <- c("", 7.2, 6.75, 0.738)
+table <- rbind(answer_table, Sum, Mean)
+kable(table, col.names = c("Students", "Exam Course 1.1", "Exam Course 1.3", "Product
+deviation 1.1 – deviation 1.3"))
+```
+
+The mean is calculated by summing the scores on the exam and dividing this sum by the number of participants:
+
+Mean Exam 1.1 = $\frac{43.20}{6} = 7.20$
+
+Mean Exam 1.3 = $\frac{40.50}{6} = 6.75$
+
+
+The covariance is calculated by summing the product of the deviation scores and divide this by N:
+Covariance Exam 1.1, Exam 1.3: $Cov_{E1.1, E1.3} \frac{4.43}{6}=0.738$
+
+
+Meta-information
+================
+exname: eur-descriptive-108-en
+extype: num
+exsolution: 0.738
+extol: 0.01
+exsection: Descriptive statistics/Summary Statistics/Bivariate statistics/Covariance
+exextra[Type]: Calculate
+exextra[Program]: Calculater
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

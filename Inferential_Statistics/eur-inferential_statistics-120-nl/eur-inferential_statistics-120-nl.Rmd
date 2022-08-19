@@ -1,0 +1,35 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-120-nl-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-120-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+*Kennis over het beroepsveld.*
+
+Een kennistoets over het beroepsveld van psychologen en pedagogen bestaat uit 20 items en is afgenomen bij 202 studenten uit de master psychologie en pedagogiek. Het totale aantal correct beantwoorde vragen is weergegeven in de variabele [totaalscore]. De variabele [opleiding] geeft aan of iemand pedagogiek (0) of psychologie (1) studeert.
+
+Open het databestand.
+
+Een onderzoeker wil bekijken of hij de totaalscore kan voorspellen met een IQscore en vraagt zicht af of de relatie verschillend is voor psychologen en pedagogen [opleiding]. Voer een regressie analyse uit om deze vraag te onderzoeken. Wat is het ongestandaardiseerde regressiegewicht van het interactie-effect opleiding x IQscore? (3 decimalen)
+
+
+**Download**: [SPSS file](eur-inferential_statistics-120-nl-data.sav), [CSV file](eur-inferential_statistics-120-nl-data.csv)
+
+
+Solution
+========
+Het ongestandaardiseerde regressiegewicht van het interactie-effect opleiding x IQscore is -.096. Deze vraag beantwoord je door zowel 'IQscore' als 'opleiding' als predictor op te nemen in het regressiemodel en door daarnaast de interactie variabele 'opleiding x IQscore' als voorspeller op te nemen. De interactievariabele 'opleiding x IQscore' maak je door het product te berekenen van de variabelen opleiding in IQscore.
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-120-nl
+extype: num
+exsolution: -.096
+extol: 0
+exsection: Inferential Statistics/Regression/Multiple linear regression
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,26 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(exams)
+library(knitr)
+```
+Question
+========
+A psychometrician working at CITO wants to evaluate the criterion validity of a dyslexia test. The reliability of the test $R_{xx}$ has already been investigated and turned out to be .70. The criterion measure is the judgement of a school psychologist which is quite, though not perfectly, reliable: $R_{yy} = $ .80. The observed correlation between the test and criterium turned out to be .6. The psychometrician doubts whether she should calculate the adjusted correlation and what variable she has to adjust; the test, the criterion or both.
+
+What do you advice the psychometrician? Motivate your answer.
+
+Solution
+========
+To assess the criterion validity of the dyslexia test the psychometrician might use the adjusted correlation and adjust ONLY the criterion variable (judgement) as if it were perfectly reliable (as the purpose is to evaluate the ability of the test to predict the criterion). The correlation between the predictor and the criterion is interpreted as the criterion validity of the CITO test but is negatively affected by the unreliability of the criterion. Therefore one might argue that the correlation is adjusted for the unreliability of the criterion variable.
+
+Meta-information
+================
+exname: eur-reliability-116-en
+extype: string
+exsolution: 
+extol: 
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

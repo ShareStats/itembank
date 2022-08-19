@@ -1,0 +1,46 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Descriptive-statistics-604-nl-data.sav", recursive = TRUE)
+include_supplement("uu-Descriptive-statistics-604-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+
+**Download**: [SPSS file](uu-Descriptive-statistics-604-nl-data.sav), [CSV file](uu-Descriptive-statistics-604-nl-data.csv)
+
+Open het databestand.
+
+Beantwoord de volgende vragen.
+
+**Beantwoord iedere vraag met alle decimalen die in de output vermeld staan.**
+
+Answerlist
+----------
+* Het aantal respondenten waarvan de score op vermenigvuldigen bekend is, is…
+* De gemiddelde score op optellen is…
+* De minimaal behaalde score op nameting hoofdrekenen is…
+* De modus van breuken is…
+
+Solution
+========
+
+Answerlist
+----------
+* Answer: 199
+* Answer: 50.9528
+* Answer: 1.00
+* Answer: 19.00
+
+
+Meta-information
+================
+exname: uu-Descriptive-statistics-604-nl.rmd
+extype: cloze
+exclozetype: num|num|num|num 
+exsolution: 199|50.9528|1.00|19.00
+extol: 0
+exsection: Descriptive statistics
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS, JASP
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

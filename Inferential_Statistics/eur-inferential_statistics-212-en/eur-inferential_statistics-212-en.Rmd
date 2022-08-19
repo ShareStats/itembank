@@ -1,0 +1,42 @@
+Question
+========
+A researcher wants to find out whether the number of units of alcoholic beverages per occasion has a negative influence on the number of months a student needs to obtain his master degree in psychology, when he controls for intelligence (IQ).
+
+He asks a random sample (N = 100) of freshly graduated psychologists about their alcohol consumption during the master program. Based on this information he classifies the subjects as non-drinkers, moderate drinkers, or heavy drinkers. Furthermore, for each subject the duration of the study and IQ were determined.
+
+Which type of data analysis is, in theory, most suited for the above study?
+
+Answerlist
+----------
+* Two-way factorial ANOVA
+* Thee-way mixed ANOVA
+* ANCOVA
+* Repeated measures ANOVA
+
+
+Solution
+========
+The correct answer is ANCOVA. You use an ANCOVA when you want to look at the effect of a categorical independent variable (type of drinker) on a continuous dependent variable (alcohol consumption), while controlling for another continuous variable/covariate (intelligence) that covariates with the dependent variable. Therefore, this is the most appropriate analysis for this study.
+
+Two-way factorial anova is incorrect, as there is only one independent variable (type drinker). The researcher merely wants to control for IQ.
+
+As this study is comparing groups, both three-way mixed ANOVA and repeated measures ANOVA do not make sense, as they require some form of within-subjects element as well.
+
+Answerlist
+----------
+* False
+* False
+* True
+* False
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-212-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA
+exextra[Type]: Test choice
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

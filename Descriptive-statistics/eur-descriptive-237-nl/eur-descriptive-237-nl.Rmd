@@ -1,0 +1,28 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-237-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-237-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Wat is de standaarddeviatie van de scores op het eindexamen wiskunde (variabele: wiskunde) voor meisjes [Geslacht = 2]? Schrijf je antwoord in het antwoordvakje (met 4 cijfers achter de komma).
+
+**Download**: [SPSS file](eur-descriptive-237-nl-data.sav), [CSV file](eur-descriptive-237-nl-data.csv)
+
+
+Solution
+========
+Het correcte antwoord is 1.9309.
+
+
+Meta-information
+================
+exname: eur-descriptive-237-nl
+extype: num
+exsolution: 1.9309
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

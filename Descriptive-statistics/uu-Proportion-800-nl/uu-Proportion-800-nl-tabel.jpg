@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-ancova-0313-nl-graph01.jpg", recursive = TRUE)
+```
+Question
+========
+Een onderzoeker heeft een experimenteel onderzoek gedaan naar het effect van verschillende methoden op het verwerven van inzicht in persoonlijk (dis)functioneren van mannen. De deelnemers hadden allemaal te maken met een serieuze Midlife crisis.
+
+In het experiment onderscheiden we de volgende condities: 
+1. Voice Dialogue (om tegenstrijdige krachten in beeld te brengen)
+2. Existentieel Biografisch Onderzoek (om door te dringen in de persoonlijke levensgeschiedenis)
+3. Dramatechnieken (voor het spelenderwijs verwerven van inzicht in motieven)
+4. ZelfKennisMethode (ter bewustwording van frustraties en belemmeringen)
+
+Bij de vier groepen is een voormeting (prefunc), een nameting (postfunc) en een follow-up-meting (fufunc) van het inzicht in het eigen (dis)functioneren gedaan. Dit inzicht werd dus drie keer gemeten, telkens op een schaal van -10 (= overschatting v.h. functioneren) tot en met +10 (= onderschatting v.h. functioneren). De onderzoeker heeft ook van elke persoon informatie over diens leeftijd (in jaren) en inkomen (in euro’s) verzameld.
+
+Welke analysetechniek is het meest geschikt om na te gaan of de groepen verschillen in het 
+gemiddelde op de fufunc, zonder rekening te houden met de scores op de twee andere tijdstippen, maar wel rekening houdend met leeftijd en inkomen?
+
+Answerlist
+----------
+* meerweg ANOVA.
+* eenweg ANCOVA.
+* herhaalde metingenanalyse.
+* mixed modelanalyse.
+
+
+Solution
+========
+
+
+
+Meta-information
+================
+exname: uu-ancova-102-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA
+exextra[Type]: Interpretating output
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Reasoning

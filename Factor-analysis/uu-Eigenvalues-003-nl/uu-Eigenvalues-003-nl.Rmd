@@ -1,0 +1,48 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Eigenvalues-003-nl-tabel.jpg", recursive = TRUE)
+```
+
+
+Question
+========
+  
+‘Aan moderne ouders worden zoveel eisen gesteld, dat ze gemakkelijk faalangst kunnen oplopen’ (Trouw, 7 januari 2014). 
+
+In een onderzoek naar de onzekerheden en faalangst van ouders is aan een aselecte steekproef van ouders een verzameling van tien relevante items voorgelegd. De respondenten moesten voor elk item aangeven in welke mate het van toepassing was (1 = geheel niet op mij van toepassing tot en met 7 = geheel op mij van toepassing).
+
+Voorbeeld: De verantwoordelijkheid van de opvoeding valt mij zwaar.
+
+Zie onderstaande uitvoer van een hoofdcomponentenanalyse voor tien items over onzekerheid en faalangst van ouders. 
+
+Hoeveel factoren selecteer je op basis van het eigenwaarde criterium?
+
+![](uu-Eigenvalues-003-nl-tabel.jpg)
+
+
+Answerlist
+----------
+* 1
+* 2
+* 3
+* 4
+
+Solution
+========
+  
+Uitleg: Het eigenwaardecriterium houdt in dat factor met een eigenwaarde hoger dan 1.00 worden meegenomen. Er zijn 2 factoren met een eigenwaarde hoger dan 1.00. Deze vraag betrof enkel het eigenwaardecriterium, er mocht geen rekening gehouden worden met alternatieve selectiecriteria.
+
+Answerlist
+----------
+
+
+
+Meta-information
+================
+exname: uu-Eigenvalues-003-nl.Rmd
+extype: schoice
+exsolution: 0100
+exsection: Factor analysis/Eigenvalues
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

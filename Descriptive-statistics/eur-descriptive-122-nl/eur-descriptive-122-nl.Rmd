@@ -1,0 +1,34 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-122-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-122-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+*Kennis over het beroepsveld.*
+
+Een kennistoets over het beroepsveld van psychologen en pedagogen bestaat uit 20 items en is afgenomen bij 202 studenten uit de master psychologie en pedagogiek. Het totale aantal correct beantwoorde vragen is weergegeven in de variabele [totaalscore]. Daarnaast zijn de scores (0 = niet correct, 1 = correct) op item 8 uit bovengenoemde kennistoets weergegeven in de variabele [item8].
+
+Open het databestand.
+
+De onderzoeker wil de totaalscores van de student graag indelen in de volgende 2 percentielgroepen: 0-85% = 1; en >85% = 2. Maak een nieuwe variabele waarin iedere student op basis van zijn of haar percentielscore voor de variabele [totaalscore] wordt toegewezen aan de juiste percentielgroep. Wat is de proportie correct op item 8 [item8] voor studenten die tot percentielgroep 2 behoren? (2 decimalen)
+
+**Download**: [SPSS file](eur-descriptive-122-nl-data.sav), [CSV file](eur-descriptive-122-nl-data.csv)
+
+
+Solution
+========
+De proportie correct op item 8 voor studenten die tot percentielgroep 2 behoren is .82. Dit betekent dat 82% van de studenten in deze groep item 8 correct beantwoord heeft.
+
+
+Meta-information
+================
+exname: eur-descriptive-122-nl
+extype: num
+exsolution: .82
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Proportion
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

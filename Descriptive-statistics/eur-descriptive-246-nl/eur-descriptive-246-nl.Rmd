@@ -1,0 +1,28 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-246-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-246-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Wat is het gemiddelde cijfer voor het tentamen inleiding in de filosofie (variabele: inleiding_filosofie) voor de studenten die op het tentamen van kennisleer (variabele: kennisleer) een score lager dan 6.0 hebben gehaald en die een score van 1 hadden op stelling 2 (variabele: stelling2)? Schrijf je antwoord in het antwoordvakje (met 4 cijfers achter de komma).
+
+**Download**: [SPSS file](eur-descriptive-246-nl-data.sav), [CSV file](eur-descriptive-246-nl-data.csv)
+
+
+Solution
+========
+Het correcte antwoord is 3.7882.
+
+
+Meta-information
+================
+exname: eur-descriptive-246-nl
+extype: num
+exsolution: 3.7882
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

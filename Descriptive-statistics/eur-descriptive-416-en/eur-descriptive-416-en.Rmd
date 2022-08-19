@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-416-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-416-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+A researcher working at the psychology institute investigates alcohol abuse among adolescents. The researcher designed 34 statements the adolescents can agree or disagree with on a four-point scale (1. completely agree; 2. somewhat agree; 3. somewhat disagree; 4. completely disagree). An example of a statement is: When I feel lonely, I enjoy drinking an alcoholic beverage. The answers of 312 girls (0) and boys (1) to the 34 statements are in the dataset. Also included in the dataset are IQ scores, scale scores and the amount of alcohol use (1 = very often; 2 = often; 3 = sometimes; 4 = never).
+
+The researcher wants to assign the scale scores of the adolescents to the following percentile groups: 0-20% = 1; >20%-40% =2; >40%-60%=3; >60%-80%=4; >80% = 5. Compute a new variable indicating the percentile group that each adolescent was assigned to based on their percentile scores. What is mean of item 8 (variable [item8]) of percentile group 4? (2 decimals)
+
+Open the dataset below to answer this question:
+
+**Download** [SPSS file](eur-descriptive-416-en-data.sav), [CSV file](eur-descriptive-416-en-data.csv)
+
+
+Solution
+========
+The mean of item 8 for adolescents assigned to percentile group 4 is 2.48. First a new variable has to be computed using the percentile scores and the recode into different variable function. After, find the mean of group 4 on item8.
+
+
+Meta-information
+================
+exname: eur-descriptive-416-en
+extype: num
+exsolution: 2.48
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
+exextra[Type]: Data manipulation, Interpretating output, Calculation
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

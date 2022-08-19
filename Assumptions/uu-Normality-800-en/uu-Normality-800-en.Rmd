@@ -1,0 +1,34 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Normality-800-en-tabel.jpg", recursive = TRUE)
+```
+
+
+
+Question
+========
+Included in this question is SPSS output from a multiple regression model from a dataset from the US National Center of Educational Statistics. This dataset is called High School Beyond and has data on variables related to students’ academic achievement. Specifically, the outcome variable for the regression model is “Math Score” which is predicted from “Locus of Control”, “Self-Concept”, and “Reading Score”. In addition, the Appendix includes plots that were created from the same model. Use the plots to help you answer questions about assumptions of the regression model for the High School Beyond dataset. 
+
+Using only the plots, tables, and statistics provided in the appendix, can you determine whether the normality assumption is upheld or violated? If yes, state which plot, table, or statistic you would use and state your conclusion. If the appropriate plot, table, or statistic is not provided, name which plot, table or statistic you would need to assess this assumption. 
+
+![](uu-Normality-800-en-tabel.jpg)
+  
+
+Solution
+========
+  
+No, at least one of these options should be provided: QQ-plot, PP-plot, Kolmogorov-Smirnov test, Shapiro-Wilk test: 1 pt
+
+Yes, the histogram of residuals helps but need more info: 0.5 pt
+
+
+
+Meta-information
+================
+exname: uu-Normality-800-en.Rmd
+extype: string
+exsolution: No 
+exsection: Assumptions/Normality
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

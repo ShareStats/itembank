@@ -1,0 +1,26 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(exams)
+library(knitr)
+```
+Question
+========
+How is it possible that although alpha places a lower limit on the size of the estimated reliability, in practice it is possible to get an alpha that is higher than the true reliability?
+
+
+Solution
+========
+It is possible that although alpha places a lower limit on the size of the estimated reliability, in practice one gets an alpha that is higher than the true reliability. This is because the alpha is calculated using a sample, and not the complete population. So the sample alpha may be large (even larger than the true reliability $r_{xx'}$) due to sampling variability.
+
+
+Meta-information
+================
+exname: eur-reliability-108-en
+extype: string
+exsolution: 
+extol: 
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

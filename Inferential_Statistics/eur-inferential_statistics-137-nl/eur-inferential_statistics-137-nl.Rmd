@@ -1,0 +1,34 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-137-nl-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-137-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een onderzoeker is geïnteresseerd in de gevolgen van de dalende benzineprijs op studenten met een auto en wil graag hun aantal gereden kilometers  in januari 2015 [km_jan] voorspellen aan de hand van een aantal predictoren. Ze heeft de volgende gegevens verzameld bij 202 studenten: 1) Gereden kilometers in januari 2015 [km_jan]; 2) Gereden kilometers in oktober 2014 [km_okt]; 3) de inkomsten uit een bijbaan in januari 2015 [salary_jan]; 4) het aantal kilometers dat de studenten gemiddeld afleggen met het openbaar vervoer in de maand februari 2015 [ov]; en 5) het type auto [car] (1 = hybride, 2 = sedan, 3 = suv).
+
+Open het databestand.
+
+Voorspel eerst de gereden kilometers in januari 2015 [km_jan] uit de gereden kilometers in oktober 2014 [km_okt], de inkomsten uit een bijbaan in januari 2015 [salary_jan] en het aantal kilometers dat de studenten gemiddeld afleggen met het openbaar vervoer in de maand februari 2015 [ov].
+
+Breid het model uit met de variabele type auto [car]. Je dient hiervoor eerst dummy variabelen aan te maken. Laat auto= “hybride” de referentiegroep zijn. Hoeveel is de proportie verklaarde variantie in  gereden kilometers in januari 2015 [km_jan] toegenomen doordat de variabele type auto [car] als predictor aan het model is toegevoegd? (3 decimalen)
+
+**Download**: [SPSS file](eur-inferential_statistics-137-nl-data.sav), [CSV file](eur-inferential_statistics-137-nl-data.csv)
+
+
+Solution
+========
+De proportie verklaarde variantie is met 0.006 toegenomen doordat de variabele type auto als predictor aan het model is toegevoegd.
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-137-nl
+extype: num
+exsolution: 0.006
+extol: 0
+exsection: Inferential Statistics/Regression/Multiple linear regression/R squared change, Inferential Statistics/Regression/Simple linear regression
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

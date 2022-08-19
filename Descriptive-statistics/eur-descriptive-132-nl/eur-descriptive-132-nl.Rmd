@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-132-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-132-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een onderzoeker is geïnteresseerd in de gevolgen van de financiële crisis voor 16- en 17 jarigen en wil graag hun uitgaven aan vrije tijd in november 2012 [expenses_nov] voorspellen aan de hand van een aantal predictoren. Ze heeft de volgende gegevens verzameld bij 202 jongeren: 1) De uitgaven in de maand november 2012 [expenses_nov]; 2) de uitgaven in de maand juli 2012 [expenses_jul]; 3) de inkomsten uit een bijbaan in november 2012 [salary_nov]; 4) het aantal uren dat de jongeren gemiddeld aan hun studie besteedden in de maand december 2012 [studytime]; en 5) het opleidingsniveau [education] (1 = vmbo, 2 = havo, 3 = vwo). 
+
+Open het databestand.
+
+bereken de correlaties tussen de predictoren: [expenses_jul], [salary_nov], [studytime] en de afhankelijke variabele uitgaven in november 2012 [expenses_nov]. Kies hierbij voor een listwise exclusion of missing values. Welke predictor heeft de hoogste correlatie met de afhankelijke variabele? Rapporteer deze correlatie. (3 decimalen)
+
+**Download**: [SPSS file](eur-descriptive-132-nl-data.sav), [CSV file](eur-descriptive-132-nl-data.csv)
+
+
+Solution
+========
+De correlatie is 0.694.
+
+
+Meta-information
+================
+exname: eur-descriptive-132-nl
+extype: num
+exsolution: 0.694
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

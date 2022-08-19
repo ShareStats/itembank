@@ -1,0 +1,28 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-254-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-254-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Of the women [Gender = 2], what is the percentage with a score of 2 (disagree) on statement 1 (variable: statement 1)? Write down your answer in the answer box (with 1 decimal place).
+
+**Download**: [SPSS file](eur-descriptive-254-en-data.sav), [CSV file](eur-descriptive-254-en-data.csv)
+
+
+Solution
+========
+The correct answer is 15.2.
+
+
+Meta-information
+================
+exname: eur-descriptive-254-en
+extype: num
+exsolution: 15.2
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Proportion
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,34 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-117-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-117-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+*Werk voor psychologen en pedagogen.*
+
+Een wetenschapper heeft de opdracht gekregen om te onderzoeken of het afgestudeerde psychologen en pedagogen lukt om een baan op niveau te vinden. De onderzoeker heeft zelf een vragenlijst ontworpen bestaande uit 12 Likert items met 5 antwoordmogelijkheden die variëren van helemaal mee oneens (1) tot helemaal mee eens (5). Een voorbeeld van een item is: Ik heb veel moeite moeten doen om een vacature voor een baan op niveau te vinden. De antwoorden van 608 pedagogen (1) en psychologen (2), onderscheiden in de variabele [psy_ped], op de twaalf items staan weergegeven in het databestand. NB. Hoe meer de respondent het eens is met de stellingen, des te moeilijker hij/zij het vindt om een baan op niveau te vinden.
+
+Open het databestand.
+
+Wat is de hoogste correlatie tussen een item en de corrected item total score? (3 decimalen)
+
+**Download**: [SPSS file](eur-descriptive-117-nl-data.sav), [CSV file](eur-descriptive-117-nl-data.csv)
+
+
+Solution
+========
+De hoogste correlatie tussen een item en de corrected item total score is 0.824.
+
+
+Meta-information
+================
+exname: eur-descriptive-117-nl
+extype: num
+exsolution: 0.824
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

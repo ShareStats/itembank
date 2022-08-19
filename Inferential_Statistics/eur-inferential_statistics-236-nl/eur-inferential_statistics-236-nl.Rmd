@@ -1,0 +1,30 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-236-nl-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-236-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een onderzoeker twijfelt of hij toch niet beter atleet kan worden, en als hij daarvoor kiest, welke sport hij dan het beste kan kiezen. Om dit voor zichzelf te bepalen heeft hij een steekproef getrokken uit alle professionele sporters in de VS en bepaald wat hun gemiddelde jaarlijkse inkomen was (in 10.000 dollars). Daarnaast heeft hij bepaald wat voor sport [Voetbal = 1, Basketbal = 2, Honkbal = 3] iemand deed, en of het ging om een mannelijke [Geslacht = 0] of een vrouwelijke [Geslacht = 1] atleet.
+
+Toets met de LSD-correctie paarsgewijs de verschillen in inkomen [Inkomen] tussen de drie soorten sporters [Sport]. Wat is de p-waarde die hoort bij de statistiek die het verschil toetst tussen de Basketballers [Sport=2] en Honkballers [Sport=3]? (3 decimalen)
+
+**Download**: [SPSS file](eur-inferential_statistics-236-nl-data.sav), [CSV file](eur-inferential_statistics-236-nl-data.csv)
+
+
+Solution
+========
+Het correcte antwoord is 0.694.
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-236-nl
+extype: num
+exsolution: 0.694
+extol: 0
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Post-hoc test, Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

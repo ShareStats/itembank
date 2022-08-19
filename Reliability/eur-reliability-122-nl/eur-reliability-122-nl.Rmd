@@ -1,0 +1,33 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-reliability-122-nl-data.sav", recursive = TRUE)
+include_supplement("eur-reliability-122-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+*Werk voor psychologen en pedagogen.*
+
+Een wetenschapper heeft de opdracht gekregen om te onderzoeken of het afgestudeerde psychologen en pedagogen lukt om een baan op niveau te vinden. De onderzoeker heeft hiertoe zelf een vragenlijst ontworpen bestaande uit 12 Likert items met 5 antwoordmogelijkheden die variëren van helemaal mee oneens (1) tot helemaal mee eens (5). Een voorbeeld van een item is: Ik heb veel moeite moeten doen om een vacature voor een baan op niveau te vinden. De antwoorden van 608 pedagogen en psychologen op de twaalf items staan weergegeven in het databestand, waarbij de variabele [psy_ped] pedagogen (1) en psychologen (2) onderscheidt. NB. De totaalscore over de 12 items geeft aan hoe moeilijk iemand het vindt om een baan op niveau te vinden. Hoe hoger de totaalscore des te moeilijker hij/zij het vindt om een baan op niveau te vinden.
+
+Open het databestand.
+
+Hoe hoog is de Spearman-Brown split-half betrouwbaarheid van de vragenlijst? (3 decimalen)
+
+**Download**: [SPSS file](eur-reliability-122-nl-data.sav), [CSV file](eur-reliability-122-nl-data.csv)
+
+Solution
+========
+De Spearman-Brown split-half betrouwbaarheid is 0.796.
+
+
+Meta-information
+================
+exname: eur-reliability-122-nl
+extype: num
+exsolution: 0.796
+extol: 0
+exsection: Reliability/Analysis/Split half
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

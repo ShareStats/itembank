@@ -1,0 +1,28 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-240-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-240-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Wat is de variantie van de scores op het eindexamen frans (variabele: frans). Schrijf je antwoord in het antwoordvakje (met 3 cijfers achter de komma).
+
+**Download**: [SPSS file](eur-descriptive-240-nl-data.sav), [CSV file](eur-descriptive-240-nl-data.csv)
+
+
+Solution
+========
+Het correcte antwoord is 6.224.
+
+
+Meta-information
+================
+exname: eur-descriptive-240-nl
+extype: num
+exsolution: 6.224
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Variance
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

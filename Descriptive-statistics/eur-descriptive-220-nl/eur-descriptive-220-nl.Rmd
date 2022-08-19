@@ -1,0 +1,30 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-220-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-220-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Sorteer de antwoorden op stelling 2 (variabele: stelling2) in aflopende volgorde (van hoog naar laag) en de cijfers op het tentamen inleiding in de economie (variabele: inleiding_economie) in oplopende volgorde (van laag naar hoog). Schrijf het cijfer van de 47ste persoon (rij 47) voor het tentamen wiskunde (variabele: wiskunde) (met 3 cijfers achter de komma) in het antwoordvakje.
+
+n.b. Als in jouw bestand de variabelenamen op de eerste rij zitten, dan heb je de 48ste rij nodig.
+
+**Download**: [SPSS file](eur-descriptive-220-nl-data.sav), [CSV file](eur-descriptive-220-nl-data.csv)
+
+
+Solution
+========
+Het correcte antwoord is 4.319.
+
+
+Meta-information
+================
+exname: eur-descriptive-220-nl
+extype: num
+exsolution: 4.319
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Location, Variable type/Discrete variable
+exextra[Type]: Case
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

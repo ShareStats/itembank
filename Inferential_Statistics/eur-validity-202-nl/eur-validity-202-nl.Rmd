@@ -1,0 +1,35 @@
+Question
+========
+Een onderzoeker vraagt zich af of een test om depressiviteit bij kleuters te meten een goeie voorspeller is voor depressiviteit tijdens de puberteit. De onderzoeker denkt dat de relatie tussen de testscore en het criterium (depressiviteit tijdens puberteit) anders is voor jongens dan voor meisjes. Wat voor soort bias verwacht de onderzoeker?
+
+Answerlist
+----------
+* construct bias
+* intercept bias
+* internal bias
+* slope bias
+
+
+Solution
+========
+This is slope bias. The relationship is different for boys and girls so in the regression equation (y=b0+b1*X) the b1 differs for boys and girls.
+
+Answerlist
+----------
+* Fout
+* Fout
+* Fout
+* Goed
+
+
+Meta-information
+================
+exname: eur-validity-202-nl
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Regression/Slope
+exextra[Type]: Calculate
+exextra[Program]: Calculator
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exshuffle: TRUE

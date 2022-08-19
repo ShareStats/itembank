@@ -1,0 +1,58 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+
+Question
+========
+Gegeven is de onderstaande variantie-covariantie matrix van drie variabelen. Hoe hoog is Cronbach’s alpha?
+
+```{r, echo=FALSE}
+library(knitr)
+Variable <- c("V1", "V2", "V3")
+V1 <- c(332, 165, 159)
+V2 <- c("", 545, 235)
+V3 <- c("", "", 336)
+table <- cbind(Variable, V1, V2, V3)
+kable(table)
+```
+
+Gebruik de volgende formule:
+
+
+$Cronbach's Alpha = (k / (k-1)) \times ∑C_{ij} / S^2_x$
+
+
+Answerlist
+----------
+* .21
+* .47
+* .72
+* .78
+
+
+Solution
+========
+We calculate the sum of the covariance and double it: $2 \times (165+159+235)=2 \times 559=1118$. 
+For the variance of the total score we add the item variances: $1118+332+545+336=2331$. 
+Cronbach's alpha then becomes: $3 \div 2 \times 1118 \div 2331=.72$
+
+Answerlist
+----------
+* Fout
+* Fout
+* Goed
+* Fout
+
+
+Meta-information
+================
+exname: eur-reliability-208-nl
+extype: schoice
+exsolution: 0010
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Calculate
+exextra[Program]: Calculator
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exshuffle: TRUE

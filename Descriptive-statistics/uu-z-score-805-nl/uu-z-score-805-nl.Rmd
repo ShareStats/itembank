@@ -1,0 +1,33 @@
+
+Question
+========
+In een onderzoek naar verklaringen voor schoolkeuze van leerlingen die het basisonderwijs verlaten, zijn 200 (aselect getrokken) ouders ondervraagd. In de vragenlijst zijn vragen opgenomen naar religie (twee categorieën), etnische achtergrond (drie categorieën) en sociaal economische status (drie categorieën). De vragenlijst bevat ook 25 vragen over het belang dat ouders hechten aan de verschillende kenmerken van de school voor het voorgezet onderwijs. De vragen maken het mogelijk om de veeleisendheid van de ouders te bepalen (1 = niet veeleisend tot en met 10 = zeer veeleisend). 
+
+De onderzoeksvraag is: 
+Verschillen ouders, getypeerd naar godsdienstige, etnische en sociaal economische status, in de mate van veeleisendheid?
+
+Stel dat geen van de noodzakelijke assumpties is geschonden, welke statistische analyse is voor het beantwoorden van de onderzoeksvraag dan het meest geschikt?
+
+Answerlist
+----------
+* Eenweg ANOVA
+* Tweeweg ANCOVA
+* Drieweg ANOVA
+* Vierweg ANCOVA
+
+
+Solution
+========
+De afhankelijke variabele in dit onderzoek is de mate van Veeleisendheid. Dit wordt gemeten met een vragenlijst van 25 vragen (over waar de ouders belang aan hechten qua kenmerken van de school voor het voortgezet onderwijs). Daarnaast zijn er drie onafhankelijke variabelen: godsdienst (groepsvariabele, 2 categorieën), etnische achtergrond (groepsvariabele, 3 categorieën) en sociaal economische status (groepsvariabele, 3 categorieën). Verder zijn er geen variabelen genoemd.
+De analysemethode die het meest geschikt is, is een Meerweg ANOVA, of specifiek: een Drieweg ANOVA.
+
+
+Meta-information
+================
+exname: uu-anova-149-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA
+exextra[Type]: Test Choice
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

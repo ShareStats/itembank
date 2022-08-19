@@ -1,0 +1,36 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-121-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-121-nl-data.csv", recursive = TRUE)
+```
+
+
+Question
+========
+*Kennis over het beroepsveld.*
+
+Een kennistoets over het beroepsveld van psychologen en pedagogen bestaat uit 20 items en is afgenomen bij 202 studenten uit de master psychologie en pedagogiek. Het totale aantal correct beantwoorde vragen is weergegeven in de variabele [totaalscore]. 
+
+Open het databestand.
+
+Wat is de totaalscore die hoort bij een percentielscore van 75%? (geen decimalen)
+
+**Download**: [SPSS file](eur-descriptive-121-nl-data.sav), [CSV file](eur-descriptive-121-nl-data.csv)
+
+
+
+Solution
+========
+De totaalscore die hoort bij een percentieslcore van 75% is 15.
+
+
+Meta-information
+================
+exname: eur-descriptive-121-nl
+extype: num
+exsolution: 15
+extol: 0
+exsection: Descriptive statistics/Score interpretation/Percentile
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

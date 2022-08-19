@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-132-nl-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-132-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Er is in Nederland momenteel veel discussie over het nut van langdurige opsluiting van TBS’ers. Een behandelaar van TBS kliniek de Kijvelanden heeft op 4 meetmomenten informatie verzameld over het agressieve gedrag van patiënten. De patiënten werden tijdens groepsbehandelingen geobserveerd en beoordeeld op agressief gedrag 1) 2 dagen na hun opname in de kliniek [T1_aggression] ; 2) een half jaar na hun opname [T2_aggression]; 3) een jaar na hun opname [T3_aggression]; en 4) anderhalf jaar na hun opname [T4_aggression]. Het agressieve gedrag werd gescoord middels een semi-gestructureerd interview waarbij de scores kunnen variëren van 0 (niet agressief) tot 40 (uiterst agressief). Verder registreert de behandelaar of de patiënten last hebben van psychoses of niet [psychosis].
+
+Open het databestand.
+
+De onderzoeker denkt dat het wel of niet hebben van psychoses [psychosis] het verloop van het agressieve gedrag door de tijd beïnvloedt. Voer de juiste analyse uit om deze hypothese te toetsen. Wat is de F-waarde voor dit effect volgens de univariate benadering? (3 decimalen)
+
+**Download**: [SPSS file](eur-inferential_statistics-132-nl-data.sav), [CSV file](eur-inferential_statistics-132-nl-data.csv)
+
+
+Solution
+========
+De F-waarde is 0.451.
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-132-nl
+extype: num
+exsolution: 0.451
+extol: 0
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Mixed design ANOVA
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

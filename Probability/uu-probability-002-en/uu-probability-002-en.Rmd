@@ -1,0 +1,32 @@
+Question
+========
+  
+You are conducting a survey at a hospital with 300 nurses, 50 technical staff members and 150 doctors. Each of these 500 individuals has a single listing in the hospital phone directory. Suppose you were to cut up the directory and pull out one listing at random to contact. What is the probability it would be a technical staff member?
+  
+Answerlist
+----------
+* $1$
+* $0.01$
+* $0.10$
+* $10$
+
+Solution
+========
+
+Answerlist
+----------
+* This answer is incorrect. Not all listings are of technical staff members. 
+* This answer is incorrect.
+* This answer is correct. $P(T)=\frac{50}{500}=0.10$. 
+* This answer is incorrect. A probability cannot exceed 1. 
+
+Meta-information
+================
+exname: uu-probability-002-en.Rmd
+extype: schoice
+exsolution: 0010
+exsection: Probability
+exextra[Type]: Calculation
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

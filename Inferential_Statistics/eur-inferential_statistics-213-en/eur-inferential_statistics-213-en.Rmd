@@ -1,0 +1,54 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+
+Question
+========
+A researcher wants to compare four groups (group 0, 1, 2 and 3) with respect to their average high school grade. However, she has only regression analysis at hand, and therefore she transforms the variable “group” into dummy variables. Group 0 has a score of 0 on each of the dummy variables. She gets the following output:
+
+```{r, echo=FALSE}
+library(knitr)
+Group <- c("(Constant)", "Group 1", "Group 2", "Group 3")
+B <- c(3.75, 3.50, 2.75, 2.5)
+Std.Error <- c(0.758, 1.072, 1.072, 1.313)
+Beta <- c(" ", .691, .543, .380)
+t <- c(4.945, 3.264, 2.564, 1.904)
+Sig <- c(.001, .009, .028, .061)
+table <- cbind(Group, B, Std.Error, Beta, t, Sig)
+kable(table)
+```
+Which of the following statements about the group means is correct?
+
+Answerlist
+----------
+* The grand mean equals 3.75
+* Approximately, there is a linear decrease in means for groups 0 to 3
+* Group 3 has to lowest mean
+* The means of groups 0 and 1 differ significantly
+
+
+Solution
+========
+The correct answer is that group 0 and 1 differ. Group 0 is your reference group; the unstandardized B coefficients show the difference in means between one of the three groups and group 0. When looking at group 1, you can see that the B coefficient is 3.5, which signifies a mean difference of 3.5; this difference is significant at p < .05. 
+
+The B of 3.75 here refers to the mean of the reference group, which is group 0. Furthermore, there is no linear decrease in means from groups 0 to 3, nor does group 3 have the lowest mean. Instead, group 0 has the lowest mean, followed by group 3, then group 2. Group 1 has the highest mean.
+
+Answerlist
+----------
+* False
+* False
+* False
+* True
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-213-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Regression/Dummies, Inferential Statistics/Regression/Simple linear regression, Inferential Statistics/Regression/Equation
+exextra[Type]: Interpretating output
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,37 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+
+Question
+========
+Below you find the scores of six students on the course 1.1 exam (social psychology) and the course 1.3 exam (statistics). 
+
+```{r, echo = FALSE}
+Students <- 1:6
+Exam_Course_1.1 <- c(7.5, 6.2, 5.2, 8.2, 9.2, 6.9)
+Exam_Course_1.3 <- c(6.8, 5.4, 7.6, 7.6, 8.4, 4.7)
+
+table <- cbind(Students, Exam_Course_1.1, Exam_Course_1.3)
+kable(table)
+```
+
+Calculate mean of the exam scores for course 1.1 (2 decimals)
+
+
+Solution
+========
+* Mean Exam 1.1 = $\frac{43.20}{6} = 7.20$ (the mean is calculated by summing the scores on the exam and dividing this sum by the number of participants)
+
+
+Meta-information
+================
+exname: eur-descriptive-101-en
+extype: num
+exsolution: 7.20
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
+exextra[Type]: Calculate
+exextra[Program]: Calculator
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

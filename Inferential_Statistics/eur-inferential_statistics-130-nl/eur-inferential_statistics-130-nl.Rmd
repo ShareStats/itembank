@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-130-nl-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-130-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Uit onderzoek is gebleken dat wanneer mensen woordjes leren uit een vreemde taal zij deze woordjes op de lange termijn beter kunnen onthouden wanneer zij de woordjes eerst bestuderen en daarna zichzelf testen op de woordjes, dan wanneer zij de woordjes twee keer bestuderen. Een onderzoeker aan het instituut voor psychologie wil weten of dit zogenaamde testing effect zich ook in het klaslokaal openbaart. Ze deelt een groep van 60 4VWO leerlingen in in drie groepen [condition]. De leerlingen in groep 1 bestuderen 2 keer achter elkaar een lijst met 30 nieuwe Franse woordjes (1 = restudy), de leerlingen in groep 2 bestuderen dezelfde lijst 1 keer en testen zichzelf daarna (2 = testing). Hierbij moeten ze hun hand op de Nederlandse vertaling van de Franse woordjes leggen en zelf bedenken wat de betekenis is. Leerlingen in groep 3 bestuderen de lijst met Franse woordjes slechts 1 keer (3 = study_once). Een week na het bestuderen krijgen alle leerlingen een test waarbij zij de 30 Franse woordjes opnieuw te zien krijgen en de Nederlandse vertaling moeten geven. Het totaal aantal correcte vertalingen staat weergegeven in de variabele score [score]. De onderzoeker heeft verder nog voor iedere leerling het rapportcijfer voor Frans [French] verzameld.
+
+Open het databestand.
+
+Wat is in het model met score [score] als afhankelijke variabele, conditie [condition] als onafhankeijke variabele en cijfer Frans [French] als covariaat het ongestandaardiseerde regressiegewicht van rapportcijfer Frans [French]? (3 decimalen)
+
+**Download**: [SPSS file](eur-inferential_statistics-130-nl-data.sav), [CSV file](eur-inferential_statistics-130-nl-data.csv)
+
+
+Solution
+========
+Het ongestandaardiseerde regressiegewicht van rapportcijfer Frans is 0.456.
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-130-nl
+extype: num
+exsolution: 0.456
+extol: 0
+exsection: Inferential Statistics/Regression/Regression F-test, Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

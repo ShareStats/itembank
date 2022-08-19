@@ -1,0 +1,28 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-261-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-261-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+What is the percentile score of the student with student number 244570 (variable: st), belonging to the grade for course exam 1.3 (variable course1_3). Write your answer in the answer box (with 2 decimal places). 
+
+**Download**: [SPSS file](eur-descriptive-261-en-data.sav), [CSV file](eur-descriptive-261-en-data.csv)
+
+
+Solution
+========
+The correct answer is 5.44.
+
+
+Meta-information
+================
+exname: eur-descriptive-261-en
+extype: num
+exsolution: 5.44
+extol: 0
+exsection: Descriptive statistics/Score interpretation/Percentile
+exextra[Type]: Calculation, Case
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

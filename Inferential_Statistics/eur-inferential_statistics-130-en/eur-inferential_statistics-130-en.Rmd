@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-130-en-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-130-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Research has shown that when people learn words from a foreign language they better remember those words if they first study the words and then test themselves trying to recollect the words, compared to just studying the words twice. A researcher from the institute of psychology wants to know whether this so-called testing effect can be proven to exist in the classroom. She divides a group of 60 students into three groups [condition]. The students in group 1 study a list of 30 French words and their Dutch translation twice (1 = restudy). The students in group 2 study the list of 30 French words and their Dutch translation once and then test themselves (2 = testing). The students in group 3 just study the list of 30 French words and their Dutch translation once without testing themselves (3 = study_once). A week after the study phase, the students took a test where they had to give the Dutch translation of the 30 French words that they studied earlier. The total number of correct translations is represented by the variable score [score]. Additionally, the researcher included for each student his/her French grade [French].
+
+Open the data file.
+
+What is in the model with outcome variable [score], independent variable [condition], and covariate [French], the unstandardized regression coefficient of French grade [French]? (3 decimals)
+
+**Download**: [SPSS file](eur-inferential_statistics-130-en-data.sav), [CSV file](eur-inferential_statistics-130-en-data.csv)
+
+
+Solution
+========
+The unstandardized regression coefficient of French grade is 0.456.
+
+
+Meta-information
+================
+exname: eur-inferential_statistics-130-en
+extype: num
+exsolution: 0.456
+extol: 0
+exsection: Inferential Statistics/Regression/Regression F-test
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
