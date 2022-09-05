@@ -2,7 +2,7 @@
 #install.packages("exams", repos = "http://R-Forge.R-project.org", dependencies = TRUE, type = "source")
 library(exams)
 
-# setwd("/Users/tasospsy/Google Drive/ShareStats/itembank/")
+#setwd("/Users/tasospsy/Google Drive/ShareStats/itembank/")
 # retrieve path to all rmarkdown files
 all.item.paths <- list.files(pattern = ".Rmd", ignore.case = TRUE, recursive = TRUE)
 
@@ -18,22 +18,23 @@ names <- gsub('.*/','', folders)
 mist <- c()
 for (i in 1:n) {
   tryCatch({
-    ## To Compile to .html uncomment the following line
-    # exams:::browse_exercise(
+    ## To Compile to .html uncomment the following (3)lines
+    #exams:::browse_exercise(
+    #file = all.item.paths[i],
+    #name = names[i]),
+
     
-    ## To Compile to QTI 2.1 uncomment the following line
+    ## To Compile to QTI 2.1 uncomment the following (3)lines
     # exams::exams2qti21(
+    #file = all.item.paths[i],
+    #name = paste0(names[i],"-qti"),
     
-    ## To Compile to testVision uncomment the following line
+    ## To Compile to testVision uncomment the following (3)lines
     exams::exams2testvision(
-    
-    ## Run all the rest as it is 
-      # compile each .Rmd file...
-      file = all.item.paths[i],
+    file = all.item.paths[i],
+    name = paste0(names[i],"-tv"),
       
-      # ...with a given name...
-      name = names[i],
-      
+    # Leave the rest code as its for any compilation
       # ...to a given folder.
       dir = folders[i])
   }, error = function(e){
@@ -43,15 +44,14 @@ for (i in 1:n) {
 }
 mist  
 
-Item_Qti_Errors <- mist
+Item_TV_Errors <- mist
 
-write.table(Item_Qti_Errors, file = "Item_Qti_Errors.txt", sep = "\n",
+write.table(Item_TV_Errors, file = "Item_TV_Errors.txt", sep = "\n",
             row.names = FALSE)
   
 
-## QTI compilation
-## because 'exams2qti21' gives a .zip file as output,
-## we rename everything to <path-file>-qti.zip
-Zips <- list.files(pattern = ".zip", ignore.case = TRUE, recursive = TRUE)
-newZips <- gsub(".zip", "-qti.zip", Zips )
-file.rename(Zips, newZips)
+
+
+
+
+
