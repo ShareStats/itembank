@@ -2,8 +2,6 @@
 include_supplement("uu-Homoscedasticity-025-nl-tabel.jpg", recursive = TRUE)
 ```
 
-
-
 Question
 ========
   
@@ -11,22 +9,16 @@ Er is sprake van heteroscedasticiteit als…
 
 Answerlist
 ----------
-*	… de verklarende variabelen onderling hoog gecorreleerd zijn
-*	… de meetfouten (‘errors’) niet normaal verdeeld zijn
-*	… de relatie tussen minimaal 1 van de X-variabelen en de Y-variabele niet-lineair is
-*	… de variantie van de meetfouten (‘errors’) niet constant is over de scores van de X-variabele(n) 
-
+* … de verklarende variabelen onderling hoog gecorreleerd zijn
+* … de meetfouten (‘errors’) niet normaal verdeeld zijn
+* … de relatie tussen minimaal 1 van de X-variabelen en de Y-variabele niet-lineair is
+* … de variantie van de meetfouten (‘errors’) niet constant is over de scores van de X-variabele(n) 
 
 Solution
 ========
 Bij regressieanalyses geldt de voorwaarde van homoscedasticiteit: De variantie in y is hetzelfde voor alle waarden van x. Wanneer de variantie van de meetfouten niet constant is over de scores van X spreken we van heteroscedasticiteit (zie onderstaande figuur).
 
 ![](uu-Homoscedasticity-025-nl-tabel.jpg)
-
-Answerlist
-----------
-
-
 
 Meta-information
 ================
