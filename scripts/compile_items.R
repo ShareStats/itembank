@@ -15,7 +15,7 @@ folders <- gsub('/[^/]+$','', all.item.paths)
 # extract the name of the item without extension
 names <- gsub('.*/','', folders)
 
-mist <- c()
+Errors <- c()
 for (i in 1:n) {
   tryCatch({
     ## To Compile to .html uncomment the following (3)lines
@@ -25,7 +25,7 @@ for (i in 1:n) {
 
     
     ## To Compile to QTI 2.1 uncomment the following (3)lines
-    # exams::exams2qti21(
+    #exams::exams2qti21(
     #file = all.item.paths[i],
     #name = paste0(names[i],"-qti"),
     
@@ -38,15 +38,13 @@ for (i in 1:n) {
       # ...to a given folder.
       dir = folders[i])
   }, error = function(e){
-    mist <<- rbind(mist, paste('Item:', names[i],"; Error:",conditionMessage(e)))
+    Errors <<- rbind(Errors, paste('Item:', names[i],"; Error:",conditionMessage(e)))
   }
   )
 }
-mist  
+Errors  
 
-Item_TV_Errors <- mist
-
-write.table(Item_TV_Errors, file = "Item_TV_Errors.txt", sep = "\n",
+write.table(Errors, file = "Errors-TV.txt", sep = "\n",
             row.names = FALSE)
   
 
