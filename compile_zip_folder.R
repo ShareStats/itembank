@@ -11,11 +11,11 @@ List_All_Files <- function(patt){
 } 
 
 # List the relevant files -------------------------------------------------
-init.dir <- "/Users/tasospsy/Google Drive/ShareStats/itembank"
-setwd(init.dir)
+
 All.paths <- List_All_Files(".Rmd") # I use .Rmd bc we know it is a unique key
 Folders <- gsub('/[^/]+$','', All.paths)
 
+init.dir <- getwd()
 for (f in Folders){
   setwd(paste0(init.dir,"/", f))
   HTML<- List_All_Files(".html") # All html files
