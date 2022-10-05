@@ -21,7 +21,8 @@ for(i in 1:n){
     lineMeta <- grep("Meta-information", x)  
     lnMeta <- seq(lineMeta[1] + 2, length(x), 1)
     xMeta <- x[lnMeta] 
-    xMeta <- paste0(xMeta, collapse = '\n')
+    xMeta <- paste0(xMeta, collapse = ' \n ')
+    xMeta <- gsub("/", " / ", xMeta)
     
     ## Question
     lineQ <- grep("Question", x) 
@@ -39,6 +40,7 @@ for(i in 1:n){
     lnQ <- seq(lineQ[1] + 2, lineTo-1, 1)
     xQ <- x[lnQ] 
     xQ <- paste0(xQ, collapse = "\n")
+    xQ <- gsub('\n\n', '\n', xQ)
   
     ## Create dataframe
     df[[i]] <- data.frame('id' = i-1,
@@ -55,6 +57,7 @@ for(i in 1:n){
 ## See Errors
 #Errors
 #write.table(Errors, file = "Errors-to-Create-Array-in-R.txt", sep = "\n",row.names = FALSE)
+
 ## Convert df to JSON file
 df <- do.call(rbind, df)
 array <- toJSON(df)
