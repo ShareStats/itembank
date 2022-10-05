@@ -16,7 +16,7 @@ All.paths <- List_All_Files(".Rmd") # I use .Rmd bc we know it is a unique key
 Folders <- gsub('/[^/]+$','', All.paths)
 
 init.dir <- getwd()
-for (f in Folders){
+for (f in Folders[200]){
   setwd(paste0(init.dir,"/", f))
   HTML<- List_All_Files(".html") # All html files
   ZIP <- List_All_Files(".zip")  # All zip files
