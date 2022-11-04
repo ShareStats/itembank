@@ -2,6 +2,8 @@
 #install.packages("exams", repos = "http://R-Forge.R-project.org", dependencies = TRUE, type = "source")
 library(exams)
 
+testrun = FALSE  # if true, output file have the prefix "testrun-". These files will be ignored by git
+
 #setwd("/Users/tasospsy/Google Drive/ShareStats/itembank/")
 # retrieve path to all rmarkdown files
 all.item.paths <- list.files(pattern = ".Rmd", ignore.case = TRUE, recursive = TRUE)
@@ -13,7 +15,12 @@ n = length(all.item.paths)
 folders <- gsub('/[^/]+$','', all.item.paths)
 
 # extract the name of the item without extension
-names <- gsub('.*/','', folders)
+if (testrun) {
+  names <- gsub('.*/','testrun-', folders)
+} else {
+  names <- gsub('.*/','', folders)
+}
+
 
 Errors <- c()
 for (i in 1:n) {
