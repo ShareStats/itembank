@@ -33,7 +33,7 @@ for (i in 1:n) {
     exams::exams2testvision(
     file = all.item.paths[i],
     name = paste0(names[i],"-tv"),
-      
+    schoice=list(enumerate = FALSE),
     # Leave the rest code as its for any compilation
       # ...to a given folder.
       dir = folders[i])
