@@ -2,7 +2,7 @@
 #install.packages("exams", repos = "http://R-Forge.R-project.org", dependencies = TRUE, type = "source")
 library(exams)
 
-testrun = FALSE  # if true, output file have the prefix "testrun-". These files will be ignored by git
+testrun = TRUE  # if true, output file have the prefix "testrun-". These files will be ignored by git
 
 #setwd("/Users/tasospsy/Google Drive/ShareStats/itembank/")
 # retrieve path to all rmarkdown files
