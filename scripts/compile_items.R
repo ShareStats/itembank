@@ -2,7 +2,7 @@
 #install.packages("exams", repos = "http://R-Forge.R-project.org", dependencies = TRUE, type = "source")
 library(exams)
 
-testrun = TRUE  # if true, output file have the prefix "testrun-". These files will be ignored by git
+testrun = FALSE  # if true, output file have the prefix "testrun-". These files will be ignored by git
 
 #setwd("/Users/tasospsy/Google Drive/ShareStats/itembank/")
 # retrieve path to all rmarkdown files
@@ -29,7 +29,7 @@ for (i in 1:n) {
     #exams:::browse_exercise(
     #file = all.item.paths[i],
     #name = names[i]),
-
+    
     
     ## To Compile to QTI 2.1 uncomment the following (3)lines
     #exams::exams2qti21(
@@ -38,10 +38,10 @@ for (i in 1:n) {
     
     ## To Compile to testVision uncomment the following (3)lines
     exams::exams2testvision(
-    file = all.item.paths[i],
-    name = paste0(names[i],"-tv"),
-    schoice=list(enumerate = FALSE),
-    # Leave the rest code as its for any compilation
+      file = all.item.paths[i],
+      name = paste0(names[i],"-tv"),
+      schoice=list(enumerate = FALSE),
+      # Leave the rest code as its for any compilation
       # ...to a given folder.
       dir = folders[i])
   }, error = function(e){
@@ -53,10 +53,4 @@ Errors
 
 write.table(Errors, file = "Errors-TV.txt", sep = "\n",
             row.names = FALSE)
-  
-
-
-
-
-
 
