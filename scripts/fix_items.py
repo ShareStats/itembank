@@ -124,7 +124,7 @@ def fix_foldername(file_path, testrun=True):
         new = Path(*new)
         print(f"Rename {file_path.parent} -> {new.parent}")
         if not testrun:
-            os.rename(file_path.absolute(), new.absolute())
+            os.rename(file_path.parent, new.parent)
         return True
     else:
         return False
