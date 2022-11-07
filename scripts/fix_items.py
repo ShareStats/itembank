@@ -1,7 +1,7 @@
 import os
 import re
+from pathlib import Path
 from collections import OrderedDict
-import sys
 from os import path
 
 
@@ -20,6 +20,13 @@ class MetaInfo():
                 self.parameter.update(para)
         elif txtline.startswith("Meta-information"):
             self.meta_section_line = line_cnt
+
+    @property
+    def exsolution(self):
+        try:
+            return self.parameter["exsolution"]
+        except:
+            return ""
 
     @staticmethod
     def extract_parameter(txt):
@@ -67,15 +74,17 @@ class SolutionAnswerList(object):
 
 class RmdFile(object):
 
-    def __init__(self, filename):
-        self.filename = filename
+    def __init__(self, file_path):
+        self.file_path = Path(file_path)
         self.answerlist = SolutionAnswerList()
         self.meta_info = MetaInfo()
-        try:
-            with open(filename, "r", encoding="utf-8") as fl:
+        self.content = []
+
+    def parse(self):
+
+        if self.file_path.is_file():
+            with open(self.file_path, "r", encoding="utf-8") as fl:
                 self.content = fl.readlines()
-        except:
-            self.content = []
 
         for cnt, txtline in enumerate(self.content):
             self.answerlist.parse(txtline, cnt)
@@ -83,6 +92,9 @@ class RmdFile(object):
 
     def issues(self):
         issues = []
+
+
+
         if self.answerlist.has_empty_answerlist():
             issues.append("Empty Answerlist")
         elif len(self.answerlist.solution_str) >0 and \
@@ -102,15 +114,38 @@ def get_filelist(folder):
     return file_list
 
 
+def fix_foldername(file_path, testrun=True):
+    file_path = Path(file_path)
+    sub_folder = file_path.parts[-2]
+    correct_subfolder = os.path.splitext(file_path.parts[-1])[0]
+    if sub_folder != correct_subfolder:
+        new = file_path.parts[:-2] + (correct_subfolder,
+                                      file_path.parts[-1])
+        new = Path(*new)
+        print(f"Rename {file_path.parent} -> {new.parent}")
+        if not testrun:
+            os.rename(file_path.absolute(), new.absolute())
+        return True
+    else:
+        return False
+
+
+## fix folder name
+for file_path in get_filelist("."):
+    fix_foldername(file_path)
+
+
 lst = get_filelist(".")
 print(len(lst))
-for name in lst:
-    rmd = RmdFile(name)
+
+for file_path in lst:
+    rmd = RmdFile(file_path)
     issues = rmd.issues()
     if len(issues):
-        print(name)
+        print(file_path)
         for cnt, txt in enumerate(issues):
             print(f"   {cnt+1}. {txt}")
+    exit()
 
 
 
