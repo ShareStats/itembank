@@ -1,9 +1,10 @@
-# Install development version of exams::
-#install.packages("exams", repos = "http://R-Forge.R-project.org", dependencies = TRUE, type = "source")
-
 #
 # Usage: import functions and run compile_items(...) in base folder of the itembank
-#
+# see options below
+# 
+
+# Install development version of exams::
+#install.packages("exams", repos = "http://R-Forge.R-project.org", dependencies = TRUE, type = "source")
 
 library(tools)
 library(exams)
@@ -97,10 +98,16 @@ compile_items <- function(html = TRUE,
                           testvision = TRUE,
                           testrun=FALSE,
                           force_recompile=FALSE) {
-  # if testrun = TRUE, output file have the prefix "testrun-". These files are currently ignored by git
-  # testruns do not check if files are outdate and compile thus all files
+  # The function has the following options and default values:
+  #
+  #          html = TRUE,
+  #          qti = TRUE,
+  #          testvision = TRUE,
+  #          testrun=FALSE          (if TRUE, all output files have the prefix "testrun-". These files are ignored by git)
+  #          force_recompile=FALSE  (force recomiplie all items, not onyl those that need an update)
+  #
   
-  # retrieve path to all rmarkdown files
+  
   all.item.paths <- list.files(pattern = ".Rmd",  ignore.case = TRUE, recursive = TRUE)
   n = length(all.item.paths)
   

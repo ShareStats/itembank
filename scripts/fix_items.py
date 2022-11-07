@@ -1,24 +1,47 @@
 import os
+import re
+from collections import OrderedDict
 import sys
 from os import path
+
 
 class MetaInfo():
 
     def __init__(self):
-        self.exsolution = ""
-        self.parameter
+        self.parameter = OrderedDict({})
+        self.meta_section_line = -1
 
 
     def parse(self, txtline: str, line_cnt: int):
-        if txtline.startswith("exsolution:"):
-            self.exsolution = txtline.split(":")[1].strip()
 
+        if self.meta_section_line > -1:
+            para = MetaInfo.extract_parameter(txtline)
+            if para is not None:
+                self.parameter.update(para)
+        elif txtline.startswith("Meta-information"):
+            self.meta_section_line = line_cnt
+
+    @staticmethod
+    def extract_parameter(txt):
+        # extract parameter for text line
+
+        m = re.match(r"\s*\w+[\[\]\w]+:", txt)
+        if m is not None:
+            return {txt[:m.end()-1].strip(): txt[m.end():].strip()}
+
+        return None
+
+    def parameter_str(self):
+        rtn = ""
+        for k, v in self.parameter.items():
+            rtn += "{}: {}\n".format(k, v)
+        return rtn
 
 class SolutionAnswerList(object):
     """parses answerlist solution"""
 
     def __init__(self) -> None:
-        self._solution_section = True
+        self._solution_section = False
         self.solution_str = ""
         self.answerlist_content = []
         self.answer_list_line = -1
