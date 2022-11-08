@@ -105,12 +105,24 @@ class RmdFile(object):
         return issues
 
 
-def get_filelist(folder):
+def get_filelist(folder, ignore_error=False):
     file_list = []
+    multiple_rmd = {}
     for (dirpath, _, filenames) in os.walk(folder):
+        multiple_rmd[dirpath] = []
         for flname in filenames:
             if flname.lower().endswith(".rmd"):
                 file_list.append(path.abspath(path.join(dirpath, flname)))
+                multiple_rmd[dirpath].append(flname)
+        if len(multiple_rmd[dirpath]) < 2:
+            del multiple_rmd[dirpath]
+
+    if len(multiple_rmd) and not ignore_error:
+        print("---- Multiple rmd files:")
+        for key, value in multiple_rmd.items():
+            print(f"   {key}: {value}")
+        print("----")
+        raise RuntimeError("Multiple rmd files in the folders listed above")
     return file_list
 
 
@@ -130,22 +142,17 @@ def fix_foldername(file_path, testrun=True):
         return False
 
 
-## fix folder name
-for file_path in get_filelist("."):
-    fix_foldername(file_path)
 
+if __name__ == "__main__":
+    lst = get_filelist(".")
+    print(len(lst))
 
-lst = get_filelist(".")
-print(len(lst))
-
-for file_path in lst:
-    rmd = RmdFile(file_path)
-    issues = rmd.issues()
-    if len(issues):
-        print(file_path)
-        for cnt, txt in enumerate(issues):
-            print(f"   {cnt+1}. {txt}")
-    exit()
-
-
+    for file_path in lst:
+        rmd = RmdFile(file_path)
+        issues = rmd.issues()
+        if len(issues):
+            print(file_path)
+            for cnt, txt in enumerate(issues):
+                print(f"   {cnt+1}. {txt}")
+        exit()
 
