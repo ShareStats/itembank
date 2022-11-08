@@ -1,18 +1,6 @@
-"""Fixes incorrect folder names
-
-The script runs per default in dry mode and merely displaces the changes
-to be made. Use option "--rename" to actually perform the changes
-
-O. Lindemann
-
-"""
-
-import os
-import sys
 import hashlib
+import os
 from pathlib import Path
-
-from fix_items import get_filelist
 
 
 def hash_file(flname):
@@ -23,7 +11,7 @@ def hash_file(flname):
 
     return hasher.digest()
 
-    return hasher.checksum, args[0]
+
 def fix_foldername(file_path, dryrun=True):
     file_path = Path(file_path)
     sub_folder = file_path.parts[-2]
@@ -38,6 +26,7 @@ def fix_foldername(file_path, dryrun=True):
         return True
     else:
         return False
+
 
 def check_duplicates(file_list):
     print("checking for duplicate items.")
@@ -63,23 +52,3 @@ def check_duplicates(file_list):
 
     return duplicates
 
-
-if __name__ == "__main__":
-    try:
-        dryrun = sys.argv[1] != "--rename"
-    except:
-        dryrun = True
-
-    d = check_duplicates(get_filelist(".", ignore_error=True))
-    if len(d)>0:
-        exit()
-
-    #fix folder names
-    cnt = 0
-    for file_path in get_filelist("."):
-        if fix_foldername(file_path, dryrun):
-            cnt += 1
-
-    print(f"{cnt} folders renamed.")
-    if dryrun:
-        print("\nDryrun: No data changed, call script with '--rename' to apply changes.")

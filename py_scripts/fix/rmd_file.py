@@ -1,8 +1,8 @@
 import os
 import re
-from pathlib import Path
 from collections import OrderedDict
 from os import path
+from pathlib import Path
 
 
 class MetaInfo():
@@ -118,41 +118,10 @@ def get_filelist(folder, ignore_error=False):
             del multiple_rmd[dirpath]
 
     if len(multiple_rmd) and not ignore_error:
-        print("---- Multiple rmd files:")
+        print("---- Multiple rmd files in one folder:")
         for key, value in multiple_rmd.items():
             print(f"   {key}: {value}")
         print("----")
-        raise RuntimeError("Multiple rmd files in the folders listed above")
+        raise RuntimeError("Multiple rmd files in one folders (see list above)")
     return file_list
-
-
-def fix_foldername(file_path, testrun=True):
-    file_path = Path(file_path)
-    sub_folder = file_path.parts[-2]
-    correct_subfolder = os.path.splitext(file_path.parts[-1])[0]
-    if sub_folder != correct_subfolder:
-        new = file_path.parts[:-2] + (correct_subfolder,
-                                      file_path.parts[-1])
-        new = Path(*new)
-        print(f"Rename {file_path.parent} -> {new.parent}")
-        if not testrun:
-            os.rename(file_path.parent, new.parent)
-        return True
-    else:
-        return False
-
-
-
-if __name__ == "__main__":
-    lst = get_filelist(".")
-    print(len(lst))
-
-    for file_path in lst:
-        rmd = RmdFile(file_path)
-        issues = rmd.issues()
-        if len(issues):
-            print(file_path)
-            for cnt, txt in enumerate(issues):
-                print(f"   {cnt+1}. {txt}")
-        exit()
 
