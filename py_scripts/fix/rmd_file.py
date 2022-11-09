@@ -112,7 +112,7 @@ def get_filelist(folder, ignore_error=False):
         multiple_rmd[dirpath] = []
         for flname in filenames:
             if flname.lower().endswith(".rmd"):
-                file_list.append(path.abspath(path.join(dirpath, flname)))
+                file_list.append(path.join(dirpath, flname))
                 multiple_rmd[dirpath].append(flname)
         if len(multiple_rmd[dirpath]) < 2:
             del multiple_rmd[dirpath]
