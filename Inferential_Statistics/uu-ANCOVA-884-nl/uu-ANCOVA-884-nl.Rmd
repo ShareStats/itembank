@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-ANCOVA-884-nl-graph01.jpg", recursive = TRUE)
+```
+Question
+========
+Aan de hand van de eenweg ANOVA zagen we significante verschillen in gemiddeld pestgedrag tussen de drie groepen. Na correctie voor de variabele jaren zijn de verschillen opeens niet meer significant. Wat is er gebeurd? 
+
+![](uu-ANCOVA-884-nl-graph01.jpg)
+
+Answerlist
+----------
+* De covariaat heeft het grootste deel van de spreiding al verklaard. Dit heeft tot een kleinere tussenspreiding geleid, waardoor de verschillen tussen de groepen relatief groter zijn.
+* Het opnemen van de covariaat heeft tot een grotere tussenspreiding geleid, waardoor de F-ratio kleiner werd.
+* Het opnemen van de covariaat heeft tot een kleinere binnenspreiding geleid. De gecorrigeerde gemiddelden liggen op deze manier verder uit elkaar.
+* De covariaat heeft het grootste deel van de spreiding al verklaard. Dit leidt tot een kleinere tussenspreiding, waardoor de verschillen tussen de groepen relatief kleiner zijn.
+
+
+Solution
+========
+
+
+
+Meta-information
+================
+exname: uu-ANCOVA-884-nl
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Reasoning

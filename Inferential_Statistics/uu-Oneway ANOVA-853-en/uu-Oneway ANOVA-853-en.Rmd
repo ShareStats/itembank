@@ -1,0 +1,38 @@
+Question
+========
+An educational scientist is researching the effects of concept mapping on the learning performance of students (N = 86). The participants are divided into three conditions:
+
+1. Pure: Students who receive instructions on how to create the concept map.
+2. Support: Students who receive instructions on how to create the concept map, in which part of the concept map has already been given.
+3. Control: Students who are not instructed in how to create the concept map.
+
+After taking part in the experimental conditions the participants complete an exam. It is expected that students in the  pure and support experimental conditions will on average score higher on the exam than students in the control condition.
+The scientist analyses the data with an ANOVA. She reports the following result:
+
+F(2, 83) = 17.90, p < .001,  $\eta^2$ = 0.13.
+
+Which of the following statements is correct based on the reported result?
+
+Answerlist
+----------
+* The mean values of the pure and support experimental conditions are significantly higher than the mean values in the control condition.
+* The effect of condition is significant, but not relevant.
+* The reported data cannot originate from this study.
+* A post-hoc analysis is necessary to determine whether the mean values in the pure and support experimental conditions are significantly higher than in the control condition.
+
+
+Solution
+========
+In this research 3 different conditions are compared with each other. By finding a significant difference between these groups (p < .001), we don't know yet which of the 3 groups differ from each other. This requires a post-hoc analysis.
+
+
+Meta-information
+================
+exname: uu-Oneway ANOVA-853-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Case
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Reasoning

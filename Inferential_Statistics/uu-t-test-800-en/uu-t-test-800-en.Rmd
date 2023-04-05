@@ -1,0 +1,60 @@
+Question
+========
+
+An employee at the local library claims that, on average, the books in the library are more than 20 years old. To test this claim, a student takes a random sample of 30 books and records the publication date for each. 
+In this sample the mean age of the books is 23.8 years and the variance (s2) is 67.5. 
+
+Use the five steps of hypothesis testing to answer the research question:  
+Are the books in the library, on average, more than 20 years old? 
+
+Use the .01 level of significance.
+
+
+Solution
+========
+
+Step 1 Hypotheses
+Hr: μ = 20
+H0: μ >20 (0.5 points)
+
+Step 2 Comparison Distribution
+Sm = √67.5/30 = 1.5 (0.5 points)
+
+Step 3 Cutoff
+α =.01; one-tailed
+tcritical = 2.462 (0.5 points)
+
+Step 4 sample’s score
+t = 23.8-20/1.5 = 2.53 (0.5 points)
+
+Step 5 Reject?
+2.53>2.462, so reject H0.
+This means that in the population, on average, the books are probably more than 20 years old. (1 point)
+
+
+
+Meta-information
+================
+exname: uu-t-test-800-en.Rmd
+extype: string
+exsolution: "Step 1 Hypotheses
+Hr: μ = 20
+H0: μ >20 (0.5 points)
+
+Step 2 Comparison Distribution
+Sm = √67.5/30 = 1.5 (0.5 points)
+
+Step 3 Cutoff
+α =.01; one-tailed
+tcritical = 2.462 (0.5 points)
+
+Step 4 sample’s score
+t = 23.8-20/1.5 = 2.53 (0.5 points)
+
+Step 5 Reject?
+2.53>2.462, so reject H0.
+This means that in the population, on average, the books are probably more than 20 years old. (1 point)"
+exsection: Inferential Statistics/Parametric Techniques/t-test
+exextra[Type]: Case
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

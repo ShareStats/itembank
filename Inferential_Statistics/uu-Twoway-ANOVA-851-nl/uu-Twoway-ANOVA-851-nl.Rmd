@@ -1,0 +1,36 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Twoway-ANOVA-851-nl-graph01.jpg", recursive = TRUE)
+```
+Question
+========
+Er wordt een onderzoek gedaan door een vertegenwoordiger van mensen die in de verpleging werken naar het inkomensniveau van verpleegsters. Er wordt verwacht dat verpleegsters die actief zijn in de verpleging van patiënten in het ziekenhuis meer betaald krijgen dan verpleegsters die vooral kantoorwerk doen in het ziekenhuis (aangegeven door de variabele positie). Bij een “Independent Samples T-Test” blijkt dat dit inderdaad zo is en blijkt dat het verschil in uurloon significant is (p < .001). De vertegenwoordiger wil nu kijken of er ook verschillen zijn tussen drie verschillende leeftijdsgroepen en of de verschillen in uurloon tussen de twee soorten verpleegsters verschillen binnen deze leeftijdsgroepen. 
+
+Een deel van de SPSS output van de analyse van de door de vertegenwoordiger verzamelde data staat hieronder. 
+
+![](uu-Twoway-ANOVA-851-nl-graph01.jpg)
+
+Het hoofdeffect van positie is significant in dit model. Wat is de grootte van dit effect?
+
+Answerlist
+----------
+* 4.8%
+* 0.19%
+* 7.8%
+* 5.0%
+
+
+Solution
+========
+
+
+
+Meta-information
+================
+exname: uu-Twoway-ANOVA-851-nl.Rmd
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
+exextra[Type]: Interpretating output, Calculation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Reasoning

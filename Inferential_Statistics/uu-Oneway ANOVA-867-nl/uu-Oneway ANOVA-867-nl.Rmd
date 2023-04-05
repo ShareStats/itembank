@@ -1,0 +1,33 @@
+Question
+========
+Er wordt een experiment uitgevoerd met kinderen in de groepen 3 t/m 5 van de lagere school. Leerlingen worden in groepjes  verdeeld. De groepjes gaan een voor een op het schoolplein spelen (er is dus steeds maar een groepje op het schoolplein aanwezig). Voordat ze naar buiten gaan, ontvangt een van de kinderen iets te eten met de instructie dit op het schoolplein pas op te eten. De helft krijgt een chocoladereep en de andere helft een appel. De onderzoekers willen bekijken of er een verschil is in het aantal kinderen dat iets over het eten vraagt. Om ook bewustzijn mee te nemen in het onderzoek, krijgt de helft van de kinderen het eten in aanwezigheid van de andere kinderen en de helft privé. Is er een verschil tussen de groep kinderen die zich er bewust van zijn dat een ander kind iets heeft gekregen en de groep die dat niet is? De groepjes worden 10 minuten lang geobserveerd op het schoolplein en het aantal kinderen binnen het groepje dat iets vraagt over het eten gemarkeerd. De resultaten staan in de SPSS output hieronder. 
+
+Het experiment wordt kleinschalig door een ander stel onderzoekers herhaald. Ze gebruiken echter deze keer naast de chocoladereep en de appel, ook een banaan en een lolly. Ze hebben 32 groepjes kinderen die ze evenredig over de verschillende condities verdelen. 
+Voor het hoofdeffect van soort eten vinden ze F = 4.22.  
+
+Wat weten we over het hoofdeffect van soort eten?
+
+Answerlist
+----------
+* Het hoofdeffect is significant bij $\alpha$= .05 en ook bij $\alpha$= .01.
+* Het hoofdeffect is significant bij $\alpha$= .05 maar niet bij $\alpha$= .01.
+* Het hoofdeffect is niet significant bij $\alpha$ = .05 maar wel bij $\alpha$= .01.
+* Het hoofdeffect is niet significant; niet bij $\alpha$ = .05 en ook niet bij $\alpha$ = .01.
+
+
+Solution
+========
+$DF_{eten}$ = 4 - 1 = 3, $DF{error}$ = N - k = 32 - 8 = 24. 
+Bij 3 en 24 vrijheidsgraden, zijn de kritieke waarden bij $\alpha$= .05 gelijk aan $F_{kritiek}$ = 3.01 en bij $\alpha$ = .01 gelijk aan $F_{kritiek}$ = 4.72. We zien nu dat $F_{obs}$ = 4.22 groter is dan de kritieke waarde bij $\alpha$ = .05, zodat bij $\alpha$ = .05 de resultaten significant zijn. We zien ook dat $F_{obs}$ = 4.22 niet groter is dan de kritieke waarde bij $\alpha$ = .01, zodat bij $\alpha$ = .01 de resultaten niet significant zijn.
+
+
+Meta-information
+================
+exname: uu-Oneway ANOVA-867-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Reasoning

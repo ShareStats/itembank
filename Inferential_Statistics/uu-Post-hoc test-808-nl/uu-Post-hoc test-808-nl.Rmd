@@ -1,0 +1,30 @@
+Question
+========
+Een psychologe doet een experiment met 100 vrijwilligers. Factor A geeft aan of de participant wel of geen rustgevend drankje heeft gekregen. Factor B geeft aan welke kleur licht er scheen in de ruimte waar de participant in zat tijdens het afnemen van een concentratietest: gewoon wit (controle situatie), geel, blauw of paars. Om te bepalen of er significante verschillen zijn tussen de gemiddelde scores in de verschillende testcondities, voert de psychologe een tweeweg variantieanalyse uit. Alle F-testen resulteren in significante resultaten.
+
+Voor welke factor(en) zou de psychologe nog een post-hoc toets moeten doen?
+
+Answerlist
+----------
+* Alleen factor A
+* Alleen factor B
+* Zowel factor A als factor B
+* Geen van beide factoren
+
+
+Solution
+========
+Factor A heeft maar twee niveaus: ``wel een drankje'' en ``geen drankje''. Als het resultaat significant is, weten we dat de twee groepen significant van elkaar verschillen. Een post-hoc toets heeft hier geen zin.
+
+Factor B heeft 4 niveaus: wit, geel, blauw en paars. Als hier het resultaat significant is, weten we alleen nog maar dat niet alle groepen gelijk aan elkaar scoren. Maar welke significant van elkaar afwijken weten we nog niet. Dus een post-hoc toets is hier nodig om te bepalen welke groepen significant van elkaar afwijken.
+
+
+Meta-information
+================
+exname: uu-Post-hoc test-808-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Post-hoc test
+exextra[Type]: Case
+exextra[Language]: Dutch
+exextra[Level]: Statistical Reasoning

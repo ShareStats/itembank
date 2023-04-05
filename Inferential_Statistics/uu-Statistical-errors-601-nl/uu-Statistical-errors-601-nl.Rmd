@@ -1,0 +1,34 @@
+Question
+========
+  
+Als een toets wordt uitgevoerd met $\alpha = 5%$ en een power heeft van $80%$, wat is dan de kans dat de $H_0$ terecht wordt verworpen?
+  
+Answerlist
+----------
+* 5%
+* 20%
+* 80%
+* 95%
+
+
+Solution
+========
+  
+Answerlist
+----------
+* 5% is de kans dat $H_0$ wordt verworpen terwijl deze juist is (kans op een Type I fout).
+* 20% is de kans dat $H_0$ niet wordt verworpen terwijl deze wel verworpen had moeten worden (kans op een Type II fout).
+* 80% is de kans dat er in de steekproef een effect gevonden wordt, wanneer deze in de populatie ook daadwerkelijk aanwezig is. Dit is dus de kans $H_0$ wordt verworpen terwijl deze ook niet juist is (en dus terecht verworpen wordt).
+* 95% is de kans dat $H_0$ niet wordt verworpen wanneer deze ook daadwerkelijk juist is.
+
+
+Meta-information
+================
+exname: uu-Statistical-errors-601-nl.Rmd
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/NHST/Statistical errors
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,33 @@
+Question
+========
+  
+Stel dat de toelatingsexamenscores waren gecodeerd als “onvoldoende”, “voldoende” of “goed/excellent”. Welke analyse techniek is nu het meest geschikt om te kijken of de GPA’s van de Amerikaanse high school studenten verschillen in deze drie groepen? 
+  
+Answerlist
+----------
+* Pearson correlatie
+* Variantie-analyse
+* Twee-weg variantie-analyse
+* Chi-kwadraat toets van Goodness of Fit 
+
+
+Solution
+========
+  
+
+Answerlist
+----------
+* Dit antwoord is incorrect. Toelatingsexamenscores zijn niet van interval of ratio meetniveau. 
+* Dit antwoord is correct.GPA is de afhankelijke variabele, deze is van interval meetniveau, Toelatingsexamenscores zijn de onafhankelijke variabele, deze zijn hier van ordinaal meetniveau. Het vergelijken van twee of meer groepen op een variabele van interval of ratio meetniveau is mogelijk met variantie-analyse. 
+* Dit antwoord is incorrect. Er is maar één onafhankelijke variabele, geen twee.  
+* Dit antwoord is incorrect. Een chi-kwadraat toets is niet geschikt bij een afhankelijke variabele van interval meetniveau met veel verschillende waarden. 
+
+Meta-information
+================
+exname: uu-ANOVA-826-nl.Rmd
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA
+exextra[Type]: Test Choice
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

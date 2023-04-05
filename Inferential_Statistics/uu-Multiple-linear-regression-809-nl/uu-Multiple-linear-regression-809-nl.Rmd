@@ -1,0 +1,43 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Multiple-linear-regression-809-nl-tabel.jpg", recursive = TRUE)
+```
+
+
+
+Question
+========
+  
+Een student aan de universiteit van London heeft data verzameld onder zijn medestudenten. Hij wil een model maken om de lengte van studenten te voorspellen (gemeten in inches, VB: 1,70 m = 67 inches) aan de hand van de lengte van hun ouders, hun sekse (male = 0, female = 1) en hun positie binnen het gezin. Deel van de SPSS data en de SPSS output staan hieronder.
+
+![](uu-Multiple-linear-regression-809-nl-tabel.jpg)
+
+Hoe lang voorspellen we student 64, waarvan we weten dat het een meisje is, aan de hand van bovenstaand model?
+  
+Answerlist
+----------
+* 62.5 inches
+* 64.4 inches
+* 65.7 inches 
+* 70.6 inches
+
+
+Solution
+========
+  
+
+
+Answerlist
+----------
+
+
+
+Meta-information
+================
+exname: uu-Multiple-linear-regression-809-nl.Rmd
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Regression/Multiple linear regression
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

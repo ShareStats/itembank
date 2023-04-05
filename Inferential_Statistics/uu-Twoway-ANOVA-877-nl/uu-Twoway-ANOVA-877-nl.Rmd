@@ -1,0 +1,35 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Twoway-ANOVA-877-nl-graph01.jpg", recursive = TRUE)
+```
+
+Question
+========
+Een aantal studenten doet mee met een onderzoek naar de academische prestaties (grades) van de studenten gerelateerd naar zitplek (position). Zijn er verschillen tussen de cijfers van studenten die altijd vooraan in de collegezaal zitten vergeleken met studenten die in het midden zitten en met studenten die achterin zitten? Deel van de SPSS output staat hieronder. 
+
+![](uu-Twoway-ANOVA-877-nl-graph01.jpg)
+
+Welke conclusie over de cijfers van de studenten is juist?
+
+Answerlist
+----------
+* Studenten voorin de zaal scoren significant hoger dan studenten midden of achterin de zaal. De gemiddelde cijfers van jongens zijn niet significant anders dan dat van meisjes. Omdat de interactie significant is, zou het zo kunnen zijn dat voorin de zaal de jongens hoger scoren dan de meisjes, maar achterin de zaal de meisjes juist hoger scoren.
+* Het hoofdeffect van sekse is niet significant. Er zijn dus geen verschillen tussen de gemiddelde cijfers van jongens en meisjes. Wel zijn er significante verschillen in gemiddelde cijfers tussen studenten die voorin, middenin of achterin de zaal zitten. Het interactie-effect is significant; dit betekent dat de verschillen tussen voorin, middenin en achterin voor de jongens niet verschillen van de meisjes.
+* Het effect van zitplek op cijfer is voor de jongens niet anders dan voor meisjes. Globaal gezien zijn er verschillen in gemiddelde cijfers van studenten op de drie verschillende plekken. Globaal gezien zijn er geen verschillen in gemiddelde cijfers van jongens en meisjes.
+* Het effect van zitplek op cijfer is voor de jongens anders dan voor meisjes. In het algemeen zijn er verschillen in gemiddelde cijfers van studenten op de drie verschillende plekken. In het algemeen scoren jongens en meisjes gemiddeld niet anders, maar de verschillen tussen jongens en meisjes zijn terug te vinden wanneer we ze per zitplek bekijken.
+
+
+Solution
+========
+
+
+
+Meta-information
+================
+exname: uu-Twoway-ANOVA-877-nl.Rmd
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Reasoning

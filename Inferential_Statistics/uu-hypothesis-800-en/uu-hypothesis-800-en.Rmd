@@ -1,0 +1,42 @@
+
+
+Question
+========
+A simple random sample of 100 postal employees is used to test if the average time postal employees have worked for the postal service has changed from the value of 7.5 years recorded 20 years ago. The sample mean was M = 7 years with a standard deviation of SD = 2 years.  Assume the distribution of the time the employees have worked for the postal service is approximately normal. 
+Use the 5 steps of the hypothesis testing process to answer the question above. Make sure to clearly identify the answers to all 5 steps.
+
+
+Solution
+========
+Step 1 (1 point)
+Two populations: postal employees this year and postal employees 20 years ago.
+$H_{0}$: $\mu$ = 7.5
+$H_{R}$: $\mu$ $\neq$ 7.5
+
+Step 2 (0.5 points)
+Comparison Distribution is a t distribution. The number of degrees of freedom is 99. SM = 2 / $\sqrt{100}$ = 0.2
+
+Step 3 (0.5 points)
+Critical t-value (df = 99; $\alpha$ = .10) is ±1.660 (opgezocht bij df  =100)
+Critical t-value (df = 99; $\alpha$ = .05) is ±1.984 (opgezocht bij df  =100)
+Critical t-value (df = 99; $\alpha$ = .01) is ±2.626 (opgezocht bij df  =100)
+
+Step 4 (1 point)
+Sample t-value is (7-7.5) / 0.2 = -2.5
+
+Step 5 (1 point)
+For $\alpha$ = .01, you should not reject the null hypothesis. This means that the average time postal employees have worked for the postal service has not changed. 
+For $\alpha$ = .05 and \alpha = .10 you should reject the null hypothesis. This means that the average time postal employees have worked for the postal service has changed
+
+
+Meta-information
+================
+exname: uu-hypothesis-800-en
+extype: string
+exsolution: NA
+extol: 
+exsection: Inferential Statistics/NHST/Hypothesis
+exextra[Type]: Case
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

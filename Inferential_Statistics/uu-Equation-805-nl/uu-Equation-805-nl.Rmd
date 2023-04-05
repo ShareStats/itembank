@@ -1,0 +1,45 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Equation-805-nl-tabel.jpg", recursive = TRUE)
+```
+
+
+Question
+========
+  
+Bij een onderzoek onder Britse basisscholen wordt er data verzameld over allerlei variabelen die te maken hebben met de intelligentie en prestatie van de kinderen. Variabelen zoals lezen, spelling, algemene kennis, woordenschat, enz. In onderstaande analyse wordt gekeken of voor kinderen in groep 7 de score op grammar (grammatica) voorspeld kan worden met behulp van de scores op spelling. 
+
+![](uu-Equation-805-nl-tabel.jpg)
+
+Wat is de juiste regressievergelijking om deze voorspellingen te kunnen doen?
+  
+Answerlist
+----------
+* voorspelde grammatica = 0.483 + 0.529 spelling
+* voorspelde spelling = 0.483 + 0.529 grammatica
+* voorspelde grammatica = 10.471 + 0.483 spelling
+* voorspelde spelling = 10.471 + 0.483 grammatica
+
+Solution
+========
+  
+We willen grammatica voorspellen a.d.h.v. spelling. Dus de vergelijking moet zijn: 
+voorspelde grammatica = a + b x spelling. De waarden van a en b halen we uit de kolom B en die zijn a = 10.47 en b = 0.483.
+
+
+Answerlist
+----------
+* Dit antwoord is incorrect.
+* Dit antwoord is incorrect.
+* Dit antwoord is correct.
+* Dit antwoord is incorrect.
+
+Meta-information
+================
+exname: uu-Equation-805-nl.Rmd
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Regression/Equation
+exextra[Type]: Case, Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

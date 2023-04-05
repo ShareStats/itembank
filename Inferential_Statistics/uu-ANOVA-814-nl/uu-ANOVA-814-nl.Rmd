@@ -1,0 +1,28 @@
+Question
+========
+  
+Bij een experiment met drie verschillende rekenmethodes variëren de scores binnen elke experimentele groep, echter de gemiddelden per experimentele groep zijn aan elkaar gelijk. Bij uitvoering van een variantie-analyse (ANOVA) is dan
+  
+Answerlist
+----------
+* SSwithin > 0  en  SSbetween = 0
+* SSwithin > 0  en  SSbetween > 0
+* SSwithin = 0  en  SSbetween > 0
+* SSwithin = 0  en  SSbetween = 0
+
+
+Solution
+========
+De zin ‘de scores binnen een experimentele groep variëren’ betekent SSwithin > 0. De zin ‘de gemiddelden per experimentele groep zijn aan elkaar gelijk’ betekent SSbetween = 0.  
+
+
+
+Meta-information
+================
+exname: uu-ANOVA-814-nl.Rmd
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/ANOVA
+exextra[Type]: Case
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,41 @@
+Question
+========
+  
+In een onderzoek naar de relatie tussen locatie van uitzending (Irak of Afghanistan) en depressiviteit van soldaten wordt in eerste plaats alleen maar gekeken òf de soldaten depressief zijn geworden, ja of nee. Een $\chi^2$-toets wordt uitgevoerd en de variabelen bleken, in een steekproef van 60 soldaten, niet onafhankelijk: $\chi^2(1, n = 60) = 5.88$, $p = .015$. Wat is de waarde van de effectgrootte die hierbij gerapporteerd hoort te worden?
+  
+Answerlist
+----------
+* $0.015$
+* $0.098$
+* $0.313$
+* Dit is niet te bepalen omdat de kruistabel niet gegeven is.
+
+
+
+
+Solution
+========
+  
+Locatie is een dichotome variabele (Irak/Afghanistan), evenals depressie (ja/nee). Om in dit geval de effectgrootte uit te rekenen kan de phi-coefficiënt berekend worden:
+
+$\phi= \sqrt{\frac{\chi^2}{n}} = \sqrt{\frac {5.88}{60}} =0.313$
+ 
+ 
+
+
+Answerlist
+----------
+* $.015$ is $p$-waarde en niet de effectgrootte.
+* Bij ditt antwoord ($.098$) is vergeten de wortel te trekken.
+* $\phi= \sqrt{\frac{\chi^2}{n}} = \sqrt{\frac {5.88}{60}} =0.313$
+* Dit is wel degelijk te bepalen. Locatie is een dichotome variabele (Irak/Afghanistan), evenals depressie (ja/nee). Om in dit geval de effectgrootte uit te rekenen kan de phi-coefficiënt berekend worden. 
+
+Meta-information
+================
+exname: uu-Effect-size-815-nl.Rmd
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Effect size
+exextra[Type]: Case
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

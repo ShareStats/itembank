@@ -1,0 +1,39 @@
+Question
+========
+  
+In het artikel van Kammers et al. (2010) wordt een herhaalde metingen analyse gedaan waarbij de respons van 11 vrouwelijke studenten in elke conditie worden gemeten. Er wordt een 2 x 2 x 2 x 2 repeated measures anova uitgevoerd. Hoeveel condities zijn er per persoon?
+
+  
+Answerlist
+----------
+* 2
+* 4
+* 8
+* 16
+
+Solution
+========
+  
+Bij een herhaalde metingen analyse nemen alle participanten deel aan alle verschillende condities. Een 2 x 2 x 2 x 2 design betekend dat er vier factoren zijn met ieder twee verschillende waardes. 
+
+Bijvoorbeeld: factor 1 = A of B, factor 2 = X of Y, factor 3 = 1 of 2 en factor 4 = # of *. In totaal zijn dan de volgende 16 combinaties mogelijk:
+AX1#     AY1#     BX1#     BY1#     AX1*     AY1*     BX1*     BY1*
+AX2#     AY2#     BX2#     BY2#     AX2*     AY2*     BX2*     BY2*
+
+
+Answerlist
+----------
+* Dit antwoord is incorrect.
+* Dit antwoord is incorrect.
+* Dit antwoord is incorrect.
+* Dit antwoord is correct.
+
+Meta-information
+================
+exname: uu-Twoway-repeated-measures-ANOVA-802-nl.Rmd
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway repeated measures ANOVA
+exextra[Type]: Conceptual, Case
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

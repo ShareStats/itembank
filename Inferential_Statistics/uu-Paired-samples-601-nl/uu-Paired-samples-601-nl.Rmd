@@ -1,0 +1,42 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Paired-samples-601-nl-tabel.jpg", recursive = TRUE)
+```
+
+
+
+Question
+========
+  
+Een oliemaatschappij beweert dat zij een benzinetoevoeging heeft waarmee auto’s zuiniger rijden. Om dit aan te tonen laat ze een steekproef van 9 auto’s twee keer hetzelfde traject van 1000 kilometer rijden; één keer zonder toevoeging (Conditie I) en één keer met toevoeging (Conditie II). Het gemiddelde benzineverbruik (in liters) en de bijbehorende kwadratensommen zijn vermeld in de onderstaande tabel. Kun je op basis van een eenzijdige toets met $\alpha=.05$ concluderen dat auto’s met de toevoeging zuiniger rijden?
+
+
+![](uu-Paired-samples-601-nl-tabel.jpg)
+  
+Answerlist
+----------
+
+* Ja, want $s_{M_D} = 0.67$ geeft een $t$-waarde van $6.00$. 
+* Ja, want $s_{M_D} = 0.63$ geeft een $t$-waarde van $6.36$.  
+* Nee, want $s_{(M_1-M_2)} = 3.99$ geeft een $t$-waarde van $1.00$.
+* Nee, want $s_{(M_1-M_2)} = 3.77$ geeft een $t$-waarde van $1.06$. 
+
+Solution
+========
+
+Answerlist
+----------
+
+* correct
+* not correct
+* not correct
+* not correct
+
+Meta-information
+================
+exname: uu-Paired-samples-601-nl.Rmd
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/t-test/Paired samples
+exextra[Type]: Case
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

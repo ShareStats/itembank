@@ -1,0 +1,38 @@
+Question
+========
+Sinds augustus 2014 hebben basisscholen een “zorgplicht”. Dit houdt in dat de school een passende plek moet zoeken als een kind extra ondersteuning nodig heeft. Er zijn drie mogelijkheden:
+• een aanbod op de eigen school (de school van aanmelding);
+• een aanbod op een andere reguliere school;
+• een aanbod op een school voor (voortgezet) speciaal onderwijs.
+De directeur op basisschool “De Regenboog” zit met een dergelijke zorgleerling in zijn maag en zoekt een oplossing. Hij overweegt alle drie de bovenstaande mogelijkheden. Hij laat 30 directeuren van andere basisscholen een score van 0 tot 10 toekennen over de wenselijkheid van de drie de oplossingen (10 directeuren per oplossing). Stel dat de directeur wil toetsen of de oplossingen significant van elkaar verschillen in wenselijkheid, welke toets heeft hij dan nodig?
+
+  
+Answerlist
+----------
+* Eenweg ANOVA 
+* Tweeweg ANOVA
+* $\chi^2$ Goodness of Fit
+* $\chi^2$ toets voor onafhankelijkheid (independence)
+
+
+
+Solution
+========
+Elke oplossing wordt apart door 10 onafhankelijke directeuren beoordeeld. Voor elk van de drie oplossingen hebben we dus 10 scores. We vergelijken de gemiddelde scores (=afhankelijke variabele) over de drie oplossingen (=groepen, onafhankelijke variabele). Dit is per definitie een eenweg ANOVA. 
+
+
+Answerlist
+----------
+
+
+
+Meta-information
+================
+exname: uu-Oneway ANOVA-810-nl.Rmd
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Case
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

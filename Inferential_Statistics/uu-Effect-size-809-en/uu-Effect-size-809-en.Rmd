@@ -1,0 +1,45 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Effect-size-809-en-tabel.png", recursive = TRUE)
+```
+
+
+Question
+========
+  
+Spatial perception is measured on a scale from 0 to 10. The scores on this test are normally distributed with a mean of 5 and a standard deviation of 1.5. A group of 9th grade students are tested for spatial perception. SPSS was used to obtain descriptive statistics of the spatial perception scores in the sample. 
+
+![](uu-Effect-size-809-en-tabel.png)
+
+
+Using α = 0.01, the mean score is significantly different from 5. What is the effect size that should be reported?
+
+  
+Answerlist
+----------
+* 2.83 
+* 0.67
+* 3.33 
+* 12 
+
+
+
+Solution
+========
+
+$d=\frac{6-5}{1.5}=0.67$
+
+
+Answerlist
+----------
+
+
+
+Meta-information
+================
+exname: uu-Effect-size-809-en.Rmd
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Effect size
+exextra[Type]: Case
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
