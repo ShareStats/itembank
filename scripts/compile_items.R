@@ -21,7 +21,6 @@ if (testrun) {
   names <- gsub('.*/','', folders)
 }
 
-
 Errors <- c()
 for (i in 1:n) {
   tryCatch({
