@@ -4,7 +4,6 @@ library(exams)
 
 testrun = FALSE  # if true, output file have the prefix "testrun-". These files will be ignored by git
 
-#setwd("/Users/tasospsy/Google Drive/ShareStats/itembank/")
 # retrieve path to all rmarkdown files
 all.item.paths <- list.files(pattern = ".Rmd", ignore.case = TRUE, recursive = TRUE)
 
