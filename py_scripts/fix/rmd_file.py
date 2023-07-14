@@ -3,6 +3,7 @@ import re
 from collections import OrderedDict
 from os import path
 from pathlib import Path
+import chardet
 
 
 class MetaInfo():
@@ -79,6 +80,14 @@ class RmdFile(object):
         self.answerlist = SolutionAnswerList()
         self.meta_info = MetaInfo()
         self.content = []
+
+    def guess_encoding(self):
+        if self.file_path.is_file():
+            with open(self.file_path, "rb") as fl:
+                return chardet.detect(fl.read())
+        else:
+            return None
+
 
     def parse(self):
 
