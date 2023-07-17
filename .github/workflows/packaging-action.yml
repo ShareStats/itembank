@@ -7,6 +7,11 @@ on:
       - stable
   release:
     types: [published]
+
+env:
+  PACKAGES_BRANCH: packages # ensure that the branch and folder exist
+  PACKAGES_FOLDER: packages
+
 jobs:
   item-folder:
     runs-on: ubuntu-latest
@@ -49,23 +54,22 @@ jobs:
           git fetch origin main
           git checkout main
 
-
-      - name: Copy packages from gh-branch
+      - name: Checkout packages
         run: |
-          git fetch origin gh-pages
-          git checkout gh-pages
+          git fetch origin $PACKAGES_BRANCH
+          git checkout $PACKAGES_BRANCH
           git checkout main
-          git checkout gh-pages -- packages
+          git checkout $PACKAGES_BRANCH -- $PACKAGES_FOLDER
 
       - run: make tarballs_zipped
       - run: make compile
       - run: make fingerprint_file
-      - run: make webpage
+      #- run: make webpage
 
       - name: commit results
         run: |
-          git checkout gh-pages
-          ls packages -l
-          git add packages/.
+          git checkout $PACKAGES_BRANCH
+          ls $PACKAGES_FOLDER -l
+          git add $PACKAGES_FOLDER/.
           git commit -am "CI packaging"
-          git push --set-upstream origin gh-pages --force
+          git push --set-upstream origin $PACKAGES_BRANCH --force
