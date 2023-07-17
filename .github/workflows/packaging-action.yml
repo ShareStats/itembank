@@ -9,6 +9,7 @@ on:
     types: [published]
 
 env:
+  SOURCE_BRANCH: devel
   PACKAGES_BRANCH: packages # ensure that the branch and folder exist
   PACKAGES_FOLDER: packages
 
@@ -51,14 +52,14 @@ jobs:
         run: |
           git config user.email "lindemann09@users.noreply.github.com'"
           git config user.name "Github Actions"
-          git fetch origin main
-          git checkout main
+          git fetch origin $SOURCE_BRANCH
+          git checkout $SOURCE_BRANCH
 
       - name: Checkout packages
         run: |
           git fetch origin $PACKAGES_BRANCH
           git checkout $PACKAGES_BRANCH
-          git checkout main
+          git checkout $SOURCE_BRANCH
           git checkout $PACKAGES_BRANCH -- $PACKAGES_FOLDER
 
       - run: make tarballs_zipped
