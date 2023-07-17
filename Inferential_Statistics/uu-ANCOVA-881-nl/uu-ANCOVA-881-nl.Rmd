@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-ANCOVA-881-nl-graph01.jpg", recursive = TRUE)
+```
+Question
+========
+Waar moeten we in de output naar kijken om te bepalen of het aantal jaren dat leerlingen al op school zitten voldoet aan de voorwaarde om een controle variabele te zijn in deze analyse?
+
+![](uu-ANCOVA-881-nl-graph01.jpg)
+
+Answerlist
+----------
+* De significantie van het hele model in de eerste rij van de output (Corrected Model)
+* De significantie van de factor
+* De waarde van $R^2$ (R squared)
+* De significantie van de variabele jaren
+
+
+Solution
+========
+
+
+
+Meta-information
+================
+exname: uu-ANCOVA-881-nl
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Reasoning

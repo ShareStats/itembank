@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Oneway-ANOVA-864-nl-graph01.jpg", recursive = TRUE)
+```
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Oneway-ANOVA-864-nl-graph02.jpg", recursive = TRUE)
+```
+Question
+========
+In de 20-item “Parenting Hassles Scale” worden ouders van jonge kinderen gevraagd om bepaalde, veel voorkomende situaties te beoordelen op (1) hoe vaak het voorkomt (frequentie); en (2) hoeveel last ze er van ervaren (intensiteit). Het score systeem voor de frequentie beoordeling is 0-4 punten (0 = nooit, 4 = constant) en voor de intensiteit beoordeling is 1-5 punten (1 = heel weinig, 5 heel veel). Als er voor een frequentie-item een 0 (nul) wordt gehaald, wordt dat item ook 0 (nul) voor de intensiteit. De totaalscores voor deze twee beoordelingen vormen de frequentieschaal (0-80) en de intensiteitschaal (0-100). 
+
+![](uu-Oneway-ANOVA-864-nl-graph01.jpg)
+
+De scores op de intensiteitschaal worden vergeleken tussen moeders (inclusief adoptiemoeders), vaders (inclusief adoptievaders) en pleegouders. De beschrijvende statistieken staan in tabel 1. We zien dat moeders over het algemeen het laagst scoren (M = 50.95) en pleegouders het hoogst (M = 62.41). Deel van de SPSS output voor de vergelijking van de drie groepen staat hieronder.
+
+![](uu-Oneway-ANOVA-864-nl-graph02.jpg)
+
+Wat zijn de waarden van de vrijheidsgraden die missen in de tabel?
+
+Answerlist
+----------
+* $df_{(between)}$ = 2,  $df_{(within)}$ = 50, $df_{(total)}$ = 52
+* $df_{(between)}$ = 3,  $df_{(within)}$ = 49, $df_{(total)}$ = 52
+* $df_{(between)}$ = 2,  $df_{(within)}$ = 51, $df_{(total)}$ = 53
+* $df_{(between)}$ = 2,  $df_{(within)}$ = 17, $df_{(total)}$ = 19
+
+
+Solution
+========
+
+
+
+Meta-information
+================
+exname: uu-Oneway ANOVA-864-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Interpretating output, calculation
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Reasoning

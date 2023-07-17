@@ -1,0 +1,42 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Multiple-linear-regression-819-en-tabel.jpg", recursive = TRUE)
+```
+
+
+Question
+========
+
+A teacher wonders whether boys performed differently on the MET22 exam than girls, and conducts a logistic regression with the dependent variable passing the exam (1 = yes, 0 = no) and a dummy variable boys (1 = boy, 0 = girl). Part of the SPSS Output is shown below: 
+
+![](uu-Multiple-linear-regression-819-en-tabel.jpg)
+
+What is the estimated probability that girls pass the exam?
+  
+Answerlist
+----------
+* 0.25
+* 0.50
+* 0.33
+* 0.67
+
+Solution
+========
+
+
+
+Answerlist
+----------
+* This answer is incorrect.
+* This answer is incorrect.
+* This answer is correct.
+* This answer is incorrect.
+
+Meta-information
+================
+exname: uu-Multiple-linear-regression-819-en.Rmd
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Regression/Multiple linear regression
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

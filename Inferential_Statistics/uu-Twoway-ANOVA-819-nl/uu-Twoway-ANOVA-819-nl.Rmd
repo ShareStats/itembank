@@ -1,0 +1,41 @@
+Question
+========
+  
+De cijfers van een groep studenten van het vak Statistics I aan een universiteit in Boston wordt gebruikt om de vraag te beantwoorden of cijfer voor dit vak afhangt van studieonderwerp (major) en sekse (gender). 
+
+De onderzoekers hebben de studenten willekeurig geselecteerd uit de bestanden van de opleidingen. Bij nadere inspectie blijkt dat er meerdere studenten in de steekproef zitten die een dubbele major hebben. De cijfers van enkele studenten staan zowel bij Social Science als bij Languages. De cijfers van nog twee studenten staan bij zowel Econ/Political Science as bij Languages. 
+
+Welke voorwaarde van de tweeweg ANOVA hebben de onderzoekers hiermee geschonden?
+
+  
+Answerlist
+----------
+* Aselecte steekproef
+* Onafhankelijkheid van de waarnemingen 
+* Gelijke varianties
+* Normale verdeling van de cijfers
+
+
+Solution
+========
+  
+
+
+Answerlist
+----------
+* Aselecte steekproef. Deze voorwaarde is niet geschonden, aangezien er wel een willekeurige sample is getrokken, oftewel een aselecte steekproef
+* Onafhankelijkheid van de waarnemingen. Deze voorwaarde is geschonden, omdat er studenten zijn die in meer dan 1 van de groepen zit. Het is bij een ANOVA belangrijk dat er onafhankelijke groepen zijn. Dat is niet het geval.
+* Gelijke varianties. Deze voorwaarde is een belangrijke bij deze toets, maar hier gaat de vraag niet over.
+* Normale verdeling van de cijfers.Deze voorwaarde is een belangrijke bij deze toets, maar hier gaat de vraag niet over
+
+
+
+Meta-information
+================
+exname: uu-Twoway-ANOVA-819-nl.Rmd
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
+exextra[Type]: Case
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,38 @@
+Question
+========
+  
+Een onderzoeker heeft vragenlijsten afgenomen onder 25 aselect geselecteerde medewerkers van een bedrijf. De vragenlijsten meten o.a. gevoelens van zorg, stress niveau, en andere sociaal-emotionele aspecten. De onderzoeker wil toetsen of de correlatie tussen zorg en stress significant is bij $\alpha=.01$ en wil hiervoor een $t$-toets uitvoeren. Wat is de minimale waarde van de correlatie die hij moet vinden, zodat de $t$-toets significante resultaten zal opleveren?  
+  
+Answerlist
+----------
+* .505 
+* .487
+* .396
+* .462
+
+
+Solution
+========
+Bij gebruik van een correlatie-tabel kunnen we de kritieke waarde opzoeken. Het gaat om een gewone (Pearson) correlatie, en een tweezijdige toets. We moeten dan zoeken bij $df=n-2=25-2=23$ en bij $\alpha=.01$.
+De juiste kritieke waarde is dan: $r=.505$
+  
+
+
+Answerlist
+----------
+* Correct
+* zoeken bij $df=25$ levert op: $r=.487$
+* zoeken bij $\alpha=.05$ levert op: $r=.396$
+* eenzijdige waarde levert op: $r=.462$
+
+
+
+Meta-information
+================
+exname: uu-Test-for-correlation-800-nl.Rmd
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/t-test/Test for correlation
+exextra[Type]: Case
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

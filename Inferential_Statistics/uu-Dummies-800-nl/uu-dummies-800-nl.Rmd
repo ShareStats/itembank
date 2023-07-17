@@ -1,0 +1,40 @@
+Question
+========
+  
+In een onderzoek naar de invloed van lesmethoden voor begrijpend lezen op de leesprestaties (variabele Y) van leerlingen onderscheidt men de volgende methoden:
+1 = Veilig leren lezen.
+2 = Goed gelezen!
+3 = Tekstverwerken.
+
+In de analyse betrekt men, naast de lesmethode (M), sekse (S) en non-verbale intelligentie (N, schaal met een gemiddelde van 100 en een standaardafwijking van 15) als controlevariabelen.
+
+Welk van de onderstaande regressievergelijkingen is voor deze situatie van toepassing (D = dummy)?
+
+  
+Answerlist
+----------
+* $\hat{Y} = b_0 + b_1N + b_2S + b_3M + e$
+* $\hat{Y} = b_0 + b_1N + b_2D_1 + b_3D_2 + b_4D_3 + b_5D_4 $
+* $\hat{Y} = b_1N  + b_2S_1 + b_3M + e$
+* $\hat{Y} = b_0 + b_1N + b_2S_1 + b_3D_2 + b_4D_3$
+
+
+Solution
+========
+  
+
+
+Answerlist
+----------
+
+
+
+Meta-information
+================
+exname: uu-Dummies-800-nl.Rmd
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Regression/Dummies
+exextra[Type]: Case
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

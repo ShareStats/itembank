@@ -1,0 +1,39 @@
+Question
+========
+
+Vier onderwijskundestudenten  doen voor de bachelorthesis een onderzoek naar  de effecten van concept mapping op leerprestaties van psychologiestudenten (N = 86). In het onderzoek worden drie condities onderscheiden:
+
+1. Puur: Studenten die instructie krijgen bij het maken van de concept map.
+2. Ondersteuning: Studenten die instructie krijgen bij het maken van de concept map,  waarbij een deel van de concept map al gegeven is.
+3. Controle: Studenten die geen instructie krijgen bij het maken van de concept map.
+
+Vier weken nadat de psychologiestudenten het hoofdstuk hebben gelezen, maken ze een kennistoets (tien vragen waarbij elk goed antwoord 1 punt oplevert). De verwachting is dat de studenten in de experimentele condities 1 en 2 gemiddeld hoger scoren op de kennistoets dan de studenten in de controle conditie.
+
+De onderwijskundestudenten analyseren de gegevens met een ANOVA. Ze noteren hiervan de volgende gegevens in hun verslag:
+$F(2, 83) = 17.90$, $p < .001$, $\eta^2 = 0.13$.
+
+Welke van de onderstaande uitspraken is juist op basis van het gerapporteerde toetsresultaat?
+
+Answerlist
+----------
+* De gemiddelden van de experimentele condities 1 en 2 zijn significant hoger dan het gemiddelde in de controle conditie.
+* Het effect van conditie is significant, maar niet relevant (minder dan 5% verklaarde variantie).
+* De gerapporteerde gegevens kunnen niet van dit onderzoek afkomstig zijn.
+* Er is een post-hoc analyse is nodig om vast te stellen of in de experimentele condities 1 en 2  de gemiddelden significant hoger zijn dan in de controle conditie.
+
+
+Solution
+========
+In dit onderzoek worden 3 verschillende condities met elkaar vergeleken. Met het vinden van een significant verschil tussen deze groepen (p < .001), weten we nog niet welke van de 3 groepen van elkaar verschillen. Hiervoor is een post-hoc analyse nodig.
+
+
+Meta-information
+================
+exname: uu-Oneway-ANOVA-851-nl.Rmd
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Case
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Reasoning

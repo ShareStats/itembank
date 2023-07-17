@@ -1,0 +1,33 @@
+Question
+========
+Er wordt onderzoek gedaan naar pesten op basisscholen. Driehonderd families met kinderen op de basisschool worden willekeurig geselecteerd om mee te doen met het onderzoek. Een van de dingen die gemeten wordt is de mening van de participanten over hoe en wat de scholen doen aan het voorkomen van pesten op school. De vragenlijst wordt gegeven aan de vader, de moeder en het oudste kind op de basisschool. De onderzoekers willen de scores vergelijken tussen de vaders, moeders en kinderen. Ze stellen voor om deze drie groepen te vergelijken met een ANOVA.
+
+Aan welke voorwaarde van de ANOVA is sowieso $\textbf{niet}$ voldaan?
+
+Answerlist
+----------
+* De steekproeven zijn aselect getrokken
+* De steekproeven zijn onafhankelijk van elkaar
+* De verdeling van de scores in de populatie is normaal
+* De spreiding van de scores is hetzelfde in de verschillende populaties
+
+
+Solution
+========
+Vaders en moeders en hun kind vormen samen een gezin. Hierdoor hebben ze vaak gelijke meningen, dus deze zijn NIET onafhankelijk 
+ 
+Weerlegging a: In de tekst staat willekeurig 
+Weerlegging c: Schaalscores zijn vaak normaal verdeeld. Maar ook al weet je dit niet, hier kunnen we dan NIKS over zeggen
+Weerlegging d: Hier is niks over te zeggen adhv het verhaal. We weten niet of hier aan voldaan is of niet.
+
+
+Meta-information
+================
+exname: uu-Oneway ANOVA-868-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Reasoning

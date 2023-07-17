@@ -1,0 +1,42 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-ANOVA-824-nl-tabel.jpg", recursive = TRUE)
+```
+
+
+
+Question
+========
+  
+Men wil kijken of de arbeidstevredenheid (gemeten op een schaal van 1-10) in Nederland verschilt tussen drie inkomensgroepen: onder modaal, modaal, en boven modaal. 
+
+![](uu-ANOVA-824-nl-tabel.jpg)
+
+Wat is de correcte conclusie?
+  
+Answerlist
+----------
+* $F_{obt} < F_{crit}, H_0$ wordt verworpen.
+* $F_{obt} < F_{crit}, H_0$ wordt niet verworpen.
+* $F_{obt} > F_{crit}, H_0$ wordt verworpen.
+* $F_{obt} > F_{crit}, H_0$ wordt niet verworpen.
+
+
+Solution
+========
+  
+
+
+Answerlist
+----------
+
+
+
+Meta-information
+================
+exname: uu-ANOVA-824-nl.Rmd
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA
+exextra[Type]: Interpretating output
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

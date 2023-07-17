@@ -1,0 +1,40 @@
+Question
+========
+Een rookmelder moet een duidelijk signaal geven als er rook in de ruimte is, en uiteraard stil blijven als er geen rook is. We beschouwen de afwezigheid van rook als de nulhypothese. Welke situatie komt overeen met de power zoals we die rondom het toetsen behandeld hebben?  
+
+
+Answerlist
+----------
+* De kans dat de rookmelder geen signaal geeft als er rook is  
+* De kans dat de rookmelder geen signaal geeft als er geen rook is.
+* De kans dat de rookmelder een signaal geeft als er geen rook is.
+* De kans dat de rookmelder een signaal geeft als er rook is.
+
+
+Solution
+========
+  
+A: Dit is een type II fout: de alternatieve hypothese is juist (er is rook), maar de rookmelder geeft geen signaal.
+B: Dit is een juiste beslissing ten aanzien van H0, de power is de kans op een juiste beslissing ten aanzien van H1.
+C: Dit is een type I fout: de nulhypothese is juist (er is geen rook), maar de rookmelder geeft wel een signaal.
+D: Power is een juiste beslissing ten aanzien van H1: er is rook en de rookmelder geeft een signaal.
+
+
+Answerlist
+----------
+* Dit is een type II fout: de alternatieve hypothese is juist (er is rook), maar de rookmelder geeft geen signaal.
+* Dit is een juiste beslissing ten aanzien van H0, de power is de kans op een juiste beslissing ten aanzien van H1.
+* Dit is een type I fout: de nulhypothese is juist (er is geen rook), maar de rookmelder geeft wel een signaal.
+* Power is een juiste beslissing ten aanzien van H1: er is rook en de rookmelder geeft een signaal.
+
+
+Meta-information
+================
+exname: uu-Power-822-nl.Rmd
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/NHST/Power
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

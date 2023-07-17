@@ -1,0 +1,43 @@
+Question
+========
+  
+Over tweeweg variantie-analyse wordt het volgende beweerd:
+
+I.	Beide onafhankelijke variabelen moeten van minimaal interval meetniveau zijn.
+II.	Bij significante interactie tussen de onafhankelijke variabelen moet er ook minimaal één significant hoofdeffect zijn. 
+
+Welk van deze beweringen is/zijn juist?
+
+
+  
+Answerlist
+----------
+* Alleen I
+* Alleen II
+* I en II
+* I noch II
+
+Solution
+========
+  
+Bij een ANOVA zijn de onafhankelijke variabelen (of factoren) altijd groepsvariabelen/categorische variabelen. Deze zijn juist van nominaal of ordinaal meetniveau. Deze twee meetniveau’s zijn juist lager dan interval.
+Er zijn situaties waarin de hoofdeffecten niet significant zijn, maar het interactie-effect wel.
+
+
+Answerlist
+----------
+* Dit antwoord is incorrect.
+* Dit antwoord is incorrect.
+* Dit antwoord is incorrect.
+* Dit antwoord is correct.
+
+Meta-information
+================
+exname: uu-Twoway-ANOVA-814-nl.Rmd
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
+exextra[Type]: Case, Conceptual, Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

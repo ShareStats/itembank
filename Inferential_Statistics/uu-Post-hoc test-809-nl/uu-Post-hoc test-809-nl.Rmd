@@ -1,0 +1,35 @@
+Question
+========
+Een onderzoeker is bezig met een grootschalig onderzoek, waarbij hij de gemiddelde testscores van 8 verschillende groepen wilt vergelijken. De resultaten zijn gerapporteerd als volgt:
+
+De verschillen tussen de groepsgemiddelden waren significant, F(7, 334) = 4.67, p < .001, $\eta^2$ = .116. 
+ 
+Nu blijkt uit een post-hoc toets dat verschillende groepen onderling geen significante verschillen vertonen, dus de onderzoeker besluit enkele groepen samen te voegen en nog maar 4 groepen te vergelijken (wel met dezelfde steekproefgrootte). 
+
+Wat zijn de vrijheidsgraden die gerapporteerd moeten worden bij deze nieuwe vergelijking?
+
+Answerlist
+----------
+* 4 en 337
+* 3 en 330
+* 3 en 338
+* 4 en 331
+
+
+Solution
+========
+Eerst had de onderzoeker 8 groepen. $Df_{between}$ = k - 1 = 8 - 1 = 7. $Df_{within}$ = N - k = N - 8 = 334$. Dus N = 342.
+
+Bij het vergelijken van 4 groepen krijgen we dan: $df_{between}$ = k - 1 = 4 - 1 = 3. $Df_{within}$ = N - k = 342 - 4 = 338.
+
+
+Meta-information
+================
+exname: uu-Post-hoc test-809-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Post-hoc test
+exextra[Type]: Case
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Reasoning

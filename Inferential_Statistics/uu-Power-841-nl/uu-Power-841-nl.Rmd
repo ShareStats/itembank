@@ -1,0 +1,38 @@
+
+Question
+========
+  
+Een onderzoeker bekijkt de relatie tussen motivatie op het werk en ziekteverlof. Hij vindt een correlatie van r = .28 met df = 28. Hij presenteert de resultaten als volgt: ‘Er was geen significante correlatie tussen motivatie op het werk en ziekteverlof.’ Een tweede onderzoeker vindt een correlatie van r = .26 met df = 80. Zij presenteert het volgende: ‘Er was een kleine, maar significante correlatie tussen motivatie op het werk en ziekteverlof.’
+
+Beiden hebben getoetst op 5%. 
+
+Hoe is dit mogelijk?
+
+  
+Answerlist
+----------
+* De eerste onderzoeker had een grotere $\alpha$ moeten gebruiken.
+* De eerste onderzoeker heeft een type I fout gemaakt.
+* De tweede onderzoeker heeft een kleinere power.
+* De tweede onderzoeker heeft een grotere power.
+
+
+Solution
+========
+* is een juiste oplossing. Echter sluit dit niet aan bij de vraag. 
+* is fout omdat bij een Type I fout, de H0 onterecht verwezen wordt. De eerste onderzoeker neemt H0 juist aan.
+* is fout omdat dit precies verkeerd geredeneerd is.
+* Dit is correct!Door een grotere steekproef te nemen (81 vs 29 ppn) vergroot je de kans om H0 te verwerpen. Anders gezegd: dit leidt tot een grotere power.
+
+
+
+
+Meta-information
+================
+exname: uu-Power-841-nl.Rmd
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/NHST/Power
+exextra[Type]: Interpretating output
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

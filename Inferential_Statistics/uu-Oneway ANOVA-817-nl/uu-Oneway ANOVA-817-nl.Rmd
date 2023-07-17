@@ -1,0 +1,49 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Oneway-ANOVA-817-nl-tabel.jpg", recursive = TRUE)
+```
+
+
+
+Question
+========
+  
+De GPA’s (Grade Point Average = gemiddelde cijfer over alle vakken) van Amerikaanse high school studenten worden voorspeld aan de hand van toelatingsexamenscores (de variabele testscor). Een deel van de SPSS output van de regressieanalyse staat hieronder. 
+
+![](uu-Oneway-ANOVA-817-nl-tabel.jpg)
+
+Wat is de voorspelde GPA-waarde voor studenten met een toelatings¬examen¬score van 5.5?
+  
+Answerlist
+----------
+* 5.83
+* 4.62 
+* 4.45
+* 2.92
+
+
+Solution
+========
+ŷ (GPA) = a + b * X = – 1.700 + 0.840 x toelatingsexamenscore = – 1.700 + 0.840 x 5.5 = 2.92
+
+Bij de overige antwoorden zijn rekenfouten gemaakt:
+Optie 2: Hier is Beta in plaats van B gebruikt bij het invullen van de regressievergelijking (0.809 in plaats van 0.840). 
+Optie 3: Hier is de constante vergeten (dus niet -1.700 gedaan)
+Optie 4: Hier is de t-waarde gekozen als voorspelde waarde
+  
+
+
+Answerlist
+----------
+
+
+
+Meta-information
+================
+exname: uu-Oneway ANOVA-817-nl.Rmd
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

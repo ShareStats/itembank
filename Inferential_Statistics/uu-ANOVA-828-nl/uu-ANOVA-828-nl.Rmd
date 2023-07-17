@@ -1,0 +1,43 @@
+Question
+========
+  
+Stel dat masterstudenten, voordat zij beginnen aan hun mastertraject, een toelatingsexamen moeten afleggen en dat de scores hierop zijn gecodeerd als “onvoldoende”, “voldoende” of “goed/excellent”. Na het toelatingsexamen kunnen de studenten beginnen aan hun mastertraject. 
+
+Welke analyse techniek is het meest geschikt om te kijken of het cijfergemiddelde in de master verschilt tussen de drie groepen? 
+
+  
+Answerlist
+----------
+* ANOVA
+* t¬-toets voor onafhankelijke groepen (independent samples)
+* $\chi^2$ toets voor onafhankelijkheid (independence) 
+* $\chi^2$ toets voor goodness of fit 
+
+
+Solution
+========
+De afhankelijke variabele is ‘het cijfergemiddelde in de master’ en deze variabele is continu en van ratio (of interval) meetniveau.
+Er is één onafhankelijke variabele, nl toelatingsexamenscores. Deze is categoriaal en van ordinaal meetniveau met 3 niveaus.
+Het vergelijken van twee of meer groepen op een variabele van interval of ratio meetniveau is mogelijk met variantie-analyse (ANOVA).
+
+De overige antwoorden zijn onjuist, want:
+– Optie 2: Er zijn drie groepen en niet twee.
+– Optie 3: Een $\chi^2$ toets van onafhankelijkheid (independence) is niet geschikt bij een afhankelijke variabele van interval meetniveau met veel verschillende waarden.
+– Optie 4: Een $\chi^2$ toets voor goodness of fit is niet geschikt bij een afhankelijke variabele van interval meetniveau met veel verschillende waarden.
+  
+
+
+Answerlist
+----------
+
+
+
+Meta-information
+================
+exname: uu-ANOVA-828-nl.Rmd
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/ANOVA
+exextra[Type]: Test choice
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

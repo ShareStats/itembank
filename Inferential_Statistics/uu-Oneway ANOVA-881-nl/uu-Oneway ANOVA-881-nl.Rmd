@@ -1,0 +1,35 @@
+
+Question
+========
+  
+Bij drie populaties met gemiddelden $\mu_1, \mu_2$ en $\mu_3$ en standaardafwijkingen $\sigma_1, \sigma_2$ en $\sigma_3$ wil men de volgende hypothesen toetsen:
+
+I) Alle $\mu$’s zijn gelijk (gemiddelden)
+II) $\sigma_1 = \sigma_2 = \sigma_3$ (standaarafwijkingen)
+
+Welke hiervan kan met een gewone variantieanalyse worden getoetst?
+
+  
+Answerlist
+----------
+* Alleen I
+* Alleen II
+* Zowel I als II
+* I noch II
+
+
+Solution
+========
+
+Een hypothese over standaarafwijkingen kan niet met een ANOVA getoetst worden. 
+
+
+Meta-information
+================
+exname: uu-Oneway ANOVA-881-nl.Rmd
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

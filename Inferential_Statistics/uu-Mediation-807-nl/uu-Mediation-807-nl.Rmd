@@ -1,0 +1,38 @@
+
+Question
+========
+In een onderzoek naar conflictoplossing (Y) bij adolescenten wordt de  extraversie (X) gemeten en wordt er gekeken naar de mate van agressie (M). Onderzocht wordt of M een mediator is. Men doet twee stappen:
+
+(1) regressie met Y als afhankelijke en X als onafhankelijke variabele.
+(2) regressie met M als afhankelijke en X als onafhankelijke variabele.
+
+Gesteld dat er bij stap (1) en (2) sprake is van significante resultaten, wat is de volgende stap?
+
+Answerlist
+----------
+* Regressie met Y en M als onafhankelijke variabelen en X als afhankelijke.
+* Regressie met X en Y als onafhankelijke variabelen en M als afhankelijke.
+* Regressie met X en M als onafhankelijke variabelen en Y als afhankelijke.
+* Regressie met Y als onafhankelijke variabele en X als afhankelijke.
+
+
+Solution
+========
+Om mediatie te toetsen onderzoeken we de volgende vier stappen:
+1. Is er een significante relatie tussen X en Y?
+2. Is er een significante relatie tussen X en M?
+3. Is er een significante relatie tussen M en Y, als er gecontroleerd is voor M?
+4. Is de relatie tussen X en Y nog steeds significant, wanneer er gecontroleerd is voor M?
+
+Stap 1 en 2 zijn ondernomen. De volgende stap is om een regressie-analyse te doen met X en M als onafhankelijke variabelen en Y als afhankelijke. De resultaten van deze analyse kunnen zowel voor stap 3 als stap 4 gebruikt worden.
+
+
+Meta-information
+================
+exname: uu-Mediation-807-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Regression/Multiple linear regression/Mediation
+exextra[Type]: Case
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

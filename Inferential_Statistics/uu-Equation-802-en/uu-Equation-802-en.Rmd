@@ -1,0 +1,40 @@
+Question
+========
+  
+The following regression equation for predicting $y =$ stress level is given:
+
+$\hat{y} =$ 200 - (Minutes Massage per Day) - 2(Minutes Exercise per Day) + 22(Gender) - 0.5(Gender*Minutes Massage per Day)
+
+Where the Gender variable is coded as Male = 0 and Female = 1.
+
+What is the predicted stress level score for a female who gets massages 30 minutes a day and exercises one hour per day?
+
+  
+Answerlist
+----------
+* 175
+* 72
+* 57
+* 35
+
+Solution
+========
+
+The predicted score equals: $\hat{y} = 200 - 30 - 2 \times 60 + 22\times 1 - 0.5 \times 1 \times 30 = 57$
+
+Answerlist
+----------
+* This answer is incorrect.
+* This answer is incorrect.
+* This answer is correct.
+* This answer is incorrect.
+
+Meta-information
+================
+exname: uu-Equation-802-en.Rmd
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Regression/Equation
+exextra[Type]: Calculation
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
