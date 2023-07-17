@@ -21,8 +21,13 @@ class Item(object):
         return self.path.name + suffix
 
     def package_folder(self, basefolder):
-        """filename of the resulting package"""
+        """path to the folder of the resulting package"""
         return Path(basefolder).joinpath(self.path.parent)
+
+    def package_path(self, basefolder, suffix=""):
+        """path to the resulting package"""
+        return self.package_folder(basefolder).joinpath(
+                    self.package_name(suffix))
 
     def file_list(self, exculde_suffixes=()):
         """returns list of of all files"""
@@ -36,8 +41,7 @@ class Item(object):
 
     def zip(self, pkg_basefolder, exculde_suffixes):
         """creates zip file"""
-        zip_path = self.package_folder(pkg_basefolder).joinpath(
-                    self.package_name(".zip"))
+        zip_path = self.package_path(pkg_basefolder, ".zip")
         print(zip_path.name)
         zipf = ZipFile(zip_path, 'w', ZIP_DEFLATED)
         for fl in self.file_list(exculde_suffixes):
@@ -48,8 +52,7 @@ class Item(object):
 
     def tar(self, pkg_basefolder, exculde_suffixes):
         """creates tar file, if update is required"""
-        tar_path = self.package_folder(pkg_basefolder).joinpath(
-                    self.package_name(".tar"))
+        tar_path = self.package_path(pkg_basefolder, ".tar")
         print(tar_path.name)
         tarf = tarfile.open(tar_path, "w")
         for fl in self.file_list(exculde_suffixes):
@@ -75,6 +78,20 @@ class Item(object):
             hasher.update(h.encode("utf-8"))
 
         return hasher.hexdigest()
+
+    def package_needs_update(self, package_basefolder, package_suffix, fingerprint_dict):
+        """returns True, if
+        - package file not defined,
+        - old package fingerprint is unknown (not in fingerprint_dict) or
+        - package has different fingerprint
+        """
+        assert isinstance(fingerprint_dict, dict)
+        pp = self.package_path(package_basefolder, package_suffix)
+        if not pp.is_file() or self.name() not in fingerprint_dict:
+            return True
+        else:
+            return fingerprint_dict[self.name()] != self.fingerprint()
+
 
 
 def _hash_file(filepath):

@@ -29,17 +29,3 @@ def subfolder(base_folder, exclude_folder):
 def load_fingerprint_file(flpath):
     with open(flpath, 'r', encoding="utf-8") as fl:
         return json.load(fl)
-
-
-def changed_items_list(source_folders, hash_dict):
-    """returns list with item that have a different fingerprint as in the
-    hash_dict"""
-    rtn = []
-    for item in item_list(source_folders):
-        try:
-            changed = hash_dict[item.name()] != item.fingerprint()
-        except KeyError:
-            changed = True
-        if changed:
-            rtn.append(item)
-    return rtn

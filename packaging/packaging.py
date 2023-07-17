@@ -3,14 +3,13 @@ import json
 from pathlib import Path
 
 from .item import Item
-from .common import item_list, subfolder, load_fingerprint_file, changed_items_list
+from .common import item_list, subfolder, load_fingerprint_file
 
 BASEFOLDER = "."
 PACK_FOLDER = "packages/"
 EXCLUDE_FOLDER = ("scripts", "packaging", "packages", "build")
 EXCLUDE_FILES = ("-qti.zip", "-tv.zip", ".html")
 COMPILATION_INSTRUCTION = "compl.instr"
-
 
 
 def compilation_file(formats, fingerprint_filename="fingerprints.json"):
@@ -20,31 +19,38 @@ def compilation_file(formats, fingerprint_filename="fingerprints.json"):
     """
     if not isinstance(formats, (list, tuple)):
         formats = (formats, )
-    Path(PACK_FOLDER).mkdir(parents=True, exist_ok=True)
-    source_folders = subfolder(BASEFOLDER, EXCLUDE_FOLDER)
+
+    all_items = item_list(subfolder(BASEFOLDER, EXCLUDE_FOLDER))
+
+    pkg_folder = Path(PACK_FOLDER)
+    pkg_folder.mkdir(parents=True, exist_ok=True)
     # finger print file
-    fp_file = Path(PACK_FOLDER).joinpath(fingerprint_filename)
+    fp_file = pkg_folder.joinpath(fingerprint_filename)
     try:
         hash_dict = load_fingerprint_file(fp_file)
     except FileNotFoundError:
-        hash_dict ={}
-
-    changed_items = changed_items_list(source_folders, hash_dict)
+        hash_dict = {}
     # make file
-    fl = open(PACK_FOLDER + COMPILATION_INSTRUCTION, "w", encoding="utf-8")
+    fl = open(pkg_folder.joinpath(COMPILATION_INSTRUCTION), "w", encoding="utf-8")
     fl.write('"format"\t"file"\t"name"\t"dir"\n')
     for frmt in formats:
-        pkg_base_fld = Path(PACK_FOLDER + frmt)
-        for item in changed_items:
+        pkg_basefld = pkg_folder.joinpath(frmt)
+        for item in all_items:
             if frmt in ("qti", "tv"):
-                pack_name = item.package_name(suffix="-" + frmt)
+                pkg_ext = "-" + frmt
+                pkg_suffix = pkg_ext + ".zip"
+            elif frmt in ("tar", "zip"):
+                pkg_ext = ""
+                pkg_suffix = f".{frmt}"
             else:
-                pack_name = item.package_name()
-            pkg_fld = item.package_folder(pkg_base_fld)
-            pkg_fld.mkdir(parents=True, exist_ok=True)
+                raise RuntimeError(f"Unknown format: {frmt}")
 
-            fl.write(
-                f'"{frmt}"\t"{item.rmd_file()}"\t"{pack_name}"\t"{pkg_fld}"\n')
+            if item.package_needs_update(pkg_basefld, pkg_suffix, hash_dict):
+                pack_name = item.package_name(pkg_ext)
+                pkg_fld = item.package_folder(pkg_basefld)
+                pkg_fld.mkdir(parents=True, exist_ok=True)
+                fl.write(f'"{frmt}"\t"{item.rmd_file()}"\t"{pack_name}"\t"{pkg_fld}"\n')
+
     fl.close()
 
 
