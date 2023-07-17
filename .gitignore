@@ -9,9 +9,9 @@ __pycache__/
 
 testrun-*
 .DS_Store
-*1.html
-*-nl-qti.zip
-*-en-qti.zip
-*-en-tv.zip
-*-nl-tv.zip
-errors.txt
+
+build/
+packages/
+
+*.py[cod]
+
