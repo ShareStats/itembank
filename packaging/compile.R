@@ -19,7 +19,7 @@ compile_rmd <- function(fmt, file, name, dir) {
 }
 
 tbl <- read.delim("packages/compl.instr", sep = "\t", header = TRUE)
-error_log <- c("[[ERROR LOG]]")
+error_log <- c(paste0("[[ERROR LOG: ", date(), "]]"))
 
 for (i in 1:nrow(tbl)) {
   fmt <- tbl[i, "format"]
@@ -37,5 +37,7 @@ for (i in 1:nrow(tbl)) {
     }
   )
 }
+
 print(error_log)
-writeLines(error_log, "packages/compile-log.txt", append = TRUE)
+cat(error_log, sep = "\n", file = "packages/compile-log.txt", append = TRUE)
+
