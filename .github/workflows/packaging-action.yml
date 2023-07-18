@@ -71,6 +71,8 @@ jobs:
         run: |
           git checkout $PACKAGES_BRANCH
           ls $PACKAGES_FOLDER -l
+          ls $PACKAGES_FOLDER/qti -l
+          git update-index --really-refresh
           git add $PACKAGES_FOLDER/.
           git commit -am "CI packaging"
           git push --set-upstream origin $PACKAGES_BRANCH --force
