@@ -12,22 +12,15 @@ class Item(object):
         if not self.path.is_dir():
             raise RuntimeError("Please specify an existing item folder.")
 
-    def name(self):
+    @property
+    def path_str(self):
         """item name"""
         return str(self.path)
 
-    def package_name(self, suffix=""):
-        """filename of the resulting package"""
-        return self.path.name + suffix
-
-    def package_folder(self, basefolder):
-        """path to the folder of the resulting package"""
-        return Path(basefolder).joinpath(self.path.parent)
-
-    def package_path(self, basefolder, suffix=""):
-        """path to the resulting package"""
-        return self.package_folder(basefolder).joinpath(
-                    self.package_name(suffix))
+    @property
+    def name(self):
+        """name of the package"""
+        return self.path.name
 
     def file_list(self, exculde_suffixes=()):
         """returns list of of all files"""
@@ -41,8 +34,10 @@ class Item(object):
 
     def zip(self, pkg_basefolder, exculde_suffixes):
         """creates zip file"""
-        zip_path = self.package_path(pkg_basefolder, ".zip")
-        print(zip_path.name)
+
+        zip_path = Path(pkg_basefolder).joinpath(
+                    self.path.parent,  self.name + ".zip")
+        print("generate " + str(zip_path))
         zipf = ZipFile(zip_path, 'w', ZIP_DEFLATED)
         for fl in self.file_list(exculde_suffixes):
             rel_path = fl.relative_to(self.path.parent)
@@ -52,8 +47,9 @@ class Item(object):
 
     def tar(self, pkg_basefolder, exculde_suffixes):
         """creates tar file, if update is required"""
-        tar_path = self.package_path(pkg_basefolder, ".tar")
-        print(tar_path.name)
+        tar_path = Path(pkg_basefolder).joinpath(
+                    self.path.parent,  self.name + ".tar")
+        print("generate " + str(tar_path))
         tarf = tarfile.open(tar_path, "w")
         for fl in self.file_list(exculde_suffixes):
             rel_path = fl.relative_to(self.path.parent)
@@ -79,18 +75,18 @@ class Item(object):
 
         return hasher.hexdigest()
 
-    def package_needs_update(self, package_basefolder, package_suffix, fingerprint_dict):
+    def package_needs_update(self, package_path, fingerprint_dict):
         """returns True, if
         - package file not defined,
         - old package fingerprint is unknown (not in fingerprint_dict) or
         - package has different fingerprint
         """
         assert isinstance(fingerprint_dict, dict)
-        pp = self.package_path(package_basefolder, package_suffix)
-        if not pp.is_file() or self.name() not in fingerprint_dict:
+        pp = Path(package_path)
+        if not pp.is_file() or self.path_str not in fingerprint_dict:
             return True
         else:
-            return fingerprint_dict[self.name()] != self.fingerprint()
+            return fingerprint_dict[self.path_str] != self.fingerprint()
 
 
 

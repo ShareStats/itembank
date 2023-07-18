@@ -34,22 +34,24 @@ def compilation_file(formats, fingerprint_filename="fingerprints.json"):
     fl = open(pkg_folder.joinpath(COMPILATION_INSTRUCTION), "w", encoding="utf-8")
     fl.write('"format"\t"file"\t"name"\t"dir"\n')
     for frmt in formats:
-        pkg_basefld = pkg_folder.joinpath(frmt)
         for item in all_items:
+            pkg_basefld = pkg_folder.joinpath(frmt, item.path.parent)
             if frmt in ("qti", "tv"):
-                pkg_ext = "-" + frmt
-                pkg_suffix = pkg_ext + ".zip"
+                pack_name = item.name + "-" + frmt
+                pkg_path = pkg_basefld.joinpath(pack_name + ".zip" )
             elif frmt in ("tar", "zip"):
-                pkg_ext = ""
-                pkg_suffix = f".{frmt}"
+                pack_name = item.name
+                pkg_path = pkg_basefld.joinpath(pack_name + "." + frmt)
+            elif frmt in ("html"):
+                pack_name = item.name
+                pkg_path = pkg_basefld.joinpath(pack_name, pack_name + "1.html")
             else:
                 raise RuntimeError(f"Unknown format: {frmt}")
 
-            if item.package_needs_update(pkg_basefld, pkg_suffix, hash_dict):
-                pack_name = item.package_name(pkg_ext)
-                pkg_fld = item.package_folder(pkg_basefld)
-                pkg_fld.mkdir(parents=True, exist_ok=True)
-                fl.write(f'"{frmt}"\t"{item.rmd_file()}"\t"{pack_name}"\t"{pkg_fld}"\n')
+            if item.package_needs_update(pkg_path, hash_dict):
+               pkg_fld = pkg_path.parent
+               pkg_fld.mkdir(parents=True, exist_ok=True)
+               fl.write(f'"{frmt}"\t"{item.rmd_file()}"\t"{pack_name}"\t"{pkg_fld}"\n')
 
     fl.close()
 
@@ -59,7 +61,7 @@ def fingerprint_file(filename="fingerprints.json"):
     source_folders = subfolder(BASEFOLDER, EXCLUDE_FOLDER)
     hash_dict = {}
     for item in item_list(source_folders):
-        hash_dict[item.name()] = item.fingerprint()
+        hash_dict[item.path_str] = item.fingerprint()
     # save
     p = Path(PACK_FOLDER)
     p.mkdir(parents=True, exist_ok=True)
