@@ -38,7 +38,7 @@ def compilation_file(formats, fingerprint_filename="fingerprints.json"):
             pkg_basefld = pkg_folder.joinpath(frmt, item.path.parent)
             if frmt in ("qti", "tv"):
                 pack_name = item.name + "-" + frmt
-                pkg_path = pkg_basefld.joinpath(pack_name + ".zip" )
+                pkg_path = pkg_basefld.joinpath(pack_name + ".zip")
             elif frmt in ("tar", "zip"):
                 pack_name = item.name
                 pkg_path = pkg_basefld.joinpath(pack_name + "." + frmt)
@@ -49,9 +49,10 @@ def compilation_file(formats, fingerprint_filename="fingerprints.json"):
                 raise RuntimeError(f"Unknown format: {frmt}")
 
             if item.package_needs_update(pkg_path, hash_dict):
-               pkg_fld = pkg_path.parent
-               pkg_fld.mkdir(parents=True, exist_ok=True)
-               fl.write(f'"{frmt}"\t"{item.rmd_file()}"\t"{pack_name}"\t"{pkg_fld}"\n')
+                pkg_fld = pkg_path.parent
+                pkg_fld.mkdir(parents=True, exist_ok=True)
+                fl.write(
+                    f'"{frmt}"\t"{item.rmd_file()}"\t"{pack_name}"\t"{pkg_fld}"\n')
 
     fl.close()
 
