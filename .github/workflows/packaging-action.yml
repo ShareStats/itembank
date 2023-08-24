@@ -62,7 +62,7 @@ jobs:
       - run: make tarballs_zipped
       - run: make compile
       - run: make fingerprint_file
-      #- run: make webpage
+      - run: make webpage
 
       - name: commit results
         run: |

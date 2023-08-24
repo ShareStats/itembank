@@ -47,6 +47,7 @@ for (i in 1:nrow(tbl)) {
     expr = {
       fb <- compile_rmd(fmt, file, name, dir)
       cat(fb, file = norm_fl, sep = "\n",  append = TRUE)
+      print(fb)
     },
     error = function(e) {
       cat(paste(tag, conditionMessage(e)), file = error_fl,
