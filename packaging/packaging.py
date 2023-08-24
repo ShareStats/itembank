@@ -1,6 +1,8 @@
 import csv
 import json
 from pathlib import Path
+from datetime import datetime
+
 
 from .item import Item
 from .common import item_list, subfolder, load_fingerprint_file
@@ -71,12 +73,27 @@ def fingerprint_file(filename="fingerprints.json"):
 
 
 def tarballs():
+    pkg_folder = Path(PACK_FOLDER)
+
+    log_folder = pkg_folder.joinpath("log")
+    log_folder.mkdir(parents=True, exist_ok=True)
+    date_str = datetime.now().strftime("%y%m%d")
+    log_file = open(log_folder.joinpath("log-" + date_str + ".txt"), "a", encoding="utf-8")
+    log_file.write(f"[PY LOG: {str(datetime.now())}]\n")
+
     with open(PACK_FOLDER + COMPILATION_INSTRUCTION, "r", encoding="utf-8") as fl:
         csv_reader = csv.reader(fl, delimiter='\t')
         for row in csv_reader:
             if row[0] in ("tar", "zip"):
                 item = Item(Path(row[1]).parent)
+
                 if row[0] == "zip":
+                    txt = f"[zip] {item.path}\n"
                     item.zip(PACK_FOLDER + "zip", EXCLUDE_FILES)
                 else:
+                    txt = f"[tar] {item.path}\n"
                     item.tar(PACK_FOLDER + "tar", EXCLUDE_FILES)
+
+                log_file.write(txt)
+
+    log_file.close()

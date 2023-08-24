@@ -37,7 +37,6 @@ class Item(object):
 
         zip_path = Path(pkg_basefolder).joinpath(
                     self.path.parent,  self.name + ".zip")
-        print("generate " + str(zip_path))
         zipf = ZipFile(zip_path, 'w', ZIP_DEFLATED)
         for fl in self.file_list(exculde_suffixes):
             rel_path = fl.relative_to(self.path.parent)
@@ -49,7 +48,6 @@ class Item(object):
         """creates tar file, if update is required"""
         tar_path = Path(pkg_basefolder).joinpath(
                     self.path.parent,  self.name + ".tar")
-        print("generate " + str(tar_path))
         tarf = tarfile.open(tar_path, "w")
         for fl in self.file_list(exculde_suffixes):
             rel_path = fl.relative_to(self.path.parent)

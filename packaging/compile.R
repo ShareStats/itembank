@@ -4,6 +4,7 @@ library(exams)
 
 compile_rmd <- function(fmt, file, name, dir) {
   edir = dirname(file)
+  feedback = paste0("[", fmt, "] ", name, ": ", file)
   if (fmt == "html") {
     exams:::browse_exercise(file = file, name = name, dir = dir, edir = edir)
   } else if (fmt == "qti") {
@@ -17,12 +18,24 @@ compile_rmd <- function(fmt, file, name, dir) {
       schoice = list(enumerate = FALSE)
     )
   }
+  return(feedback)
 }
 
+# log files
+time <- format(Sys.time(), "%y%m%d")
 tbl <- read.delim("packages/compl.instr", sep = "\t", header = TRUE)
-error_log <- c(paste0("[ERROR LOG: ", date(), "]"))
-warn_log <- c(paste0("[WARNING LOG: ", date(), "]"))
-time <- format(Sys.time(), "%y%m%d_%H%M")
+log_path <- file.path("packages", "log")
+dir.create(log_path, showWarnings = FALSE)
+
+error_fl <- file.path(log_path, paste0("log-", time, "-errors.txt"))
+warn_fl <- file.path(log_path, paste0("log-", time, "-warnings.txt"))
+norm_fl <- file.path(log_path, paste0("log-", time, ".txt"))
+cat(paste0("[R ERROR LOG: ", date(), "]"), file = error_fl,
+                      sep = "\n",  append = TRUE)
+cat(paste0("[R WARNING LOG: ", date(), "]"), file = warn_fl,
+                      sep = "\n",  append = TRUE)
+cat(paste0("[R LOG: ", date(), "]"), file = norm_fl, sep = "\n",  append = TRUE)
+
 
 for (i in 1:nrow(tbl)) {
   fmt <- tbl[i, "format"]
@@ -30,21 +43,18 @@ for (i in 1:nrow(tbl)) {
   name <- tbl[i, "name"]
   dir <- tbl[i, "dir"]
   tag <- paste0("[", name, ", ", fmt, "] ")
-  tryCatch(compile_rmd(fmt, file, name, dir),
+  tryCatch(
+    expr = {
+      fb <- compile_rmd(fmt, file, name, dir)
+      cat(fb, file = norm_fl, sep = "\n",  append = TRUE)
+    },
     error = function(e) {
-      error_log <<- append(error_log, paste(tag, conditionMessage(e)))
+      cat(paste(tag, conditionMessage(e)), file = error_fl,
+                sep = "\n",  append = TRUE)
     },
     warning = function(e) {
-      warn_log <<- append(warn_log, paste(tag, conditionMessage(e)))
+      cat(paste(tag, conditionMessage(e)), file = warn_fl,
+                sep = "\n",  append = TRUE)
     }
   )
 }
-
-dir.create(file.path("packages", "log"), showWarnings = FALSE)
-
-fl <- file.path("packages", "log", paste0("log-", time, "-error.txt"))
-cat(error_log, file = fl, sep = "\n",  append = TRUE)
-
-fl <- file.path("packages", "log", paste0("log-", time, "-warning.txt"))
-cat(warn_log, file = fl, sep = "\n",  append = TRUE)
-
