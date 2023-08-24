@@ -47,3 +47,4 @@ cat(error_log, file = fl, sep = "\n",  append = TRUE)
 
 fl <- file.path("packages", "log", paste0("log-", time, "-warning.txt"))
 cat(warn_log, file = fl, sep = "\n",  append = TRUE)
+

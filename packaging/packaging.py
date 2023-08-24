@@ -66,7 +66,7 @@ def fingerprint_file(filename="fingerprints.json"):
     p = Path(PACK_FOLDER)
     p.mkdir(parents=True, exist_ok=True)
     with open(p.joinpath(filename), 'w', encoding="utf-8") as fl:
-        json.dump(hash_dict, fl)
+        json.dump(hash_dict, fl, indent=2)
 
 
 def tarballs():
