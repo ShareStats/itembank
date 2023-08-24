@@ -34,13 +34,7 @@ jobs:
             any::base64enc
             any::knitr
             any::rmarkdown
-            any::magick
-            any::openxlsx
-            any::png
             any::RCurl
-            any::RJSONIO
-            any::tinytex
-            any::xml2
       - name: Install Exams developer version
         run: Rscript -e 'install.packages("exams", repos = "http://R-Forge.R-project.org", dependencies = TRUE, type = "source")'
 
@@ -62,7 +56,7 @@ jobs:
       - run: make tarballs_zipped
       - run: make compile
       - run: make fingerprint_file
-      - run: make webpage
+      #- run: make index_html
 
       - name: commit results
         run: |

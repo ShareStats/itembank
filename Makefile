@@ -25,9 +25,9 @@ compile:
 	Rscript packaging/compile.R
 	rm packages/compl.instr -f
 
-webpage:
+index_html:
 	cd packages; \
 	find ./ -type f -print0  | xargs -0 sha256sum > checksums.txt; \
 	tree -H '.' \
-		-L 2 --noreport --charset utf-8 \
+		-L 3 --noreport --charset utf-8 \
 		-T "Packages ($(shell date))" > index.html
