@@ -35,6 +35,12 @@ jobs:
             any::knitr
             any::rmarkdown
             any::RCurl
+            any::magick
+            any::openxlsx
+            any::png
+            any::RJSONIO
+            any::xml2
+
       - name: Install Exams developer version
         run: Rscript -e 'install.packages("exams", repos = "http://R-Forge.R-project.org", dependencies = TRUE, type = "source")'
 
