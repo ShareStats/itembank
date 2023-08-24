@@ -4,12 +4,12 @@ run-name: ${{ github.actor }} is packaging
 on:
   push:
     branches:
-      - stable
-  release:
-    types: [published]
+      - source
+    tags: ['*']
+  pull_request:
 
 env:
-  SOURCE_BRANCH: devel
+  SOURCE_BRANCH: source
   PACKAGES_BRANCH: packages # ensure that the branch and folder exist
   PACKAGES_FOLDER: packages
 
