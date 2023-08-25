@@ -6,7 +6,7 @@ on:
     tags: ['v*']
 
 env:
-  SOURCE_BRANCH: source
+  SOURCE_BRANCH: main
   PACKAGES_BRANCH: packages # ensure that the branch and folder exist
   PACKAGES_FOLDER: packages
 
