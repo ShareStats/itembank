@@ -102,8 +102,6 @@ class RmdFile(object):
     def issues(self):
         issues = []
 
-
-
         if self.answerlist.has_empty_answerlist():
             issues.append("Empty Answerlist")
         elif len(self.answerlist.solution_str) >0 and \
