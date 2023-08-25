@@ -4,6 +4,7 @@ library(exams)
 
 testrun = FALSE  # if true, output file have the prefix "testrun-". These files will be ignored by git
 
+
 # retrieve path to all rmarkdown files
 all.item.paths <- list.files(pattern = ".Rmd", ignore.case = TRUE, recursive = TRUE)
 
@@ -20,6 +21,7 @@ if (testrun) {
   names <- gsub('.*/','', folders)
 }
 
+
 Errors <- c()
 for (i in 1:n) {
   tryCatch({
@@ -29,6 +31,7 @@ for (i in 1:n) {
     # name = names[i]),
     # dir  = folders[i])
 
+    
     ## To Compile to QTI 2.1 uncomment the following (3)lines
     # exams::exams2qti21(
     # file    = all.item.paths[i],
@@ -38,11 +41,12 @@ for (i in 1:n) {
     
     ## To Compile to testVision uncomment the following (3)lines
     exams::exams2testvision(
-    file    = all.item.paths[i],
-    name    = paste0(names[i],"-tv"),
-    schoice = list(enumerate = FALSE),
-    dir     = folders[i])
-    
+    file = all.item.paths[i],
+    name = paste0(names[i],"-tv"),
+    schoice=list(enumerate = FALSE),
+    # Leave the rest code as its for any compilation
+      # ...to a given folder.
+      dir = folders[i])
   }, error = function(e){
     Errors <<- rbind(Errors, paste('Item:', names[i],"; Error:",conditionMessage(e)))
   }
