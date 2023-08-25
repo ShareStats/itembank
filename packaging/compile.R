@@ -23,7 +23,7 @@ compile_rmd <- function(fmt, file, name, dir) {
 
 # log files
 time <- format(Sys.time(), "%y%m%d")
-tbl <- read.delim("packages/compl.instr", sep = "\t", header = TRUE)
+tbl <- read.delim("packages/files.tsv", sep = "\t", header = TRUE)
 log_path <- file.path("packages", "log")
 dir.create(log_path, showWarnings = FALSE)
 

@@ -8,26 +8,29 @@ clean:
 	rm packages/ -rf
 
 fingerprint_file: # next package build (tarballs or compile), will only generate items that were changed since than
-	python -c "import packaging; packaging.fingerprint_file()"
+	python -c "import packaging; packaging.save_fingerprints()"
 
 tarballs_zipped:
-	python -c 'import packaging; packaging.compilation_file(formats=("zip"))' # compile instruction
-	python -c "import packaging; packaging.tarballs()"
-	rm packages/compl.instr -f
+	python -c 'import packaging as p; p.file_table(formats=("zip")); p.tarballs()'
+	rm packages/files.tsv -f
 
 tarballs:
-	python -c 'import packaging; packaging.compilation_file(formats=("tar"))' # compile instruction
-	python -c "import packaging; packaging.tarballs()"
-	rm packages/compl.instr -f
+	python -c 'import packaging as p; p.file_table(formats=("tar")); p.tarballs()'
+	rm packages/files.tsv -f
 
 compile:
-	python -c 'import packaging; packaging.compilation_file(formats=("html", "qti", "tv"))' # compile instructions
+	python -c 'import packaging; packaging.file_table(formats=("html", "qti", "tv"))' # compile instructions
 	Rscript packaging/compile.R
-	rm packages/compl.instr -f
+	rm packages/files.tsv -f
 
-index_html:
+checksums:
 	cd packages; \
 	find ./ -type f -print0  | xargs -0 sha256sum > checksums.txt; \
+
+website:
+	mkdir -p docs; \
+	mv packages/html/* docs/ -f 2>/tmp/AVOIDERROR; \
+	cd docs/; \
 	tree -H '.' \
-		-L 3 --noreport --charset utf-8 \
-		-T "Packages ($(shell date))" > index.html
+		-L 4 --noreport --charset utf-8 -P "*.html" -C  \
+		-T "Packages ($(shell date))" > items.html

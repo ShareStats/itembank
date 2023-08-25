@@ -3,50 +3,61 @@ import json
 from pathlib import Path
 from datetime import datetime
 
-
 from .item import Item
-from .common import item_list, subfolder, load_fingerprint_file
+from .common import item_list, subfolder
 
 BASEFOLDER = "."
 PACK_FOLDER = "packages/"
-EXCLUDE_FOLDER = ("scripts", "packaging", "packages", "build")
+HTML_FOLDER = "docs/"
+EXCLUDE_FOLDER = ("scripts", "packaging", "packages", "build", "docs")
 EXCLUDE_FILES = ("-qti.zip", "-tv.zip", ".html")
-COMPILATION_INSTRUCTION = "compl.instr"
+FILE_TBL = "files.tsv"
 
 
-def compilation_file(formats, fingerprint_filename="fingerprints.json"):
-    """Prepare compilation
+def file_table(formats, only_changed=True):
+    """Make table with source and destination files that changed to prepare
+    compilation. If only_changed=False, returns all files.
+
     * generate instruction file that is read by tarballs and compile.R
     * the function also creates the required folder structure for the packages
     """
+
     if not isinstance(formats, (list, tuple)):
         formats = (formats, )
 
     all_items = item_list(subfolder(BASEFOLDER, EXCLUDE_FOLDER))
 
+    html_folder = Path(HTML_FOLDER)
+    html_folder.mkdir(parents=True, exist_ok=True)
     pkg_folder = Path(PACK_FOLDER)
     pkg_folder.mkdir(parents=True, exist_ok=True)
+
     # finger print file
-    fp_file = pkg_folder.joinpath(fingerprint_filename)
-    try:
-        hash_dict = load_fingerprint_file(fp_file)
-    except FileNotFoundError:
+    if only_changed:
+        try:
+            hash_dict = load_fingerprints()
+        except FileNotFoundError:
+            hash_dict = {}
+    else:
         hash_dict = {}
+
     # make file
-    fl = open(pkg_folder.joinpath(COMPILATION_INSTRUCTION), "w", encoding="utf-8")
+    fl = open(pkg_folder.joinpath(FILE_TBL), "w", encoding="utf-8")
     fl.write('"format"\t"file"\t"name"\t"dir"\n')
     for frmt in formats:
         for item in all_items:
-            pkg_basefld = pkg_folder.joinpath(frmt, item.path.parent)
             if frmt in ("qti", "tv"):
                 pack_name = item.name + "-" + frmt
-                pkg_path = pkg_basefld.joinpath(pack_name + ".zip")
+                fld = pkg_folder.joinpath(frmt, item.path.parent)
+                pkg_path = fld.joinpath(pack_name + ".zip")
             elif frmt in ("tar", "zip"):
                 pack_name = item.name
-                pkg_path = pkg_basefld.joinpath(pack_name + "." + frmt)
+                fld = pkg_folder.joinpath(frmt, item.path.parent)
+                pkg_path = fld.joinpath(pack_name + "." + frmt)
             elif frmt in ("html"):
                 pack_name = item.name
-                pkg_path = pkg_basefld.joinpath(pack_name, pack_name + "1.html")
+                fld = html_folder.joinpath(item.path.parent)
+                pkg_path = fld.joinpath(pack_name, pack_name + "1.html")
             else:
                 raise RuntimeError(f"Unknown format: {frmt}")
 
@@ -58,18 +69,27 @@ def compilation_file(formats, fingerprint_filename="fingerprints.json"):
 
     fl.close()
 
-
-def fingerprint_file(filename="fingerprints.json"):
-    """save hashes of current items"""
+def fingerprints():
+    """dictionary of fingerprint"""
     source_folders = subfolder(BASEFOLDER, EXCLUDE_FOLDER)
     hash_dict = {}
     for item in item_list(source_folders):
         hash_dict[item.path_str] = item.fingerprint()
-    # save
+    return hash_dict
+
+def load_fingerprints(filename="fingerprints.json"):
+    """load hashes of items"""
+    flname = Path(PACK_FOLDER).joinpath(filename)
+    with open(flname, 'r', encoding="utf-8") as fl:
+        return json.load(fl)
+
+def save_fingerprints(filename="fingerprints.json"):
+    """save hashes of current items"""
     p = Path(PACK_FOLDER)
     p.mkdir(parents=True, exist_ok=True)
-    with open(p.joinpath(filename), 'w', encoding="utf-8") as fl:
-        json.dump(hash_dict, fl, indent=2)
+    flname = p.joinpath(filename)
+    with open(flname, 'w', encoding="utf-8") as fl:
+        json.dump(fingerprints(), fl, indent=2)
 
 
 def tarballs():
@@ -81,19 +101,19 @@ def tarballs():
     log_file = open(log_folder.joinpath("log-" + date_str + ".txt"), "a", encoding="utf-8")
     log_file.write(f"[PY LOG: {str(datetime.now())}]\n")
 
-    with open(PACK_FOLDER + COMPILATION_INSTRUCTION, "r", encoding="utf-8") as fl:
+    with open(PACK_FOLDER + FILE_TBL, "r", encoding="utf-8") as fl:
         csv_reader = csv.reader(fl, delimiter='\t')
         for row in csv_reader:
             if row[0] in ("tar", "zip"):
                 item = Item(Path(row[1]).parent)
-
                 if row[0] == "zip":
-                    txt = f"[zip] {item.path}\n"
+                    txt = f"[zip] {item.path}"
                     item.zip(PACK_FOLDER + "zip", EXCLUDE_FILES)
                 else:
-                    txt = f"[tar] {item.path}\n"
+                    txt = f"[tar] {item.path}"
                     item.tar(PACK_FOLDER + "tar", EXCLUDE_FILES)
 
-                log_file.write(txt)
+                log_file.write(txt + "\n")
+                print(txt)
 
     log_file.close()

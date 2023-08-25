@@ -1,8 +1,6 @@
-import json
 from pathlib import Path
 
 from .item import Item
-
 
 def item_list(source_folders):
     """list of all items in multiple folders"""
@@ -24,8 +22,3 @@ def subfolder(base_folder, exclude_folder):
                 and subdir.name not in exclude_folder:
             rtn.append(subdir)
     return rtn
-
-
-def load_fingerprint_file(flpath):
-    with open(flpath, 'r', encoding="utf-8") as fl:
-        return json.load(fl)

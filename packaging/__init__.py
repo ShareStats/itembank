@@ -1,1 +1,2 @@
-from .packaging import compilation_file, fingerprint_file, tarballs
+from .packaging import file_table, tarballs, fingerprints, save_fingerprints
+
