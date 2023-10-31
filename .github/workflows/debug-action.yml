@@ -1,0 +1,52 @@
+
+name: debug-website-actions
+run-name: ${{ github.actor }} is packaging
+on:
+  push:
+    tags: ['*']
+
+env:
+  SOURCE_BRANCH: main
+  PACKAGES_BRANCH: packages # ensure that the branch and folder exist
+  PACKAGES_FOLDER: packages
+  HTML_FOLDER: docs
+
+jobs:
+  item-folder:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Set up git
+        run: |
+          git config user.email "lindemann09@users.noreply.github.com'"
+          git config user.name "Github Actions"
+          git fetch origin $SOURCE_BRANCH
+          git checkout $SOURCE_BRANCH
+
+      - name: Checkout packages
+        run: |
+          git fetch origin $PACKAGES_BRANCH
+          git checkout $PACKAGES_BRANCH
+          git checkout $SOURCE_BRANCH
+          git checkout $PACKAGES_BRANCH -- $HTML_FOLDER
+          git checkout $PACKAGES_BRANCH -- $PACKAGES_FOLDER
+
+      - name: debug website convert
+        run: |
+          python -c 'import packaging as p; p.simplify_item_html("docs/items.html")'
+
+      - name: commit results
+        run: |
+          git checkout $PACKAGES_BRANCH
+          ls $PACKAGES_FOLDER -l
+          git add $PACKAGES_FOLDER/. --force
+          git add $HTML_FOLDER/. --force
+          git commit -am "CI packaging"
+          git push --set-upstream origin $PACKAGES_BRANCH --force
+
