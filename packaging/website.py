@@ -17,5 +17,3 @@ def simplify_item_html(html_file:str):
                     l.find(">media<")>=0 or
                     l.find(">supplements")>=0):
                 fl.write(l)
-            else:
-                print(l)
