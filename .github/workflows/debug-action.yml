@@ -3,8 +3,7 @@ name: debug-website-actions
 run-name: ${{ github.actor }} is packaging
 on:
   push:
-    tags: ['*']
-
+  
 env:
   SOURCE_BRANCH: main
   PACKAGES_BRANCH: packages # ensure that the branch and folder exist
