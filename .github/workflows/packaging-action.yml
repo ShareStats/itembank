@@ -3,7 +3,7 @@ name: packaging-actions
 run-name: ${{ github.actor }} is packaging
 on:
   push:
-    tags: ['v*']
+    tags: ['*']
 
 env:
   SOURCE_BRANCH: main
