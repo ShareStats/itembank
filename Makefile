@@ -33,4 +33,7 @@ website:
 	cd docs/; \
 	tree -H '.' \
 		-L 4 --noreport --charset utf-8 -P "*.html" -C  \
-		-T "Packages ($(shell date))" > items.html
+		-T "Packages ($(shell date))" > items.html ; \
+	cd .. ; \
+	python -c 'import packaging as p; p.simplify_item_html("docs/items.html")'
+
