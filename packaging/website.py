@@ -14,6 +14,7 @@ def simplify_item_html(html_file:str):
         for l in content:
             if not (l.count("&nbsp;") == 2 or
                     l.find("│   ├── <a class=")>=0 or
+                    l.find("│   └── <a class=")>=0 or
                     l.find(">media<")>=0 or
                     l.find(">supplements")>=0):
                 fl.write(l)
