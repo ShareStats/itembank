@@ -8,6 +8,8 @@ def simplify_item_html(html_file:str):
     with open(html_file, "r", encoding="utf-8") as fl:
         content = fl.readlines()
 
+    print(f"converting {html_file}: {len(content)} lines")
+
     with open(html_file, "w", encoding="utf-8") as fl:
         for l in content:
             if not (l.count("&nbsp;") == 2 or
