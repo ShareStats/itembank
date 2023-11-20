@@ -48,7 +48,7 @@ url_name_quest_df <- do.call(rbind, df)
 
 
 # Meta-info Extraction ----------------------------------------------------
-source('extractMeta_function .R')
+source('extractMeta_function.R')
 ErrorsMI <- c()
 metadf <-  list()
 for(i in 1:n){
@@ -78,7 +78,5 @@ metadf <- metadf %>% dplyr::select(exname,
 # Merge tables ------------------------------------------------------------
 
 fulldf <- right_join(url_name_quest_df, metadf, by = c("name" = "Name"))
-
-
 
 write.csv(fulldf, 'fulldf.csv')
