@@ -1,3 +1,24 @@
+library(dplyr)
+library(readr)
+
+extractMeta <- function(file, convert2table = FALSE) {
+  x <- read_lines(file)
+  lnMeta <- grep("Meta-information", x)
+  lnMeta <- seq(lnMeta + 2, length(x), 1)
+  x <- x[lnMeta]
+  names(x) <- gsub("(.*):.*", "\\1", x)
+  x <- gsub(".*: (.*)", "\\1", x)
+  x <- as.list(x)
+  if(!convert2table) {
+    x <- lapply(x, function(i) ifelse(i=="", NA, i))
+    x <- x[!is.na(x)]
+    return(x)
+  } else {
+    x <- t(do.call(rbind, x))
+    return(data.frame(x))
+  }
+}
+
 ## All in one table
 all.item.paths <- list.files(pattern = ".Rmd", ignore.case = TRUE, recursive = TRUE)
 n <- length(all.item.paths)
@@ -48,7 +69,6 @@ url_name_quest_df <- do.call(rbind, df)
 
 
 # Meta-info Extraction ----------------------------------------------------
-source('extractMeta_function.R')
 ErrorsMI <- c()
 metadf <-  list()
 for(i in 1:n){
@@ -79,4 +99,4 @@ metadf <- metadf %>% dplyr::select(exname,
 
 fulldf <- right_join(url_name_quest_df, metadf, by = c("name" = "Name"))
 
-write.csv(fulldf, 'fulldf.csv')
+write.csv(fulldf, 'sharestats_website.csv')

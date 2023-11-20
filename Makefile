@@ -38,3 +38,7 @@ website:
 	python -c 'import packaging as p; p.simplify_item_html("docs/items.html")' \
 
 
+sharestats_website_csv:
+	mkdir -p docs; \
+	Rscript packaging/sharestats_website_csv.R; \
+	mv sharestats_website.csv docs/
