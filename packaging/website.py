@@ -30,7 +30,7 @@ def _add_counter(content:List[str])-> List[str]:
         if not list_written and l.find("<h1>Packages")>0:
             # add list
             total = sum(counter.values())
-            rtn.append(f"<h2>Number of Items: {total}</h2><ul>")
+            rtn.append(f"<h2>Number of items: {total}</h2><ul>")
             for k,v in counter.items():
                 rtn.append(f"<li>{k}:&nbsp;&nbsp;{v}</li>")
             rtn.append("</ul><h2>Items</h2>")
