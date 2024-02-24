@@ -67,7 +67,6 @@ for(i in 1:n){
 #write.table(Errors, file = "Errors-to-Create-Array-in-R.txt", sep = "\n",row.names = FALSE)
 url_name_quest_df <- do.call(rbind, df)
 
-
 # Meta-info Extraction ----------------------------------------------------
 ErrorsMI <- c()
 metadf <-  list()
@@ -94,9 +93,28 @@ metadf <- metadf %>% dplyr::select(exname,
          'Language' = `exextra[Language]`,
          'Level' = `exextra[Level]`)
 
+# Feb 2024 update ---------------------------------------------------------
+# clean metadf$name
+metadf <- metadf %>% 
+  mutate(Name_KEY = gsub("-|_| |'", "", Name)) %>% 
+  mutate(Name_KEY = tolower(Name_KEY)) %>% # to lower case
+  mutate(Name_KEY = gsub("\\.rmd|\\.rdm$", "", Name_KEY, ignore.case = TRUE)) # remove .Rmd or .rmd or .Rdm from name
+# clean $url_name_quest_df$name
+url_name_quest_df <- url_name_quest_df %>% 
+  mutate(Name_KEY = gsub("-|_| |'", "", name)) %>% 
+  mutate(Name_KEY = tolower(Name_KEY))
 
 # Merge tables ------------------------------------------------------------
+# check if common key is identical
+#identical(metadf$Name_KEY, url_name_quest_df$Name_KEY) #no
+# Check differences!
+#setdiff(url_name_quest_df$Name_KEY, metadf$Name_KEY)
+#setdiff(metadf$Name_KEY, url_name_quest_df$Name_KEY)
+# continue anyway (This should be fixed! upd: 23/2/2024)
 
-fulldf <- right_join(url_name_quest_df, metadf, by = c("name" = "Name"))
+fulldf <- right_join(url_name_quest_df, metadf, by = 'Name_KEY')
 
+fulldf <- fulldf %>% 
+  dplyr::select(-Name, -Name_KEY)
+#which(is.na(fulldf$folder)) # still some cases missing
 write.csv(fulldf, 'sharestats_website.csv')
