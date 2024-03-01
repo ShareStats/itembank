@@ -1,0 +1,42 @@
+Question
+========
+
+Bij vijf personen is de hartslag voor en 15 minuten na een langdurige,
+zware inspanning gemeten, met als resultaten:
+
+  --------------- ---- ---- ---- ---- ----
+  Persoon         1    2    3    4    5
+  Hartslag voor   70   65   81   57   74
+  Hartslag a      75   64   86   59   79
+  --------------- ---- ---- ---- ---- ----
+
+We willen toetsen of het verschil tussen de gemiddelde hartslag na en
+voor de inspanning gelijk is aan 0, met behulp van een gepaarde T-toets.
+Het kritieke gebied bij toetsen met 5% tweezijdig risico is gelijk aan
+
+Answerlist
+----------
+
+* < -∞,-2.7764] ∪ [2.7764, ∞ >
+* < - ∞,-2.5706] ∪ [2.5706, ∞ >
+* < -2.3060, 2.3060 >
+* < -2.5706, 2.5706 >
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* < -∞,-2.7764] ∪ [2.7764, ∞ >
+
+Meta-information
+================
+exname: uva-paired-samples-395-nl
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/t-test/Paired samples
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.809
+exextra[p-value]: 0.1547

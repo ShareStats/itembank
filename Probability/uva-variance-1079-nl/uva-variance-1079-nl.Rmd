@@ -1,0 +1,40 @@
+Question
+========
+
+Als je een dobbelsteen opgooit, dan krijgt je als uitkomst 1, 2, 3, 4, 5
+of 6. Hieronder zie je een kansverdeling voor de som van twee
+dobbelstenen die werden opgegooid. Bereken het gemiddelde en variantie
+uit deze verdeling:\
+\
+
+  --------------------------- ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------
+  Som van twee dobbelstenen   2      3      4      5      6      7      8      9      10     11     12
+  Kans                        1/36   2/36   3/36   4/36   5/36   6/36   5/36   4/36   3/36   2/36   1/36
+  --------------------------- ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------
+
+Answerlist
+----------
+
+* µ = 3,5 en σ2 = 2,917.
+* µ = 3,5 en σ2 = 5,834.
+* µ = 7 en σ2 = 2,917.
+* µ = 7 en σ2 = 5,834.
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* µ = 7 en σ2 = 5,834.
+
+Meta-information
+================
+exname: uva-variance-1079-nl
+extype: schoice
+exsolution: 0001
+exsection: Probability/Elementary Probability/Random variables/Variance
+exextra[Type]: Conceptual, Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.804
+exextra[p-value]: 0.1552

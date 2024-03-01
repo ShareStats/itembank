@@ -1,0 +1,34 @@
+Question
+========
+
+In een klein bedrijf met zes medewerkers wordt iedere week bijgehouden
+welk van de twee teams (A en B) het meest verdient. Met behulp van de
+Wilcoxon toets wordt gekeken welk team beter is dan de ander. Het
+verschil tussen team A en team B is: A - B = 3. Hieruit volgt voor de
+rangordes van de teams dat
+
+Answerlist
+----------
+
+* A had (1, 2, 6) en B had (3, 4, 5).
+* A had (1, 2, 3) en B had (4, 5, 6).
+* A had (4, 5, 6) en B had (1, 2, 3).
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* A had (4, 5, 6) en B had (1, 2, 3).
+
+Meta-information
+================
+exname: uva-signed-rank-test-177-nl
+extype: schoice
+exsolution: 001
+exsection: Inferential Statistics/Non-parametric Techniques/Signed Rank test
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2.105
+exextra[p-value]: 0.5317

@@ -1,0 +1,38 @@
+Question
+========
+
+$\begin{aligned} A & = \left \{ x \mid x = 2k, k \in Z \right
+\}\\ B & = \left \{ x \mid x = 2k + 1, k \in Z \right \}\\ C
+& = \left \{ x \mid x = 2(k + 1), k \in Z \right \}\\ D & =
+\left \{ x \mid x = 2k - 1, k \in Z \right \} \end{aligned}$
+
+waarbij Z de verzameling is van alle gehele (positieve en negatieve)
+getallen is, inclusief 0. Als steeds twee verzamelingen een doorsnede
+maken, welke leveren dan een lege verzameling op?
+
+Answerlist
+----------
+
+* $A \cap B = \varnothing, A \cap C = \varnothing, C \cap B = \varnothing, C \cap D = \varnothing$
+* $A \cap D = \varnothing, A \cap C = \varnothing, C \cap B = \varnothing, C \cap D = \varnothing$
+* $A \cap B = \varnothing, A \cap C = \varnothing, B \cap D = \varnothing, C \cap B = \varnothing$
+* $A \cap B = \varnothing, A \cap D = \varnothing, C \cap B = \varnothing, C \cap D = \varnothing$
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* $A \cap B = \varnothing, A \cap C = \varnothing, C \cap B = \varnothing, C \cap D = \varnothing$
+
+Meta-information
+================
+exname: uva-events-760-nl
+extype: schoice
+exsolution: 1000
+exsection: Probability/Elementary Probability/Events
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2.598
+exextra[p-value]: 0.4549

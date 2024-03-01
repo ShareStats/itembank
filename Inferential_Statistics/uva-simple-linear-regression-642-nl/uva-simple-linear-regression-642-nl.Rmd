@@ -1,0 +1,39 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-simple-linear-regression-642-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Van 8 individuen zijn kenmerken X en Y gemeten. Stel dat Y lineair
+afhankelijk is van X. Dan is de richtingscoëfficiënt van de
+regressielijn van Y op X gelijk aan
+
+![](uva-simple-linear-regression-642-nl-graph01.png)
+
+Answerlist
+----------
+
+* 0.921
+* 0.896
+* 0.786
+* 1.042
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* 0.896
+
+Meta-information
+================
+exname: uva-simple-linear-regression-642-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Regression/Simple linear regression
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.95
+exextra[p-value]: 0.0108

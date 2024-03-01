@@ -1,0 +1,43 @@
+Question
+========
+
+In een ANOVA met één factor A (3 niveau's) wordt het volgende gevonden:
+
+  -------- ---- ----- ---- ---
+  Source   df   SS    MS   F
+  A        2    48         
+  Error    28              
+  Total    30   300        
+  -------- ---- ----- ---- ---
+
+Het gemiddelde van groep één was 3 met 10 proefpersonen en van groep
+twee was het gemiddelde 5 ook met 10 proefpersonen. De conclusie van een
+95% *follow up* betrouwbaarheidsinterval op basis van bovenstaande
+gegevens volgens de methode van Fisher met df = 25, kan worden aangeduid
+met
+
+Answerlist
+----------
+
+* μ1μ2.
+* μ1 > μ2.
+* μ1 = μ2.
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* μ1 = μ2.
+
+Meta-information
+================
+exname: uva-oneway-anova-80-nl
+extype: schoice
+exsolution: 001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2.865
+exextra[p-value]: 0.4198

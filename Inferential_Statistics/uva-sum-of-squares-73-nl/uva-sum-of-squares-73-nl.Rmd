@@ -1,0 +1,42 @@
+Question
+========
+
+Bij een ANOVA kan het verschil in gemiddelden worden beschreven in
+termen van regressie. Stel dat een éénweg ANOVA (één factor) met drie
+groepen wordt omgezet in een regressie met de volgende codering:
+
+  ------- -------- -------- --------------------- -------------------
+  groep   *x*~1~   *x*~2~   gemiddelden           interpretatie *β*
+  1       1        0        *μ*~1~ = α + *β*~1~   
+  2       0        1        *μ*~2~ = α + *β*~2~   
+  3       0        0        *μ*~3~ = α            
+  ------- -------- -------- --------------------- -------------------
+
+De interpretatie van *β*~3~ is duidelijk, dat is α. De interpretatie van
+de andere twee coëfficiënten is als volgt:
+
+Answerlist
+----------
+
+* β1 = μ1 - μ2 en β2 = μ1 - μ3.
+* β1 = μ1 - μ3 en β2 = μ2 - μ3.
+* β1 = μ2 - μ3 en β2 = μ1 - μ3.
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* β1 = μ1 - μ3 en β2 = μ2 - μ3.
+
+Meta-information
+================
+exname: uva-sum-of-squares-73-nl
+extype: schoice
+exsolution: 010
+exsection: Inferential Statistics/Regression/Sum of squares
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.033
+exextra[p-value]: 0.1078

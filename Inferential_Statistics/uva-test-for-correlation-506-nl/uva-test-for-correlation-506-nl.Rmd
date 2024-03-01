@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-test-for-correlation-506-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Hieronder staat een gedeelte van de SPSS-uitvoer van een gepaarde
+T-toets op twee metingen aan 17 mensen. Bij toetsing van de nulhypothese
+dat de twee metingen niet *samenhangen* moet de conclusie luiden (bij α
+= 5%, tweezijdig):
+
+![](uva-test-for-correlation-506-nl-graph01.png)
+
+Answerlist
+----------
+
+* een significant resultaat, H0 wordt verworpen
+* een significant resultaat, H0 wordt niet verworpen
+* geen significant resultaat, H0 wordt verworpen
+* geen significant resultaat, H0 wordt niet verworpen
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* een significant resultaat, H0 wordt verworpen
+
+Meta-information
+================
+exname: uva-test-for-correlation-506-nl
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/t-test/Test for correlation
+exextra[Type]: Interpreting output
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2.488
+exextra[p-value]: 0.4703

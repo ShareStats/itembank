@@ -1,0 +1,42 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-regression-1268-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Van een aantal kinderen is de leeftijd in maanden bepaald, en de lengte
+in centimeters. De gegevens zijn uitgezet in bijgaand
+spreidingsdiagram.\
+De vergelijking van de regressielijn is: lengte is 65 + 0.64 \*
+leeftijd.\
+De waarde 65 uit de regressievergelijking wordt genoemd:
+
+![](uva-regression-1268-nl-graph01.png)
+
+Answerlist
+----------
+
+* regressiecoëfficiënt
+* determinatiecoëfficiënt
+* intercept of asafsnede
+* correlatiecoëfficiënt
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* intercept of asafsnede
+
+Meta-information
+================
+exname: uva-regression-1268-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Regression
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2.022
+exextra[p-value]: 0.573

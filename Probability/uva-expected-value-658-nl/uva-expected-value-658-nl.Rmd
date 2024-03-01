@@ -1,25 +1,32 @@
 Question
 ========
 
-Bij korfbal wordt per speler het schotpercentage bijgehouden. Als John een schotpercentage van 25% heeft, scoort hij bij één op de vier doelpogingen. John heeft twee doelpogingen. Hieronder zie je een tabel, X is toevalsvariabele en het aantal treffers X bij deze twee doelpogingen kan de waarden 0, 1 of 2 aannemen.
+Bij korfbal wordt per speler het schotpercentage bijgehouden. Als John
+een schotpercentage van 25% heeft, scoort hij bij één op de vier
+doelpogingen. John heeft twee doelpogingen. Hieronder zie je een tabel, *X* is toevalsvariabele en het aantal treffers *X* bij deze twee
+doelpogingen kan de waarden 0, 1 of 2 aannemen.
 
-|X|0|1|2|
-|-|-|-|-|
-|kans|0,56|0,38|0,06|
+  ------ ------ ------ ------
+  *X*    0      1      2
+  kans   0,56   0,38   0,06
+  ------ ------ ------ ------
 
-Wat is de verwachte score bij twee doelpogingen? Rond af op twee decimalen.
+Wat is de verwachte score bij twee doelpogingen? Rond af op twee
+decimalen.
 
 Solution
 ========
 
-The correct answer is 0.50.
+Het correcte antwoord is: 0.5
 
 Meta-information
 ================
-exname: uva-expected-value-658-nl 
-extype: num 
-exsolution: 0.50 
-exsection: Probability/Elementary Probability/Random variables/Expected value 
-exextra[Type]: Calculation 
-exextra[Language]: Dutch 
-exextra[Level]: Statistical Literacy 
+exname: uva-expected-value-658-nl
+extype: num
+exsolution: 0.5
+exsection: Probability/Elementary Probability/Random variables/Expected value
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.859
+exextra[p-value]: 0.0119

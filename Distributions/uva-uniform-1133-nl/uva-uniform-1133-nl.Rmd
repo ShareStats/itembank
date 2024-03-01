@@ -1,0 +1,38 @@
+Question
+========
+
+Een spel wordt gespeeld met een spinner op een cirkel, zoals een wijzer
+van een klok die constant door een motortje wordt aangedreven. De cirkel
+is gelijkmatig verdeeld in segmenten genummerd van 1 tot en met 100. De
+speler draait de spinner en het resulterende nummer is de tijd (in
+seconden) die de speler krijgt om een vraag te beantwoorden. Stel de
+uniforme toevalsvariabele X is de hoeveelheid tijd van de speler. Wat is
+de kans op P(35 ≤ X ≤ 75)?
+
+Answerlist
+----------
+
+* 0,01
+* 0,10
+* 0,25
+* 0,35
+* 0,40
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* 0,40
+
+Meta-information
+================
+exname: uva-uniform-1133-nl
+extype: schoice
+exsolution: 00001
+exsection: Distributions/Continuous/Uniform
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

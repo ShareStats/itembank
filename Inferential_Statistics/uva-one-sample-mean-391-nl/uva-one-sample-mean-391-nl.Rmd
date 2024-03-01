@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-one-sample-mean-391-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Hieronder staat uitvoer van een één-steekproef T-toets. We willen H~0~:μ
+= 75 toetsen met α = 5% tweezijdig. Wanneer we bij toetsing gebruik
+hadden willen maken van een kritiek gebied, dan was de rechter kritieke
+waarde gelijk geweest aan
+
+![](uva-one-sample-mean-391-nl-graph01.png)
+
+Answerlist
+----------
+
+* 1.7959
+* 1.8125
+* 2.201
+* 2.2281
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* 2.2281
+
+Meta-information
+================
+exname: uva-one-sample-mean-391-nl
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/t-test/One sample mean
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.77
+exextra[p-value]: 0.1594

@@ -1,0 +1,43 @@
+Question
+========
+
+In een aselect getrokken steekproef van 200 onafhankelijke personen is
+gekeken naar het vóórkomen van RSI-klachten (geen, licht, ernstig) en
+het type werk (veel computerwerk, overig).
+
+  ----------- --------------- -------------- ------- ---------
+  yes                         RSI-klachten           
+                              Geen           Licht   Ernstig
+  Type werk   Veel computer   18             14      8
+              Overig          120            32      8
+  ----------- --------------- -------------- ------- ---------
+
+De kans op RSI-klachten (zowel licht als ernstig), gegeven dat men veel
+computerwerk doet, is gelijk aan
+
+Answerlist
+----------
+
+* 0.11
+* 0.31
+* 0.35
+* 0.55
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* 0.55
+
+Meta-information
+================
+exname: uva-random-variables-368-nl
+extype: schoice
+exsolution: 0001
+exsection: Probability/Elementary Probability/Random variables
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 1.485
+exextra[p-value]: 0.8618

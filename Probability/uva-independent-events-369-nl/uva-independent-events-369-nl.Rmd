@@ -1,0 +1,43 @@
+Question
+========
+
+In een aselect getrokken steekproef van 200 onafhankelijke personen is
+gekeken naar het vóórkomen van RSI-klachten (geen, licht, ernstig) en
+het type werk (veel computerwerk, overig).
+
+  ----------- ---------------- -------------- ------- ---------
+  yes                          RSI-klachten           
+                               Geen           Licht   Ernstig
+  Type werk   Veel computer    18             14      8
+              Overig           120            32      8
+  ----------- ---------------- -------------- ------- ---------
+
+Definieer A als de gebeurtenis \"Geen RSI-klachten\" en B als de
+gebeurtenis \"Veel computerwerk\". Dan geldt
+
+Answerlist
+----------
+
+* A en B zijn afhankelijk want P(A ∩ B) ≠ P(B | A)
+* A en B zijn afhankelijk want P(A) ≠ P(B | A)
+* A en B zijn afhankelijk want P(A) ≠ P(A | B)
+* A en B zijn afhankelijk want P(A∪B) ≠ P(A) x P(B)
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* A en B zijn afhankelijk want P(A) ≠ P(A | B)
+
+Meta-information
+================
+exname: uva-independent-events-369-nl
+extype: schoice
+exsolution: 0010
+exsection: Probability/Elementary Probability/General Rules/Independent events
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3
+exextra[p-value]: 0.311

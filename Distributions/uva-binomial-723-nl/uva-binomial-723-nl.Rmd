@@ -1,0 +1,34 @@
+Question
+========
+
+Peter is een basketbalspeler die in de loop van het seizoen met 80% van
+zijn vrije worpen succes boekt. Tijdens een cruciale wedstrijd mist hij
+even van zijn 12 vrije worpen. Is een dergelijke prestatie slecht voor
+Peter? Wij nemen aan dat zeven worpen onafhankelijke van elkaar zijn.
+(Gebruik tabel van binomiale verdeling toegestaan.)
+
+Answerlist
+----------
+
+* Ja, omdat hij een kans op misgooien van 50% heeft.
+* Ja, omdat hij 80% kans heeft op misgooien.
+* Nee, omdat de kans op zeven of meer mislukte worpen 0,0039 is.
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* Nee, omdat de kans op zeven of meer mislukte worpen 0,0039 is.
+
+Meta-information
+================
+exname: uva-binomial-723-nl
+extype: schoice
+exsolution: 001
+exsection: Distributions/Discrete/Binomial
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 1.027
+exextra[p-value]: 0.8896

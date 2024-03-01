@@ -1,0 +1,43 @@
+Question
+========
+
+Hieronder staat een onvolledige ANOVA-tabel, behorend bij een Randomized
+Complete Block ANOVA.
+
+  -------------- ---- ---- ------ ------
+  Variatiebron   SS   df   MS     F
+  Groep               3    39.0   8.67
+  Blok                2    22.5   5.00
+  Error               6    4.5    
+  Totaal              11          
+  -------------- ---- ---- ------ ------
+
+We willen de nulhypothese testen dat er geen groepseffect is, met 5%
+risico. Het toetsresultaat is
+
+Answerlist
+----------
+
+* significant, verwerp H0
+* significant, verwerp H0 niet
+* niet significant, verwerp H0
+* niet significant, verwerp H0 niet
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* significant, verwerp H0
+
+Meta-information
+================
+exname: uva-oneway-anova-542-nl
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.381
+exextra[p-value]: 0.0335

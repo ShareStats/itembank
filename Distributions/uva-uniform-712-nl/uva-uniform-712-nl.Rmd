@@ -1,0 +1,37 @@
+Question
+========
+
+Een generator van toevalsgetallen in een computer zal zijn uitkomsten
+gelijkmatig verspreiden over het hele interval van 0 tot 1 wanneer wij
+deze een lange serie getallen laten genereren. Dit noemen we een
+zogenaamde *uniforme verdeling*. Een generator van toevalsgetallen
+produceert een getal *X* dat ligt in een interval tussen 0 en 0,4 of in
+een interval tussen 0,7 en 1, wat is dan de kans op P(*X* ≤ 0,4 of *X*
+\> 0,7)?
+
+Answerlist
+----------
+
+* 0,4
+* 0,7
+* 0,3
+* 1,1
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* 0,3
+
+Meta-information
+================
+exname: uva-uniform-712-nl
+extype: schoice
+exsolution: 0010
+exsection: Distributions/Continuous/Uniform
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

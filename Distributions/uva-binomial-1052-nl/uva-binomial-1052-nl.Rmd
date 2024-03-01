@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-binomial-1052-nl-graph01.jpeg", recursive = TRUE)
+```
+
+Question
+========
+
+Marieke is een schutter. De kans op het raken van een doel met een schot
+is 0,2. In een wedstrijd heeft zij 5 keer geschoten. Wat is de kans dat
+zij minstens één keer succesvol het doel raakt? We nemen aan dat elk
+schot onafhankelijk van elkaar is.
+
+![](uva-binomial-1052-nl-graph01.jpeg)
+
+Answerlist
+----------
+
+* 0,67
+* 0,20
+* 0,10
+* 0,04
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* 0,67
+
+Meta-information
+================
+exname: uva-binomial-1052-nl
+extype: schoice
+exsolution: 1000
+exsection: Distributions/Discrete/Binomial
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

@@ -1,0 +1,44 @@
+Question
+========
+
+De Belgische staatsloterij werkt aan het eind van ieder jaar met loten
+waarop zescijferige getallen vermeld staan. Men kan dus een getal kiezen
+dat ligt tussen 000000 en 999999. Het winnende lot levert de winnaar €;
+750.000 op. De kans dat men een winnend lot trekt, bij aanschaf van één
+lot, is 0,000001. De kansverdeling voor X (= het geldbedrag dat men
+ontvangt) ziet er als volgt uit:
+
+  ----------- ---------- -----------
+  Prijs *X*   € 0        € 750.000
+  Kans        0,999999   0,000001
+  ----------- ---------- -----------
+
+Een lot kost dit jaar €; 2,50. Hoeveel euro incasseert de Belgische
+staat op de lange termijn per lot? Kies uit onderstaande mogelijkheden.
+
+Answerlist
+----------
+
+* € 0,75
+* € 1,25
+* € 1,75
+* € 1,95
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* € 1,75
+
+Meta-information
+================
+exname: uva-expected-value-739-nl
+extype: schoice
+exsolution: 0010
+exsection: Probability/Elementary Probability/Random variables/Expected value
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2.205
+exextra[p-value]: 0.5023

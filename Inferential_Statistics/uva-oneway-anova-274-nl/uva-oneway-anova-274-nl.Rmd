@@ -1,0 +1,45 @@
+Question
+========
+
+Hieronder staat de (onvolledige) ANOVA-tabel van een CRD-ANOVA
+(Completely Randomised Design ANOVA), die is uitgevoerd op gegevens die
+verzameld zijn bij 16 personen, verdeeld over 4 groepen. 
+
+  --------------- ----- ---- ---- -----
+  Variatiebron    SS    df   MS   F
+  Among groups                    8.0
+  Within groups   60    12         
+  Total           180              
+  --------------- ----- ---- ---- -----
+
+Voor het toetsen van de H~0~: μ~1~ = μ~2~ = μ~3~ = μ~4~ tegen H~1~: niet
+alle populatiegemiddelden zijn gelijk wordt de F-waarde uit de
+ANOVA-tabel vergeleken met de kritieke waarde uit de F-verdeling. Bij
+een risico van 5% moet de conclusie luiden
+
+Answerlist
+----------
+
+* Kritieke waarde is 3.13, verwerp H0.
+* Kritieke waarde is 3.49, verwerp H0 niet.
+* Kritieke waarde is 3.49, verwerp H0.
+* Kritieke waarde is 8.74, verwerp H0 niet.
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* Kritieke waarde is 3.49, verwerp H0.
+
+Meta-information
+================
+exname: uva-oneway-anova-274-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.268
+exextra[p-value]: 0.0732

@@ -1,25 +1,30 @@
 Question
 ========
 
-Je gooit met drie dobbelstenen. Stel X is het aantal vieren. Hieronder zie je een kansverdeling van X. Wat is dan de kans P(X = 3)?
+Je gooit met drie dobbelstenen. Stel X is het aantal vieren. Hieronder
+zie je een kansverdeling van X. Wat is dan de kans P(X = 3)?
 
-|De waarde van X|0|1|2|3|
-|-|-|-|-|-|
-|P(X = x)|125/216|75/216|15/216|?|
+  ----------------- --------- -------- -------- ---
+  De waarde van X   0         1        2        3
+  P(X = x)          125/216   75/216   15/216   ?
+  ----------------- --------- -------- -------- ---
 
+\
 (Geef je antwoord in de vorm van een breuk: X/Y).
 
 Solution
 ========
 
-The correct answer is 1/216.
+Het correcte antwoord is: 0.0046
 
 Meta-information
 ================
-exname: uva-general-rules-765-nl 
-extype: string 
-exsolution: "1/216" 
-exsection: Probability/Elementary Probability/General Rules 
-exextra[Type]: Calculation 
-exextra[Language]: Dutch 
-exextra[Level]: Statistical Literacy 
+exname: uva-general-rules-765-nl
+extype: num
+exsolution: 0.0046
+exsection: Probability/Elementary Probability/General Rules
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 0.02
+exextra[p-value]: 0.9226

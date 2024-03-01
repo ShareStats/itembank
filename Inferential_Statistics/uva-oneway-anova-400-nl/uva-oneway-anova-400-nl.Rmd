@@ -1,0 +1,39 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-oneway-anova-400-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Hieronder staat (onvolledige) SPSS-uitvoer van een RCB-ANOVA, waarbij
+binnen de blokken individuen aselect zijn toegewezen aan een therapie.
+De conclusie omtrent de blokfactor moet luiden:
+
+![](uva-oneway-anova-400-nl-graph01.png)
+
+Answerlist
+----------
+
+* De blokgemiddelden zijn significant verschillend.
+* De blokgemiddelden zijn significant gelijk.
+* De blokgemiddelden zijn niet significant verschillend.
+* De hypothese over blokgemiddelden kan niet getoetst worden.
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* De hypothese over blokgemiddelden kan niet getoetst worden.
+
+Meta-information
+================
+exname: uva-oneway-anova-400-nl
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Conceptual, Interpreting output
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.73
+exextra[p-value]: 0.1661

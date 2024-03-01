@@ -1,0 +1,32 @@
+Question
+========
+
+Er is gegeven dat P(A) = 0.4, P(B) = 0.25 en P(A ∩ B) = 0.1. Zijn de
+gebeurtenissen A en B onafhankelijk?
+
+Answerlist
+----------
+
+* Ja, want P(A) = P(B | A).
+* Ja, want P(A) x P(B) = P(A ∩ B).
+* Nee, want P(A) ≠ P(A | B).
+* Nee, want P(A ∩ B) ≤ P(A).
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* Ja, want P(A) x P(B) = P(A ∩ B).
+
+Meta-information
+================
+exname: uva-independent-events-381-nl
+extype: schoice
+exsolution: 0100
+exsection: Probability/Elementary Probability/General Rules/Independent events
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3
+exextra[p-value]: 0.311

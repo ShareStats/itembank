@@ -1,0 +1,43 @@
+Question
+========
+
+Van een aselect getrokken steekproef van 7 personen is de lengte van de
+linker- en de rechterarm gemeten (in cm.):
+
+  ------------ ---- ---- ---- ---- ---- ---- ----
+  linkerarm    68   67   70   79   65   70   75
+  rechterarm   69   76   69   80   66   73   76
+  ------------ ---- ---- ---- ---- ---- ---- ----
+
+We willen toetsen\
+H~0~: μ(links) - μ(rechts) = 0\
+tegen\
+H~1~: μ(links) - μ(rechts) \< 0\
+Geef de kritieke waarde van de éénzijdige toets met risico 0.05.
+
+Answerlist
+----------
+
+* 2.44
+* 1.78
+* -1.75
+* -2.18
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* -1.75
+
+Meta-information
+================
+exname: uva-paired-samples-595-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/t-test/Paired samples
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.387
+exextra[p-value]: 0.2295

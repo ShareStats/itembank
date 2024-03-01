@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-boxplot-1206-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Hieronder staat een boxplot van de gegevens uit een steekproef van 80
+personen uit een normaal verdeelde populatie. Schat de
+steekproefstandaarddeviatie.\
+Hint: hoeveel sd\'s is de box breed?
+
+![](uva-boxplot-1206-nl-graph01.png)
+
+Answerlist
+----------
+
+* sd is ongeveer 1
+* sd is ongeveer 3
+* sd is ongeveer 6
+* sd is ongeveer 13
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* sd is ongeveer 3
+
+Meta-information
+================
+exname: uva-boxplot-1206-nl
+extype: schoice
+exsolution: 0100
+exsection: Descriptive statistics/Data representation/Graphs/Boxplot
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 1.039
+exextra[p-value]: 0.8891

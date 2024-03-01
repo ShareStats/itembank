@@ -1,0 +1,32 @@
+Question
+========
+
+Een onderzoeker heeft onderzoek gedaan en komt met de volgende tabel
+
+  -------- ---- ---- ---- ---
+  Source   df   SS   MS   F
+  Groups   4    40         
+  Error    25              
+  Total    29   90         
+  -------- ---- ---- ---- ---
+
+Wat is de kritieke grens? Dit is de grens die hoort bij
+significantieniveau 0.05 in de F-verdeling welke hoort bij de twee
+vrijheidsgraden in de tabel.
+
+Solution
+========
+
+Het correcte antwoord is: 2.76
+
+Meta-information
+================
+exname: uva-test-807-nl
+extype: num
+exsolution: 2.76
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANOVA F-test
+exextra[Type]: Conceptual, Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 6.335
+exextra[p-value]: 0.001

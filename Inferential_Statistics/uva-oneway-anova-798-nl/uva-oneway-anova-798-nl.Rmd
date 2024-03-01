@@ -1,0 +1,39 @@
+Question
+========
+
+In de tabel staat deels het resultaat van een ANOVA met één factor.
+
+  -------- ---- ---- ---- ---
+  Source   df   SS   MS   F
+  Groups   3               
+  Error    25   20         
+  Total    28   35         
+  -------- ---- ---- ---- ---
+
+Gegeven is het significantieniveau van 0.05. Dan volgt uit de tabel dat
+
+Answerlist
+----------
+
+* 4 ≤ F ≤ 5 en dus kan de nulhypothese van ANOVA worden verworpen.
+* 6 ≤ F ≤ 7 en dus kan de nulhypothese van ANOVA worden verworpen.
+* F ≤ 2 en dus kan de nulhypothese van ANOVA niet worden verworpen.
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* 6 ≤ F ≤ 7 en dus kan de nulhypothese van ANOVA worden verworpen.
+
+Meta-information
+================
+exname: uva-oneway-anova-798-nl
+extype: schoice
+exsolution: 010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.154
+exextra[p-value]: 0.0908

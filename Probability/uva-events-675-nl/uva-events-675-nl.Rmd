@@ -1,0 +1,38 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-events-675-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Gebeurtenis A = { 2 ≤ x ≤ 4}, en B = {x\|x ≥ 3}.Kijk naar de
+onderstaande grafiek, wat is de vereniging van *A* en *B*?
+
+![](uva-events-675-nl-graph01.png)
+
+Answerlist
+----------
+
+* {x|x ≤ 2}
+* {x|2 ≤ x ≤ 4}
+* {x|x ≥ 2}
+* {x|x > 4}
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* {x|x ≥ 2}
+
+Meta-information
+================
+exname: uva-events-675-nl
+extype: schoice
+exsolution: 0010
+exsection: Probability/Elementary Probability/Events
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 1.865
+exextra[p-value]: 0.8066

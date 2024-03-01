@@ -1,0 +1,40 @@
+Question
+========
+
+In de volgende kruistabel zijn gegevens van 200 personen opgenomen voor
+twee variabelen A en B.
+
+  ------- ------- ------- -------
+          A = 1   A = 2   A = 3
+  B = 1   50      36      64
+  B = 2   20      12      18
+  ------- ------- ------- -------
+
+De gebeurtenissen A=2 en B=1 zijn
+
+Answerlist
+----------
+
+* afhankelijk, want P(A=2 ∪ B=1) ≠ P(A=2) + P(B=1)
+* afhankelijk, want P(A=2 | B=1)   P (B=1 | A=2)
+* onafhankelijk, want P(A=2 ∩ B=1) = P(A=2)   P(B=1)
+* onafhankelijk, want P(A=2 ∪ B=1) = P(A=2) + P(B=1) - P(A=2 ∩ B=1)
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* onafhankelijk, want P(A=2 ∩ B=1) = P(A=2)   P(B=1)
+
+Meta-information
+================
+exname: uva-addition-rule-540-nl
+extype: schoice
+exsolution: 0010
+exsection: Probability/Elementary Probability/General Rules/Addition rule
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

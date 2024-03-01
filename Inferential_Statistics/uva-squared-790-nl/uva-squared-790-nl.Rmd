@@ -1,0 +1,41 @@
+Question
+========
+
+Onderstaande tabel toont de associatie tussen sporten en algemeen
+welbevinden. In de tabel staan de gestandaardiseerde residuen tussen
+haakjes. Welke interpretatie van het gestandaardiseerde residu -1.3 is
+juist?
+
+  --------- ---------------------- --------------- ------------
+  Sporten    Algemeen welbevinden                  
+                 Niet zo goed         Redelijk      Heel goed
+  Nooit           20 (11.2)         14 (**-1.3**)    3 (-4.1)
+  Soms             35 (1.4)          395 (14.7)     75 (-15.5)
+  Vaak            30 (-5.8)          310 (-13.8)    515 (16.1)
+  --------- ---------------------- --------------- ------------
+
+Answerlist
+----------
+
+* Het geobserveerde aantal van 14 in deze cel is 1.3 standaard error lager dan het verwachtte aantal.
+* Het geobserveerde aantal van 14 in deze cel minus 1.3 standaard error geeft de verwachtte waarde.
+* Omdat het gestandaardiseerde residu negatief is, is er geen afhankelijkheid.
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* Het geobserveerde aantal van 14 in deze cel is 1.3 standaard error lager dan het verwachtte aantal.
+
+Meta-information
+================
+exname: uva-squared-790-nl
+extype: schoice
+exsolution: 100
+exsection: Inferential Statistics/NHST/Test statistic/Chi-squared
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.001
+exextra[p-value]: 0.3002

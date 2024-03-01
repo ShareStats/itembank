@@ -1,0 +1,34 @@
+Question
+========
+
+Een variabele A is normaal verdeeld volgens N(μ,σ^²^). We trekken een
+steekproef ter grootte van *n* uit deze verdeling, met gemiddelde
+$\bar{x}$ en sd s. Dan volgt de grootheid $\frac{\bar{A}-\mu
+}{\frac{s}{\sqrt{n}}}$ de volgende verdeling:
+
+Answerlist
+----------
+
+* N(0,1), de standaardnormale verdeling
+* T[n], de T-verdeling met n vrijheidsgraden
+* T[n-1], de T-verdeling met n-1 vrijheidsgraden
+* N(μ,σ²), de normale verdeling met gemiddelde μ en variantie σ²
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* T[n-1], de T-verdeling met n-1 vrijheidsgraden
+
+Meta-information
+================
+exname: uva-distribution-621-nl
+extype: schoice
+exsolution: 0010
+exsection: Distributions/Continuous/t-distribution
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2.081
+exextra[p-value]: 0.5415

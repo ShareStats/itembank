@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-test-for-correlation-331-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Hieronder staat SPSS-uitvoer van een gepaarde T-toets op depressiescores
+van 15 patiënten, gemeten voor en na een gesprek met een therapeut.
+Wanneer we geïnteresseerd zijn in de vraag of de scores voor en na het
+gesprek afhankelijk zijn moet de conclusie luiden:
+
+![](uva-test-for-correlation-331-nl-graph01.png)
+
+Answerlist
+----------
+
+* Verwerp de nulhypothese dat ze afhankelijk zijn.
+* Verwerp de nulhypothese dat ze onafhankelijk zijn.
+* Verwerp de nulhypothese dat ze afhankelijk zijn niet.
+* Verwerp de nulhyp
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* Verwerp de nulhypothese dat ze onafhankelijk zijn.
+
+Meta-information
+================
+exname: uva-test-for-correlation-331-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/t-test/Test for correlation
+exextra[Type]: Interpreting output
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.17
+exextra[p-value]: 0.2553

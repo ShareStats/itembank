@@ -1,0 +1,43 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-simple-linear-regression-1389-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Vetpercentage kan geschat worden met behulp van (de logaritme van) de
+som van de huidplooidiktes van biceps en triceps.\
+Bijgaand is een spreidingsdiagram waarin deze beide variabelen tegen
+elkaar staan uitgezet.\
+Stel dat er een persoon extra gemeten wordt, A, B, C of D. Door welke
+persoon zou de richtingscoëfficiënt van de regressielijn het meest
+toenemen? 
+
+![](uva-simple-linear-regression-1389-nl-graph01.png)
+
+Answerlist
+----------
+
+* A
+* B
+* C
+* D
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* A
+
+Meta-information
+================
+exname: uva-simple-linear-regression-1389-nl
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Regression/Simple linear regression
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 0.227
+exextra[p-value]: 0.9185

@@ -1,0 +1,33 @@
+Question
+========
+
+Een zuiver muntstuk wordt 200 keer gegooid. De toevalsvariabele *X* is:
+het aantal keren dat kop boven ligt. Is *X* een binomiale variabele en
+zo ja, wat is dan *n* en *p*? (p.323, 8.32, kennis binomiale verdeling)\
+
+Answerlist
+----------
+
+* X is geen binomiale variabele.
+* X is een binomiale variabele, met n = 200 en p = ½.
+* X is een binomiale variabele, met n = 200 en p = 1/200.
+* X is een binomiale variabele, met n =1/2 en p = 200.
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* X is een binomiale variabele, met n = 200 en p = ½.
+
+Meta-information
+================
+exname: uva-binomial-test-1144-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Non-parametric Techniques/Binomial test 
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

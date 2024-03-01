@@ -1,0 +1,77 @@
+Question
+========
+
+Elke jaar publiceert *Forbes Magazine* een lijst van de meest
+verdienende overleden beroemdheden. In 2008 was de top zes en hun
+jaarlijkse inkomsten:\
+
+1.  Elvis Presley, \$ 52 miljoen
+2.  Charles M. Schulz, \$ 33 miljoen
+3.  Heath Ledger, \$ 20 miljoen
+4.  Albert Einstein, \$ 18 miljoen
+5.  Aaron Spelling, \$ 15 miljoen
+6.  Dr. Seuss (Theodor Geisel), \$ 12 miljoen\
+    *\[Bron: www.forbes.com\]*
+
+Jouw kantoor krijgt de kans om twee van deze beroemdheden te
+vertegenwoordigen. De twee worden willekeurig gekozen. Je krijgt 10% van
+hun inkomsten betaald. Welke steekproefverdeling geeft de juiste
+informatie van het totaal aan mogelijke verdiensten?\
+\
+A:\
+
+  ---------------------------------- ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------
+  Totale verdiensten x \$1.000.000   8,5    7,2    7,0    6,7    6,4    5,3    5,1    4,8    4,5    3,8    3,5    3,3    3,2    3,0    2,7
+  Kans                               1/15   1/15   1/15   1/15   1/15   1/15   1/15   1/15   1/15   1/15   1/15   1/15   1/15   1/15   1/15
+  ---------------------------------- ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------
+
+\
+B:\
+
+  ---------------------------------- ------- ------- ------- ------- ------- ------- ------ ------ ------ ------ ------ ------ ------ ------ ------
+  Totale verdiensten x \$1.000.000   8,5     7,2     7,0     6,7     6,4     5,3     5,1    4,8    4,5    3,8    3,5    3,3    3,2    3,0    2,7
+  Kans                               15/15   14/15   13/15   12/15   11/15   10/15   9/15   8/15   7/15   6/15   5/15   4/15   3/15   2/15   1/15
+  ---------------------------------- ------- ------- ------- ------- ------- ------- ------ ------ ------ ------ ------ ------ ------ ------ ------
+
+\
+C:\
+
+  ---------------------------------- ------ ------ ------ ------ ------ ------- ------- ------- ------- ------- ------ ------ ------ ------ ------
+  Totale verdiensten x \$1.000.000   8,5    7,2    7,0    6,7    6,4    5,3     5,1     4,8     4,5     3,8     3,5    3,3    3,2    3,0    2,7
+  Kans                               1/15   3/15   5/15   7/15   9/15   11/15   13/15   15/15   13/15   11/15   9/15   7/15   5/15   3/15   1/15
+  ---------------------------------- ------ ------ ------ ------ ------ ------- ------- ------- ------- ------- ------ ------ ------ ------ ------
+
+\
+D:\
+
+  ---------------------------------- ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------
+  Totale verdiensten x \$1.000.000   8,5    7,2    7,0    6,7    6,4    5,3    5,1    4,8    4,5    3,8    3,5    3,3    3,2    3,0    2,7
+  Kans                               2/15   2/15   2/15   2/15   2/15   2/15   2/15   2/15   2/15   2/15   2/15   2/15   2/15   2/15   2/15
+  ---------------------------------- ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------
+
+Answerlist
+----------
+
+* A
+* B
+* C
+* D
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* A
+
+Meta-information
+================
+exname: uva-sample-space-1193-nl
+extype: schoice
+exsolution: 1000
+exsection: Probability/Elementary Probability/Sample Space 
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2.645
+exextra[p-value]: 0.4446

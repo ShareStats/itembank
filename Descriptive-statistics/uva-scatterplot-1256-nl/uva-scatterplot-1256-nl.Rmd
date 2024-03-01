@@ -1,0 +1,42 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-scatterplot-1256-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Van een aantal kinderen is de leeftijd in maanden bepaald, en de lengte
+in centimeters. De gegevens zijn uitgezet in bijgaand
+spreidingsdiagram.\
+Stel dat er een nog een kind gemeten wordt, van 28 maanden oud, met een
+lengte van 74.6 cm. In deze steekproef is dit kind:
+
+![](uva-scatterplot-1256-nl-graph01.png)
+
+Answerlist
+----------
+
+* een uitbijter qua leeftijd en lengte
+* een uitbijter qua leeftijd maar niet qua lengte
+* een uitbijter qua lengte maar niet qua leeftijd
+* geen uitbijter qua leeftijd en lengte, maar wel in de combinatie van beide
+* geen uitbijter qua leeftijd en lengte, en ook niet in de combinatie van beide
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* geen uitbijter qua leeftijd en lengte, maar wel in de combinatie van beide
+
+Meta-information
+================
+exname: uva-scatterplot-1256-nl
+extype: schoice
+exsolution: 00010
+exsection: Descriptive statistics/Data representation/Graphs/Scatterplot
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.624
+exextra[p-value]: 0.0139

@@ -1,0 +1,39 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-events-674-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Rechts zie je een Venn-diagram dat de relatie representeert tussen twee
+gebeurtenissen, namelijk *A* en *B*. Welke onderstaande situatie past
+hierbij het beste?
+
+![](uva-events-674-nl-graph01.png)
+
+Answerlist
+----------
+
+* A is rode thee, B is groene thee, C is alle theesoorten.
+* A is zoetwatervissen, B is vissen, C is de familie der vissen.
+* A is {1,2,3,5}, B is {2,3,6,7}, C is{1,2,3,5,6,7}.
+* A is vrouwen, B is mannen, C is bejaarden.
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* A is rode thee, B is groene thee, C is alle theesoorten.
+
+Meta-information
+================
+exname: uva-events-674-nl
+extype: schoice
+exsolution: 1000
+exsection: Probability/Elementary Probability/Events
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: -3.452
+exextra[p-value]: 0.9819

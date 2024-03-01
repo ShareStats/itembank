@@ -1,0 +1,33 @@
+Question
+========
+
+Als ik 2 onafhankelijke trekkingen X~1~ en X~2~ uit dezelfde verdeling
+(met variantie = 5) verricht, dan geldt voor de varianties van 2X~1~ en
+X~1~ + X~2~:
+
+Answerlist
+----------
+
+* var(2X1) < var(X1 + X2)
+* var(2X1) = var(X1 + X2)
+* var(2X1) > var(X1 + X2)
+* var(2X1) en var(X1 + X2) zijn niet te vergelijken
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* var(2X1) > var(X1 + X2)
+
+Meta-information
+================
+exname: uva-variance-258-nl
+extype: schoice
+exsolution: 0010
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Variance
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.441
+exextra[p-value]: 0.2254

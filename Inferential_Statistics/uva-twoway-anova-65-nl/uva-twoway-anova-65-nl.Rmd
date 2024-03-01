@@ -1,0 +1,42 @@
+Question
+========
+
+In een onderzoek met twee factoren, A (3 niveau\'s) en B (2 niveau\'s),
+wordt het volgende gevonden:
+
+  -------- ---- ----- ---- ---
+  Source   df   SS    MS   F
+  A        2    120   60   
+  B        1    80    80   
+  A\*B     2               
+  Error    25   225   9    
+  Total    30   500        
+  -------- ---- ----- ---- ---
+
+De nulhypothese van geen interactie kan bij significantieniveau 0.05
+
+Answerlist
+----------
+
+* worden verworpen.
+* niet worden verworpen.
+* niet worden bepaald.
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* worden verworpen.
+
+Meta-information
+================
+exname: uva-twoway-anova-65-nl
+extype: schoice
+exsolution: 100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2.006
+exextra[p-value]: 0.5797

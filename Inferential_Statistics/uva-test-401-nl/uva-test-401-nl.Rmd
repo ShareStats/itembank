@@ -1,0 +1,39 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-test-401-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Hieronder staat (onvolledige) SPSS-uitvoer van een RCB-ANOVA, waarbij
+binnen de blokken individuen aselect zijn toegewezen aan een therapie.
+De F-waarde en conclusie over therapiegemiddelden luiden
+
+![](uva-test-401-nl-graph01.png)
+
+Answerlist
+----------
+
+* F = 1.581, een niet-significant resultaat
+* F = 8.139, een significant resultaat
+* F = 9.541, een niet-significant resultaat
+* F = 9.541, een significant resultaat
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* F = 9.541, een significant resultaat
+
+Meta-information
+================
+exname: uva-test-401-nl
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANOVA F-test
+exextra[Type]: Interpreting output
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.753
+exextra[p-value]: 0.1635

@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-paired-samples-505-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Hieronder staat een gedeelte van de SPSS-uitvoer van een gepaarde
+T-toets op twee metingen aan 17 mensen. Het kritieke gebied voor de
+toetsingsgrootheid voor het toetsen van *gelijkheid* van
+populatiegemiddelden is
+
+![](uva-paired-samples-505-nl-graph01.png)
+
+Answerlist
+----------
+
+* <-∞; -1.7459] ∪ [1.7459; ∞>
+* <- ∞; -2.1199] ∪ [2.1199; ∞>
+* <-2.1199; 2.1199>
+* <-2.1098; 2.1098>
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* <- ∞; -2.1199] ∪ [2.1199; ∞>
+
+Meta-information
+================
+exname: uva-paired-samples-505-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/t-test/Paired samples
+exextra[Type]: Interpreting output
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.008
+exextra[p-value]: 0.2976

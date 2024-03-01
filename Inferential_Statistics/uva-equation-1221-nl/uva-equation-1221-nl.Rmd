@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-equation-1221-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Bij 50 individuen zijn de variabelen X en Y gemeten. De resultaten zijn
+in een spreidingsdiagram gezet, vergezeld van de regressielijn van Y op
+X.\
+De vergelijking van de regressielijn is gelijk aan:
+
+![](uva-equation-1221-nl-graph01.png)
+
+Answerlist
+----------
+
+* Y = 2 + 1.4 * X
+* X = 2 + 1.2 * Y
+* X = 3 + 1.4 * Y
+* Y = 3 + 1.2 * X
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* Y = 3 + 1.2 * X
+
+Meta-information
+================
+exname: uva-equation-1221-nl
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Regression/Equation
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: -0.415
+exextra[p-value]: 0.9366

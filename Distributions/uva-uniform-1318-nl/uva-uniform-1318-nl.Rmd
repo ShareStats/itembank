@@ -1,0 +1,39 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-uniform-1318-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Stel de continue stochastische variabele X is: elke waarde tussen 0 en
+2. De dichtheidskromme van X is hieronder weergegeven.\
+Hoe groot is de kans dat X kleiner dan 1 is?
+
+![](uva-uniform-1318-nl-graph01.png)
+
+Answerlist
+----------
+
+* 0
+* 0,1
+* 0,5
+* 1
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* 0,5
+
+Meta-information
+================
+exname: uva-uniform-1318-nl
+extype: schoice
+exsolution: 0010
+exsection: Distributions/Continuous/Uniform
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

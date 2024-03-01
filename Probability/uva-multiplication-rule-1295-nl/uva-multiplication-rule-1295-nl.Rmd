@@ -1,0 +1,36 @@
+Question
+========
+
+Er zijn 151 ongevallen tijdens sportlessen op middelbare scholen. 54 van
+deze ongevallen werden veroorzaakt door cheerleaden. Stel dat je een
+random steekproef van 5 uit de 151 wil nemen zonder terugleggen. Wat is
+dan de kans dat er geen enkel ongeluk veroorzaakt wordt door
+cheerleaden?
+
+Answerlist
+----------
+
+* (49/151)5
+* 1-(54/151)5
+* (49/151)(48/150)(47/149)(46/148)(45/147)
+* (49/151)(48/151)(47/151)(46/151)(45/151)
+* (97/151)(96/150)(95/149)(94/148)(93/147)
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* (97/151)(96/150)(95/149)(94/148)(93/147)
+
+Meta-information
+================
+exname: uva-multiplication-rule-1295-nl
+extype: schoice
+exsolution: 00001
+exsection: Probability/Elementary Probability/General Rules/Multiplication rule
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

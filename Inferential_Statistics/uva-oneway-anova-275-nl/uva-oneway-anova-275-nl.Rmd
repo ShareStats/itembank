@@ -1,0 +1,44 @@
+Question
+========
+
+Hieronder staat de (onvolledige) ANOVA-tabel van een CRD-ANOVA
+(Completely Randomised Design ANOVA), die is uitgevoerd op gegevens die
+verzameld zijn bij 16 personen, verdeeld over 4 groepen. 
+
+  --------------- ----- ---- ---- -----
+  Variatiebron    SS    df   MS   F
+  Among groups                    8.0
+  Within groups   60    12         
+  Total           180              
+  --------------- ----- ---- ---- -----
+
+Wanneer we de populatiegemiddelden paarsgewijs hebben vergeleken m.b.v.
+de LSD-toets, en we willen een Bonferroni-correctie toepassen, dan wordt
+het risico per toets verkregen door het totale risico
+
+Answerlist
+----------
+
+* te delen door 4
+* te vermenigvuldigen met 4
+* te delen door 6
+* te vermenigvuldigen met 6
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* te delen door 6
+
+Meta-information
+================
+exname: uva-oneway-anova-275-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.848
+exextra[p-value]: 0.148

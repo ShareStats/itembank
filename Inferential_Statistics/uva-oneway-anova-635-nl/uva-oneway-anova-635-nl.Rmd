@@ -1,0 +1,42 @@
+Question
+========
+
+Hieronder staat een gedeelte van een ANOVA-tabel, behorend bij een
+CRD-ANOVA met 5 groepen en 3 metingen per groep.
+
+  --------------- ---- ---- ---- --- ---
+  Variatiebron    df   SS   MS   F   P
+  Among groups    4    48            
+  Within groups   10   15            
+  Total           14   63            
+  --------------- ---- ---- ---- --- ---
+
+Stel dat de F-waarde van deze ANOVA-tabel gelijk was aan 3.0; dan zou
+voor de bijbehorende P-waarde gelden (α=5%):
+
+Answerlist
+----------
+
+* P > 0.05: geen significante verschillen tussen groepen
+* P > 0.05: wel significante verschillen tussen groepen
+* P < 0.05: geen significante verschillen tussen groepen
+* P > 0.05: wel significante verschillen tussen groepen.
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* P > 0.05: geen significante verschillen tussen groepen
+
+Meta-information
+================
+exname: uva-oneway-anova-635-nl
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.052
+exextra[p-value]: 0.1026

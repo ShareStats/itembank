@@ -1,0 +1,40 @@
+Question
+========
+
+De genetica leert dat kinderen genen erven van hun ouders. Als beide
+ouders de genen O en A voor bloedgroep dragen, heeft elke kind een kans
+van 0,25 om twee O-genen te erven en zo bloedgroep O te krijgen. Het
+aantal kinderen met bloedgroep O onder vijf nakomelingen van deze ouders
+is het aantal successen *X* in vijf onafhankelijke pogingen. Stel dat
+toevalsvariabele *X* het aantal successen met de bloedgroep O, dus X
+heeft de waarden als 0, 1, \... , 5 en de *Binomiaal* (5,
+0,25)-verdeling. Hoe groot is dan de kans dat *X* = 2?
+
+Answerlist
+----------
+
+* 0,0010
+* 0,0146
+* 0,0879
+* 0,2373
+* 0,2637
+* 0,3955
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* 0,2637
+
+Meta-information
+================
+exname: uva-binomial-755-nl
+extype: schoice
+exsolution: 000010
+exsection: Distributions/Discrete/Binomial
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

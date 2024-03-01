@@ -1,0 +1,35 @@
+Question
+========
+
+Een onderzoeker heeft een éénweg ANOVA (één factor) met 5 groepen. De
+F-test van de ANOVA met de 5 groepen is significant bij een
+significantieniveau van 0.05. De onderzoeker wil daarna bekijken welke
+van de groepen van elkaar verschillen. Daartoe wil ze corrigeren voor *multiple comparison* met Bonferroni. Ze moet dan haar
+significantieniveau delen door het totaal aantal testen, ofwel 0.05/*k*.
+In deze opzet geldt
+
+Answerlist
+----------
+
+* k = 5.
+* k = 10.
+* k = 15.
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* k = 10.
+
+Meta-information
+================
+exname: uva-anova-79-nl
+extype: schoice
+exsolution: 010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.001
+exextra[p-value]: 0.3069

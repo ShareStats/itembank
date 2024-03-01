@@ -1,0 +1,100 @@
+Question
+========
+
+De som van de kansen in een binomiale verdeling moet gelijk zijn aan 1.
+Om te laten zien dat dit waar is, nemen we eerst *q* = 1- *p* zodat *q* + *p* = 1. Hieronder zie je een tabel waarin a binomiale verdeling
+met *n* = 1 waarneming, en de som daarvan is 1. Wat zal de kansverdeling
+zijn als *n* = 2, en de kans op succes is *p*?\
+\
+
+  ------------------ ------
+  Aantal successen   Kans
+  0                  *q*
+  1                  *p*
+  ------------------ ------
+
+ \
+\
+\
+\
+\
+A:\
+
+  ------------------ ---------
+  Aantal successen   Kans
+  0                  *q*
+  1                  *q - p*
+  2                  *p*
+  ------------------ ---------
+
+\
+\
+\
+\
+\
+\
+B:\
+
+  ------------------ ------
+  Aantal successen   Kans
+  0                  *q*
+  1                  *qp*
+  2                  *p*
+  ------------------ ------
+
+\
+\
+\
+\
+\
+\
+C:\
+
+  ------------------ ------
+  Aantal successen   Kans
+  0                  *q*
+  1                  *p*
+  2                  *p*
+  ------------------ ------
+
+\
+\
+\
+\
+\
+\
+D:\
+
+  ------------------ -----------
+  Aantal successen   Kans
+  0                  *q*
+  1                  *p*
+  2                  *1- q- p*
+  ------------------ -----------
+
+Answerlist
+----------
+
+* A
+* B
+* C
+* D
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* D
+
+Meta-information
+================
+exname: uva-general-rules-1180-nl
+extype: schoice
+exsolution: 0001
+exsection: Probability/Elementary Probability/General Rules 
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

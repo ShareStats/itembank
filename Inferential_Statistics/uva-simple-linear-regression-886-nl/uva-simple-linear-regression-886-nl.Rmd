@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-simple-linear-regression-886-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Om te onderzoeken of er een relatie bestaat tussen de variabelen x en y
+wordt een regressie-analyse uitgevoerd. Voordat de analyse wordt
+uitgevoerd, wordt een aantal assumpties voor het toetsen op
+regressiecoëfficiënten gecontroleerd. Als eerste worden de waarden van x
+en y in een grafiek uitgezet. Uit de grafiek lijkt waarschijnlijk de
+assumptie van regressie geschonden die stelt dat
+
+![](uva-simple-linear-regression-886-nl-graph01.png)
+
+Answerlist
+----------
+
+* de populatiestandaarddeviatie van y hetzelfde moet zijn voor alle waarden van x.
+* het populatiegemiddelde van y lineair gerelateerd is aan x.
+* de populatieverdeling van y voor ieder x normaal verdeeld is.
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* de populatiestandaarddeviatie van y hetzelfde moet zijn voor alle waarden van x.
+
+Meta-information
+================
+exname: uva-simple-linear-regression-886-nl
+extype: schoice
+exsolution: 100
+exsection: Inferential Statistics/Regression/Simple linear regression
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.486
+exextra[p-value]: 0.0191

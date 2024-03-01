@@ -1,0 +1,42 @@
+Question
+========
+
+Carla investeert 30% van haar fondsen in staatobligaties en 70% in een
+fonds van veel voorkomende aandelen. De opbrengst van een investering
+over een bepaalde periode is het percentage verandering in prijs
+gedurende deze periode. Als *X* de jaarlijkse opbrengst van de
+staatobligaties is en *Y* de jaarlijkse opbrengst van de aandelen, dan
+is de opbrengst van de hele aandelenportefeuille *R* = 0,3*X* + 0,7*Y*.\
+\
+Uit een gegevensverzameling (dataset) van de opbrengst in haar
+aandelenportefeuille in de periode van 1995 tot 2010 zie je hieronder
+data over de verwachtingwaarden, de standaardafwijkingen, en over de
+correlaties tussen *X* en *Y*.\
+\
+Gebaseerd op deze data hebben wij:
+
+  ---------------------------------------------- ---------------- -----------------
+  X= jaarlijkse opbrengst van staatsobligaties   *μ~X~* = 4,5%    *σ~X~* = 3,9%
+  *Y* = jaarlijkse opbrengst van aandelen        *μ~X~* = 14,2%   *σ~X~* = 18,2% 
+  Correlatie tussen *X* en *Y*                   -0,12            
+  ---------------------------------------------- ---------------- -----------------
+
+Wat is de standaardafwijking van de opbrengst (*σ~R~*) van de
+beleggingen uitgedeeld in procenten? Rond af op twee decimalen.
+
+Solution
+========
+
+Het correcte antwoord is: 0.1265
+
+Meta-information
+================
+exname: uva-variance-655-nl
+extype: num
+exsolution: 0.1265
+exsection: Probability/Elementary Probability/Random variables/Variance
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

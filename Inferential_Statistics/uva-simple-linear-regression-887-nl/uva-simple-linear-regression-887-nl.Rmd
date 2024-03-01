@@ -1,0 +1,42 @@
+Question
+========
+
+Gegeven is de tabel met correlaties voor drie predictoren *x*~1~, *x*~2~
+en *x*~3~.
+
+  -------- -------- -------- --------
+           *x*~1~   *x*~2~   *x*~3~
+  *x*~1~    -                 
+  *x*~2~    0.01    \-        
+  *x*~3~    0.03    0.05     \-
+  -------- -------- -------- --------
+
+De regressievergelijking voor de afhankelijke variabele *y* met alleen *x*~1~ en *x*~3~ is $\hat{y} = -12.44 + 4.91x_{1} + 2.01x_{3}$
+Stel nu dat het model wordt berekend met *x*~2~ erbij. Dan zal de
+coëfficiënt
+
+Answerlist
+----------
+
+* van x1 veel kleiner worden en van x3 veel groter worden .
+* van x1 ongeveer hetzelfde blijven en van x3 ook.
+* van x1 ongeveer hetzelfde blijven en voor x3 veel kleiner worden.
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* van x1 ongeveer hetzelfde blijven en van x3 ook.
+
+Meta-information
+================
+exname: uva-simple-linear-regression-887-nl
+extype: schoice
+exsolution: 010
+exsection: Inferential Statistics/Regression/Simple linear regression
+exextra[Type]: Conceptual, Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.41
+exextra[p-value]: 0.0294

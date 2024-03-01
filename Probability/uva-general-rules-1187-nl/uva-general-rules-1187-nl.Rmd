@@ -1,0 +1,35 @@
+Question
+========
+
+Elke ochtend gooit Daan een zuivere dobbelsteen. Als hij een 1 of 2
+gooit dan gaat hij voetballen. Als hij een 3, 4, 5 of 6 gooit dan gaat
+hij hardlopen. Stel dat de toevalsvariabele X is: het aantal dagen dat
+Daan gaat hardlopen. Wat is de kansverdeling dat hij van de komende vijf
+dagen er ten minste drie gaat hardlopen?
+
+Answerlist
+----------
+
+* P(X=3) = 0,3275
+* P(X=4) = 0,3325
+* P(X≥3) = P(X=4)+P(X=5)=0,3325+0,1350
+* P(X ≥3) = P(X=3)+P(X=4)+P(X=5)=0,3275+0,3325+0,1350= 0,7950
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* P(X ≥ 3) = P(X=3)+P(X=4)+P(X=5)=0,3275+0,3325+0,1350= 0,7950
+
+Meta-information
+================
+exname: uva-general-rules-1187-nl
+extype: schoice
+exsolution: 0001
+exsection: Probability/Elementary Probability/General Rules 
+exextra[Type]: Conceptual, Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

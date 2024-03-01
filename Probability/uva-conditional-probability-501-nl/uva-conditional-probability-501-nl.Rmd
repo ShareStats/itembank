@@ -1,0 +1,41 @@
+Question
+========
+
+Hieronder is in een kruistabel van 80 werknemers het geslacht en het
+aantal werkuren per week (afgerond op gehele uren) gegeven.
+
+  ------- ----------- ------------- ------------- -----------
+          \< 18 uur   18 - 32 uur   33 - 36 uur   \> 36 uur
+  man     1           7             14            8
+  vrouw   6           18            21            5
+  ------- ----------- ------------- ------------- -----------
+
+De kans dat een aselect uit deze werknemers getrokken persoon minder dan
+18 uur werkt, *gegeven* dat het een vrouw is, is gelijk aan
+
+Answerlist
+----------
+
+* 0.075
+* 0.12
+* 0.51
+* 0.857
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* 0.12
+
+Meta-information
+================
+exname: uva-conditional-probability-501-nl
+extype: schoice
+exsolution: 0100
+exsection: Probability/Elementary Probability/Conditional probability
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

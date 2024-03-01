@@ -1,31 +1,37 @@
 Question
 ========
 
-Eén onderzoeker heeft de frequenties van de haarkleur in een groep konijnen uit het zuiden en het noorden onderzocht.
+Eén onderzoeker heeft de frequenties van de haarkleur in een groep
+konijnen uit het zuiden en het noorden onderzocht.td\>Noorden
 
+  -------- ------- --------
+  Gebied   Kleur   
+           Licht   Donker
+  471      148     
+  Zuiden   151     230
+  -------- ------- --------
 
-|Gebied|Kleur|
-|-|-|-|
-| |Licht|Donker|
-|Noorden|471|148|
-|Zuiden|151|230|
-
-We definiëren de gebeurtenissen:
-A: De noordelijke konijnen met de lichte kleur,
-B: De zuidelijke konijnen met de donkere kleur
-Wat is dan de relatieve frequentie van de noordelijke konijnen met de lichte kleur?  
+We definiëren de gebeurtenissen:\
+\
+* *A*: De *noordelijke* konijnen met de *lichte* kleur,\
+* *B*: De *zuidelijke* konijnen met de *donkere* kleur\
+\
+Wat is dan de relatieve frequentie van de noordelijke konijnen met de
+lichte kleur?
 
 Solution
 ========
 
-The correct answer is 0.471.
+Het correcte antwoord is: 0.471
 
 Meta-information
 ================
-exname: uva-elementary-probability-1007-nl 
-extype: num 
-exsolution: 0.471 
-exsection: Probability/Elementary Probability 
-exextra[Type]: Calculation 
-exextra[Language]: Dutch 
-exextra[Level]: Statistical Literacy 
+exname: uva-elementary-probability-1007-nl
+extype: num
+exsolution: 0.471
+exsection: Probability/Elementary Probability
+exextra[Type]: Conceptual, Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

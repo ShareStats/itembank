@@ -1,0 +1,49 @@
+Question
+========
+
+Driehonderd patiënten werden behandeld voor slapeloosheid, met één van
+drie methodes A, B of C. Na afloop van de behandeling werd hen naar hun
+oordeel over de behandeling gevraagd. De uitkomsten staan in de volgende
+kruistabel:
+
+  ------------ ----------- ----------- ----------- -----
+               methode A   methode B   methode C    
+  \"goed\"     72          45          60          177
+  \"matig\"    15          34          31          80
+  \"slecht\"   13          21          9           43
+               100         100         100         300
+  ------------ ----------- ----------- ----------- -----
+
+Uit deze 300 personen wordt aselect één persoon getrokken. We definiëren
+de volgende twee gebeurtenissen:\
+A: de persoon werd behandeld met methode A.\
+B: het oordeel van de persoon over zijn methode was: \"goed\".\
+\
+P(B \| A) =
+
+Answerlist
+----------
+
+* 59%
+* 24%
+* 41%
+* 72%
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* 72%
+
+Meta-information
+================
+exname: uva-conditional-probability-627-nl
+extype: schoice
+exsolution: 0001
+exsection: Probability/Elementary Probability/Conditional probability
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

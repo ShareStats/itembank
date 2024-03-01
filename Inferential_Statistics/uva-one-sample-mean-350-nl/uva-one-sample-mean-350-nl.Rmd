@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-one-sample-mean-350-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Hieronder staat SPSS-uitvoer van een steekproef T toets betreffende
+afname in bloeddruk na medicatie. In de uitvoer wordt de hypothese
+getoetst dat de gemiddelde afname in de populatie, μ, gelijk is aan 10.
+Bij een tweezijdig risico van 5% moet de conclusie luiden
+
+![](uva-one-sample-mean-350-nl-graph01.png)
+
+Answerlist
+----------
+
+* T-waarde valt in het kritieke gebied, verwerp H0.
+* T-waarde valt in het kritieke gebied, verwerp H0 niet.
+* T-waarde valt niet in het kritieke gebied, verwerp H0.
+* T-waarde valt niet in het kritieke gebied, verwerp H0 niet.
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* T-waarde valt niet in het kritieke gebied, verwerp H0 niet.
+
+Meta-information
+================
+exname: uva-one-sample-mean-350-nl
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/t-test/One sample mean
+exextra[Type]: Interpreting output
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.87
+exextra[p-value]: 0.1454

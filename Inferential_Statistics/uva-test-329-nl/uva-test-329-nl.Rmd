@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-test-329-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Een onderzoekster is geïnteresseerd in de correlatie tussen twee normaal
+verdeelde variabelen X en Y en trekt daartoe een aselecte steekproef van
+20 personen uit haar doelpopulatie. Hieruit berekent zij de onderstaande
+grootheden. Wanneer we willen toetsen H~0~: ρ~P~ = 0 met een tweezijdig
+risico van 5%, dan zal de kritieke waarde gelijk zijn aan
+
+![](uva-test-329-nl-graph01.png)
+
+Answerlist
+----------
+
+* 0.3789
+* 0.4227
+* 0.4438
+* 0.4451
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* 0.4438
+
+Meta-information
+================
+exname: uva-test-329-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/t-test
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.444
+exextra[p-value]: 0.0258

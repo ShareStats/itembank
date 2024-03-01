@@ -1,0 +1,42 @@
+Question
+========
+
+50 Patiënten worden aselect op één van twee typen matrassen verpleegd,
+en na drie dagen wordt gekeken of ze verschijnselen van decubitus
+(doorliggen) vertonen:
+
+  --------------- ------------------- -------------------------
+  frequentie      wel decubitus (D)   geen decubitus (niet D)
+  matrastype I    8                   12
+  matrastype II   10                  20
+  --------------- ------------------- -------------------------
+
+We willen weten of decubitusvorming (on)afhankelijk is van het gebruikte
+matrastype. Geef aan welke van onderstaande redeneringen juist is.
+
+Answerlist
+----------
+
+* Afhankelijk, want P(D ∩ I) ≠ 0
+* Afhankelijk, want P(D | I) ≠ P(D)
+* Onafhankelijk, want P(D | I) = P(I)
+* Onafhankelijk, want P(D ∪ I) = P(D) + P(I) - P(D ∩ I)
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* Afhankelijk, want P(D | I) ≠ P(D)
+
+Meta-information
+================
+exname: uva-independent-events-406-nl
+extype: schoice
+exsolution: 0100
+exsection: Probability/Elementary Probability/General Rules/Independent events
+exextra[Type]: Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.001
+exextra[p-value]: 0.3027

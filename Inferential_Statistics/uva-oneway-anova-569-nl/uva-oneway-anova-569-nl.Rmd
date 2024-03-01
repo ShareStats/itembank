@@ -1,0 +1,43 @@
+Question
+========
+
+Hieronder staat een gedeelte van een ANOVA-tabel, behorend bij een
+RCB-ANOVA.
+
+  -------------- ---- ---- ---- ---
+  Variatiebron   df   SS   MS   F
+  Behandeling    4    48         
+  Blok           2    22         
+  Error          8    20         
+  Totaal         14   90         
+  -------------- ---- ---- ---- ---
+
+Wat is de kritieke waarde waarmee de F-waarde vergeleken moet worden bij
+toetsen met 5% risico?
+
+Answerlist
+----------
+
+* 3.41
+* 3.84
+* 4.35
+* 215.7
+
+Solution
+========
+
+Het correcte antwoord is: 
+
+* 3.84
+
+Meta-information
+================
+exname: uva-oneway-anova-569-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.307
+exextra[p-value]: 0.0691
