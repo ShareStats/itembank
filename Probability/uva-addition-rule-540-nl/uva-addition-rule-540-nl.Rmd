@@ -23,9 +23,13 @@ Answerlist
 Solution
 ========
 
-Het correcte antwoord is: 
+Answerlist
+----------
 
-* onafhankelijk, want P(A=2 ∩ B=1) = P(A=2)   P(B=1)
+* afhankelijk, want P(A=2 ∪ B=1) ≠ P(A=2) + P(B=1): Incorrect
+* afhankelijk, want P(A=2 | B=1)   P (B=1 | A=2): Incorrect
+* onafhankelijk, want P(A=2 ∩ B=1) = P(A=2)   P(B=1): Correct
+* onafhankelijk, want P(A=2 ∪ B=1) = P(A=2) + P(B=1) - P(A=2 ∩ B=1): Incorrect
 
 Meta-information
 ================

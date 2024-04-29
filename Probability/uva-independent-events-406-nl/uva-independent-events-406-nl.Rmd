@@ -25,9 +25,13 @@ Answerlist
 Solution
 ========
 
-Het correcte antwoord is: 
+Answerlist
+----------
 
-* Afhankelijk, want P(D | I) ≠ P(D)
+* Afhankelijk, want P(D ∩ I) ≠ 0: Incorrect
+* Afhankelijk, want P(D | I) ≠ P(D): Correct
+* Onafhankelijk, want P(D | I) = P(I): Incorrect
+* Onafhankelijk, want P(D ∪ I) = P(D) + P(I) - P(D ∩ I): Incorrect
 
 Meta-information
 ================

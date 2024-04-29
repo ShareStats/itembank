@@ -17,9 +17,13 @@ Answerlist
 Solution
 ========
 
-Het correcte antwoord is: 
+Answerlist
+----------
 
-* P > 0.10
+* P < 0.01: Incorrect
+* 0.01 < P < 0.05: Incorrect
+* 0.05 < P < 0.10: Incorrect
+* P > 0.10: Correct
 
 Meta-information
 ================

@@ -16,9 +16,13 @@ Answerlist
 Solution
 ========
 
-Het correcte antwoord is: 
+Answerlist
+----------
 
-* Nee, want P(A ∩ B) ≠ P(A) x P(B)
+* Ja, want P(A ∪ B)= P(A) + P(B) - P(A ∩ B): Incorrect
+* Ja, want P(B | A) = P(B): Incorrect
+* Nee, want P(A ∩ B) ≠ P(A) x P(B): Correct
+* Nee, want P(A ∪ B) ≠ P(A) + P(B): Incorrect
 
 Meta-information
 ================

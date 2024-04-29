@@ -26,9 +26,13 @@ Answerlist
 Solution
 ========
 
-Het correcte antwoord is: 
+Answerlist
+----------
 
-* A en B zijn afhankelijk want P(A) ≠ P(A | B)
+* A en B zijn afhankelijk want P(A ∩ B) ≠ P(B | A): Incorrect
+* A en B zijn afhankelijk want P(A) ≠ P(B | A): Incorrect
+* A en B zijn afhankelijk want P(A) ≠ P(A | B): Correct
+* A en B zijn afhankelijk want P(A∪B) ≠ P(A) x P(B): Incorrect
 
 Meta-information
 ================

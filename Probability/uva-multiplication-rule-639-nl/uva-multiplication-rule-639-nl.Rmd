@@ -14,9 +14,13 @@ Answerlist
 Solution
 ========
 
-Het correcte antwoord is: 
+Answerlist
+----------
 
-* P (A ∩ B) = P (A)   P (B)
+* P (A ∪ B) = P (A) + P (B): Incorrect
+* P (A ∪ B) = P (A) + P (B) - P (A ∩ B): Incorrect
+* P (A ∩ B) = P (A)   P (B): Correct
+* P (A | B) = P (B | A): Incorrect
 
 Meta-information
 ================

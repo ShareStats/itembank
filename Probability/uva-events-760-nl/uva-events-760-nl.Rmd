@@ -21,9 +21,13 @@ Answerlist
 Solution
 ========
 
-Het correcte antwoord is: 
+Answerlist
+----------
 
-* $A \cap B = \varnothing, A \cap C = \varnothing, C \cap B = \varnothing, C \cap D = \varnothing$
+* $A \cap B = \varnothing, A \cap C = \varnothing, C \cap B = \varnothing, C \cap D = \varnothing$: Correct
+* $A \cap D = \varnothing, A \cap C = \varnothing, C \cap B = \varnothing, C \cap D = \varnothing$: Incorrect
+* $A \cap B = \varnothing, A \cap C = \varnothing, B \cap D = \varnothing, C \cap B = \varnothing$: Incorrect
+* $A \cap B = \varnothing, A \cap D = \varnothing, C \cap B = \varnothing, C \cap D = \varnothing$: Incorrect
 
 Meta-information
 ================

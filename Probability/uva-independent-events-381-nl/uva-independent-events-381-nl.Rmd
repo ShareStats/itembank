@@ -15,9 +15,13 @@ Answerlist
 Solution
 ========
 
-Het correcte antwoord is: 
+Answerlist
+----------
 
-* Ja, want P(A) x P(B) = P(A ∩ B).
+* Ja, want P(A) = P(B | A).: Incorrect
+* Ja, want P(A) x P(B) = P(A ∩ B).: Correct
+* Nee, want P(A) ≠ P(A | B).: Incorrect
+* Nee, want P(A ∩ B) ≤ P(A).: Incorrect
 
 Meta-information
 ================
