@@ -6,17 +6,21 @@ Twee gebeurtenissen A en B zijn onafhankelijk als geldt:
 Answerlist
 ----------
 
-* P(A ∩ B) = 0
-* P(A ∩ B) = P(A) x P(B)
-* P(A ∪ B) = P(A) + P(B)
-* P(A ∪ B) = P(A) + P(B) - P(A ∩ B)
+P(A ∩ B) = 0
+P(A ∩ B) = P(A) x P(B)
+P(A ∪ B) = P(A) + P(B)
+P(A ∪ B) = P(A) + P(B) - P(A ∩ B)
 
 Solution
 ========
 
-Het correcte antwoord is: 
+Answerlist
+----------
 
-* P(A ∩ B) = P(A) x P(B)
+P(A ∩ B) = 0: Incorrect
+P(A ∩ B) = P(A) x P(B): Correct
+P(A ∪ B) = P(A) + P(B): Incorrect
+P(A ∪ B) = P(A) + P(B) - P(A ∩ B): Incorrect
 
 Meta-information
 ================

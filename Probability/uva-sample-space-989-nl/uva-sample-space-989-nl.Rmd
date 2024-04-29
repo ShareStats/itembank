@@ -8,17 +8,21 @@ meisje.
 Answerlist
 ----------
 
-* S = {JJ, MJ, JM}
-* S = {JJ, MM, JJ, MJ}
-* S = {MM, JJ, MJ, JM}
-* S = {JJ, MM, MJ, MJ, JM}
+S = {JJ, MJ, JM}
+S = {JJ, MM, JJ, MJ}
+S = {MM, JJ, MJ, JM}
+S = {JJ, MM, MJ, MJ, JM}
 
 Solution
 ========
 
-Het correcte antwoord is: 
+Answerlist
+----------
 
-* S = {MM, JJ, MJ, JM}
+S = {JJ, MJ, JM}: Incorrect
+S = {JJ, MM, JJ, MJ}: Incorrect
+S = {MM, JJ, MJ, JM}: Correct
+S = {JJ, MM, MJ, MJ, JM}: Incorrect
 
 Meta-information
 ================
