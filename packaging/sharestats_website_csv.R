@@ -20,7 +20,7 @@ extractMeta <- function(file, convert2table = FALSE) {
 }
 
 ## All in one table
-all.item.paths <- list.files(pattern = ".Rmd", ignore.case = TRUE, recursive = TRUE)
+all.item.paths <- list.files(pattern = ".rmd", ignore.case = TRUE, recursive = TRUE)
 n <- length(all.item.paths)
 
 folders <- gsub('/[^/]+$','', all.item.paths)
@@ -36,6 +36,7 @@ for(i in 1:n){
     lineQ <- grep("Question", x)
     lineS <- grep("Solution", x)
     lineAS <- grep("Answerlist", x)
+    lnMeta <-  grep("Meta", x) # added May 2024
     #lineAS[1]
     if(length(lineS)) {
       lineTo <- lineS
@@ -80,13 +81,28 @@ for(i in 1:n){
 }
 metadf <- bind_rows(metadf)
 
+
+# Added May 2024 - Tasos --------------------------------------------------
+metadf$extype <- sub("\\s+$", "", metadf$extype) # remove " " after "num" and "schoice"
+# unique(metadf$extype) #check
+
+# Clean the language field
+metadf$`exextra[Language]`[grepl("ngl", metadf$`exextra[Language]`)] <- "English"
+metadf$`exextra[Language]`[grepl('du',metadf$`exextra[Language]`) | grepl('Du',metadf$`exextra[Language]`)]<- 'Dutch'
+
+metadf$`exextra[Language]`[!grepl('Dutch',metadf$`exextra[Language]`) & !grepl('English',metadf$`exextra[Language]`)]<- NA
+unique(metadf$`exextra[Language]`)
+# -------------------------------------------------------------------------
+
 metadf <- metadf %>% dplyr::select(exname,
+                                   extype,
                                    exsection,
                                    `exextra[Type]`,
                                    `exextra[Program]`,
                                    `exextra[Language]`,
                                    `exextra[Level]`) %>%
   rename('Name' = exname,
+         'Item Type' = extype,
          'Section' = exsection,
          'Type' = `exextra[Type]`,
          'Program' = `exextra[Program]`,
@@ -106,13 +122,14 @@ url_name_quest_df <- url_name_quest_df %>%
 
 # Merge tables ------------------------------------------------------------
 # check if common key is identical
-#identical(metadf$Name_KEY, url_name_quest_df$Name_KEY) #no
+identical(metadf$Name_KEY, url_name_quest_df$Name_KEY) #no
 # Check differences!
 #setdiff(url_name_quest_df$Name_KEY, metadf$Name_KEY)
 #setdiff(metadf$Name_KEY, url_name_quest_df$Name_KEY)
 # continue anyway (This should be fixed! upd: 23/2/2024)
 
-fulldf <- right_join(url_name_quest_df, metadf, by = 'Name_KEY')
+fulldf <- url_name_quest_df %>% 
+  right_join(metadf, by = 'Name_KEY')
 
 fulldf <- fulldf %>% 
   dplyr::select(-Name, -Name_KEY)
