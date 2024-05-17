@@ -66,6 +66,7 @@ jobs:
       - run: make fingerprint_file
       - run: make checksums
       - run: make website
+      - run: cp $PACKAGES_FOLDER/log $HTML_FOLDER/. -ra # copy log file to html folder
       - run: make sharestats_website_csv
 
       - name: commit results

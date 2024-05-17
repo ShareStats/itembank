@@ -28,6 +28,7 @@ log_path <- file.path("packages", "log")
 dir.create(log_path, showWarnings = FALSE)
 
 error_fl <- file.path(log_path, paste0("log-", time, "-errors.txt"))
+last_errors <- file.path(log_path, paste0("last-errors.txt"))
 warn_fl <- file.path(log_path, paste0("log-", time, "-warnings.txt"))
 norm_fl <- file.path(log_path, paste0("log-", time, ".txt"))
 cat(paste0("[R ERROR LOG: ", date(), "]"), file = error_fl,
@@ -59,3 +60,4 @@ for (i in 1:nrow(tbl)) {
     }
   )
 }
+file.copy(error_fl, last_errors)
