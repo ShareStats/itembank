@@ -47,6 +47,7 @@ def errorlog2html(error_log, html_file_path):
     # error dict
     err_d = {}
     for line in lines[1:]:
+        print(line)
         tmp = line.split('] ')
         err = tmp[1].strip()
         err_tag = tmp[0].split(",", maxsplit=1)
