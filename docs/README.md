@@ -2,11 +2,14 @@
 
 This repository contains all the [ShareStats](https://www.sharestats.nl) items.
 
-[Simple preview](https://sharestats.github.io/itembank/items.html) of all items
+### Items
 
-[Error log file](https://sharestats.github.io/itembank/last-errors.html)
+* [Summary & Preview](https://sharestats.github.io/itembank/items.html)
 
-[Warnings log file](https://sharestats.github.io/itembank/last-warnings.html)
+### Log files
+
+* [Error log file](https://sharestats.github.io/itembank/last-errors.html)
+* [Warnings log file](https://sharestats.github.io/itembank/last-warnings.html)
 
 ---
 
