@@ -43,9 +43,24 @@ def errorlog2html(error_log, html_file_path):
 
     with open(error_log, 'r', encoding="utf-8") as csv_file:
         lines = csv_file.readlines()
-
-    html_content = f'<h2>{lines[0]}</h2> \n<table border="0">\n'
-
+    html_content = """<style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 0.1px dotted black;
+            padding: 1px;
+            text-align: left;
+        }
+        tr:nth-child(even) {
+            background-color: #e2e2e2;
+        }
+    </style>
+    <body>
+    """
+    html_content += f'<h1>{html_file_path}</h1>\n'
+    html_content += f'<h2>{lines[0]}</h2> \n<table border="0">\n'
     # error dict
     err_d = {}
     for line in lines[1:]:
@@ -79,7 +94,8 @@ def errorlog2html(error_log, html_file_path):
 
         html_content += '</table>\n\n'
 
-    # Step 3: Save the HTML table to a file
+    html_content += "\n</body>\n"
+
     with open(html_file_path, 'w', encoding="utf-8") as html_file:
         html_file.write(html_content)
 
