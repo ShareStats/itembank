@@ -36,7 +36,7 @@ website:
 		-T "Packages ($(shell date))" > items.html ; \
 	cd .. ; \
 	python -c 'import packaging as p; p.format_website("docs/items.html")'; \
-	python -c 'import packaging as p; p.errorlog2html("docs/last-errors.txt", "docs/last-errors.html")' \
+	python -c 'import packaging as p; p.errorlog2html("docs/log/last-errors.txt", "docs/last-errors.html")' \
 
 
 sharestats_website_csv:

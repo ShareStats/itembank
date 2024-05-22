@@ -44,20 +44,34 @@ def errorlog2html(error_log, html_file_path):
 
     html_content = f'<h2>{lines[0]}</h2> \n<table border="0">\n'
 
-    # Adding the data rows
-    cnt  = 0
+    # error dict
+    err_d = {}
     for line in lines[1:]:
-        cells = line.split('] ')
-        bcell = cells[0].split(",")
-        item = bcell[0][1:]
-        type_ = bcell[1]
-        err = cells[1].strip()
-        cnt  += 1
-        html_content += '  <tr>\n'
-        html_content += f'    <td>{cnt}</td><td>{type_}</td><td><b>{item}</b></td><td><i>{err}</i></td>\n'
-        html_content += '  </tr>\n'
+        tmp = line.split('] ')
+        err = tmp[1].strip()
+        err_tag = tmp[0].split(",", maxsplit=1)
+        item = err_tag[0][1:]
+        uni  = item.split("-")[0]
+        try:
+            type_ = err_tag[1]
+        except IndexError:
+            type_ = "??"
+        if uni not in err_d:
+            err_d[uni] = []
 
-    html_content += '</table>'
+        err_d[uni].append((type_, item, err))
+
+    for uni, dat in err_d.items():
+        cnt  = 0
+        html_content += f'<h3>{uni.upper()}</h3> \n<table border="0">\n'
+        for x in dat:
+            type_, item, err = x
+            cnt  += 1
+            html_content += '  <tr>\n'
+            html_content += f'    <td>{cnt}</td><td>{type_}</td><td><b>{item}</b></td><td><i>{err}</i></td>\n'
+            html_content += '  </tr>\n'
+
+        html_content += '</table>\n\n'
 
     # Step 3: Save the HTML table to a file
     with open(html_file_path, 'w', encoding="utf-8") as html_file:
