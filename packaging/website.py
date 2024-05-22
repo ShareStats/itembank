@@ -37,6 +37,33 @@ def _add_counter(content:List[str])-> List[str]:
             list_written = True
     return rtn
 
+def errorlog2html(error_log, html_file_path):
+
+    with open(error_log, 'r', encoding="utf-8") as csv_file:
+        lines = csv_file.readlines()
+
+    html_content = f'<h2>{lines[0]}</h2> \n<table border="0">\n'
+
+    # Adding the data rows
+    cnt  = 0
+    for line in lines[1:]:
+        cells = line.split('] ')
+        bcell = cells[0].split(",")
+        item = bcell[0][1:]
+        type_ = bcell[1]
+        err = cells[1].strip()
+        cnt  += 1
+        html_content += '  <tr>\n'
+        html_content += f'    <td>{cnt}</td><td>{type_}</td><td><b>{item}</b></td><td><i>{err}</i></td>\n'
+        html_content += '  </tr>\n'
+
+    html_content += '</table>'
+
+    # Step 3: Save the HTML table to a file
+    with open(html_file_path, 'w', encoding="utf-8") as html_file:
+        html_file.write(html_content)
+
+
 def _dirs(path_str:str) -> List[str]:
     return [d for d in listdir(path_str)
             if path.isdir(path.join(path_str, d))]
