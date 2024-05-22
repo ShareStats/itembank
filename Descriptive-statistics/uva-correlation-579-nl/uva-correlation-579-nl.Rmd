@@ -1,13 +1,13 @@
-```{r, echo = FALSE, results = "hide"}
-include_supplement("uva-correlation-579-nl-graph01.png", recursive = TRUE)
-```
-
 Question
 ========
 
 Bereken de Pearson correlatiecoefficient, als gegeven is
 
-![](uva-correlation-579-nl-graph01.png)
+* Gemiddelde van X: 0.5
+* Gemiddelde van Y: 0.5
+* Standaarddeviatie van X: 0.2
+* Standaarddeviatie van Y: 0.25
+* Covariantie tussen X en Y: 0.039
 
 Answerlist
 ----------
@@ -19,6 +19,16 @@ Answerlist
 
 Solution
 ========
+
+Om de Pearson correlatiecoëfficiënt te berekenen, hebben we niet alleen de gemiddelden en standaarddeviaties van de twee variabelen nodig, maar ook de covariantie tussen de variabelen. Hier is de formule die we zullen gebruiken:
+
+$r = \frac{\text{cov}(X, Y)}{\sigma_X \sigma_Y}$
+
+waarbij:
+- $r$ de Pearson correlatiecoëfficiënt is.
+- $\text{cov}(X, Y)$ de covariantie tussen $X$ en $Y$ is.
+- $\sigma_X$ de standaarddeviatie van $X$ is.
+- $\sigma_Y$ de standaarddeviatie van $Y$ is.
 
 Answerlist
 ----------
@@ -37,5 +47,3 @@ exsection: Descriptive statistics/Summary Statistics/Bivariate statistics/Correl
 exextra[Type]: Calculation
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy
-exextra[IRT-Difficulty]: 3.238
-exextra[p-value]: 0.2506
