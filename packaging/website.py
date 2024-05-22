@@ -39,6 +39,8 @@ def _add_counter(content:List[str])-> List[str]:
 
 def errorlog2html(error_log, html_file_path):
 
+    print(f"errorlog2html: {error_log} -> {html_file_path}")
+
     with open(error_log, 'r', encoding="utf-8") as csv_file:
         lines = csv_file.readlines()
 
@@ -47,9 +49,12 @@ def errorlog2html(error_log, html_file_path):
     # error dict
     err_d = {}
     for line in lines[1:]:
-        print(line)
-        tmp = line.split('] ')
-        err = tmp[1].strip()
+        tmp = line.split(']')
+        try:
+            err = tmp[1].strip()
+        except IndexError:
+            print(f"   can't parse {line}")
+            continue
         err_tag = tmp[0].split(",", maxsplit=1)
         item = err_tag[0][1:]
         uni  = item.split("-")[0]

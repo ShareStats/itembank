@@ -61,5 +61,5 @@ for (i in 1:nrow(tbl)) {
     }
   )
 }
-file.copy(error_fl, last_errors)
-file.copy(warn_fl, last_warnings)
+file.copy(error_fl, last_errors, overwrite = TRUE)
+file.copy(warn_fl, last_warnings, overwrite = TRUE)
