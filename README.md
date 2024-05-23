@@ -2,7 +2,7 @@
 
 This repository contains all the [ShareStats](https://www.sharestats.nl) items.
 
-[Simple preview](https://sharestats.github.io/itembank/items.html) of all items
+[Simple preview](https://sharestats.github.io/itembank) of all items
 
 ---
 
