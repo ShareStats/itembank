@@ -1,10 +1,11 @@
 import csv
 import json
-from pathlib import Path
 from datetime import datetime
+from pathlib import Path
+from zoneinfo import ZoneInfo
 
-from .item import Item
 from .common import item_list, subfolder
+from .item import Item
 
 BASEFOLDER = "."
 PACK_FOLDER = "packages/"
@@ -12,7 +13,6 @@ HTML_FOLDER = "docs/"
 EXCLUDE_FOLDER = ("scripts", "packaging", "packages", "build", "docs")
 EXCLUDE_FILES = ("-qti.zip", "-tv.zip", ".html")
 FILE_TBL = "files.tsv"
-
 
 def file_table(formats, only_changed=True):
     """Make table with source and destination files that changed to prepare
@@ -94,12 +94,12 @@ def save_fingerprints(filename="fingerprints.json"):
 
 def tarballs():
     pkg_folder = Path(PACK_FOLDER)
-
+    tz = ZoneInfo('Europe/Amsterdam')
     log_folder = pkg_folder.joinpath("log")
     log_folder.mkdir(parents=True, exist_ok=True)
-    date_str = datetime.now().strftime("%y%m%d")
+    date_str = datetime.now(tz).strftime("%y%m%d")
     log_file = open(log_folder.joinpath("log-" + date_str + ".txt"), "a", encoding="utf-8")
-    log_file.write(f"[PY LOG: {str(datetime.now())}]\n")
+    log_file.write(f"[PY LOG: {str(datetime.now(tz))}]\n")
 
     with open(PACK_FOLDER + FILE_TBL, "r", encoding="utf-8") as fl:
         csv_reader = csv.reader(fl, delimiter='\t')

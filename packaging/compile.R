@@ -2,6 +2,8 @@
 #install.packages("exams", repos = "http://R-Forge.R-project.org", dependencies = TRUE, type = "source")
 library(exams)
 
+Sys.setenv(TZ = "Europe/Amsterdam")
+
 compile_rmd <- function(fmt, file, name, dir) {
   edir = dirname(file)
   feedback = paste0("[", fmt, "] ", name, ": ", file)
