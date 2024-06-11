@@ -12,28 +12,31 @@ You find the following results:
 
 ![](uu-hypothesis-803-en-tabel.jpg)
 
-SPSS also indicates that the variance of the distribution of differences between means ($S^2_{Difference}$) equals 9. 
-
-What is the answer to the research question? 
+What is the correct set of hypotheses for this research question? 
 
   
 Answerlist
 ----------
-
+* $H_0: \mu_D = 0$ vs. $H_1: \mu_D > 0$
+* $H_0: \mu_M - \mu_F = 0$ vs. $H_1: \mu_M - \mu_F > 0$
+* $H_0: \mu_D = 0$ vs. $H_1: \mu_D \neq 0$
+* $H_0: \mu_M - \mu_F = 0$ vs. $H_1: \mu_M - \mu_F < 0$
 
 Solution
 ========
 
 Answerlist
 ----------
-
-
+* This research question is not about a matched pairs design.
+* Correct.
+* This research question is not about a matched pairs design.
+* This research question is not asking to see if female students have more Facebook friends than male students.
 
 Meta-information
 ================
 exname: uu-Hypothesis-803-en
 extype: schoice
-exsolution: 
+exsolution: 0100
 exsection: Inferential Statistics/NHST/Hypothesis
 exextra[Type]: Case
 exextra[Language]: English
