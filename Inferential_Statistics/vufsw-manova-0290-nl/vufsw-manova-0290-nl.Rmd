@@ -1,12 +1,12 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("Capture2.gif")
-include_supplement("Capture3.gif")
-include_supplement("Capture4.gif")
-include_supplement("Capture5.gif")
-include_supplement("Capture2.gif")
-include_supplement("Capture3.gif")
-include_supplement("Capture4.gif")
-include_supplement("Capture5.gif")
+include_supplement("Capture2.gif", recursive = TRUE)
+include_supplement("Capture3.gif", recursive = TRUE)
+include_supplement("Capture4.gif", recursive = TRUE)
+include_supplement("Capture5.gif", recursive = TRUE)
+include_supplement("Capture2.gif", recursive = TRUE)
+include_supplement("Capture3.gif", recursive = TRUE)
+include_supplement("Capture4.gif", recursive = TRUE)
+include_supplement("Capture5.gif", recursive = TRUE)
 ```
 
 Question
