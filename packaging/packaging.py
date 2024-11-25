@@ -14,6 +14,9 @@ EXCLUDE_FOLDER = ("scripts", "packaging", "packages", "build", "docs")
 EXCLUDE_FILES = ("-qti.zip", "-tv.zip", ".html")
 FILE_TBL = "files.tsv"
 
+def all_items():
+    return item_list(subfolder(BASEFOLDER, EXCLUDE_FOLDER))
+
 def file_table(formats, only_changed=True):
     """Make table with source and destination files that changed to prepare
     compilation. If only_changed=False, returns all files.
@@ -24,8 +27,6 @@ def file_table(formats, only_changed=True):
 
     if not isinstance(formats, (list, tuple)):
         formats = (formats, )
-
-    all_items = item_list(subfolder(BASEFOLDER, EXCLUDE_FOLDER))
 
     html_folder = Path(HTML_FOLDER)
     html_folder.mkdir(parents=True, exist_ok=True)
@@ -45,7 +46,7 @@ def file_table(formats, only_changed=True):
     fl = open(pkg_folder.joinpath(FILE_TBL), "w", encoding="utf-8")
     fl.write('"format"\t"file"\t"name"\t"dir"\n')
     for frmt in formats:
-        for item in all_items:
+        for item in all_items():
             if frmt in ("qti", "tv"):
                 pack_name = item.name + "-" + frmt
                 fld = pkg_folder.joinpath(frmt, item.path.parent)
