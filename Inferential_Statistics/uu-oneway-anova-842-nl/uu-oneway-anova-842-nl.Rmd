@@ -1,0 +1,38 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-oneway-anova-842-nl-tabel.jpg", recursive = TRUE)
+```
+
+
+
+Question
+========
+Uit een onderzoek is het resultaat in onderstaande ANOVA-tabel gepresenteerd
+
+![](uu-oneway-anova-842-nl-tabel.jpg)
+
+Hieruit blijkt dat:
+
+Answerlist
+----------
+* Het gevonden resultaat is niet significant bij $\alpha = .05$ want $F_{obt} < F_{crit}$.
+* Het gevonden resultaat is niet significant bij $\alpha = .05$ want $F_{obt} > F_{crit}$.
+* Het gevonden resultaat is significant bij $\alpha = .05$ want $F_{obt} < F_{crit}$.
+* Het gevonden resultaat is significant bij $\alpha = .05$ want $F_{obt} > F_{crit}$.
+
+
+Solution
+========
+
+$MS_B = \frac{48}{2}=24$ en $MS_W = \frac{200}{20}=10$ zodat $F=\frac{24}{10} = 2.4$. 
+$F_{crit} = 3.49$ 
+
+
+Meta-information
+================
+exname: uu-oneway-anova-842-nl
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Interpretating output
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
