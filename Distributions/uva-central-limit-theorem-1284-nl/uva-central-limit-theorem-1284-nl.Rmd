@@ -11,10 +11,8 @@ Answerlist
 ----------
 
 * P(z = -1,55)
-* P(z
-* 1- P(z
-* 1- P(z
-* 1- P(z
+* P(z < -1,55)
+* 1 - P(z < -1,55)
 
 Solution
 ========
@@ -23,16 +21,14 @@ Answerlist
 ----------
 
 * P(z = -1,55): Incorrect
-* P(z: Incorrect
-* 1- P(z: Correct
-* 1- P(z: Correct
-* 1- P(z: Correct
+* P(z < -1,55) Incorrect
+* 1 - P(z < -1,55) Correct
 
 Meta-information
 ================
 exname: uva-central-limit-theorem-1284-nl
 extype: schoice
-exsolution: 00100
+exsolution: 001
 exsection: Distributions/Limit Theorems/Central Limit Theorem
 exextra[Type]: Conceptual
 exextra[Language]: Dutch
