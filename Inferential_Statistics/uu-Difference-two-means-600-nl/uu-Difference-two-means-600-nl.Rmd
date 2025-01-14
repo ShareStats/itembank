@@ -1,0 +1,28 @@
+Question
+========
+  
+Als voor twee onafhankelijke steekproeven van elk 5 personen de gepoolde variantie gelijk is aan 20, wat is dan de waarde van de standaardfout van het verschil tussen twee steekproefgemiddelden?
+  
+Answerlist
+----------
+* 2
+* $\sqrt{5}$
+* $\sqrt{8}$
+* $\sqrt{10}$
+
+Solution
+========
+$SE=\sqrt{\frac{s_p^2}{n_1}+\frac{s_p^2}{n_2}}=\sqrt{\frac{20}{5}+\frac{20}{5}}=\sqrt{8}$
+$SE
+
+
+Meta-information
+================
+exname: uu-Difference-two-means-600-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Sampling Distributions/Difference two means
+exextra[Type]: Calculation
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

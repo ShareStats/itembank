@@ -1,5 +1,5 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("uu-Cronbachs-alpha-016-nl-tabel.jpg", recursive = TRUE)
+include_supplement("uu-Cronbach's-alpha-016-nl-tabel.jpg", recursive = TRUE)
 ```
 
 
@@ -7,16 +7,16 @@ include_supplement("uu-Cronbachs-alpha-016-nl-tabel.jpg", recursive = TRUE)
 Question
 ========
   
-In het Loopbaanproject Schilders zijn voor een (pilot-)onderzoek naar de mobiliteitswensen van schilders 20 items afgenomen bij een aselecte steekproef uit de doelpopulatie (n = 86). In de onderstaande tabel staan de item-restcorrelaties (rir) van de 20 items.
+In het Loopbaanproject Schilders zijn voor een (pilot-)onderzoek naar de mobiliteitswensen van schilders 20 items afgenomen bij een aselecte steekproef uit de doelpopulatie ($n = 86$). In de onderstaande tabel staan de item-restcorrelaties ($r_{ir}$) van de 20 items.
 
+
+![](uu-Cronbach's-alpha-016-nl-tabel.jpg)
 Beoordeel de volgende twee uitspraken:
 
-I.	Door het ompolen (spiegelen) van ITEM13, zal de Cronbachs alfa vrijwel zeker lager uitvallen.
-II.	Door het verwijderen ITEM15, zal Cronbachs alfa vrijwel zeker lager uitvallen.
+I.	Door het ompolen van ITEM13, zal de Cronbachs alfa vrijwel zeker lager uitvallen.
+II.	Door het verwijderen van ITEM15, zal Cronbachs alfa vrijwel zeker lager uitvallen.
 
 
-![](uu-Cronbachs-alpha-016-nl-tabel.jpg)
-  
 Answerlist
 ----------
 * Uitspraak I en II zijn beide juist.
@@ -28,19 +28,23 @@ Answerlist
 Solution
 ========
   
-Uitleg: 
-Stelling 1: Item13 vertoont een vrij hoge negatieve item-restcorrelatie. Wanneer dit item opgepoold zou worden, zou dit tot gevolg hebben dat de item-restcorrelatie positief wordt. Dit komt de betrouwbaarheid (Cronbach’s alfa) van de schaal ten goede, immers moeten de items gelijk gepoold zijn om de Cronbach’s alfa te meten. De Cronbach’s alfa zal dus stijgen.
 
-Stelling 2: Item15 toont een zeer lage item-restcorrelatie, de laagste van alle items. Door dit item te verwijderen zal een item verwijderd worden dat zeer weinig samenhangt met de overige items. De interne consistentie van de schaal zal toenemen wanneer Item15 verwijderd wordt, dus Cronbach’s alfa zal waarschijnlijk juist toenemen.
+Stelling I: Item13 vertoont een vrij hoge negatieve item-restcorrelatie. Wanneer dit item opgepoold zou worden, zou dit tot gevolg hebben dat de item-restcorrelatie positief wordt. Dit komt de betrouwbaarheid (Cronbach’s alfa) van de schaal ten goede, immers moeten de items gelijk gepoold zijn om de Cronbach’s alfa te meten. De Cronbach’s alfa zal dus stijgen.
+
+Stelling II: Item15 toont een zeer lage item-restcorrelatie, de laagste van alle items. Door dit item te verwijderen zal een item verwijderd worden dat zeer weinig samenhangt met de overige items. De interne consistentie van de schaal zal toenemen wanneer Item15 verwijderd wordt, dus Cronbach’s alfa zal waarschijnlijk juist toenemen.
+
+
+Answerlist
+----------
 
 
 Meta-information
 ================
-exname: uu-Cronbach's-alpha-016-nl.Rmd
+exname: uu-Cronbach's-alpha-016-nl
 extype: schoice
 exsolution: 0001
 exsection: Reliability/Analysis/Cronbach's alpha
-exextra[Type]: Interpreting output
+exextra[Type]: Interpretating output
 exextra[Program]: SPSS
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy

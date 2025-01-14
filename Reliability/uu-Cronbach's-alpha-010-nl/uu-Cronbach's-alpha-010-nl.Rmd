@@ -1,5 +1,5 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("uu-Cronbachs-alpha-010-nl-tabel.jpg", recursive = TRUE)
+include_supplement("uu-Cronbach's-alpha-010-nl-tabel.jpg", recursive = TRUE)
 ```
 
 
@@ -7,10 +7,12 @@ include_supplement("uu-Cronbachs-alpha-010-nl-tabel.jpg", recursive = TRUE)
 Question
 ========
   
-Max heeft een vragenlijst van tien vragen aan een steekproef van 100 mensen gegeven. Hij denkt het construct “eenzaamheid” te meten. Hij voert een betrouwbaarheidsanalyse uit. Deel van de SPSS output staat hieronder.
+Daan heeft een vragenlijst van tien vragen aan een steekproef van 100 mensen gegeven. Hij denkt het construct “eenzaamheid” te meten. Hij voert een betrouwbaarheidsanalyse uit. Deel van de SPSS output staat hieronder.
 
-![](uu-Cronbachs-alpha-010-nl-tabel.jpg)
-  
+![](uu-Cronbach's-alpha-010-nl-tabel.jpg)
+Welk item komt als eerste in aanmerking voor verwijdering?
+
+
 Answerlist
 ----------
 * Item 5
@@ -22,14 +24,21 @@ Solution
 ========
   
 
+Answerlist
+----------
+* Goed
+* Bij welk item is de item-total correlation het laagst?
+* Bij welk item is de item-total correlation het laagst?
+* Bij welk item is de item-total correlation het laagst?
+
 
 Meta-information
 ================
-exname: uu-Cronbach's-alpha-010-nl.Rmd
+exname: uu-Cronbach's-alpha-010-nl
 extype: schoice
 exsolution: 1000
 exsection: Reliability/Analysis/Cronbach's alpha
-exextra[Type]: Interpreting output
+exextra[Type]: Interpretating output
 exextra[Program]: SPSS
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy

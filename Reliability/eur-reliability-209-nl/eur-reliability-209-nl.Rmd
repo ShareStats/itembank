@@ -10,7 +10,7 @@ Bekend zijn de item varianties van 12 items die een test voor faalangst vormen. 
 ```{r, echo=FALSE}
 library(knitr)
 library(exams)
-Items <- 1:6
+Items <- 1:12
 Variance <- c(1.50, 2.10, 1.20, 0.80, 1.00, 1.30, 2.10, 2.20, 2.50, 0.90, 1.20, 1.70)
 table <- cbind(Items, Variance)
 kable(table)
@@ -41,17 +41,17 @@ When we product this value with 12, this is 19.9. This means that 8 items have t
 
 Answerlist
 ----------
-* Fout
-* Goed
-* Fout
-* Fout
+* Incorrect
+* Incorrect
+* Correct
+* Incorrect
 
 
 Meta-information
 ================
 exname: eur-reliability-209-nl
 extype: schoice
-exsolution: 0100
+exsolution: 0010
 exsection: Reliability/Analysis/Cronbach's alpha
 exextra[Type]: Calculate
 exextra[Program]: Calculator
