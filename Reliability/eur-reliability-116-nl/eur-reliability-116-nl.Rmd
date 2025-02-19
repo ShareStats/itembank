@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(exams)
+library(knitr)
+```
+Question
+========
+Een psychometricus die werkt bij CITO wil de criteriumvaliditeit van een dyslexietest evalueren. De betrouwbaarheid van de test $R_{xx}$ is al onderzocht en bleek .70 te zijn. De criteriummaat is het oordeel van een schoolpsycholoog, die redelijk betrouwbaar is, maar niet perfect: $R_{yy} = $ .80. De geobserveerde correlatie tussen de test en het criterium bleek .6 te zijn. De psychometricus twijfelt of ze de aangepaste correlatie moet berekenen en welke variabele ze moet aanpassen: de test, het criterium of beide.
+
+Wat zou je de psychometricus adviseren? Motiveer je antwoord.
+
+
+Solution
+========
+Om de criteriumvaliditeit van de dyslexietest te beoordelen, kan de psychometricus de aangepaste correlatie gebruiken en alleen de criteriumvariabele (oordeel) aanpassen, alsof deze perfect betrouwbaar is (aangezien het doel is de mogelijkheid van de test om het criterium te voorspellen te evalueren). De correlatie tussen de voorspeller en het criterium wordt geïnterpreteerd als de criteriumvaliditeit van de CITO-test, maar wordt negatief beïnvloed door de onbetrouwbaarheid van het criterium. Daarom zou men kunnen stellen dat de correlatie wordt aangepast voor de onbetrouwbaarheid van de criteriumvariabele.
+
+Meta-information
+================
+exname: eur-reliability-116-nl
+extype: string
+exsolution: ""
+extol: 
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
