@@ -1,0 +1,20 @@
+Question
+========
+Een bedrijf ontwikkelt een test bestaande uit 20 items die allemaal hetzelfde construct beogen te meten, maar helaas voldoet de betrouwbaarheid van deze test niet aan de kwaliteitsvereisten van het bedrijf. Een manier om de betrouwbaarheid van de test mogelijk te verhogen is door parallelle items toe te voegen. Aangenomen dat deze actie geen onvoorziene negatieve gevolgen heeft (zoals verhoogde vermoeidheid door het invullen van alle items), waarom zou de waarheids-scorevariantie theoretisch meer toenemen dan de onsystematische foutvariantie bij het toevoegen van parallelle items aan een test?
+
+Solution
+========
+De waarheids-scorevariantie neemt meer toe dan de foutvariantie wanneer parallelle items worden toegevoegd, omdat de waarheids-scoreonderdelen van de items gecorreleerd zullen zijn, terwijl de foutvariantieonderdelen dat niet zullen zijn. De totale variantie van een test bestaat uit de variantie van de items (zowel waarheids-score als foutvariantie) evenals de covariantie tussen de items (alleen waarheids-score); aangezien onsystematische fout per definitie niet gecorreleerd mag zijn met iets, kan het ook niet covariëren met iets.
+
+
+Meta-information
+================
+exname: eur-reliability-110-nl
+extype: string
+exsolution: ""
+extol: 
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
