@@ -1,0 +1,30 @@
+
+Question
+========
+Which assumption(s) can you check with a scatterplot (of the X and Y variables)?
+
+Answerlist
+----------
+* Linearity
+* Outliers
+* Homoscedasticity
+* All of the above
+
+
+Solution
+========
+Using a scatter plot, we can assess by eye whether there is a linear relationship between X and Y.
+The assumption of homoscedasticity implies that the dispersion of residuals per X value is equal. When this assumption is violated, the dispersion of residuals is not equal for all scores on the independent variable.
+In a scatter diagram, outliers are visible and can thus be identified.
+
+
+Meta-information
+================
+exname: uu-assumptions-203-en
+extype: schoice
+exsolution: 0001
+exsection: Assumptions
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

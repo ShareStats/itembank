@@ -1,0 +1,43 @@
+Question
+========
+In een eenzijdige *repeated measures* ANOVA moet een onderzoeker onder andere de sfericiteitsaanname testen. Bekijk de volgende stellingen over de sfericiteitsaanname en beantwoord de daaropvolgende vraag. 
+
+1. Deze aanname is niet van toepassing als de within-subjects factor slechts twee niveaus heeft. 
+
+
+2. Als deze aanname ernstig wordt geschonden, kan een onderzoeker een *repeated-measures* multivariate test (MANOVA) gebruiken als alternatief voor de ongecorrigeerde F-test. 
+
+Welke uitspraak is waar?
+
+Answerlist
+----------
+* beide beweringen zijn waar
+* alleen bewering 1 is waar
+* alleen bewering 2 is waar
+* beide beweringen zijn onwaar
+
+
+Solution
+========
+Bewering 1 is waar omdat sfericiteit kijkt of de varianties van de verschilscores verschillen. In het geval van 2 niveaus is er maar één verschilscore, dus deze aanname is niet van toepassing.
+
+Bewering 2 is ook waar omdat je herhaalde maten kunt uitvoeren met een MANOVA, maar de aanname van sfericiteit is niet nodig in deze analyse.
+
+Answerlist
+----------
+* Waar
+* Onwaar
+* Onwaar
+* Onwaar
+
+
+Meta-information
+================
+exname: eur-assumptions-201-nl
+extype: schoice
+exsolution: 1000
+exsection: Assumptions/Sphericity/Mauchly's test, Inferential Statistics/Parametric Techniques/ANOVA/Oneway repeated measures ANOVA
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

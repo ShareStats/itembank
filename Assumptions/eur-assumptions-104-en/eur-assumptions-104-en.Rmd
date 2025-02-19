@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-assumptions-104-nl-data.sav", recursive = TRUE)
+include_supplement("eur-assumptions-104-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+*Testing effect* 
+
+Research has shown that when people have to learn faces of strangers, they can remember them better in the long run when they study the faces first and then test themselves with matching the faces to the corresponding name, than when they study the faces twice. A researcher at the Institute of Psychology wants to know whether this so-called testing effect also reveals itself in the classroom. She divides a group of 60 VWO students into three groups [condition]. The students in group 1 study a list of 30 faces and their names twice in a row (1 = restudy), the students in group 2 study the same faces and their names once and then test themselves (2 = testing). This involves them putting their hand on the list of people's names and figuring out for themselves what the person in the picture is called. Pupils in group 3 study the faces and names only once (3 = study_once). A week after studying, all pupils are given a test where they are shown the 30 faces and have to give the corresponding name. The total number of correctly identified people is shown in the variable score [score]. The researcher further collected a social skill score [social] for each student.
+
+Open the data file.
+
+Do an analysis to determine whether there is a difference between the three conditions [condition] on the number of correctly identified people [score]. Test whether the assumption of homogeneous variance in the three conditions is violated. What is the F-value associated with this assumption test? (3 decimal places)
+
+**Download**: [SPSS file](eur-assumptions-104-en-data.sav), [CSV file](eur-assumptions-104-en-data.csvz)
+
+Solution
+========
+The F value is 0.291. The correct analysis is ANOVA with a so-called ‘homogeneity test’. In SPSS, this is Levene's test.
+
+Meta-information
+================
+exname: eur-assumptions-104-en
+extype: num
+exsolution: 0.291
+extol: 0
+exsection: Assumptions/Homogeneity of variance/Levene's test
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
