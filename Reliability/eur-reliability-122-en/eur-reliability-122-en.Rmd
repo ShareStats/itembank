@@ -1,0 +1,33 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-reliability-122-nl-data.sav", recursive = TRUE)
+include_supplement("eur-reliability-122-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+*Work for psychologists and pedagogues.*
+
+A researcher has been tasked with investigating whether graduated psychologists and pedagogues are able to find a job at their level. To do this, the researcher has designed a questionnaire consisting of 12 Likert items with 5 response options ranging from strongly disagree (1) to strongly agree (5). One example of an item is: "I had to make a lot of effort to find a job vacancy at my level." The responses of 608 pedagogues and psychologists to the twelve items are displayed in the dataset, with the variable [psy_ped] distinguishing pedagogues (1) and psychologists (2). Note: The total score across the 12 items indicates how difficult someone finds it to find a job at their level. The higher the total score, the more difficult they find it to find a job at their level.
+
+Open the dataset.
+
+What is the Spearman-Brown split-half reliability of the questionnaire? (3 decimals)
+
+**Download**: [SPSS file](eur-reliability-122-en-data.sav), [CSV file](eur-reliability-122-en-data.csv)
+
+Solution
+========
+The Spearman-Brown split-half reliability is 0.796.
+
+
+Meta-information
+================
+exname: eur-reliability-122-en
+extype: num
+exsolution: 0.796
+extol: 0
+exsection: Reliability/Analysis/Split half
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Egnlish
+exextra[Level]: Statistical Literacy
