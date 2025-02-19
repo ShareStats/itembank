@@ -1,0 +1,33 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-reliability-123-nl-data.sav", recursive = TRUE)
+include_supplement("eur-reliability-123-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+*Werk voor psychologen en pedagogen.*
+
+A researcher has been tasked with investigating whether graduated psychologists and pedagogues are able to find a job at their level. To do this, the researcher has designed a questionnaire consisting of 12 Likert items with 5 response options ranging from strongly disagree (1) to strongly agree (5). One example of an item is: "I had to make a lot of effort to find a job vacancy at my level." The responses of 608 pedagogues and psychologists to the twelve items are displayed in the dataset, with the variable [psy_ped] distinguishing pedagogues (1) and psychologists (2). Note: The total score across the 12 items indicates how difficult someone finds it to find a job at their level. The higher the total score, the more difficult they find it to find a job at their level.
+
+Open the dataset.
+
+Previous research has shown that psychologists have more difficulties finding a job than pedagogues. For this reason, a researcher wants to calculate the reliability of the questionnaire separately for psychologists and pedagogues (variable [psy_ped]). What is the reliability (Cronbach's Alpha) of the questionnaire for the pedagogues? (3 decimals)
+
+**Download**: [SPSS file](eur-reliability-123-en-data.sav), [CSV file](eur-reliability-123-en-data.csv)
+
+Solution
+========
+The reliability (Cronbach's Alpha) of the scale for the pedagogues is 0.780.
+
+
+Meta-information
+================
+exname: eur-reliability-123-en
+extype: num
+exsolution: 53.189
+extol: 0
+exsection: Reliability/Analysis/Cronbach's alpha, Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
