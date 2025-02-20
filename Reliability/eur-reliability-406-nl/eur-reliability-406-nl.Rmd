@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-reliability-406-nl-data.sav", recursive = TRUE)
+include_supplement("eur-reliability-406-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een onderzoeker werkzaam bij het psychologie-instituut onderzoekt alcoholmisbruik onder adolescenten. De onderzoeker heeft 34 stellingen ontworpen waar de adolescenten het mee eens of oneens kunnen zijn op een vierpuntsschaal (1 = helemaal mee eens; 2 = enigszins mee eens; 3 = enigszins mee oneens; 4 = helemaal mee oneens). Een voorbeeld van een stelling is: Wanneer ik me eenzaam voel, geniet ik van een alcoholisch drankje. De antwoorden van 312 meisjes (0) en jongens (1) op de 34 stellingen zijn opgenomen in de dataset.
+
+Welk item heeft de laagste correlatie met de totaalscore, exclusief het item zelf? (geen decimalen)
+
+Open de dataset hieronder om deze vraag te beantwoorden:
+
+**Download** [SPSS file](eur-reliability-406-nl-data.sav), [CSV file](eur-reliability-406-nl-data.csv)
+
+
+Solution
+========
+Het item met de laagste correlatie met de totaalscore (exclusief het item zelf) is item 29. Vraag bij het uitvoeren van de betrouwbaarheidsanalyse om schaalbeschrijvingen als een item wordt verwijderd en zoek het item met de laagste item-gecorrigeerde totaalcovariantie.
+
+Meta-information
+================
+exname: eur-reliability-406-nl
+extype: num
+exsolution: 29
+extol: 0
+exsection: Reliability/Analysis/Cronbach's alpha, Reliability/Descriptives
+exextra[Type]: Interpreting output, Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
