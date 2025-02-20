@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-reliability-405-en-data.sav", recursive = TRUE)
+include_supplement("eur-reliability-405-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een onderzoeker werkzaam bij het psychologie-instituut onderzoekt alcoholmisbruik onder adolescenten. De onderzoeker heeft 34 stellingen ontworpen waar de adolescenten het mee eens of oneens kunnen zijn op een vierpuntsschaal (1 = helemaal mee eens; 2 = enigszins mee eens; 3 = enigszins mee oneens; 4 = helemaal mee oneens). Een voorbeeld van een stelling is: Wanneer ik me eenzaam voel, geniet ik van een alcoholisch drankje. De antwoorden van 312 meisjes (0) en jongens (1) op de 34 stellingen zijn opgenomen in de dataset.
+
+Voer een betrouwbaarheidsanalyse uit. Wat is de schaalvariantie wanneer alle items zijn opgenomen? (3 decimalen)
+
+Open de dataset hieronder om deze vraag te beantwoorden:
+
+**Download** [SPSS file](eur-reliability-405-en-data.sav), [CSV file](eur-reliability-405-en-data.csv)
+
+
+Solution
+========
+De schaalvariantie wanneer alle items zijn opgenomen is 43.173 (vraag bij het uitvoeren van de betrouwbaarheidsanalyse om schaalbeschrijvingen).
+
+Meta-information
+================
+exname: eur-reliability-405-nl
+extype: num
+exsolution: 43.173
+extol: 0
+exsection: Reliability/Descriptives, Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Interpreting output, Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
