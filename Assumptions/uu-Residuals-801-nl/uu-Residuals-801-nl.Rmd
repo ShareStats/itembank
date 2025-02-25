@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Residuals-801-nl-tabel.jpg", recursive = TRUE)
+```
+
+Question
+========
+Deze vraag bevat een deel van de SPSS-resultaten van een meervoudig regressiemodel van een dataset van het Amerikaanse National Center of Educational Statistics. Deze dataset heet High School Beyond en bevat gegevens over variabelen met betrekking tot de academische prestaties van studenten. Specifiek is de uitkomstvariabele voor het regressiemodel “Math Score" die wordt voorspeld op basis van "Locus of Control", "Self-Concept" en "Reading Score".   
+  
+Geef alleen op basis van de hieronder gegeven informatie informatie over drie verschillende soorten uitschieters. Geef voor elk type uitschieter (1) het type uitschieter; (2) welk deel van de uitvoer of welke grafiek u hebt gebruikt; en (3) of er reden tot bezorgdheid is en waarom.
+
+![](uu-Residuals-801-nl-tabel.jpg)
+  
+Solution
+========
+  
+$x$-ruimte:Mahalanobis-afstand: $17,8>16$ daarom bezorgdheid over uitschieters in $x$-ruimte.
+
+$y$-ruimte: Gestandaardiseerde residuen $>3.3$ of $<-3.3$:Dit is niet het geval, dus geen reden tot zorg.
+
+$xy$-ruimte: Cook's afstand $>1$: Dit is niet het geval, dus geen probleem.
+
+
+Meta-information
+================
+exname: uu-Residuals-801-nl.Rmd
+extype: string
+exsolution: Partially
+exsection: Inferential Statistics/Regression/Residuals
+exextra[Type]: Interpreting output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

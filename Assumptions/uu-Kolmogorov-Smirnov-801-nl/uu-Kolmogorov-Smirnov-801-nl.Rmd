@@ -1,0 +1,27 @@
+Question
+========
+  
+Een vriend van je weet dat je een cursus statistiek volgt en wil je een vraag stellen over zijn scriptie. Hij gebruikt meervoudige lineaire regressie en berekent de Kolmogorov-Smirnov test. De test geeft een p-waarde van $.054$ en je vriend weet niet zeker of hij de homoscedasticiteitshypothese heeft geschonden. Welk advies moet je je vriend geven als $.05 wordt gebruikt?
+
+Answerlist
+----------
+* Homoscedasticiteit wordt gehandhaafd omdat de p-waarde groter is dan .05.
+* Homoscedasticiteit is geschonden omdat de p-waarde groter is dan .05.
+* Er is enig bewijs dat de homoscedasticiteit mogelijk wordt geschonden, maar het is belangrijk om de steekproefgrootte te kennen voordat je een definitieve conclusie trekt.
+* Je kunt je vriend niet helpen omdat deze test de aanname van homoscedasticiteit niet aanpakt.
+
+
+Solution
+========
+
+
+Meta-information
+================
+exname: uu-Kolmogorov-Smirnov-801-nl.Rmd
+extype: schoice
+exsolution: 0001
+exsection: Assumptions/Normality/Kolmogorov-Smirnov
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

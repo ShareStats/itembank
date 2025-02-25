@@ -1,0 +1,33 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-residual-plot-002-en-tabel.jpg", recursive = TRUE)
+```
+
+Question
+========
+The figure below refers to the variable age. Taking the figure below as a starting point, which assumption was violated when analysing the linear regression?
+
+![](uu-residual-plot-002-en-tabel.jpg)
+
+Answerlist
+----------
+* homoscedasticity.
+* outlier in xy-space.
+* multicollinearity.
+* linearity.
+
+
+Solution
+========
+
+
+
+Meta-information
+================
+exname: uu-residual-plot-002-en.Rmd
+extype: schoice
+exsolution: 1000
+exsection: Assumptions/Homoscedasticity/Residual plot
+exextra[Type]: Interpreting graph
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

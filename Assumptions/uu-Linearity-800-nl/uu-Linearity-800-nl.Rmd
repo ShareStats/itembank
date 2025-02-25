@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Linearity-800-nl-tabel.jpg", recursive = TRUE)
+```
+
+Question
+========
+  
+In een regressieanalyse om de afhankelijke variabele Y te voorspellen op basis van voorspeller X, wordt de lineariteitsaanname gecontroleerd. De volgende resultaten zijn beschikbaar:
+
+![](uu-Linearity-800-nl-tabel.jpg)
+  
+Answerlist
+----------
+* F-verandering is significant, dus aan de lineariteitsveronderstelling is voldaan. 
+* F-verandering is significant, dus aan de lineariteitsveronderstelling is niet voldaan.  
+* F-verandering is niet significant, dus aan de lineariteitsveronderstelling is voldaan. 
+* F-verandering is niet significant, dus aan de lineariteitsveronderstelling is niet voldaan.
+
+Solution
+========
+F-verandering (tussen model 1 en model 2) is significant, wat aangeeft dat het toevoegen van x-kwadraat een significante verbetering van het model is en dat daarom niet aan de lineariteitsaanname wordt voldaan.
+
+Meta-information
+================
+exname: uu-Linearity-800-nl.Rmd
+extype: schoice
+exsolution: 0100
+exsection: Assumptions/Linearity
+exextra[Type]: Interpreting output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

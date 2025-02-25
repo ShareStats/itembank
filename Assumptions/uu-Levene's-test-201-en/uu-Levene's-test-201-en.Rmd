@@ -1,0 +1,35 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Levenes-test-201-en-tabel.jpg", recursive = TRUE)
+```
+
+
+
+Question
+========
+What is the correct conclusion based on the output below? 
+
+![](uu-Levenes-test-201-en-tabel.jpg)
+
+Answerlist
+----------
+* Levene's test shows that the equal dispersion assumption is not met.
+* Levene's test shows that the assumption of equal dispersion is met.
+* Levene's test shows that the assumption of normality is not met.
+* Levene's test shows that the assumption of normality is met.
+
+
+Solution
+========
+
+
+
+Meta-information
+================
+exname: uu-Levene's-test-201-en.Rmd
+extype: schoice
+exsolution: 0100
+exsection: Assumptions/Homogeneity of variance/Levene's test
+exextra[Type]: Interpreting output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
