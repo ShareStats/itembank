@@ -1,0 +1,38 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-homoscedasticity-002-en-graph01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+Consider the residual plot below. Which assumption of the general linear model is violated here?
+
+![](vufgb-homoscedasticity-002-en-graph01.jpg)
+  
+Answerlist
+----------
+* Homogeneity of regression
+* Sphericity
+* Normality
+* Homoscedasticity
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Incorrect
+* Correct
+
+Meta-information
+================
+exname: vufgb-homoscedasticity-002-en.Rmd
+extype: schoice
+exsolution: 0001
+exsection: Assumptions/Homoscedasticity, Assumptions/Homoscedasticity/Residual plot, Assumptions
+exextra[Type]: Interpreting graph
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

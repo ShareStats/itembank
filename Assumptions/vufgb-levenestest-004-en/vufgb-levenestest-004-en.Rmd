@@ -1,16 +1,14 @@
 Question
 ========
 
-Vul aan. 
-
-Met Levene’s toets wordt de gelijkheid van ... over groepen getoetst.
+In SPSS, if you run a factorial ANOVA in the General Linear Model module, checking the ‘Homogeneity tests’ option, which test appears in the output?
 
 Answerlist
 ----------
-* gemiddelden
-* covarianties
-* varianties
-* waarnemingen
+* Bonferroni’s test
+* Tukey’s test
+* Levene’s test
+* Mauchly’s test
 
 Solution
 ========
@@ -24,11 +22,11 @@ Answerlist
 
 Meta-information
 ================
-exname: vufgb-levenestest-005-nl
+exname: vufgb-levenestest-004-en.Rmd
 extype: schoice
 exsolution: 0010
 exsection: Assumptions/Homogeneity of variance/Levene's test
 exextra[Type]: Conceptual
-exextra[Program]: 
-exextra[Language]: Dutch 
+exextra[Program]: SPSS
+exextra[Language]: English
 exextra[Level]: Statistical Literacy
