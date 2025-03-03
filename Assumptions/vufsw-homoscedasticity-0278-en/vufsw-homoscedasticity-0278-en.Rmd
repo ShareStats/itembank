@@ -1,0 +1,42 @@
+Question
+========
+What are the consequences of violating the assumptions of linear
+regression?  
+  
+If the *assumption of homoscedasticity* is violated, then ...
+
+Answerlist
+----------
+* both the coefficients and the significance tests are reliable.
+* the coefficients are reliable but the significance tests are not reliable.
+* the coefficients are not reliable, but the significance tests are reliable.
+* Both the coefficients and the significance tests are not reliable.
+
+Solution
+========
+If the assumption of normality is violated, the significance tests are not reliable. However, for large samples by the Central Limit Theorem, the distribution of residuals is approximately normal. So, then also significance tests can be
+reliable.
+
+The violation of the assumption of homoscedasticity affects the significance tests (they cannot be trusted), but not the coefficients. 
+
+The violation of the assumptions of linearity and no influential observations affect coefficients (they are not a good reflection of the relationship), but not significance tests.
+
+Answerlist
+----------
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-homoscedasticity-0278-en
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: assumptions/homoscedasticity
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

@@ -1,0 +1,39 @@
+Question
+========
+For a Mixed Design ANOVA examining whether the performance of schoolchildren differs between 3 subjects (literature, essay writing, mathematics) and whether those differences vary between male and female schoolchildren, 2 assumptions about variances apply: the homogeneity of variances and sphericity.
+
+The assumption of sphericity implies, among other things, that the variance of \[1\] **...** is equal to the variance of \[2\] **...**.
+
+Answerlist
+----------
+* \[1\] women's scores in each of the three subjects
+  \[2\] men's scores in each of the three subjects
+* \[1\] women's scores in each of the three subjects
+  \[2\] scores in mathematics - scores in essay writing
+* \[1\] scores in literature - scores in mathematics
+  \[2\] men's scores in each of the three subjects
+* \[1\] scores in literature - scores in mathematics
+  \[2\] scores in mathematics - scores in essay writing
+
+Solution
+========
+
+Answerlist
+----------
+* False
+* False
+* False
+* True
+
+Meta-information
+================
+exname: vufsw-sphericity-0310-en
+extype: schoice
+exsolution: 0001
+exshuffle: TRUE
+exsection: assumptions/sphericity
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

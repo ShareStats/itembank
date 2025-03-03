@@ -1,0 +1,41 @@
+Question
+========
+What assumption should be taken into account when using a Repeated Measures ANOVA?
+
+Answerlist
+----------
+* Homogeneity of variances
+* Sphericity
+* Homogeneity of variances en sphericity
+* Homogeneity of covariance matrices
+
+Solution
+========
+In one-way ANOVA, the variances of the residuals must be equal for all groups of the independent variable. This is the homogeneity of variances assumption.
+
+In Repeated Measures ANOVA, the variances of the difference scores of the conditions must be equal. This is the assumption of Sphericity.
+
+A Mixed Design ANOVA is a combination of a between-groups design and a Repeated Measures design. So, the assumption of homogeneity of
+variances should apply to the between-groups component and the assumption of Sphericity to the Repeated Measures component.
+
+In MANOVA, the variances of the residuals of each dependent variable and the covariances of all pairs of dependent variables must be equal for all groups of the independent variable. This is the assumption of Homogeneity of Covariance Matrices.
+
+Answerlist
+----------
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-sphericity-0264-en
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: assumptions/sphericity
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+
