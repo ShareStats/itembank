@@ -1,0 +1,40 @@
+
+Question
+========
+  
+In Vedic education, transcendental meditation plays a crucial role. Through meditation techniques, students expand their consciousness. A survey study is conducted to examine the effect of meditation on consciousness, using an existing test with six items and a reliability coefficient of rxx' = .50. The test is then extended with three equivalent items.
+
+What is the estimated reliability of the extended test (V) for consciousness?
+
+
+  
+Answerlist
+----------
+* rvv'is approximately 0.50
+* rvv'is approximately .60
+* rvv'is approximately .70
+* rvv'is approximately .75
+
+Solution
+========
+
+Explanation:
+The new test consists of 9 items (6 + 3 = 9). The scaling factor is calculated as: 1.5 (9/6=1.5). The reliability of the extended test is estimated using the Spearman-Brown formula:
+
+$r_{xx'} = \frac {v * r_{oo'}}{1+ (v-1) r_{oo'}} $
+
+Substituting the values:
+
+$r_{xx'} = \frac {1.5 * 50}{1+ (1.5-1) 0.50} =  \frac {0.75}{1+ 0.25} = \frac {0.75}{1.25} = 0.60  $
+  
+Thus, the correct answer is: rvv'is approximately .60
+
+Meta-information
+================
+exname: uu-reliability-017-en.Rmd
+extype: schoice
+exsolution: 0100
+exsection: Reliability
+exextra[Type]: Calculation
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
