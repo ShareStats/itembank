@@ -1,0 +1,47 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Cronbach's-alpha-016-en-tabel.jpg", recursive = TRUE)
+```
+
+
+
+Question
+========
+  
+In the Career Project for Painters, a (pilot) study was conducted on the mobility preferences of painters, where 20 items were administered to a random sample from the target population ($n = 86$). The table below shows the item-rest correlations ($r_{ir}$) for the 20 items.
+
+Evaluate the following two statements:.
+
+![](uu-Cronbach's-alpha-016-en-tabel.jpg)
+
+Beoordeel de volgende twee uitspraken:
+
+I. Reversing the polarity of ITEM13 will almost certainly result in a lower Cronbach’s alpha.
+II. Removing ITEM15 will almost certainly result in a lower Cronbach’s alpha.
+
+Answerlist
+----------
+* Both statements I and II are correct.
+* Only statement I is correct.
+* Only statement II is correct.
+* Both statements I and II are incorrect.
+
+
+Solution
+========
+
+
+Statement I: ITEM13 shows a fairly high negative item-rest correlation. If this item were reverse-coded, the item-rest correlation would become positive. This improves the reliability (Cronbach’s alpha) of the scale, as items must be coded consistently to measure Cronbach’s alpha correctly. Therefore, Cronbach’s alpha will increase.
+
+Statement II: ITEM15 has a very low item-rest correlation, the lowest among all items. Removing this item would eliminate an item that has very little correlation with the rest of the scale. The internal consistency of the scale would increase if ITEM15 were removed, meaning Cronbach’s alpha would likely increase rather than decrease.
+
+
+Meta-information
+================
+exname: uu-Cronbach's-alpha-016-en
+extype: schoice
+exsolution: 0001
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
