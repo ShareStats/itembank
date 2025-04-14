@@ -1,0 +1,35 @@
+Question
+========
+
+The table below shows the association between sports and general well-being. In the table, the standardized residuals are shown in parentheses. Which interpretation of the standardized residue -1.3 is correct?
+
+  --------- ---------------------- --------------- ------------ Sports General well-being Not so good Fairly Very good Never 20 (11.2) 14 (**-1.3**) 3 (-4.1) Sometimes 35 (1.4) 395 (14.7) 75 (-15.5) Often 30 (-5.8) 310 (-13.8) 515 (16.1) --------- ---------------------- --------------- ------------
+
+Answerlist
+----------
+
+* The observed number of 14 in this cell is 1.3 standard error less than the expected number.
+* The observed number of 14 in this cell minus 1.3 standard error gives the expected value.
+* Since the standardized residual is negative, there is no dependence.
+
+Solution
+========
+
+Answerlist
+----------
+
+* The observed number of 14 in this cell is 1.3 standard error lower than the expected number...: Correct
+* The observed number of 14 in this cell minus 1.3 standard error gives the expected value...: Incorrect
+* Because the standardized residual is negative, there is no dependence: Incorrect
+
+Meta-information
+================
+exname: uva-squared-790-en
+extype: schoice
+exsolution: 100
+exsection: Inferential Statistics/NHST/Test statistic/Chi-squared
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.001
+exextra[p-value]: 0.3002

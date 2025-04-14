@@ -1,0 +1,33 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-reliability-123-nl-data.sav", recursive = TRUE)
+include_supplement("eur-reliability-123-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+* Ork for psychologists and educators.*
+
+A scientist has been tasked with investigating whether psychology and education graduates succeed in finding level jobs. To this end, the researcher designed his own questionnaire consisting of 12 Likert items with 5 response options ranging from completely disagree (1) to completely agree (5). An example of an item is: I had to put a lot of effort to find a job vacancy for a level job. The responses of 608 educators and psychologists to the 12 items are shown in the data file, with the variable [psy_ped] distinguishing educators (1) and psychologists (2). NOTES. The total score across the 12 items indicates how difficult a person finds it to find a level job. The higher the total score the harder he/she finds it to find a level job.
+
+Open the data file.
+
+Previous research has shown that psychologists have more difficulty finding a job than educators. For this reason, a researcher wants to calculate the reliability of the questionnaire for psychologists and educators separately (variable [psy_ped] ). What is the reliability (Cronbach's Alpha) of the questionnaire for pedagogues? (3 decimal places)
+
+
+* Download**: [SPSS file](eur-reliability-123-nl-data.sav), [CSV file](eur-reliability-123-nl-data.csv)
+
+Solution
+========
+The reliability (Cronbach's Alpha) of the scale for the educators is 0.780.
+
+Meta-information
+================
+exname: eur-reliability-123-en
+extype: num
+exsolution: 53.189
+extol: 0
+exsection: Reliability/Analysis/Cronbach's alpha, Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

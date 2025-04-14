@@ -1,0 +1,37 @@
+Question
+========
+
+Calculate the number of degrees of freedom associated with the Interaction Effect AB in a factorial ANOVA with 3 X 3 design. 
+Answerlist
+----------
+* 2
+* 3
+* 4
+* 9
+
+Solution
+========
+
+$df = (g-1) \times (h-1) = (3-1) \times (3-1) = 2 \times 2 = 4$.
+
+If you write out ANOVA model as a regression model with dummy variables you get two dummy variables for Factor 1 and two dummy variables for Factor 2. That yields in the regression model $2 \times 2 = 4$ interaction terms. Difference in parameters between model with and without interaction is then 4.
+
+This is the reasoning if you conceive of the *F* test as a model comparison test!
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Correct
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-anova-025-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA
+exextra[Type]: Calculation
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,35 @@
+Question
+========
+A researcher studies the effect of giving a lecture on scientific ethics to scientists. She also wants to know whether this effect differs between men and women. She asks a number of questions about this to 6 female and 6 male respondents at three times; before the lecture, shortly after the lecture and a few months after the lecture (3 measurements). She creates a scale from the responses for each measurement. What is the best method of analysis for her to use?
+
+Answerlist
+----------
+* Mixed design ANOVA with one within and one between variable
+* Mixed design ANOVA with two within and one between variable
+* Repeated measures ANOVA with two within variables
+* MANOVA with one within and one between variable
+
+Solution
+========
+
+This analysis is a combination of a Repeated Measures design (3 measurements per subject) and a between groups design (men vs. women). So, this is a Mixed Design ANOVA with one within and one between variable.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-mixeddesignanova-0267-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/anova/mixed design anova
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical reasoning
+

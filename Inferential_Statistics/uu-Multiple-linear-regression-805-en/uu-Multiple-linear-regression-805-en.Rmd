@@ -1,0 +1,33 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Multiple-linear-regression-805-nl-tabel.jpg", recursive = TRUE)
+```
+
+Question
+========
+  
+The table below is always part of the output SPSS gives when you run a multiple regression analysis. The dependent variable is school performance (SV), the independent variables are: gender (0 = girl, 1 = boy), ethnicity (1 = Dutch, 0 = other) and disruptive behavior (higher score corresponds to more disruptive behavior).
+
+![](uu-Multiple-linear-regression-805-nl-tabel.jpg)
+
+If all observed scores on the variable disruptive behavior listed in the data matrix are divided by two, then 
+Answerlist
+----------
+* Changes the B value of the variable disruptive behavior
+* Changes the Beta value of the variable disruptive behavior
+* Changes the significance of the B value of the variable disruptive behavior
+* Multiple answers from a, b and c are correct.
+
+
+Solution
+========
+
+Meta-information
+================
+exname: uu-Multiple-linear-regression-805-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Regression/Multiple linear regression
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

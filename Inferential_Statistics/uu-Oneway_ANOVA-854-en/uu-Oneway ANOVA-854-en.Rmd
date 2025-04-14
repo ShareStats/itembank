@@ -1,0 +1,36 @@
+Question
+========
+Four education science students conduct a study for the bachelor's thesis on the effects of concept mapping on learning performance of psychology students (N = 86). The study distinguishes three conditions:
+
+1. Pure: Students receiving instruction in concept mapping. 2. Supportive: Students receiving instruction in creating the concept map, with part of the concept map already given. 3. Control: Students who do not receive instruction in creating the concept map.
+
+Four weeks after the psychology students read the chapter, they take a knowledge test on the material from the chapter (ten questions where each correct answer earns 1 point). Students in the pure and support condition are expected to score higher on average on the knowledge test than students in the control condition.
+
+The education science students analyze the data with a one-way ANOVA. They note the following data from this in their report:
+
+F(2, 83) = 17.90, p < .001, $\eta^2$ = 0.13.
+
+Which of the following statements is correct based on the reported test result ($\alpha$ = 5%)?
+
+Answerlist
+----------
+* The means of pure and support condition are significantly higher than the mean control condition.
+* The effect of condition is significant but not relevant (less than 5% explained variance).
+* The reported data may not be from this study.
+* A post hoc analysis is needed to determine whether in the pure and support condition the averages are significantly higher than in the control group.
+
+
+Solution
+========
+In this research 3 different conditions are compared with each other. By finding a significant difference between these groups (p < .001), we don't know yet which of the 3 groups differ from each other. This requires a post-hoc analysis.
+
+Meta-information
+================
+exname: uu-Oneway ANOVA-854-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Reasoning

@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Schermafbeelding__2019-01-30__om__14.25.40.png", recursive = TRUE)
+```
+
+Question
+========
+![](Schermafbeelding__2019-01-30__om__14.25.40.png)
+  
+In the above analysis, the dependent variable is attitude toward culture (1-4, higher score = more positive attitude). The independent variables are school level (in dummies, vmbo-b is the reference category) and mothers' cultural participation (continuous scale 0-1, 0= least active, 1 = most active).  
+  
+Does school level make a significant contribution to explaining the attitude toward culture?
+
+Answerlist
+----------
+* Yes, I can see that from the significance of the adjusted R-square of .099
+* No, I can see that from the significance of the t-value of 1.739
+* Yes, I can see that from the significance of the F-value of 38.527
+* Yes, I can see that from the significance of the F-value of 68.375
+
+Solution
+========
+
+Answerlist
+----------
+* False
+* False
+* True
+* False
+
+Meta-information
+================
+exname: vufsw-r squared change-2061-en
+extype: schoice
+exsolution: 0010
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression/r squared change
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

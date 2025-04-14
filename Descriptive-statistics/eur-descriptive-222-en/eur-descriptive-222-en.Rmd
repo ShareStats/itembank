@@ -1,0 +1,29 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-222-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-222-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+It has emerged that the grades of the course "introduction to economics" (variable introduction_economics) were not calculated correctly for all students. Therefore, all students with a grade of 8.0 or higher will receive an additional 0.2 points. Make this change in the data file and calculate the average for all students (i.e., with grades higher, equal to AND lower than an 8.0) for the adjusted grades.
+
+n.b.The adjusted grade may be above 10, you do NOT need to correct for this when calculating the average. Write your answer in the answer box (with 3 decimal places)
+
+* Download**: [SPSS file](eur-descriptive-222-nl-data.sav), [CSV file](eur-descriptive-222-nl-data.csv)
+
+
+Solution
+========
+The correct answer is 4,641.
+
+Meta-information
+================
+exname: eur-descriptive-222-en
+extype: num
+exsolution: 4.641
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
+exextra[Type]: Data manipulation, Calculation
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,42 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Schermafbeelding__2019-01-30__om__19.34.46.png", recursive = TRUE)
+include_supplement("Schermafbeelding__2019-01-30__om__19.36.05.png", recursive = TRUE)
+```
+
+Question
+========
+In an experiment, participants were randomly divided into two groups (group variable: ERROR_APPROACH) who had to perform a task. The two groups were instructed differently beforehand: error prevention (" you are not allowed to make mistakes" ) and error management (" you are allowed to make mistakes make mistakes, you learn from them"). Below is a series of AN(C)OVA analyses TRUE examined whether error-approach affects how well the task was performed (PERFORMANCE). SELFCONTROL (degree of self-discipline, measured prior to the experiment) is a covariate in these analyses a covariate.  
+  
+![](Schermafbeelding__2019-01-30__om__19.34.46.png)![](Schermafbeelding__2019-01-30__om__19.36.05.png)
+  
+Which *F* value tests whether the assumption of independence of covariate and treatment is met?
+
+Answerlist
+----------
+* 2.264
+* 7.889
+* 8.599
+* 8.673
+
+Solution
+========
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-anova f-test-2073-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/anova/anova f-test
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

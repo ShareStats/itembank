@@ -1,0 +1,50 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("mediation.png", recursive = TRUE)
+```
+
+Question
+========
+You examine why task variation at work leads to less stress. One possible explanation is that through task variation learning opportunities increase, thereby reducing stress. Look at the mediation model below.  
+  
+What does a regression with stress as the dependent variable and task variation and learning opportunities as independent variables?  
+  
+  
+![](mediation.png)
+
+Answerlist
+----------
+* *b* and *c'*
+* *c*
+* *a*
+* *b*
+* *c'*
+* * and *b*
+* * and *c'*
+* His regression is incorrect.
+
+Solution
+========
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+* False
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-mediation-0299-en
+extype: schoice
+exsolution: 10000000
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression/mediation
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

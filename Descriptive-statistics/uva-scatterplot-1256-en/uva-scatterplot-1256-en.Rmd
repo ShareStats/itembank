@@ -1,0 +1,43 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-scatterplot-1256-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Of a number of children, age was determined in months, and height in centimeters. The data are plotted in the attached scatterplot. Suppose another child is measured, aged 28 months, with a height of 74.6 cm. In this sample, this child is:
+
+![](uva-scatterplot-1256-nl-graph01.png)
+
+Answerlist
+----------
+
+* An outlier in terms of age and height
+* An outlier in terms of age but not in terms of height
+* An outlier in terms of height but not in terms of age
+* No outlier in terms of age and length, but in the combination of both
+* No outlier in terms of age and height, nor in the combination of the two
+
+Solution
+========
+
+Answerlist
+----------
+
+* An outlier in terms of age and height: Incorrect
+* An outlier in terms of age but not in terms of height: Incorrect
+* An outlier in terms of height but not in terms of age: Incorrect
+* No outlier in terms of age and height, but in the combination of both: Correct
+* No outlier in terms of age and height, and not in the combination of both: Incorrect
+
+Meta-information
+================
+exname: uva-scatterplot-1256-en
+extype: schoice
+exsolution: 00010
+exsection: Descriptive statistics/Data representation/Graphs/Scatterplot
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.624
+exextra[p-value]: 0.0139

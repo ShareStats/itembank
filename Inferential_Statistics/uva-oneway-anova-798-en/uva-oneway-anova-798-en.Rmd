@@ -1,0 +1,37 @@
+Question
+========
+
+The table shows in part the result of a one-factor ANOVA.
+
+  -------- ---- ---- ---- --- Source df SS MS F Groups 3 Error 25 20 Total 28 35 -------- ---- ---- ---- ---
+
+Given is the significance level of 0.05. Then it follows from the table that
+
+Answerlist
+----------
+
+* 4 ≤ F ≤ 5 and so the null hypothesis of ANOVA can be rejected.
+* 6 ≤ F ≤ 7 and so the null hypothesis of ANOVA can be rejected.
+* F ≤ 2 and so the null hypothesis of ANOVA cannot be rejected.
+
+Solution
+========
+
+Answerlist
+----------
+
+* 4 ≤ F ≤ 5 and thus the null hypothesis of ANOVA can be rejected...: Incorrect
+* 6 ≤ F ≤ 7 and thus the null hypothesis of ANOVA can be rejected: Correct
+* F ≤ 2 and so the null hypothesis of ANOVA cannot be rejected: Incorrect
+
+Meta-information
+================
+exname: uva-oneway-anova-798-en
+extype: schoice
+exsolution: 010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.154
+exextra[p-value]: 0.0908

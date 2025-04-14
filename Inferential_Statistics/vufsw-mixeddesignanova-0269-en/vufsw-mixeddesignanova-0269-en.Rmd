@@ -1,0 +1,37 @@
+Question
+========
+A researcher studies the effect of a comprehensive training reintegration program on crime among young offenders, measured on a scale of 1 to 15. Crime was measured before the arrest and after inmates' release. A randomly drawn sample of both male and female inmates was assigned to the program (followed during detention while another randomly drawn sample of detainees with nearly identical characteristics (i.e. gender, socioeconomic status, country of origin, length of imprisonment, imprisonment of parents) was drawn that did not follow the program.  
+  
+What method of analysis can it best use to evaluate the effect of the program be evaluated?
+
+Answerlist
+----------
+* Mixed Design ANOVA with the scale of delinquency as the dependent variable, the time of measurement (before or after imprisonment) as *within variable *and the program as *between *variable.
+* Mixed Design ANOVA with the scale of delinquency as the dependent variable and with the time of measurement (before or after the imprisonment) as *within variable* and gender as *between variable*.
+* Ne-way ANOVA with the measurement of crime (before and after the imprisonment) as the dependent variable and the time of measurement as the dependent variable
+* MANOVA with the 2 measures of crime (before and after the imprisonment) as the dependent variables and gender as the covariate.
+
+Solution
+========
+
+The researcher wants to know if the program had an effect on crime. She had data from repeated measurements of the same individuals. So, she needs to use a Mixed Design ANOVA with the time as the within variable and the program as the between variable. She is not interested in male-female differences. Thus, gender plays no role in this study.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-mixeddesignanova-0269-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/anova/mixed design anova
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical reasoning
+

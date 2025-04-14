@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Schermafbeelding__2019-01-30__om__17.22.26.png", recursive = TRUE)
+```
+
+Question
+========
+In the regression analysis below, attitude toward culture is the dependent variable (att: 1-4, from negative to positive) and the independent variables are age (lft15 = age -15, so 15 = 0) and school level (in dummies : vmbo-b is the reference category). There is in model 2 added an interaction between age and school level.  
+  
+![](Schermafbeelding__2019-01-30__om__17.22.26.png)
+  
+According to model 2 in the sample, what is the difference in attitude toward culture between vmbo-t and vmbo-b students aged of 16 years?
+
+Answerlist
+----------
+* -0.005
+* 0.043
+* 0.074
+* 2.586
+
+Solution
+========
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-moderation-2080-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression/moderation
+exextra[Type]: interpreting output
+exextra[Program]: calculator
+exextra[Language]: English
+exextra[Level]: statistical thinking
+

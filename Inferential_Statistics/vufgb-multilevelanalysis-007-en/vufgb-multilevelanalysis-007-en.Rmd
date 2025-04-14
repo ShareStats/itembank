@@ -1,0 +1,33 @@
+Question
+========
+
+A professor is researching the effect of a teacher intervention on reducing ADHD symptoms of children with ADHD. She measured ADHD symptoms repeatedly during and after the intervention. She suspects that the intervention does not have the same effect in all children: some children's ADHD symptoms decrease significantly, others much less.
+
+What model can she use to test this hypothesis? 
+Answerlist
+----------
+* Repeated measures ANOVA with linear effect of time.
+* Repeated measures ANOVA with quadratic ('cubic') effect of time.
+* Linear mixed model with random intercept and fixed slope.
+* Linear mixed model with random intercept and random slope.
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Incorrect
+* Correct
+
+Meta-information
+================
+exname: vufgb-multilevelanalysis-007-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Multilevel Analysis, Inferential Statistics/Regression/Intercept, Inferential Statistics/Regression/Slope
+exextra[Type]: Test choice
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

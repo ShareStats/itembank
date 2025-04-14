@@ -1,0 +1,26 @@
+Question
+========
+Marco, a culinary specialist from Utrecht, would like to give a good advice for the customers of his magazine about the price/quality ratio of various restaurants in Utrecht based on the year 2014. To this end, he has had 40 restaurants rated by his readers and has collected data on a number of indicators: price for a 3-course menu (in whole euros), quality score of the menu according to readers (1-10) and quality score for the service according to readers (1-10). He himself assigned his own final rating to these restaurants (variable = final score (1-10)). He is building a regression model to predict the final score using the price and the two readers' ratings. He is very curious how far the predicted scores will deviate from his own judgment.
+
+Marco decides to visit the three highest scoring restaurants from his dataset with three groups of colleagues who independently assign an expert judgment to their assigned restaurant. In doing so, Marco wants to test whether the average ratings differ significantly from one another. In doing so, for fairness, he wants to factor into the analysis the fact that the restaurants differ in price. What technique should Marco use to analyze this data?
+
+Answerlist
+----------
+* Regression analysis
+* ANOVA for repeated measures
+* ANCOVA
+* Two-way ANOVA
+
+
+Solution
+========
+
+Meta-information
+================
+exname: uu-ancova-103-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA
+exextra[Type]: Test Choice
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

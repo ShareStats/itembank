@@ -1,0 +1,42 @@
+Question
+========
+
+Suppose it is known that a proportion of 0.002 of Dutch women have disease *D*. There is a test to detect this disease. That test is not always reliable: in 0.04 of the cases in which the person has the disease, the test gives the result "no disease" with a negative result. And 0.96 of them are detected with a positive result. Furthermore: in 0.96 of those who do not have it, the test gives a negative result. Marja is told that she has a negative test result.
+
+Set the events:
+
+* *D* = The disease *D*,
+* *N* = The negative test result.
+
+Then what is the probability P(*D* and *N*) that Marja gets a negative test result and she also has the disease?
+
+Answerlist
+----------
+
+* 0,0019
+* 0,0008
+* 0,0399
+* 0,9581
+
+Solution
+========
+
+Answerlist
+----------
+
+* 0,0019: Incorrect
+* 0.0008: Correct
+* 0.0399: Incorrect
+* 0.9581: Incorrect
+
+Meta-information
+================
+exname: uva-bayesian-statistics-971-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Bayesian Statistics
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2.24
+exextra[p-value]: 0.4977

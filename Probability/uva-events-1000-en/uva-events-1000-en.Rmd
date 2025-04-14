@@ -1,0 +1,37 @@
+Question
+========
+
+Roll a pure die once. We define the events *A* and *B* as follows:______________. \
+* *A*: the number of eyes is greater than 4.Ê.
+* *B*: the number of eyes is divisible by 3. \ What then is the intersection of *A* and *B*, or *A* ∩ *B*?
+
+Answerlist
+----------
+
+*  ∩ B = {6}
+* A ∩ B = {5,6}
+* A ∩ B = {3,4,5,6}
+* A ∩ B = {1,2,3,4,5,6}
+
+Solution
+========
+
+Answerlist
+----------
+
+* A ∩ B = {6}: Correct
+* A ∩ B = {5,6}: Incorrect
+* A ∩ B = {3,4,5,6}: Incorrect
+* A ∩ B = {1,2,3,4,5,6}: Incorrect
+
+Meta-information
+================
+exname: uva-events-1000-en
+extype: schoice
+exsolution: 1000
+exsection: Probability/Elementary Probability/Events
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: -2.225
+exextra[p-value]: 0.9618

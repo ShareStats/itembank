@@ -1,0 +1,31 @@
+Question
+========
+
+Given is the following linear mixed model: $E(Y) = \alpha+s_{i}+\beta t$. What does $\beta t$? 
+Answerlist
+----------
+* The linear trend of averages over time; this is a fixed effect.
+* The linear trend of averages over time; this is a random effect.
+* The nonlinear trend of averages over time; this is a fixed effect.
+* The nonlinear trend of averages over time; this is a random effect.
+
+Solution
+========
+
+Answerlist
+----------
+* Correct
+* Incorrect
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-multilevelanalysis-012-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Multilevel Analysis
+exextra[Type]: Conceptual, Interpreting output
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

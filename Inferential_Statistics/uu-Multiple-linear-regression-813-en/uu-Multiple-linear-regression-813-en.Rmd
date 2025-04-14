@@ -1,0 +1,34 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Multiple-linear-regression-813-nl-tabel.jpg", recursive = TRUE)
+```
+
+Question
+========
+A student at the University of London has collected data among his fellow students. He wants to create a model to predict students' height (measured in inches, VB: 1.70 m = 67 inches) based on their parents' height, their sex (male = 0, female = 1) and their position within the family.
+
+The student wants to try to reduce the number of predictors in the model and compares the previous model with the model with only the parents' heights in the model. Of this model, the conditions were also checked. One of the graphs is shown below.
+
+![](uu-Multiple-linear-regression-813-nl-tabel.jpg)
+
+Which statement is correct about the observation to which the arrow is attached? 
+Answerlist
+----------
+* This observation ensures that the homoscedasticity condition is not met and should be removed without question.
+* This student is much shorter in real life than we predict using this model.
+* We predict this student to be much shorter than the student is in real life.
+* This observation is an Outlier and therefore the condition that the residuals are normally distributed is not met. 
+
+
+Solution
+========
+
+Meta-information
+================
+exname: uu-Multiple-linear-regression-813-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Regression/Multiple linear regression
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,51 @@
+Question
+========
+Twee Nederlandse taaltests werden voorgelegd aan 20 respondenten: de eerste meting vond plaats voorafgaand aan het beluisteren van het Koningslied, de tweede meting nadat ze aandachtig naar dit lied hadden geluisterd. De onderzoeker wilde weten of je kennis van het Nederlands verslechtert als je naar het lied hebt geluisterd. Hij noteerde steeds het aantal taalfouten gemaakt door de respondenten. Hieronder de resultaten.  
+   
+
+<table class="tvcss_2 tvcss_3"> <tbody> <tr class="odd"> <td>N </td> <td class="tvcss_4">gemiddeld aantal fouten (meting 1)</td> <td class="tvcss_5">gemiddeld aantal fouten (meting 2)</td> <td class="tvcss_6">gemiddeld verschil</td> <td class="tvcss_7">standaardfout (se) van het gemiddelde verschil score</td> </tr> <tr class="even"> <td>20</td> <td class="tvcss_4">30.45</td> <td class="tvcss_5">34.20</td> <td class="tvcss_6">-3.75</td> <td class="tvcss_7">0.88</td> </tr> </tbody> </table>
+
+  
+Wat is de foutmarge van het 95% betrouwbaarheidsinterval van de gemiddelde verschilscore?
+
+Antwoordlijst
+----------
+* 0.41
+* 1.84
+* 2.09
+* 3.75
+
+Solution
+========
+
+Foutmarge = Kritieke waarde x Standaardafwijking voor de populatie.  
+Foutmarge = Kritieke waarde x Standaardafwijking van de steekproef.  
+  
+de standaardfout van de steekproef is gegeven:0,88 De kritieke waarde (df(19)=2,09 Foutmarge=0,88*2,09=1,84
+
+Taal Nederlands
+
+Moeilijkheidsniveaus Moeilijk
+
+M&T BIS Standaardwaarde
+
+M&T Verdelingen Standaardwaarde
+Antwoordlijst
+----------
+* Onwaar
+* Waar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-marginoferror-1163-nl
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: inferential statistics/confidence intervals/margin of error
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

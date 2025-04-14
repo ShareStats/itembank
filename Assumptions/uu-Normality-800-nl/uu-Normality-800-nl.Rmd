@@ -1,0 +1,30 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Normality-800-en-tabel.jpg", recursive = TRUE)
+```
+
+Question
+========
+Deze vraag bevat SPSS-uitvoer van een meervoudig regressiemodel van een dataset van het Amerikaanse National Center of Educational Statistics. Deze dataset heet High School Beyond en bevat gegevens over variabelen met betrekking tot de academische prestaties van leerlingen. Specifiek is de uitkomstvariabele voor het regressiemodel "Wiskunde Score" die wordt voorspeld op basis van "Locus of Control", "Zelfbeeld" en "Leesscore". Daarnaast bevat de bijlage grafieken die zijn gemaakt op basis van hetzelfde model. Gebruik de grafieken om vragen te beantwoorden over assumpties van het regressiemodel voor de High School Beyond dataset.
+
+Kunt u alleen op basis van de plots, tabellen en statistieken in de bijlage bepalen of de assumptie van normaliteit wordt ondersteund of geschonden? Zo ja, geef aan welke plot, tabel of statistiek je zou gebruiken en wat je conclusie is. Als de juiste grafiek, tabel of statistiek niet wordt gegeven, noem dan welke grafiek, tabel of statistiek je nodig zou hebben om deze assumptie te beoordelen. 
+
+![](uu-Normality-800-en-tabel.jpg)
+  
+
+Solution
+========
+  
+Nee, ten minste één van deze opties moet worden opgegeven: QQ-plot, PP-plot, Kolmogorov-Smirnov test, Shapiro-Wilk test: 1 pt
+
+Ja, het histogram van residuen helpt, maar er is meer informatie nodig: 0,5 pt
+
+Meta-information
+================
+exname: uu-Normality-800-nl
+extype: string
+exsolution: Geen
+exsection: Assumptions/Normality
+exextra[Type]: Interpreting output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

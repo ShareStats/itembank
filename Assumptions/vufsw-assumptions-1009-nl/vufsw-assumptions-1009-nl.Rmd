@@ -1,0 +1,46 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("durbinwatson.png", recursive = TRUE)
+```
+
+Question
+========
+Deze tabel laat zien of aan een van de assumpties van lineaire regressie **niet** voldaan is. Welke assumptie is dat?  
+  
+![](durbinwatson.png)
+
+Antwoordlijst
+----------
+* Onafhankelijkheid van fouten
+* Multicollineariteit
+* Homoscedasticiteit
+* Normaliteit van residuen
+
+Solution
+========
+
+Deze tabel toont de Durbin-Watson test, die test op de onafhankelijkheid van fouten (autocorrelatie). fouten (autocorrelatie).
+
+Taal Engels
+
+M&T MVA Standaardwaarde
+
+M&T Regressie assumpties Standaardwaarde
+Antwoordlijst
+----------
+* Waar
+* Onwaar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-assumptions-1009-nl
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/regression/assumptions
+exextra[Type]: interpretating output
+exextra[Program]: NA
+exextra[Language]: Dutch
+exextra[Level]: statistical reasoning
+

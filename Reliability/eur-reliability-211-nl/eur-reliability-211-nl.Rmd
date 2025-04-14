@@ -1,0 +1,24 @@
+Question
+========
+Examens zijn bedoeld om de werkelijke score van een persoon te meten. De nauwkeurigheid van deze meting van de ware score zal waarschijnlijk lager zijn als de betrouwbaarheid van de test te laag is. Een manier om deze lagere nauwkeurigheid theoretisch te compenseren is door de aangepaste ware score te berekenen: $X_{est} = x̄ + R_{xx}(X_o-x̄)$
+
+Stel dat het gemiddelde cijfer van een psychometrisch examen 5,8 is. De betrouwbaarheid van deze test is .81 (Cronbach's alpha); Een cijfer van minstens 5,5 is nodig om te slagen voor het examen.
+
+Bereken de aangepaste ware score voor een leerling met cijfer 5,2. Rond af op twee decimalen
+
+
+Solution
+========
+Voor een student met een 5.2 wordt de aangepaste ware score: $X_{est} =5.8 + .81(5.2 - 5.8) = 5.8 - .486 = 5.314 = 5.31$
+
+Meta-information
+================
+exname: eur-reliability-211-nl
+extype: num
+exsolution: 5.31
+extol: 0
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Calculate
+exextra[Program]: Calculator
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

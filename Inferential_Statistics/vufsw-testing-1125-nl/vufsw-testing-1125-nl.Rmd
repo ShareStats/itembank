@@ -1,0 +1,60 @@
+Question
+========
+Een onderzoeker trekt een steekproef van 50 Nederlandse burgers en onderzoekt of het vertrouwen van Nederlanders in de politiek hoger is dan het Europese gemiddelde, waarvan we een betrouwbare populatiewaarde hebben op basis van eerdere studies.  
+  
+Het steekproefgemiddelde is 6,38 (op een schaal van 0-10) en de standaardafwijking is 1,55. Het Europese gemiddelde is 6,0. Test, met alfa = 0,05, of het vertrouwen van Nederlanders in de politiek hoger is dan het Europese gemiddelde. Wat is de conclusie?
+
+Antwoordlijst
+----------
+* Er is genoeg bewijs om H<sub>0</sub> te verwerpen.
+* Er is *niet* genoeg bewijs om H<sub>0</sub> te verwerpen
+* Er is genoeg bewijs om H<sub>a.</sub> te verwerpen
+* Er is *niet* genoeg bewijs om H<sub>a.</sub> te verwerpen
+
+Solution
+========
+
+Je kunt de H<sub>a</sub>-hypothese niet verwerpen, je kunt alleen de H<sub>0</sub> hypothese verwerpen.  
+Om hypothesetests uit te voeren, moet je je onderzoekshypothese uitdrukken als een nulhypothese en een alternatieve hypothese. De nul hypothese en alternatieve hypothese zijn stellingen over de verschillen of effecten die optreden in de populatie. Je zult je steekproef om te testen welke verklaring (de nulhypothese of alternatieve hypothese) het meest waarschijnlijk is (hoewel je technisch gezien het bewijs toetst tegen de nulhypothese). Je kunt de H<sub>0 </sub>hypothese verwerpen.  
+  
+  
+De H<sub>0</sub>hypothese in dit voorbeeld stelt dat het gemiddelde vertrouwen van Nederlanders in de politiek 6,38 is. De H<sub>a</sub> hypothese is dat het gemiddelde hoger is dan 6,38.  
+  
+  
+se=1,55/(wortel 50)=0,22  
+t= (6.38-6.00)/0.22=1.73  
+De t-kritische waarde (zie tabel) voor een éénstaartstoets (df=50) is 1,68. Er is dus voldoende bewijs om H<sub>0</sub> te verwerpen.  
+Als je meer wilt leren over hypothesetests, kijk dan naar deze [clip](https://www.youtube.com/watch?v=1xwNztgZ7Ho&list=PLyLpEs0x9BnkUdochj7JEC-2javLshojj&index=1).  
+  
+  
+Als je meer wilt weten over de statistische test van het gemiddelde bekijk dit
+[clip](https://www.youtube.com/watch?v=9V6L3Zu3PP0&index=3&list=PLyLpEs0x9BnkUdochj7JEC-2javLshojj).
+
+Taal Nederlands
+
+Moeilijkheidsniveaus Moeilijk
+
+M&T Hypothese testen: verhoudingen Standaardwaarde
+
+M&T Multivariate analyse Standaardwaarde
+
+M&T Multivariate Analyse CW Standaardwaarde
+Antwoordlijst
+----------
+* Waar
+* Onwaar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-testing-1125-nl
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/confidence intervals/testing
+exextra[Type]: performing analysis
+exextra[Program]: calculator
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

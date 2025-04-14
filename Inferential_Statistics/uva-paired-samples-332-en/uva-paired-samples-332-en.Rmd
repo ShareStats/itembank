@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-paired-samples-332-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Below is SPSS output of a paired T-test on depression scores of 15 patients, measured before and after an interview with a therapist. Below are two statements. Which of these are correct? I: H~0~: μ~before~ -- μ~after~ = 0 should be rejected (at α=5% two-sided).Ê II: var(X~average before~ - X~average after~) = var(X~average before~) + var(X~average after~)
+
+![](uva-paired-samples-332-nl-graph01.png)
+
+Answerlist
+----------
+
+* Both statements are correct.
+* Utterance I is correct, utterance II is incorrect.
+* Utterance I is incorrect, utterance II is correct.
+* Both statements are incorrect.
+
+Solution
+========
+
+Answerlist
+----------
+
+* Both statements are correct: Incorrect
+* Statement I is correct, statement II is incorrect: Incorrect
+* Utterance I is incorrect, utterance II is correct: Incorrect
+* Both statements are incorrect: Correct
+
+Meta-information
+================
+exname: uva-paired-samples-332-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/t-test/Paired samples
+exextra[Type]: Conceptual, Interpreting output
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.736
+exextra[p-value]: 0.1645

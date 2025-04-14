@@ -1,0 +1,33 @@
+Question
+========
+Which of the following conditions must be met for a single regression analysis in which the score on Y is predicted from the score on X?
+
+Answerlist
+----------
+* The relationship between X and Y must be linear
+* The variable Y must be measured at least at the ratio measurement level
+* X must be approximately normally distributed
+* All three conditions must be met
+
+
+Solution
+========
+In a regression analysis, it is important that there is a linear relationship between X and Y. This is because it is a linear regression analysis. If there is no linear relationship, you cannot simply run this regression. The answer "the variable Y must be measured at least at the ratio measurement level" is not correct, because X and/or Y may also be measured at the interval measurement level. The answer "X must be approximately normally distributed" is not correct, because X need not be normally distributed, as long as the combination of X and Y is. You will get more explanation of this at MTS3.
+
+Answerlist
+----------
+* Correct!
+* This is incorrect
+* This is incorrect
+* This is incorrect
+
+Meta-information
+================
+exname: uu-Linearity-104-nl.-en
+extype: schoice
+exsolution: 1000
+exsection: Assumptions/Linearity
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

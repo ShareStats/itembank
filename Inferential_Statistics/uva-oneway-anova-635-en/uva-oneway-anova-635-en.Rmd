@@ -1,0 +1,39 @@
+Question
+========
+
+Below is a portion of an ANOVA table belonging to a CRD ANOVA with 5 groups and 3 measurements per group.
+
+  --------------- ---- ---- ---- --- --- Source of variation df SS MS F P Among groups 4 48 Within groups 10 15 Total 14 63 --------------- ---- ---- ---- --- ---
+
+Suppose the F-value of this ANOVA table was equal to 3.0; then the following would apply for the corresponding P value to hold (α=5%):
+
+Answerlist
+----------
+
+* P > 0.05: no significant differences between groups
+* P > 0.05: significant differences between groups
+* P < 0.05: no significant differences between groups
+* P > 0.05: do have significant differences between groups.
+
+Solution
+========
+
+Answerlist
+----------
+
+* P > 0.05: no significant differences between groups: Correct
+* P > 0.05: do have significant differences between groups: Incorrect
+* P < 0.05: no significant differences between groups: Incorrect
+* P > 0.05: significant differences between groups: Incorrect
+
+Meta-information
+================
+exname: uva-oneway-anova-635-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.052
+exextra[p-value]: 0.1026

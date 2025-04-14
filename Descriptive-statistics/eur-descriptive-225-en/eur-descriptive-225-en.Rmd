@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-225-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-225-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+What is the standard deviation of the figures for macroeconomics (variable: macro_economics)? Write your answer in the answer box (using 5 decimal places).
+
+* Download**: [SPSS file](eur-descriptive-225-nl-data.sav), [CSV file](eur-descriptive-225-nl-data.csv)
+
+
+Solution
+========
+The correct answer is 2.02117.
+
+Meta-information
+================
+exname: eur-descriptive-225-en
+extype: num
+exsolution: 2.02117
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

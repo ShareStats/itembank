@@ -1,0 +1,42 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Capture.gif", recursive = TRUE)
+include_supplement("Capture1.gif", recursive = TRUE)
+```
+
+Question
+========
+We analyze whether students' performance differs between 3 subjects: literature, essay writing and mathematics (they are listed in this order in the dataset). In addition, we examine whether any differences between the 3 subjects vary between male and female schoolchildren. Therefore, we use a Mixed Design ANOVA. The output of this analysis is shown below. "**Female**" is coded as 0: male, 1: female.  
+Has the assumption of homogeneity of variances been violated (see output below)? 
+  
+![](Capture.gif)
+![](Capture1.gif)
+
+Answerlist
+----------
+* Yes, at writing score
+* Yes for reading score
+* Yes, for math score
+* No, at no subject.
+
+Solution
+========
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-levene'stest-0306-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: assumptions/homogeneity of variance/levene's test
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical reasoning
+

@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-409-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-409-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een kennistest over alcohol bevat 20 items en wordt afgenomen bij 202 middelbare scholieren. De variabele [totaalscore] geeft de totale juiste scores. Geslacht (0 = vrouw; 1 = man) en alcoholgebruik (0 = heel vaak; 1 = vaak; 2 = soms; 3 = nooit) zijn ook opgenomen in de dataset.
+
+Maak een p_low groep met daarin de 33,333% laagst scorende studenten op de totaalscore [totaalscore]. Wat is de proportie juiste score van deze groep op item 8? (3 decimalen)
+
+Open de dataset hieronder om deze vraag te beantwoorden:
+
+* Download** [SPSS file](eur-descriptive-409-en-data.sav), [CSV file](eur-descriptive-409-en-data.csv)
+
+
+Solution
+========
+Het percentage correct van de p_laag groep op item 8 is 0,62. Eerst moet een nieuwe variabele worden berekend met behulp van de percentielscores en de hercodering naar een andere variabelefunctie. Vind daarna het gemiddelde van de p_laag-groep op item 8. Dit gemiddelde vertegenwoordigt de proportie correct op dit item. Dit gemiddelde vertegenwoordigt de proportie correct op dit item.
+
+Meta-information
+================
+exname: eur-descriptive-409-nl
+extype: num
+exsolution: 0.62
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
+exextra[Type]: Data manipulation, Interpreting output, Calculation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

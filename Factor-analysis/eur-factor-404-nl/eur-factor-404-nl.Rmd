@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-factor-404-en-data.sav", recursive = TRUE)
+include_supplement("eur-factor-404-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een onderzoeker onderzoekt de factoren die alcoholmisbruik onder ouderen kunnen verklaren. Op basis van de theorie vermoedt de onderzoeker dat er verschillende dimensies te onderscheiden zijn met betrekking tot alcoholmisbruik. Ze ontwierp 34 stellingen waar ouderen het mee eens of oneens kunnen zijn op een vierpuntsschaal (1 = helemaal mee eens; 2 = enigszins mee eens; 3 = enigszins mee oneens; 4 = helemaal mee oneens). Een voorbeeld van een stelling is: Als ik me eenzaam voel, drink ik graag een alcoholische drank. De vragenlijst werd afgenomen bij 312 ouderen (>70 jaar). De antwoorden van de deelnemers op de 34 stellingen staan in de dataset.
+
+Wat is na het uitvoeren van een factoranalyse met principal axis factoring met 3 factoren en een promax rotatie de lading (in de patronenmatrix) van item 9 op factor 2? (3 decimalen)
+
+Open de dataset hieronder om deze vraag te beantwoorden:
+
+* Download** [SPSS file](eur-factor-404-en-data.sav), [CSV file](eur-factor-404-en-data.csv)
+
+
+Solution
+========
+De lading van item 9 op factor 2 na promax rotatie is 0,004 (zie de patronenmatrix).
+
+Meta-information
+================
+exname: eur-factor-404-nl
+extype: num
+exsolution: 0.004
+extol: 0
+exsection: Factor analysis/Pattern matrix, Factor analysis/Factor loadings, Factor analysis/Exploratory factor analysis
+exextra[Type]: Interpreting output, Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

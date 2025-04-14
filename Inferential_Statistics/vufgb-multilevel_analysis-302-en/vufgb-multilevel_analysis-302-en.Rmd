@@ -1,0 +1,33 @@
+Question
+========
+  
+Two linear mixed models are used: an "empty" model with no fixed effect of time (2 parameters, -2Log-Likelihood=2563.90), and a model with a linear fixed effect of time (3 parameters, -2Log-Likelihood=2561.57).
+
+Perform a likelihood-ratio test to test whether there is a linear fixed effect of time. 
+Answerlist
+----------
+* $\chi^{2}(df = 1) = 2.33;\;p < .05$
+* $\chi^{2}(df = 1) = 2.33;\;p > .05$
+* $\chi^{2}(df = 1) = 5.43;\;p < .05$
+* $\chi^{2}(df = 1) = 5.43;\;p > .05$
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Correct
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-multilevel_analysis-302-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Multilevel Analysis,Inferential Statistics/Bayesian Statistics/Likelihood, Inferential Statistics/Multilevel Analysis, Inferential Statistics/NHST/Test statistic/Chi-squared
+exextra[Type]: Performing analysis
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Thinking

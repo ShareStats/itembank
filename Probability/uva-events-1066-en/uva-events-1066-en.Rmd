@@ -1,0 +1,35 @@
+Question
+========
+
+Two pure dice are rolled at the same time: one red and one green. The number of pips is upward. Below are several events. \ Which alternative is a disjoint relationship between events X and Y?
+
+Answerlist
+----------
+
+* X = at the red die the 3 is above; Y = at the red die the 6 is above.
+* X = at the red die the 3 is above; Y = at the green die the 6 is above.
+* X = the sum of both dice is 4; Y = the red die has one 3.
+* X = the sum of the red and green dice is 5; Y= at the red die the 4 is on top.
+
+Solution
+========
+
+Answerlist
+----------
+
+* X = with the red die, the 3 is above; Y = with the red die, the 6 is above...: Correct
+* X = by the red die the 3 is above; Y = by the green die the 6 is above...: Incorrect
+* X = the sum of both dice is 4; Y = the red die has one 3.: Incorrect
+* X = the sum of the red and the green dice is 5; Y= at the red die the 4 is above...: Incorrect
+
+Meta-information
+================
+exname: uva-events-1066-en
+extype: schoice
+exsolution: 1000
+exsection: Probability/Elementary Probability/Events
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 1.939
+exextra[p-value]: 0.7978

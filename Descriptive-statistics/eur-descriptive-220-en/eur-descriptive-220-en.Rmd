@@ -1,0 +1,29 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-220-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-220-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Sort the answers to proposition 2 (variable: proposition2) in descending order (from high to low) and the grades on the introduction to economics exam (variable: introduction_economics) in ascending order (from low to high). Write the grade of the 47th person (row 47) on the mathematics exam (variable: mathematics) (with 3 decimal places) in the answer box.
+
+n.b. If in your file the variable names are in the first row, you need the 48th row.
+
+* Download**: [SPSS file](eur-descriptive-220-nl-data.sav), [CSV file](eur-descriptive-220-nl-data.csv)
+
+
+Solution
+========
+The correct answer is 4,319.
+
+Meta-information
+================
+exname: eur-descriptive-220-en
+extype: num
+exsolution: 4.319
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Location, Variable type/Discrete variable
+exextra[Type]: Case
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

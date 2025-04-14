@@ -1,0 +1,35 @@
+Question
+========
+You perform a one-way ANOVA with 3 conditions (1,2,3). Which of the sets of contrasts below are orthogonal?
+
+Answerlist
+----------
+* 3 vs. (2, 1) 2 vs. 1
+* 1 vs. 2 2 vs. 3
+* 1 vs. 3 2 vs. 3
+* 1 vs. (1, 2, 3) 2 vs. (1, 2, 3)
+
+Solution
+========
+
+Contrasts are orthogonal if each group is compared only once compared in the set of contrasts.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-onewayanova-0316-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/anova/oneway anova
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

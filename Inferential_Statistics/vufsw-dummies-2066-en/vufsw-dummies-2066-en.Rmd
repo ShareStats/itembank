@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Schermafbeelding__2019-01-30__om__14.19.54.png", recursive = TRUE)
+```
+
+Question
+========
+In a survey of cultural participation among school students, the following question was asked.  
+![](Schermafbeelding__2019-01-30__om__14.19.54.png)
+  
+Suppose you want to do a regression analysis with cultural participation as the dependent variable and these as independent. Is it necessary to make dummies of this variable, and if so, how many to include in the analysis include in the analysis?
+
+Answerlist
+----------
+* Yes, it is necessary because it is a nominal categorical variable: you must then include 5 dummy variables
+* Yes, it is necessary because it is a nominal categorical variable: you must then include 4 dummy variables
+* No, it is not necessary, only if you want to investigate nonlinear relationships relationships. It is allowed: you must then include 5 dummy variables
+* No, it is not necessary, only if you want to examine nonlinear relationships relationships. It is allowed: you must then include 4 dummy variables
+
+Solution
+========
+
+Answerlist
+----------
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-dummies-2066-en
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: inferential statistics/regression/dummies
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical thinking
+

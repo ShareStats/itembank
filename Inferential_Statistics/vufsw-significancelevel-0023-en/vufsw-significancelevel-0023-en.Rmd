@@ -1,0 +1,44 @@
+Question
+========
+A researcher conducts a single regression analysis with "**Income**" (net monthly salary, in euros) as the dependent variable and variable "**Age**" (age in years) as the independent variable.  
+  
+It calculates a 95% confidence interval (*confidence interval*) of the slope. This interval turns out to be [-0.02; 0.06].  
+  
+What can we conclude from this, if we test two-sidedly whether Age has a significant influence on Income? We use here a significance level of 5% (α = 0.05).
+
+Answerlist
+----------
+* Age does **have** a significant influence on Income, because the interval does **well** contain the number 0.05.
+* Age has **no** significant influence on Income, because the interval contains **well** the number 0.05.
+* Age has **no** significant influence on Income, because the interval contains **well** the number 0.
+* Age does **well** significantly affect Income, because the interval does **well** contain the number 0.
+
+Solution
+========
+
+Language Dutch
+
+Levels of Difficulty Easy
+
+M&T Basics of quantitative research Basics of quantitative research
+
+M&T BIS Default value
+Answerlist
+----------
+* False
+* False
+* True
+* False
+
+Meta-information
+================
+exname: vufsw-significancelevel-0023-en
+extype: schoice
+exsolution: 0010
+exshuffle: TRUE
+exsection: inferential statistics/nhst/significance level
+exextra[Type]: interpretating output
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

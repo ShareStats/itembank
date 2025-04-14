@@ -1,0 +1,25 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(exams)
+library(knitr)
+```
+Question
+========
+Waarom wordt de split-half betrouwbaarheid niet vaak gebruikt in de hedendaagse psychometrie?
+
+
+Solution
+========
+Het wordt niet vaak gebruikt omdat Cronbach's alpha een beter alternatief is dat ook wordt gegeven in de meeste statistische toepassingen. Cronbach's alpha is eigenlijk de gemiddelde split-half betrouwbaarheid van alle mogelijke splitsingen.
+
+Meta-information
+================
+exname: eur-reliability-105-nl
+extype: string
+exsolution: ""
+extol: 
+exsection: Reliability/Analysis/Parallel forms
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Reasoning

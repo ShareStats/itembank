@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-247-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-247-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Onder studenten psychologie werd een onderzoek uitgevoerd naar de houding van studenten ten opzichte van statistiek. Stelling 1 was "statistiek is nuttig in de context van deze studie." Deze bewering moest beantwoord worden op een 7-punts Likert-schaal, waarbij 1 = helemaal mee oneens en 7 = helemaal mee eens. Wat is het percentage studenten met een score van 1 (helemaal mee oneens) op stelling 1 (met 1 decimaal).
+
+* Downloaden**: [SPSS file](eur-descriptive-247-en-data.sav), [CSV file](eur-descriptive-247-en-data.csv)
+
+
+Solution
+========
+Het juiste antwoord is 13,5.
+
+Meta-information
+================
+exname: eur-descriptive-247-nl
+extype: num
+exsolution: 13.5
+extol: 0
+exsection: Descriptive statistics/Score interpretation/Percentile
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

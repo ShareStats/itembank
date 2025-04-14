@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-218-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-218-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+What is the percentile score of the student with student number 244081 (variable: st) associated with the grade of exam 3 (variable: vak3). Write your answer in the answer box (with 2 decimal places).
+
+* Download**: [SPSS file](eur-descriptive-218-nl-data.sav), [CSV file](eur-descriptive-218-nl-data.csv)
+
+
+Solution
+========
+The correct answer is 20.94.
+
+Meta-information
+================
+exname: eur-descriptive-218-en
+extype: num
+exsolution: 20.94
+extol: 0
+exsection: Descriptive statistics/Score interpretation/Percentile
+exextra[Type]: Calculation, Case
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

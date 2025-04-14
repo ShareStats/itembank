@@ -1,0 +1,26 @@
+Question
+========
+  
+If for two independent samples of 5 people each, the pooled variance equals 20, what is the value of the standard error of the difference between two sample averages? 
+Answerlist
+----------
+* 2
+* $\sqrt{5}$
+* $\sqrt{8}$
+* $\sqrt{10}$
+
+Solution
+========
+$SE=\sqrt{\frac{s_p^2}{n_1}+\frac{s_p^2}{n_2}}=\sqrt{\frac{20}{5}+\frac{20}{5}}=\sqrt{8}$
+$SE
+
+Meta-information
+================
+exname: uu-Difference-two-means-600-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Sampling Distributions/Difference two means
+exextra[Type]: Calculation
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

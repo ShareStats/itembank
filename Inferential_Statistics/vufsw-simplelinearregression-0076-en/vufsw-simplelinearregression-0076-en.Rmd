@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Screenshot__2021-02-13__at__12.28.08.png", recursive = TRUE)
+```
+
+Question
+========
+A researcher conducted a regression analysis to predict a person's interest in politics (Y) based on how often a person per week reads news articles <span class="tvcss_2 tvcss_3 tvcss_4 tvcss_5 tvcss_6 tvcss_7">(X). </span>Political interest was measured using a scale ranging from 1 ('not at all interested') to 10 (<span class="tvcss_2 tvcss_3 tvcss_4 tvcss_5 tvcss_6 tvcss_7">'</span>very interested'). The formula associated with the regression line is shown below.  
+What can you say about the **causality** between X and Y?   
+  
+![](Screenshot__2021-02-13__at__12.28.08.png)
+
+Answerlist
+----------
+* How often a person reads news articles per week is only causally related to one's political interest if there is no extrapolation occurs outside the observed range.
+* How often someone reads news articles per week is causally related to one's political interest if there are no *prediction errors* (prediction errors).
+* How often someone reads news articles per week is causally related to one's political interest if there are no *influential outliers* (influential outliers).
+* We cannot draw a firm conclusion based on regression analysis draw about causality and should think carefully about possible alternative explanations for the relationship found.
+
+Solution
+========
+
+Answerlist
+----------
+* False
+* False
+* False
+* True
+
+Meta-information
+================
+exname: vufsw-simplelinearregression-0076-en
+extype: schoice
+exsolution: 0001
+exshuffle: TRUE
+exsection: inferential statistics/regression/simple linear regression
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

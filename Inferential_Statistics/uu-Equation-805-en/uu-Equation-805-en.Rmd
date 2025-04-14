@@ -1,0 +1,43 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Equation-805-nl-tabel.jpg", recursive = TRUE)
+```
+
+
+Question
+========
+  
+A survey of British elementary school collects data on a variety of variables related to children's intelligence and achievement. Variables include reading, spelling, general knowledge, vocabulary, etc. The analysis below looks at whether, for children in grade 7, grammar (grammar) scores can be predicted using spelling scores. 
+
+![](uu-Equation-805-nl-tabel.jpg)
+
+What is the appropriate regression equation to make these predictions? 
+Answerlist
+----------
+* Predicted grammar = 0.483 + 0.529 spelling
+* Predicted spelling = 0.483 + 0.529 grammar
+* Predicted grammar = 10.471 + 0.483 spelling
+* Predicted spelling = 10.471 + 0.483 grammar
+
+Solution
+========
+  
+We want to predict grammar by spelling. So the equation should be: predicted grammar = a + b x spelling. We get the values of a and b from column B and they are a = 10.47 and b = 0.483.
+
+
+Answerlist
+----------
+* This answer is incorrect.
+* This answer is incorrect.
+* This answer is correct.
+* This answer is incorrect.
+
+Meta-information
+================
+exname: uu-Equation-805-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Regression/Equation
+exextra[Type]: Case, Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

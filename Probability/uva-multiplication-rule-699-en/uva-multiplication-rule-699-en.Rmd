@@ -1,0 +1,33 @@
+Question
+========
+
+Suppose there are two players playing with four pure dice. They must take turns rolling these four dice at the same time. Player *A* gets a point if no 3 is rolled and player *B* gets a point if at least one of the four dice has one 3 on top. Is this a fair game for both players according to probability theory?
+
+Answerlist
+----------
+
+* Yes, because both players have the same probability.
+* No, because player A has a greater chance than player B.
+* No, because player B has a greater chance than player A.
+
+Solution
+========
+
+Answerlist
+----------
+
+* Yes, because both players have the same odds: Incorrect
+* No, because player A has a greater chance than player B.:Incorrect
+* No, because player B has a greater chance than player A.: Correct
+
+Meta-information
+================
+exname: uva-multiplication-rule-699-en
+extype: schoice
+exsolution: 001
+exsection: Probability/Elementary Probability/General Rules/Multiplication rule
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

@@ -1,0 +1,25 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(exams)
+library(knitr)
+```
+Question
+========
+Een psychometrist die bij CITO werkt, wil de criteriumvaliditeit van een dyslexietest evalueren. De betrouwbaarheid van de test $R_xx$ is al onderzocht en bleek .70 te zijn. De maatstaf is het oordeel van een schoolpsycholoog dat behoorlijk, hoewel niet perfect, betrouwbaar is: $R_yy = $ .80. De waargenomen correlatie tussen de test en het criterium bleek .6 te zijn. De psychometrist twijfelt of ze de aangepaste correlatie moet berekenen en welke variabele ze moet aanpassen; de test, het criterium of beide. Haar wordt geadviseerd de gecorrigeerde correlatie te berekenen. Geef een argument waarom aanpassen in dit geval een opgeblazen indruk kan geven van de werkelijke criteriumvaliditeit.
+
+
+Solution
+========
+Aanpassen kan een opgeblazen indruk geven van de echte criteriumvaliditeit omdat het onrealistisch is dat dyslexie foutloos (perfect betrouwbaar) gemeten kan worden.
+
+Meta-information
+================
+exname: eur-reliability-118-nl
+extype: string
+exsolution: ""
+extol: 
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

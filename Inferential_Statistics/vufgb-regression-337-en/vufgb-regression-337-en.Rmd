@@ -1,0 +1,35 @@
+Question
+========
+  
+The class Generalized linear models includes General linear models.
+
+Which link function belongs to the Generalized linear model? 
+Answerlist
+----------
+* Normal link
+* Identity link
+* Log link
+* Logit link
+
+Solution
+========
+
+In the general linear model, the mean of *y* is modeled directly: $g(\mu) = \mu$. This link function is called the Identity link (the link function consists of multiplying the average by 1).
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-regression-337-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Regression
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

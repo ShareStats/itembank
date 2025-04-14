@@ -1,0 +1,51 @@
+Question
+========
+Een onderzoeker nam een willekeurige steekproef van 50 mannen en 52 vrouwen en en vroeg onder andere naar het aantal uren dat de respondenten per week op internet internet per week. De nulhypothese H<sub>0</sub> is dat er geen verschil is tussen mannen en vrouwen. geen verschil is tussen mannen en vrouwen; de alternatieve hypothese H<sub>a</sub> van de onderzoeker is dat het gemiddelde aantal uren per week wel verschilt tussen mannen en vrouwen. Dit wordt getest met alpha = 0.01. Hieronder staat (een deel van) de resultaten.  
+  
+
+<tabel> <tbody> <tr class="odd"> <td>gemiddeld verschil</td> <td>standaardafwijking van het gemiddelde verschil</td> <td>Vrijheidsgraden</td> </tr> <tr class="even"> <td>0,535</td> <td>0,954</td> <td>100</td> </tr> </tbody> </table>
+
+  
+Stel dat het gemiddelde aantal uren onder de mannen in de steekproef veel hoger zou zijn geweest. Welke grootheid (of grootheden) verandert (veranderen) als gevolg van het hogere gemiddelde van de mannen?
+
+Antwoordlijst
+----------
+* De *t*-waarde.
+* De alfa
+* De *t*-waarde en de alpha
+* Geen van bovenstaande antwoorden.
+
+Solution
+========
+
+De alfa is een hoeveelheid die je zelf bepaalt voor het testen. De *t* waarde kan worden berekend met het gemiddelde verschil gedeeld door de standaardfout. Als het gemiddelde van de mannen hoger is, zal het gemiddelde verschil ook hoger zijn, dus de *t* waarde ook hoger.   
+  
+Als je meer wilt weten over het berekenen van t-tests, kijk dan hier
+[clip](https://www.youtube.com/watch?v=A1lLo-np0KU&index=6&list=PLyLpEs0x9Bnl2e68nd7M6lecUqUNu2Sgn)
+
+Taal Nederlands
+
+Moeilijkheidsniveaus Gemiddeld
+
+M&T BIS Standaardwaarde
+
+M&T Hypothesetest: gemiddelden Standaardwaarde
+Antwoordlijst
+----------
+* Waar
+* Onwaar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-t-statistic-1135-nl
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/nhst/rest statistic/t-statistic
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

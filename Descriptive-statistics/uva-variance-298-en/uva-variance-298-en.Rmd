@@ -1,0 +1,35 @@
+Question
+========
+
+If I make 4 independent draws from a normal distribution with expectation 20 and variance 64, then the mean of these 4 draws will have as its distribution:
+
+Answerlist
+----------
+
+* N(0, 1)
+* N(5, 22)
+* N(20, 22)
+* N(20, 42)
+
+Solution
+========
+
+Answerlist
+----------
+
+* N(0, 1): Incorrect
+* N(5, 22): Incorrect
+* N(20, 22): Incorrect
+* N(20, 42): Correct
+
+Meta-information
+================
+exname: uva-variance-298-en
+extype: schoice
+exsolution: 0001
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Variance
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.448
+exextra[p-value]: 0.0248

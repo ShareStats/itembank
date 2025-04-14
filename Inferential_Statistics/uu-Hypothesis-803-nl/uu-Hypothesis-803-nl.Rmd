@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-hypothesis-803-en-tabel.jpg", recursive = TRUE)
+```
+
+Question
+========
+Voor een sociaalwetenschappelijk project wil je de communicatiepatronen van universiteitsstudenten bestuderen. Een van je onderzoeksvragen is: Hebben mannelijke studenten meer Facebookvrienden dan vrouwelijke studenten?
+
+U vindt de volgende resultaten:
+
+![](uu-hypothesis-803-en-tabel.jpg)
+
+Wat is de juiste set hypothesen voor deze onderzoeksvraag?
+
+  
+Antwoordlijst
+----------
+* $H_0: \mu_D = 0$ versus $H_1: \mu_D > 0$
+* $H_0: \mu_M - \mu_F = 0$ vs. $H_1: \mu_M - \mu_F > 0$
+* $H_0: \mu_D = 0$ versus $H_1: \mu_D \neq 0$
+* $H_0: \mu_M - \mu_F = 0$ vs. $H_1: \mu_M - \mu_F < 0$
+
+Solution
+========
+
+Antwoordlijst
+----------
+* Deze onderzoeksvraag gaat niet over een matched pairs design.
+* Juist.
+* Deze onderzoeksvraag gaat niet over een matched pair design.
+* Deze onderzoeksvraag vraagt niet of vrouwelijke studenten meer Facebookvrienden hebben dan mannelijke studenten.
+
+Meta-information
+================
+exname: uu-Hypothesis-803-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/NHST/Hypothesis
+exextra[Type]: Case
+exextra[Language]: Dutch

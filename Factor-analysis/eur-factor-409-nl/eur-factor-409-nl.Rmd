@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-factor-409-en-data.sav", recursive = TRUE)
+include_supplement("eur-factor-409-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een onderzoeker van het instituut voor psychologie doet onderzoek naar alcoholmisbruik onder adolescenten. De onderzoeker ontwierp 34 stellingen waar de adolescenten het mee eens of oneens kunnen zijn op een vierpuntsschaal (1 = helemaal mee eens; 2 = enigszins mee eens; 3 = enigszins mee oneens; 4 = helemaal mee oneens). Een voorbeeld van een stelling is: Als ik me eenzaam voel, drink ik graag een alcoholische drank. De antwoorden van 312 meisjes (0) en jongens (1) op de 34 stellingen staan in de dataset.
+
+Voer een factoranalyse uit met principal axis factoring met 3 factoren en een niet-orthogonale promax rotatie. Wat is de waarde van de coëfficiënt die de unieke bijdrage van factor 2 op item 9 aangeeft? (3 decimalen)
+
+Open de dataset hieronder om deze vraag te beantwoorden:
+
+* Download** [SPSS file](eur-factor-409-en-data.sav), [CSV file](eur-factor-409-en-data.csv)
+
+
+Solution
+========
+De waarde van de coëfficiënt die de unieke bijdrage van factor 2 op item 9 laat zien is -0,065 (zie de patronenmatrix voor de unieke bijdragen tussen de factoren en items).
+
+Meta-information
+================
+exname: eur-factor-409-nl
+extype: num
+exsolution: -0.065
+extol: 0
+exsection: Factor analysis/Pattern matrix, Factor analysis/Exploratory factor analysis, Factor analysis/Rotations
+exextra[Type]: Interpreting output, Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

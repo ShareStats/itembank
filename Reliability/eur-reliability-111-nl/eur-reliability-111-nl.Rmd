@@ -1,0 +1,29 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(exams)
+library(knitr)
+```
+Question
+========
+Een test bestaande uit 10 items heeft een alfaschatting van de betrouwbaarheid van .50. Hoeveel parallelle items moeten worden toegevoegd om een alfaschatting van betrouwbaarheid van .80 te krijgen?
+
+Gebruik $n =\frac{R_{xx-revised}(1-R_{xx-original})}{R_{xx-original}(1-R_{xx-revised})}$ waarin n de factor is waarmee het oorspronkelijke aantal items moet worden vermenigvuldigd
+
+
+Solution
+========
+Om het aantal items te berekenen dat moet worden toegevoegd, hebben we de formule van Spearman Brown nodig: 
+$n = \frac{R_{xx-revised}(1-R_{xx-original})}{R_{xx-original}(1-R_{xx-revised})}$ waarin n de factor is waarmee het oorspronkelijke aantal items moet worden vermenigvuldigd. So in our case:
+$n = \frac{.8(1-.5)}{.5(1-.8)} = \frac{.4}{.1} = 4$. Het aantal items dat moet worden toegevoegd is $40 ‐ 10 = 30$.
+
+Meta-information
+================
+exname: eur-reliability-111-nl
+extype: num
+exsolution: 30
+extol: 0
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Calculate
+exextra[Program]: Calculator
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

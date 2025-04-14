@@ -1,0 +1,29 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-232-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-232-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+It was found that the grades of logic (variable: logic) were not calculated correctly for all students. Therefore, all students with a grade of 8.0 or higher will have 0.2 points added. Make this change in the data file and calculate the average for all students (i.e., with grades higher, equal to AND lower than an 8.0) for the adjusted grades.
+
+n.b. The adjusted grade may be above 10, you do NOT need to correct for this when calculating the average. Write your answer in the answer box (with 3 decimal places).
+
+* Download**: [SPSS file](eur-descriptive-232-nl-data.sav), [CSV file](eur-descriptive-232-nl-data.csv)
+
+
+Solution
+========
+The correct answer is 5,190.
+
+Meta-information
+================
+exname: eur-descriptive-232-en
+extype: num
+exsolution: 5.190
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
+exextra[Type]: Data manipulation, Calculation
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

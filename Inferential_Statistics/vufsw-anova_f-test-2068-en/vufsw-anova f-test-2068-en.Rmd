@@ -1,0 +1,42 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Schermafbeelding__2019-01-30__om__19.20.50.png", recursive = TRUE)
+include_supplement("Schermafbeelding__2019-01-30__om__19.21.31.png", recursive = TRUE)
+```
+
+Question
+========
+Below are some output tables from a series of ANOVA and an ANCOVA analyses of cultural participation measured at time 1 (culpar\_1: before the CJP was distributed) and at time 2 (culpar_2) among the same respondents who can be divided into 2 groups be divided: a group that does not receive a cjp and a group that between time 1 and 2 received a CJP (a group that already had a cjp is excluded).  
+  
+![](Schermafbeelding__2019-01-30__om__19.20.50.png)![](Schermafbeelding__2019-01-30__om__19.21.31.png)
+  
+Which *F* value tests whether the assumption of independence of covariate and treatment is met?
+
+Answerlist
+----------
+* .136
+* 97.556
+* 194.933
+* 8.622
+
+Solution
+========
+
+Answerlist
+----------
+* False
+* False
+* False
+* True
+
+Meta-information
+================
+exname: vufsw-anova f-test-2068-en
+extype: schoice
+exsolution: 0001
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/anova/anova f-test
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

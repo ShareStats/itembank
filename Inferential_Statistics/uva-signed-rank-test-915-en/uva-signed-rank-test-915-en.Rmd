@@ -1,0 +1,33 @@
+Question
+========
+
+Using a Wilcoxon test, two groups (A and B) are compared. There are three participants in each group and it is examined at which group got the most questions right. The scores are ranked (1 through 6). The difference between group A and group B is: A - B = 1. A possible ranking of the participants in the two groups is
+
+Answerlist
+----------
+
+* Order of rank of group A is (1, 2, 3) and of group B (4, 5, 6)
+* Order of rank of group A is (4, 5, 6) and of group B (1, 2, 3)
+* Ranking order of group A is (1, 5, 6) and of group B (2, 3, 4)
+
+Solution
+========
+
+Answerlist
+----------
+
+* Rank order of group A is (1, 2, 3) and of group B is (4, 5, 6): Incorrect
+* Rank of group A is (4, 5, 6) and of group B (1, 2, 3): Incorrect
+* Rank of group A is (1, 5, 6) and of group B (2, 3, 4): Correct
+
+Meta-information
+================
+exname: uva-signed-rank-test-915-en
+extype: schoice
+exsolution: 001
+exsection: Inferential Statistics/Non-parametric Techniques/Signed Rank test
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.001
+exextra[p-value]: 0.3038

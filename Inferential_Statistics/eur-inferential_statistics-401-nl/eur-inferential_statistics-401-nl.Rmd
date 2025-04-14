@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-401-en-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-401-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een kennistest over alcohol bevat 20 items en wordt afgenomen bij 202 middelbare scholieren. De variabele [totaalscore] geeft de totale juiste scores. Geslacht (0 = vrouw; 1 = man) en alcoholgebruik (0 = heel vaak; 1 = vaak; 2 = soms; 3 = nooit) zijn ook opgenomen in de dataset.
+
+Een onderzoeker wil onderzoeken of hij de totaalscore kan voorspellen met een IQ-score en vraagt zich af of deze relatie verschillend is voor jongens en meisjes. Voer een regressieanalyse uit om deze vraag te onderzoeken. Wat is de ongestandaardiseerde regressiecoëfficiënt van het interactie-effect geslacht x IQ score? Opmerking: Zorg ervoor dat het geslacht gecodeerd is als 0 voor de meisjes en 1 voor de jongens. (3 decimalen)
+
+Open de dataset hieronder om deze vraag te beantwoorden:
+
+* Download** [SPSS file](eur-inferential_statistics-401-en-data.sav), [CSV file](eur-inferential_statistics-401-en-data.csv)
+
+
+Solution
+========
+De niet-gestandaardiseerde coëfficiënt voor het interactie-effect (geslacht x IQ) is -0,096. Bereken eerst een interactievariabele (geslacht*IQ). Gebruik dan regressie om de totale score te voorspellen met geslacht, IQ en de interactie als voorspellers. Vind ten slotte de coëfficiënt voor het interactie-effect.
+
+Meta-information
+================
+exname: eur-inferential_statistics-401-nl
+extype: num
+exsolution: -0.096
+extol: 0
+exsection: Inferential Statistics/Regression/Slope, Inferential Statistics/Regression/Simple linear regression
+exextra[Type]: Interpreting output, Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

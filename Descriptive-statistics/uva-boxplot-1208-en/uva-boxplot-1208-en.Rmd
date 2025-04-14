@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-boxplot-1208-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Below is a boxplot of a sample of 60 observations.Ê For the relationship between mean and median will hold here:
+
+![](uva-boxplot-1208-nl-graph01.png)
+
+Answerlist
+----------
+
+* Median
+* Median = mean
+* Median > mean
+* Median and mean are not comparable
+
+Solution
+========
+
+Answerlist
+----------
+
+* Median: Incorrect
+* Median = average: Incorrect
+* Median > mean: Correct
+* Median and mean are not comparable: Incorrect
+
+Meta-information
+================
+exname: uva-boxplot-1208-en
+extype: schoice
+exsolution: 0010
+exsection: Descriptive statistics/Data representation/Graphs/Boxplot
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 1.592
+exextra[p-value]: 0.854

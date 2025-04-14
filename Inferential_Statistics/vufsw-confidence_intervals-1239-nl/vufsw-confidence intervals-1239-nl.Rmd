@@ -1,0 +1,35 @@
+Question
+========
+Stel dat een tweezijdige significantietest voor een populatiehelling in een regressie een p-waarde heeft die lager is dan 0,05. Dan is het 95% betrouwbaarheidsinterval voor de geschatte populatiehelling....
+
+Antwoordenlijst
+----------
+* Bevat **geen** 0.
+* Bevat 0.
+* Kan **wel** 0 bevatten of **niet** bevatten (dat weten we niet zeker).
+* Bevat de ware populatiehelling.
+
+Solution
+========
+
+Het bevat geen 0. Aangezien de P-waarde van de test met H<sub>0</sub>: b=0 lager is dan 5%, dan ligt 0 niet in het bereik van mogelijke waarden volgens het 95%-betrouwbaarheidsinterval.
+
+Antwoordlijst
+----------
+* Waar
+* Onwaar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-confidence intervals-1239-nl
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/confidence intervals
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

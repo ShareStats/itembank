@@ -1,0 +1,33 @@
+Question
+========
+
+A factor analysis is performed on fifteen items designed to measure fear of St. Nicholas in children. Principal component analysis with oblique (skewed) rotation results in two statistically and substantively interesting dimensions. Factor A concerns fear of Sinterklaas and factor B concerns fear of Black Pete.
+
+Evaluate the following two statements on factor analysis.
+
+I. In general, factors with an Eigenvalue greater than 1 explain more test variance than an individual item. II. If an item (after rotation) has a high factor loading ($|a| > .40$) has on factor A, factor A is strongly related to factor B.
+
+Answerlist
+----------
+* I is correct, II is correct.
+* I is correct, II is incorrect.
+* I is not correct, II is correct.
+* I is not correct, II is not correct.
+
+
+Solution
+========
+
+* Tatement I:* Eigenvalue is calculated by: (1) For each item, how much variance of that item is explained by the factor (2) This is converted into a proportion (for example: .60 (=60%) of the item is explained by the factor) (3) The proportion of all items are added together to determine the Eigenvalue of a factor. Thus, each item has a variance of 1.00. When a factor has an Eigenvalue >1.00, the factor explains more variance than an individual item.
+
+* Tatement II:* This is incorrect. If an item (after rotation) has a high factor loading ($|a| > .40$) has on factor A, then this item is strongly related to the factor in question.
+
+Meta-information
+================
+exname: uu-Factor-loadings-001-en
+extype: schoice
+exsolution: 0100
+exsection: Factor analysis/Principle component analysis, Factor analysis/Factor loadings
+exextra[Type]: Case, Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

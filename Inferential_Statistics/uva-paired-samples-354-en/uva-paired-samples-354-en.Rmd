@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-paired-samples-354-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Below is SPSS output from a paired T test, with H~0~: μ~measurement 1~ = μ~measurement 2~. The value of the test magnitude t (the question mark in the output) is equal to
+
+![](uva-paired-samples-354-nl-graph01.png)
+
+Answerlist
+----------
+
+* 1.1
+* 1.16
+* 1.21
+* 3.05
+
+Solution
+========
+
+Answerlist
+----------
+
+* 1.1: Incorrect
+* 1.16: Incorrect
+* 1.21: Incorrect
+* 3.05: Correct
+
+Meta-information
+================
+exname: uva-paired-samples-354-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/t-test/Paired samples
+exextra[Type]: Interpreting output, Calculation
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.358
+exextra[p-value]: 0.2321

@@ -1,0 +1,26 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+
+
+Question
+========
+Een onderzoeker is geïnteresseerd in het meten van motivatie. Ze realiseert zich dat motivatie uit verschillende aspecten of dimensies bestaat. Op basis van de resultaten van een factoranalyse kan ze 4 dimensies extraheren. Een collega adviseert haar om rotatie toe te passen. Wat is een voordeel van het uitvoeren van een (schuine) rotatie?
+
+
+Solution
+========
+Het uitvoeren van a(n) (schuine) rotatie is erg nuttig bij het interpreteren van de factoren. Met deze techniek kun je ontdekken of er een eenvoudige structuur bestaat en dus onderzoeken of items die theoretisch hetzelfde meten uitsluitend op dezelfde factor laden.
+
+Meta-information
+================
+exname: eur-factor-105-nl
+extype: string
+exsolution: ""
+extol: 
+exsection: Factor analysis/Rotations, Factor analysis/Exploratory factor analysis
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

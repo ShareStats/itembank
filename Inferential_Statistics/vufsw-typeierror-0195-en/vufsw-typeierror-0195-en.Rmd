@@ -1,0 +1,49 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Screen__Shot__2019-03-02__at__18.57.08.png", recursive = TRUE)
+```
+
+Question
+========
+English language tests were administered twice to 31 students: the first measurement took place prior to a short language course, the second measurement after they had completed the course. The researcher wanted know whether the number of errors had decreased. She always noted the number of language errors made by the respondents in a test taken. Below are the results.  
+The researcher tests the hypothesis that the number of language errors made after the course is significantly lower than before the course.  
+  
+Suppose the researcher makes the so-called **Type I error.** Which error is then made?  
+  
+![](Screen__Shot__2019-03-02__at__18.57.08.png)
+
+Answerlist
+----------
+* In reality (in the population), the course has **no** positive effect, but the study shows that the observed decrease in the mean number of errors between the pre- and post-measurement (measurement 1 and 2) **well** significant.
+* He course actually (in the population) has a** **positive effect, but the study shows that the observed decrease in the mean number of errors between the pre- and post-measurements (Measurements 1 and 2) **not** significant.
+* He course actually (in the population) has a** **positive effect, but the study shows that the observed decrease in the mean number of errors between the pre- and post-measurement (measurements 1 and 2) **well** significant.
+* The course actually (in the population) has **no **positive effect, but the study shows that the observed decrease in the mean number of errors between the pre- and post-measurement (Measurements 1 and 2) is **not** significant. **not** significant.
+
+Solution
+========
+
+Language Dutch
+
+Levels of Difficulty Easy
+
+M&T Basics of quantitative research Basics of quantitative research
+
+M&T BIS Default value
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-typeierror-0195-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/nhst/statistical errors/type I error
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

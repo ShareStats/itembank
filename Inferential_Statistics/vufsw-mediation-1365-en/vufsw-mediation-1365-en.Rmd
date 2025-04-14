@@ -1,0 +1,48 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1602951598702.png", recursive = TRUE)
+include_supplement("1602951629778.png", recursive = TRUE)
+```
+
+Question
+========
+The analyses below were conducted on data from a sample of young adults between the ages of 20 and 40 who were surveyed via a questionnaire that asked about their cultural preferences. The research questions are (1) to what extent the amount of television viewing (variable: TV WATCHING (scale 0-1): a higher score means more TV watched) is caused by the social position of the parental environment (measured is parents' education (variable: FAMEDUC (scale 0-7), ranging from primary education (0) to university (7) a higher score means higher education) and (2) whether this relationship can be explained by the extent to which previously (when the respondent was 12 years old) television was watched by the parents (variable: FAMTV (scale 0-1), a higher score means more TV was watched).  
+Below are the results of two regression analyses.  
+  
+Regression 1:  
+![](1602951598702.png)
+  
+Regression 2:  
+![](1602951629778.png)
+  
+  
+In **in model 2 in the first regression analysis**, how do you interpret the unstandardized regression coefficient of "famtv"?
+
+Answerlist
+----------
+* When 'fameduc' is held constant, the difference in 'tvwatching' between the young adults whose parents watched the least and most watched television .218
+* When 'fameduc' is held constant, for every hour that the parents used to watch more television the degree of television watching of the young adult increases by .218
+* Only for young adults whose parents had the lowest level of education (0) is the difference in "tvwatching" between those whose parents least and most watched television .218
+* Only for young adults whose parents watched the least television (0) is the effect of parents' education .218
+
+Solution
+========
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-mediation-1365-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression/mediation
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

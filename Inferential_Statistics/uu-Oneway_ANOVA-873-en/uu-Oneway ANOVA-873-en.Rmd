@@ -1,0 +1,38 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Oneway-ANOVA-873-nl-graph01.jpg", recursive = TRUE)
+```
+Question
+========
+SPSS is used to analyze data from an experiment with children. Four groups, each of 15 children, are each shown a different video about a child. In group A) the child is being bullied, B) the child falls and runs away crying, C) the child falls and is comforted by a teacher, and D) the child plays. Afterwards, the degree of empathy is measured in all children. Do the movies have a different effect on the average empathy scores? Some of the output is below.
+
+![](uu-Oneway-ANOVA-873-nl-graph01.jpg)
+
+Some of the dispersion in the empathy scores is explained by the fact that the children respond differently to the different movies and some remains unexplained. What percentage of the spread remains unexplained?
+
+Answerlist
+----------
+* 66.9%
+* 51.3%
+* 33.1%
+* 25.4%
+
+
+Solution
+========
+You can calculate the proportion explained spread using the formula: 
+$\begin{equation*} \eta^2 = \frac{SS_{between}}{SS_{total}} = \frac{25.42}{76.72} = 0.331 \end{equation*}$
+ 
+The proportion of unexplained dispersion is then what remains: 1 - 0.331 = 0.669 or:
+ 
+$\begin{equation*} \eta^2 =  \frac{SS_{within}}{SS_{total}} = \frac{51.30}{76.72} = 0.669 \end{equation*}$
+
+Meta-information
+================
+exname: uu-Oneway ANOVA-873-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Interpretating output, Calculation
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Reasoning

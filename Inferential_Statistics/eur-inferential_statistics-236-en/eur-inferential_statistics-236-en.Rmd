@@ -1,0 +1,29 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-236-nl-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-236-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+A researcher doubts whether he would not be better off becoming an athlete after all, and if he chooses to do so, what sport would be best for him. To determine this for himself, he drew a sample from all professional athletes in the U.S. and determined what their average annual income was (in 10,000 dollars). In addition, he determined what sport [Football = 1, Basketball = 2, Baseball = 3] someone did, and whether it was a male [Gender = 0] or female [Gender = 1] athlete.
+
+Using the LSD correction, test pairwise differences in income [Income] between the three types of athletes [Sports]. What is the p-value associated with the statistic testing the difference between Basketball Players [Sport=2] and Baseball Players [Sport=3]? (3 decimal places).
+
+* Download**: [SPSS file](eur-inferential_statistics-236-nl-data.sav), [CSV file](eur-inferential_statistics-236-nl-data.csv)
+
+
+Solution
+========
+The correct answer is 0.694.
+
+Meta-information
+================
+exname: eur-inferential_statistics-236-en
+extype: num
+exsolution: 0.694
+extol: 0
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Post-hoc test, Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

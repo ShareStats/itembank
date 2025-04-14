@@ -1,0 +1,29 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-203-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-203-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Men and women often comment on each other's driving in the car. We look at the gender of who is behind the wheel [Driver, where male = 0, female = 1], what make of car someone drives [Car, where Ford = 1, Audi = 2, Toyota = 3, and Volkswagen = 4], the miles driven [Driven_kilometers] and the miles as a co-driver [Co-driver_kilometers]. We also look at who received a collision and who did not [Collision, where no collision = 0, did collision = 1].
+
+What is the average number of Miles Driven for the Female Drivers [Driver=1]? Write the average found in the answer box (using 3 decimal places).
+
+* Download**: [SPSS file](eur-descriptive-203-nl-data.sav), [CSV file](eur-descriptive-203-nl-data.csv)
+
+
+Solution
+========
+The correct answer is 96,886.
+
+Meta-information
+================
+exname: eur-descriptive-203-en
+extype: num
+exsolution: 96.886
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

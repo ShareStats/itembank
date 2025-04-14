@@ -1,0 +1,39 @@
+Question
+========
+
+The following cross tabulation includes data from 200 individuals for two variables A and B.
+
+  ------- ------- ------- ------- A = 1 A = 2 A = 3 B = 1 50 36 64 B = 2 20 12 18 ------- ------- ------- -------
+
+The events A=2 and B=1 are
+
+Answerlist
+----------
+
+* Dependent, because P(A=2 ∪ B=1) ≠ P(A=2) + P(B=1)
+* Dependent, because P(A=2 | B=1) P(B=1 | A=2)
+* Independent, because P(A=2 ∩ B=1) = P(A=2) P(B=1)
+* Independent, because P(A=2 ∪ B=1) = P(A=2) + P(B=1) - P(A=2 ∩ B=1)
+
+Solution
+========
+
+Answerlist
+----------
+
+* Dependent, because P(A=2 ∪ B=1) ≠ P(A=2) + P(B=1): Incorrect
+* Dependent, because P(A=2 | B=1) P(B=1 | A=2): Incorrect
+* Independent, because P(A=2 ∩ B=1) = P(A=2) P(B=1): Correct
+* Independent, because P(A=2 ∪ B=1) = P(A=2) + P(B=1) - P(A=2 ∩ B=1): Incorrect
+
+Meta-information
+================
+exname: uva-addition-rule-540-en
+extype: schoice
+exsolution: 0010
+exsection: Probability/Elementary Probability/General Rules/Addition rule
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

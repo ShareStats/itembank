@@ -1,0 +1,35 @@
+Question
+========
+
+If I perform 2 independent draws X~1~ and X~2~ from the same distribution (with variance = 5), then for the variances of 2X~1~ and X~1~ + X~2~:
+
+Answerlist
+----------
+
+* Var(2X1) < var(X1 + X2)
+* Var(2X1) = var(X1 + X2)
+* Var(2X1) > var(X1 + X2)
+* Var(2X1) and var(X1 + X2) are not comparable
+
+Solution
+========
+
+Answerlist
+----------
+
+* Var(2X1) < var(X1 + X2): Incorrect
+* Var(2X1) = var(X1 + X2): Incorrect
+* Var(2X1) > var(X1 + X2): Correct
+* Var(2X1) and var(X1 + X2) are not comparable: Incorrect
+
+Meta-information
+================
+exname: uva-variance-258-en
+extype: schoice
+exsolution: 0010
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Variance
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.441
+exextra[p-value]: 0.2254

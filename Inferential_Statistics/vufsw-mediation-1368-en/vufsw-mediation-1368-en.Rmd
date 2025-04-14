@@ -1,0 +1,52 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1602951598702.png", recursive = TRUE)
+include_supplement("1602951629778.png", recursive = TRUE)
+include_supplement("1602837664810.png", recursive = TRUE)
+include_supplement("1602837678070.png", recursive = TRUE)
+include_supplement("1602837695524.png", recursive = TRUE)
+include_supplement("1602854063507.png", recursive = TRUE)
+```
+
+Question
+========
+The analyses below were conducted on data from a sample of young adults between the ages of 20 and 40 who were surveyed via a questionnaire that asked about their cultural preferences. The research questions are (1) to what extent the amount of television viewing (variable: TV WATCHING (scale 0-1): a higher score means more TV watched) is caused by the social position of the parental environment (measured is parents' education (variable: FAMEDUC (scale 0-7), ranging from primary education (0) to university (7) a higher score means higher education) and (2) whether this relationship can be explained by the extent to which previously (when the respondent was 12 years old) television was watched by the parents (variable: FAMTV (scale 0-1), a higher score means more TV was watched).  
+Below are the results of two regression analyses.  
+  
+Regression 1:  
+![](1602951598702.png)
+  
+Regression 2:  
+![](1602951629778.png)
+  
+  
+Which causal model best applies to the outcomes of the analysis?
+
+Answerlist
+----------
+* ![](1602837664810.png)
+* ![](1602837678070.png)
+* ![](1602837695524.png)
+* ![](1602854063507.png)
+
+Solution
+========
+
+Answerlist
+----------
+* False
+* False
+* False
+* True
+
+Meta-information
+================
+exname: vufsw-mediation-1368-en
+extype: schoice
+exsolution: 0001
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression/mediation
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

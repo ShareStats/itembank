@@ -1,0 +1,41 @@
+Question
+========
+Om nieuw personeel te selecteren gebruikt het politiekorps een procedure waarbij sollicitanten beoordeeld worden op drie doorlopende schalen: stressbestendigheid, sociabiliteit en intelligentie. Om de validiteit van deze procedure te onderzoeken wordt een willekeurige steekproef van politieagenten beoordeeld op deze drie psychologische schalen. Daarnaast beoordeelt hun supervisor hun algehele functioneren op een schaal van 0 (slecht functioneren) tot 100 (uitstekend functioneren).
+
+Een onderzoeker wil weten of stressbestendigheid en sociabiliteit samen een significant deel van de variatie in het algemeen functioneren verklaren, na controle voor intelligentie. Welke analysetechniek is hiervoor het meest geschikt?
+
+Antwoordlijst
+----------
+* Hiërarchische regressieanalyse
+* Meervoudige regressieanalyse (methode: enter)
+* Gemengde ANOVA
+* ANCOVA
+
+
+Solution
+========
+Hiërarchische regressieanalyse is het juiste antwoord. Je wilt weten wat het effect is van twee continue variabelen op het algeheel functioneren als je controleert voor een derde continue variabele. Van deze opties geeft alleen een hiërarchische regressie antwoord op deze vraag door middel van R-kwadraat verandering.
+
+Een meervoudige regressieanalyse zou alleen testen op een algemeen effect (verklaarde variantie) en zou niet controleren voor een specifieke variabele.
+
+Gemengde ANOVA is irrelevant omdat er geen mix is van factoren tussen en binnen de proefpersonen.
+
+Een ANCOVA is hier ook niet relevant. Je gebruikt een ANCOVA als je wilt kijken naar het effect van een categorische onafhankelijke variabele op een continue afhankelijke variabele, terwijl je controleert voor een andere continue variabele (covariaat) die covarieert met de afhankelijke variabele. In dit geval is er geen categorische onafhankelijke variabele.
+
+Antwoordlijst
+----------
+* Waar
+* Onwaar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: eur-inferential_statistics-211-nl
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Regression/Multiple linear regression/R squared change, Inferential Statistics/Regression/Simple linear regression, Inferential Statistics/Regression/R squared
+exextra[Type]: Test choice
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

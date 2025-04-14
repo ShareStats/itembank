@@ -1,0 +1,31 @@
+Question
+========
+The Skepsis Foundation casts a critical eye on extraordinary claims, pseudoscientific theories, dubious therapies and paranormal beliefs. In this context, an experiment was conducted on the degree of skepticism of academics when evaluating research findings. Respondents were randomly assigned to three sources of information:
+
+1 = newspaper science supplement, 2 = peer reviewed scientific journal, 3 = popular scientific journal.
+
+In addition to this experimental condition, the variable SEKSE and the variable AGE (in years) were also included in the analysis.
+
+Suppose none of the necessary assumptions were violated, which analysis technique is most appropriate for analyzing the relationships between the independent variables and the dependent variable?
+
+Answerlist
+----------
+* Two-way ANOVA
+* Two-way ANCOVA
+* Three-way ANCOVA
+* Three-way ANOVA
+
+
+Solution
+========
+Explanation: The dependent variable is respondents' ratings of the items. How this was measured is not made clear. However, all response categories indicate a variable of minimal interval measurement level. The independent variable in this study is the type of information source (nominal measurement level, 3 categories). In addition, it is obvious to control for SEKSE (nominal, 2 categories) and AGE (in years, i.e., ratio measurement level). Nominal covariates were not considered in this course, so SEKSE is included as an independent variable. This brings the total to two independent variables, one covariate and one dependent variable. This yields a two-way ANCOVA as the appropriate analysis technique.
+
+Meta-information
+================
+exname: uu-ancova-102-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA
+exextra[Type]: Test choice
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

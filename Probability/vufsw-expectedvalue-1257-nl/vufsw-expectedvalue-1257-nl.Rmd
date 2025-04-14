@@ -1,0 +1,50 @@
+Question
+========
+Een onderzoeker is benieuwd hoe vaak mensen sporten gedurende een week en interviewt 100 mensen. Hij vindt de volgende resultaten.  
+Wat is de verwachte waarde van het aantal dagen dat mensen sporten per week op basis van deze steekproef?  
+  
+
+<table class="fr-alternate-rows tvcss_2 tvcss_3"> <colgroup> <col style="width: 11%" /> <col style="width: 11%" /> <col style="width: 11%" /> <col style="width: 11%" /> <col style="width: 11%" /> <col style="width: 11%" /> <col style="width: 11%" /> <col style="width: 11%" /> <col style="width: 11%" /> </colgroep> <tbody> <tr class="odd"> <td class="tvcss_4"><strong>Sporten<br /> (hoeveel dagen?)</strong><br /> </td> <td class="tvcss_5">0<br /> </td> <td class="tvcss_6">1<br /> </td> <td class="tvcss_7">2<br /> </td> <td class="tvcss_8">3<br /> </td> <td class="tvcss_8">4<br /> </td> <td class="tvcss_8">5<br /> </td> <td class="tvcss_8">6<br /> </td> <td class="tvcss_9">7<br /> </td> </tr> <tr class="even"> <td class="tvcss_4"><strong>P(y)<br /> </strong></td> <td class="tvcss_5">0.70<strong><br /> </strong></td> <td class="tvcss_6">0.10<strong><br /> </strong></td> <td class="tvcss_7">0.08<br /> </td> <td class="tvcss_8">0.05<strong><br /> </strong></td> <td class="tvcss_8">0.01<strong><br /> </strong></td> <td class="tvcss_8">0.01<br /> </td> <td class="tvcss_8">0.03</td> <td class="tvcss_9">0.02<strong><br /> </strong></td> </tr> </tbody> </table>
+
+Antwoordlijst
+----------
+* 1.00
+* 0.82
+* 0.24
+* 0.14
+* 0.70
+
+Solution
+========
+
+Het is 0,82.  
+  
+Je kunt dit berekenen door: 0\*0,7+1\*0,1+2\*0,08+3\*0,05 etc.
+
+Taal Nederlands
+
+Moeilijkheidsniveaus Gemiddeld
+
+M&T Grondbeginselen van kwantitatief onderzoek Grondbeginselen van kwantitatief onderzoek
+
+M&T BIS Standaardwaarde
+Antwoordlijst
+----------
+* Onwaar
+* Waar
+* Onwaar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-expectedvalue-1257-nl
+extype: schoice
+exsolution: 01000
+exshuffle: TRUE
+exsection: probability/elementary probability/random variables/expected value
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

@@ -1,0 +1,32 @@
+Question
+========
+  
+In a multiple regression model, two predictors ($x_{1}$ and $x_{2}$) and the interaction between $x_{1}$ and $x_{2}$ included ($x_{1}*x_{2}$). What is, after centering the predictors $x_{1}$ and $x_{2}$, the correct interpretation of the regression coefficient ($b_{1}$) associated with the first predictor? 
+Answerlist
+----------
+* The estimated relationship between $x_{1}$ and y given $x_{2} = 0$
+* The approximate relationship between $x_{1}$ and y given an average score on $x_{2}$.
+* The estimated relationship between $x_{1}$ and y given that $x_{2}$ remains constant
+* The approximate relationship between $x_{1}$ and y given a constant of 0
+
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Correct
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-slope-003-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Regression/Slope
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

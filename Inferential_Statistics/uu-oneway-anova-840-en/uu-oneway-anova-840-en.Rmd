@@ -1,0 +1,35 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-oneway-anova-840-nl-tabel.jpg", recursive = TRUE)
+```
+
+Question
+========
+From a study, the result is presented in the ANOVA table below
+
+![](uu-oneway-anova-840-nl-tabel.jpg)
+  
+This shows that:
+
+Answerlist
+----------
+* The result found is not significant at $\alpha = .05$ because $F_{obt} < F_{crit}$.
+* The result found is not significant at $\alpha = .05$ because $F_{obt} > F_{crit}$.
+* The result found is significant at $\alpha = .05$ because $F_{obt} < F_{crit}$.
+* The result found is significant at $\alpha = .05$ because $F_{obt} > F_{crit}$.
+
+
+Solution
+========
+
+$F_{obt} =\frac{20}{2.5} = 8.0$. 
+$F_{crit} = 3.49$
+
+Meta-information
+================
+exname: uu-oneway-anova-840-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Interpretating output
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

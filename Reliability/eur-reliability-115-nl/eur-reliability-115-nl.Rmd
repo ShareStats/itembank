@@ -1,0 +1,28 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(exams)
+library(knitr)
+```
+Question
+========
+Een test die assertiviteit meet, wordt zowel voor als na een assertiviteitstraining afgenomen. De variantie in de pre-test is 8 en de betrouwbaarheid is .75. De posttest heeft een variantie van 7 en de betrouwbaarheid is .80. De correlatie tussen de scores van de pre- en posttest is .65. Bereken de betrouwbaarheid van de verschilscores.
+
+$R_d = \frac{S^2_{Xo} \times R_{XX} + S^2_{Yo} \times R_{YY}-2\times r_{XoYo}\times\ S_{Xo} \times S_{Yo}}{S^2_{XO} + S^2_{YO} - 2\times r_{XoYo}\times\ S_{Xo} \times S_{Yo}}$
+
+
+Solution
+========
+Om de betrouwbaarheid van de verschilscores te berekenen, moeten we de eerder genoemde formule gebruiken: 
+$R_d = \frac{8 \times .75+7\times.80-2\times.65\times\sqrt{8\times7}}{8+7-2\times.65\times \sqrt{8\times7}} = \frac{1.87}{5.27} = .355$
+
+Meta-information
+================
+exname: eur-reliability-115-nl
+extype: num
+exsolution: .355
+extol: 0
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Calculation
+exextra[Program]: Calculator
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,43 @@
+Question
+========
+Een onderzoeker vraagt aan 10 mensen of ze de vorige dag niet (0) of wel (1) de vorige dag vegetarisch hebben gegeten. Dit levert de onderstaande gegevens op.  
+  
+
+<tabel> <tbody> <tr class="odd"> <td>Observatie</td> <td>1</td> <td>2</td> <td>3</td> <td>4</td> <td>5</td> <td>6</td> <td>7</td> <td>8</td> <td>9</td> <td>10</td> </tr> <tr class="even"> <td><em> x </em></td> <td>0</td> <td>1</td> <td>0</td> <td>0</td> <td>1</td> <td>0</td> <td>0</td> <td>1</td> <td>0</td> <td>0</td> </tr> </tbody> </table>
+
+  
+De standaardfout van het percentage mensen dat vegetarisch eet is ...
+
+Antwoordenlijst
+----------
+* 0.021
+* 0.145
+* 0.153
+* 0.458
+
+Solution
+========
+
+De berekening van de standaardfout is: se = sd / (√n)  Bereken eerst de sd: de wortel uit het verschil tussen de waarde en het gemiddelde, alle som dan delen door de n en daaruit weer de wortel.  
+(7x(0,3)<sup>2</sup> + 3X (0,7)<sup>2</sup>)= 2,107  SD = √ (2,107/10)= 0,459 SE= 0,459 / √10 = 0,145
+
+
+Antwoordlijst
+----------
+* Onwaar
+* Waar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-measures of spread-1141-nl
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: descriptive statistics/summary statistics/measures of spread
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

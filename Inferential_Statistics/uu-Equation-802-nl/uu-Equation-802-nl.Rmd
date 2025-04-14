@@ -1,0 +1,40 @@
+Question
+========
+  
+De volgende regressievergelijking voor het voorspellen van $y =$ stressniveau wordt gegeven:
+
+$\hat{y} =$ 200 - (Minuten Massage per Dag) - 2(Minuten Lichaamsbeweging per Dag) + 22(Geslacht) - 0.5(Geslacht*Minuten Massage per Dag)
+
+De variabele Geslacht wordt gecodeerd als Man = 0 en Vrouw = 1.
+
+Wat is de voorspelde score voor het stressniveau van een vrouw die 30 minuten per dag gemasseerd wordt en een uur per dag sport?
+
+  
+Antwoordlijst
+----------
+* 175
+* 72
+* 57
+* 35
+
+Solution
+========
+
+De voorspelde score is gelijk aan: $\hat{y} = 200 - 30 - 2 \times 60 + 22\times 1 - 0.5 \times 1 \times 30 = 57$
+
+Antwoordlijst
+----------
+* Dit antwoord is onjuist.
+* Dit antwoord is onjuist.
+* Dit antwoord is juist.
+* Dit antwoord is onjuist.
+
+Meta-information
+================
+exname: uu-Equation-802-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Regression/Equation
+exextra[Type]: Calculation
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

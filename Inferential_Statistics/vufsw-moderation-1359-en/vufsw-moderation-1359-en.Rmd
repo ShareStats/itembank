@@ -1,0 +1,45 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1602953152623.png", recursive = TRUE)
+```
+
+Question
+========
+Field describes a study on the growing interest in cosmetic surgical treatments. He collected data on the quality of life among a sample of respondents some of whom some had undergone cosmetic surgery and some were still on the waiting list for it. waiting list for it (variable: surgery: 0 = waiting list, 1 = cosmetic surgery). It measured the quality of life at registration for the cosmetic surgery, the "baseline" quality of life (variable: Base_Qol, scale 0-1, a higher score means higher quality of quality of life) and after a while, after the surgery had taken place for those who underwent the surgery immediately, but also at the same time for the group who were still on the waiting list (variable: Post\_Qol, scale 0-100, a higher score means a higher quality of life).  
+  
+Below are the results of a regression analysis with the post-measurement of quality of life as the dependent variable (Post-QOL), and in which having or not having undergone the cosmetic surgery (Surgery) and the "baseline" quality of life (Base_Qol) in the model are included. Moreover, in model 2, the interaction between 'surgery' and 'baseline' quality of life were added to the model (Base_Qol_surgery).  
+  
+![](1602953152623.png)
+  
+What statements can we make about the population?  
+1: For those still on the waiting list, the effect of 'baseline' quality of life on quality of life during the post-measurement is smaller than for those who have undergone cosmetic surgery undergone.  
+2: The impact of cosmetic surgery on quality of life is less positive (or even negative) the greater the 'baseline' quality of life is greater
+
+Answerlist
+----------
+* Only statement 1
+* Only statement 2
+* Both statements
+* Neither statement
+
+Solution
+========
+
+Answerlist
+----------
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-moderation-1359-en
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression/moderation
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical reasoning
+

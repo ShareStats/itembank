@@ -1,0 +1,50 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1602853914273.png", recursive = TRUE)
+include_supplement("1602853939934.png", recursive = TRUE)
+include_supplement("1602853960309.png", recursive = TRUE)
+include_supplement("1602853971876.png", recursive = TRUE)
+include_supplement("1602837664810.png", recursive = TRUE)
+include_supplement("1602837678070.png", recursive = TRUE)
+include_supplement("1602854063507.png", recursive = TRUE)
+include_supplement("1602837678070.png", recursive = TRUE)
+```
+
+Question
+========
+The analysis below deals with the potential harmful effects of cell phones. Field imagines a fictional experiment in which subjects are strapped a cell phone to their head and TRUE in which this phone is turned on for a fixed number of hours each day. After six months, the extent of any damage is measured near the ear (variable: ear damage, amount of ear damage). Six groups distinguished, who 0, 1, 2, 3, 4, or 5 hours per day (variable: usage) were exposed to these 'phone microwaves'.  
+![](1602853914273.png) 
+![](1602853939934.png)
+  
+![](1602853960309.png) ![](1602853971876.png)
+  
+Which causal model is being tested in this study?
+
+Answerlist
+----------
+* ![](1602837664810.png)
+* ![](1602837678070.png)
+* ![](1602854063507.png)
+* ![](1602837678070.png)
+
+Solution
+========
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-oneway anova-1370-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/anova/oneway anova
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

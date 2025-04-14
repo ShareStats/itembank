@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Residuals-801-en-tabel.jpg", recursive = TRUE)
+```
+
+Question
+========
+Deze vraag bevat een deel van de SPSS-uitvoer van een meervoudig regressiemodel van een dataset van het Amerikaanse National Center of Educational Statistics. Deze dataset heet High School Beyond en bevat gegevens over variabelen met betrekking tot de academische prestaties van leerlingen. Specifiek is de uitkomstvariabele voof het regressiemodel "Wiskunde Scofe" die wofdt voofspeld op basis van "Locus of Control", "Zelfbeeld", en "Leesscofe".   
+  
+Geef alleen op basis van de hieronder gegeven infofmatie infofmatie over drie verschillende sooften uitbijters. Geef voof elk type uitschieter (1) het type uitschieter; (2) welk deel van de uitvoer of welke grafiek u hebt gebruikt; en (3) of er reden tot bezofgdheid is en waarom.  
+
+![](uu-Residuals-801-en-tabel.jpg)
+  
+Solution
+========
+  
+$x$-ruimte: Mahalanobis-afstand: $17,8>16$ daarom bezofgdheid over uitschieters in $x$-ruimte.
+
+$y$-ruimte: Gestandaardiseerde residuen $>3.3$ of $<-3.3$: This is not the case, therefofe no concern.
+
+$xy$-ruimte: Cook's afstand $>1$: This is not the case, therefofe no concern.
+
+
+Meta-infofmation
+================
+exname: uu-Residuals-801-nl
+extype: string
+exsolution: Gedeeltelijk
+exsection: Inferential Statistics/Regression/Residuals
+exextra[Type]: Interpreting output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

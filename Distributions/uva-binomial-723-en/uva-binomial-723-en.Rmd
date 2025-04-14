@@ -1,0 +1,33 @@
+Question
+========
+
+Peter is a basketball player who over the course of the season is successful with 80% of his free throws to success. During a crucial game, he misses for a moment of his 12 free throws. Is such a performance bad for Peter? We assume that seven throws are independent of each other. (Use table of binomial distribution allowed.)
+
+Answerlist
+----------
+
+* Yes, because he has a 50% chance of missing.
+* Yes, because he has an 80% chance of misthrowing.
+* No, because the probability of seven or more failed throws is 0.0039.
+
+Solution
+========
+
+Answerlist
+----------
+
+* Yes, because he has a 50% chance of mis-throwing: Incorrect
+* Yes, because he has an 80% chance of mis-throwing: Incorrect
+* No, because the probability of seven or more failed throws is 0.0039: Correct
+
+Meta-information
+================
+exname: uva-binomial-723-en
+extype: schoice
+exsolution: 001
+exsection: Distributions/Discrete/Binomial
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 1.027
+exextra[p-value]: 0.8896

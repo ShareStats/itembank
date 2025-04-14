@@ -1,0 +1,44 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Schermafbeelding__2019-02-04__om__10.54.16.png", recursive = TRUE)
+include_supplement("Schermafbeelding__2019-02-04__om__10.54.30.png", recursive = TRUE)
+```
+
+Question
+========
+We analyze data obtained from high school students in secondary education from the Youth & Culture Data (Ganzeboom & Nagel, 1998-2002). For this database, over 3,000 young people were surveyed in the age from roughly 14 to 17 years of age. In the regression analysis below, the participation in popular culture is the dependent variable (pjcul: 0-100, from little to much participation) and the independent variables maternal cultural participation (pmcul: 0-1, from least to most culturally active) and school level (in dummies, reference group = vmbo-b). Interactions between mothers' cultural participation and school level.  
+  
+  
+![](Schermafbeelding__2019-02-04__om__10.54.16.png)
+![](Schermafbeelding__2019-02-04__om__10.54.30.png)
+What conclusion can you draw from model 2 about the population of schoolchildren?  
+1: Vmbo-b students engage in popular culture more than vwo students with a similarly culturally active mother 2: For vwo students, the more the mother is involved in culture, the more they participate in popular culture. does, they do more in popular culture.
+
+Answerlist
+----------
+* Only 1 is TRUE.
+* Only 2 is TRUE
+* Both 1 and 2 are TRUE
+* Both 1 and 2 are false
+
+Solution
+========
+
+Answerlist
+----------
+* False
+* False
+* True
+* False
+
+Meta-information
+================
+exname: vufsw-multiple linear regression-2088-en
+extype: schoice
+exsolution: 0010
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical reasoning
+

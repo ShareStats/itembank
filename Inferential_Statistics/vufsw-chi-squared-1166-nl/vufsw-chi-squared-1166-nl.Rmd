@@ -1,0 +1,49 @@
+Question
+========
+Gegeven is de volgende kruistabel met internationale gegevens over een groep studenten: het land waarin iemand woont in de rijen en ervaring met cannabisgebruik in de kolommen. De waarden in de cellen zijn de werkelijk waargenomen frequenties (zie onderstaande tabel).  
+  
+
+<table class="tvcss_2 tvcss_3"> <colgroup> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> </colgroup> <tbody> <tr class="odd"> <td class="tvcss_4">Ooit Cannabis gebruikt? <br /> </td> <td class="tvcss_5">ja<br /> </td> <td class="tvcss_6">nee<br /> </td> <td class="tvcss_7">totaal<br /> </td> </tr> <tr class="even"> <td class="tvcss_4">Nederland<br /> </td> <td class="tvcss_5">36<br /> </td> <td class="tvcss_6">114<br /> </td> <td class="tvcss_7">150<br /> </td> </tr> <tr class="odd"> <td class="tvcss_4">Frankrijk<br /> </td> <td class="tvcss_5">56<br /> </td> <td class="tvcss_6">104<br /> </td> <td class="tvcss_7">160<br /> </td> </tr> <tr class="even"> <td class="tvcss_4">Duitsland<br /> </td> <td class="tvcss_5">40<br /> </td> <td class="tvcss_6">118<br /> </td> <td class="tvcss_7">158<br /> </td> </tr> <tr class="odd"> <td class="tvcss_4">Italië<br /> </td> <td class="tvcss_5">49<br /> </td> <td class="tvcss_6">103<br /> </td> <td class="tvcss_7">152<br /> </td> </tr> <tr class="even"> <td class="tvcss_4">Totaal<br /> </td> <td class="tvcss_5">181<br /> </td> <td class="tvcss_6">439<br /> </td> <td class="tvcss_7">620<br /> </td> </tr> </tbody> </table>
+
+  
+Welke van de volgende stellingen is/zijn waar?  
+  
+I. Het aantal Franse scholieren dat ooit cannabis heeft gebruikt is groter dan de verwachte waarde voor de onafhankelijkheid tussen land en cannabisgebruik.  
+  
+II. Het aantal geobserveerde Nederlandse studenten dat ooit cannabis heeft gebruikt is groter dan het verwachte aantal onafhankelijk tussen land en cannabisgebruik.
+
+Antwoordlijst
+----------
+* Alleen Stelling I is waar.
+* Alleen Stelling II is waar
+* Beide stellingen zijn waar
+* Geen van beide stellingen is juist.
+
+Solution
+========
+
+betreffende I: totaal 181/620=0,29, dus 29% totaal ja.  
+Voor Frankrijk zou dit 0,29=160=46,7 zijn.  
+Dus 56 (geteld) is meer dan verwacht. Dus I is waar  Wat betreft II: voor Nederland 0,29*150=43,5 te verwachten als land en cannabisgebruik onafhankelijk is.  
+Dus 36 is minder dan verwacht.  
+Dus II is niet waar.
+
+Antwoordlijst
+----------
+* Waar
+* Onwaar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-chi-squared-1166-nl
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/nhst/test statistic/chi-squared
+exextra[Type]: performing analysis
+exextra[Program]: calculator
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

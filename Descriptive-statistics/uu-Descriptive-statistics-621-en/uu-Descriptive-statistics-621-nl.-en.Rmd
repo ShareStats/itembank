@@ -1,0 +1,45 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Descriptive-statistics-621-nl-data.sav", recursive = TRUE)
+include_supplement("uu-Descriptive-statistics-621-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+
+* Download**: [SPSS file](uu-Descriptive-statistics-621-nl-data.sav), [CSV file](uu-Descriptive-statistics-621-nl-data.csv)
+
+Open the data file.
+
+Answer the following questions.
+
+* Answer each question with all decimals listed in the output.**
+
+Answerlist
+----------
+* The number of respondents whose score on language proficiency at measurement time 1 is known is....
+* The average score on grammar is...
+* The maximum score obtained on spelling is....
+* The number of respondents in experimental group A is...
+
+Solution
+========
+
+Answerlist
+----------
+* Answer: 208
+* Answer: 33.82
+* 80.00
+* Answer: 73
+
+Meta-information
+================
+exname: uu-Descriptive-statistics-621-nl.-en
+extype: cloze
+exclozetype: num|num|num|num
+exsolution: 208|33.82|80.00|73
+extol: 0
+exsection: Descriptive statistics
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS, JASP
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

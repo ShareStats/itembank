@@ -1,0 +1,39 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-ancova-010-nl-graph.jpg", recursive = TRUE)
+```
+Question
+========
+A study on authoritarian parenting in parenting compares the opinions of fathers and mothers on the subject. It is known that age is positively related to the degree of authoritarian parenting. Subjectively perceived authoritarian parenting is a scale score from 1 (hardly at all) to 10 (very much). The figure shows a schematic representation of the survey results. Fathers' and mothers' data are coarsely represented by the ellipses.
+
+![](uu-ancova-010-nl-graph.jpg)
+
+Answerlist
+----------
+* After controlling for the covariate, the differences between the means increased.
+* After controlling for the covariate, the differences between the means disappeared entirely.
+* After controlling for the covariate, the distributions in the groups increased.
+* After controlling for the covariate, the differences between the means decreased.
+
+
+Solution
+========
+To see how the averages differ from the adjusted averages we take the following steps:
+- We first look at what the mean is for both groups: the center of the point cloud, line through to the y-axis. From this we can say how the ordinary averages differ from each other. These are the horizontal dashed lines, this line is higher for fathers than for mothers. So fathers have a higher mean.
+
+- Then we look at what the mean is for both groups on the covariate: the center of the point cloud, line through to the x-axis. These are the dashed vertical lines. We see that group B has a higher mean on the covariate.
+
+- We are going to treat both groups as if they have the same average score on the covariate, this is the average of the averages of both groups on the covariate (so a line on the x-axis in the middle of the other two lines you drew there). This is the dotted vertical line.
+
+- You are then going to shift both point clouds on the line such that the center of the point cloud will be on this last drawn line.
+- Then from this new center point you can draw another line for both groups to the y-axis. These are the corrected averages. These are the double horizontal lines; this line is closer together than the lines of the ordinary averages. So after controlling for the covariate, the differences between the averages decreased.
+
+Meta-information
+================
+exname: uu-ancova-010-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA
+exextra[Type]: Interpreting graph
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Reasoning

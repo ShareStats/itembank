@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-407-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-407-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een kennistest over alcohol bevat 20 items en wordt afgenomen bij 202 middelbare scholieren. De variabele [totaalscore] geeft de totale juiste scores. Geslacht (0 = vrouw; 1 = man) en alcoholgebruik (0 = heel vaak; 1 = vaak; 2 = soms; 3 = nooit) zijn ook opgenomen in de dataset.
+
+Converteer de totaalscore van elke leerling naar een genormaliseerde score (rankit) met een gemiddelde van 10 en een standaardafwijking van 5. Rond de genormaliseerde score af. Rond de genormaliseerde score af. Wat is de genormaliseerde totaalscore van de leerling met id=31? (geen decimalen)
+
+Open de dataset hieronder om deze vraag te beantwoorden:
+
+* Download** [SPSS file](eur-descriptive-407-en-data.sav), [CSV file](eur-descriptive-407-en-data.csv)
+
+
+Solution
+========
+De genormaliseerde score van de leerling met id=31 is 9 (normaliseer de scores met behulp van ranggevallen en transformeer de scores vervolgens zodat de nieuwe variabele een gemiddelde van 10 en een standaardafwijking van 5 heeft).
+
+Meta-information
+================
+exname: eur-descriptive-407-nl
+extype: num
+exsolution: 9
+extol: 0
+exsection: Descriptive statistics
+exextra[Type]: Data manipulation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

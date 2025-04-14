@@ -1,0 +1,24 @@
+Question
+========
+Een onderzoeker onderzoekt de relatie tussen depressie en slaapproblemen aan de hand van een steekproef van 55 deelnemers. De betrouwbaarheid van de depressieschaal is hoog, Rxx=.82. Slaapproblemen zijn echter moeilijker te meten en de betrouwbaarheid van deze schaal is Ryy=.62.
+
+Bereken de maximaal mogelijke correlatie die de onderzoeker kan verwachten tussen depressie en slaapproblemen. Rond af op twee decimalen.
+
+Gebruik de formule: $r_{XoYo} = r_{XtYt} \times \sqrt {R_{XX}R_{YY}}$
+
+
+Solution
+========
+De maximale correlatie die kan worden verkregen is de vierkantswortel van het product van de twee betrouwbaarheden maal 1 (de true score correlatie). De maximale correlatie is dus: $rmax_{XoYo} = 1 \sqrt{R_{xx}R_{yy}} = \sqrt {.82 \times .62} = .71$
+
+Meta-information
+================
+exname: eur-inferential_statistics-207-nl
+extype: num
+exsolution: 0.71
+extol: 0
+exsection: Inferential Statistics/Parametric Techniques/Correlations/Pearson, Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Calculate
+exextra[Program]: Calculator
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,39 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-normality-011-nl-tabel.jpg", recursive = TRUE)
+```
+
+Question
+========
+Which condition of regression analysis did Marco verify with the graph below?
+
+![](uu-normality-011-nl-tabel.jpg)
+
+Answerlist
+----------
+* Linear relation
+* Homoscedasticity
+* Sphericity
+* By X value, Y scores are normally distributed
+
+
+Solution
+========
+With a histogram of the residuals, we can see whether, for each X value, the Y scores .
+
+Answerlist
+----------
+* We can view the condition of linearity with a scatterplot.
+* We can view the condition of homoscedasticity with a residuals plot.
+* The condition of sphericity is not a condition for multiple regression, but for a repeated measures analysis, and can be viewed with Mauchly's test.
+* This is the correct answer!
+
+Meta-information
+================
+exname: uu-normality-011-en
+extype: schoice
+exsolution: 0001
+exsection: Assumptions/Normality
+exextra[Type]: Interpreting graph
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

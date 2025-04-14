@@ -1,0 +1,34 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+
+Question
+========
+Bereken het 95% betrouwbaarheidsinterval van een student met een cijfer van 5,2 gegeven een betrouwbaarheid van .31 voor het examen. De variantie van de cijfers is 4 Formule voor het 95% betrouwbaarheidsinterval: $95\% CI = X_o ± Z_{p=95} \times se_m$
+De formule voor de standaardmeetfout is: $se_m = s_o \times \sqrt{1 - R_{xx}}$
+
+
+Solution
+========
+Je hebt de formule voor het 95% betrouwbaarheidsinterval nodig: $95\% CI = X_o ± Z_{p=95} \times se_m$
+
+$95\% CI = 5.2 ± 1.96 \times se_m$
+
+$se_m = 2 \times \sqrt {1-.31} = 1.662$
+
+$95\% CI = 5.2 ± 1.96 \times 1.662 = 5.2 ± 3.26$
+
+De 95% CI van graad 5.2 is $[1.94-8.46]$
+
+Meta-information
+================
+exname: eur-inferential_statistics-204-nl
+extype: string
+exsolution: ""
+extol: 
+exsection: Inferential Statistics/Confidence Intervals/Margin of error, Inferential Statistics/Confidence Intervals/Width
+exextra[Type]: Calculate
+exextra[Program]: Calculator
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

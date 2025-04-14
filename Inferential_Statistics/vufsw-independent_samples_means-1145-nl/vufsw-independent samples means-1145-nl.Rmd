@@ -1,0 +1,50 @@
+Question
+========
+Na het Eurovisiesongfestival hebben 40 willekeurig geselecteerde Duitse journalisten (groep 1) en 40 willekeurig gekozen Nederlandse journalisten (groep 2) gevraagd om aan te geven hoe zij de kwaliteit van het lied 'Birds Falling Down' van zangeres Anouk. De antwoordschaal loopt van 0 (zeer slecht) tot 10 (zeer goed). De (fictieve) resultaten staan in de tabel hieronder.  
+  
+
+<tabel> <colgroup> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> </colgroup> <tbody> <tr class="odd"> <td><br /> </td> <td> N</td> <td> gemiddelde</td> <td> standaardafwijking</td> </tr> <tr class="even"> <td>groep 1</td> <td> 40</td> <td> 7,50</td> <td> 0,70</td> </tr> <tr class="odd"> <td>groep 2</td> <td> 40</td> <td> 8,11</td> <td> 0,80</td> </tr> </tbody> </table>
+
+  
+  
+De hypothese van de onderzoeker is dat Duitse journalisten de kwaliteit van het lied anders beoordelen dan Nederlandse journalisten. Bereken de waargenomen t-waarde op basis van bovenstaande gegevens om deze hypothese te testen.
+
+Antwoordlijst
+----------
+* -2.02
+* -3.15
+* -3.63
+* -4.45
+* -1,96
+
+Solution
+========
+
+H0: µ1 = µ2 ("de twee gemiddelden zijn gelijk") H1: µ1 ≠ µ2 ("de twee gemiddelden zijn niet gelijk")  Als wordt aangenomen dat de twee onafhankelijke steekproeven afkomstig zijn van populaties met ongelijke variantie (d.w.z. σ12 ≠ σ22), wordt de teststatistiek t als volgt berekend statistiek t als volgt berekend:  
+  
+t= (gemiddelde1-gemiddelde2)/(√(s<sub>1</sub><sup>2 </sup> /n<sub>1 </sub>+ s<sub>2</sub><sup>1</sup> /n<sub>2</sub> )  
+  
+t= (7,50-8,11)/(√(0,7<sup>2</sup> /40 + 0,8<sup>2</sup> /40 ) = -3,63  
+Als je meer wilt weten over twee idependente gemiddelden, bekijk dan dit
+[clip](https://www.youtube.com/watch?v=A1lLo-np0KU&index=6&list=PLyLpEs0x9Bnl2e68nd7M6lecUqUNu2Sgn).
+
+Antwoordenlijst
+----------
+* Onwaar
+* Onwaar
+* Waar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-independent samples means-1145-nl
+extype: schoice
+exsolution: 00100
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/t-test/independent samples means
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

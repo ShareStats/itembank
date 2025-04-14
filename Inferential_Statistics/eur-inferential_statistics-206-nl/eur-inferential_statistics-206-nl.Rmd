@@ -1,0 +1,23 @@
+Question
+========
+Een enorme hoeveelheid empirisch onderzoek heeft aangetoond dat er een vrij sterke relatie bestaat tussen depressie en angst. Stel dat de ware correlatie tussen deze twee constructen .70 is. Een onderzoeker die deze relatie onderzoekt met een steekproef van 80 deelnemers heeft een slechte betrouwbaarheid voor zijn depressie- (Rxx=.4) en angstmetingen (Ryy=.6).
+
+Welke waargenomen correlatie kan hij verwachten voor zijn gegevens? Rond af op twee decimalen. Gebruik de formule: $r_{XoYo} = r_{XtYt} \times \sqrt {R_{XX}R_{YY}}$
+
+
+Solution
+========
+Als je de formule gebruikt, krijg je $r_{XoYo} = .7 \times \sqrt {.4 \times .6} = .343$
+De verwachte correlatie is daarom .34.
+
+Meta-information
+================
+exname: eur-inferential_statistics-206-nl
+extype: num
+exsolution: 0.34
+extol: 0
+exsection: Inferential Statistics/Parametric Techniques/Correlations/Pearson, Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Calculate
+exextra[Program]: Calculator
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

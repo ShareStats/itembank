@@ -1,0 +1,33 @@
+Question
+========
+
+A dataset contains three categorical variables measured in a sample of teachers working in elementary school in Utrecht: Education ($X_{1};\;0 = reguliere\;PABO,\;1 = universitaire\;PABO$), Type of class ($X_{2};\;0 = Onderbouw,\;1 = Middenbouw,\;2 = Bovenbouw$) and Type of school ($Y;\;0 = Openbaar,\;1 = Confessioneel\;bijzonder,\;2 = Algemeen\;bijzonder$).
+
+What type of analysis can be used to examine whether there is a relationship between Education and Type of School, statistically controlled for Type of Class? 
+Answerlist
+----------
+* Ordinal logistic regression with interaction.
+* Ordinal logistic regression without interaction.
+* Multinomial logistic regression with interaction.
+* Multinomial logistic regression without interaction.
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Incorrect
+* Correct
+
+Meta-information
+================
+exname: vufgb-multinomiallogisticregression-004-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Regression/Multinomial logistic regression, Inferential Statistics/Regression/Dummies
+exextra[Type]: Test choice
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

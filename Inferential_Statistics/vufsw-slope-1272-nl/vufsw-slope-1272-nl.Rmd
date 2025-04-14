@@ -1,0 +1,48 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1553595822664.png", recursive = TRUE)
+```
+
+Question
+========
+Een onderzoeker voert een meervoudige regressie uit om te bepalen welke factoren invloed hebben op hoeveel mensen **televisie kijken** (Y). De gegevens komen uit de
+* Uropees Sociaal Onderzoek* van 2014. De vragenlijst is afgenomen bij een aselecte steekproef van inwoners van Nederland van 18 jaar of ouder (N=1362). De afhankelijke variabele Y wordt gemeten met een vraag met antwoordmogelijkheden variërend van 1 ("minder dan een half uur per dag") tot 7 ("meer dan 3 uur per dag"). **Onderwijs** (Educyrs) wordt gemeten in het aantal jaren dat de respondent onderwijs heeft gevolgd. De scores in deze variabele variëren van 0 tot 28 jaar. De onderstaande tabel presenteert de resultaten van deze regressie.  
+  
+![](1553595822664.png)
+  
+Vul de lege plekken in:  Als een individu dat 10 jaar onderwijs heeft gevolgd wordt vergeleken met iemand die 11 jaar onderwijs heeft gevolgd, verwachten we een lagere score op tv-kijken van iemand die 11 jaar onderwijs heeft gevolgd, verwachten we een lagere score op tv-kijken van iemand die 11 jaar onderwijs heeft gevolgd.  
+  
+Als we een tweezijdige toets uitvoeren met een significantieniveau van 5% (α = 0,05), kunnen we concluderen dat het effect van het aantal jaren onderwijs significant is, omdat de P-waarde gelijk is aan **. \Tekst 2.
+
+Antwoordlijst
+----------
+* Tekst 1:** 0.113. **Tekst 2:** 0,045.
+* **Tekst 1:** 0.113. **Tekst 2:** 0.013.
+* **Tekst 1:** 0.172. **Tekst 2:** 0.045.
+* **Tekst 1:** 0.172. **Tekst 2:** 0.013.
+* **Tekst 1:** 2.495. **Tekst 2:** 0.013.
+* **Tekst 1:** 2.495. **Tekst 2:** 0.045
+
+Solution
+========
+
+Antwoordlijst
+----------
+* Onjuist
+* Waar
+* Onwaar
+* Onwaar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-slope-1272-nl
+extype: schoice
+exsolution: 010000
+exshuffle: TRUE
+exsection: inferential statistics/regression/slope
+exextra[Type]: interpretating output
+exextra[Program]: NA
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

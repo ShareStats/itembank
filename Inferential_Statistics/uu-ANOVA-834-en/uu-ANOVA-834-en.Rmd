@@ -1,0 +1,34 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-ANOVA-834-nl-graph01.jpg", recursive = TRUE)
+```
+Question
+========
+Using the data from the Sesame Street survey, a researcher conducted a multi-way ANOVA for KNOWLEDGE OF FORMS with the factors LOCATION (1 = inner city, 2 = suburb, 3 = county) and SEKSE (1 = boy, 2 = girl).
+
+Using the mean chart shown, evaluate the following two statements. Assume that any differences you see are significant.
+
+![](uu-ANOVA-834-nl-graph01.jpg)
+
+I.There is no main effect of SEKSE on KNOWLEDGE OF FORMS. II. The effect of SEKSE on KNOWLEDGE OF FORMS is greater for the downtown category than for the county category.
+
+Answerlist
+----------
+* I is correct, II is correct.
+* I is correct, II is not correct.
+* I is not correct, II is not correct.
+* I is not correct, II is correct.
+
+
+Solution
+========
+
+Meta-information
+================
+exname: uu-ANOVA-834-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA
+exextra[Type]: Interpretating graph
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Reasoning

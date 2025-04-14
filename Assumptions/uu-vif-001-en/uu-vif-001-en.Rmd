@@ -1,0 +1,35 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-VIF-001-nl-tabel.jpg", recursive = TRUE)
+```
+
+Question
+========
+Another researcher is also interested in nurses' stress levels but has different hypotheses. The table below shows the output of a regression analysis belonging to the question of whether stress in nurses can be predicted by the variables age, experience (in years) and gender. The researcher looks at the value of Tolerance to make a statement about possible collinearity of the variables. Which statement is correct given the results in the table below? 
+
+
+![](uu-VIF-001-nl-tabel.jpg)
+
+I. The variable nurse gender should be removed from the regression model (Tolerance = .998). II. The variables nurse experience and age_nurses should both be removed from the regression model (Tolerance of both = .072).
+
+Answerlist
+----------
+* Both statements are correct
+* Only statement I is correct
+* Only statement II is correct
+* Neither statement is correct
+
+
+Solution
+========
+Based on the collinearity statistics, we can see if there are problems with multicollinearity. When the value of Tolerance is lower than .1, this is an indication that there is a problem. Theorem I is false, nurse gender has a value of Tolerance = .998, this is higher than .1. Therefore, there is no problem with this variable. The statement that this variable should be removed is incorrect. Thesis II is also incorrect. Nurse experience and age_nurses both have a value of Tolerance = .072, this is less than .1. Thus, there is a problem with these variables. The age of nurses is strongly related to the number of years of experience they have. The researcher is interested in both variables, but cannot include both in this way. Removing both variables from the model is incorrect, the researcher must choose one of the variables or merge the variables.
+
+Meta-information
+================
+exname: uu-vif-001-en
+extype: schoice
+exsolution: 0001
+exsection: Assumptions/Multicolinearity/VIF
+exextra[Type]: Interpreting output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

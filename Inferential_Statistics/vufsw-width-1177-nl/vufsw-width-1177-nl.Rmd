@@ -1,0 +1,46 @@
+Question
+========
+Stel dat het populatiegemiddelde van het aantal gewerkte uren per week per persoon 40,2 uur is, met een populatiestandaardafwijking van 0,4 uur. Stel dat je een steekproef trekt uit deze populatie (met een steekproefgrootte van 40).  
+  
+Tussen welke twee waarden zal 95% van het steekproefgemiddelde liggen?
+
+Antwoordlijst
+----------
+* 38.94; 41.47
+* 39.40; 41.00
+* 40.07; 40.33
+* 40.14; 40.26
+* 38.24; 42.16
+
+Solution
+========
+
+Je kunt dit berekenen met de volgende formule: CI voor gemiddelde y +/-* t(se) *met *se* = *s / √n*  Dus: 40.2 +/- 1.96 \* (0.4 / √40) = (40.07; 40.33)
+
+Taal Nederlands
+
+Moeilijkheidsniveaus Moeilijk
+
+M&T BIS Standaardwaarde
+
+M&T Verdelingen Standaardwaarde
+Antwoordlijst
+----------
+* Onwaar
+* Onwaar
+* Waar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-width-1177-nl
+extype: schoice
+exsolution: 00100
+exshuffle: TRUE
+exsection: inferential statistics/confidence intervals/width
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

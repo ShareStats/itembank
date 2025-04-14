@@ -1,0 +1,39 @@
+Question
+========
+
+Given is the following formula of the between-group variance in a one-way ANOVA, where *g* represents the number of groups and *i* represents group *i*:
+
+$s_{\overline{y}}^{2} = \frac{\sum{n_{i}(\overline{y}_{i}-\overline{y})^2}}{g-1}$
+
+What is in the numerator and denominator?
+
+Numerator: ...; denominator: ... .
+
+  
+Answerlist
+----------
+* Quadrat sum ; degrees of freedom
+* Degrees of freedom ; quadrat sum
+* Residuals ; degrees of freedom
+* Degrees of freedom ; residuals
+
+Solution
+========
+
+Answerlist
+----------
+* Correct
+* Incorrect
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-onewayrepeatedmeasuresanova-013-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway repeated measures ANOVA, Inferential Statistics/Regression/Sum of squares
+exextra[Type]: Interpreting output, Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

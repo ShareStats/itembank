@@ -1,0 +1,29 @@
+Question
+========
+Een eenvoudige aselecte steekproef van 100 postmedewerkers wordt gebruikt om te testen of de gemiddelde tijd dat postmedewerkers voor de post hebben gewerkt is veranderd ten opzichte van de waarde van 7,5 jaar die 20 jaar geleden werd geregistreerd. Het gemiddelde van de steekproef was M = 7 jaar met een standaardafwijking van SD = 2 jaar.  Neem aan dat de verdeling van de tijd dat de werknemers voor de post hebben gewerkt ongeveer normaal is. Gebruik de 5 stappen van het hypothesetestproces om bovenstaande vraag te beantwoorden. Zorg ervoor dat je de antwoorden op alle 5 stappen duidelijk aangeeft.
+
+
+Solution
+========
+Stap 1 (1 punt) Twee populaties: postmedewerkers dit jaar en postmedewerkers 20 jaar geleden.
+$H_{0}$: $\mu$ = 7.5 $H_{R}$: $\mu$ $\neq$ 7.5
+
+Stap 2 (0,5 punten) De vergelijkingsverdeling is een t-verdeling. Het aantal vrijheidsgraden is 99. SM = 2 / $\sqrt{100}$ = 0.2
+
+Stap 3 (0,5 punten) Kritische t-waarde (df = 99; $\alpha$ = .10) is ±1,660 (opgezocht bij df =100) Kritische t-waarde (df = 99; $\alpha$ = .05) is ±1,984 (opgezocht bij df =100) Kritische t-waarde (df = 99; $\alpha$ = .01) is ±2,626 (opgezocht bij df =100)
+
+Stap 4 (1 punt) Steekproef t-waarde is (7-7,5) / 0,2 = -2,5
+
+Stap 5 (1 punt) Voor $\alpha$ = .01, moet je de nulhypothese niet verwerpen. Dit betekent dat de gemiddelde tijd dat postmedewerkers voor de post werken niet is veranderd. Voor $\alpha$ = .05 en \alpha = .10 moet je de nulhypothese verwerpen. Dit betekent dat de gemiddelde tijd dat postmedewerkers bij de post werken is veranderd
+
+Meta-information
+================
+exname: uu-hypothesis-800-nl
+extype: string
+exsolution: NA
+extol: 
+exsection: Inferential Statistics/NHST/Hypothesis
+exextra[Type]: Case
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

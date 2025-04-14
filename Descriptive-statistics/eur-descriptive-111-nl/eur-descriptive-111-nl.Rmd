@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(exams)
+```
+
+Question
+========
+Op het examen van cursus 2.8 gaven 189 studenten een juist antwoord op de vraag "Wat is het populatiegemiddelde van het trekken van een kop van een munt?". 71 studenten gaven een fout antwoord.
+
+Wat is de standaardafwijking van de gemiddelde score van een kop?
+
+
+Solution
+========
+De standaardafwijking van het tekenen van een hoofd is $\sqrt{.5 \times .5} = .5$ (de vierkantswortel van de variantie nemen).
+
+Meta-information
+================
+exname: eur-descriptive-111-nl
+extype: num
+exsolution: 0.5
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
+exextra[Type]: Calculation
+exextra[Program]: Calculater
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

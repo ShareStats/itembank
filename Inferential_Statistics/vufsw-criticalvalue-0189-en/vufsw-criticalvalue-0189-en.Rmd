@@ -1,0 +1,54 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Screen__Shot__2021-02-27__at__22.35.49.png", recursive = TRUE)
+include_supplement("Screen__Shot__2021-02-27__at__22.36.32.png", recursive = TRUE)
+include_supplement("Screen__Shot__2021-02-27__at__22.32.01.png", recursive = TRUE)
+```
+
+Question
+========
+A survey among a representative sample of 2141 Dutch people (n=2141) by I&O Research into the support for the corona policy shows that 45% of respondents want the measures to be be relaxed (see news item on this below).  
+  
+Suppose a political commentator claims that he thinks that more than half (50%) of the Dutch want the measures to be relaxed be relaxed.  
+  
+Test this hypothesis of the commentator using the above sample data. Apply a significance level of 1% (α = 0.01). Which **critical** test-statistic should we use in this test?  
+  
+(*source*: nos.nl, February 17, 2021)  
+![](Screen__Shot__2021-02-27__at__22.35.49.png)![](Screen__Shot__2021-02-27__at__22.36.32.png)
+![](Screen__Shot__2021-02-27__at__22.32.01.png)
+
+Answerlist
+----------
+* We use a critical **t-value**. In this test, that is 2.36.
+* We use a critical **z-score**. On this review, that is 2.33.
+* We use a critical **z-score**. At this review, that is 1.28.
+* We use a critical **t-value**. That, in this testing, is 3.17.
+
+Solution
+========
+
+Language Dutch
+
+Levels of Difficulty Easy
+
+M&T Basics of quantitative research Basics of quantitative research
+
+M&T BIS Default value
+Answerlist
+----------
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-criticalvalue-0189-en
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: inferential statistics/nhst/significance level/critical value
+exextra[Type]: test choice
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical reasoning
+

@@ -1,0 +1,39 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-odds-006-nl-table01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+A logistic regression analysis predicts ADHD diagnosis using the variables age (in years) and sex (0=boy, 1=girl). The table below shows the output. What is the probability that a 12-year-old boy has ADHD?
+
+![](vufgb-odds-006-nl-table01.jpg)
+  
+Answerlist
+----------
+* 0.03
+* 0.04
+* 0.07
+* 0.36
+
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Correct
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-odds-006-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Regression/Logistic regression/Odds
+exextra[Type]: Interpreting output, Calculation
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Thinking

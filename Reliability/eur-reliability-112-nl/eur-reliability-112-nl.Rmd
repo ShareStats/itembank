@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(exams)
+library(knitr)
+```
+Question
+========
+Twintig parallelle items worden verwijderd uit een vragenlijst van 80 items die een alpha van .92 had. Wat wordt de nieuwe alpha? Gebruik de formule hieronder:
+
+$R_{xx-revised} = \frac{n \times R_{XX-original}}{1+(n-1) R_{XX-original}}$
+
+
+Merk op dat n = verlengingsfactor. Oorspronkelijk aantal items x verlengingsfactor = nieuw aantal items.
+
+
+Solution
+========
+Om de nieuwe alfa te berekenen hebben we de Spearman-Brown formule nodig. In dit geval is n $\frac{60}{80}=.75$
+Dus: $R_{xx-revised} = \frac{.75\times.92}{1+(.75-1).92} = .896$.
+
+Meta-information
+================
+exname: eur-reliability-112-nl
+extype: num
+exsolution: .896
+extol: 0
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Calculate
+exextra[Program]: Calculator
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

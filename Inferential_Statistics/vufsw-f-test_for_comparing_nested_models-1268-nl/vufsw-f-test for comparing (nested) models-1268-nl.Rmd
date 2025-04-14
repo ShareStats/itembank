@@ -1,0 +1,41 @@
+Question
+========
+Stel dat de F-waarde in een multivariate regressie significant is. Welke conclusie(s) kunt u trekken?  
+  
+I. De effecten van alle onafhankelijke variabelen zijn significant.  
+II. De verklaarde variantie van het regressiemodel is in ieder geval hoger dan 1,96.
+
+Antwoordlijst
+----------
+* Stelling I is juist.
+* Stelling II is juist.
+* Beide Stellingen zijn juist.
+* Geen van beide uitspraken is juist.
+
+Solution
+========
+
+Geen van beide Stellingen is juist. Als de F significant is, is het model als in zijn geheel significant, maar je kunt niets zeggen over de afzonderlijke variabelen. De verklaarde variantie kan nooit meer dan 100% of 1,0 zijn. De 1,96 is de kritische waarde van de t-test.
+
+M&T Bivariate lineaire regressie Bivariate lineaire regressie
+
+M&T Multivariate lineaire regressie Standaardwaarde
+Antwoordlijst
+----------
+* Onwaar
+* Onwaar
+* Onwaar
+* Waar
+
+Meta-information
+================
+exname: vufsw-f-test for comparing (nested) models-1268-nl
+extype: schoice
+exsolution: 0001
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression/f-test for comparing (nested) models
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: Dutch
+exextra[Level]: statistical reasoning
+
