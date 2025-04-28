@@ -1,35 +1,27 @@
 Question
 ========
-  
-College Hall is concerned that an active social life will interfere with students’ academic performance. To test this hypothesis, a researcher conducts regression analysis. Their dependent variable is students’ performance on the statistics exam (percentage of correct answers). Their independent variables are: number of hours studied per week, age in years, major (1) Humanities, 2) Science, 3) Social Science, or 4) Other), the personality trait conscientiousness (on a 7-point Likert scale), and the number of parties attended per week. After conducting a multiple regression analysis, the researcher is not sure which statistic to report to College Hall, in order to convey the relative importance of the number of parties attended per week as a predictor of exam performance. Can you help?
-  
+Evaluate the following two statements about multiple regression analysis:
+
+I. The measurement level of the dependent variable should be at least nominal. II. Predictors of ratio measurement level are unsuitable for use in a multiple regression.
+
 Answerlist
 ----------
-* B
-* Beta
-* $R^2$
-* p-value 
+* I is correct, II is correct.
+* I is not correct, II is correct.
+* I is correct, II is not correct.
+* I is not correct, II is not correct.
 
 
 Solution
 ========
 
-
-
-Answerlist
-----------
-* This answer is incorrect.
-* This answer is correct.
-* This answer is incorrect.
-* This answer is incorrect.
-
-
 Meta-information
 ================
-exname: uu-Multiple-linear-regression-816-en.Rmd
+exname: uu-multiple-linear-regression-816-en
 extype: schoice
-exsolution: 0100
+exsolution: 0001
 exsection: Inferential Statistics/Regression/Multiple linear regression
-exextra[Type]: Case
+exextra[Type]: Conceptual
+exextra[Program]: 
 exextra[Language]: English
 exextra[Level]: Statistical Literacy
