@@ -1,0 +1,37 @@
+Question
+========
+
+In an ANOVA, the difference in averages can be described in terms of regression. Suppose a one-way ANOVA (one factor) with three groups is converted into a regression with the following coding:
+
+  ------- -------- -------- --------------------- ------------------- group *x*~1~ *x*~2~ averages interpretation *β* 1 1 0 *μ*~1~ = α + *β*~1~ 2 0 1 *μ*~2~ = α + *β*~2~ 3 0 0 *μ*~3~ = α ------- -------- -------- --------------------- -------------------
+
+The interpretation of *β*~3~ is clear, which is α.The interpretation of the other two coefficients is as follows:
+
+Answerlist
+----------
+
+* Β1 = μ1 - μ2 and β2 = μ1 - μ3.
+* Β1 = μ1 - μ3 and β2 = μ2 - μ3.
+* Β1 = μ2 - μ3 and β2 = μ1 - μ3.
+
+Solution
+========
+
+Answerlist
+----------
+
+* Β1 = μ1 - μ2 and β2 = μ1 - μ3...: Incorrect
+* Β1 = μ1 - μ3 and β2 = μ2 - μ3...: Correct
+* Β1 = μ2 - μ3 and β2 = μ1 - μ3...: Incorrect
+
+Meta-information
+================
+exname: uva-sum-of-squares-73-en
+extype: schoice
+exsolution: 010
+exsection: Inferential Statistics/Regression/Sum of squares
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.033
+exextra[p-value]: 0.1078

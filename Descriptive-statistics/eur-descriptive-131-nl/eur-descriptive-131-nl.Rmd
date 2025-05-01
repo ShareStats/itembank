@@ -1,0 +1,29 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-131-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-131-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Open het SPSS-bestand.
+
+Wat is de Z-score van de student met studentnummer (st) 344000 voor cursus 1.3 (cursus 1_3)? Rond je antwoord af op 5 decimalen.
+
+* Download**: [SPSS file](eur-descriptive-131-en-data.sav), [CSV file](eur-descriptive-131-en-data.csv)
+
+
+Solution
+========
+De Z-score van de student met studentnummer 344000 voor cursus 1.3 is 1,99334.
+
+Meta-information
+================
+exname: eur-descriptive-131-nl
+extype: num
+exsolution: 1.99334
+extol: 0
+exsection: Descriptive statistics/Score interpretation/z-score
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

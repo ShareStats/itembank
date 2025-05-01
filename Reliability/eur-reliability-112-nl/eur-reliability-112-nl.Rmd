@@ -5,20 +5,18 @@ library(knitr)
 ```
 Question
 ========
-Twintig parallelle items worden verwijderd uit een vragenlijst van 80 items die een alfa van .92 had. Wat zal de nieuwe alfa zijn?
-Gebruik de onderstaande formule:
+Twintig parallelle items worden verwijderd uit een vragenlijst van 80 items die een alpha van .92 had. Wat wordt de nieuwe alpha? Gebruik de formule hieronder:
 
 $R_{xx-revised} = \frac{n \times R_{XX-original}}{1+(n-1) R_{XX-original}}$
 
 
-Let op dat n = verlengingsfactor. Het oorspronkelijke aantal items x verlengingsfactor = nieuw aantal items.
+Merk op dat n = verlengingsfactor. Oorspronkelijk aantal items x verlengingsfactor = nieuw aantal items.
 
 
 Solution
 ========
-Om de nieuwe alfa te berekenen, hebben we de Spearman-Brown-formule nodig. In dit geval is n gelijk aan $\frac{60}{80}=.75$
+Om de nieuwe alfa te berekenen hebben we de Spearman-Brown formule nodig. In dit geval is n $\frac{60}{80}=.75$
 Dus: $R_{xx-revised} = \frac{.75\times.92}{1+(.75-1).92} = .896$.
-
 
 Meta-information
 ================

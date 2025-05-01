@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-simple-linear-regression-1398-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+A study looked at 33 elderly people to examine the relationship between education level (number of years in school) and the ability to focus on something focus. Below is a scatterplot of the results, with the corresponding regression line.Ê Based on extrapolation using the given regression line, it would be the estimated ability to focus of a person with 5 years of education would be equal to:
+
+![](uva-simple-linear-regression-1398-nl-graph01.png)
+
+Answerlist
+----------
+
+* -7.8
+* -6.4
+* -5.0
+* -3.4
+
+Solution
+========
+
+Answerlist
+----------
+
+* 7.8: Incorrect
+* 6.4: Incorrect
+* 5.0: Correct
+* 3.4: Incorrect
+
+Meta-information
+================
+exname: uva-simple-linear-regression-1398-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Regression/Simple linear regression
+exextra[Type]: Calculation
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 0
+exextra[p-value]: 0.9242

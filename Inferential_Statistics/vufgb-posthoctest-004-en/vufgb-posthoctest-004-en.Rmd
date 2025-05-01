@@ -1,0 +1,39 @@
+Question
+========
+
+A one-way ANOVA compares the mean values of four groups.
+
+Calculate the right-hand crossing probability required to construct the Bonferroni intervals for all possible pairs of averages. 
+Answerlist
+----------
+* 0.0125
+* 0.00833
+* 0.00625
+* 0.00417
+
+Solution
+========
+
+The number of groups is 4. The number of possible pairs is then $(g-1) \times 2 = 3 \times 2 = 6$.
+
+The Bonferroni corrected alpha level is then $\frac{0.05}{6}$.
+
+The right-hand crossing probability is half of that, so $\frac{0.05}{(6 \times 2)} = \frac{0.05}{12} = 0.00417$.
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Incorrect
+* Correct
+
+Meta-information
+================
+exname: vufgb-posthoctest-004-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Post-hoc test, Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Calculation
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

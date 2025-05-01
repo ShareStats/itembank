@@ -1,0 +1,33 @@
+Question
+========
+
+In a study of juvenile delinquency in the United States within the African-American population, a random sample is drawn of 56 subjects from the group of youth with single mothers and of 52 subjects from the group of youth with both biological parents. Delinquency is measured by four dichotomous (binary) questions: (i) have you been in contact with the police, (ii) have you ever been arrested been, (iii) have you ever been arraigned in court, and (iv) have you been been in jail. Each subject's score was the number of questions to which yes answers had been given. The mean score was 1.2 with standard deviation 1.5 for adolescents with single mothers, and a mean of 2.7 and standard deviation 1.5 for youth from a family with both biological parents. The researchers are interested in whether the population mean of youth from single mothers is different from that of youth with both biological parents. The researchers assume that the standard deviation is the same in both populations and arrive at *standard error* 0.538 for the difference in means and degrees of freedom 100. The null hypothesis that the two population averages are equal can be
+
+Answerlist
+----------
+
+* Not be rejected at 0.001 but can be rejected at 0.002.
+* Not be rejected at 0.002 but be rejected at 0.010.
+* Not be rejected at 0.010 but be rejected at 0.025.
+
+Solution
+========
+
+Answerlist
+----------
+
+* Not be rejected at 0.001 but be rejected at 0.002: Incorrect
+* Not be rejected at 0.002 but be rejected at 0.010...: Correct
+* Not be rejected at 0.010 but be rejected at 0.025...: Incorrect
+
+Meta-information
+================
+exname: uva-independent-samples-means-172-en
+extype: schoice
+exsolution: 010
+exsection: Inferential Statistics/Parametric Techniques/t-test/Independent samples means
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.99
+exextra[p-value]: 0.1253

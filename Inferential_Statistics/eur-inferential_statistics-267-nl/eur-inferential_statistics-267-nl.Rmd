@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-267-en-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-267-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Test of het gemiddelde cijfer op het cursus examen 1.6 (variabele course1_6) voor studenten die bij hun ouders wonen [woonouder = 1] significant afwijkt van het gemiddelde cijfer van studenten die niet bij hun ouders wonen [woonouder = 0]. Schrijf de waargenomen p-waarde in het antwoordvak (met 3 cijfers achter de komma). Let op: Rapporteer de p-waarde die SPSS geeft. Je hoeft niet door 2 te delen.
+
+* Downloaden**: [SPSS file](eur-inferential_statistics-267-en-data.sav), [CSV file](eur-inferential_statistics-267-en-data.csv)
+
+
+Solution
+========
+De juiste oplossing is 0,462.
+
+Meta-information
+================
+exname: eur-inferential_statistics-267-nl
+extype: num
+exsolution: 0.462
+extol: 0
+exsection: Inferential Statistics/NHST/p-value, Inferential Statistics/Parametric Techniques/t-test/Independent samples means
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

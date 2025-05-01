@@ -1,0 +1,37 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Capture12333.gif", recursive = TRUE)
+```
+
+Question
+========
+Wat is de ontbrekende *F-waarde *van GROEP in de ANOVA-tabel die hieronder wordt gepresenteerd? Rond af op drie decimalen.  
+  
+
+  
+![](Capture12333.gif)
+
+
+Solution
+========
+
+SS<sub>M</sub> / *df*<sub>M</sub> = MS<sub>M</sub> SS<sub>R</sub> / *df*<sub>R</sub> = MS<sub>R</sub> MS<sub>M</sub> / MS<sub>R</sub> = *F*  MS<sub>M</sub> = 5,624 / 3 = 1,875 MS<sub>R</sub> = 57,695 / 95 = 0,607
+* * = 1.875 / .607 = 3.089
+
+Taal Engels & Nederlands
+
+M&T ANOVA Standaardwaarde
+
+M&T Dimitris Pavlopoulos Standaardwaarde
+
+Meta-information
+================
+exname: vufsw-anovaftest-1010-nl
+extype: num
+exsolution: 3.087
+extol: 0.01
+exsection: inferential statistics/parametric techniques/anova/anova f-test
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: Dutch
+exextra[Level]: statistical analysis
+

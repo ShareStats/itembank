@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-paired-samples-271-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+In the paired T test, the null hypothesis H~0~: μ~D~ = -1 is tested. For a two-sided risk of 5%, the conclusion should be:
+
+![](uva-paired-samples-271-nl-graph01.png)
+
+Answerlist
+----------
+
+* The result is significant, reject H0.
+* The result is not significant, reject H0.
+* The result is significant, do not reject H0.
+* The result is not significant, do not reject H0.
+
+Solution
+========
+
+Answerlist
+----------
+
+* The result is significant, reject H0...: Incorrect
+* The result is not significant, reject H0: Incorrect
+* The result is significant, reject H0: Incorrect
+* The result is not significant, do not reject H0: Correct
+
+Meta-information
+================
+exname: uva-paired-samples-271-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/t-test/Paired samples
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2.643
+exextra[p-value]: 0.4456

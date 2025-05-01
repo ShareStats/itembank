@@ -1,0 +1,33 @@
+Question
+========
+What are we testing when we look at the p-value of a b-coefficient in a linear regression model?
+
+Answerlist
+----------
+* Assuming that the **zero hypothesis** (H<sub>0</sub>) is TRUE in the **population**, how (un)probable is it to obtain this observed t value (or an even more extreme t value)? If it is highly unlikely, then we reject the null hypothesis.
+* Assuming that the **zero hypothesis** (H<sub>0</sub>) is TRUE in the **sample**, how (un)likely is it to be this observed t-value (or an even more extreme t-value)? If it is highly unlikely, then we reject the null hypothesis.
+* Assuming that the **alternative** hypothesis (H<sub>a</sub>) is true is true in the **population**, how (un)likely is it to have this observed t-value (or an even more extreme t-value)? If it is very unlikely, then we reject the null hypothesis.
+* Assuming that the **alternative** hypothesis (H<sub>a</sub>) is true is true in the **sample**, how (un)likely is it to have this observed t-value (or an even more extreme t-value)? If it is very unlikely, then we reject the null hypothesis.
+
+Solution
+========
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-pvalue-0231-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/nhst/p-value
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical thinking
+

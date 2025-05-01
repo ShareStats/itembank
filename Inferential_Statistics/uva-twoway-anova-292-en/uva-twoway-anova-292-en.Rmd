@@ -1,0 +1,39 @@
+Question
+========
+
+Below is the ANOVA table associated with a Randomized Complete Block-ANOVA on an experiment into the possible effect of a number of treatments.
+
+  -------------- ----- ---- ---- ------ Source of variation SS df MS F Treatment 120 3 40 1.14 Block 90 2 45 1.29 Error 210 6 35 Total 420 11 -------------- ----- ---- ---- ------
+
+If we had ignored the blocks, and applied a Completely Randomized Design ANOVA, how large would the mean residual squared MS(Error) would have been?
+
+Answerlist
+----------
+
+* 35
+* 37.5
+* 38.2
+* 40
+
+Solution
+========
+
+Answerlist
+----------
+
+* 35: Incorrect
+* 37.5: Correct
+* 38.2: Incorrect
+* 40: Incorrect
+
+Meta-information
+================
+exname: uva-twoway-anova-292-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
+exextra[Type]: Conceptual, Calculation
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 1.978
+exextra[p-value]: 0.7788

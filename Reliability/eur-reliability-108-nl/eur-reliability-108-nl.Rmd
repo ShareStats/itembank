@@ -5,12 +5,12 @@ library(knitr)
 ```
 Question
 ========
-Hoe is het mogelijk dat, hoewel alpha een ondergrens stelt aan de geschatte betrouwbaarheid, in de praktijk een alpha-waarde kan worden verkregen die hoger is dan de werkelijke betrouwbaarheid?
+Hoe is het mogelijk dat, hoewel alfa een ondergrens stelt aan de grootte van de geschatte betrouwbaarheid, het in de praktijk mogelijk is om een alfa te krijgen die hoger is dan de werkelijke betrouwbaarheid?
+
 
 Solution
 ========
-Het is mogelijk dat, hoewel alpha een ondergrens stelt aan de geschatte betrouwbaarheid, in de praktijk een alpha-waarde wordt verkregen die hoger is dan de werkelijke betrouwbaarheid. Dit komt doordat alpha wordt berekend op basis van een steekproef en niet op de volledige populatie. Hierdoor kan de alpha-waarde in de steekproef groot zijn (zelfs groter dan de werkelijke betrouwbaarheid $r_{xx'}$) als gevolg van steekproefvariabiliteit.
-
+Het is mogelijk dat, hoewel alfa een ondergrens stelt aan de grootte van de geschatte betrouwbaarheid, men in de praktijk een alfa krijgt die hoger is dan de werkelijke betrouwbaarheid. Dit komt doordat de alfa wordt berekend op basis van een steekproef en niet op basis van de volledige populatie. De alfa van de steekproef kan dus groot zijn (zelfs groter dan de werkelijke betrouwbaarheid). $r_{xx'}$) als gevolg van variabiliteit in de bemonstering.
 
 Meta-information
 ================

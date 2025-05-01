@@ -1,0 +1,42 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-one-sample-mean-391-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Below is output from a one-sample T-test. We want to test H~0~:μ
+= 75 tests with α = 5% two-sided. If, in testing, we had wanted to use a critical area, the right critical value would have been equal to
+
+![](uva-one-sample-mean-391-nl-graph01.png)
+
+Answerlist
+----------
+
+* 1.7959
+* 1.8125
+* 2.201
+* 2.2281
+
+Solution
+========
+
+Answerlist
+----------
+
+* 1.7959: Incorrect
+* 1.8125: Incorrect
+* 2.201: Incorrect
+* 2.2281: Correct
+
+Meta-information
+================
+exname: uva-one-sample-mean-391-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/t-test/One sample mean
+exextra[Type]: Calculation
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.77
+exextra[p-value]: 0.1594

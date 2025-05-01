@@ -1,39 +1,34 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("uu-Cronbach's-alpha-016-en-tabel.jpg", recursive = TRUE)
+include_supplement("uu-Cronbach's-alpha-016-nl-tabel.jpg", recursive = TRUE)
 ```
-
-
 
 Question
 ========
   
-In the Career Project for Painters, a (pilot) study was conducted on the mobility preferences of painters, where 20 items were administered to a random sample from the target population ($n = 86$). The table below shows the item-rest correlations ($r_{ir}$) for the 20 items.
+In the Painters Career Project, for a (pilot) study of the mobility desires of painters, 20 items were administered to a random sample from the target population ($n = 86$). The table below shows the item-rest correlations ($r_{ir}$) of the 20 items.
 
-Evaluate the following two statements:.
 
-![](uu-Cronbach's-alpha-016-en-tabel.jpg)
+![](uu-Cronbach's-alpha-016-nl-tabel.jpg)
+Evaluate the following two statements:
 
-Beoordeel de volgende twee uitspraken:
+I. By reversing ITEM13, Cronbach's alpha will almost certainly be lower. II. By removing ITEM15, Cronbach's alpha will almost certainly be lower.
 
-I. Reversing the polarity of ITEM13 will almost certainly result in a lower Cronbach’s alpha.
-II. Removing ITEM15 will almost certainly result in a lower Cronbach’s alpha.
 
 Answerlist
 ----------
-* Both statements I and II are correct.
-* Only statement I is correct.
-* Only statement II is correct.
-* Both statements I and II are incorrect.
+* Utterance I and II are both correct.
+* Only pronunciation I is correct.
+* Only pronunciation II is correct.
+* Pronunciation I and II are both incorrect.
 
 
 Solution
 ========
 
 
-Statement I: ITEM13 shows a fairly high negative item-rest correlation. If this item were reverse-coded, the item-rest correlation would become positive. This improves the reliability (Cronbach’s alpha) of the scale, as items must be coded consistently to measure Cronbach’s alpha correctly. Therefore, Cronbach’s alpha will increase.
+Theorem I: Item13 shows a fairly high negative item residual correlation. If this item were to be pooled, this would result in the item residual correlation becoming positive. This benefits the reliability (Cronbach's alpha) of the scale, after all, the items must be equally pooled to measure the Cronbach's alpha. Thus, the Cronbach's alpha will increase.
 
-Statement II: ITEM15 has a very low item-rest correlation, the lowest among all items. Removing this item would eliminate an item that has very little correlation with the rest of the scale. The internal consistency of the scale would increase if ITEM15 were removed, meaning Cronbach’s alpha would likely increase rather than decrease.
-
+Theorem II: Item15 shows a very low item residual correlation, the lowest of all the items. Removing this item will remove an item that has very low correlation with the remaining items. The internal consistency of the scale will increase when Item15 is removed, so Cronbach's alpha will likely actually increase.
 
 Meta-information
 ================

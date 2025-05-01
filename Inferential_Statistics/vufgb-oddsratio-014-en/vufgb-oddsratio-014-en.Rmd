@@ -1,0 +1,33 @@
+Question
+========
+
+An ordinal logistic regression is used to examine the relationship between size of debt (*X*, in thousands of euros) and the extent to which families are open to help from agencies (*Y*, 0='is not open to it', 1='is somewhat open to it', 2='is strongly open to it'). An odds ratio of 0.85 is found, with a 95% confidence interval of 0.65-1.05.
+
+What is the correct interpretation of the results? 
+Answerlist
+----------
+* There is no significant relationship between size of debt and being open for help.
+* The relationship between size of debt and being open to help is significant and negative.
+* The relationship between size of debt and being open for help is significant and positive.
+* The relationship between size of debt and being open for help is a false positive.
+
+Solution
+========
+
+Answerlist
+----------
+* Correct
+* Incorrect
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-oddsratio-014-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Regression/Logistic regression/Odds ratio, Inferential Statistics/Regression/Logistic regression, Inferential Statistics/Confidence Intervals
+exextra[Type]: Interpreting output
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

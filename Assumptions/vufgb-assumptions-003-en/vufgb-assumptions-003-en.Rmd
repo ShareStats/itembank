@@ -1,14 +1,13 @@
 Question
 ========
 
-What is **not** an assumption of both the ordinal and multinomial logistic regression models?
-  
+What is **no** assumption of both the ordinal and multinomial logistic regression models? 
 Answerlist
 ----------
 * Independent observations.
 * No overfitting or underfitting.
 * The categories of the *Y* variable are mutually exclusive.
-* The odds do not change as a function of the *X* variable.
+* Odds do not change as a function of the *X* variable.
 
 Solution
 ========
@@ -22,11 +21,11 @@ Answerlist
 
 Meta-information
 ================
-exname: vufgb-assumptions-003-en.Rmd
+exname: vufgb-assumptions-003-en
 extype: schoice
 exsolution: 0001
 exsection: Assumptions, Inferential Statistics/Regression/Multinomial logistic regression
 exextra[Type]: Conceptual
 exextra[Program]: 
-exextra[Language]: English 
+exextra[Language]: English
 exextra[Level]: Statistical Literacy

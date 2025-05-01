@@ -2,15 +2,13 @@
 include_supplement("uu-Levenes-test-024-nl-tabel.jpg", recursive = TRUE)
 ```
 
-
-
 Question
 ========
-A group of researchers are interested in the differences in heart rate in anxiety situations, between people with phobia and those without. They want to perform a covariance analysis controlling for heart rate at rest. Among other things, they get the following output:
+A group of researchers are interested in the differences in heart rate in anxiety situations, between people with a phobia and people without a phobia. They want to perform a covariance analysis controlling for resting heart rate. Among the outputs they get are the following:
 
-![](uu-Levenes-test-024-en-tabel.jpg)
+![](uu-Levenes-test-024-nl-tabel.jpg)
 
-Is the assumption for homogeneity of regression coefficients met?
+Is the condition for homogeneity of regression coefficients met?
 
 Answerlist
 ----------
@@ -19,14 +17,13 @@ Answerlist
 * No, because p = .324
 * No, because p = .218
 
+
 Solution
 ========
 
-
-
 Meta-information
 ================
-exname: uu-Levene's-test-024-en.Rmd
+exname: uu-Levene's-test-024-en
 extype: schoice
 exsolution: 0100
 exsection: Assumptions/Homogeneity of variance/Levene's test

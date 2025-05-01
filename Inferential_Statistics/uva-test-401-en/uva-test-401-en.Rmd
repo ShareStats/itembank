@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-test-401-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Below is (incomplete) SPSS output from a BAC ANOVA, in which within blocks individuals were randomly assigned to a therapy. The F value and conclusion about therapy averages read
+
+![](uva-test-401-nl-graph01.png)
+
+Answerlist
+----------
+
+* F = 1,581, a non-significant result
+* F = 8,139, a significant result
+* F = 9,541, a non-significant result
+* F = 9,541, a significant result
+
+Solution
+========
+
+Answerlist
+----------
+
+* F = 1,581, a non-significant result: Incorrect
+* F = 8,139, a significant result: Incorrect
+* F = 9,541, a non-significant result: Incorrect
+* F = 9.541, a significant result: Correct
+
+Meta-information
+================
+exname: uva-test-401-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANOVA F-test
+exextra[Type]: Interpreting output
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.753
+exextra[p-value]: 0.1635

@@ -1,0 +1,42 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("mediation.png", recursive = TRUE)
+```
+
+Question
+========
+Look at the mediation model below. Why is the bootstrap method the best method to test the mediation effect?  
+  
+![](mediation.png)
+
+Answerlist
+----------
+* Because the bootstrap method is based on testing the indirect effect *αb* and not the difference between the total effect *c* and the direct effect *c' *and because the bootstrap method is reliable even with small samples
+* Ecause with the bootstrap method the indirect effect is **always **equal to both *αb* and *c* - *c' *and because the bootstrap method is reliable is reliable even with small samples
+* Ecause the bootstrap method is based on testing the indirect effect *αb* and not the difference between the total effect *c* and the the direct effect *c' *and because with the bootstrap method the indirect effect is **always **equal to both *αb* and *c* - *c'*
+* Ecause the bootstrap method is based on testing the indirect effect *αb* and not the difference between the total effect *c* and the the direct effect *c' *and because the bootstrap method is reliable even with large samples
+
+Solution
+========
+
+The bootstrap method and the Sobel test are better than the Baron and Kenny method because they test a meditation effect by performing a direct test for the indirect effect *αb*. The Baron and Kenny is a rather outdated method that tests tests a mediation effect by testing the difference between the total effect and the direct effect *c-c' *and in which 4 conditions must be satisfied. The first condition (i.e. the existence of a total effect) is not actually necessary. In addition, the Baron and Kenny method puts too much emphasis on statistical significance.  
+In addition, the bootstrap is better than the Sobel test because the Sobel test uses a point estimate for *αb *. This requires the sample to be relatively large so that the assumption of multivariate normality is met for *αb*.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-bootstrap-0291-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/bootstrap
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical reasoning
+

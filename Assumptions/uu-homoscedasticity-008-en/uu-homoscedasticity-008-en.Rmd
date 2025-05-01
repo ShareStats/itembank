@@ -1,28 +1,26 @@
- 
 Question
 ========
-What is **no** assumption in multiple linear regression?
+What is no assumption in multiple linear regression?
 
 Answerlist
 ----------
 * Independent observations
-* Hetereoscedasticity
+* Heteroscedasticity
 * Normally distributed errors
-* Linear relationships between the X and Y
+* Linear relationships between the Xs and Y
 
 
 Solution
 ========
-Homoscedasticity is an assumption in multiple linear regression.
-Hetereoscedasticity should instead be avoided.
+Homoscedasticity is an assumption in multiple linear regression. Hetereoscedasticity should instead be avoided.
 
 Meta-information
 ================
-exname: uu-homoscedasticity-008-nl
+exname: uu-homoscedasticity-008-en
 extype: schoice
 exsolution: 0100
 exsection: Assumptions/Homoscedasticity
 exextra[Type]: Conceptual
 exextra[Program]: 
-exextra[Language]: Dutch
+exextra[Language]: English
 exextra[Level]: Statistical Literacy

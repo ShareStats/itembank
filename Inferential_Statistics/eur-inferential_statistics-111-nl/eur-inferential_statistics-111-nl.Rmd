@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(exams)
+library(knitr)
+```
+
+Question
+========
+Hoeveel verschillende F-tests worden er berekend in een ANOVA met 2 factoren?
+
+Antwoordlijst
+----------
+* Twee verschillende F-ratio's
+* Een algemene F-ratio gevolgd door de vereiste post-hoc testen
+* Drie verschillende F-ratio's
+* Vier verschillende F-ratio's
+
+
+Solution
+========
+
+
+Antwoordlijst
+----------
+* Dit antwoord is onjuist
+* Dit antwoord is onjuist
+* Dit is het juiste antwoord! (twee hoofdeffecten en één interactie-effect)
+* Dit antwoord is onjuist
+
+Meta-information
+================
+exname: eur-inferential_statistics-111-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway repeated measures ANOVA
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exshuffle: FALSE

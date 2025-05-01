@@ -1,0 +1,31 @@
+Question
+========
+  
+Je voert een onderzoek uit in een ziekenhuis met 300 verpleegkundigen, 50 technische medewerkers en 150 artsen. Elk van deze 500 personen heeft één vermelding in de telefoongids van het ziekenhuis. Stel dat je het telefoonboek opensnijdt en er willekeurig één uit haalt om contact mee op te nemen. Hoe groot is de kans dat het een technisch personeelslid is? 
+Antwoordlijst
+----------
+* $1$
+* $0.01$
+* $0.10$
+* $10$
+
+Solution
+========
+
+Antwoordlijst
+----------
+* Dit antwoord is onjuist. Niet alle lijsten zijn van technisch personeel.
+* Dit antwoord is onjuist.
+* Dit antwoord is juist. $P(T)=\frac{50}{500}=0.10$.
+* Dit antwoord is onjuist. Een kans kan niet groter zijn dan 1.
+
+Meta-information
+================
+exname: uu-probability-002-nl
+extype: schoice
+exsolution: 0010
+exsection: Probability
+exextra[Type]: Calculation
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

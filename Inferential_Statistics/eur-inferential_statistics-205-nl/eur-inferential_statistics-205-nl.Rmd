@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+
+Question
+========
+Stel dat je het 95% interval rond de geobserveerde score van een deelnemer berekent om de ware score te schatten, hoe zou je dat interpreteren? Geef de theoretische en praktische interpretatie van het betrouwbaarheidsinterval van de ware score.
+
+
+Solution
+========
+Theoretische interpretatie: de kans dat dit (bepaalde) betrouwbaarheidsinterval de ware score bevat is .95. Als we een individu 100 keer testen (bijvoorbeeld met parallelle tests) en we krijgen 100 verschillende intervallen, dan zou 95% daarvan de ware score van de deelnemers moeten bevatten, waarbij ons betrouwbaarheidsinterval waarschijnlijk een van de 95 is die wel de ware score bevatten.
+
+Praktische interpretatie: We hebben 95% vertrouwen dat de ware score van de individuen tussen [ondergrens, bovengrens] ligt. Als het interval groot is door een grote hoeveelheid fouten (lage betrouwbaarheid), geeft dit aan dat we de waargenomen score niet nauwkeurig kunnen interpreteren.
+
+Meta-information
+================
+exname: eur-inferential_statistics-205-nl
+extype: string
+exsolution: ""
+extol: 
+exsection: Inferential Statistics/Confidence Intervals/Confidence level, Inferential Statistics/Confidence Intervals/Testing, Inferential Statistics/Confidence Intervals/Width, Inferential Statistics/Confidence Intervals/Margin of error
+exextra[Type]: Conceptual
+exextra[Program]: Calculator
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

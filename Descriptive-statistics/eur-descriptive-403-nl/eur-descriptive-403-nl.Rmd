@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-403-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-403-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een kennistest over alcohol bevat 20 items en wordt afgenomen bij 202 middelbare scholieren. De variabele [totaalscore] geeft de totale juiste scores. Geslacht (0 = vrouw; 1 = man) en alcoholgebruik (0 = heel vaak; 1 = vaak; 2 = soms = 3.nooit) zijn ook opgenomen in de dataset.
+
+Bereken de percentielscores. Wat is het percentage studenten met een totaalscore van 16,0 of lager? Geef het afgeronde percentage. (geen decimalen)
+
+Open de dataset hieronder om deze vraag te beantwoorden:
+
+* Download** [SPSS file](eur-descriptive-403-en-data.sav), [CSV file](eur-descriptive-403-en-data.csv)
+
+
+Solution
+========
+Het percentage studenten met een totaalscore van 16,0 of lager is 88% (percentielen kunnen worden berekend met behulp van ranglijsten).
+
+Meta-information
+================
+exname: eur-descriptive-403-nl
+extype: num
+exsolution: 88
+extol: 0
+exsection: Descriptive statistics/Score interpretation/Percentile
+exextra[Type]: Data manipulation, calculation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

@@ -1,37 +1,32 @@
-
 Question
 ========
   
-In Vedic education, transcendental meditation plays a crucial role. Through meditation techniques, students expand their consciousness. A survey study is conducted to examine the effect of meditation on consciousness, using an existing test with six items and a reliability coefficient of rxx' = .50. The test is then extended with three equivalent items.
+In Vedic education, transcendental meditation plays an important role. Through meditation techniques, students' consciousness is expanded. In a questionnaire study of the effect of meditation on consciousness, an existing test with six items and a reliability rxx' = .50 is extended by three equivalent items.
 
-What is the estimated reliability of the extended test (V) for consciousness?
-
+How high do you estimate the reliability of the extended test V for consciousness?
 
   
 Answerlist
 ----------
-* rvv'is approximately 0.50
-* rvv'is approximately .60
-* rvv'is approximately .70
-* rvv'is approximately .75
+* Rvv'is approximately .50
+* Rvv'is approximately .60
+* Rvv'is approximately .70
+* Rvv'is approximately .75
 
 Solution
 ========
 
-Explanation:
-The new test consists of 9 items (6 + 3 = 9). The scaling factor is calculated as: 1.5 (9/6=1.5). The reliability of the extended test is estimated using the Spearman-Brown formula:
+Explanation: The new test is 9 items long (6+3=9). The extension factor is 1.5 (9/6=1.5). The reliability of this manygde test is calculated using the following formula: 
 
 $r_{xx'} = \frac {v * r_{oo'}}{1+ (v-1) r_{oo'}} $
 
-Substituting the values:
+Filling in gives:
 
 $r_{xx'} = \frac {1.5 * 50}{1+ (1.5-1) 0.50} =  \frac {0.75}{1+ 0.25} = \frac {0.75}{1.25} = 0.60  $
-  
-Thus, the correct answer is: rvv'is approximately .60
 
 Meta-information
 ================
-exname: uu-reliability-017-en.Rmd
+exname: uu-reliability-017-en
 extype: schoice
 exsolution: 0100
 exsection: Reliability

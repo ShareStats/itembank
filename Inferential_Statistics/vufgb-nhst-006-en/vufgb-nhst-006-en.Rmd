@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-nhst-006-nl-histogram01.jpg", recursive = TRUE)
+```
+
+Question
+========
+  
+The figure below shows the distribution of the sample mean under two hypotheses is given. The critical limit for the resulting test is also drawn.
+
+What can be concluded regarding the Type I error and power of the test in question?  
+
+![](vufgb-nhst-006-nl-histogram01.jpg)
+  
+Answerlist
+----------
+* The probability of a Type I error is 95%, the power is 20%.
+* The probability of a Type I error is 95%, the power is 80%.
+* The probability of a Type I error is 5%, the power is 20%.
+* The probability of a Type I error is 5%, the power is 80%.
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Incorrect
+* Correct
+
+Meta-information
+================
+exname: vufgb-nhst-006-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/NHST, Inferential Statistics/NHST/Hypothesis/Null hypothesis, Inferential Statistics/NHST/Hypothesis/Alternative hypothesis, Inferential Statistics/NHST/Statistical errors/Type I error, Inferential Statistics/NHST/Power, Descriptive statistics/Data representation/Graphs/Histogram
+exextra[Type]: Interpreting graph
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

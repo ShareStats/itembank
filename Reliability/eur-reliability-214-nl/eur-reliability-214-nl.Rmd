@@ -1,20 +1,20 @@
 Question
 ========
-Examenen zijn bedoeld om de werkelijke score van een persoon te meten. De nauwkeurigheid van deze meting van de werkelijke score zal waarschijnlijk lager zijn als de betrouwbaarheid van de test te laag is. Een manier om theoretisch voor deze lagere nauwkeurigheid te compenseren, is door de aangepaste werkelijke score te berekenen: $X_{est} = x̄ + R_{xx}(X_o-x̄)$
+Examens zijn bedoeld om de werkelijke score van een persoon te meten. De nauwkeurigheid van deze meting van de ware score zal waarschijnlijk lager zijn als de betrouwbaarheid van de test te laag is. Een manier om deze lagere nauwkeurigheid theoretisch te compenseren is door de aangepaste ware score te berekenen: $X_{est} = x̄ + R_{xx}(X_o-x̄)$
 
-Stel dat de gemiddelde score van een psychometrisch examen 5,8 is. De betrouwbaarheid van deze test is .31 (Cronbach's alpha); een score van minstens 5,5 is nodig om het examen te halen. Een student die een 5,0 heeft, klaagt bij de examencommissie dat hij de herkansing niet wil doen omdat zijn werkelijke score in feite 5,5 is. Bereken welke betrouwbaarheid van het examen deze student het recht zou geven om te klagen.
+Stel dat het gemiddelde cijfer van een psychometrisch examen 5,8 is. De betrouwbaarheid van deze test is .31 (Cronbach's alpha); Een cijfer van minimaal 5,5 is nodig om te slagen voor het examen. Een student die een 5,0 had, klaagt bij de examencommissie dat hij het herexamen niet wil doen omdat zijn echte cijfer in feite 5,5 is. Bereken welke betrouwbaarheid van het examen deze student het recht geeft om te klagen.
 
 Rond af op twee decimalen.
 
+
 Solution
 ========
-We kunnen de waargenomen score berekenen, die gepaard gaat met een aangepaste werkelijke score van 5,5.
+We kunnen de waargenomen score berekenen die gepaard gaat met een aangepaste ware score 5,5. 
 $5.5 = 5.8 + R_{XX}(5.0 - 5.8)$
 $-.3 = R_{XX} \times -.8$
 $R_{XX} = .375 = .38$
 
-Een betrouwbaarheid van .38 (of lager) zou de student het recht geven om te klagen.
-
+Een betrouwbaarheid van .38 (of lager) geeft de leerling het recht om te klagen.
 
 Meta-information
 ================

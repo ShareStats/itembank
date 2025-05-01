@@ -1,0 +1,38 @@
+Question
+========
+
+Given is a table of correlations for three predictors *x*1, *x*2 and *x*3.
+
+  ------ ------ ------ *x*1 *x*2 *x*3 *x*1 *x*2 0.01 *x*3 0.35 0.05 ------ ------ ------
+
+The regression equation for the dependent variable *y* is with only *x*1 and *x*3:†.
+* *y* = 23.13 + 12.17 *x*1 + 2.10 *x*3. Now suppose the model is calculated with *x*2 added. Then the coefficient
+
+Answerlist
+----------
+
+* From x1 become much smaller and from x3 much larger.
+* From x1 remain about the same and from x3 become much smaller.
+* From x1 remain about the same and from x3 also.
+
+Solution
+========
+
+Answerlist
+----------
+
+* From x1 become much smaller and from x3 much larger...: Incorrect
+* From x1 remain about the same and from x3 become much smaller: Incorrect
+* From x1 remain about the same and from x3 also: Correct
+
+Meta-information
+================
+exname: uva-simple-linear-regression-99-en
+extype: schoice
+exsolution: 001
+exsection: Inferential Statistics/Regression/Simple linear regression
+exextra[Type]: Calculation
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.671
+exextra[p-value]: 0.0134

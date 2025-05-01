@@ -1,0 +1,53 @@
+Question
+========
+
+The sum of the probabilities in a binomial distribution must equal 1. To show that this is TRUE, we first take *q* = 1- *p* so that *q* + *p* = 1. Below is a table showing a binomial distribution with *n* = 1 observation, and its sum is 1. What will the probability distribution be if *n* = 2, and the probability of success is *p*? \
+
+  ------------------ ------ Number of successes Chance 0 *q* 1 *p* ------------------ ------
+
+ \ \ \ \ \ A:\
+
+  ------------------ --------- Number of successes Chance 0 *q* 1 *q - p* 2 *p* ------------------ ---------
+
+\ \ \ \ \ \ B:\
+
+  ------------------ ------ Number of successes Chance 0 *q* 1 *qp* 2 *p* ------------------ ------
+
+\ \ \ \ \ \ C:\
+
+  ------------------ ------ Number of successes Chance 0 *q* 1 *p* 2 *p* ------------------ ------
+
+\ \ \ \ \ \ D:\
+
+  ------------------ ----------- Number of successes Chance 0 *q* 1 *p* 2 *1- q- p* ------------------ -----------
+
+Answerlist
+----------
+
+* A
+* B
+* C
+* D
+
+Solution
+========
+
+Answerlist
+----------
+
+* A: Incorrect
+* B: Incorrect
+* C: Incorrect
+* D: Correct
+
+Meta-information
+================
+exname: uva-general-rules-1180-en
+extype: schoice
+exsolution: 0001
+exsection: Probability/Elementary Probability/General Rules
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

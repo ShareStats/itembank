@@ -1,0 +1,39 @@
+Question
+========
+Beschouw de volgende contingentietabel met de variabele inkomen in de rijen en de variabele werktevredenheid in de kolommen. De waarden in de cellen zijn de waargenomen frequenties. De waarden tussen haakjes zijn de verwachte frequenties.  
+  
+
+<table class="tvcss_2 tvcss_3 tvcss_4"> <colgroup> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> </colgroup> <tbody> <tr class="odd"> <td class="tvcss_5"><br /> </td> <td class="tvcss_6"><br /> </td> <td colspan="2" class="tvcss_7 tvcss_8"><em>Beroepstevredenheid</em><br /> </td> </tr> <tr class="even"> <td class="tvcss_5"><br /> </td> <td class="tvcss_6"><br /> </td> <td class="tvcss_9">Ontevreden</td> <td class="tvcss_10">Tevreden</td> </tr> <tr class="odd"> <td rowspan="3" class="tvcss_5 tvcss_11"><em>Inkomen</em><br /> </td> <td class="tvcss_6">Naar beneden modaal</td> <td class="tvcss_9">20 (15)</td> <td class="tvcss_10">10 (15)</td> </tr> <tr class="even"> <td class="tvcss_6">Modal</td> <td class="tvcss_9">20 (20)</td> <td class="tvcss_10">20 (20)</td> </tr> <tr class="odd"> <td class="tvcss_6">Boven modaal</td> <td class="tvcss_9">10 (15)</td> <td class="tvcss_10">20 (15)</td> </tr> </tbody> </table>
+
+  
+Voer een Chi-kwadraattest (*X*<sup>2</sup>) uit voor de gegevens in de tabel. Wat is de juiste conclusie met α = 0,05?
+
+Antwoordlijst
+----------
+* Er is een statistisch verband tussen inkomen en tevredenheid, omdat de geobserveerde *X*<sup>2</sup> kleiner is dan de kritieke *X*<sup>2</sup>.
+* Er is geen statistisch verband tussen inkomen en tevredenheid, omdat de geobserveerde *X*<sup>2</sup> kleiner is dan de kritische *X*<sup>2</sup>. *X*<sup>2</sup>.
+* Er is een statistisch verband tussen inkomen en tevredenheid, omdat de geobserveerde *X*<sup>2</sup> groter is dan de kritische *X*<sup>2</sup>. *X*<sup>2</sup>.
+* Er is geen statistisch verband tussen inkomen en tevredenheid, omdat de geobserveerde *X*<sup>2</sup> groter is dan de kritische *X*<sup>2</sup>. *X*<sup>2</sup>.
+
+Solution
+========
+
+Antwoordlijst
+----------
+* Waar
+* Onwaar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-chi-squared-1219-nl
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/nhst/test statistic/chi-squared
+exextra[Type]: performing analysis
+exextra[Program]: calculator
+exextra[Language]: Dutch
+exextra[Level]: statistical thinking
+

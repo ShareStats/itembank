@@ -1,0 +1,42 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-measures-of-location-390-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Below is output from a one-sample T-test. We want to test H~0~:μ
+= 75 tests with α = 5% two-sided. The 95% confidence interval for μ is equal to
+
+![](uva-measures-of-location-390-nl-graph01.png)
+
+Answerlist
+----------
+
+* < -13.89 ; -0.29 >
+* < 61.11 ; 74.71 >
+* < 61.11 ; 75.29 >
+* < 75.29 ; 88.89 >
+
+Solution
+========
+
+Answerlist
+----------
+
+* < -13.89 ; -0.29 >: Incorrect
+* < 61.11 ; 74.71 >: Correct
+* < 61.11 ; 75.29 >: Incorrect
+* < 75.29 ; 88.89 >: Incorrect
+
+Meta-information
+================
+exname: uva-measures-of-location-390-en
+extype: schoice
+exsolution: 0100
+exsection: Descriptive statistics/Summary Statistics/Measures of Location
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2.824
+exextra[p-value]: 0.425

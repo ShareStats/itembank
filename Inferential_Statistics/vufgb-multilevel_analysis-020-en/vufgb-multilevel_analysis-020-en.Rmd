@@ -1,0 +1,33 @@
+Question
+========
+
+Two nested binary logistic regression models are compared. The first model contains 1 predictor and gives a -2 Log-Likelihood value of 65. The second model contains 2 predictors and gives a -2 Log-Likelihood value of 62.
+
+Perform a chi-square test to test whether the model with the second predictor explains significantly more than the model without the second predictor. 
+Answerlist
+----------
+* $\chi^{2}(df = 1) = 9, p < .05$
+* $\chi^{2}(df = 2) = 9, p < .05$
+* $\chi^{2}(df = 1) = 3, p > .05$
+* $\chi^{2}(df = 2) = 3, p > .05$
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Correct
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-multilevel_analysis-020-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Multilevel Analysis
+exextra[Type]: Performing analysis
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

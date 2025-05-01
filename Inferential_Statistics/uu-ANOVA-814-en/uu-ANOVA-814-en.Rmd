@@ -1,0 +1,25 @@
+Question
+========
+  
+In an experiment with three different calculation methods, the scores vary within each experimental group, however, the averages per experimental group are equal to each other. When performing an analysis of variance (ANOVA), then 
+Answerlist
+----------
+* SSwithin > 0 and SSbetween = 0
+* SSwithin > 0 and SSbetween > 0
+* SSwithin = 0 and SSbetween > 0
+* SSwithin = 0 and SSbetween = 0
+
+
+Solution
+========
+The sentence "the scores within an experimental group vary" means SSwithin > 0. The sentence "the averages per experimental group are equal to each other" means SSbetween = 0.
+
+Meta-information
+================
+exname: uu-ANOVA-814-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/ANOVA
+exextra[Type]: Case
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

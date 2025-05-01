@@ -1,0 +1,34 @@
+Question
+========
+  
+A researcher writes that the p-value (p < .01) of a t-test comparing the mean motivation scores of immigrant and native children is very low. This mainly says something about ... 
+Answerlist
+----------
+* The significance
+* The relevance
+* The effect size
+* The relevance and the effect size
+
+Solution
+========
+  
+p < .01 means that the probability that the difference in mean is based on chance is very small and therefore significant. However, it says nothing about the magnitude of the difference. In very large samples and with small differences within the samples, even a very small difference in mean can be significant. And if you don't know how big the difference is, it's hard to say anything about relevance.
+
+
+Answerlist
+----------
+* This answer is correct.
+* This answer is incorrect.
+* This answer is incorrect.
+* This answer is incorrect.
+
+Meta-information
+================
+exname: uu-p-value-808-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/NHST/p-value
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,50 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Screen__Shot__2019-03-02__at__18.57.08.png", recursive = TRUE)
+```
+
+Question
+========
+English language tests were administered twice to 31 students: the first measurement took place prior to a short language course, the second measurement after they had completed the course. The researcher wanted know whether the number of errors had decreased. She always noted the number of language errors made by the respondents in a test taken. Below are the results.  
+  
+The researcher tests the hypothesis that the number of language errors made after the course is significantly lower than before the course.  
+  
+The observed P-value in this testing is found to be 0.0006. What can we conclude from this?  
+  
+![](Screen__Shot__2019-03-02__at__18.57.08.png)
+
+Answerlist
+----------
+* The probability is 0.06% that we observe this mean difference score (or an even greater difference) if the *zero hypothesis* is TRUE.
+* The probability is 0.06% that we observe this mean difference score (or an even greater difference) if the *alternative hypothesis* is true.
+* The probability is 0.06% that the *zero hypothesis* is TRUE.
+* The probability is 0.06% that the *alternative hypothesis* is TRUE.
+
+Solution
+========
+
+Language Dutch
+
+Levels of Difficulty Easy
+
+M&T Basics of quantitative research Basics of quantitative research
+
+M&T BIS Default value
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-pvalue-0194-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/nhst/p-value
+exextra[Type]: interpretating output
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical reasoning
+

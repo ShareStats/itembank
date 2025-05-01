@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-259-nl-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-259-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+A teacher wonders whether the mean grade for methods theory (variable: methods theory) for students living away from home [Residential = 0] differs from the mean for students living at home [Residential = 1]. Perform the analysis and provide the t-value (to 3 decimal places).
+
+* Download**: [SPSS file](eur-inferential_statistics-259-nl-data.sav), [CSV file](eur-inferential_statistics-259-nl-data.csv)
+
+
+Solution
+========
+The correct answer is -2,070.
+
+Meta-information
+================
+exname: eur-inferential_statistics-259-en
+extype: num
+exsolution: -2.070
+extol: 0
+exsection: Inferential Statistics/NHST/Test statistic/t-statistic, Inferential Statistics/Parametric Techniques/t-test/Independent samples means
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,31 @@
+Question
+========
+
+In linear regression analyses, parameters are estimated using the *lower squares method*. What is the premise of this metode? 
+Answerlist
+----------
+* Minimize $\sum{(\hat{y}-\overline{y})^{2}}$
+* Minimize $\sum{(\hat{y}-\overline{y})}$
+* Minimize $\sum{(y-\overline{y})^{2}}$
+* Minimize $\sum{(y-\hat{y})^{2}}$
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Incorrect
+* Correct
+
+Meta-information
+================
+exname: vufgb-sumofsquares-008-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Regression/Sum of squares
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

@@ -1,28 +1,26 @@
 Question
 ========
   
-A new test is designed to measure parents' motivation to actively participate in school activities. A pilot study is conducted to assess the practical usability and psychometric quality of the test, which consists of 40 Likert items. However, the test appears to be too long; a significant portion of participants randomly selects answers towards the end rather than responding thoughtfully.
+A new test should measure in parents of school-age children the motivation to actively participate in school activities. A pilot study is being conducted on the practical usability and psychometric quality of the test with 40 Likert items. The test turns out to be too long; a considerable proportion of the participants fill in a randomly chosen number at the end of the test.
 
-As a result, in this pilot study, the estimated reliability of the test scores...
+As a result, in this pilot study, the estimation of the reliability of the test scores...
+
   
 Answerlist
 ----------
-* ...remains unchanged. With a length of 40 questions, the reliability of the test scores is not affected.
-* ...is overestimated, because the final items were not truthfully completed.
-* ...is underestimated, because the responses to the final items do not correlate with one another.
-* This cannot be determined based on the given information.
-
-
+* ...remains the same. With a length of 40 questions, the reliability of the test scores will not be affected.
+* ...is overestimated because the last items are not completed truthfully.
+* ...is underestimated because the answers to the last items are not correlated.
+* We cannot know this based on this information.
 
 Solution
 ========
   
-The final items are not necessarily answered incorrectly (as participants might accidentally select the "correct" response). However, these items do not correlate with each other or with the rest of the test. Reliability measures the consistency of responses across items. Since the final items were answered inconsistently, the reliability estimate will be underestimated.
-
+The last items are not necessarily answered incorrectly (the "right" answer may be entered "accidentally"). However, these items will not be consistent with each other or the other items. Reliability measures the consistency of responses to the items. Since the last items were not answered consistently, the reliability of the test scores will be underestimated.
 
 Meta-information
 ================
-exname: uu-reliability-006-en.Rmd
+exname: uu-reliability-006-en
 extype: schoice
 exsolution: 0010
 exsection: Reliability

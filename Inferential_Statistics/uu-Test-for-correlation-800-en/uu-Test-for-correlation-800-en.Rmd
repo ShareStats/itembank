@@ -1,0 +1,35 @@
+Question
+========
+  
+A researcher administered questionnaires to 25 randomly selected employees of a company. The questionnaires measure feelings of worry, stress level, and other social-emotional aspects, among others. The researcher wants to test whether the correlation between worry and stress is significant among $\alpha=.01$ and wants a $t$-test. TRUE is the minimum value of the correlation it must find so that the $t$-test will yield significant results?  
+  
+Answerlist
+----------
+* .505
+* .487
+* .396
+* .462
+
+
+Solution
+========
+When using a correlation table, we can look up the critical value. This involves a simple (Pearson) correlation, and a two-sided test. We should then look for at $df=n-2=25-2=23$ and at $\alpha=.01$. The correct critical value is then: $r=.505$
+  
+
+
+Answerlist
+----------
+* Correct
+* Zoekand at $df=25$ delivers: $r=.487$
+* Zoekand at $\alpha=.05$ delivers: $r=.396$
+* Eenzijdige waarde delivers: $r=.462$
+
+Meta-information
+================
+exname: uu-Test-for-correlation-800-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/t-test/Test for correlation
+exextra[Type]: Case
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

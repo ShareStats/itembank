@@ -1,12 +1,10 @@
-
-
 Question
 ========
 Which of the following situations is not an assumption for correct interpretation of the results of a multiple linear regression analysis?
 
 Answerlist
 ----------
-* The observations used to collect the survey data (variables) are dependent.
+* The observations used to collect the research data (variables) are dependent on each other.
 * The distribution of the observed scores of the dependent variable Y around the best-fit regression line is approximately evenly distributed for the different values of the Xs.
 * The prediction errors are normally distributed when the regression model is applied.
 * The statistical relationship between the independent variables (Xs) in the model is not too strong.
@@ -15,15 +13,13 @@ Answerlist
 Solution
 ========
 
-
-
 Meta-information
 ================
-exname: uu-assumptions-013-nl
+exname: uu-assumptions-013-en
 extype: schoice
 exsolution: 1000
 exsection: Assumptions
 exextra[Type]: Performing analysis
 exextra[Program]: 
-exextra[Language]: Dutch
+exextra[Language]: English
 exextra[Level]: Statistical Literacy

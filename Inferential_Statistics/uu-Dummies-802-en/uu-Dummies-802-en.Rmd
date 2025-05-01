@@ -1,0 +1,35 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Dummies-802-nl-tabel.jpg", recursive = TRUE)
+```
+
+Question
+========
+In subjects, decreases in depression are measured on a continuous scale (Y). One is interested in the effects of three types of therapies: A, B or C, but one also measures background variables $X_{1}$ and $X_{2}$. To predict the decrease in depression, two dummy variables are created for therapy:
+
+![](uu-Dummies-802-nl-table.jpg)
+
+The regression equation for Y is: $$hat{Y}$ = 6.0 - 1.2$D_{1}$ + 1.4$D_{2}$ + 2$X_{1}$ +3$X_{2}$
+
+
+When choosing the two dummy variables, one of the therapies became reference category. If dummy variables other than the two chosen in Question 6 are chosen, then...
+
+Answerlist
+----------
+* Changes a person's estimated decline.
+* Changes the constant (the intercept).
+* Changes the B values of the X variables.
+* More than 1 of the three alternatives (a), (b) and (c) is TRUE.
+
+
+Solution
+========
+
+Meta-information
+================
+exname: uu-Dummies-802-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Regression/Dummies
+exextra[Type]: Case
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,55 @@
+Question
+========
+Is alcoholgebruik op 16-jarige leeftijd afhankelijk van de sociaaleconomische status (laag, midden, hoog) van hun ouders? Een onderzoek onder 150 16-jarigen levert de volgende gegevens op:  
+  
+
+<table> <colgroep> <col style="width: 20%" /> <col style="width: 20%" /> <col style="width: 20%" /> <col style="width: 20%" /> <col style="width: 20%" /> </colgroep> <tbody> <tr class="odd"> <td><br /> </td> <td colspan="4" class="tvcss_2"><em>sociaaleconomische status ouders</em><br /> </td> </tr> <tr class="even"> <td><br /> </td> <td class="tvcss_3">laag</td> <td class="tvcss_4">midden</td> <td>hoog</td> <td>totaal</td> </tr> <tr class="odd"> <td><em>alcoholgebruik</em></td> <td class="tvcss_3"><br /> </td> <td class="tvcss_4"><br /> </td> <td><br /> </td> <td><br /> </td> </tr> <tr class="even"> <td>nee</td> <td class="tvcss_3">22</td> <td class="tvcss_4">52</td> <td>16</td> <td>90</td> </tr> <tr class="odd"> <td>ja</td> <td class="tvcss_3">23</td> <td class="tvcss_4">23</td> <td>14</td> <td>60</td> </tr> <tr class="even"> <td>totaal</td> <td class="tvcss_3">45</td> <td class="tvcss_4">75</td> <td>30</td> <td>150</td> </tr> </tbody> </table>
+
+  
+  
+Om de onderzoeksvraag te beantwoorden, welke test moet worden gebruikt met hoeveel vrijheidsgraden?
+
+Antwoordlijst
+----------
+* Een t-toets met 2 vrijheidsgraden
+* Een t-toets met 149 vrijheidsgraden
+* Een chi-kwadraat toets met 2 vrijheidsgraden
+* Een chi-kwadraat toets met 149 vrijheidsgraden
+
+Solution
+========
+
+Hier heb je een categorische associatie. De test die je moet doen is de chi-kwadraattest, een *t* -test is voor het vergelijken van twee groepen, hier heb je een categorische associatie.  
+  
+  
+Vrijheidsgraden= (aantal rijen-1)(aantal kolommen-1) = (2-1)(3-1)=1\*2=2.  
+Als je meer wilt weten over categorische associaties, kijk dan naar deze [clip](https://www.youtube.com/watch?v=j2ACVQBkKfY&index=1&list=PLyLpEs0x9BnkqWS0k674CckSeAeJ4A3W7)  
+  
+  
+Als je meer wilt weten over de chi-kwadraattest en vrijheidsgraden vrijheid bekijk dit
+[clip](https://www.youtube.com/watch?v=izw6vGctckA&index=2&list=PLyLpEs0x9BnkqWS0k674CckSeAeJ4A3W7)
+
+Moeilijkheidsniveaus Moeilijk
+
+M&T modelselectie Standaardwaarde
+
+M&T Niet-parametrische test Standaardwaarde
+Antwoordlijst
+----------
+* Onwaar
+* Onwaar
+* Waar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-chi-squared-1129-nl
+extype: schoice
+exsolution: 0010
+exshuffle: TRUE
+exsection: inferential statistics/nhst/test statistic/chi-squared
+exextra[Type]: test choice
+exextra[Program]: NA
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

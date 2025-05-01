@@ -1,0 +1,39 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(exams)
+library(knitr)
+```
+Question
+========
+Een ANOVA voor herhaalde metingen heeft meer kracht dan een ANOVA voor onafhankelijke groepen, omdat één variantiecomponent anders wordt berekend. Welke variantiecomponent is dit?
+
+Antwoordlijst
+----------
+* De som van kwadraten
+* De som van de kwadraten model
+* De som van de kwadraten residueel
+* Geen van bovenstaande
+
+
+Solution
+========
+Individuele verschillen tussen deelnemers doen er minder toe bij herhaalde metingen. De score van elke deelnemer wordt op minimaal 2 verschillende momenten gemeten; het verschil tussen deze condities binnen deelnemers is wat relevant is. Een individu dat begint bij een 0 en eindigt bij een 2 (verschil van 2) heeft dezelfde verschilscore als iemand die begint bij een 5 en eindigt bij een 7.
+
+Antwoordlijst
+----------
+* Dit antwoord is onjuist
+* Dit antwoord is onjuist
+* Dit is het goede antwoord!
+* Dit antwoord is onjuist
+
+Meta-information
+================
+exname: eur-inferential_statistics-109-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway repeated measures ANOVA, Inferential Statistics/NHST/Power, Inferential Statistics/Parametric Techniques/ANOVA/ANOVA F-test
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exshuffle: FALSE

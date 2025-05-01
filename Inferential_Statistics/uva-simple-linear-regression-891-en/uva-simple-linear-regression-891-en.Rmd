@@ -1,0 +1,33 @@
+Question
+========
+
+When testing for a coefficient from a multiple regression with three *explanatory variables*, the null hypothesis that states that the coefficient is 0 against the alternative that the coefficient is unequal to 0 is. The coefficient is *b*~1~ = 2.3 with *se* = 0.8 and there are 13 degrees of freedom. Then the null hypothesis
+
+Answerlist
+----------
+
+* Be rejected at 0.02 but not at 0.10.
+* Be rejected at 0.05 but not at 0.02.
+* Be rejected at 0.02 but not at 0.01.
+
+Solution
+========
+
+Answerlist
+----------
+
+* Are rejected at 0.02 but not at 0.10.: Incorrect
+* Are rejected at 0.05 but not at 0.02.: Incorrect
+* Are rejected at 0.02 but not at 0.01.: Correct
+
+Meta-information
+================
+exname: uva-simple-linear-regression-891-en
+extype: schoice
+exsolution: 001
+exsection: Inferential Statistics/Regression/Simple linear regression
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.692
+exextra[p-value]: 0.1759

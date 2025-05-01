@@ -1,13 +1,13 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("vufgb-homoscedasticity-002-en-graph01.jpg", recursive = TRUE)
+include_supplement("vufgb-homoscedasticity-002-nl-graph01.jpg", recursive = TRUE)
 ```
 
 Question
 ========
 
-Consider the residual plot below. Which assumption of the general linear model is violated here?
+Consider the residuals plot below. Which assumption of the general linear model is violated here?
 
-![](vufgb-homoscedasticity-002-en-graph01.jpg)
+![](vufgb-homoscedasticity-002-nl-graph01.jpg)
   
 Answerlist
 ----------
@@ -28,7 +28,7 @@ Answerlist
 
 Meta-information
 ================
-exname: vufgb-homoscedasticity-002-en.Rmd
+exname: vufgb-homoscedasticity-002-en
 extype: schoice
 exsolution: 0001
 exsection: Assumptions/Homoscedasticity, Assumptions/Homoscedasticity/Residual plot, Assumptions

@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-264-nl-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-264-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Test whether the mean grade on exam 4 (variable subject4) is significantly different from the mean grade on exam 3 (variable subject3). Write the t-value found in the answer box (with 3 decimal places).
+
+* Download**: [SPSS file](eur-inferential_statistics-264-nl-data.sav), [CSV file](eur-inferential_statistics-264-nl-data.csv)
+
+
+Solution
+========
+The correct answer is 23,902.
+
+Meta-information
+================
+exname: eur-inferential_statistics-264-en
+extype: num
+exsolution: 23.902
+extol: 0
+exsection: Inferential Statistics/NHST/Test statistic/t-statistic, Inferential Statistics/Parametric Techniques/t-test/Paired samples
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

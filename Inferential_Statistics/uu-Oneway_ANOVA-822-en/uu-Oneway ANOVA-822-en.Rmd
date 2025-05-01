@@ -1,0 +1,39 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Oneway-ANOVA-822-nl-tabel.jpg", recursive = TRUE)
+```
+
+Question
+========
+  
+Below is an incomplete ANOVA table for comparing the mean scores of four groups. How large is the F-ratio and is the result significant when tested with $\alpha$ = .01?
+
+![](uu-Oneway-ANOVA-822-EN-table.jpg)
+
+
+Answerlist
+----------
+* F = 2.6 and is significant at $\alpha$ = .01
+* F = 2.6 and is not significant at $\alpha$  = .01
+* F = 1.9 and is significant at $\alpha$ = .01
+* F = 1.9 and is not significant at $\alpha$ = .01 
+
+Solution
+========
+SSwithin = SStotal - SSbetween = 352.6-25.4 = 327.2 dfbetween = k - 1 = 4 - 1 = 3 dfwithin = dftotal - dfbetween = 104 - 3 = 101.
+
+MSbetween = SSbetween / dfbetween 25.4/3 = 8.47 MSwithin = SSwithin / dfwithin = 327.2/101 = 3.24
+
+F = MSbetween/ MSwithin = 8.47/3.24 = 2.6
+
+Fcritical at df 3, 100 (101 is not in there, so we look at 100) at = .01 is 3.98. The F value obtained is lower than Fcriticality, so the result is not significant at  = .01. If you determine the df incorrectly you end up with F = 1.9 (dfbetween = 4 and dfwithin = 100)
+
+Meta-information
+================
+exname: uu-Oneway ANOVA-822-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

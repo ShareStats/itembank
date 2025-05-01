@@ -1,0 +1,30 @@
+Question
+========
+An experiment is conducted with children in grades 3 through 5 of elementary school. Students are divided into groups. The groups will play in the schoolyard one by one (i.e. there is only one group in the schoolyard each time). Before going outside, one of the children receives something to eat with the instruction to eat it in the schoolyard. Half receive a chocolate bar and the other half an apple. The researchers want to see if there is a difference in the number of children who ask something about eating. To include awareness in the study, half of the children get the food in the presence of the other children and half privately. Is there a difference between the group of children who are aware that another child has been given something and the group that is not? The groups are observed in the schoolyard for 10 minutes and the number of children within the group asking something about the food marked. The results are in the SPSS output below.
+
+The experiment is repeated on a small scale by another set of researchers. However, this time they use a banana and a lollipop in addition to the chocolate bar and the apple. They have 32 groups of children whom they distribute evenly among the different conditions. For the main effect of type of food, they find F = 4.22.
+
+What do we know about the main effect of type of food?
+
+Answerlist
+----------
+* The main effect is significant at $\alpha$= .05 and also at $\alpha$= .01.
+* The main effect is significant at $\alpha$= .05 but not at $\alpha$= .01.
+* The main effect is not significant at $\alpha$ = .05 but at $\alpha$= .01.
+* The main effect is not significant; not at $\alpha$ = .05 and also not at $\alpha$ = .01.
+
+
+Solution
+========
+$DF_{eten}$ = 4 - 1 = 3, $DF{error}$ = N - k = 32 - 8 = 24. At 3 and 24 degrees of freedom, the critical values at $\alpha$= .05 equals $F_{critical}$ = 3.01 and at $\alpha$ = .01 equal to $F_{critical}$ = 4.72. We now see that $F_{obs}$ = 4.22 is greater than the critical value at $\alpha$ = .05, so that at $\alpha$ = .05 the results are significant. We also see that $F_{obs}$ = 4.22 does not exceed the critical value at $\alpha$ = .01, so that at $\alpha$ = .01 the results are not significant.
+
+Meta-information
+================
+exname: uu-Oneway ANOVA-867-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Reasoning

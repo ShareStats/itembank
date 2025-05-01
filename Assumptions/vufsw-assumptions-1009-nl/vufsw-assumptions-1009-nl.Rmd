@@ -4,27 +4,33 @@ include_supplement("durbinwatson.png", recursive = TRUE)
 
 Question
 ========
-Deze tabel laat zien of aan een van de aannames van lineaire regressie **niet** is voldaan. Welke aanname is dat?  
+Deze tabel laat zien of aan een van de assumpties van lineaire regressie **niet** voldaan is. Welke assumptie is dat?  
   
 ![](durbinwatson.png)
 
-Answerlist
+Antwoordlijst
 ----------
-* Onafhankelijkheid van **errors**
+* Onafhankelijkheid van fouten
 * Multicollineariteit
 * Homoscedasticiteit
 * Normaliteit van residuen
 
 Solution
 ========
-Deze tabel toont de Durbin-Watson test, die test op de onafhankelijkheid van fouten (autocorrelatie).
 
-Answerlist
+Deze tabel toont de Durbin-Watson test, die test op de onafhankelijkheid van fouten (autocorrelatie). fouten (autocorrelatie).
+
+Taal Engels
+
+M&T MVA Standaardwaarde
+
+M&T Regressie assumpties Standaardwaarde
+Antwoordlijst
 ----------
-* True
-* False
-* False
-* False
+* Waar
+* Onwaar
+* Onwaar
+* Onwaar
 
 Meta-information
 ================

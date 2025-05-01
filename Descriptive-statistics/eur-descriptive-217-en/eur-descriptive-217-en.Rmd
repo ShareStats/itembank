@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-217-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-217-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+The file below contains all grades on the exams for course 1 to course 7 of master students in the program Movement Sciences at the University of Groningen. Calculate the number of students who scored lower or equal to a 3.9 for 3 of the 7 exams. Write your answer in the answer box (no decimal places).
+
+* Download**: [SPSS file](eur-descriptive-217-nl-data.sav), [CSV file](eur-descriptive-217-nl-data.csv)
+
+
+Solution
+========
+The correct answer is 124.
+
+Meta-information
+================
+exname: eur-descriptive-217-en
+extype: num
+exsolution: 124
+extol: 0
+exsection: Descriptive statistics/Score interpretation/Percentile, Descriptive statistics/Summary Statistics/Proportion
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

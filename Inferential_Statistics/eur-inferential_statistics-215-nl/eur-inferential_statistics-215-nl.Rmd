@@ -1,0 +1,46 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+
+Question
+========
+In vier verschillende onderzoeken wordt een regressieanalyse met één voorspeller uitgevoerd. Bekijk de t-tests van de regressiecoëfficiënt in de vier verschillende regressiemodellen hieronder. Welke van de vier verschillende t-tests heeft de kleinste p-waarde?
+
+```{r, echo=FALSE}
+library(knitr)
+Model <- c("I", "II", "III", "IV")
+t_test <- c("t(29) = -1.3", "t(29) = 3.3", "t(299) = 1.3", "t(299) = -3.3")
+table <- cbind(Model, t_test)
+kable(table)
+```
+
+Antwoordlijst
+----------
+* Model I
+* Model II
+* Model III
+* Model IV
+
+
+Solution
+========
+Model IV is correct. In het algemeen gaan grotere t-waarden, ongeacht of het een positieve of negatieve waarde is, gepaard met kleinere p-waarden. De steekproefgrootte heeft ook invloed. Dezelfde t-waarde (zoals in model II en IV) heeft een kleinere bijbehorende p-waarde in een grotere steekproef. Volgens deze logica is het juiste antwoord dus model IV. De t-waarde en de steekproefgrootte (zoals weergegeven door de df tussen haakjes) zijn hier het grootst.
+
+Antwoordlijst
+----------
+* Onjuist
+* Onwaar
+* Onwaar
+* Waar
+
+Meta-information
+================
+exname: eur-inferential_statistics-215-nl
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/NHST/p-value, Inferential Statistics/NHST/Test statistic/t-statistic
+exextra[Type]: Interpreting output
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

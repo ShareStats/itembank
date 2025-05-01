@@ -1,0 +1,45 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Descriptive-statistics-614-nl-data.sav", recursive = TRUE)
+include_supplement("uu-Descriptive-statistics-614-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+
+* Download**: [SPSS file](uu-Descriptive-statistics-614-nl-data.sav), [CSV file](uu-Descriptive-statistics-614-nl-data.csv)
+
+Open the data file.
+
+Answer the following questions.
+
+* Answer each question with all decimals listed in the output.**
+
+Answerlist
+----------
+* The number of respondents whose score on reading comprehension is known is....
+* The average score on vocabulary is....
+* The minimum score obtained on grammar is....
+* The mode of spelling is...
+
+Solution
+========
+
+Answerlist
+----------
+* Answer: 198
+* Answer: 10.8629
+* Answer: 4.00
+* Answer: 38.00
+
+Meta-information
+================
+exname: uu-Descriptive-statistics-614-nl.-en
+extype: cloze
+exclozetype: num|num|num|num
+exsolution: 198|10.8629|4.00|38.00
+extol: 0
+exsection: Descriptive statistics
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS, JASP
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,37 @@
+Question
+========
+
+In an ANCOVA model with interaction, the following regression equation is estimated, where $x_{1}$ is the covariate and *z* is the Factor with two levels (dummy variable): $\hat{y} = 10+2x_{1}+3z-4x_{1}z$.
+
+Calculate the predicted *y* score for a score 5 on the covariate and a score 1 on the dummy variable. 
+Answerlist
+----------
+* 3
+* 17
+* 19
+* 43
+
+Solution
+========
+
+Enter $x_{1} = 5$ and $z = 1$ gives:
+
+Predicted $y = 10+2 \times 5+3 \times 1-4 \times 5 \times 1 = 10+10+3-20 = 3$.
+
+Answerlist
+----------
+* Correct
+* Incorrect
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-dummies-011-nl
+extype: schoice
+exsolution: 1000
+exsection: Inferandtial Statistics/Regression/Dummies, Inferandtial Statistics/Parametric Techniques/ANOVA/ANCOVA, Inferandtial Statistics/Regression/Equation
+exextra[Type]: Calculation
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

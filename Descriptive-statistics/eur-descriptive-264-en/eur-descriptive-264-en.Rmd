@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-264-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-264-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+What is the average of the differences between the block test scores of 4.2 (v42) and the block test scores of 4.3 (v43)? Assume the following difference: v43 minus v42. Write your answer in the answer box (using 4 decimal places).
+
+* Download**: [SPSS file](eur-descriptive-264-nl-data.sav), [CSV file](eur-descriptive-264-nl-data.csv)
+
+
+Solution
+========
+The correct answer is 0.8925.
+
+Meta-information
+================
+exname: eur-descriptive-264-en
+extype: num
+exsolution: 0.8925
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

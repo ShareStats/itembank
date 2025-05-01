@@ -1,0 +1,39 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-boxplot-14-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Consider the boxplot below for the variable IQ. What is approximately the third quartile (Q3)?
+
+![](uva-boxplot-14-nl-graph01.png)
+
+Answerlist
+----------
+
+* 2
+* 3
+* 5
+
+Solution
+========
+
+Answerlist
+----------
+
+* 2: Incorrect
+* 3: Incorrect
+* 5: Correct
+
+Meta-information
+================
+exname: uva-boxplot-14-en
+extype: schoice
+exsolution: 001
+exsection: Descriptive statistics/Data representation/Graphs/Boxplot
+exextra[Type]: Conceptual, Calculation
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: -5.198
+exextra[p-value]: 0.9948

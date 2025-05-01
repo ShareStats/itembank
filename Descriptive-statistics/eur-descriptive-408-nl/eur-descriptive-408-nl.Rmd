@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-408-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-408-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een kennistest over alcohol bevat 20 items en wordt afgenomen bij 202 middelbare scholieren. De variabele [totaalscore] geeft de totale juiste scores. Geslacht (0 = vrouw; 1 = man) en alcoholgebruik (0 = heel vaak; 1 = vaak; 2 = soms; 3 = nooit) zijn ook opgenomen in de dataset.
+
+De onderzoeker wil de totaalscores van de studenten toewijzen aan de volgende percentielgroepen: 0-20% = 1; >20%-40% =2; >40%-60%=3; >60%-80%=4; >80% = 5. Bereken een nieuwe variabele die aangeeft in welke percentielgroep elke leerling is ingedeeld op basis van hun percentielscores. Wat is de proportioneel juiste score (gemiddelde) op item 8 [item8] voor de leerlingen die zijn toegewezen aan percentielgroep 4? (2 decimalen)
+
+Open de dataset hieronder om deze vraag te beantwoorden:
+
+* Download** [SPSS file](eur-descriptive-408-en-data.sav), [CSV file](eur-descriptive-408-en-data.csv)
+
+
+Solution
+========
+De proportie correct op item 8 voor leerlingen toegewezen aan percentielgroep 4 is 0,90. Eerst moet een nieuwe variabele worden berekend met behulp van de percentielscores en de hercodering naar een andere variabelefunctie. Vind daarna het gemiddelde van groep 4 op item 8. Dit gemiddelde vertegenwoordigt de proportie correct op dit item.
+
+Meta-information
+================
+exname: eur-descriptive-408-nl
+extype: num
+exsolution: 0.90
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean, Descriptive statistics/Summary Statistics/Proportion
+exextra[Type]: Data manipulation, Interpreting output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

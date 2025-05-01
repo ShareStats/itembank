@@ -1,0 +1,30 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-127-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-127-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Open het SPSS-bestand.
+
+Er is een fout gemaakt in de berekening van het cursusexamen van cursus 2.2 (variabele cursus 2_2). Het cijfer van elke student moet herberekend worden door 0,2 punten toe te voegen aan het huidige cijfer. Voer deze herberekening uit en rapporteer het gemiddelde van de nieuwe cijfers voor vak 2.2. Merk op dat voor sommige studenten de nieuwe score voor het examen hoger is dan 10. Daarvoor hoef je niet te corrigeren. Daarvoor hoef je niet te corrigeren in de berekening van het gemiddelde. Rond je antwoord af op 4 decimalen.
+
+
+* Download**: [SPSS file](eur-descriptive-127-en-data.sav), [CSV file](eur-descriptive-127-en-data.csv)
+
+
+Solution
+========
+Het gemiddelde voor de nieuwe cijfers van cursus 2.2 is 5,3741.
+
+Meta-information
+================
+exname: eur-descriptive-127-nl
+extype: num
+exsolution: 5.3741
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

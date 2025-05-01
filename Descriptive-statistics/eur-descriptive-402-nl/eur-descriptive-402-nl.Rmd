@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-402-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-402-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een onderzoeker van het instituut voor psychologie doet onderzoek naar alcoholmisbruik onder adolescenten. De onderzoeker ontwierp een vragenlijst met 12 items op Likert-schalen van 1 (helemaal mee oneens) tot 5 (helemaal mee eens). Een voorbeeld van een item is: Als ik uitga, drink ik vaak meer dan 5 alcoholische dranken. De antwoorden van 608 adolescente meisjes (1) en jongens (2) op de 12 items zitten in de dataset. Let op: hogere scores op de vragenlijst duiden op meer alcoholmisbruik.
+
+Bereken de totaalscore door alle antwoorden op alle items bij elkaar op te tellen. Houd rekening met de missers bij het berekenen van de totaalscore en neem mensen die minder dan 8 antwoorden hebben gegeven niet mee. Zorg ervoor dat de totaalscore wordt afgerond. Wat is het gemiddelde van de totaalscore (3 decimalen)?
+
+Open de dataset hieronder om deze vraag te beantwoorden:
+
+* Download** [SPSS file](eur-descriptive-402-en-data.sav), [CSV file](eur-descriptive-402-en-data.csv)
+
+
+Solution
+========
+Het gemiddelde van de totaalscore is 33,799. De totaalscore is berekend met de functie mean.n en round.
+
+Meta-information
+================
+exname: eur-descriptive-402-nl
+extype: num
+exsolution: 33.799
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
+exextra[Type]: Data manipulation, Interpreting output, Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

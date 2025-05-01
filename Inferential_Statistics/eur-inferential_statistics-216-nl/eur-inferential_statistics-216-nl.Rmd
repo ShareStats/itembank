@@ -1,0 +1,41 @@
+Question
+========
+In een eenzijdige ANOVA worden vier experimentele groepen vergeleken en worden eenvoudige contrasttoetsen uitgevoerd. Overweeg de volgende twee Stellingen over deze contrasttoetsen:
+
+1. De contrasten worden getest met vier verschillende t-tests.
+
+2. Als de effectgrootte voor een contrast, rcontrast, gelijk is aan .09, wordt dit een matig effect genoemd.
+
+Welke Stelling is waar?
+
+Antwoordlijst
+----------
+* Beide stellingen zijn waar
+* Alleen stelling 1 is waar
+* Alleen stelling 2 is waar
+* Beide stellingen zijn onwaar
+
+
+Solution
+========
+Beide Stellingen zijn onjuist. Bij vier groepen en een enkelvoudig contrast worden er slechts drie vergelijkingen gemaakt. Bij een eenvoudig contrast wordt elke groep vergeleken met de eerste groep (eerste) of de laatste groep (laatste), afhankelijk van wat je wilt onderzoeken.
+
+Bijvoorbeeld, voor het eenvoudige contrast(eerste) krijg je groep 1 vs groep 2, groep 1 vs groep 3, en groep 1 vs groep 4. Dit zijn slechts 3 vergelijkingen. Stelling 2 is ook onjuist. Ruwe richtlijnen voor effectgrootte r zijn: klein is .10, middel is .30, groot is .50
+
+Antwoordenlijst
+----------
+* Onjuist
+* Onwaar
+* Onwaar
+* Waar
+
+Meta-information
+================
+exname: eur-inferential_statistics-216-nl
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Post-hoc test, Inferential Statistics/Effect size/Cohen's d
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

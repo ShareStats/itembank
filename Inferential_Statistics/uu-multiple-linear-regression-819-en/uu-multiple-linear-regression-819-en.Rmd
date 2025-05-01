@@ -1,42 +1,36 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("uu-Multiple-linear-regression-819-en-tabel.jpg", recursive = TRUE)
+include_supplement("uu-multiple-linear-regression-819-nl-tabel.jpg", recursive = TRUE)
 ```
-
-
 Question
 ========
+The table below is from Kanazawa's (2012) article. The table contains results of the analyses conducted to predict "General Intelligence, age 11." 
 
-A teacher wonders whether boys performed differently on the MET22 exam than girls, and conducts a logistic regression with the dependent variable passing the exam (1 = yes, 0 = no) and a dummy variable boys (1 = boy, 0 = girl). Part of the SPSS Output is shown below: 
+![](uu-multiple-linear-regression-819-nl-tabel.jpg)
 
-![](uu-Multiple-linear-regression-819-en-tabel.jpg)
+Two students both make statements about the table:
 
-What is the estimated probability that girls pass the exam?
-  
+I Of 33 participants, it is unknown how many siblings they have II In model 4, "Father's education" is a stronger predictor of "Intelligence" than "Mother's education."
+
+Which student is right?
+
 Answerlist
 ----------
-* 0.25
-* 0.50
-* 0.33
-* 0.67
+* Only student 1 is right
+* Only student 2 is right
+* Both student 1 and student 2 are right
+* Neither student is right
+
 
 Solution
 ========
 
-
-
-Answerlist
-----------
-* This answer is incorrect.
-* This answer is incorrect.
-* This answer is correct.
-* This answer is incorrect.
-
 Meta-information
 ================
-exname: uu-Multiple-linear-regression-819-en.Rmd
+exname: uu-multiple-linear-regression-819-en
 extype: schoice
 exsolution: 0010
 exsection: Inferential Statistics/Regression/Multiple linear regression
-exextra[Type]: Conceptual
+exextra[Type]: Interpretating output
+exextra[Program]: 
 exextra[Language]: English
 exextra[Level]: Statistical Literacy

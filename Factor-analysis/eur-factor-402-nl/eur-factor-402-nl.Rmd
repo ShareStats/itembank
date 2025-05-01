@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-factor-402-en-data.sav", recursive = TRUE)
+include_supplement("eur-factor-402-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een onderzoeker onderzoekt de factoren die alcoholmisbruik onder ouderen kunnen verklaren. Op basis van de theorie vermoedt de onderzoeker dat er verschillende dimensies te onderscheiden zijn met betrekking tot alcoholmisbruik. Ze ontwierp 34 stellingen waar ouderen het mee eens of oneens kunnen zijn op een vierpuntsschaal (1 = helemaal mee eens; 2 = enigszins mee eens; 3 = enigszins mee oneens; 4 = helemaal mee oneens). Een voorbeeld van een stelling is: Als ik me eenzaam voel, drink ik graag een alcoholische drank. De vragenlijst werd afgenomen bij 312 ouderen (>70 jaar). De antwoorden van de deelnemers op de 34 stellingen staan in de dataset.
+
+Als er 3 factoren geëxtraheerd zijn, wat is dan het percentage van de variantie van de geëxtraheerde som van de gekwadrateerde ladingen dat verklaard wordt door de 3 factoren samen? (3 decimalen)
+
+Open de dataset hieronder om deze vraag te beantwoorden:
+
+* Download** [SPSS file](eur-factor-402-en-data.sav), [CSV file](eur-factor-402-en-data.csv)
+
+
+Solution
+========
+Het percentage variantie dat wordt verklaard door de drie factoren samen is 16,441% (zoek naar de extractiesommen van gekwadrateerde ladingen en dan naar het cumulatieve %).
+
+Meta-information
+================
+exname: eur-factor-402-nl
+extype: num
+exsolution: 16.441
+extol: 0
+exsection: Factor analysis/Explained variance, Factor analysis/Exploratory factor analysis
+exextra[Type]: Performing analysis, Interpreting output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

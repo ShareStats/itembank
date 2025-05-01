@@ -1,0 +1,32 @@
+Question
+========
+  
+If a key is executed with $\alpha = 5%$ and has a power of $80%$, then what is the probability that the $H_0$ rightly rejected? 
+Answerlist
+----------
+* 5%
+* 20%
+* 80%
+* 95%
+
+
+Solution
+========
+  
+Answerlist
+----------
+* 5% is the probability that $H_0$ is rejected while correct (probability of a Type I error).
+* 20% is the probability that $H_0$ is not rejected when it should have been rejected (probability of a Type II error).
+* 80% is the probability of finding an effect in the sample when it is actually present in the population. Thus, this is the probability $H_0$ is rejected while it is also incorrect (and thus rightly rejected).
+* 95% is the probability that $H_0$ is not rejected when it is actually true.
+
+Meta-information
+================
+exname: uu-Statistical-errors-601-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/NHST/Statistical errors
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

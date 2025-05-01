@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-266-en-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-266-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Test of het gemiddelde cijfer van het cursus examen 1.1 (variabele cursus1_1) significant afwijkt van het gemiddelde cijfer van cursus examen 1.6 (variabele cursus1_6). Schrijf de waargenomen t-waarde in het antwoordvak (met 3 cijfers achter de komma).
+
+* Download**: [SPSS file](eur-inferential_statistics-266-en-data.sav), [CSV file](eur-inferential_statistics-266-en-data.csv)
+
+
+Solution
+========
+De juiste oplossing is 26,535.
+
+Meta-information
+================
+exname: eur-inferential_statistics-266-nl
+extype: num
+exsolution: 26.535
+extol: 0
+exsection: Inferential Statistics/NHST/Test statistic/t-statistic, Inferential Statistics/Parametric Techniques/t-test/Paired samples
+exextra[Type]: Interpreting output
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

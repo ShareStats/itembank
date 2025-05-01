@@ -1,0 +1,44 @@
+Question
+========
+Een student die werkt aan zijn MSc thesis gebruikt een proefopzet om te testen of mensen die naar een negatief nieuwsbericht keken een lagere beoordeling van het imago van een bepaald bedrijf geven dan mensen die een neutraal nieuws keken. De evaluatie wordt gemeten op een schaal van 1 (extreem negatief) tot 5 (extreem positief). negatief) tot 5 (extreem positief).  
+  
+De gegevens geven de volgende resultaten:  
+
+<table> <tbody> <tr class="odd"> <td><strong>Experimentele groep (groep 1)</strong></td> <td><strong>Controlegroep (groep 2)</strong></td> </tr> <tr class="even"> <td>n = 60</td> <td>n = 60</td> </tr> <tr class="odd"> <td>Gemiddelde = 3,40</td> <td>Gemiddelde = 3,60</td> </tr> <tr class="even"> <td>SD = 0,60</td> <td>SD = 0,60</td> </tr> </tbody> </table>
+
+  
+Zet de bovenstaande gegevens om in een regressievergelijking. De afhankelijke variabele (Y) is de evaluatie van de afbeelding (EVALUATIE) en de afhankelijke variabele (X) is de groep (GROUP), waarbij de controlegroep de referentiecategorie is (controlegroep = 0, experimentele groep = 1).
+
+Antwoordlijst
+----------
+* EVALUATIE= 3,20 + 0,40 GROEP
+* EVALUATIE = 3,60 - 0,20 GROEP
+* EVALUATIE = 0,20 + 3,40 GROEP
+* EVALUATIE = 3,40 - 3,60 * GROEP
+* EVALUATIE = 3,40 - 0,20 * GROEP
+* EVALUATIE = 3,60 + 3,40 GROEP
+
+Solution
+========
+
+Antwoordlijst
+----------
+* Onjuist
+* Waar
+* Onwaar
+* Onwaar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-equation-1282-nl
+extype: schoice
+exsolution: 010000
+exshuffle: TRUE
+exsection: inferential statistics/regression/equation
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: Dutch
+exextra[Level]: statistical thinking
+

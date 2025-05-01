@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-factor-401-en-data.sav", recursive = TRUE)
+include_supplement("eur-factor-401-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een onderzoeker onderzoekt de factoren die alcoholmisbruik onder ouderen kunnen verklaren. Op basis van zijn theorie vermoedt de onderzoeker dat er verschillende dimensies te onderscheiden zijn met betrekking tot alcoholmisbruik. Ze ontwierp 34 stellingen waar ouderen het mee eens of oneens kunnen zijn op een vierpuntsschaal (1 = helemaal mee eens; 2 = enigszins mee eens; 3 = enigszins mee oneens; 4 = helemaal mee oneens). Een voorbeeld van een stelling is: Als ik me eenzaam voel, drink ik graag een alcoholische drank. De vragenlijst werd afgenomen bij 312 ouderen (>70 jaar). De antwoorden van de deelnemers op de 34 stellingen staan in de dataset.
+
+Voer een ongeroteerde exploratieve factoranalyse met hoofdasfactoring uit op alle items van de vragenlijst. Wat is het percentage van de variantie dat verklaard wordt door de derde factor? (3 decimalen)
+
+Open de dataset hieronder om deze vraag te beantwoorden:
+
+* Download** [SPSS file](eur-factor-401-en-data.sav), [CSV file](eur-factor-401-en-data.csv)
+
+
+Solution
+========
+Het percentage variantie dat door de derde factor wordt verklaard, is 6,658.
+
+Meta-information
+================
+exname: eur-factor-401-nl
+extype: num
+exsolution: 6.658
+extol: 0
+exsection: Factor analysis/Explained variance, Factor analysis/Eigenvalues, Factor analysis/Exploratory factor analysis
+exextra[Type]: Interpreting output, Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

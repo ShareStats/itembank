@@ -1,35 +1,30 @@
-
-
 Question
 ========
   
-The Media & Entertainment Management (MEM) program at Inholland University of Applied Sciences was rated very weak by the Dutch Education Inspectorate in 2011. Following this report, a study is conducted to assess student satisfaction with the program. An experimental test version consists of 20 equivalent items and has a reliability coefficient rxx' of 0.85. However, for the actual study, the researcher needs to shorten the test by removing five items.
+The Media & Entertainment Management (MEM) program at Inholland University of Applied Sciences was rated very weak by the Education Inspectorate in 2011. In response to this reporting, research is being conducted into student satisfaction with this program. An experimental test version consists of 20 equivalent items. The reliability rxx' of this test is .85. For the real study, the researcher must shorten the test by removing five items.
 
-The estimated reliability of the scores for the shortened test (r ̂VV') is then: 
+The estimated reliability of the scores of the shortened test (r ̂VVV') is then:
 
 
 Answerlist
 ----------
-* Lower than 0.65
-* Between 0.65 and 0.75
-* Between 0.75 and 0.85
-* Higher than 0.85
+* Lower than .65
+* Between .65 and .75
+* Between .75 and .85
+* Higher than .85
 
 Solution
 ========
 
-Explanation: The formula for the scaling factor is:
-v - $\frac {k'}{k}$ where: k' is the number of items in the new test (20 - 5 = 15 items) and k is the number of items in the original test (20 items)
-Substituting the values: v= $\frac {15}{20}= 0.75$
+Explanation: The formula for the extension factor is v - $\frac {k'}{k}$ where k'is the number of questions on the new test (here 20-5=15 questions) and k is the number of questions on the original test (here:20). Filling in gives v= $\frac {15}{20}= 0.75$
 
-The formula for the estimated reliability of the shortened test is: $r_{xx'} = \frac {0.75 * 0.85}{1+ (0.75-1) 0.85} =  \frac {0.6375}{1+ -0.2125} = \frac {0.6375}{0.7875} = 0.809  $
+The formula for the reliability of the extended test is $r_{xx'} = \frac {0.75 * 0.85}{1+ (0.75-1) 0.85} =  \frac {0.6375}{1+ -0.2125} = \frac {0.6375}{0.7875} = 0.809  $
   
-Thus, the correct answer is: "Between 0.75 and 0.85" (Option C). 
-  
+Thus, the correct answer is Option C.
 
 Meta-information
 ================
-exname: uu-reliability-015-en.Rmd
+exname: uu-reliability-015-en
 extype: schoice
 exsolution: 0010
 exsection: Reliability

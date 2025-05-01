@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-one-sample-mean-350-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Below is SPSS output from a sample T test regarding decrease in blood pressure after medication. The output tests the hypothesis tested that the mean decrease in the population, μ, is equal to 10. With a two-sided risk of 5%, the conclusion should be
+
+![](uva-one-sample-mean-350-nl-graph01.png)
+
+Answerlist
+----------
+
+* T-value falls in the critical range, reject H0.
+* T-value falls in the critical range, do not reject H0.
+* T-value does not fall into the critical range, reject H0.
+* T-value does not fall into the critical range, do not reject H0.
+
+Solution
+========
+
+Answerlist
+----------
+
+* T-value falls in the critical range, reject H0...: Incorrect
+* T-value falls in the critical range, reject H0 not...: Incorrect
+* T-value does not fall in the critical range, reject H0...: Incorrect
+* T-value does not fall into the critical range, do not reject H0...: Correct
+
+Meta-information
+================
+exname: uva-one-sample-mean-350-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/t-test/One sample mean
+exextra[Type]: Interpreting output
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.87
+exextra[p-value]: 0.1454

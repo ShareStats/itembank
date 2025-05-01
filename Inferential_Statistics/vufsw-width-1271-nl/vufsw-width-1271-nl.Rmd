@@ -1,0 +1,42 @@
+Question
+========
+In een enquête werd aan 1414 respondenten gevraagd hoeveel uur ze besteedden aan aan religieuze activiteiten. Het gemiddelde van de steekproef was 6,15 uur met een standaard deviatie van 16,53 uur. Bereken het 95%-betrouwbaarheidsinterval voor het populatiegemiddelde.
+
+Antwoordlijst
+----------
+* 5.43; 6.87
+* -26.24; 38.55
+* 5.29; 7.01
+* 5.03; 7.27
+
+Solution
+========
+
+Je kunt dit berekenen met de volgende formule: CI voor gemiddelde y +/-* t(se) *met *se* = *s / √n*  Dus: 6.15 +/- 1.96\* (16.53/ √1414)=(5.29; 7.01)
+
+Taal Nederlands
+
+Moeilijkheidsniveaus Moeilijk
+
+M&T BIS Standaardwaarde
+
+M&T Verdelingen Standaardwaarde
+Antwoordlijst
+----------
+* Onwaar
+* Onwaar
+* Waar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-width-1271-nl
+extype: schoice
+exsolution: 0010
+exshuffle: TRUE
+exsection: inferential statistics/confidence intervals/width
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

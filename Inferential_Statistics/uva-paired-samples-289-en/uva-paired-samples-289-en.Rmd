@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-paired-samples-289-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Eleven individuals follow a diet to increase their hemoglobin levels. Below is SPSS output from a test to see if the Hb levels before and after the diet are indeed different. When testing H~0~:μ~before~ = μ~na~ against H~1~:μ~before~ \< μ~na~, with a one-sided risk of 5%, the conclusion must be
+
+![](uva-paired-samples-289-nl-graph01.png)
+
+Answerlist
+----------
+
+* The test result is significant, reject H0.
+* The test result is significant, do not reject H0.
+* The test result is not significant, reject H0.
+* The test result is not significant, do not reject H0.
+
+Solution
+========
+
+Answerlist
+----------
+
+* The test result is significant, reject H0...: Correct
+* The test result is significant, do not reject H0: Incorrect
+* The test result is not significant, reject H0...: Incorrect
+* The test result is not significant, reject H0: Incorrect
+
+Meta-information
+================
+exname: uva-paired-samples-289-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/t-test/Paired samples
+exextra[Type]: Interpreting output
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2.416
+exextra[p-value]: 0.4807

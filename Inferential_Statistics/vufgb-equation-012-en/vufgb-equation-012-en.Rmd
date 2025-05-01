@@ -1,0 +1,39 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-equation-012-nl-table01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+In a study of the effect of the Restricted Elimination Diet and the drug Ritalin on reducing ADHD symptoms, the following formula is found: $\hat{y} = 30-2w_{1}-1.5z_{1}-0.5z_{2}-2.5w_{1}z_{1}-1.5w_{1}z_{2}$. Below is the coding used.
+
+![](vufgb-equation-012-nl-table01.jpg)
+
+What is the expected average for children who received the RED diet and 5 mg of Ritalin? 
+Answerlist
+----------
+* 26
+* 26.5
+* 24
+* 27.5
+
+Solution
+========
+
+Answerlist
+----------
+* Correct
+* Incorrect
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-equation-012-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Regression/Equation
+exextra[Type]: Interpreting output, Calculation
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

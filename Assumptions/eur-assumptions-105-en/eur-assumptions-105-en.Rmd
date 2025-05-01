@@ -1,23 +1,23 @@
-
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("eur-assumptions-105-en-data.sav", recursive = TRUE)
-include_supplement("eur-assumptions-105-en-data.csv", recursive = TRUE)
+include_supplement("eur-assumptions-105-nl-data.sav", recursive = TRUE)
+include_supplement("eur-assumptions-105-nl-data.csv", recursive = TRUE)
 ```
 
 Question
 ========
-*Testing effect* 
+* Esting effect*
 
-Research has shown that when people have to learn faces of strangers, they can remember them better in the long run when they study the faces first and then test themselves with matching the faces to the corresponding name, than when they study the faces twice. A researcher at the Institute of Psychology wants to know whether this so-called testing effect also reveals itself in the classroom. She divides a group of 60 4VWO students into three groups [condition]. The students in group 1 study a list of 30 faces and their names twice in a row (1 = restudy), the students in group 2 study the same faces and their names once and then test themselves (2 = testing). This involves them putting their hand on the list of people's names and figuring out for themselves what the person in the picture is called. Pupils in group 3 study the faces and names only once (3 = study_once). A week after studying, all pupils are given a test where they are shown the 30 faces and have to give the corresponding name. The total number of correctly identified people is shown in the variable score [score]. The researcher further collected a social skill score [social] for each student.
-Open het databestand.
+Research has shown that when people have to learn faces of strangers they can remember them better in the long run when they study the faces first and then test themselves with matching the faces to the corresponding name, than when they study the faces twice. A researcher at the Institute of Psychology wants to know if this so-called testing effect reveals itself in the classroom. She divides a group of 60 4VWO students into three groups [condition]. The students in group 1 study a list of 30 faces and their names twice in a row (1 = restudy), the students in group 2 study the same faces and their names once and then test themselves (2 = testing). This involves them putting their hand on the list of people's names and figuring out for themselves the name of the person in the picture. Students in grade 3 study the faces and names only 1 time (3 = study_once). One week after studying, all students are given a test where they are shown the 30 faces and have to give the corresponding name. The total number of correctly identified people is shown in the variable score [score]. The researcher further collected a social skill score [social] for each student.
 
-Conduct an analysis to determine whether the regression lines representing the relationship between social skill score [social] and performance on the test [score] differ for the three conditions [condition]. What is the p-value associated with the F-test testing the homogeneity of regression assumption? (3 decimal places)
+Open the data file.
 
-**Download**: [SPSS file](eur-assumptions-105-en-data.sav), [CSV file](eur-assumptions-105-en-data.csv)
+Perform an analysis to determine whether the regression lines representing the relationship between social skill score [social] and performance on the test [score] differ for the three conditions [condition]. What is the p-value associated with the F test that tests the homogeneity of regression assumption? (3 decimal places)
+
+* Download**: [SPSS file](eur-assumptions-105-nl-data.sav), [CSV file](eur-assumptions-105-nl-data.csv)
 
 Solution
 ========
-The p-value is .872. The appropriate analysis is ANCOVA where you test the two main effects of condition and French + their interaction (condition*French). The F-value for the interaction effect is 0.138, the p-value is .872.
+The p-value is .872. The correct analysis is ANCOVA where you test the two main effects of condition and French + their interaction (condition*French). The F-value for the interaction effect is 0.138, the p-value is .872.
 
 Meta-information
 ================

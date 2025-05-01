@@ -1,0 +1,26 @@
+Question
+========
+One of the conditions of a regression analysis is about "homoscedasticity." Which graph is best to use to check this condition?
+
+Answerlist
+----------
+* A scatterplot with the predictors on the X-axis and nurse stress scores on the Y-axis
+* A scatterplot with the residuals on the X-axis and nurse stress scores on the Y-axis
+* A scatterplot with the residuals on the X axis and nurse stress scores on the Y axis
+* A scatterplot with standardized-predicted nurse stress scores on the X-axis and the standardized residuals on the Y-axis
+
+
+Solution
+========
+Homoscedasticity means that the spread in residuals for each X value is approximately equal. In other words, that the dispersion in residuals for each predicted value is about the same. You can check this condition with a scatterplot where you put the standardized predicted scores on the X-axis, and the standardized residuals on the Y-axis.
+
+Meta-information
+================
+exname: uu-Homoscedasticity-023-en
+extype: schoice
+exsolution: 0001
+exsection: Assumptions/Homoscedasticity
+exextra[Type]: Performing analysis
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,24 @@
+Question
+========
+Een onderzoeker legt een verband tussen het aantal uren oefenen en het vermogen om een specifieke vaardigheid (bijv. duiken, armstand duik, highboardduik) met behulp van een lineair regressiemodel: hoe meer je oefent, hoe beter de prestatie van de duik.  
+  
+De voorspelde score in een duikwedstrijd berekenen als ze 250 uur training hebben verzameld. Neem aan dat de* helling van uren training training =* .1016 op duikprestaties en de *constante* = 22,5 in de regressievergelijking. *Gebruik slechts één decimaal!
+
+
+Solution
+========
+
+De regressievergelijking is: Duikscore = 22,5 + 0,1016*uren opleiding Als je uren vervangt door 250: (duikscore = 22.5 + 0.1016 \* 250), bereik je de uitkomst 47,9
+
+Meta-information
+================
+exname: vufsw-equation-1007-nl
+extype: num
+exsolution: 47.9
+extol: 0
+exsection: inferential statistics/regression/equation
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

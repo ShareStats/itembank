@@ -1,0 +1,37 @@
+Question
+========
+
+There are 151 accidents during high school sports lessons. 54 of these accidents were caused by cheerleading. Suppose you want to take a random sample of 5 out of the 151 without backtracking. What is then the probability that not a single accident is caused by cheerleading?
+
+Answerlist
+----------
+
+* (49/151)5
+* 1-(54/151)5
+* (49/151)(48/150)(47/149)(46/148)(45/147)
+* (49/151)(48/151)(47/151)(46/151)(45/151)
+* (97/151)(96/150)(95/149)(94/148)(93/147)
+
+Solution
+========
+
+Answerlist
+----------
+
+* (49/151)5: Incorrect
+* 1-(54/151)5: Incorrect
+* (49/151)(48/150)(47/149)(46/148)(45/147): Incorrect
+* (49/151)(48/151)(47/151)(46/151)(45/151): Incorrect
+* (97/151)(96/150)(95/149)(94/148)(93/147): Correct
+
+Meta-information
+================
+exname: uva-multiplication-rule-1295-en
+extype: schoice
+exsolution: 00001
+exsection: Probability/Elementary Probability/General Rules/Multiplication rule
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

@@ -1,0 +1,33 @@
+Question
+========
+
+When two events A and B are independent, then
+
+Answerlist
+----------
+
+* P(A) = P(A | B).
+* P(A and B) = P(A) * P(A | B).
+* P(A or B) = P(A) + P(B).
+
+Solution
+========
+
+Answerlist
+----------
+
+* P(A) = P(A | B)...: Correct
+* P(A and B) = P(A) * P(A | B)...: Incorrect
+* P(A or B) = P(A) + P(B)...: Incorrect
+
+Meta-information
+================
+exname: uva-independent-events-153-en
+extype: schoice
+exsolution: 100
+exsection: Probability/Elementary Probability/General Rules/Independent events
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3
+exextra[p-value]: 0.311

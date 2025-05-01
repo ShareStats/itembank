@@ -1,0 +1,33 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-117-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-117-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+* Ork for psychologists and educators.*
+
+A scientist was commissioned to investigate whether psychology and education graduates succeed in finding level jobs. The researcher designed his own questionnaire consisting of 12 Likert items with 5 response options ranging from completely disagree (1) to completely agree (5). An example of an item is: I had to put a lot of effort to find a job opening for a level job. The responses of 608 educators (1) and psychologists (2), distinguished in the variable [psy_ped], to the 12 items are shown in the data file. NOTES. The more the respondent agrees with the statements, the more difficult he/she finds it to find a level job.
+
+Open the data file.
+
+What is the highest correlation between an item and the corrected item total score? (3 decimal places)
+
+* Download**: [SPSS file](eur-descriptive-117-nl-data.sav), [CSV file](eur-descriptive-117-nl-data.csv)
+
+
+Solution
+========
+The highest correlation between an item and the corrected item total score is 0.824.
+
+Meta-information
+================
+exname: eur-descriptive-117-en
+extype: num
+exsolution: 0.824
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

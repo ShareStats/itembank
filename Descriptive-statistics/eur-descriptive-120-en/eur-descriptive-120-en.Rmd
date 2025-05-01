@@ -1,0 +1,33 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-120-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-120-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+* Nowledge about the professional field.*
+
+A knowledge test about the professional field of psychologists and pedagogues consists of 20 items and was administered to 202 students from the psychology and pedagogy master's program. The total number of correctly answered questions is shown in the variable [total score].
+
+Open the data file.
+
+How many students have a total score greater than two standard deviations above the mean in the group (no decimals)?
+
+* Download**: [SPSS file](eur-descriptive-120-nl-data.sav), [CSV file](eur-descriptive-120-nl-data.csv)
+
+
+Solution
+========
+Three students have total scores greater than two standard deviations above the mean in the group. Calculate z-scores for the variable [total score]; there are three individuals with a z-score greater than 2.
+
+Meta-information
+================
+exname: eur-descriptive-120-en
+extype: num
+exsolution: 3
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

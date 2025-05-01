@@ -4,7 +4,7 @@ library(knitr)
 ```
 Question
 ========
-Hieronder vind je de waargenomen scores op twee parallelle versies van een depressieschaal, bestaande uit 8 items die worden gescoord op een 5-puntsschaal van Likert.
+Hieronder vind je de waargenomen scores op twee parallelle vormen van een depressieschaal bestaande uit 8 items gescoord op een 5-punts Likertschaal.
 
 ```{r, echo=FALSE}
 library(knitr)
@@ -15,13 +15,12 @@ table <- cbind(Participant, Form1, Form2)
 kable(table)
 ```
 
-Bereken de betrouwbaarheid van de depressieschaal met behulp van de alternatieve vormen schatting (alternate forms estimate) van betrouwbaarheid.
+Bereken de betrouwbaarheid van de depressieschaal met behulp van de alternatieve betrouwbaarheidsschatting.
 
 
 Solution
 ========
 De betrouwbaarheid van de depressieschaal kan worden geschat door de correlatie tussen de twee alternatieve vormen te berekenen. De correlatie is: $r_{F1,F2}$ = $\frac{38.67}{\sqrt{37.89 \times 46.67}} = .920$
-
 
 Meta-information
 ================

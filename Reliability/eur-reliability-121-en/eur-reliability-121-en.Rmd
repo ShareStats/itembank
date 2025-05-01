@@ -5,21 +5,20 @@ include_supplement("eur-reliability-121-nl-data.csv", recursive = TRUE)
 
 Question
 ========
-*Work for psychologists and pedagogues.*
+* Ork for psychologists and educators.*
 
-A researcher has been tasked with investigating whether graduate psychologists and pedagogues are able to find a job at their level. To this end, the researcher has designed a questionnaire consisting of 12 Likert items with 5 response options, ranging from strongly disagree (1) to strongly agree (5). An example of an item is: "I had to put in a lot of effort to find a job vacancy at my level." The responses of 608 pedagogues and psychologists to the twelve items are shown in the data file, with the variable [psy_ped] distinguishing pedagogues (1) and psychologists (2). Note: The total score across the 12 items indicates how difficult someone finds it to find a job at their level. The higher the total score, the more difficult it is for them to find a job at their level.
+A scientist has been tasked with investigating whether psychology and education graduates succeed in finding level jobs. To this end, the researcher designed his own questionnaire consisting of 12 Likert items with 5 response options ranging from completely disagree (1) to completely agree (5). An example of an item is: I had to put a lot of effort to find a job vacancy for a level job. The responses of 608 educators and psychologists to the 12 items are shown in the data file, with the variable [psy_ped] distinguishing educators (1) and psychologists (2). NOTES. The total score across the 12 items indicates how difficult a person finds it to find a level job. The higher the total score the harder he/she finds it to find a level job.
 
 Open the data file.
 
-Conduct a reliability analysis for the questionnaire consisting of 12 Likert items. What is the variance of the scale (scale) when all items are included? (2 decimal places)
+Do a reliability analysis for the questionnaire designed consisting of 12 Likert items. What is the variance of the scale (scale) if all items are included? (2 decimal places)
 
-**Download**: [SPSS file](eur-reliability-121-en-data.sav), [CSV file](eur-reliability-121-en-data.csv)
+* Download**: [SPSS file](eur-reliability-121-nl-data.sav), [CSV file](eur-reliability-121-nl-data.csv)
 
 
 Solution
 ========
-De variantie van de schaal is 53.19.
-
+The variance of the scale is 53.19.
 
 Meta-information
 ================

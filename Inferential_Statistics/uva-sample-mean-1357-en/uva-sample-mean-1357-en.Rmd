@@ -1,0 +1,39 @@
+Question
+========
+
+A population contains five numbers: 2, 3, 6, 8 and 11. Suppose you select 2 numbers at random (with return) from this population, then there are 25 possibilities. These possibilities are shown below:Ê \
+
+  -------- -------- -------- -------- --------- (2,2) (2,3) (2,6) (2,8) (2,11) (3,2) (3,3) (3,6) (3,8) (3,11) (6,2) (6,3) (6,6) (6,8) (6,11) (8,2) (8,3) (8,6) (8,8) (8,11) (11,2) (11,3) (11,6) (11,8) (11,11) -------- -------- -------- -------- ---------
+
+\ What then is the expected value for the mean of the sample averages?
+
+Answerlist
+----------
+
+* 3
+* 5,5
+* 6
+* 6,5
+
+Solution
+========
+
+Answerlist
+----------
+
+* 3: Incorrect
+* 5.5: Incorrect
+* 6: Correct
+* 6.5: Incorrect
+
+Meta-information
+================
+exname: uva-sample-mean-1357-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Sampling Distributions/Sample mean
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

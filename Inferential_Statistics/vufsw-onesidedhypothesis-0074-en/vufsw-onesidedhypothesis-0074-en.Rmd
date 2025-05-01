@@ -1,0 +1,53 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Screen__Shot__2020-04-22__at__14.08.43.png", recursive = TRUE)
+```
+
+Question
+========
+One survey included the following question on the extent to which a person has confidence in the police. This variable is called "**Police**".  
+  
+Respondents also answered questions about their origin. According to the CBS definition, a person has a migration background if this person, or one of the parents, was born in another country. On the basis this, the researcher created the dummy variable "**Migration background" **constructed (1=respondent has a migration background; 0=respondent has no migration background).  
+  
+It expects people with a migration background to have less trust have in the police than people without a migration background and formulates the following null hypothesis (H<sub>0</sub>) and alternative hypothesis (H<sub>a</sub>):  H<sub>0</sub>: the average degree of trust in the police of people with a migration background does *not* differ from the average degree of trust in the police of people without a migration background.  
+H<sub>a</sub>: the average degree of trust in the police of people with a migration background is *lower* than the average degree of trust in the police of people without a migration background.  
+  
+Will the researcher conduct a two-sided or one-sided test?  
+  
+![](Screen__Shot__2020-04-22__at__14.08.43.png)
+
+Answerlist
+----------
+* A one-sided test because "Migration background" is a dense variable (a dummy variable).
+* A one-sided test, because the researcher provides a direction to the alternative hypothesis.
+* A two-sided test, because in this case we are comparing two groups comparing (people with a migration background and people without a migration background).
+* A two-sided test, because the researcher does *not* indicate a direction at the null hypothesis.
+
+Solution
+========
+
+Language Dutch
+
+Levels of Difficulty Easy
+
+M&T Basics of quantitative research Basics of quantitative research
+
+M&T BIS Default value
+Answerlist
+----------
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-onesidedhypothesis-0074-en
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: inferential statistics/nhst/hypothesis/one sided hypothesis
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

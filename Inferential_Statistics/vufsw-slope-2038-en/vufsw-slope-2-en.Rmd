@@ -1,0 +1,43 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Schermafbeelding__2019-01-30__om__14.57.21.png", recursive = TRUE)
+```
+
+Question
+========
+We analyze data obtained from high school students in secondary education from the Youth & Culture Data (Ganzeboom & Nagel, 1998-2002). For this database, over 3,000 young people were surveyed in the age from roughly 14 to 17 years of age.    
+  
+In the regression analysis below, participation in popular culture is is the dependent variable (pjcul: 1-100, from little to a lot of participation) and the independent variables are gender (female: 0-1, 0= boy, 1 = girl) and maternal cultural participation (pmcul: 0-1, from least to most culturally active). In addition, an interaction added between gender and mothers' cultural participation (female pmcul).  
+  
+![](Schermafbeelding__2019-01-30__om__14.57.21.png)
+  
+According to model 2 in the sample, what is the difference in participation in popular culture between boys and girls with a maternal cultural participation score of 0 (pmcul = 0)?
+
+Answerlist
+----------
+* 1.831
+* 23.156
+* 24.313
+* 59.990
+
+Solution
+========
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-slope-2-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/regression/slope
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

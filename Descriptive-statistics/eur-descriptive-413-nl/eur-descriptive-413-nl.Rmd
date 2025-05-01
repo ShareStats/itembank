@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-413-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-413-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een onderzoeker van het instituut voor psychologie doet onderzoek naar alcoholmisbruik onder adolescenten. De onderzoeker ontwierp 34 stellingen waar de adolescenten het mee eens of oneens kunnen zijn op een vierpuntsschaal (1. helemaal mee eens; 2. enigszins mee eens; 3. enigszins mee oneens; 4. helemaal mee oneens). Een voorbeeld van een stelling is: Als ik me eenzaam voel, drink ik graag een alcoholische drank. De antwoorden van 312 meisjes (0) en jongens (1) op de 34 stellingen zitten in de dataset. Ook IQ-scores, schaalscores en de hoeveelheid alcoholgebruik (1 = heel vaak; 2 = vaak; 3 = soms; 4 = nooit) zijn in de dataset opgenomen.
+
+Wat is de schaalscore die overeenkomt met een percentielscore van 30%? (geen decimalen)
+
+Open de dataset hieronder om deze vraag te beantwoorden:
+
+* Download** [SPSS file](eur-descriptive-413-en-data.sav), [CSV file](eur-descriptive-413-en-data.csv)
+
+
+Solution
+========
+De schaalscore die overeenkomt met een percentielscore van 30% is 25.
+
+Meta-information
+================
+exname: eur-descriptive-413-nl
+extype: num
+exsolution: 25
+extol: 0
+exsection: Descriptive statistics/Score interpretation/Percentile
+exextra[Type]: Interpreting output, Performing analysis, Calculation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

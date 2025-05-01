@@ -4,7 +4,7 @@ library(knitr)
 ```
 Question
 ========
-Hieronder vind je de geobserveerde scores op een depressieschaal met een interval van één week. Hoge scores duiden op een hoog niveau van depressie.
+Hieronder vind je de waargenomen scores op een depressieschaal met een interval van een week. Hoge scores duiden op een hoge mate van depressie.
 
 ```{r, echo=FALSE}
 library(knitr)
@@ -15,14 +15,13 @@ table <- cbind(Participant, Form1, Form2)
 kable(table)
 ```
 
-Bereken de test-hertestbetrouwbaarheid. Om je werk te verminderen:
-$s^2_{1st} = 37.06$, $s^2_{2nd} = 54.56$ and $c_{1st,2nd} = 37.89$.
+Bereken de test-hertest betrouwbaarheid. Om je werk te verminderen: 
+$s^2_{1st} = 37.06$, $s^2_{2nd} = 54.56$ en $c_{1st,2nd} = 37.89$.
 
 
 Solution
 ========
-De test-hertestbetrouwbaarheid is gelijk aan de correlatie tussen de twee scores van de twee afnames. Deze correlatie is: $r_{F1,F2}$ = $\frac{37.89}{\sqrt{37.06 \times 54.56}} = .843$.
-
+De test-hertestbetrouwbaarheid is gelijk aan de correlatie tussen de twee scores op de twee toedieningen. Deze correlatie is:  $r_{F1,F2}$ = $\frac{37.89}{\sqrt{37.06 \times 54.56}} = .843$.
 
 Meta-information
 ================

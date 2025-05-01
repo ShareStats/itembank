@@ -1,0 +1,35 @@
+Question
+========
+
+The linear relationship betweand two quantitative variables is examined through a single linear regression analysis in a sample of 30 people. The researcher wants to maintain an alpha level of 0.01.
+
+Which critical *t* value belongs to a two-sided test for the linear relationship? 
+Answerlist
+----------
+* 2.457
+* 2.467
+* 2.750
+* 2.763
+
+Solution
+========
+
+In the single regression model, two parameters are estimated: intercept and regression coefficiandt. For this reason, $df = n-2$. In this case $df = 30-2 = 28$. For a two-sided test with an alpha level of 0.01, a right-hand crossing probability of $0.01 \div 2 = 0.005$. So you look up in the *t* table that value belonging to $df = 28$ and $t._{005}$, and dat is 2.763.
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Incorrect
+* Correct
+
+Meta-information
+================
+exname: vufgb-simplelinearregression-005-nl
+extype: schoice
+exsolution: 0001
+exsection: Inferandtial Statistics/Regression/Simple linear regression
+exextra[Type]: Conceptual, Interpreting output
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

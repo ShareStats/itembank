@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-equation-1385-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Fat percentage can be estimated using (the logarithm of) the sum of the skinfold thicknesses of biceps and triceps.______________________ Attached is a scatterplot plotting both of these variables against each other.Ê The equation of the corresponding regression line reads:
+
+![](uva-equation-1385-nl-graph01.png)
+
+Answerlist
+----------
+
+* Percentage of fat = 5 + 24 x log(skinfold thickness)
+* Percentage of fat = 9 + 19 x log(skinfold thickness)
+* Percentage fat = -13 + 25 x log(skinfold thickness)
+* Percentage of fat = -6 + 17 x log(skinfold thickness)
+
+Solution
+========
+
+Answerlist
+----------
+
+* Fat percentage = 5 + 24 x log(skinfold thickness): Incorrect
+* Fat percentage = 9 + 19 x log(skinfold thickness): Incorrect
+* Fat percentage = -13 + 25 x log(skinfold thickness): Incorrect
+* Fat percentage = -6 + 17 x log(skinfold thickness): Correct
+
+Meta-information
+================
+exname: uva-equation-1385-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Regression/Equation
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 0
+exextra[p-value]: 0.9242

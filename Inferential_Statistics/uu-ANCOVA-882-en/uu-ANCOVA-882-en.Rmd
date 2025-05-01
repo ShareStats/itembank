@@ -1,0 +1,30 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-ANCOVA-882-nl-graph01.jpg", recursive = TRUE)
+```
+Question
+========
+The effect of education category and number of years on bullying behavior is examined. We see that after adjustment, there are no significant differences between the three educational categories. Which characteristic next to the p-value in the table above indicates that we are dealing with a non-significant result?
+
+![](uu-ANCOVA-882-nl-graph01.jpg)
+
+Answerlist
+----------
+* $MS_{categorie}$ < 0.001
+* MSR ≈ 0
+* $R^2$ > 90%
+* Fcategory < 1
+
+
+Solution
+========
+
+Meta-information
+================
+exname: uu-ANCOVA-882-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Reasoning

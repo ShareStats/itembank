@@ -1,26 +1,25 @@
-
 Question
 ========
   
-Classical test theory is based on a thought experiment in which the same test is administered an infinite number of times to the same respondent under identical conditions (replications).
+Classical test theory is based on a thought experiment in which the same test is administered infinitely many times to the same respondent under similar conditions (replications).
 
-For these replications of a respondent, it holds that:
-  
+For a respondent's replications, then: 
 Answerlist
 ----------
-* The test scores remain the same, and the measurement error varies.
-* The test scores differ, and the measurement error remains the same.
-* The true score remains the same, and the measurement error varies.
-* The true score varies, and the measurement error remains the same.
+* The test scores remain the same and the measurement error varies.
+* The test scores vary and the measurement error remains the same.
+* The true score stays the same and the measurement error varies.
+* The true score varies and the measurement error remains the same.	
+
 
 Solution
 ========
   
-In classical test theory, it is assumed that a respondent in the thought experiment always has the same true score (X). However, their observed test score (T) will fluctuate, which means that the measurement error (e) also varies.
+Test theory states that a respondent in the thought experiment will always have the same true score (X). However, his score on the test (T) will vary, which means that the measurement error also varies (e). The correct combination is given in answer option C.
 
 Meta-information
 ================
-exname: uu-reliability-007-en.Rmd
+exname: uu-reliability-007-en
 extype: schoice
 exsolution: 0010
 exsection: Reliability

@@ -1,0 +1,47 @@
+Question
+========
+Een politicus denkt dat in een nieuw referendum over de Brexit 53% van de Britten voor handhaving in de EU zou stemmen.  
+  
+Een onderzoeker betwijfelt of deze assumptie waar is en denkt dat dit percentage lager is. Hij trekt een willekeurige steekproef van respondenten (n=202) om dit te dit te onderzoeken. In deze steekproef antwoordt 51% van de respondenten dat ze in een nieuw referendum over de Brexit, ze zouden stemmen voor het blijven in de EU.  
+  
+Wat is de kans om zo'n percentage (of extremer) te krijgen, als we aannemen dat de assumptie van de politicus waar is?
+
+Antwoordlijst
+----------
+* 1.71%
+* 2.22%
+* 5.7%
+* 19.78%
+* 28.4%
+
+Solution
+========
+
+Vals.  
+  
+We moeten eerst de z-score berekenen voor onze steekproefwaarneming.  
+  
+
+  
+se = sqrt [ (0,53 * 0,47) / 202] = 0,035  z = (0,51 - 0,53) / 0,035 = -0,57  Vervolgens kan de P-waarde voor deze z-score worden gevonden in Tabel A.  P = 0,2843
+
+Antwoordlijst
+----------
+* Onwaar
+* Onwaar
+* Fout
+* Onwaar
+* Waar
+
+Meta-information
+================
+exname: vufsw-hypothesis-1185-nl
+extype: schoice
+exsolution: 00001
+exshuffle: TRUE
+exsection: inferential statistics/nhst/hypothesis
+exextra[Type]: performing analysis
+exextra[Program]: calculator
+exextra[Language]: Dutch
+exextra[Level]: statistical thinking
+

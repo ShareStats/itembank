@@ -1,0 +1,35 @@
+Question
+========
+
+A researcher fits a linear regression model incorporating a quadratic effect, and finds $\hat{y} = 8.67+3.44x-2.93x^{2}$.
+
+At what x value is the maximum? 
+Answerlist
+----------
+* $x = 0.59$
+* $x = -0.59$
+* $x = 1.17$
+* $x = -1.17$
+
+Solution
+========
+
+Use formula $x = \frac{-b_{1}}{2b_{2}} = \frac{-3.44}{2 \times -2.93} =  0.59$.
+
+Answerlist
+----------
+* Correct
+* Incorrect
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-equation-026-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Regression/Equation
+exextra[Type]: Calculation
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Thinking

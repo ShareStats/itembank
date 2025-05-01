@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(exams)
+library(knitr)
+```
+
+Question
+========
+Een toets die is gemaakt om de wiskundeprestaties in groep 3 te meten, meet een onbekend aantal constructen die de wiskundeprestaties bepalen. Deze test bestaat uit de volgende onderdelen:
+
+Item 1: $234+23$ 
+
+Punt 2: $67 \times 5$ 
+
+Punt 3: $76 \times 2$
+
+Punt 4: $356 - 298$
+
+Punt 5: $245 + 265$
+
+Punt 6: $5 \times 36$
+
+Op basis van de inhoud van deze test, hoeveel factoren verwacht je te vinden? Opmerking: Er kunnen meerdere mogelijke antwoorden worden gegeven. Het onderliggende argument is belangrijker dan het aantal factoren.
+
+
+Solution
+========
+Er zijn drie soorten items: optellen, aftrekken en vermenigvuldigen. We verwachten drie factoren te vinden (optellen, aftrekken en vermenigvuldigen). Je zou echter ook kunnen stellen dat optellen en aftrekken onder hetzelfde onderliggende construct vallen, waardoor het mogelijk is dat je twee factoren zou kunnen verwachten.
+
+Meta-information
+================
+exname: eur-factor-103-nl
+extype: string
+exsolution: ""
+extol: 
+exsection: Factor analysis/Exploratory factor analysis
+exextra[Type]: Conceptual
+exextra[Program]: none
+exextra[Language]: Dutch
+exextra[Level]: Statistical Reasoning

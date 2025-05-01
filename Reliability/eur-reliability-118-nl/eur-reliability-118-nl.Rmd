@@ -5,11 +5,12 @@ library(knitr)
 ```
 Question
 ========
-Een psychometricus die werkt bij CITO wil de criteriumvaliditeit van een dyslexietest evalueren. De betrouwbaarheid van de test $R_{xx}$ is al onderzocht en bleek .70 te zijn. De criteriummaat is het oordeel van een schoolpsycholoog, die redelijk betrouwbaar is, maar niet perfect: $R_{yy} = $ .80. De waargenomen correlatie tussen de test en het criterium bleek .6 te zijn. De psychometricus twijfelt of ze de aangepaste correlatie moet berekenen en welke variabele ze moet aanpassen; de test, het criterium of beide. Ze wordt geadviseerd de aangepaste correlatie te berekenen. Geef een argument waarom het aanpassen in dit geval een overdreven indruk kan geven van de werkelijke criteriumvaliditeit.
+Een psychometrist die bij CITO werkt, wil de criteriumvaliditeit van een dyslexietest evalueren. De betrouwbaarheid van de test $R_xx$ is al onderzocht en bleek .70 te zijn. De maatstaf is het oordeel van een schoolpsycholoog dat behoorlijk, hoewel niet perfect, betrouwbaar is: $R_yy = $ .80. De waargenomen correlatie tussen de test en het criterium bleek .6 te zijn. De psychometrist twijfelt of ze de aangepaste correlatie moet berekenen en welke variabele ze moet aanpassen; de test, het criterium of beide. Haar wordt geadviseerd de gecorrigeerde correlatie te berekenen. Geef een argument waarom aanpassen in dit geval een opgeblazen indruk kan geven van de werkelijke criteriumvaliditeit.
+
 
 Solution
 ========
-Het aanpassen kan een overdreven indruk geven van de werkelijke criteriumvaliditeit omdat het onrealistisch is om dyslexie zonder fouten (perfect betrouwbaar) te meten.
+Aanpassen kan een opgeblazen indruk geven van de echte criteriumvaliditeit omdat het onrealistisch is dat dyslexie foutloos (perfect betrouwbaar) gemeten kan worden.
 
 Meta-information
 ================

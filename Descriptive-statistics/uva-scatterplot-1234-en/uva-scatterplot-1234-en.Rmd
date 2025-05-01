@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-scatterplot-1234-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+The coordinates of the outlier in the attached scatterplot are:
+
+![](uva-scatterplot-1234-nl-graph01.png)
+
+Answerlist
+----------
+
+* (4, -8)
+* (8, 2)
+* (-8, 4)
+* (-8, 2)
+
+Solution
+========
+
+Answerlist
+----------
+
+* (4, -8): Incorrect
+* (8, 2): Incorrect
+* (-8, 4): Correct
+* (-8, 2): Incorrect
+
+Meta-information
+================
+exname: uva-scatterplot-1234-en
+extype: schoice
+exsolution: 0010
+exsection: Descriptive statistics/Data representation/Graphs/Scatterplot
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.992
+exextra[p-value]: 0.1243

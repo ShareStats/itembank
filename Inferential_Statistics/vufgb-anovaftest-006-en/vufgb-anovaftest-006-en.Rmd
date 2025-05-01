@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-anovaftest-006-nl-table01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+See the following data. This table shows the results of a two-factor ANOVA.
+
+![](vufgb-anovaftest-006-nl-table01.jpg)
+  
+What are the corresponding values of the F key for factor A?  
+  
+Answerlist
+----------
+* F(1,54) = 24.467, p < .001
+* F(1,54) = 23,221, p < .001
+* F(2,54) = 35.491, p < .001
+* F(2,54) = 17.745, p < .001
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Incorrect
+* Correct
+
+Meta-information
+================
+exname: vufgb-anovaftest-006-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANOVA F-test, Descriptive statistics/Data representation/Tables
+exextra[Type]: Calculation, Interpreting output
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

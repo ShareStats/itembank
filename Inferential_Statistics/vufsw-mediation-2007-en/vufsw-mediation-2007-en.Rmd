@@ -1,0 +1,49 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1657817799761.png", recursive = TRUE)
+include_supplement("1657817294616.png", recursive = TRUE)
+include_supplement("1657817809039.png", recursive = TRUE)
+include_supplement("1657817812641.png", recursive = TRUE)
+include_supplement("1657817324817.png", recursive = TRUE)
+```
+
+Question
+========
+Data on nightlife activities was used for this question. Below is a path model (without errors). The popular culture (zjcul1) is explained by education (educ) and income. The output below it shows the results of the path analyses. *NB: don't be not be confused if your answer differs slightly from the answer categories; these may be rounding errors.*  
+  
+![](1657817799761.png)
+![](1657817294616.png)
+![](1657817809039.png)
+![](1657817812641.png)
+![](1657817324817.png)
+  
+What is the overall correlation between income and popular culture (zjcul1)?
+
+Answerlist
+----------
+* 0.100
+* 0.102
+* 0.202
+* 0.755
+
+Solution
+========
+
+Answerlist
+----------
+* False
+* False
+* True
+* False
+
+Meta-information
+================
+exname: vufsw-mediation-2007-en
+extype: schoice
+exsolution: 0010
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression/mediation
+exextra[Type]: interpreting output
+exextra[Program]: calculator
+exextra[Language]: English
+exextra[Level]: statistical thinking
+

@@ -1,0 +1,48 @@
+Question
+========
+Van 190 willekeurig geselecteerde secretaresses werd bijgehouden hoe snel ze typen (X, in woorden per minuut) en hoe snel ze lezen (Y, in woorden per minuut). De regressieresultaten staan hieronder. Welke conclusie kunnen we trekken op basis van de resultaten?  
+  
+De regressieformule is Y= 290,21 + 3,50x R-kwadraat = 0,12 190 - 2 = 188 vrijheidsgraden 
+
+<tabel> <colgroup> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> </colgroup> <tbody> <tr class="odd"> <td class="tvcss_2"><br /> </td> <td class="tvcss_3">Regressiecoëfficiënt</td> <td class="tvcss_4">SE</td> <td>t</td> </tr> <tr class="even"> <td class="tvcss_2">Constante</td> <td class="tvcss_3">290.21</td> <td class="tvcss_4">215.41</td> <td>1.35</td> </tr> <tr class="odd"> <td class="tvcss_2">vastheid typen</td> <td class="tvcss_3">3.50</td> <td class="tvcss_4">3.52</td> <td>0,99</td> </tr> </tbody> </table>
+
+  
+Hieronder staan twee Stellingen over deze resultaten. Welke stelling(en) is/zijn zijn juist?  
+  
+I. Op basis van deze steekproef heeft de typesnelheid van een secretaresse geen significante invloed op hoe snel ze kan lezen (bij een significantie niveau van .05).  
+II. Een secretaresse typt gemiddeld met een snelheid van 3,50 woorden per minuut.
+
+Antwoordlijst
+----------
+* Stelling I is juist.
+* Stelling II is juist.
+* Beide Stellingen zijn juist.
+* Geen van de Stellingen is juist.
+
+Solution
+========
+
+De t-waarde is lager dan de kritische waarde, dus niet significant, dus I is waar. En we hebben geen informatie over de gemiddelde snelheid, dus II onwaar. .
+
+M&T Bivariate lineaire regressie Bivariate lineaire regressie
+
+M&T Multivariate lineaire regressie Standaardwaarde
+Antwoordlijst
+----------
+* Waar
+* Onwaar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-t-statistic-1265-nl
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/nhst/test statistic/t-statistic
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

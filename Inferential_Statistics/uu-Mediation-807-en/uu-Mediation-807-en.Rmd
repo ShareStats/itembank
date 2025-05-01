@@ -1,0 +1,31 @@
+Question
+========
+A study of conflict resolution (Y) in adolescents measures extraversion (X) and examines the level of aggression (M). It is examined whether M is a mediator. One does two steps:
+
+(1) regression with Y as dependent and X as independent variable. (2) regression with M as dependent and X as independent variable.
+
+Assuming significant results in steps (1) and (2), what is the next step?
+
+Answerlist
+----------
+* Regression with Y and M as independent variables and X as dependent.
+* Regression with X and Y as independent variables and M as dependent.
+* Regression with X and M as independent variables and Y as dependent.
+* Regression with Y as independent variable and X as dependent.
+
+
+Solution
+========
+To test mediation, we examine the following four steps: 1. Is there a significant relationship between X and Y? 2. Is there a significant relationship between X and M? 3. Is there a significant relationship between M and Y, when controlling for M? 4. Is the relationship between X and Y still significant, when controlling for M?
+
+Steps 1 and 2 have been undertaken. The next step is to do a regression analysis with X and M as independent variables and Y as dependent. The results of this analysis can be used for both Step 3 and Step 4.
+
+Meta-information
+================
+exname: uu-Mediation-807-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Regression/Multiple linear regression/Mediation
+exextra[Type]: Case
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

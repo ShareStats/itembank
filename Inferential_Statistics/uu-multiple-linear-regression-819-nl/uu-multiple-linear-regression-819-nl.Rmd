@@ -1,39 +1,39 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("uu-multiple-linear-regression-819-nl-tabel.jpg", recursive = TRUE)
+include_supplement("uu-Multiple-linear-regression-819-en-tabel.jpg", recursive = TRUE)
 ```
+
+
 Question
 ========
-Onderstaande tabel komt uit het artikel van Kanazawa (2012). In de tabel vind je resultaten van de analyses die zijn uitgevoerd om "General Intelligence, age 11" te voorspellen. 
 
-![](uu-multiple-linear-regression-819-nl-tabel.jpg)
+Een docent vraagt zich af of jongens anders presteren op het MET22-examen dan meisjes en voert een logistische regressie uit met de afhankelijke variabele slagen voor het examen (1 = ja, 0 = nee) en een dummyvariabele jongens (1 = jongen, 0 = meisje). Hieronder staat een deel van de SPSS-uitvoer: 
 
-Twee studenten doen beide een uitspraak over de tabel:
+![](uu-Multiple-linear-regression-819-en-tabel.jpg)
 
-I Van 33 participanten is onbekend hoeveel broers/zussen zij hebben
-II In model 4 is "Father's education" een sterkere voorspeller van "Intelligentie" dan "Mother's education".
-
-Welke student heeft gelijk?
-
-Answerlist
+Wat is de geschatte kans dat meisjes slagen voor het examen? 
+Antwoordlijst
 ----------
-* Alleen student 1 heeft gelijk
-* Alleen student 2 heeft gelijk
-* Zowel stedent 1 als student 2 heeft gelijk
-* Geen van beide studenten heeft gelijk
-
+* 0.25
+* 0.50
+* 0.33
+* 0.67
 
 Solution
 ========
 
-
+Antwoordlijst
+----------
+* Dit antwoord is onjuist.
+* Dit antwoord is onjuist.
+* Dit antwoord is juist.
+* Dit antwoord is onjuist.
 
 Meta-information
 ================
-exname: uu-multiple-linear-regression-819-nl.Rmd
+exname: uu-Multiple-linear-regression-819-nl
 extype: schoice
 exsolution: 0010
 exsection: Inferential Statistics/Regression/Multiple linear regression
-exextra[Type]: Interpretating output
-exextra[Program]: 
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy

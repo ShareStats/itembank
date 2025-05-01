@@ -1,56 +1,34 @@
 Question
 ========
-Een docent wil weten of de gemiddelde tentamencijfers van twee verschillende 
-klassen van elkaar verschillen omdat ze op een andere manier onderwijs hebben 
-gevolgd. De ene groep kreeg interactief onderwijs, de andere niet. De twee 
-klassen worden aangegeven door de variabele 'Interactieve klas' (ja / nee). 
-In dit geval:
+Een docent wil weten of de gemiddelde examencijfers van twee verschillende klassen van elkaar verschillen omdat ze onderwijs volgden op een verschillende manier hebben gevolgd. De ene groep kreeg interactief onderwijs, de andere niet. De twee klassen worden aangeduid met de variabele 'Interactieve klas' (ja / nee). In dit geval:
 
-Answerlist
+Antwoordlijst
 ----------
-* Het gemiddelde tentamencijfer is de onafhankelijke variabele en het aantal 
-  studenten in de interactieve klas is de afhankelijke variabele.
-* Het gemiddelde tentamencijfer is de onafhankelijke variabele en de variabele 
-  'Interactieve klas' is de afhankelijke variabele
-* Het aantal studenten in de interactieve klas is de onafhankelijke variabele 
-  en het gemiddelde tentamencijfer is de afhankelijke variabele.
-* De variabele 'Interactieve klas' is de onafhankelijke variabele en het 
-  gemiddelde tentamencijfer is de afhankelijke variabele.
+* Het gemiddelde examencijfer is de onafhankelijke variabele en het aantal studenten in de interactieve klas is de afhankelijke variabele.
+* Het gemiddelde examencijfer is de onafhankelijke variabele en de variabele interactieve klas' de afhankelijke variabele.
+* Het aantal studenten in de interactieve klas is de onafhankelijke variabele en het gemiddelde examencijfer is de afhankelijke variabele. variabele en het gemiddelde examencijfer is de afhankelijke variabele.
+* De variabele 'Interactieve klas' is de onafhankelijke variabele en het gemiddelde examencijfer is de afhankelijke variabele.
 
 Solution
 ========
 
+De variabele 'Interactieve klas' is de onafhankelijke variabele en het gemiddelde examencijfer is de afhankelijke variabele.
 
+Taal Engels
 
+Moeilijkheidsniveaus Gemakkelijk
 
+M&T BIS Standaardwaarde
 
-De variabele 'Interactieve klas' is de onafhankelijke variabele en het 
-gemiddelde tentamencijfer is de afhankelijke variabele.
+M&T Bivariate lineaire regressie Bivariate lineaire regressie
 
-
-
-
-
-Language  
-Dutch
-
-Levels of Difficulty  
-Easy
-
-M&T BIS  
-Default value
-
-M&T Bivariate linear regression  
-Bivariate linear regression
-
-M&T Multivariate linear regression  
-Default value
-Answerlist
+M&T Multivariate lineaire regressie Standaardwaarde
+Antwoordlijst
 ----------
-* False
-* False
-* False
-* True
+* Onwaar
+* Onwaar
+* Onwaar
+* Waar
 
 Meta-information
 ================
@@ -63,3 +41,4 @@ exextra[Type]: conceptual
 exextra[Program]: NA
 exextra[Language]: Dutch
 exextra[Level]: statistical literacy
+

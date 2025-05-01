@@ -1,0 +1,49 @@
+Question
+========
+In een experiment krijgen 20 willekeurig geselecteerde proefpersonen een training om hun wiskundevaardigheden te verbeteren. Hun prestaties werden gemeten voordat de training plaatsvond (meting 1) en daarna (meting 2) op een schaal van 1 tot 10. Een hoger cijfer betekent een betere prestatie. De resultaten staan hieronder. Een onderzoeker wil nagaan of de training de score verhoogt en test eenzijdig met alpha = 0,05.  
+  
+
+<tabel> <tbody> <tr class="odd"> <td>N</td> <td>mean score meting 1 (voor)</td> <td>gemiddelde score meting 2 (achteraf)</td> <td>gemiddeld verschil </td> <td>standaardfout (se) van het gemiddelde scoreverschil</td> </tr> <tr class="even"> <td>20</td> <td> 5,75</td> <td> 6,35</td> <td>0,60</td> <td>0,24</td> </tr> </tbody> </table>
+
+  
+Bereken de t-waarde die hoort bij het testen van de hypothese.
+
+Antwoordlijst
+----------
+* 1.01
+* 2.44
+* 2.50
+* 2.82
+
+Solution
+========
+
+Afhankelijke t-test  H<sub>0 </sub> mean(2)-mean (1)=0  H<sub>a </sub>gemiddelde(2)-gemiddelde(1) is niet gelijk aan 0  t=(gemiddelde(2)-gemiddelde(1))/se= 0,6/0,24= 2,5  Als je meer wilt weten over de afhankelijke t-test bekijk dan dit
+[clip](https://www.youtube.com/watch?v=UyQuY-uo918&index=8&list=PLyLpEs0x9Bnl2e68nd7M6lecUqUNu2Sgn)
+
+Taal Nederlands
+
+Moeilijkheidsniveaus Moeilijk
+
+M&T BIS Standaardwaarde
+
+M&T Hypothesetest: gemiddelden Standaardwaarde
+Antwoordlijst
+----------
+* Onwaar
+* Onwaar
+* Waar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-paired samples-1131-nl
+extype: schoice
+exsolution: 0010
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/t-test/paired samples
+exextra[Type]: performing analysis
+exextra[Program]: calculator
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

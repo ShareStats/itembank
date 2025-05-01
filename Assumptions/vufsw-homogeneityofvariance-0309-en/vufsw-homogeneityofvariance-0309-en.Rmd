@@ -1,19 +1,16 @@
 Question
 ========
-For a Mixed Design ANOVA examining whether scholars' performance varies between 3 subjects (literature, essay writing, mathematics) and whether those differences vary between male and female scholars, 2 assumptions about variances apply: the homogeneity of variances and sphericity.  
-
-Complete: The assumption of homogeneity of variances implies that the variance of \[1\] **...** is equal to the variance of \[2\] **...** .
+For a Mixed Design ANOVA examining whether the performance of schoolchildren differs between 3 subjects (literature, essay writing, mathematics) and whether those differences vary between male and female students, two assumptions about the variances are apply: the homogeneity of variances and sphericity.  
+  
+Complete: The assumption of homogeneity of variances implies that the variance of
+* ...** is equal to the variance of **...** .
 
 Answerlist
 ----------
-* \[1\] women's scores in each of the three subjects
-  \[2\] men's scores in each of the three subjects
-* \[1\] women's scores in each of the three subjects
-  \[2\] scores in mathematics - scores in essay writing
-* \[1\] scores in literature - scores in mathematics
-  \[2\] men's scores in each of the three subjects
-* \[1\] scores in literature - scores in mathematics
-  \[2\] scores in mathematics - scores in essay writing
+* The scores of women in each of the three boxes \The scores of men in each of the three boxes
+* Women's scores in each of the three subjects \Scores in mathematics - scores in essay writing
+* Scores in literature - scores in mathematics \Scores of men in each of the three subjects
+* Scores in literature - scores in mathematics \Scores in mathematics - scores in essay writing
 
 Solution
 ========
@@ -36,3 +33,4 @@ exextra[Type]: conceptual
 exextra[Program]: NA
 exextra[Language]: English
 exextra[Level]: statistical literacy
+

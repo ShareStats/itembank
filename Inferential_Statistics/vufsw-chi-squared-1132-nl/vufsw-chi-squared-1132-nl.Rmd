@@ -1,0 +1,46 @@
+Question
+========
+Een onderzoek onder de leden van een grote vakbondsorganisatie naar de relatie tussen hun mate van betrokkenheid (laag, midden, hoog) bij de vakbond en hun deelname aan een staking (ja, nee) levert de volgende gegevens op:  
+  
+
+<table> <colgroup> <col style="width: 20%" /> <col style="width: 20%" /> <col style="width: 20%" /> <col style="width: 20%" /> <col style="width: 20%" /> </colgroep> <tbody> <tr class="odd"> <td><br /> </td> <td><em>Betrokkenheid</em></td> <td></td> <td></td> <td></td> </tr> <tr class="even"> <td><br /> </td> <td>laag</td> <td>midden</td> <td>hoog</td> <td>totaal</td> </tr> <tr class="odd"> <td><em>deelname staking</em></td> <td><br /> </td> <td><br /> </td> <td><br /> </td> <td><br /> </td> </tr> <tr class="even"> <td>ja</td> <td>30</td> <td>25</td> <td>70</td> <td>125</td> </tr> <tr class="odd"> <td>nee</td> <td>70</td> <td>25</td> <td>30</td> <td>125</td> </tr> <tr class="even"> <td>totaal</td> <td>100</td> <td>50</td> <td>100</td> <td>250</td> </tr> </tbody> </table>
+
+  
+  
+Bereken de waarde van Chi-kwadraat op de gegevens in bovenstaande tabel.
+
+Antwoordlijst
+----------
+* 1.6
+* 6.4
+* 32
+* 80
+
+Solution
+========
+
+Gebruik de *chi* kwadraatformule:  
+  
+* Hi* kwadraat; *Χ*<sup>2</sup> = (20)<sup>2</sup>/50 + (20)<sup>2</sup>/50 + 0 + 0 + (20)<sup>2</sup>/50 + (20)<sup>2</sup>/50 =32  Als je meer wilt weten over de *chi* kwadraattest en vrijheidsgraden vrijheid bekijk dit
+[clip](https://www.youtube.com/watch?v=izw6vGctckA&index=2&list=PLyLpEs0x9BnkqWS0k674CckSeAeJ4A3W7)
+
+
+Antwoordlijst
+----------
+* Onwaar
+* Onwaar
+* Waar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-chi-squared-1132-nl
+extype: schoice
+exsolution: 0010
+exshuffle: TRUE
+exsection: inferential statistics/nhst/test statistic/chi-squared
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

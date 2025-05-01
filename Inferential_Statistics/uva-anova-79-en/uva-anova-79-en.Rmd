@@ -1,0 +1,33 @@
+Question
+========
+
+A researcher ran a one-way ANOVA (one factor) with 5 groups. The F-test of the ANOVA with the 5 groups is significant at a significance level of 0.05. The researcher then wants to see which of the groups differ from each other. To do so, she wants to correct for *multiple comparison* with Bonferroni. She must then divide her significance level divided by the total number of tests, or 0.05/*k*. In this setup
+
+Answerlist
+----------
+
+* K = 5.
+* K = 10.
+* K = 15.
+
+Solution
+========
+
+Answerlist
+----------
+
+* K = 5.: Incorrect
+* K = 10.: Correct
+* K = 15.: Incorrect
+
+Meta-information
+================
+exname: uva-anova-79-en
+extype: schoice
+exsolution: 010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.001
+exextra[p-value]: 0.3069

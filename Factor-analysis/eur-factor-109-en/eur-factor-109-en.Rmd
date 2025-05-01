@@ -1,0 +1,33 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-factor-109-nl-data.sav", recursive = TRUE)
+include_supplement("eur-factor-109-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+* Ork for psychologists and educators.*
+
+A scientist is investigating factors that may explain why career opportunities for psychologists and educators are sometimes low. From theoretical insights about career opportunities, the researcher has the idea that several dimensions can be distinguished that have something to do with career opportunities. She has devised 34 statements on which respondents can indicate whether they agree with a statement on a 4-point scale (1. completely agree; 2. somewhat agree; 3. not so much agree; 4. not at all agree). An example of a statement is, "I completed a relevant internship during my education." The questionnaire was administered to 312 graduates. Participants' responses to the 34 statements are shown in the data file.
+
+Open the data file.
+
+Conduct an unrotated exploratory factor analysis with principal axis factoring in which you include all statements from the questionnaire and extract 3 factors. What percent of the total variance do the first three factors together explain when 3 factors are extracted?  (1 decimal place)
+
+* Download**: [SPSS file](eur-factor-109-nl-data.sav), [CSV file](eur-factor-109-nl-data.csv)
+
+
+Solution
+========
+16.4% variance of all items can be explained when the first three factors are extracted (see extraction sums of squared loadings, cumulative %).
+
+Meta-information
+================
+exname: eur-factor-109-en
+extype: num
+exsolution: 16.4
+extol: 0
+exsection: Factor analysis/Explained variance
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

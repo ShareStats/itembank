@@ -1,38 +1,35 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("uu-normality-011-en-tabel.jpg", recursive = TRUE)
+include_supplement("uu-normality-011-nl-tabel.jpg", recursive = TRUE)
 ```
-
-
 
 Question
 ========
-Which assumption of regression analysis did Marco check with the graph below?
+Which condition of regression analysis did Marco verify with the graph below?
 
-![](uu-normality-011-en-tabel.jpg)
+![](uu-normality-011-nl-tabel.jpg)
 
 Answerlist
 ----------
-* Linear relationship
+* Linear relation
 * Homoscedasticity
 * Sphericity
-* For each X value, Y scores are normally distributed
+* By X value, Y scores are normally distributed
 
 
 Solution
 ========
-With a histogram of the residuals, we can see whether, for each X value, the Y scores.
+With a histogram of the residuals, we can see whether, for each X value, the Y scores .
 
 Answerlist
 ----------
-* We can view the condition of linearity with a scatter plot.
+* We can view the condition of linearity with a scatterplot.
 * We can view the condition of homoscedasticity with a residuals plot.
-* The condition of sphericity is not a condition for multiple regression, but for a repeated measures analysis, and we can view it with Mauchly's test.
+* The condition of sphericity is not a condition for multiple regression, but for a repeated measures analysis, and can be viewed with Mauchly's test.
 * This is the correct answer!
-
 
 Meta-information
 ================
-exname: uu-normality-011-en.Rmd
+exname: uu-normality-011-en
 extype: schoice
 exsolution: 0001
 exsection: Assumptions/Normality

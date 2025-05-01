@@ -1,32 +1,26 @@
 Question
 ========
-  
-What is the null hypothesis that is being tested by the F-test for the overall significance of a multiple linear regression model?
+A social science researcher cycles 20 kilometers to work every day. For six months, she measures the time it takes her to get to work and finds that it varies quite a bit. She thinks she can predict her daily arrival time by measuring the temperature in degrees, determining the wind strength, and determining the wind direction (up or down). Which analysis does the researcher choose?
+
+
   
 Answerlist
 ----------
-* H0:$\beta$ = 0
-* H0:b = 0
-* H0:F = 0
-* H0:$\rho$2 = 0   
+* ANOVA for repeated measures
+* ANCOVA
+* Multiple regression analysis with a dummy
+* Two-way ANOVA
+
 
 Solution
 ========
 
-
-Answerlist
-----------
-* This answer is incorrect.
-* This answer is incorrect.
-* This answer is incorrect.
-* This answer is correct.
-
 Meta-information
 ================
-exname: uu-Multiple-linear-regression-815-en.Rmd
+exname: uu-multiple-linear-regression-815-en
 extype: schoice
-exsolution: 0001
+exsolution: 0010
 exsection: Inferential Statistics/Regression/Multiple linear regression
-exextra[Type]: Conceptual
+exextra[Type]: Case
 exextra[Language]: English
 exextra[Level]: Statistical Literacy

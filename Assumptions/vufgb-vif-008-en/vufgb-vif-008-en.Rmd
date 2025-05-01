@@ -1,21 +1,20 @@
 Question
 ========
 
-A researcher wants to know whether there is extreme multicollinearity in her multiple linear regression with three predictors. The multiple correlation between $X_{1}$ and the other two predictors is 0.90. Calculate the VIF value for $X_{1}$. 
+A researcher wants to know if there is extreme multicollinearity in her multiple linear regression with three predictors. The multiple correlation between $X_{1}$ and the other two predictors is 0.90. Calculate the VIF value for $X_{1}$.
 
-Based on this VIF value, is there extreme multicollinearity?
-  
+Based on this VIF value, is there extreme multicollinearity? 
 Answerlist
 ----------
-* $VIF = 5.26$; extreme multicollinearity present
-* $VIF = 5.26$; extreme multicollinearity absent
-* $VIF = 11.11$; extreme multicollinearity absent
-* $VIF = 11.11$; extreme multicollinearity present 
+* $VIF = 5.26$; though extreme multicollinearity
+* $VIF = 5.26$; no extreme multicollinearity
+* $VIF = 11.11$; no extreme multicollinearity
+* $VIF = 11.11$; though extreme multicollinearity
 
 Solution
 ========
 
-Use formula $VIF = VIF = VIF{(1-R_{j}^{2})} = VIF = VIF{(1-0.90^{2})} = VIF = VIF = VIF {(1-R_{j}^{2})}{(1-0.90^{2})} = VIF = VIF{0.19} = 5.26$. A VIF value of 10 or higher is considered extreme multicollinearity. Values higher than 2-5 are otherwise seen as ‘potentially problematic’.
+Use formula $VIF = \frac{1}{(1-R_{j}^{2})} = \frac{1}{(1-0.90^{2})} = \frac{1}{0.19} = 5.26$. A VIF value of 10 or higher is considered extreme multicollinearity. Values higher than 2-5 are otherwise considered "potentially problematic.
 
 Answerlist
 ----------

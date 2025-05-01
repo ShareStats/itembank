@@ -1,14 +1,13 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("uu-Mauchlys-test-015-en-tabel.jpg", recursive = TRUE)
+include_supplement("uu-Mauchlys-test-015-nl-tabel.jpg", recursive = TRUE)
 ```
-
-
 
 Question
 ========
-When checking whether the conditions for repeated-measurement analysis are met, one finds, among other things, the following data:
+In checking whether the conditions for repeated-measurement analysis are met, one finds the following data, among others:
 
-![](uu-Mauchlys-test-015-en-tabel.jpg)
+![](uu-Mauchlys-test-015-nl-tabel.jpg)
+  
 
 What conclusion should be drawn?
 
@@ -16,17 +15,16 @@ Answerlist
 ----------
 * There is sphericity (i.e. assumption met): no correction needs to be applied.
 * There is sphericity (i.e. assumption not met): a correction must be applied.
-* There is no sphericity (i.e. assumption not met): no correction needs to be applied.
-* There is no sphericity (i.e. assumption not met): a correction must be applied.
+* There is no sphericity (i.e. assumption not met): no correction must be applied.
+* There is no sphericity (i.e., assumption not met): a correction must be applied.
+
 
 Solution
 ========
 
-
-
 Meta-information
 ================
-exname: uu-Mauchly's-test-015-en.Rmd
+exname: uu-Mauchly's-test-015-en
 extype: schoice
 exsolution: 0001
 exsection: Assumptions/Sphericity/Mauchly's test

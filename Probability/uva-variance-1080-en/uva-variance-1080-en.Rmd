@@ -1,0 +1,37 @@
+Question
+========
+
+If you roll a dice the result is 1, 2, 3, 4, 5 or 6. Below is a probability distribution for the difference of two dice that were rolled. Calculate the mean and the variance of this distribution:‖ \
+
+  --------------------------- ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ Sum of two dice 2 3 4 5 6 7 8 9 10 11 12 Odds 1/36 2/36 3/36 4/36 5/36 6/36 5/36 4/36 3/36 2/36 1/36 --------------------------- ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------
+
+Answerlist
+----------
+
+* Μ = 3.5 and σ2 = 2.917.
+* Μ = 3.5 and σ2 = 5.834.
+* Μ = 7 and σ2 = 2.917.
+* Μ = 0 and σ2 = 5.834.
+
+Solution
+========
+
+Answerlist
+----------
+
+* Μ = 3.5 and σ2 = 2.917...: Incorrect
+* Μ = 3.5 and σ2 = 5.834...: Incorrect
+* Μ = 7 and σ2 = 2.917...: Incorrect
+* Μ = 0 and σ2 = 5.834...: Correct
+
+Meta-information
+================
+exname: uva-variance-1080-en
+extype: schoice
+exsolution: 0001
+exsection: Probability/Elementary Probability/Random variables/Variance
+exextra[Type]: Conceptual, Calculation
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905
