@@ -1,11 +1,11 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("eur-reliability-122-nl-data.sav", recursive = TRUE)
-include_supplement("eur-reliability-122-nl-data.csv", recursive = TRUE)
+include_supplement("eur-reliability-122-en-data.sav", recursive = TRUE)
+include_supplement("eur-reliability-122-en-data.csv", recursive = TRUE)
 ```
 
 Question
 ========
-* Ork for psychologists and educators.*
+*Work for psychologists and educators.*
 
 A scientist has been tasked with investigating whether psychology and education graduates succeed in finding level jobs. To this end, the researcher designed his own questionnaire consisting of 12 Likert items with 5 response options ranging from completely disagree (1) to completely agree (5). An example of an item is: I had to put a lot of effort to find a job vacancy for a level job. The responses of 608 educators and psychologists to the 12 items are shown in the data file, with the variable [psy_ped] distinguishing educators (1) and psychologists (2). NOTES. The total score across the 12 items indicates how difficult a person finds it to find a level job. The higher the total score the harder he/she finds it to find a level job.
 
@@ -13,7 +13,7 @@ Open the data file.
 
 What is the Spearman-Brown split-half reliability of the questionnaire? (3 decimal places)
 
-* Download**: [SPSS file](eur-reliability-122-nl-data.sav), [CSV file](eur-reliability-122-nl-data.csv)
+**Download**: [SPSS file](eur-reliability-122-en-data.sav), [CSV file](eur-reliability-122-en-data.csv)
 
 Solution
 ========
