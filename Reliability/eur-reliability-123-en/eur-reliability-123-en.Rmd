@@ -1,6 +1,6 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("eur-reliability-123-nl-data.sav", recursive = TRUE)
-include_supplement("eur-reliability-123-nl-data.csv", recursive = TRUE)
+include_supplement("eur-reliability-123-en-data.sav", recursive = TRUE)
+include_supplement("eur-reliability-123-en-data.csv", recursive = TRUE)
 ```
 
 Question
@@ -14,7 +14,7 @@ Open the data file.
 Previous research has shown that psychologists have more difficulty finding a job than educators. For this reason, a researcher wants to calculate the reliability of the questionnaire for psychologists and educators separately (variable [psy_ped] ). What is the reliability (Cronbach's Alpha) of the questionnaire for pedagogues? (3 decimal places)
 
 
-* Download**: [SPSS file](eur-reliability-123-nl-data.sav), [CSV file](eur-reliability-123-nl-data.csv)
+**Download**: [SPSS file](eur-reliability-123-en-data.sav), [CSV file](eur-reliability-123-en-data.csv)
 
 Solution
 ========
