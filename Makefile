@@ -3,8 +3,11 @@
 
 clean:
 	rm -rf packages/
+<<<<<<< HEAD
 	rm -rf docs/
 
+=======
+>>>>>>> main
 
 fingerprint_file: # next package build (tarballs or compile), will only generate items that were changed since than
 	python -c "import packaging; packaging.save_fingerprints()"
