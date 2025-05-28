@@ -1,6 +1,6 @@
 """simple website functions"""
 
-from os import path, listdir
+from os import listdir, path
 from typing import List
 
 DOCS_PATH = "docs"

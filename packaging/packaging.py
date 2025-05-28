@@ -11,7 +11,7 @@ BASEFOLDER = "."
 PACK_FOLDER = "packages/"
 HTML_FOLDER = "docs/"
 EXCLUDE_FOLDER = ("scripts", "packaging", "packages", "build", "docs")
-EXCLUDE_FILES = ("-qti.zip", "-tv.zip", ".html")
+EXCLUDE_FILES = ("-qti.zip", "-tv.zip", "-canvas.zip", ".html")
 FILE_TBL = "files.tsv"
 
 def all_items():
@@ -47,7 +47,7 @@ def file_table(formats, only_changed=True):
     fl.write('"format"\t"file"\t"name"\t"dir"\n')
     for frmt in formats:
         for item in all_items():
-            if frmt in ("qti", "tv"):
+            if frmt in ("qti", "tv", "canvas"):
                 pack_name = item.name + "-" + frmt
                 fld = pkg_folder.joinpath(frmt, item.path.parent)
                 pkg_path = fld.joinpath(pack_name + ".zip")

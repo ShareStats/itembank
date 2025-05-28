@@ -1,27 +1,25 @@
-remove_embedded_packages:
-	find . -name \*-ItemFolder.zip -type f -delete
-	find . -name \*-qti.zip -type f -delete
-	find . -name \*-tv.zip -type f -delete
-	find . -name \*.html -type f -delete
+.PHONY: all clean compile tarballs tarballs_zipped checksums website sharestats_website_csv fingerprint_file
+
 
 clean:
-	rm packages/ -rf
+	rm -rf packages/
+	rm -rf docs/
 
 fingerprint_file: # next package build (tarballs or compile), will only generate items that were changed since than
 	python -c "import packaging; packaging.save_fingerprints()"
 
 tarballs_zipped:
 	python -c 'import packaging as p; p.file_table(formats=("zip")); p.tarballs()'
-	rm packages/files.tsv -f
+	rm -f packages/files.tsv
 
 tarballs:
 	python -c 'import packaging as p; p.file_table(formats=("tar")); p.tarballs()'
-	rm packages/files.tsv -f
+	rm -f packages/files.tsv
 
 compile:
-	python -c 'import packaging; packaging.file_table(formats=("html", "qti", "tv"))' # compile instructions
+	python -c 'import packaging; packaging.file_table(formats=("html", "qti", "tv", "canvas"))' # compile instructions
 	Rscript packaging/compile.R
-	rm packages/files.tsv -f
+	rm -f packages/files.tsv
 
 checksums:
 	cd packages; \
