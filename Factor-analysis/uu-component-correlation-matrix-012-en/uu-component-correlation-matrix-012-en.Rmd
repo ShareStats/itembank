@@ -1,0 +1,37 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Component-correlation-matrix-012-nl-tabel.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+Eight items were developed for a survey of Dutch students about "long toes" and "sensitive strings. Items X1 to X4 are about 'long toes' and items X5 to X8 are about 'sensitive strings'.
+
+Respondents indicated the level of agreement on a five-point scale (1 = totally disagree to 5 = totally agree). A factor analysis was conducted over the collected data. The factor solution with one factor "respectful treatment" proved excellent. The factor loadings of the eight items on the factor are shown below.
+
+
+![](uu-Component-correlation-matrix-012-nl-tabel.jpg)
+
+All respondents are given a factor score F. Suppose a student has a factor score well above the mean of the group (F > 2.5), then, given the factor loadings, it is very likely that this student will have the ...
+Answerlist
+----------
+* Agrees with the long toes statements and also agrees with the sensitive strings statements.
+* Agrees with the long toes statements but disagrees with the sensitive strings statements.
+* Disagrees with the long toes statements, but agrees with the sensitive strings statements.
+* Disagrees with the long toes statements and also disagrees with the sensitive strings statements.
+
+Solution
+========
+Explanation: A person who scores high on the Factor has high scores on the items with positive factor loadings (X1 through X4) and low scores on the items with negative factor loadings (X5 through X8). Items X1 through X4 measure long toes dispositions. Thus, a person who scores high on Factor F also scores high on these items. A higher score (1 = completely disagree, 5 = completely agree) indicates agreement with these statements. On the contrary, a low score on items X5 through X8 represent disagreement with the sensitive strings statements.
+
+Meta-information
+================
+exname: uu-Component-correlation-matrix-012-en
+extype: schoice
+exsolution: 0100
+exsection: Factor analysis/Component correlation matrix
+exextra[Type]: Interpreting output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+
