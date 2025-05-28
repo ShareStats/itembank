@@ -1,28 +1,22 @@
-
-
 Question
 ========
 Which of the following statements about multiple linear regression analysis is/are correct?
 
-I. When the assumption of homoscedasticity is violated, some scores on an independent variable deviate significantly from the overall trend (outliers).
-II. Scatter diagrams can be used to assess by eye whether the assumption of linear relationships between variables is violated.
+I. Violating the assumption of homoscedasticity, some scores on an independent variable deviate significantly from the overall trend (outliers). II. Scatterplots can be used to assess by eye whether the assumption of linear relationships between variables is violated.
 
 Answerlist
 ----------
 * Both are correct
 * I is correct, II is not correct
 * I is not correct, II is correct
-* Both are false
+* I is not correct, II is not correct
 
 
 Solution
 ========
-Statement I is incorrect
-The assumption of homoscedasticity implies that the distribution of residuals per X-value is equal. When this assumption is violated, the distribution of residuals is not equal for all scores on the independent variable.
+Theorem I is incorrect The assumption of homoscedasticity implies that the distribution of residuals per X value is equal. When this assumption is violated, the distribution of residuals is not the same for all scores on the independent variable.
 
-Statement II is correct
-Using a scatter diagram, we can judge by eye whether there is a linear relationship between X and Y.
-
+Theorem II is correct Using a scatterplot, we can judge by eye whether there is a linear relationship between X and Y.
 
 Meta-information
 ================
