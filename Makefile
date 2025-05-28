@@ -5,23 +5,23 @@ remove_embedded_packages:
 	find . -name \*.html -type f -delete
 
 clean:
-	rm packages/ -rf
+	rm -rf packages/
 
 fingerprint_file: # next package build (tarballs or compile), will only generate items that were changed since than
 	python -c "import packaging; packaging.save_fingerprints()"
 
 tarballs_zipped:
 	python -c 'import packaging as p; p.file_table(formats=("zip")); p.tarballs()'
-	rm packages/files.tsv -f
+	rm -f packages/files.tsv
 
 tarballs:
 	python -c 'import packaging as p; p.file_table(formats=("tar")); p.tarballs()'
-	rm packages/files.tsv -f
+	rm -f packages/files.tsv
 
 compile:
 	python -c 'import packaging; packaging.file_table(formats=("html", "qti", "tv"))' # compile instructions
 	Rscript packaging/compile.R
-	rm packages/files.tsv -f
+	rm -f packages/files.tsv
 
 checksums:
 	cd packages; \
