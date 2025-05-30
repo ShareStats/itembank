@@ -19,6 +19,11 @@ compile_rmd <- function(fmt, file, name, dir) {
       file = file, name = name, dir = dir, edir = edir,
       schoice = list(enumerate = FALSE)
     )
+  } else if (fmt == "canvas") {
+    exams::exams2canvas(
+      file = file, name = name, dir = dir, edir = edir,
+      schoice = list(enumerate = FALSE)
+    )
   }
   return(feedback)
 }
@@ -39,7 +44,6 @@ cat(paste0("[R ERROR LOG: ", date(), "]"), file = error_fl,
 cat(paste0("[R WARNING LOG: ", date(), "]"), file = warn_fl,
                       sep = "\n",  append = TRUE)
 cat(paste0("[R LOG: ", date(), "]"), file = norm_fl, sep = "\n",  append = TRUE)
-
 
 for (i in 1:nrow(tbl)) {
   fmt <- tbl[i, "format"]
