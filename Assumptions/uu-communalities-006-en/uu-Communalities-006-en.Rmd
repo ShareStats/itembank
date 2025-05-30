@@ -1,17 +1,17 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("uu-Communalities-006-nl-tabel.jpg", recursive = TRUE)
+include_supplement("uu-Communalities-006-en-tabel.jpg", recursive = TRUE)
 ```
 
 
 Question
 ========
-A study of internalizing and externalizing problem behaviors (X1 through X5) in rural youth resulted in the following correlation matrix:
+A study of internalising and externalising problem behaviours (X1 to X5) in rural youth resulted in the following correlation matrix:
 
-![](uu-Communalities-006-nl-tabel.jpg)
+![](uu-Communalities-006-en-tabel.jpg)
 
-The communality h2 of variable X5 (PSYCHOSOMATIC) is equal to .61.
+The communality h2 of variable X5 (PSYCHOSOMATIC) is equal to .61. 
 
-Of which of the problem behaviors listed below is the explained variance of the two-factor solution higher?
+Of which of the problem behaviours listed below is the explained variance of the two-factor solution higher?
 
 Answerlist
 ----------
@@ -20,17 +20,18 @@ Answerlist
 * X3 depression
 * X4 eating disorders
 
-
 Solution
 ========
-Explanation: To calculate the explained variance of each variable, calculate the communality for each variable. To do this, the following formula is used:
+Explanation: To calculate the explained variance of each variable, the communality for each variable needs to be calculated. To do this, the following formula is used:
 
-$h^2_g = \sum a^2_{gt} ,$ This formula indicates that the communality of a variable is the sum of the quantized factor loadings. This is done below for the four variables:
+$h^2_g = sum a^2_{gt} ,$ This formula indicates that the communality of a variable is the sum of its quantised factor loadings. Below, this is done for the four variables:
 
-$h^2_{x1criminaliteit} = .67^2 + .53^2 = .449+ .281 =.73$ 
-$h^2_{x2vandalisme} = .63^2 + .17^2 = .397 + .004 = .40$
-$h^2_{x3depressie} = .76^2 + -.13^2 = .578 + .017 =.60$
-$h^2_{x4eetstoornissen} = .67^2 + -.21^2 = .449 + .044 = .49$
+$h^2_{x1criminality} = .67^2 + .53^2 = .449+ .281 =.73$ 
+$h^2_{x2vandalism} = .63^2 + .17^2 = .397 + .004 = .40$
+$h^2_{x3depression} = .76^2 + -.13^2 = .578 + .017 =.60$
+$h^2_{x4eatingdisorders} = .67^2 + -.21^2 = .449 + .044 = .49$
+
+
 
 Meta-information
 ================
