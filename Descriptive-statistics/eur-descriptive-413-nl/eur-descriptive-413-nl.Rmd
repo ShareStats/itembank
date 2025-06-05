@@ -5,7 +5,7 @@ include_supplement("eur-descriptive-413-en-data.csv", recursive = TRUE)
 
 Question
 ========
-Een onderzoeker van het instituut voor psychologie doet onderzoek naar alcoholmisbruik onder adolescenten. De onderzoeker ontwierp 34 stellingen waar de adolescenten het mee eens of oneens kunnen zijn op een vierpuntsschaal (1. helemaal mee eens; 2. enigszins mee eens; 3. enigszins mee oneens; 4. helemaal mee oneens). Een voorbeeld van een stelling is: Als ik me eenzaam voel, drink ik graag een alcoholische drank. De antwoorden van 312 meisjes (0) en jongens (1) op de 34 stellingen zitten in de dataset. Ook IQ-scores, schaalscores en de hoeveelheid alcoholgebruik (1 = heel vaak; 2 = vaak; 3 = soms; 4 = nooit) zijn in de dataset opgenomen.
+Een onderzoeker van het instituut voor psychologie doet onderzoek naar alcoholmisbruik onder adolescenten. De onderzoeker ontwierp 34 stellingen waar de adolescenten het mee eens of oneens kunnen zijn op een vierpuntsschaal (1. helemaal mee eens; 2. enigszins mee eens; 3. enigszins mee oneens; 4. helemaal mee oneens). Een voorbeeld van een stelling is: Als ik me eenzaam voel, drink ik graag een alcoholische drank. De antwoorden van 312 meisjes (gender = 0) en jongens (gender = 1) op de 34 stellingen zitten in de dataset. Ook IQ-scores (IQ), schaalscores (scale) en de hoeveelheid alcoholgebruik (alcohol_use; 1 = heel vaak; 2 = vaak; 3 = soms; 4 = nooit) zijn in de dataset opgenomen.
 
 Wat is de schaalscore die overeenkomt met een percentielscore van 30%? (geen decimalen)
 

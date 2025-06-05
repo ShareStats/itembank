@@ -5,9 +5,9 @@ include_supplement("eur-descriptive-409-en-data.csv", recursive = TRUE)
 
 Question
 ========
-Een kennistest over alcohol bevat 20 items en wordt afgenomen bij 202 middelbare scholieren. De variabele [totaalscore] geeft de totale juiste scores. Geslacht (0 = vrouw; 1 = man) en alcoholgebruik (0 = heel vaak; 1 = vaak; 2 = soms; 3 = nooit) zijn ook opgenomen in de dataset.
+Een kennistest over alcohol bevat 20 items en wordt afgenomen bij 202 middelbare scholieren. De variabele total_score geeft de totale juiste scores. Geslacht (gender; 0 = vrouw; 1 = man) en alcoholgebruik (alcohol_use; 0 = heel vaak; 1 = vaak; 2 = soms; 3 = nooit) zijn ook opgenomen in de dataset.
 
-Maak een p_low groep met daarin de 33,333% laagst scorende studenten op de totaalscore [totaalscore]. Wat is de proportie juiste score van deze groep op item 8? (3 decimalen)
+Maak een p_low groep met daarin de 33,333% laagst scorende studenten op de totaalscore [total_score]. Wat is de proportie juiste score van deze groep op item 8? (3 decimalen)
 
 Open de dataset hieronder om deze vraag te beantwoorden:
 

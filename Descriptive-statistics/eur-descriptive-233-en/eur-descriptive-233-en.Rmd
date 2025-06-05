@@ -1,13 +1,13 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("eur-descriptive-233-nl-data.sav", recursive = TRUE)
-include_supplement("eur-descriptive-233-nl-data.csv", recursive = TRUE)
+include_supplement("eur-descriptive-233-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-233-en-data.csv", recursive = TRUE)
 ```
 
 Question
 ========
-The researcher wants to reduce the 7-point scale for proposition 2 (variable: proposition2) to a 5-point scale: answer options 1 and 2 are merged into option 2 and answer options 6 and 7 are merged into option 6. The remaining options, namely 3, 4 and 5, remain the same. Calculate the average examination grade for knowledge literacy (variable knowledge literacy) for the students in the new option 2 of proposition 2. Write your answer in the answer box (using 5 decimal places).
+The researcher wants to reduce the 7-point scale for statement 2 (variable: statement2) to a 5-point scale: answer options 1 and 2 are merged into option 2 and answer options 6 and 7 are merged into option 6. The remaining options, 3, 4 and 5, remain the same. Calculate the average exam grade for knowledge literacy (variable knowledge_theory) for the students in the new option 2 of proposition 2. Write your answer in the answer box (using 5 decimal places).
 
-* Download**: [SPSS file](eur-descriptive-233-nl-data.sav), [CSV file](eur-descriptive-233-nl-data.csv)
+* Download**: [SPSS file](eur-descriptive-233-en-data.sav), [CSV file](eur-descriptive-233-en-data.csv)
 
 
 Solution

@@ -1,13 +1,13 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("eur-descriptive-231-nl-data.sav", recursive = TRUE)
-include_supplement("eur-descriptive-231-nl-data.csv", recursive = TRUE)
+include_supplement("eur-descriptive-231-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-231-en-data.csv", recursive = TRUE)
 ```
 
 Question
 ========
-A survey was conducted among philosophy students at EUR on students' attitudes toward knowledge theory (variable: knowledge theory). Thesis 1 was "knowledge theory is useful in the context of this study." This statement had to be answered on a 7-point Likert scale, where 1 = "totally disagree" and 7 = "totally agree." What percentage of students gave a score of 6 ("agree")? Write the percentage (with 1 decimal place) in the answer box.
+A survey was conducted among philosophy students at EUR on students' attitudes toward knowledge theory (variable: knowledge_theory). Statement 1 was "knowledge theory is useful in the context of this study." This statement had to be answered on a 7-point Likert scale, where 1 = "totally disagree" and 7 = "totally agree." What percentage of students gave a score of 6 ("agree")? Write the percentage (with 1 decimal place) in the answer box.
 
-* Download**: [SPSS file](eur-descriptive-231-nl-data.sav), [CSV file](eur-descriptive-231-nl-data.csv)
+* Download**: [SPSS file](eur-descriptive-231-en-data.sav), [CSV file](eur-descriptive-231-en-data.csv)
 
 
 Solution

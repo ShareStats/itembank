@@ -1,13 +1,13 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("eur-descriptive-246-nl-data.sav", recursive = TRUE)
-include_supplement("eur-descriptive-246-nl-data.csv", recursive = TRUE)
+include_supplement("eur-descriptive-246-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-246-en-data.csv", recursive = TRUE)
 ```
 
 Question
 ========
-What is the average grade for the Introduction to Philosophy exam (variable: introduction_philosophy) for the students who received a score lower than 6.0 on the Knowledge Theory exam (variable: Knowledge Theory) and who had a score of 1 on Theorem 2 (variable: Theorem2)? Write your answer in the answer box (with 4 decimal places).
+What is the average grade for the Introduction to Philosophy exam (variable: introduction_philosophy) for the students who received a score lower than 6.0 on the Knowledge Theory exam (variable: Knowledge_Theory) and who had a score of 1 on Statement 2 (variable: statement2)? Write your answer in the answer box (with 4 decimal places).
 
-* Download**: [SPSS file](eur-descriptive-246-nl-data.sav), [CSV file](eur-descriptive-246-nl-data.csv)
+* Download**: [SPSS file](eur-descriptive-246-en-data.sav), [CSV file](eur-descriptive-246-en-data.csv)
 
 
 Solution

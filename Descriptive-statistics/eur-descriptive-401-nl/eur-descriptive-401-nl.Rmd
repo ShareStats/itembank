@@ -5,7 +5,7 @@ include_supplement("eur-descriptive-401-en-data.csv", recursive = TRUE)
 
 Question
 ========
-Een onderzoeker van het instituut voor psychologie doet onderzoek naar alcoholmisbruik onder adolescenten. De onderzoeker ontwierp een vragenlijst met 12 items op Likert-schalen van 1 (helemaal mee oneens) tot 5 (helemaal mee eens). Een voorbeeld van een item is: Als ik uitga, drink ik vaak meer dan 5 alcoholische dranken. De antwoorden van 608 adolescente meisjes (1) en jongens (2) op de 12 items zitten in de dataset. Let op: hogere scores op de vragenlijst duiden op meer alcoholmisbruik.
+Een onderzoeker van het instituut voor psychologie doet onderzoek naar alcoholmisbruik onder adolescenten. De onderzoeker ontwierp een vragenlijst met 12 items op Likert-schalen van 1 (helemaal mee oneens) tot 5 (helemaal mee eens). Een voorbeeld van een item is: Als ik uitga, drink ik vaak meer dan 5 alcoholische dranken. De antwoorden van 608 adolescente meisjes (gender = 1) en jongens (gender = 2) op de 12 items zitten in de dataset. Let op: hogere scores op de vragenlijst duiden op meer alcoholmisbruik.
 
 Op welke van de 12 items geven de adolescenten de minst gevarieerde antwoorden? (geen decimalen)
 

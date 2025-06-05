@@ -5,7 +5,7 @@ include_supplement("eur-descriptive-405-en-data.csv", recursive = TRUE)
 
 Question
 ========
-Een kennistest over alcohol bevat 20 items en wordt afgenomen bij 202 middelbare scholieren. De variabele [totaalscore] geeft de totale juiste scores. Geslacht (0 = vrouw; 1 = man) en alcoholgebruik (0 = heel vaak; 1 = vaak; 2 = soms; 3 = nooit) zijn ook opgenomen in de dataset.
+Een kennistest over alcohol bevat 20 items en wordt afgenomen bij 202 middelbare scholieren. De variabele total_score geeft de totale juiste scores. Geslacht (gender; 0 = vrouw; 1 = man) en alcoholgebruik (alchol_use; 0 = heel vaak; 1 = vaak; 2 = soms; 3 = nooit) zijn ook opgenomen in de dataset.
 
 Wat is de totaalscore die overeenkomt met een percentielscore van 75% (geen decimalen)?
 
