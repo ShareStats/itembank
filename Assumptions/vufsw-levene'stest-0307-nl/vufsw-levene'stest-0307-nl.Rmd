@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Capture.gif", recursive = TRUE)
+include_supplement("Capture1.gif", recursive = TRUE)
+```
+
+Question
+========
+We analyseren of de prestaties van leerlingen verschillen tussen drie vakken: literatuur, essay schrijven en wiskunde (ze komen in deze volgorde voor in de dataset). Daarnaast onderzoeken we of er verschillen zijn tussen de drie vakken tussen mannelijke en vrouwelijke scholieren. Daarom gebruiken we een gemengde ANOVA-ontwerp. 
+De output van deze analyse wordt hieronder weergegeven. “**Vrouw**” is gecodeerd als 0: man, 1: vrouw.  
+Als in de onderstaande output de aanname van homogeniteit van de varianties wordt geschonden, welke F-waarde zou dit dan aangeven?  
+* Rond af op 3 decimalen en noteer een 0 als de aanname niet wordt geschonden.* 
+  
+![](Capture.gif)
+![](Capture1.gif)
+
+
+Solution
+========
+
+Meta-information
+================
+exname: vufsw-levene'stest-0307-nl
+extype: num
+exsolution: 11.133
+extol: 0
+exsection: assumptions/homogeneity of variance/levene's test
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: Dutch
+exextra[Level]: statistical reasoning
+

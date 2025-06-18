@@ -1,6 +1,6 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("eur-inferential_statistics-231-nl-data.sav", recursive = TRUE)
-include_supplement("eur-inferential_statistics-231-nl-data.csv", recursive = TRUE)
+include_supplement("eur-inferential_statistics-231-en-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-231-en-data.csv", recursive = TRUE)
 ```
 
 Question
@@ -9,7 +9,7 @@ A question that has puzzled researchers for years is.....do you really sleep wor
 
 Investigate the extent to which you can predict the number of hours of sleep [HourSleep] a person has had based on the number of minutes of movie [MinutenFilm] that person has watched. What is the value of the test statistic for the entire model, where you predict the number of hours of sleep [HourSleep] by the number of minutes of movie [MinutenFilm]? (3 decimal places)
 
-* Download**: [SPSS file](eur-inferential_statistics-231-nl-data.sav), [CSV file](eur-inferential_statistics-231-nl-data.csv)
+* Download**: [SPSS file](eur-inferential_statistics-231-en-data.sav), [CSV file](eur-inferential_statistics-231-en-data.csv)
 
 
 Solution
