@@ -61,16 +61,6 @@ conclusie?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-We vinden empirisch bewijs voor de stelling dat de taaltoets een effect heeft gehad, want de geobserveerde t-waarde is <strong>groter</strong> dan de kritieke t-waarde.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 We vinden <strong>geen</strong> empirisch bewijs voor de stelling dat de taaltoets een effect heeft gehad, want de geobserveerde t-waarde is <strong>kleiner</strong> dan de kritieke t-waarde.
@@ -78,6 +68,16 @@ We vinden <strong>geen</strong> empirisch bewijs voor de stelling dat de taaltoe
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+We vinden empirisch bewijs voor de stelling dat de taaltoets een effect heeft gehad, want de geobserveerde t-waarde is <strong>groter</strong> dan de kritieke t-waarde.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

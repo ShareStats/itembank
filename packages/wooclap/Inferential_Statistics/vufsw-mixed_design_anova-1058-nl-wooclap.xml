@@ -59,16 +59,6 @@ Standaardwaarde</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-minstens één between-subjects variabele en minstens één within-subjects variabele heeft
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 minstens twee within-subjects variabele en geen between-subjects variabele heeft
@@ -76,6 +66,16 @@ minstens twee within-subjects variabele en geen between-subjects variabele heeft
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+minstens één between-subjects variabele en minstens één within-subjects variabele heeft
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

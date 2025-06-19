@@ -84,13 +84,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-The main effect of distraction is significant,  <em>F</em> (2, 36) = 45.95,  <em>p</em> &lt; .001. This effect tells us that average ratings of driving accuracy differed across the three types of distraction.
+It is not possible to interpret the main effect of distraction because the assumption of sphericity is violated.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -104,13 +104,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-It is not possible to interpret the main effect of distraction because the assumption of sphericity is violated.
+The main effect of distraction is significant,  <em>F</em> (2, 36) = 45.95,  <em>p</em> &lt; .001. This effect tells us that average ratings of driving accuracy differed across the three types of distraction.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

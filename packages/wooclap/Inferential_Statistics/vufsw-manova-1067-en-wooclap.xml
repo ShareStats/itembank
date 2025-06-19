@@ -66,16 +66,6 @@ nothing to do with it.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Statement I is <strong>in</strong>correct, while statement II is correct
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Statement I is correct, while statement II is <strong>in</strong>correct
@@ -88,7 +78,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Both statements I and II are <strong>in</strong>correct
+Both statements I and II are correct
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -98,7 +88,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Both statements I and II are correct
+Statement I is <strong>in</strong>correct, while statement II is correct
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Both statements I and II are <strong>in</strong>correct
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

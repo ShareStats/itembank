@@ -60,16 +60,6 @@ regression slopes’ of ANCOVA is fulfilled?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-By taking culpar_1 as the dependent variable and cjp as the independent; the F-value of the corrected model tests this assumption
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 By adding to analysis 2 the interaction between culpar_1 and cjp; the F-value of the interaction effect between the two tests the assumption
@@ -82,7 +72,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-By adding the interaction between culpar_1 and cjp to analysis 2; the F-value of the ‘corrected model’ tests this assumption
+By taking culpar_1 as the dependent variable and cjp as the independent; the F-value of the interaction effect between the two tests the assumption
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -92,7 +82,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-By taking culpar_1 as the dependent variable and cjp as the independent; the F-value of the interaction effect between the two tests the assumption
+By taking culpar_1 as the dependent variable and cjp as the independent; the F-value of the corrected model tests this assumption
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+By adding the interaction between culpar_1 and cjp to analysis 2; the F-value of the ‘corrected model’ tests this assumption
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

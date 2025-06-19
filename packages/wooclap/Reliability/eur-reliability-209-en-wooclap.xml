@@ -117,6 +117,16 @@ When we product this value with 12, this is 19.9. This means that 8 items have t
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+19
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 20
 </p>]]></text>
 <feedback format="html">
@@ -138,16 +148,6 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 7
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-19
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

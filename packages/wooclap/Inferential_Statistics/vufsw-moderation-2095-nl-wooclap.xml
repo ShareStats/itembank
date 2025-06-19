@@ -71,13 +71,13 @@ moeder sterker dan op lagere schoolniveaus</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-1 en 2 zijn beide onwaar
+Alleen 1 is waar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -91,13 +91,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Alleen 1 is waar
+1 en 2 zijn beide onwaar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>

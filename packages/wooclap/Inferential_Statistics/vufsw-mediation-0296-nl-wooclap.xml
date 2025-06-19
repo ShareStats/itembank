@@ -61,6 +61,16 @@ b: effect van de mediator op de afhankelijke</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+<em>ab</em>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 <em>a</em>
 </p>]]></text>
 <feedback format="html">
@@ -71,7 +81,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-<em>ab</em>
+<em>c</em>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -86,16 +96,6 @@ False
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-<em>c</em>
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

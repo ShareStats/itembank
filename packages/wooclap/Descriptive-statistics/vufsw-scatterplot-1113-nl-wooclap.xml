@@ -52,16 +52,6 @@ X-as kan gebruikt worden om de assumptie te checken dat…</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De relatie tussen de afhankelijke en onafhankelijke variabele lineair is.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De relatie tussen de afhankelijke en onafhankelijke variabele causaal is.
@@ -89,6 +79,16 @@ De gestandaardiseerde slope (Beta) en correlatiecoëfficiënt altijd gelijk zijn
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De relatie tussen de afhankelijke en onafhankelijke variabele lineair is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

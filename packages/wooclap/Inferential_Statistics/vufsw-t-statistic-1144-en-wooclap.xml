@@ -72,9 +72,19 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The absolute t-value has become smaller.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The t-value is unchanged.
+Data is missing to calculate the t-value
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -92,19 +102,9 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-The absolute t-value has become smaller.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Data is missing to calculate the t-value
+The t-value is unchanged.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

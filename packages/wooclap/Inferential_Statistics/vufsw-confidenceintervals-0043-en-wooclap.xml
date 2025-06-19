@@ -55,9 +55,19 @@ people spend on social media per day.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+[187,53; 196,47]
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-[114,60; 269,40]
+[191,74; 192,26]
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -75,39 +85,29 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-[187,53; 196,47]
+[190,27; 193,73]
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+[114,60; 269,40]
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 [188,61; 195,40]
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-[191,74; 192,26]
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-[190,27; 193,73]
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

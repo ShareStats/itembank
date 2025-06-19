@@ -56,13 +56,23 @@ bij een betrouwbaarheidsniveau van 95%? Rond af op 2 decimalen.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-1,96
+2,58
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2,64
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -96,23 +106,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-2,58
+1,96
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-2,64
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

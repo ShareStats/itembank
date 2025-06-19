@@ -61,7 +61,7 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Praktische significantie gebruik je bij het toetsen van de significantie op basis van de t-verdeling, statistische significantie bij het toetsen van de significantie op basis van de z-verdeling.
+Praktische significantie gebruik je bij kleine steekproeven (steekproefgrootte is 100 of kleiner), statistische significantie gebruikt je bij grote steekproeven (n &gt; 100).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -69,19 +69,9 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Praktische significantie gaat over de sterkte van een effect, statistische significantie gaat over de zekerheid waarmee je kunt zeggen dat de nulhypothese (H<sub>0</sub>: er bestaat geen effect in de populatie) niet plausibel is.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Praktische significantie gebruik je bij kleine steekproeven (steekproefgrootte is 100 of kleiner), statistische significantie gebruikt je bij grote steekproeven (n &gt; 100).
+Praktische significantie gebruik je bij het toetsen van de significantie op basis van de t-verdeling, statistische significantie bij het toetsen van de significantie op basis van de z-verdeling.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -96,6 +86,16 @@ Praktische significantie wordt berekend op basis de standaarddeviatie, statistis
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Praktische significantie gaat over de sterkte van een effect, statistische significantie gaat over de zekerheid waarmee je kunt zeggen dat de nulhypothese (H<sub>0</sub>: er bestaat geen effect in de populatie) niet plausibel is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

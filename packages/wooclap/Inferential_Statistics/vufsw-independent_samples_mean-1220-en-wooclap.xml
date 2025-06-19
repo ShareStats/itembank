@@ -57,16 +57,6 @@ suited to test the difference in hair loss between the two groups?</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-A t-test for paired (dependent) samples, to test the effect of medicine use on hair loss.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 A regression analysis, with medicine use predicting the number of hairs lost per day.
 </p>]]></text>
 <feedback format="html">
@@ -88,6 +78,16 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 A chi square test, to test the association between medicine use and hair loss.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A t-test for paired (dependent) samples, to test the effect of medicine use on hair loss.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

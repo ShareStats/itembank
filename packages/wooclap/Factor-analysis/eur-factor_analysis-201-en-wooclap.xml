@@ -57,16 +57,6 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The orthogonal and non-orthogonal rotations show almost the same proportion of explained variance.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 The three factors are barely correlated.
@@ -79,7 +69,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The sum of the eigenvalues is almost identical with and without rotation.
+There is no point in performing a rotation, because the results with and without the rotation are almost identical.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -89,7 +79,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-There is no point in performing a rotation, because the results with and without the rotation are almost identical.
+The orthogonal and non-orthogonal rotations show almost the same proportion of explained variance.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The sum of the eigenvalues is almost identical with and without rotation.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

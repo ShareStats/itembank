@@ -89,16 +89,6 @@ is 0.112.</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Als de variabele trainingsuren gelijk is aan het gemiddelde, resulteert een toename van de houding met 1 eenheid in een gemiddelde toename van de prestaties met 0.112 eenheden.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Het effect van uren training op de prestaties van een specifieke vaardigheid is groter voor hogere scores van houding dan voor lagere scores van houding.
 </p>]]></text>
 <feedback format="html">
@@ -109,7 +99,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De gemiddelde score in prestaties in een specifieke vaardigheid is 1.23 als uren training en houding gelijk zijn aan de gemiddelde waarden.
+Als de variabele trainingsuren gelijk is aan het gemiddelde, resulteert een toename van de houding met 1 eenheid in een gemiddelde toename van de prestaties met 0.112 eenheden.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -124,6 +114,16 @@ Het effect van uren training op de prestaties van een specifieke vaardigheid is 
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De gemiddelde score in prestaties in een specifieke vaardigheid is 1.23 als uren training en houding gelijk zijn aan de gemiddelde waarden.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

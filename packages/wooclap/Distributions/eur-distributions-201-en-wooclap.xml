@@ -51,13 +51,13 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-To create a normal distribution.
+To be able to calculate percentile scores.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -71,19 +71,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-To compare testscores with respect to the mean.
+To create a normal distribution.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-To be able to calculate percentile scores.
+To compare testscores with respect to the mean.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

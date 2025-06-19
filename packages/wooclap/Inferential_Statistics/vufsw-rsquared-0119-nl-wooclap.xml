@@ -60,7 +60,7 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De correlatie tussen alle B-coëfficiënten in het regressiemodel.
+De gekwadrateerde voorspellingsfout (‘prediction error’).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -70,11 +70,21 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De gekwadrateerde residuen.
+De correlatie tussen alle B-coëfficiënten in het regressiemodel.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De proportie verklaarde variantie.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -90,21 +100,11 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De gekwadrateerde voorspellingsfout (‘prediction error’).
+De gekwadrateerde residuen.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De proportie verklaarde variantie.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

@@ -57,26 +57,6 @@ according to the 95% confidence interval.</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-contains 0.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-contains the true population slope.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 may contain or <strong>not</strong> contain 0 (we are not sure).
 </p>]]></text>
 <feedback format="html">
@@ -92,6 +72,26 @@ does <strong>not</strong> contain 0.
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+contains 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+contains the true population slope.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

@@ -57,16 +57,6 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-<span class="math inline">\(S^2_{XO} = S^2_{XT+XE} = S_{(XT+XE)(XT+XE)} = S_{X^2_T + X^2_E + XTXE} = S^2_{XT} + S^2_{XE} -2c_{XtXE} = S^2_{XT} + S^2_{XE}\)</span>
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Fout
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 <span class="math inline">\(S^2_{XO} = S^2_{XT+XE} = S_{(XT+XE)(XT+XE)} = S_{X^2_T + X^2_E - 2{XTXE}} = S^2_{XT} + S^2_{XE} -2c_{XtXE} = S^2_{XT} + S^2_{XE}\)</span>
 </p>]]></text>
 <feedback format="html">
@@ -92,6 +82,16 @@ Fout
 <feedback format="html">
 <text><![CDATA[<p>
 Goed
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(S^2_{XO} = S^2_{XT+XE} = S_{(XT+XE)(XT+XE)} = S_{X^2_T + X^2_E + XTXE} = S^2_{XT} + S^2_{XE} -2c_{XtXE} = S^2_{XT} + S^2_{XE}\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
 </p>]]></text>
 </feedback>
 </answer>

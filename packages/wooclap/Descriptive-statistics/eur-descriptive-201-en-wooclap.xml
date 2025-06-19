@@ -51,26 +51,6 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-rnd(60*mean.60(item1 to item60)
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-rnd(60*mean.40(item1 to item60))
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 sum(item1 to item60)
@@ -84,6 +64,26 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 rnd(40*mean.40(item1 to item60))
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+rnd(60*mean.60(item1 to item60)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+rnd(60*mean.40(item1 to item60))
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

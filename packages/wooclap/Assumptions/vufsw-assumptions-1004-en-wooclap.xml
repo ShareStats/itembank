@@ -74,6 +74,16 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The assumption of homoscedasticity because the variance of the residuals does not seem to vary for the different predicted values
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 The assumption of the normality of the residuals because in the P-P plot the P(Z&gt;z) of the distribution of our data does not differ from the theoretical normal distribution
@@ -86,27 +96,17 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The assumption of linearity because the variance of the residuals does not seem to vary for the different predicted values
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The assumption of homoscedasticity because the variance of the residuals does not seem to vary for the different predicted values
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 The assumption of the normality of the dependent variable because in the P-P plot the P(Z&gt;z) of the distribution of our data does not differ from the theoretical normal distribution
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The assumption of linearity because the variance of the residuals does not seem to vary for the different predicted values
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

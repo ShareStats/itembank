@@ -59,19 +59,9 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Het indirecte effect significant is.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Het totale effect <strong>niet</strong> significant is.
+Het directe effect significant is.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -91,11 +81,21 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Het directe effect significant is.
+Het totale effect <strong>niet</strong> significant is.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Het indirecte effect significant is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

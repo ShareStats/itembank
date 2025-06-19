@@ -221,16 +221,6 @@ effect on occupational prestige?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Age, education respondent, and education mother.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Age, education respondent, and education father.
@@ -244,6 +234,16 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Age, education respondent, education father, and education mother.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Age, education respondent, and education mother.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

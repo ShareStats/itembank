@@ -63,7 +63,7 @@ and covariances) is violated.</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-I. insignificant II. not violated
+I. insignificant II. violated
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -73,7 +73,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-I. insignificant II. violated
+I. insignificant II. not violated
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -91,13 +91,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-I. significant II. not violated
+I. significant II. violated
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -111,13 +111,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-I. significant II. violated
+I. significant II. not violated
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>

@@ -66,19 +66,19 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-We kunnen de nulhypothese <strong>niet</strong> verwerpen, want het geobserveerde verschil tussen de twee gemiddelden (“<em>Mean Difference</em>”) is groter dan de kritieke waarde 0,05.
+We <strong>verwerpen</strong> de nulhypothese, want de geobserveerde T-waarde is groter dan de kritieke waarde 1,65.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-We kunnen de nulhypothese <strong>niet</strong> verwerpen, want de geobserveerde T-waarde is groter dan de kritieke waarde 1,65.
+We kunnen de nulhypothese <strong>niet</strong> verwerpen, want het geobserveerde verschil tussen de twee gemiddelden (“<em>Mean Difference</em>”) is groter dan de kritieke waarde 0,05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -96,13 +96,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-We <strong>verwerpen</strong> de nulhypothese, want de geobserveerde T-waarde is groter dan de kritieke waarde 1,65.
+We kunnen de nulhypothese <strong>niet</strong> verwerpen, want de geobserveerde T-waarde is groter dan de kritieke waarde 1,65.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>

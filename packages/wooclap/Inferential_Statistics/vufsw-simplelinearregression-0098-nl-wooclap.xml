@@ -66,16 +66,6 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-We gaan ervan uit dat het aantal UREN een invloed zal hebben op CIJFER, <em>maar niet andersom</em>.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Dat houdt in dat we verwachten dat de invloed van UREN op CIJFER <em>positief</em> zal zijn.
 </p>]]></text>
 <feedback format="html">
@@ -91,6 +81,16 @@ Dat houdt in dat we verwachten dat de invloed van UREN op CIJFER bij elke vergel
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+We gaan ervan uit dat het aantal UREN een invloed zal hebben op CIJFER, <em>maar niet andersom</em>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

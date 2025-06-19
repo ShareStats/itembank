@@ -61,27 +61,17 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-It tests the null hypothesis that, in the population, the coefficient equals the same value as the one found for the sample against the alternative hypothesis that the coefficient in the population does <strong>not</strong> equal the same value as the one found for the sample
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-It tests whether the P-value of the coefficient equals 0.05
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 It tests the null hypothesis that the coefficient is <strong>not </strong>zero in the population against the alternative hypothesis that the coefficient in the population is zero
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+It tests the null hypothesis that, in the population, the coefficient equals the same value as the one found for the sample against the alternative hypothesis that the coefficient in the population does <strong>not</strong> equal the same value as the one found for the sample
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -96,6 +86,16 @@ It tests the null hypothesis that, in the population, the coefficient is zero ag
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+It tests whether the P-value of the coefficient equals 0.05
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

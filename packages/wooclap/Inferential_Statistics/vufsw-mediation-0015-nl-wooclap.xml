@@ -73,26 +73,6 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Het indirecte effect is het effect van X op Y, gecontroleerd voor het effect van mediator (mediërende variabele) op Y.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Het indirecte effect is de optelling van het effect van de mediator (mediërende variabele) op Y en van het effect van X op Y.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Het indirecte effect is het effect van X op Y dat verloopt via de mediator (mediërende variabele).
@@ -105,7 +85,27 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Het indirecte effect is het effect van X op Y, gecontroleerd voor het effect van mediator (mediërende variabele) op Y.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Het indirecte effect is het effect van de mediator (mediërende variabele) op Y, gecontroleerd voor het effect van X op Y.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het indirecte effect is de optelling van het effect van de mediator (mediërende variabele) op Y en van het effect van X op Y.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -82,7 +82,7 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Een tweezijdige toets, omdat de onderzoeker <em>geen</em> richting aangeeft bij de nulhypothese.
+Een tweezijdige toets, omdat we in dit geval twee groepen met elkaar vergelijken (mensen met een migratieachtergrond en mensen zonder een migratieachtergrond).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -92,7 +92,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Een éénzijdige toets, omdat “Migratieachtergrond” een dichtome variabele is (een dummy variabele).
+Een tweezijdige toets, omdat de onderzoeker <em>geen</em> richting aangeeft bij de nulhypothese.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -112,7 +112,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Een tweezijdige toets, omdat we in dit geval twee groepen met elkaar vergelijken (mensen met een migratieachtergrond en mensen zonder een migratieachtergrond).
+Een éénzijdige toets, omdat “Migratieachtergrond” een dichtome variabele is (een dummy variabele).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

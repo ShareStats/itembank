@@ -116,16 +116,6 @@ When we product this value with 12, this is 19.9. This means that 8 items have t
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-19
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Incorrect
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 7
@@ -138,7 +128,7 @@ Correct
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-20
+19
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -149,6 +139,16 @@ Incorrect
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 8
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+20
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

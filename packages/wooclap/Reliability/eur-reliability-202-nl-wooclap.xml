@@ -57,7 +57,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Beide stellingen zijn niet waar.
+Stelling 1 is niet waar en stelling 2 is waar.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -67,7 +67,17 @@ Fout
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Stelling 1 is niet waar en stelling 2 is waar.
+Beide stellingen zijn waar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Beide stellingen zijn niet waar.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -82,16 +92,6 @@ Stelling 1 is waar en stelling 2 is niet waar.
 <feedback format="html">
 <text><![CDATA[<p>
 Goed
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Beide stellingen zijn waar.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Fout
 </p>]]></text>
 </feedback>
 </answer>

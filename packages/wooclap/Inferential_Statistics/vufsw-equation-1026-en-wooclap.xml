@@ -84,19 +84,19 @@ effect of attitude on performance is 0.112.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-The effect of hours training on the performance of a specific skill is lower for higher scores of attitude than for lower scores of attitude.
+If the variable hours of training equal its mean, then an increase of attitude by 1 unit results in a mean increase of performance by 0.112 units.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-If the variable hours of training equal its mean, then an increase of attitude by 1 unit results in a mean increase of performance by 0.112 units.
+The effect of hours training on the performance of a specific skill is higher for higher scores of attitude than for lower scores of attitude.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -114,13 +114,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-The effect of hours training on the performance of a specific skill is higher for higher scores of attitude than for lower scores of attitude.
+The effect of hours training on the performance of a specific skill is lower for higher scores of attitude than for lower scores of attitude.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

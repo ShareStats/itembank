@@ -77,16 +77,6 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Boris verdient <strong>20,162</strong> euro meer dan Donald. En Angela verdient <strong>17,732 </strong>(20,162 -– 2,430) euro meer dan Mark.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Boris verdient <strong>20,162</strong> euro meer dan Donald. En Angela verdient <strong>2,430</strong> euro meer dan Mark.
 </p>]]></text>
 <feedback format="html">
@@ -112,6 +102,16 @@ Boris verdient <strong>22,592</strong> euro (2,430 + 20,162) meer dan Donald. En
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Boris verdient <strong>20,162</strong> euro meer dan Donald. En Angela verdient <strong>17,732 </strong>(20,162 -– 2,430) euro meer dan Mark.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

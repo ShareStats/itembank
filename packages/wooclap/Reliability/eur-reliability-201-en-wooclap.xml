@@ -51,9 +51,19 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The reliability of the test is higher in a population consisting of people who have a relatively low ability level than in a population consisting of people with a relatively high ability level.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-It is not possible to do any predictions on the basis of the difficulty of questions about the reliability of a test in populations that differ with respect to their average ability level.
+The reliability of the test is lower in a population consisting of people who have a relatively low ability level than in a population consisting of people with a relatively high ability level.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -71,19 +81,9 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-The reliability of the test is higher in a population consisting of people who have a relatively low ability level than in a population consisting of people with a relatively high ability level.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The reliability of the test is lower in a population consisting of people who have a relatively low ability level than in a population consisting of people with a relatively high ability level.
+It is not possible to do any predictions on the basis of the difficulty of questions about the reliability of a test in populations that differ with respect to their average ability level.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

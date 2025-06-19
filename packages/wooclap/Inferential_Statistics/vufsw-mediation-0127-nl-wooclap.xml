@@ -91,16 +91,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-de sterkte van het effect van “Migratieachtergrond” in model 2 iets afgenomen is in vergelijking met model 1: de sterkte neemt af van -0,784 naar -0,705.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 het ongestandaardiseerde effect van “Migratieachtergrond” (-0,705) in model 2 iets sterker is dan het gestandaardiseerde effect van “Migratieachtergrond” (-0,197).
@@ -118,6 +108,16 @@ de waarde van de constante van model 2 iets toegenomen is in vergelijking met mo
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+de sterkte van het effect van “Migratieachtergrond” in model 2 iets afgenomen is in vergelijking met model 1: de sterkte neemt af van -0,784 naar -0,705.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

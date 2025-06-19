@@ -73,13 +73,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-H<sub>0</sub>: μ<sub>1</sub> - μ<sub>2 </sub>= 0.
+H<sub>0</sub>: μ<sub>1 </sub>≠ μ<sub>2</sub>.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -93,13 +93,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-H<sub>0</sub>: μ<sub>1 </sub>≠ μ<sub>2</sub>.
+H<sub>0</sub>: μ<sub>1</sub> - μ<sub>2 </sub>= 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

@@ -77,16 +77,6 @@ II. Omdat er een controle groep is, is hier geen sprake van regressie naar het g
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Stelling I is niet waar en stelling II is waar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Fout
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Stelling I en stelling II zijn beide waar
 </p>]]></text>
 <feedback format="html">
@@ -97,7 +87,7 @@ Fout
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Stelling I is waar en stelling II is niet waar
+Stelling I is niet waar en stelling II is waar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -112,6 +102,16 @@ Stelling I en stelling II zijn beide niet waar
 <feedback format="html">
 <text><![CDATA[<p>
 Goed
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Stelling I is waar en stelling II is niet waar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
 </p>]]></text>
 </feedback>
 </answer>

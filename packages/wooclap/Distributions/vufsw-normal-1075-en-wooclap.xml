@@ -65,13 +65,13 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-95% of the observations are between 170 and 214.
+68% of the observations are between 162 and 222.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -85,19 +85,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-68% of the observations are between 162 and 222.
+68% of the observations are between 188 and 196.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-68% of the observations are between 188 and 196.
+95% of the observations are between 170 and 214.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

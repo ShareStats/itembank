@@ -56,16 +56,6 @@ Empirische Regel gebruiken, kunnen we zeggen dat ongeveer…</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-68% van de waarnemingen ligt tussen de 46 en 134 minuten.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 68% van de waarnemingen ligt tussen de 68 en 112 minuten.
@@ -78,7 +68,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-68% van de waarnemingen ligt tussen 89 en 91 minuten.
+68% van de waarnemingen ligt tussen de 24 en 156 minuten.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -88,7 +78,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-68% van de waarnemingen ligt tussen de 24 en 156 minuten.
+68% van de waarnemingen ligt tussen de 46 en 134 minuten.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+68% van de waarnemingen ligt tussen 89 en 91 minuten.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

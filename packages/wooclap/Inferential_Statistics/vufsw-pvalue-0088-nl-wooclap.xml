@@ -63,6 +63,16 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5,4%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 24,5%
@@ -75,17 +85,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-11,7%
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-5,4%
+34,1%
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -105,7 +105,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-34,1%
+11,7%
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

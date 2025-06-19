@@ -58,13 +58,13 @@ hebben een significante invloed op Y? </p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Alleen Werkuren (X<sub>1</sub>).
+Beide variabelen hebben <strong>geen </strong>significante invloed.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -78,13 +78,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Beide variabelen hebben <strong>geen </strong>significante invloed.
+Alleen Werkuren (X<sub>1</sub>).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

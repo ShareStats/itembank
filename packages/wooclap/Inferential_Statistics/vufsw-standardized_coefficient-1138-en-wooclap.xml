@@ -65,6 +65,16 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The number of standard deviations that the number increases/decreases when the number of study hours increases by one standard deviation.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 The standard deviation of the number of study hours.
@@ -92,16 +102,6 @@ None of the above.
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-The number of standard deviations that the number increases/decreases when the number of study hours increases by one standard deviation.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

@@ -65,27 +65,7 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-laat zien dat 90% van de respondenten een hoge mate van werktevredenheid heeft.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 is voor 90% van de respondenten een valide meting.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-zal in 90% van de gevallen de daadwerkelijke populatieparameter bevatten.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -100,6 +80,26 @@ is intern consistent.
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+zal in 90% van de gevallen de daadwerkelijke populatieparameter bevatten.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+laat zien dat 90% van de respondenten een hoge mate van werktevredenheid heeft.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

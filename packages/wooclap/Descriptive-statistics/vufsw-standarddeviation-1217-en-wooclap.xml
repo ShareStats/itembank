@@ -62,16 +62,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The standard deviation of occupational prestige in the whole sample.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 The standard deviation of occupational prestige for a specific value of income.
@@ -79,6 +69,16 @@ The standard deviation of occupational prestige for a specific value of income.
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The standard deviation of occupational prestige in the whole sample.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

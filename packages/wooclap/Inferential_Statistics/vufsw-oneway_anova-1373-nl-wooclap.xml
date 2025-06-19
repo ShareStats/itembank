@@ -65,9 +65,19 @@ usage) zijn blootgesteld aan deze ‘phone microwaves’.<br />
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De F-toets wijst uit dat het aannemelijk is dat de gemiddelde ‘ear-damage’ in de groepen niet gelijk is, maar er is niet aan de assumptie van homogeniteit van varianties voldaan, dus kunnen we geen definitieve uitspraken doen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De F-toets wijst uit dat het aannemelijk is dat de gemiddelde ‘ear-damage’ in de groepen niet gelijk is. Omdat er aan de assumptie van homogeniteit van varianties is voldaan, is dit de samenvatting van de uitkomsten.
+De F-toets wijst uit dat er onvoldoende bewijs is dat de gemiddelde ‘ear-damage’ in de groepen niet gelijk is. Omdat er aan de assumptie van homogeniteit van varianties is voldaan, is dit de samenvatting van de uitkomsten.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -87,21 +97,11 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De F-toets wijst uit dat er onvoldoende bewijs is dat de gemiddelde ‘ear-damage’ in de groepen niet gelijk is. Omdat er aan de assumptie van homogeniteit van varianties is voldaan, is dit de samenvatting van de uitkomsten.
+De F-toets wijst uit dat het aannemelijk is dat de gemiddelde ‘ear-damage’ in de groepen niet gelijk is. Omdat er aan de assumptie van homogeniteit van varianties is voldaan, is dit de samenvatting van de uitkomsten.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De F-toets wijst uit dat het aannemelijk is dat de gemiddelde ‘ear-damage’ in de groepen niet gelijk is, maar er is niet aan de assumptie van homogeniteit van varianties voldaan, dus kunnen we geen definitieve uitspraken doen
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>
