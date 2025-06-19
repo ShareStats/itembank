@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-conditional-probability-605-nl-wooclap/Probability/Elementary Probability/Conditional probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-conditional-probability-605-nl_uva-conditional-probability-605-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In de volgende kruistabel zijn gegevens van 150 personen opgenomen voor
+twee variabelen A en B.</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">A = 1</td>
+<td style="text-align: left;">A = 2</td>
+<td style="text-align: left;">A = 3</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">B = 1</td>
+<td style="text-align: left;">19</td>
+<td style="text-align: left;">50</td>
+<td style="text-align: left;">13</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">B = 2</td>
+<td style="text-align: left;">18</td>
+<td style="text-align: left;">32</td>
+<td style="text-align: left;">18</td>
+</tr>
+</tbody>
+</table>
+<p>We trekken aselect iemand uit de 150 personen. Voor deze persoon is P(A
+= 1 | A = 2) is gelijk aan</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.56
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.56: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.38
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.38: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.79
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.79: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

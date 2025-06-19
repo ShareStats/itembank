@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-test-1772-nl-wooclap/Inferential Statistics/Parametric Techniques/z-test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-test-1772-nl_uva-test-1772-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>We nemen voor deze vraag aan dat geboortegewicht (in kg.) normaal
+verdeeld is met verwachting 2.5 en variantie 0.37. Een geboortegewicht
+van 2100 gram heeft een Z-score van</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+-1.081
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+-1.081: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+-0.658
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+-0.658: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.081
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1.081: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.922
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2.922: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-test-96-nl-wooclap/Inferential Statistics/Parametric Techniques/t-test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-test-96-nl_uva-test-96-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Om het effect van oxytocine op reactietijd te testen wordt bij 25
+proefpersonen twee keer een test op reactietijd gedaan; een keer met
+oxytocine en een keer zonder. Iedere proefpersoon moet zo snel mogelijk
+op de knop drukken als een clown op het beeldscherm verschijnt. Dan
+worden verschilscores van de 25 proefpersonen berekend. Het gemiddelde
+van verschilscores is 5 en de standaarddeviatie is 10. De nulhypothese
+is dat er geen verschil is in reactietijd tussen wel of geen oxytocine
+in het bloed. Er is geen idee voor de alternatieve hypothese over de
+richting van het effect. Deze nulhypothese kan</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+niet worden verworpen bij 0.01 maar wel bij 0.02.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+niet worden verworpen bij 0.01 maar wel bij 0.02.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+niet worden verworpen bij 0.02 maar wel bij 0.05.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+niet worden verworpen bij 0.02 maar wel bij 0.05.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+niet worden verworpen bij 0.05 maar wel bij 0.10.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+niet worden verworpen bij 0.05 maar wel bij 0.10.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

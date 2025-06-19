@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-factor_analysis-201-nl-wooclap/Factor analysis/Factor loadings</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Factor-analysis_eur-factor_analysis-201-nl_eur-factor_analysis-201-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoeker doet een exploratieve factor analyse en extraheert 3 factoren. Ze voert vervolgens een non-orthogonale rotatie uit. De ladingen (factor loadings) in de pattern en structure matrix blijken nagenoeg hetzelfde voor de drie factoren. Welke conclusie kan hieruit getrokken worden?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li>The comparison between the pattern and structure matrix does not give information about the solution without rotation.<br />
+</li>
+<li>After extraction the pattern and structure matrix tell us nothing about the initial eigenvalues (these are about the explained variance of all possible factors, so the same number as there are items).</li>
+<li>The statement about the proportion of explained variance is incorrect because it does not answer the question. After having extracted a certain number of factors, the proportion explained variance is always the same with and without rotation (even if the loadings in the pattern and structure matrix are very different).</li>
+</ul>
+<p>Non-orthogonal rotation means that the factors are allowed to correlate. The pattern matrix gives the corrected loadings (corrected for factors that have a higher correlation) between an item and a factor. If the loadings in the pattern and structure matrix are nearly the same, this means that the factors are barely correlated (there is no overlap between the factors to correct).</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De orthogonale en non-orthogonale rotaties verklaren nagenoeg dezelfde proportie variantie.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De drie factoren zijn nauwelijks gecorreleerd.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Goed
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het heeft geen zin gehad om een rotatie uit te voeren, omdat het resultaat zonder en met rotatie nagenoeg hetzelfde is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De som van de eigenwaarden is nagenoeg hetzelfde met en zonder rotatie.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-reliability-110-en-wooclap/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="shortanswer">
+<name>
+<text> Q1 : Reliability_eur-reliability-110-en_eur-reliability-110-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A company develops a test consisting of 20 items that all aim to measure a single construct, but unfortunately the reliability of this test does not meet the company’s quality requirements. One way to potentially increase the reliability of a test is to add parallel items to it. Assuming that this action does not have any unforseen negative consequences (such as increased fatigue from filling in all the items), why should the true score variance theoretically increase more than the unsystematic error variance when adding parallel items to a test?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The true score variance increases more than the error variance when parallel items are added, because the true score parts of the items will be correlated while the error variance parts will not be. A test’s total variance consists of the variance of the items (both true score and error variance) as well as the covariance between the items (true score only); as unsystematic error error should by definition not correlate with anything, it cannot co-vary with anything.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<usecase>0</usecase>
+<answer fraction="100" format="moodle_auto_format">
+<text>
+""
+</text>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-reliability-210-en-wooclap/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_eur-reliability-210-en_eur-reliability-210-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In the population, shyness is normally distributed with a mean of 12 and a standard deviation of 5. The reliability of a shyness test is .78 (Cronbach’s alpha). In a study on shyness, the 40 shyest children were selected (children with the highest scores on the test). Twenty of these children were assigned to a control groups and 20 to a treatment group. The children in the treatment group received an assertiveness intervention. After the intervention, the shyness test was administered again to all of the children. Below, the means of the control and the treatment groups on both measurements are given.</p>
+<table class="table_shade">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Group</th>
+<th style="text-align: left;">Mean_pretest</th>
+<th style="text-align: left;">Mean_posttest</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Control group (n=20)</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">18</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Treatment group (n=20)</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">16</td>
+</tr>
+</tbody>
+</table>
+<p>Evaluate the statements below:</p>
+<p>I. If the reliability of the shyness test were to be 0, then the mean on the pre-test would have been higher for both groups.</p>
+<ol start="2" style="list-style-type: upper-roman">
+<li>Because there is a control group, there is no regression to the mean in this case.</li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Both statements are false. If the reliability were 0, then you have only measurement error and in that case the scores on the pre-test could have been either higher, lower, or equal. Including a control group does not influence the presence of regression to the mean, but merely concerns the design of the study and whether causal conclusions may be drawn (see WE chapter 7).</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Statement I and statement II are both false
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Statement I and statement II are both true
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Statement I is false and statement II is true
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Statement I is true and statement II is false
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

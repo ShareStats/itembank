@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-ancova-031-nl-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-ancova-031-nl_vufgb-ancova-031-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een experimenteel onderzoek waarin drie groepen worden vergeleken op een factor wil de onderzoeker weten of het nodig is voor leeftijd als covariaat te controleren. Hij voert hiertoe in eerste instantie een ANCOVA analyse met interactie uit. Voer op basis van de gegevens in onderstaande tabel een <em>F</em>-toets uit voor het Interactie-effect.</p>
+<p>Wat is je conclusie over welk ANCOVA model de onderzoeker dient te gebruiken om te controleren voor de covariaat?</p>
+<p><img src="@@PLUGINFILE@@/vufgb-ancova-031-nl-table01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-ancova-031-nl-table01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p><span class="math inline">\(F = \frac{MS_{Interactie}}{MSE} = \frac{4}{2} = 2\)</span> met <span class="math inline">\(df_{1} = 2\)</span> en <span class="math inline">\(df_{2} = 40\)</span>. Kritieke grens in <em>F</em>-tabel opzoeken bij deze vrijheidsgraden, is inderdaad 3.23. Gevonden <em>F</em> &lt; kritieke <em>F</em>, dus nulhypothese van geen interactie niet verwerpen. Onderzoeker dient dus het model zonder interactie te gebruiken.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(F = 4 &gt; 3.23\)</span>, dus onderzoeker dient ANCOVA model <em>met</em> interactie te gebruiken
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(F = 4 &gt; 3.23\)</span>, dus onderzoeker dient ANCOVA model <em>zonder</em> interactie te gebruiken
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(F = 2 &lt; 3.23\)</span>, dus onderzoeker dient ANCOVA model <em>met</em> interactie te gebruiken
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(F = 2 &lt; 3.23\)</span>, dus onderzoeker dient ANCOVA model <em>zonder</em> interactie te gebruiken
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

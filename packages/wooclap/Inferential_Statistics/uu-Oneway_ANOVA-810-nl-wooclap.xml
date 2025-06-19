@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Oneway_ANOVA-810-nl-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Oneway_ANOVA-810-nl_uu-Oneway_ANOVA-810-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Sinds augustus 2014 hebben basisscholen een “zorgplicht”. Dit houdt in dat de school een passende plek moet zoeken als een kind extra ondersteuning nodig heeft. Er zijn drie mogelijkheden:
+• een aanbod op de eigen school (de school van aanmelding);
+• een aanbod op een andere reguliere school;
+• een aanbod op een school voor (voortgezet) speciaal onderwijs.
+De directeur op basisschool “De Regenboog” zit met een dergelijke zorgleerling in zijn maag en zoekt een oplossing. Hij overweegt alle drie de bovenstaande mogelijkheden. Hij laat 30 directeuren van andere basisscholen een score van 0 tot 10 toekennen over de wenselijkheid van de drie de oplossingen (10 directeuren per oplossing). Stel dat de directeur wil toetsen of de oplossingen significant van elkaar verschillen in wenselijkheid, welke toets heeft hij dan nodig?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Elke oplossing wordt apart door 10 onafhankelijke directeuren beoordeeld. Voor elk van de drie oplossingen hebben we dus 10 scores. We vergelijken de gemiddelde scores (=afhankelijke variabele) over de drie oplossingen (=groepen, onafhankelijke variabele). Dit is per definitie een eenweg ANOVA.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Eenweg ANOVA
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tweeweg ANOVA
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\chi^2\)</span> Goodness of Fit
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\chi^2\)</span> toets voor onafhankelijkheid (independence)
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

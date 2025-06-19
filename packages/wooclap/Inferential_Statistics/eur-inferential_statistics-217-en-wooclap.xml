@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-217-en-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA, Inferential Statistics/NHST/p-value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-217-en_eur-inferential_statistics-217-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The figure below is an interaction plot resulting from a factorial ANOVA with two between-subject factors, A and B, each with two conditions and N = 40.</p>
+<p><img src="factorial_anova.png" /></p>
+<p>Which of the three effects in the factorial ANOVA would certainly NOT be significant?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The main effect of an independent variable refers to the overall effect of this variable on the dependent variable, regardless of the level of the other independent variable. From the graph you can see that there is no difference in means between A1 and A2. This average appears to be the same for both conditions (you can see for each condition of A by taking the midpoint between the lines B1 and B2; the point you find for A1 is at the same height as the point for A2). So there is no main effect of A, because in this case you would expect a difference between the means of A1 and A2. The same is also true for B1 and B2. So there is also no main effect of B.</p>
+<p>You would however expect an interaction, considering the lines cross each other so cleanly.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+the main effect of A, we are not sure about the main effect of B
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+the main effect of A as well as the main effect of B
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+the interaction effect A*B
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+b, and c are both correct
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-t-statistic-1265-en-wooclap/inferential statistics/nhst/test statistic/t-statistic</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-t-statistic-1265-en_vufsw-t-statistic-1265-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Of 190 randomly selected secretaries it was recorded how fast they type
+(X, in words per minute) and how fast they read (Y, in words per
+minute). The regression results are below. What conclusion can we draw
+based on the results?</p>
+<p>The regression formula is Y= 290.21 + 3.50x<br />
+R-squared = 0.12<br />
+190 - 2 = 188 degrees of freedom</p>
+<table class="table_shade">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td class="tvcss_2">
+<br />
+</td>
+<td class="tvcss_3">
+Regression coefficient
+</td>
+<td class="tvcss_4">
+SE
+</td>
+<td>
+t
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_2">
+Constant
+</td>
+<td class="tvcss_3">
+290.21
+</td>
+<td class="tvcss_4">
+215.41
+</td>
+<td>
+1.35
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_2">
+fastness typing
+</td>
+<td class="tvcss_3">
+3.50
+</td>
+<td class="tvcss_4">
+3.52
+</td>
+<td>
+0.99
+</td>
+</tr>
+</tbody>
+</table>
+<p>Below are two statements about these results. Which statement(s) is /
+are correct?</p>
+<p>I. Based on this sample, the typing speed of a secretary has no
+significant influence on how quickly she can read (at a significance
+level of .05).<br />
+II. A secretary types on average with a speed of 3.50 words per minute.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The t value is below the critical value, thus not significant, thus I is
+true. And we do not have the information on the average speed, thus II
+is false. .</p>
+<p>M&amp;T Bivariate linear regression<br />
+Bivariate linear regression</p>
+<p>M&amp;T Multivariate linear regression<br />
+Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Statement II is correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+None of the statements is correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Both statements are correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Statement I is correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-paired_samples-1147-en-wooclap/inferential statistics/parametric techniques/t-test/paired samples</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-paired_samples-1147-en_vufsw-paired_samples-1147-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>30 employees of a multinational filled out a questionnaire twice, which,
+among other things, recorded how much time (measured in number of
+minutes per week) employees spend on various activities, such as
+attending meetings and answering e-mails. The first measurement took
+place a month prior to an ‘effective meeting’ course, and the second
+measurement two months after the end of this course. A researcher
+expects that the course has had an effect and employees spend less time
+on meetings after the course. Suppose the results below were found. The
+hypothesis is tested with a significance level of 5% (alpha = 0.05).</p>
+<table class="tvcss_2 tvcss_3">
+<tbody>
+<tr class="odd">
+<td class="tvcss_4">
+N
+</td>
+<td class="tvcss_5">
+mean time (measurement 1)
+</td>
+<td class="tvcss_6">
+ mean time  (measurement 2)
+</td>
+<td class="tvcss_7">
+mean difference  
+</td>
+<td class="tvcss_8">
+standard error (se) of the mean difference      
+  
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+30
+</td>
+<td class="tvcss_5">
+56.2 minutes per week
+</td>
+<td class="tvcss_6">
+51.9 minutes per week    
+</td>
+<td class="tvcss_7">
+4.3
+</td>
+<td class="tvcss_8">
+2.2
+</td>
+</tr>
+</tbody>
+</table>
+<p>Is the null hypothesis H<sub>0</sub> rejected?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The t value is calculated by t = (mean1  -mean2) / se = 1.95.</p>
+<p>In table B, critical value; df = 29; alpha = 0.05; one sided, thus t =
+1.70.</p>
+<p>Thus observed t value &gt; critical t value.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Yes, because: the absolute observed t-value &gt; the critical t-value.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No, because : the absolute observed t-value &lt; the critical t-value.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No, because : the absolute observed t-value &gt; the critical t-value.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Yes, because: the absolute observed t-value &lt; the critical t-value.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

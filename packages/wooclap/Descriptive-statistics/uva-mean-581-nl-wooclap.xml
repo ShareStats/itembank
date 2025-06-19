@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-mean-581-nl-wooclap/Descriptive statistics/Summary Statistics/Measures of Location/Mean</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-mean-581-nl_uva-mean-581-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Gegeven is de volgende frequentietabel:</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">klassegrenzen</td>
+<td style="text-align: left;">klassemidden</td>
+<td style="text-align: left;">frequenties</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">[14,16&gt;</td>
+<td style="text-align: left;">15</td>
+<td style="text-align: left;">4</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">[16,18&gt;</td>
+<td style="text-align: left;">17</td>
+<td style="text-align: left;">6</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">[18,20&gt;</td>
+<td style="text-align: left;">19</td>
+<td style="text-align: left;">8</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">[20,22&gt;</td>
+<td style="text-align: left;">21</td>
+<td style="text-align: left;">3</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">[22,24&gt;</td>
+<td style="text-align: left;">23</td>
+<td style="text-align: left;">9</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">[24,26&gt;</td>
+<td style="text-align: left;">25</td>
+<td style="text-align: left;">1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">[26,28&gt;</td>
+<td style="text-align: left;">27</td>
+<td style="text-align: left;">10</td>
+</tr>
+</tbody>
+</table>
+<p>In welke klasse valt de mediaan?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+[18,20&gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+[18,20&gt;: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+[20,22&gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+[20,22&gt;: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+[22,24&gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+[22,24&gt;: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+[26,28&gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+[26,28&gt;: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

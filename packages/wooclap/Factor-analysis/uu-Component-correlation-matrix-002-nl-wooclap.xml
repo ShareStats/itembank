@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Component-correlation-matrix-002-nl-wooclap/Factor analysis/Compontent correlation matrix</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Factor-analysis_uu-Component-correlation-matrix-002-nl_uu-Component-correlation-matrix-002-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Op de testscores van vijf persoonlijkheidstests (X1 tot en met X5) uit een testbatterij is een hogere orde factoranalyse uitgevoerd. Hieronder de factorladingen voor de ongeroteerde twee-factoroplossing.</p>
+<p><img src="uu-Compontent-correlation-matrix-002-nl-tabel.jpg" /></p>
+<p>Beoordeel, op basis van deze resultaten, de volgende twee uitspraken.</p>
+<p>I. Factor 2 verklaart meer dan 10% van de totale variantie van de testbatterij met vijf persoonlijkheidstests.
+II. Persoonlijkheidstest 4 is het minst indicatief voor een inhoudelijke interpretatie van factor 2.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Uitleg: Stelling 1: Deze vraag betreft de verklaarde variantie van de factor. Om die te berekenen, dient eerst de eigenwaarde van de factor bepaald te worden. Om deze te berekenen kwadrateren we de factorladingen van de items op factor 2, en tellen deze op:
+<span class="math inline">\((-.19)^2+(-.33)^2+ (.60)^2+(-.07)^2+(.58^2)\)</span>= .036 +.109 +.360 +.005 + .336= .846
+Dit wordt vervolgens door het aantal items gedeeld om de verklaarde variantie te krijgen:
+.846/5= .169
+Er wordt dus liefst 17% van de totale variantie verklaard door factor 2.</p>
+<p>Stelling 2: Deze vraag betreft de factorlading van de items. Het item met de laagste absolute factorlading, is het minst indicatief voor een inhoudelijke interpretatie van de factor. Immers, deze laadt het slechtst op de factor. Omgekeerd: het item met de hoogste lading is het best te gebruiken als interpretatie. Item X4 laadt het laagst, met een absolute factorlading van .07.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+I is juist, II is juist
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is juist, II is niet juist
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is niet juist, II is juist
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is niet juist, II is niet juist
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

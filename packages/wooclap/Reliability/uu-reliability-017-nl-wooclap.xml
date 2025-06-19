@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-reliability-017-nl-wooclap/Reliability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_uu-reliability-017-nl_uu-reliability-017-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In vedisch onderwijs speelt transcendente meditatie een belangrijke rol. Door meditatietechnieken wordt het bewustzijn van leerlingen uitgebreid. In een vragenlijstonderzoek naar het effect van de meditatie op het bewustzijn wordt een bestaande test met zes items en een betrouwbaarheid rxx’ = .50 verlengd met drie gelijkwaardige items.</p>
+<p>Hoe groot schat je de betrouwbaarheid van de verlengde test V voor bewustzijn?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Uitleg: De nieuwe test is 9 items lang (6+3=9). De verlengingsfactor is 1.5 (9/6=1.5). De betrouwbaarheid van deze velengde test wordt uitgerekend met de volgende formule:</p>
+<p>$r_{xx’} =  $</p>
+<p>Invullen geeft:</p>
+<p>$r_{xx’} =  =  =  = 0.60 $</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+rvv’is ongeveer .50
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+rvv’is ongeveer .60
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+rvv’is ongeveer .70
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+rvv’is ongeveer .75
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

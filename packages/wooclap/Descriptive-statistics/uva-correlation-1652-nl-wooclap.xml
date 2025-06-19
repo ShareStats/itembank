@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-correlation-1652-nl-wooclap/Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-correlation-1652-nl_uva-correlation-1652-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Hieronder is van 5 individuen aangegeven hoe zij t.o.v. elkaar
+gerangschikt zijn op autoritair gedrag en sociale status:<br />
+Autoritair gedrag: 1, 4, 2, 5, 3<br />
+Sociale status: 5, 2, 3, 4, 1. De waarde van de Spearman
+correlatiecoëfficiënt is hier</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+-0.326
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+-0.326: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+-0.3
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+-0.3: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+-0.2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+-0.2: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.3
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.3: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

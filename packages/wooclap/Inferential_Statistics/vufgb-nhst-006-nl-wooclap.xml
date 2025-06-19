@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-nhst-006-nl-wooclap/Inferential Statistics/NHST, Inferential Statistics/NHST/Hypothesis/Null hypothesis, Inferential Statistics/NHST/Hypothesis/Alternative hypothesis, Inferential Statistics/NHST/Statistical errors/Type I error, Inferential Statistics/NHST/Power, Descriptive statistics/Data representation/Graphs/Histogram</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-nhst-006-nl_vufgb-nhst-006-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In het onderstaande figuur wordt de verdeling van het steekproeven-gemiddelde onder
+twee hypothesen gegeven. De kritieke grens voor de resulterende toets is ook getekend.</p>
+<p>Wat kan er worden geconcludeerd aangaande de Type I fout en de power van de toets in kwestie?</p>
+<p><img src="@@PLUGINFILE@@/vufgb-nhst-006-nl-histogram01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-nhst-006-nl-histogram01.jpg" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAZ0AAADzCAYAAABdVss8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAABZUSURBVHhe7d1PiBzVosfxxo0LwQQXIhpMQETQRbKMC0m4iC4ThmQpE9SNzH0kwYVKCAlhEN+9402QvAfXjEkQZi4Gxoy5zFyITDIo9tznhc4Tw2QRnESymAsSBsxiFm9xXv9O1amq7q6emZ6pPl1/vh84GKurq6tqqs6vzqnT1TUDAIAnhA4AwBtCBwDgDaEDAPCG0AEAeEPoAAC8IXQAAN4QOgAAbwgdAIA3hA4AwBtCBwDgDaEDAPCG0AEAeEPoAAC8IXQAAN4QOgAAbwgdAIA3hA4AwBtCBwDgDaEDAPCG0AEAeEPoAAC8IXQAAN4QOsDA1c3omXr4b6DcCB3k1vLkkKnVakE5PGGWw+lrWhjd+Lw9qp+pmaHJ5WC9MgyJeHnN8KkNmYkHwXSgjAgd5JPCozbarIYDqvCTFfPQ4SCMFALR620BFYdWuJwHE2YonMe9T2yYHA7nDd/rAsZ9noKgJXSa8wfL0rKXzURzfUYX7NJa529bbvB6sA7x9gT/PzT599Rt69iOpmh7Xfglti1YDyCfCB3kUlzph6IWTFBJ24rVTbMVblDRB4HgpgWVdLSsxHxJtgJva2nEn985LfqMRNjYaVpGoqUVLzeeL2250Xu7blvbdkTvdf9NhF7i84E8InSQS3EFG2oJnaCyTquYW6eFrQEVVerJ+RLSgmCtaXFIJCp7Lbv5ufXma269k9ugf48uJFtEblp76KRtW9t2hO8NpsWhE82Tso1AXhA6yCdVuonK01ay3SrmxLSoFZIImKjy30zo2Pe0TksNnfDfQQjo/4P52+dL+6z1Q6dtO+x88bSWMIv2CZBPhA5yy1bG7uo9qkhTKuYu89pKP/neHkInCL3w/eE0N1966ITrkKjw7fzt93TsOoTLtctoCj/L3dNp37aO7WiKtzfcnmh9w/cDOUXoABmJwygQhxkAh9ABMhC0RlpbGYQO0InQAQB4Q+gAALwhdAAA3hA6AABvCB0AgDeEDgDAG0IHAOANoQMA8IbQAQB4Q+gAALwhdAAA3hA6AABvCB0AgDeEDtDF6dOnbQGQHUIH1bayaGauzJj6nZVwQqzqoXPv3j0zPz9vzp07Z/fDkSNHzP79+1PL0aNH7TzT09P2PSsrnfsTEEIHldaYnTGLC3Wz9H294xdFb9++bUtVKCwUHAoR/Qrpzp07zb59+2ygnDp1yly6dMncvHkztZw9e9bOc+DAAfsevX/Pnj02qC5fvmwDDBBCB5W2+vOUGT15woxONsxqOK0q1BpRIBw8eNCGhMJCwXH16tVMWiq3bt2yYTQ8PGy2bdtmQ+jYsWN2OqqL0EFlrf48Y8Y/bgbOf4+bsY/GzWI43SlrS0ddYC5o1DJRC8ZHd5jCRq0mtaB27dplu+1oAVUPoYNKa1ybMvpB6ZXZOdMIJkXKdE9Hlbu2RZX97t27vQVNNwog1wJSAKqLDtVA6KDSVu79ZP55oxk4Sp42ZQgdhY3uq6hyVyWft64tBZ8CUK0fdb+puw/lRuig0hYvnjBjF8fN+MW6bfGURTJsdJ9mkK2ajVJrR/eV1BojfMqL0EGlrd6aMuc/b4bOn6Y67ukUURHDph3hU26EDiqtfmPODpdeWqh33NO5cuWKLUWgcCl62LRLhg/3fMqD0EG1/bZolu42zMSXDdNeTRflno7Wcfv27aUJm3YKHN3z0feHGG5dfIQOKm159rw58fGoGU0ZMp330NH3adQK0LDnKgw91nd+1JJTi66M4VoVhA4qrXF9xixenzOLNzqfSJBXChhd9Wvoc9W6nRQ2+q6PWnb6ng+Kh9BBpS3948/mwt++Nd/+T/7HrqnCVctLV/u66q8ydbPpfo+GWdPlViyEDqptuWHmvh43Y3+aMUvhJCdP3Wtq0biuNLqWYvqOj0JYj9dhvxQDoYNqU+hcmzDnP5vr+J5OHkJHFam+sa8b6YzgSue63BTKus+FfCN0UGlL18+bqdmGWXoUTkgY9JBp3bMo86i0rCmUdZ9LIV2FgRVFRegAOeMGCuieBfcreqeQZqBBfhE6qLTVuzNm7LMJ29pp/2mDQTxlmoEC2VBwK7T5bk/+EDqotIaGS3f5ETef93RUMWoklipKuoay477bM+h7c4gROqi25Xlz4T//bC58++9wQsxH6OhejUZeqWLkJnh/KMQ16k+hzmCMwSN0UGmNyXGz2Kz4V1b8/26oGwatnxxgoED/KdQZXj14hA4qS78cev6k/582UIXHMOjB0L5nePVgETqotnsNs/hoxTRuLHYMJOjHkGk9qp9h0IOnsFfoM7zaP0IHlaaBBDZs+jyQwA2D1vdIGE2VHwyv9o/QQbUtz5vLf/3M/Nc/OlsdWYSOWjNaBsOg88sNr+Y5bn4QOqi0xrUpU/+6Wa53/ojbViV/eoCutPzjOW5+EDqotJV/TZixr+umfqXz2Wub5brSGChQPG6gAV1u/UPooLJWf1409e81ci199Fqv3Wt0pZWHutlclxsXDtkidFBd/7dqGjfmzFIzLJZn5zq613oJHfdwTr5zUy7qImWUW7YIHVTXoxXzz5lvzP/ev2/u3+8Mio0MmXb3bXg4Z7lplBv3e7JB6KC6VlfNnRvXzf1mJdLrEwnU5cJ9m2pR2KglqxatWsCEz+YQOqi0pdnzXe/ppEmGjUY7oXrUzUb4bB6hg8pauT5l6vrxtkeLZuovU2v+XDVhg3aEz+YQOqiwVdO4OGJGLy6atOpCFYkqFcIGa0mGD483Wh+hg8rSAz/HL46ZEx+NtXSvqdLQM9Kee+4589JLLxE22BAXPhpwcOTIEUa7dUHoACFVEhqdpCtWPUWAAQLYDF20qMWj1rFaybqAQYzQQeWpUlDloCtUfRvdXaEO4ueqUS5qJWs4vS5kdEFD64fQQUWpFaMuEFUGqhTSutCSAwmArVDY6IJGFzZ6yoEudKp674fQQWXMz8/bq019mVM/MaBH1ax15UnooB/0hWJ370dPOqhaABE6KC2dyNPT01GLRkGjvna6ODbrc/N6rWae/eNI+N+fwunYDB2fyQBSC0iPUyr7ky0IHZSKWjNqnegErjUrRg0IWK9Fgw36ccSMXDDmp2bofG4nrJrG1+NmYoEhwllQAKkLTgMQ1BpXGKkVVLZjl9BBYelkVEtGXWYaCKCQ0f0ZnbhZjDzrx89VF1vQ0qn94fWgpfPWX8zUXWOWr0xl/ltEVadjWxdLCh4XQmqxqyWkC6siI3RQCDrRdNWnVowCRt1lOhnVklGXWT+GN3NPZx3/mjJTD5rtnetzHT/1jWwphDTYRRdUurDSBZZa8woiHaM6P4rSIiJ0kAvq39aJ47rHXOtFV3g6wXQ/Rld9LmB83HgldNaxWjcTX86Zqcm51Cc6oL90HiSDSPeFdK7ovNEABR27ulDTOZWn+0SEDvpGV14uSFyYuKITIxkqrmtMRcGirgWdVEW5egPywoWRziNdqOmcUq+AO8/cuedaSclwcqWfMg2dX3/9ldJW3H2BIpRPP/3UHD9+fN3y6quvphZ3ULuix8js3bs3Kmq9uPLVV1/Z8sMPP6TuN0q+y+zsrFlYWEh9jZLv4s69sbGx6Hw8dOhQy7nqzuHx8fGwds9OpqFz584d8/zzz/dcnnjiiZbKqkzl8ccfL0zR30FN9PXK008/nVp27NiR+vctanHbm/Za1ctjjz1mnnrqqdTXKOUp33zzTVi7Z4fuNaAL1/WATq+99pr57rvvwv8DNo7QAbp4+PChLehE6GCzCB0APSN0sFmEDoCeETrYLEIHQM9++eUXW4BeEToAAG8IHQCAN4QOAMAbQgcA4A2hAwDwhtABAHhD6AAAvCF0AADeEDoAAG8IHQCAN4QOAMAbQgcA4A2hAwDwhtABAHhD6AAAvCF0AADeEDoAAG8IHQCAN4QOAMAbQgcA4A2hAwDwhtABAHhD6AAAvCF0gA2anJw04+PjLeWLL74IXwWwEYQOsEHHjx8377zzTkt59913w1cBbAShA/Rg6csTZvyu/ZeZOD5mGqt2MoANInSAngRhMzXZLPfCSQA2jNABerR6/X1T+48ZQyMH6B2hA/TiUd2Mfjxnlq69b0a/J3aAXhE6wIatmJmPRk39kf69aupn3jczv9kXAGwQoQMA8IbQAQB4Q+gAALwhdAAA3hA6AABvCB0AgDeEDgDAG0IHAOANoQMA8IbQAQB4Q+gAALwhdAAA3hA6AABvCB0AgDeEDgDAG0IHAOANoQMA8IbQAQB4Q+gAALwhdAAA3hA6AABvCB0AgDeEDgDAG0IHJVU3o2fq4b+zkPXy+qEI64iqI3SQueXJIVOr1YJyeMIsh9PXtDC68Xm7eTBhhmqjzao3XIcMK+B4ec2KvTZkJh4E07eiCOsIZI3QQbYUHmHFL/UzzeBJVIRDh4MwGpoM4sW+3h5QNjyCaaMLrf/v3me1T49CR58VT49DMBFI9v+bFfOPek+8XvbzmuL1al/e3xMVeuvnJIOzNQAS8yTYeQ43P9u+rs9ZNhPN9QjWIdhf+hyty1BzPrs+UTDHy+38nGAd2/d1+36QaDtd+LXveyBjhA4yZSvIZOUaVcRBpWgrMjfNVnBBxRpUwJovUfGmzJdUP5N4ryrNKHTSp7l1iz+rqX0d3HuiirzttcS0aFujz3CvxdvQOU8sXo94/uhzEgFmg8F+dspyu65j2j5s3Q/xezvXO/n5QJYIHWQqrtBCUeUVV45pFWE8X1DxBVfkKs3XUypsy04P51Nlm5ivJUCiZQXzxZWzW0bbe5psRW/fk1ahB9PieeL57PafGY2WmTaPEy8zUdlrfZr7od58ze3H5D7Vv0cXEvNH09LXsXVfJ9YldTtT9r2dC8gOoYNsqZJLVFa2UutWESam2QozETrdrtJjmi/xXn1GWoAkprnKO66cm9Leo89tW+f4Pa2hY8MguX52+902d5knFC8zGSKu4g/3VVO8D+P5ouWus45p+7D1vfG0ljCL/kZAtggdZM5Wfu5qOaq4UirCbvO6itvNn1Jhi62M7ft0/6K1YnXLUOUaz5f4zDAUUkPHTgs+X/dFokrYLi9xTyeazwWGaDsT/586TyBej2TohNOj/RZsZ8c9ncRyo21JW8fEvm7fDxLv/9b91t4qA7JC6AA50xKKTTZ0bMsEKD5CB8iRoDXS2sogdFAmhA4AwBtCBwDgDaEDAPCG0AEAeEPoAAC8IXQAAN4QOgAAbwgdAIA3hA4AwBtCBwDgDaEDAPCG0AEAeEPoAF3cunXLFgDZIXQwUKrU5+fnO0oenD592hYA2SF00HcKlsuXL9sKfP/+/WbXrl3hD4XVzO7du82+ffs6int9z5499j167/T0tLl371641P4jdIDsETrInIJBIXPkyBGzfft2s3PnTnPgwAFz6tQpc/PmzZ6CQ4Gl9+i9WoaWpWVq2fqMlZWVcE4ARUDoIBOq/BUCapVs27bNDA8Pm0uXLvWlZaJlatkKIbWGDh48SAABBUHoYEvUClGl74Lm6tWr4Sv+6DMVQK4FpHXKAt1rQPYIHfTMtWp0b0bdXWp15KGVoXU4e/asXSfdC9I6bgWhA2SP0MGGqVJXJawWhVo1WbUo+kHrpgEJWlet82ZC8cqVK7YAyA6hg3W1h43PEWRbpXXVOm8lfABkh9DBmooaNu2S4XPu3LlwKgDfCB2kcvdsdIO+yGHTTtuibjdt23qDHhS4KgCyQ+ighe6F6Ca8KuY837PZKm2bvpiqId7dHnVD6ADZI3RgqQWg4cZuNFpVaFs13PvYsWMd93tu375tC4DsEDqw9zh0r0Pf+q/ijXZt89GjR7nfA3hA6FRYsiutTPdtNkvdbNoXrsuNlg6QPUKngnRlr+4kdSsN4gkCeee63Pbu3Ws+/PDDcCqALBA6FaOQUTeSupP4zkp32jcaaKB9VeYBFYBvhE5FqPtM3UaqSKlEN077SoMr9Hw5QhrYOkKnApIDBdA7hY32nfbhVp/nBlQdoVNiuhmu1g0DBTan/dlr2p/uuz3sT2BzCJ2S0pcadTNcT13G5nT7cqh7kjVfHAV6R+iUjBsGrcfXcA9ia7qFjqiloxak9nW3JxoA6ETolIQChmHQ/rnh1QonQh5YH6FTAgoZPcCSYdCDoX2ulqX+BowMBNZG6BSYung0lJdh0P2xVvdaGoZXA+sjdAqKYdD912voiMLGDa/mOW5AJ0KnYNxAAYZB999Wfq66/TluAAKETkHoCtr99AADBYpjrZ9OAKqI0CkAdfG4rjQqLn+yesq0/mbupxN4ogGqjtDJMXWlaUQUXWmDsZl7OmtxXW7qHmXgB6qK0MkhVU66F6CuNCqnwck6dBx1j7pRblxMoGoInRxRBaT7NroHUKWfjK4qdZfqb62/OeGDqiB0ciAZNty3qRb9rfU3d89y42+PsiN0BkgVjHt0DWGTP1sZMt0rXXgMDw/bwQaED8qM0BkA17Kp1WqETY71657OWtrDh243lA2h45EGCNCNVhyDCB3HhQ/3fFA2hI4H+m6GG41G2KAXOlZ0zCh8dAxNT0+HrwDFROj0ia5MdZXsvmfDaDRslY4hPdxVx5Se68bFC4qI0MmYWjX6/oWuTNU9wnO3imuQ3Wtr0THlut50rNH6QZEQOhnQSa9+d938pVVTHnkNHUctHR1rOuZ07GkkJBc5yDtCZ5OSQaMuD/1uPjd7e/TjiHm2VjOv/zH874Vwek74HDK9VTr2dAzqWNQxqWOTFhDyiNDZIF1Bqh9d3Rka6qxfiiRotujCiBn50ZjPm6HzUzgJW5cMIB2rOmbV7cuxijwgdLpQyOhEVd+5btxq5Jn+redmcQM3I2FL59k/vB63dH6rm7lbq8Hr2DLXBadjV8ewjmW1gnRs0xWHQSB0mnQFqK4I9d9rWKq6J1zI6ITlCtGfpWtTZmJ2zuQh1vN+T2czdCwnQ0jHuo55bafOAY519FulQkdXdvPz8/YE09WeTjZ1P+jkU3eZvg+hpzrTkhmUhhk/OW7mPjthxu+GkwaojKHTTse6Wu869jUgIRlEGpig7dc5QxghK6UJHZ08OjlUdO8lGSzqUnDhohNLP6ilPm8CJmduTZgpGzZLZmqyYScNUlY/4lY0Oid0bugc0bniwkjnkM4lnVOarnNM55o774CNyFXouIM3WdT37K44k0Hiik4EFX1nQSeHiroOdOWmbgSdPFylAdlQb4ELJJ1jOtfceefORZXkOepaTK7onE4711ENmYbOw4cP7QHWa3nhhRfsgbpjx46O8vLLL5u9e/dG5Y033jCHDh2KStryKMUrzzzzjL2KTnttUOWtt96yJe01Svfy3nvvtZyjCqTkOaxzOu1cT4ZWWnnyySdT37eVoronuW6U1jI7OxvW7tnJNHR+//13ewVEofRaXnzxRfPKK6+kvjao8uabb9qS9hrFfzl58qQZGRnJtLz99tvR35nSWebm5sLaPTuVGkiA/Prggw/MJ598Ev5fPly8eNEWANkhdJALeQwdANkjdJALhA5QDYQOcoHQAaqB0AEAeEPoAAC8IXQAAN4QOgAAbwgdAIA3hA4AwBtCBwDgDaEDAPCG0AEAeEPoAAC8IXQAAN4QOgAAbwgdAIA3hA4AwBtCBwDgDaEDAPCG0AEAeEPoAAA8Meb/Ab+eyXtP+YBDAAAAAElFTkSuQmCC</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De kans op een Type I fout is 95%, de power is 20%.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De kans op een Type I fout is 95%, de power is 80%.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De kans op een Type I fout is 5%, de power is 20%.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De kans op een Type I fout is 5%, de power is 80%.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

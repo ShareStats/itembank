@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-t-statistic-801-nl-wooclap/Inferential Statistics/NHST/Test statistic/t-statistic</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-t-statistic-801-nl_uu-t-statistic-801-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In onderzoek naar tweelingen wordt vaak onderscheid gemaakt tussen eeneiige en twee-eiige tweelingen. Een vragenlijst (met 5-punt Likert schaal) wordt gebruikt om sociaalgedrag van eeneiige tweelingen te onderzoeken. Is er een verschil tussen de oudste (eerstgeboren) tweeling en de jongste? Tien tweelingparen doen mee met dit onderzoekje. De oudste tweelingen hadden een gemiddelde testscore van 3.6 en de jongste tweelingen hadden een gemiddelde van 3.3, voor een gemiddeld verschil van MD = 0.3. De SS voor de verschilscores was 3.43.</p>
+<p>Is er een significant verschil tussen de oudste en jongste tweelingen bij <span class="math inline">\(\alpha\)</span> = 0.10?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Het verschil tussen de oudste en jongste tweelingen is niet significant want t&lt;tkritiek=1.883</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ja, want t &gt; tkritiek = 1.383
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit is incorrect.Heb je wel de goede kritieke waarde?
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Nee, want t &lt; tkritiek = 1.883
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Juist!
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nee, want t &lt; tkritiek = 1.383
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit is incorrect.Heb je wel de goede kritieke waarde?
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ja, want t &gt; tkritiek = 1.883
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

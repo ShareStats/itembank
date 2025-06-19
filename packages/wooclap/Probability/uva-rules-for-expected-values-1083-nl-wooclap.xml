@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-rules-for-expected-values-1083-nl-wooclap/Probability/Elementary Probability/Random variables/Rules for expected values</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-rules-for-expected-values-1083-nl_uva-rules-for-expected-values-1083-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Gooi een zuivere dobbelsteen op. Definieer de volgende gebeurtenissen:<br />
+<br />
+A = het aantal ogen dat na het werpen boven ligt is kleiner dan 4,<br />
+B = het aantal ogen dat na het werpen boven ligt is even.<br />
+<br />
+Wat is dan de kans op P(A en B)?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1/2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/2: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1/3
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/3: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1/4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/4: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1/6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/6: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

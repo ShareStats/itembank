@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-normal-1363-nl-wooclap/Distributions/Continuous/Normal</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-normal-1363-nl_uva-normal-1363-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een toelatingsexamen heeft scores die bij benadering normaal verdeeld
+zijn bij een gemiddelde van 500 en een standaarddeviatie van 100. Als je
+40 scores aselect kiest, wat is dan de distributie van het gemiddelde
+van deze steekproef?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het is een normale verdeling met een gemiddelde van 20 en standaardfout van 2,5.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Het is een normale verdeling met een gemiddelde van 20 en standaardfout van 2,5.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het is een normale verdeling met een gemiddelde van 250 en standaardfout van 50.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Het is een normale verdeling met een gemiddelde van 250 en standaardfout van 50.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het is een normale verdeling met een gemiddelde van 500 en standaardfout van 2,5.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Het is een normale verdeling met een gemiddelde van 500 en standaardfout van 2,5.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Het is een normale verdeling met een gemiddelde van 500 en standaardfout van 15,8.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Het is een normale verdeling met een gemiddelde van 500 en standaardfout van 15,8.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

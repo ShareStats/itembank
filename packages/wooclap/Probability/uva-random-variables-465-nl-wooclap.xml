@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-random-variables-465-nl-wooclap/Probability/Elementary Probability/Random variables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-random-variables-465-nl_uva-random-variables-465-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Van 400 echtparen is het opleidingsniveau (1=laag, 2=middel, 3=hoog) van
+man en vrouw bepaald en in de onderstaande kruistabel weergegeven.</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Frequenties</td>
+<td></td>
+<td style="text-align: left;">Opleidingsniveau vrouw</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td></td>
+<td style="text-align: left;">1</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Opleidingsniveau man</td>
+<td>1</td>
+<td style="text-align: left;">75</td>
+<td>52</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td>2</td>
+<td style="text-align: left;">49</td>
+<td>63</td>
+<td>12</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td>3</td>
+<td style="text-align: left;">12</td>
+<td>45</td>
+<td>89</td>
+</tr>
+</tbody>
+</table>
+<p>Hoe groot is in deze steekproef de kans dat het opleidingsniveau van de
+vrouw 'middel' is, wanneer gegeven is dat haar man laag opgeleid is?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.13
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.13: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.33
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.33: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.36
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.36: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.4: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

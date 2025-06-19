@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-119-en-wooclap/Inferential Statistics/Parametric Techniques/ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-119-en_eur-inferential_statistics-119-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Read the following statements:
+<em>Statement I:</em>
+Overall, between-subjects designs require more participants than within- subjects designs.</p>
+<p><em>Statement II:</em>
+A single-factor experimental design (i.e., with one independent variable) must include at least two conditions.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Within-subjects designs require less participants than between subjects-designs, because differences between individuals matters less in the former design. Furthermore, if we only have one independent variable, it must consist of at least 2 conditions that will be compared to each other.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Both statements are true
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This is the correct answer!
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is true, II is false
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is false, I is true
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Both are false
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

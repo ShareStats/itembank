@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-reliability-206-nl-wooclap/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_eur-reliability-206-nl_eur-reliability-206-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Studenten die het examen (X1) sociale psychologie op de UVA niet hebben gehaald moeten een herkansing (X2) doen. Deze herkansing vindt twee weken na het eerste examen plaats. Het criterium om de grens te halen is gelijk voor beide examens. De betrouwbaarheid van het examen is 1 en de betrouwbaarheid van de herkansing is 0. Stel dat de studenten die de herkansing moeten doen, deze herkansing niet voorbereiden. Hun true scores zijn dus hetzelfde voor de eerste toets en de herkansing. Neem aan dat in de populatie 30% van de studenten een true score heeft boven het criterium. Neem verder aan dat wanneer studenten op alle vragen gokken zij een kans hebben van 50% om de toets te halen. Hoe groot is de kans dat een student die de herkansing moet doen, een true score heeft
+boven het criterium, dus 𝑝(𝜏 ≥ 𝑐𝑟𝑖𝑡|𝑋2 = 1)?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The answer is 0. The reliability of the first exam is 1, so everybody with a true score equal to or higher than the criterion, passes the first exam and will not take the retest. Everybody who takes the retest therefore, has a true score below the criterion.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+.3
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+.5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Goed
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

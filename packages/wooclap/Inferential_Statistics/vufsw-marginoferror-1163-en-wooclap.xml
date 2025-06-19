@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-marginoferror-1163-en-wooclap/inferential statistics/confidence intervals/margin of error</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-marginoferror-1163-en_vufsw-marginoferror-1163-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Two Dutch language tests were submitted to 20 respondents: the first
+measurement took place prior to listening to the King’s Song, the second
+measurement after they had listened to this song attentively. The
+researcher wanted to know if your Dutch knowledge deteriorates if you
+listened to the song. He always noted the number of language mistakes
+made by the respondents. Below are the results.<br />
+ </p>
+<table class="tvcss_2 tvcss_3">
+<tbody>
+<tr class="odd">
+<td>
+N                       
+</td>
+<td class="tvcss_4">
+mean number of mistakes (measurement 1)
+</td>
+<td class="tvcss_5">
+mean number of mistakes (measurement 2)
+</td>
+<td class="tvcss_6">
+mean difference
+</td>
+<td class="tvcss_7">
+standard error (se) of the mean difference
+score
+</td>
+</tr>
+<tr class="even">
+<td>
+20
+</td>
+<td class="tvcss_4">
+30.45
+</td>
+<td class="tvcss_5">
+34.20
+</td>
+<td class="tvcss_6">
+-3.75
+</td>
+<td class="tvcss_7">
+0.88
+</td>
+</tr>
+</tbody>
+</table>
+<p>What is the margin of error of the 95% confidence interval of the mean
+difference score?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Margin of error = Critical value x Standard deviation for the
+population.<br />
+Margin of error = Critical value x Standard error of the sample.</p>
+<p>the standard error of the sample is given:0.88<br />
+The critical value (df(19)=2.09<br />
+Margin of error=0.88*2.09=1.84</p>
+<p>Language<br />
+Nederlands</p>
+<p>Levels of Difficulty<br />
+Difficult</p>
+<p>M&amp;T BIS<br />
+Default value</p>
+<p>M&amp;T Distributions<br />
+Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.84
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.75
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.41
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.09
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

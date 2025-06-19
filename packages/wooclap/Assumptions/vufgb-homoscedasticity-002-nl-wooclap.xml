@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-homoscedasticity-002-nl-wooclap/Assumptions/Homoscedasticity, Assumptions/Homoscedasticity/Residual plot, Assumptions</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Assumptions_vufgb-homoscedasticity-002-nl_vufgb-homoscedasticity-002-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Bekijk onderstaande residuenplot. Welke aanname van het algemene lineaire model
+wordt hier geschonden?</p>
+<p><img src="@@PLUGINFILE@@/vufgb-homoscedasticity-002-nl-graph01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-homoscedasticity-002-nl-graph01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Homogeniteit van regressie
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Sfericiteit
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Normaliteit
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Homoscedasticiteit
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-mediation-0268-nl-wooclap/inferential statistics/regression/multiple linear regression/mediation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-mediation-0268-nl_vufsw-mediation-0268-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In welke van de onderstaande onderzoeksdesigns is er sprake van een
+mogelijk mediatie-effect?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Hier heb je een design waar 2 losse effecten op de afhankelijke Y (inkomen van het kind) zijn getoetst: het effect van de onafhankelijke X<sub>1</sub> (opleidingsniveau van de ouders) en de onafhankelijke X<sub>2</sub> (socioeconomische status van de grootouders).</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Een onderzoek waarin bestudeerd wordt of het effect van opleidingsniveau van de ouders op het inkomen van het kind verdwijnt als rekening gehouden wordt met het opleidingsniveau
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Een onderzoek waarin bestudeerd wordt of het effect van opleidingsniveau van de ouders op het inkomen van het kind verdwijnt als rekening gehouden wordt met de socio-economische status van de grootouders
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Een onderzoek waarin bestudeerd wordt of het effect van opleidingsniveau van de ouders op het inkomen van het kind verschilt tussen jongens en meisjes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Een onderzoekt waarin bestudeerd wordt of zowel het opleidingsniveau van de ouders als de socio-economische status van de grootouders een effect hebben op het inkomen van het kind
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

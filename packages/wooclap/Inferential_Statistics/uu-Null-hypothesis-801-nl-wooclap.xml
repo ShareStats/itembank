@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Null-hypothesis-801-nl-wooclap/Inferential Statistics/NHST/Hypothesis/Null hypothesis</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Null-hypothesis-801-nl_uu-Null-hypothesis-801-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een arbeids- en organisatiepsychologe is geïnteresseerd in de relatie tussen de mate van binding met het bedrijf (intervalschaal) en het aantal dagen ziekte in een jaar. In een aselecte steekproef van 30 werknemers vindt zij een correlatie van <span class="math inline">\(r = .37\)</span>.</p>
+<p>Wat is de nulhypothese wanneer de aanwezigheid van een correlatie getoetst wordt?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Een hypothese is een statement over de waarde in de populatie (<span class="math inline">\(\rho\)</span>). In een nulhypothese staat altijd dat er géén correlatie is: (<span class="math inline">\(\rho=0\)</span>).</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(H_0: r = 0\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Een hypothese is een statement over de waarde in de populatie en niet in de steekproef.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(H_0: r &gt; 0\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Een hypothese is een statement over de waarde in de populatie en niet in de steekproef.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(H_0: \rho = 0\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit is de juiste nulhypothese.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(H_0: \rho &gt; 0\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+In een nulhypothese staat altijd dat er géén correlatie is.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

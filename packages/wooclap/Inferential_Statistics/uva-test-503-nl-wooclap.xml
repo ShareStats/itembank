@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-test-503-nl-wooclap/Inferential Statistics/Parametric Techniques/t-test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-test-503-nl_uva-test-503-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Hieronder is van 5 individuen aangegeven hoe zij t.o.v. elkaar
+gerangschikt zijn op autoritair gedrag en sociale status:<br />
+Autoritair gedrag: 3, 1, 4, 2, 5<br />
+Sociale status: 2, 1, 5, 3, 4. De kritieke waarden die behoren bij
+toetsing (5% tweezijdig) of deze correlatiecoëfficiënt in de populatie
+gelijk is aan 0, zijn gelijk aan</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
++/- 0.7545
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
++/- 0.7545: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
++/- 0.8000
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
++/- 0.8000: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
++/- 0.8783
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
++/- 0.8783: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
++/- 0.9000
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
++/- 0.9000: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

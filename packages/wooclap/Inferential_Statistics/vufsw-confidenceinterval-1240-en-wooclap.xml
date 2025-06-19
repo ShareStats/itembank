@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-confidenceinterval-1240-en-wooclap/inferential statistics/regression/confidence interval</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-confidenceinterval-1240-en_vufsw-confidenceinterval-1240-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Ten students have been randomly selected. It is checked whether the
+number of times per week that they go out (X) is related to their
+physical health (Y). The regression results are below. Use the results
+to find the 95% confidence interval around the slope that is found in
+the sample.</p>
+<p>The regression formula is Y = 3.58 + 0.09x with 8 degrees of freedom</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td>
+Predictor
+</td>
+<td>
+<em> b </em> (Coef)
+</td>
+<td>
+SE<em><sub>b</sub></em>
+</td>
+<td>
+t
+</td>
+<td>
+p
+</td>
+</tr>
+<tr class="even">
+<td>
+Constant
+</td>
+<td>
+3.58
+</td>
+<td>
+.09
+</td>
+<td>
+45.85
+</td>
+<td>
+.00
+</td>
+</tr>
+<tr class="odd">
+<td>
+go out
+</td>
+<td>
+.09
+</td>
+<td>
+.02
+</td>
+<td>
+4.50
+</td>
+<td>
+.00
+</td>
+</tr>
+</tbody>
+</table>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>You can calculate this with the following formula: CI for B
++/-<em> t(se)</em><br />
+The t value is 2.306 (see table: <em>t</em> Distribution Critical Values).</p>
+<p>Thus: 0.09 +/- 2.306 * 0.02 = (0.04; 0.14)</p>
+<p>M&amp;T Bivariate linear regression<br />
+Bivariate linear regression</p>
+<p>M&amp;T Multivariate linear regression<br />
+Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+(-0.45; 0.51)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+(0.04; 0.14)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+(0.07; 0.11)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+(3.40; 3.77)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-probability-002-en-wooclap/Probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uu-probability-002-en_uu-probability-002-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>You are conducting a survey at a hospital with 300 nurses, 50 technical staff members and 150 doctors. Each of these 500 individuals has a single listing in the hospital phone directory. Suppose you were to cut up the directory and pull out one listing at random to contact. What is the probability it would be a technical staff member?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect. Not all listings are of technical staff members.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(0.01\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(0.10\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is correct. <span class="math inline">\(P(T)=\frac{50}{500}=0.10\)</span>.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(10\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect. A probability cannot exceed 1.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

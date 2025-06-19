@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-correlation-005-nl-wooclap/Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_vufgb-correlation-005-nl_vufgb-correlation-005-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In het onderstaande figuur is het verband tussen x en y weergegeven.</p>
+<p><img src="@@PLUGINFILE@@/vufgb-correlation-005-nl-graph01.jpg" /></p>
+<p>Wat is de correlatie tussen x en y?</p>
+</p>]]></text>
+<file name="vufgb-correlation-005-nl-graph01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+-1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+-0.8
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.8
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-multilevel-analysis-800-nl-wooclap/Inferential Statistics/Multilevel Analysis</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-multilevel-analysis-800-nl_uu-multilevel-analysis-800-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Stel je bent als onderwijskundig onderzoeker geïnteresseerd in het effect van Kanjertraining op de afname van pestgedrag. Je voert hiervoor een experiment uit waarbij er op een vijftal scholen de Kanjertraining wordt aangeboden in 50 klassen. Daarnaast heb je gegevens verzameld bij vijf controlescholen met in totaal 35 klassen. Op de controlescholen wordt in geen van de klassen de Kanjertraining aangeboden. Het totaal aantal leerlingen dat bij het onderzoek is betrokken bedraagt ongeveer 1500. Bij de leerlingen zijn vragenlijsten afgenomen die de afname van pestgedrag meet op een interval schaal.</p>
+<p>Welke analysetechniek is het meest geschikt voor het beoordelen van het effect van de Kanjertraining op de afname van pestgedrag?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Meerweg ANOVA met pestgedrag als afhankelijke variabele.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Meerweg ANCOVA met pestgedrag als factor.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Mixed designanalyse met pestgedrag als factor.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Multilevel analyse met pestgedrag als afhankelijke variabele.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

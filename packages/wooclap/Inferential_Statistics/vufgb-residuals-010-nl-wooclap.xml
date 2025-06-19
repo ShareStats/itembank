@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-residuals-010-nl-wooclap/Inferential Statistics/Regression/Residuals, Inferential Statistics/Regression/Equation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-residuals-010-nl_vufgb-residuals-010-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>De scores op <em>x</em> en <em>y</em> van vijf proefpersonen staan in onderstaande tabel. De geschatte regressielijn is <span class="math inline">\(\hat{y} = 2+0.8x\)</span>. Voor welke proefpersoon heeft het residu <span class="math inline">\(y-\hat{y}\)</span> de kleinste absolute waarde?</p>
+<p><img src="@@PLUGINFILE@@/vufgb-residuals-010-nl-table01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-residuals-010-nl-table01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proefpersoon 1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proefpersoon 2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proefpersoon 3
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proefpersoon 5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

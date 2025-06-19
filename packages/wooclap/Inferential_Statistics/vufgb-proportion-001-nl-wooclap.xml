@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-proportion-001-nl-wooclap/Descriptive statistics/Summary Statistics/Proportion, Descriptive statistics/Data representation/Tables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-proportion-001-nl_vufgb-proportion-001-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>(Chronische) depressiviteit komt bij mannen en vrouwen in verschillende mate voor. Bereken op basis van onderstaande kruistabel het relatieve risico voor depressiviteit om deze samenhang weer te geven.</p>
+<p><img src="@@PLUGINFILE@@/vufgb-proportion-001-nl-table01.jpg" /></p>
+<p>Formule voor relative risk:</p>
+<p><span class="math inline">\(rr = \frac{\pi_{1}}{\pi_{2}}\)</span></p>
+</p>]]></text>
+<file name="vufgb-proportion-001-nl-table01.jpg" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAWkAAABPCAYAAAAp+TTRAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAmzSURBVHhe7Z0Ldqs6DEU7rgwo4+loOpk7mFwLW8Y/bKWBFJO919J7CR/HPkgHkxvo1wMAAE4LJg0AcGIwaQCAE4NJAwCcGEwaAODEYNIAACcGkwYAODGYNADAicGkAQBODCYNAHBiMGkAgBODSQMAnBhMGgDgxAxN+uvriyAIgtg5rJhMGgA81IMNdOqDSQMcBPVgA536XMOk/30/bu6zv+4/YcGTvLp/5N/j++bauX27VxcjaHT7HozMul2LV/Y9IW+vh93y+L1g0n3+xqQ1mZJ4Ka9eTc7h/sF8v+6P7if83JextE3m53EPY91t3O/EaqDZdkbdlFf2PSFyfHv83GV8t0cqqV+W6/zv+7YsG+bKq3XwR4x0iuj4kphsqL/CrI9jF5PWhMuLXQzshWJ8NTmH+9sMo1V0K8Gkk1l2W4sr8YrRXt+ka/PVMbtIcrGfVwkXNulDfGMSLPoor5u0NYmKM2a6uc40suVlu2FG29o/bzsc4Lj/PZnt6sFPCidE21RrE85prde2kwLcGntYfv8J7SyRJKiu/w776+dstedoaunoa/xdm2d6BVFtt0bUbatPln0nQvrdJY43CJDpUuRfmjdD/eKRmYKnddpiSxdhoNlmXZ0A6ZOV1006FHNf6yBW2MifQYOJZfu75HXFvCRuehDldUxoNUEVPW9b2suMRbdLTWehbKfBcGwtk5aPTmdTnbHHPhbv9QPL9Qu/0NKgsZq4fnQ208v61dLNMMbNfedCNOpT5MSi/e1xv9earLlo1W8ehjoNa0vo6GLRbLP2/55xHq28bNJenLK4NXKR4gFJkzSsq5Kwk5z+MzbaVqr984PqNhgaRvY5TYqCDGSa9MZe9bHoU0uD32hp0Ths4xM59EPHlfWjoZt5jJ9g0iKHjNEbxvJadEz1LfUy6zcPI5328g2bZmXt/z3Sdyu7m7QnL0bdpoxF0LhtCG2oEDo/iBJ525X+wwM1MIxq/xZjk+6OvfqMok+NPvxKS5PGyVjCct9muV2tm32MA80nQMY1Yj3+Ybypvu61X/8b/eZB+t9j1SgsWMjzo6fLc5p9uEm3k6gtdl8j3ae+zCv3T2e4m20PD1TfMGx9bpn0E2Ov+hj2bc5gPb/SMrKtsaAzwOzSXMi2q3Wzj7HedzZknEPCmG/3+/J/r8s69rvOrpeNn9FvHoY6NceV50dPl+c0+3STdugsN868ymLsJJqIrYvVJPomHQTfattdBlnPpqnZ51jNpDZp7WvUojP2uE7HHC7h4ratfTvtbWlp0Tis9J8vkZ54iu0q3Tp9Gu47GaLNGM0fifVkp7khsdaK4wn9ZsGik8+F3/nGc+swaU9a4BppoVfrNXnVdH1EHTOh06R327gZSlboLXOxHCjdxkWraLJlTfK+a1S5sDX22MfkFygdc4w8q6VJY2Hdrmsi+j7dbjjGzr4TIf22oAa0lafrsQlY9ZsEGYOJatwuTL7RWVdp1qj9P0b6a2U/k74QfsaTJMNRTFqAn8wn1sNvQKc+mPRLhFl7ejY/Ckx6OjAfG+jUB5OeBUx6OqgHG+jUB5MGOAjqwQY69dndpAmCIIh9w4rJpAHAQz3YQKc+mDTAQVAPNtCpDyYNcBDUgw106vNGk96+My+7sw3gIpiKq7jJYv3xTuvmp3nvvuwhY7ORaFL87HW9IUhCveQaGkq/rbxo0vIrstY99EHId/zWGOCNDItLflYZi0ENRU0kvP+An1xaTWjxj9vN/xQ18YvtxwdcQ8O3mnTzt75hJrHc9hvWjx5cnxl6WBdvG84+o569l7P2t90xCB/HM8W15moxC8SkA16P+HD+whvajw3ApCvGjQ1MM5pxapqF0JkJr+/bJi1vUxPWz9fZfHjPLB4O4CmT1ryNuYhJp/hZtGhTmHT3eR6YdIWlsfwrj0Lw0oCFcBDWRYXRD0w6W7+89o9/9Nt/TiHA+7HUQ/5danrJHnIzjYvmqYytj9ciq9ngGeonsf7TK/OLaCj9trKLSWcmOjJYR27qnuw7qGEbiRHLAXQH90fPymHbtG2AvXimuFziFld5OWrmV8zVkU7eA/QE1jbpVZek3gtm1XCkT8o+Jp3MhL8z8R0mk35yJu1YDo6asyxftnH7L2fd5PMBduSZ4hKqWWFKNkO8FiOd8quNJMSoS10a9R+ZVEPps5WdTHpNxiVSMVsCl8uqbfIzazygaRvLwbk9bs7c/QFKLoPCfgB7M6oHqYPUMHzuhn8/cTm7ue5ijHTKyeu9fJ9N6i6i4TP67GbS0WhVTGXrLJhsv0SxPjX92/ePn2mn28T9639AnO2sCvMg+TUim7C4yNM2XXdNgxZkfHZKk3aEGbLG1TSUvlvZz6QBPgDqwQY69cGkAQ6CerCBTn0waYCDoB5soFMfTBrgIKgHG+jUB5MGOAjqwQY69dndpAmCIIh9w4rJpAHAQz3YQKc+mDTAQVAPNtCpDyYNcBDUgw106vNmk05ux248MyO9R7+86RBgNszFpXfMNR5RkNbER98W3rmrsFxX3bGc+s6Ej4GQflvZz6TDX1fIb8n2625unbSDScPsWIorM+HCQPy66z8AbKiTPNYhGoIabvsBa9mzOwLLssZfdJkFSx4pO5r0/XGXZ2dU99/rk/ESkbfOoOHgxL/UsARPtIPzIDnZR3JXZsdaF0k9FOZzZcY6pehzd8JVRfCHqFN4v5q017b6iy4T8Yw+O5p0eGxovHwLwjtlszOhJGoUtf2I0vi+PFgAf4y9uBoGUkxOlpjQYCzYdXJo3UctgnYubvd7NVv2s2h5j0kvjBtLhEpnCuG1GHPrckXJLv/0YMUNQ9utHQH+AHtx1QaidVDOEK84CbHolH83X14xr0+1lFgtwOvqNcOkF8aNpUIFYd1rP6v2wpcmnR8cCUwa5mBcD8q2SZeGc8X8tuskrIa8SJHNrPN1XkM1dEx6YdxYLpQm4hLFslXk0rAxaZiDcT0oDQMpZ85Vvl8Hu04e9QXRxr9OfvWS6FRP8EJMZtTSZyu7m3QU1IUm47ZJh30xaZgEe3E1TLpYVk5YrsRIJxl7+jWPN19vzJUum18LtTSeA3seHWHS7r/+8mQ9E+aiF9813eUAYNIwB+Z6KCIaTPGPh1dNbRnbCPWFlhbVjLkpFCa98ExjAFeHerCBTn0waYCDoB5soFMfTBrgIKgHG+jUB5MGOAjqwQY69cGkAQ6CerCBTn12N2mCIAhi37DC6Q4A4MRg0gAAJwaTBgA4MZg0AMCJwaQBAE4MJg0AcGIwaQCAE4NJAwCcGEwaAODEYNIAACcGkwYAODGYNADAaXk8/gMH/a5rtnxgSQAAAABJRU5ErkJggg==</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.21
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.75
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.81
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.19
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

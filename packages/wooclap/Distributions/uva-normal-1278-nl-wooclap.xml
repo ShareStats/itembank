@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-normal-1278-nl-wooclap/Distributions/Continuous/Normal</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-normal-1278-nl_uva-normal-1278-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>20% van de volwassenen in Nederland zakt voor hun rijexamen. Als je
+aselect 60 volwassen Nederlanders kiest, beschrijf dan de vorm, het
+centrum en de verspreiding van deze steekproefverdeling van het aantal
+geslaagden:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Het is een normaalverdeling met gemiddelde 12 en standaardafwijking 1.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Het is een normaalverdeling met gemiddelde 12 en standaardafwijking 1.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het is een normaalverdeling met gemiddelde 12 en standaardafwijking 3,1.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Het is een normaalverdeling met gemiddelde 12 en standaardafwijking 3,1.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het is een normaalverdeling met gemiddelde 30 en standaardafwijking 2.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Het is een normaalverdeling met gemiddelde 30 en standaardafwijking 2.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het is een normaalverdeling met gemiddelde 30 en standaardafwijking 20.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Het is een normaalverdeling met gemiddelde 30 en standaardafwijking 20.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

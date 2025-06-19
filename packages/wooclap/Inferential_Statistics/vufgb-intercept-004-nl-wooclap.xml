@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-intercept-004-nl-wooclap/Inferential Statistics/Regression/Intercept, Inferential Statistics/Regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-intercept-004-nl_vufgb-intercept-004-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In onderstaande tabel staan de scores op een <em>x</em> en <em>y</em> variabele voor zes personen. De regressiecoëfficiënt <em>b</em> die het lineaire verband tussen <em>x</em> en <em>y</em> weergeeft is 0.81.</p>
+<p>Bereken intercept <em>a</em>.</p>
+<p><img src="@@PLUGINFILE@@/vufgb-intercept-004-nl-table01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-intercept-004-nl-table01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.14
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.95
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+-1.24
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.19
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

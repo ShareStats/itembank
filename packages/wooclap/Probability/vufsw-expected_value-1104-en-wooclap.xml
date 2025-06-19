@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-expected_value-1104-en-wooclap/probability/elementary probability/random variables/expected value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_vufsw-expected_value-1104-en_vufsw-expected_value-1104-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The following table presents the probability distribution of the number
+of pringles that FSW lecturers eat after every lecture.<br />
+ </p>
+<table class="tvcss_2 tvcss_3">
+<colgroup>
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td class="tvcss_4">
+<strong><em>y</em><br />
+</strong>
+</td>
+<td class="tvcss_5">
+20<br />
+</td>
+<td class="tvcss_5">
+30<br />
+</td>
+<td class="tvcss_5">
+40<br />
+</td>
+<td class="tvcss_5">
+50<br />
+</td>
+<td class="tvcss_5">
+60<br />
+</td>
+<td class="tvcss_5">
+70<br />
+</td>
+<td class="tvcss_5">
+80<br />
+</td>
+<td class="tvcss_5">
+90<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+<strong><em>P(y)</em></strong><br />
+</td>
+<td class="tvcss_5">
+0.05<br />
+</td>
+<td class="tvcss_5">
+0.15<br />
+</td>
+<td class="tvcss_5">
+0.20<br />
+</td>
+<td class="tvcss_5">
+0.20<br />
+</td>
+<td class="tvcss_5">
+0.15<br />
+</td>
+<td class="tvcss_5">
+0.10<br />
+</td>
+<td class="tvcss_5">
+0.10<br />
+</td>
+<td class="tvcss_5">
+0.05<br />
+</td>
+</tr>
+</tbody>
+</table>
+<p> <br />
+The expected value of the distribution is…</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+55.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+440.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+45.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+52.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-binomial-724-nl-wooclap/Distributions/Discrete/Binomial</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-binomial-724-nl_uva-binomial-724-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Peter is een basketbalspeler die in de loop van het seizoen met 80% van
+zijn vrije worpen succes boekt. Tijdens een cruciale wedstrijd mist hij
+7 van zijn 12 vrije worpen. <em>X</em> is het aantal mislukte worpen in 12
+pogingen. Hoe groot is de kans op 7 of meer mislukte worpen van de 12
+pogingen?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,0001
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,0001: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,0005
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,0005: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,0033
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,0033: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,0039
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,0039: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

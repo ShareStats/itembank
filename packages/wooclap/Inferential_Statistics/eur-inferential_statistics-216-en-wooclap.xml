@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-216-en-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/Post-hoc test, Inferential Statistics/Effect size/Cohen's d</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-216-en_eur-inferential_statistics-216-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In a one-way ANOVA, four experimental groups are compared and simple contrast tests are conducted. Consider the following two statements about these contrast tests:</p>
+<ol style="list-style-type: decimal">
+<li><p>The contrasts are tested with four different t-tests.</p></li>
+<li><p>If the effect size for a contrast, rcontrast, is equal to .09, this is called a moderate effect.</p></li>
+</ol>
+<p>Which statement is true?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Both statements are false. With four groups and simple contrast, only three comparisons are made. In the case of a simple contrast, each group is compared to the first group (first) or last group (last) depending on what you want to investigate.</p>
+<p>For example, for the simple contrast(first) you get group 1 vs group 2, group 1 vs group 3, and group 1 vs group 4. These are just 3 equations. Statement 2 is also incorrect. Rough guidelines for effect size r are: small is .10, medium is .30, large is .50</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+both statements are true
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+only statement 1 is true
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+only statement 2 is true
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+both statements are false
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

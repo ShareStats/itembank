@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-value-784-nl-wooclap/Inferential Statistics/NHST/p-value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-value-784-nl_uva-value-784-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een hypothesetoets wordt uitgevoerd voor een populatieproportie. De
+steekproefgrootte was 60 en de steekproefproportie (geschat) was 0.33.
+Voor de hypothesetoets berekent men de P-waarde onder de nulhypothese
+die stelt dat de populatieproportie gelijk is aan 0.30. De alternatieve
+hypothese is dat de populatieproportie groter is dan 0.30. Dan is de
+beste omschrijving van de P-waarde dat het de kans is</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+op de steekproefproportie of groter gegeven dat de populatieproportie 0.30 is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+op de steekproefproportie of groter gegeven dat de populatieproportie 0.30 is.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+op de populatieproportie of groter gegeven dat de steekproefproportie 0.33 is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+op de populatieproportie of groter gegeven dat de steekproefproportie 0.33 is.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+op de steekproefproportie of groter gegeven dat de populatieproportie groter is dan 0.30.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+op de steekproefproportie of groter gegeven dat de populatieproportie groter is dan 0.30.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

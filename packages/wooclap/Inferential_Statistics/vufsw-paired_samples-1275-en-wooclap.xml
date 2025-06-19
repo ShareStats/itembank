@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-paired_samples-1275-en-wooclap/inferential statistics/parametric techniques/t-test/paired samples</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-paired_samples-1275-en_vufsw-paired_samples-1275-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher wants to know if workers score better in test B than in
+test A. For this purpose, she draws a random sample of 10 workers who
+take both tests. The tests concern the same content and in each one of
+them, the maximum score is 100 points.</p>
+<p>The data are the following:</p>
+<table class="tvcss_2 tvcss_3">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td class="tvcss_4">
+<strong>Worker</strong>
+</td>
+<td class="tvcss_5">
+<strong>Score test A</strong><br />
+</td>
+<td class="tvcss_6">
+<strong>Score test B</strong><br />
+</td>
+<td class="tvcss_7">
+<strong>Difference (B – A)</strong><br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+1<br />
+</td>
+<td class="tvcss_5 tvcss_8">
+95<br />
+</td>
+<td class="tvcss_6 tvcss_8">
+90<br />
+</td>
+<td class="tvcss_7 tvcss_8">
+-5<br />
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_4">
+2<br />
+</td>
+<td class="tvcss_5 tvcss_8">
+45<br />
+</td>
+<td class="tvcss_6 tvcss_8">
+65<br />
+</td>
+<td class="tvcss_7 tvcss_8">
+20<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+3<br />
+</td>
+<td class="tvcss_5 tvcss_8">
+61<br />
+</td>
+<td class="tvcss_6 tvcss_8">
+65<br />
+</td>
+<td class="tvcss_7 tvcss_8">
+4<br />
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_4">
+4<br />
+</td>
+<td class="tvcss_5 tvcss_8">
+88<br />
+</td>
+<td class="tvcss_6 tvcss_8">
+75<br />
+</td>
+<td class="tvcss_7 tvcss_8">
+-13<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+5<br />
+</td>
+<td class="tvcss_5 tvcss_8">
+91<br />
+</td>
+<td class="tvcss_6 tvcss_8">
+92<br />
+</td>
+<td class="tvcss_7 tvcss_8">
+1<br />
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_4">
+6<br />
+</td>
+<td class="tvcss_5 tvcss_8">
+32<br />
+</td>
+<td class="tvcss_6 tvcss_8">
+45<br />
+</td>
+<td class="tvcss_7 tvcss_8">
+13<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+7<br />
+</td>
+<td class="tvcss_5 tvcss_8">
+44<br />
+</td>
+<td class="tvcss_6 tvcss_8">
+65<br />
+</td>
+<td class="tvcss_7 tvcss_8">
+21<br />
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_4">
+8<br />
+</td>
+<td class="tvcss_5 tvcss_8">
+63<br />
+</td>
+<td class="tvcss_6 tvcss_8">
+67<br />
+</td>
+<td class="tvcss_7 tvcss_8">
+4<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+9<br />
+</td>
+<td class="tvcss_5 tvcss_8">
+89<br />
+</td>
+<td class="tvcss_6 tvcss_8">
+84<br />
+</td>
+<td class="tvcss_7 tvcss_8">
+-5<br />
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_4">
+10<br />
+</td>
+<td class="tvcss_5 tvcss_8">
+64<br />
+</td>
+<td class="tvcss_6 tvcss_8">
+63<br />
+</td>
+<td class="tvcss_7 tvcss_8">
+-1<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+<strong>Mean</strong>
+</td>
+<td class="tvcss_5 tvcss_9">
+67.2<br />
+</td>
+<td class="tvcss_6 tvcss_9">
+71.1<br />
+</td>
+<td class="tvcss_7 tvcss_9">
+3.9<br />
+</td>
+</tr>
+</tbody>
+</table>
+<p>Which statistical test should be used to test the hypothesis that
+workers score better in test B than in test A?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A one-sample t-test for the mean
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A chi-squared test
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+A dependent t-test
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A test for a proportion
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+An independent t-test
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

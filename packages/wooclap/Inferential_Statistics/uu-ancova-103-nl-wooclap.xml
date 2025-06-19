@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-ancova-103-nl-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-ancova-103-nl_uu-ancova-103-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Marco, een culinair specialist uit Utrecht, wil voor de klanten van zijn magazine graag een goed advies uitbrengen over de prijs/kwaliteit verhouding van diverse restaurants in Utrecht gebaseerd op het jaar 2014. Hij heeft daarvoor 40 restaurants door zijn lezers laten beoordelen en heeft over een aantal indicatoren data verzameld: prijs voor een 3-gangen menu (in hele euro’s), kwaliteitsscore van het menu volgens lezers (1-10) en kwaliteitsscore voor de service volgens lezers (1-10). Zelf heeft hij een eigen eindoordeel aan deze restaurants toegekend (variabele = eindscore (1-10)). Hij bouwt een regressiemodel om de eindscore te voorspellen a.d.h.v. de prijs en de twee beoordelingen van de lezers. Hij is erg benieuwd hoe ver de voorspelde scores af zullen wijken van zijn eigen oordeel.</p>
+<p>Marco besluit om de drie hoogst scorende restaurants uit zijn dataset te bezoeken met drie groepen collega’s die onafhankelijk van elkaar een expert-oordeel toekennen aan het hen toegewezen restaurant. Marco wil daarmee toetsen of de gemiddelde beoordelingen significant van elkaar verschillen. Hij wil daarbij, voor de eerlijkheid, rekening houden in de analyse met het feit dat de restaurants in prijs verschillen. Met welke techniek moet Marco deze data analyseren?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Regressieanalyse
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+ANOVA voor herhaalde metingen
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+ANCOVA
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tweeweg ANOVA
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

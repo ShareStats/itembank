@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-sample-space-1015-nl-wooclap/Probability/Elementary Probability/Sample Space</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-sample-space-1015-nl_uva-sample-space-1015-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Gooi je tegelijkertijd twee zuivere dobbelstenen op dan zijn er 36
+mogelijke uitkomsten. Definieer de gebeurtenis <em>A</em> als: de som van het
+aantal ogen is groter dan 6, en <em>B</em> als: de som van het aantal ogen is
+kleiner dan 6. Welke uitspraak hieronder klopt?<br />
+<br />
+I. Bij gebeurtenis <em>A</em> horen 18 uitkomsten.<br />
+II. Bij gebeurtenis <em>B</em> horen ook 18 uitkomsten.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is waar en II is waar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is waar en II is waar.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is waar en II is onwaar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is waar en II is onwaar.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is onwaar en II is waar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is onwaar en II is waar.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+I is onwaar en II is onwaar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is onwaar en II is onwaar: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-twowayanova-014-nl-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA, Probability/Elementary Probability/Random variables/Expected value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-twowayanova-014-nl_vufgb-twowayanova-014-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In onderstaande tabel staan de gemiddeldes die horen bij een tweewegs ANOVA. In elke cel zitten evenveel proefpersonen. Als er geen interactie is tussen de factoren A en B, welke gemiddeldes zouden er dan moeten staan in de twee grijs gemarkeerde cellen?</p>
+<p><img src="@@PLUGINFILE@@/vufgb-twowayanova-014-nl-table01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-twowayanova-014-nl-table01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+15 en 15
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+22 en 38
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5 en 5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+32 en 48
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

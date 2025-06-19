@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Linearity-104-nl-wooclap/Assumptions/Linearity</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Assumptions_uu-Linearity-104-nl_uu-Linearity-104-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Aan welke van de volgende voorwaarden moet zijn voldaan voor een enkelvoudige regressieanalyse waarin de score op Y voorspeld wordt uit de score op X?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Bij een regressieanalyse is het belangrijk dat er een lineair verband is tussen X en Y. Het gaat namelijk om een lineaire regressie-analyse. Indien er geen lineair verband is kun je deze regressie niet zomaar uitvoeren.
+Het antwoord “de variabele Y moet minimaal op ratio meetniveau zijn gemeten” is niet correct, want X en/of Y mag ook op interval meetniveau zijn gemeten.
+Het antwoord “X moet ongeveer normaal verdeeld te zijn” is niet correct, want X hoeft niet normaal verdeeld te zijn, als de combinatie van X en Y dat maar is. Hier zul je bij MTS3 meer uitleg over krijgen.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Het verband tussen X en Y moet lineair zijn
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Juist!
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De variabele Y moet minimaal op ratio meetniveau zijn gemeten
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+X moet ongeveer normaal verdeeld zijn
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Er moet aan alle drie de voorwaarden zijn voldaan
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

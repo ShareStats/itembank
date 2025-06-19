@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-general-rules-677-nl-wooclap/Probability/Elementary Probability/General Rules</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Probability_uva-general-rules-677-nl_uva-general-rules-677-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Menselijk bloed bestaat uit een van de bloedgroepen O, A, B of AB. Maar
+de verdeling van deze bloedgroepen is verschillend bij verschillende
+rassen. Hieronder staat een tabel waarin de kans voor elke bloedgroep
+bij zwarte mensen in Amerika:</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Bloedgroep</td>
+<td style="text-align: left;">O</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">AB</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Kans</td>
+<td style="text-align: left;">0,49</td>
+<td style="text-align: left;">0,27</td>
+<td style="text-align: left;">0,20</td>
+<td style="text-align: left;">?</td>
+</tr>
+</tbody>
+</table>
+<p>Wat is de kans op bloedgroep AB? Rond af op twee decimalen.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Het correcte antwoord is: 0.04</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.04</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

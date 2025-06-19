@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-bayesian-statistics-985-nl-wooclap/Inferential Statistics/Bayesian Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-bayesian-statistics-985-nl_uva-bayesian-statistics-985-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een bedrijf <em>A</em> bezit drie fabrieken, namelijk <em>A</em><sub>1</sub>, <em>A</em><sub>2</sub> en <em>A</em><sub>3</sub>
+waar scheerapparaten van hetzelfde type worden gemaakt. De kans op een
+defect apparaat bij <em>A</em><sub>1</sub>, <em>A</em><sub>2</sub> en <em>A</em><sub>3</sub> is respectievelijk: 0,1;
+0,06 en 0,05. Gedurende een bepaalde periode moeten alle drie de
+fabrieken tesamen 10.000 scheerapparaten maken waarvan 2000 door <em>A</em><sub>1</sub>,
+5000 door <em>A</em><sub>2</sub> en 3000 door <em>A</em><sub>3</sub>. Uit de totale productie kiest een
+inspecteur aselect een scheerapparaat, hoe groot is de kans dat dit
+apparaat defect (<em>D</em>) is?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,015
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,015: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,020
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,020: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,030
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,030: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,065
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,065: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

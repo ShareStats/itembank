@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-random-variables-1302-nl-wooclap/Probability/Elementary Probability/Random variables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-random-variables-1302-nl_uva-random-variables-1302-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Welke toevalsvariabele X is <strong>geen</strong> discrete variabele?<br />
+<br />
+I        Een voetbalteam speelt 12 wedstrijden in een bepaald seizoen.
+Stel X is het aantal wedstrijden dat dit team won.<br />
+II      Een vrouw koopt iedere week een lot waarbij de kans op winnen
+van 1 euro 1/10 is. Stel X is haar winst na een jaar.<br />
+III     Een student wacht op een bus die elke tien minuten langskomt.
+Stel X is het aantal minuten dat hij bij de bushalte wacht.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is geen discrete variabele.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is geen discrete variabele.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+II is geen discrete variabele.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+II is geen discrete variabele.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+III is geen discrete variabele.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+III is geen discrete variabele.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ze zijn allemaal geen discrete variabelen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Ze zijn allemaal geen discrete variabelen.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-ancova-001-nl-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA, Inferential Statistics/Regression/Equation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-ancova-001-nl_vufgb-ancova-001-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een experiment wordt middels een standaard ANCOVA-analyse het effect van Sociale Stress (Factor met twee groepen: <span class="math inline">\(z_{1}\)</span>) op Prestatie (Afhankelijke variabele: <span class="math inline">\(y\)</span> ) onderzocht. We controleren hierbij voor Neuroticisme (Covariaat: <span class="math inline">\(x\)</span>, met <span class="math inline">\(\bar{x} = 20\)</span>). De volgende geschatte regressievergelijking wordt gevonden: <span class="math inline">\(\hat{y}=25+0.8x+2z_{1}\)</span>. Bereken de gecorrigeerde gemiddeldes (<em>adjusted means</em>) voor beide groepen van de Factor.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+25 en 27.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+20 en 25.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+16 en 20.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+41 en 43.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

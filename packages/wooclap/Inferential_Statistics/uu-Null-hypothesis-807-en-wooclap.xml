@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Null-hypothesis-807-en-wooclap/Inferential Statistics/NHST/Hypothesis/Null hypothesis</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Null-hypothesis-807-en_uu-Null-hypothesis-807-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher would like to test the effectiveness of a newly developed growth hormone. The researcher knows that under normal circumstances laboratory rats reach an average weight of 950 grams at 10 weeks of age. The distribution of weights is normal with a standard deviation of 30. A random sample of 25 newborn rats is obtained, and the hormone is given to each rat. When the rats in the sample were 10 weeks old, they were weighed. The mean weight for this sample was 974 grams.</p>
+<p>Which null hypothesis should the researcher use?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+H0: the mean weight of rats that are given the new hormone is larger than 950 grams
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+H0: the mean weight of rats that are given the new hormone is larger than 974 grams
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+H0: the mean weight of rats that are given the new hormone is 974 grams
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+H0: the mean weight of rats that are given the new hormone is 950
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

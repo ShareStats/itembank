@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-addition-rule-1105-nl-wooclap/Probability/Elementary Probability/General Rules/Addition rule</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-addition-rule-1105-nl_uva-addition-rule-1105-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Jody volgt drie cursussen: Engels, Geschiedenis en Wiskunde. Stel de
+kans dat zij aan het eind van het semester per vak een 8 krijgt:<br />
+<br />
+P(cijfer 8 voor het examen Engels) = 0,70<br />
+P(cijfer 8 voor het examen Geschiedenis) = 0,60<br />
+P(cijfer 8 voor het examen wiskunde) = 0,50<br />
+<br />
+De gebeurtenissen zijn onafhankelijk van elkaar. Wat is dan de kans dat
+Jody voor slechts één vak een 8 zal krijgen?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,06
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,06: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,29
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,29: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,40
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,40: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,80
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,80: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-interquartilerange-006-nl-wooclap/Descriptive statistics/Summary Statistics/Measures of Spread/Interquartile Range, Descriptive statistics/Data representation/Graphs/Boxplot</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_vufgb-interquartilerange-006-nl_vufgb-interquartilerange-006-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In het onderstaande plaatje staat een boxplot weergegeven.</p>
+<p><img src="@@PLUGINFILE@@/vufgb-interquartilerange-006-nl-boxplot01.jpg" /></p>
+<p>Hoe groot is de <em>interquartile range</em>?</p>
+</p>]]></text>
+<file name="vufgb-interquartilerange-006-nl-boxplot01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.25
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+5.75
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

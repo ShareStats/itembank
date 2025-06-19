@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-factor-106-en-wooclap/Factor analysis/Rotations, Factor analysis/Exploratory factor analysis</text>
+</category>
+</question>
+
+
+<question type="shortanswer">
+<name>
+<text> Q1 : Factor-analysis_eur-factor-106-en_eur-factor-106-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In social science, researchers are interested in concepts that are not directly visible. After performing a factor analysis to extract the number of dimensions, it is common use to conduct a rotation. Generally, the researcher decides to do an orthogonal (varimax) or non-orthogonal (oblique) rotation to interpret the extracted dimensions. Why is a non‐orthogonal (oblique) rotation preferred over an orthogonal (varimax) rotation in most social science research?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Most theories in social science involve related constructs; therefore the factors measuring these constructs will be correlated. However, a varimax rotation would force the factors to be uncorrelated, twisting their meaning. Thus, the best option is an oblique rotation as it allows for factors to both be correlated or uncorrelated to each other, rather than forcing them to be fully uncorrelated.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<usecase>0</usecase>
+<answer fraction="100" format="moodle_auto_format">
+<text>
+""
+</text>
+</answer>
+</question>
+
+</quiz>

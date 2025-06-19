@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-reliability-204-nl-wooclap/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_eur-reliability-204-nl_eur-reliability-204-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In de klassieke testtheorie geldt dat de variantie van de geobserveerde score gelijk is aan de variantie van de betrouwbare (true) score plus de variantie van de meetfout (error). Welk van onderstaande alternatieven is een correcte weergave van het wiskundig bewijs hiervan?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li>It is not MINUS 2cxtxe, but PLUS.</li>
+<li>it is 2 times cxtxe and not once.</li>
+<li>For the fourth step, we speak of the true score and error variance, not standard deviation (squares are missing)</li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(S^2_{XO} = S^2_{XT+XE} = S_{(XT+XE)(XT+XE)} = S_{X^2_T + X^2_E + XTXE} = S^2_{XT} + S^2_{XE} -2c_{XtXE} = S^2_{XT} + S^2_{XE}\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(S^2_{XO} = S^2_{XT+XE} = S_{(XT+XE)(XT+XE)} = S_{X^2_T + X^2_E - 2{XTXE}} = S^2_{XT} + S^2_{XE} -2c_{XtXE} = S^2_{XT} + S^2_{XE}\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(S^2_{XO} = S^2_{XT+XE} = S_{(XT+XE)(XT+XE)} = S_{X^2_T + X^2_E + 2{XTXE}} = S^2_{XT} + S^2_{XE} -2c_{XtXE} = S^2_{XT} + S^2_{XE}\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(S^2_{XO} = S^2_{XT+XE} = S_{(XT+XE)(XT+XE)} = S_{X^2_T + X^2_E - 2{XTXE}} = S^2_{XT} + S^2_{XE} +2c_{XtXE} = S^2_{XT} + S^2_{XE}\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Goed
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

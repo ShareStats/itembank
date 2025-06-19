@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-elementary-probability-919-nl-wooclap/Probability/Elementary Probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-elementary-probability-919-nl_uva-elementary-probability-919-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Hieronder staat een tabel waarin de relatie te zien is tussen roken en
+echtscheidingen.</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">Gescheiden?</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Roken?</td>
+<td style="text-align: left;">Ja</td>
+<td>Nee</td>
+<td>Totaal</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Ja</td>
+<td style="text-align: left;">247</td>
+<td>289</td>
+<td>536</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Nee</td>
+<td style="text-align: left;">343</td>
+<td>802</td>
+<td>1145</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Totaal</td>
+<td style="text-align: left;">590</td>
+<td>1091</td>
+<td>1681</td>
+</tr>
+</tbody>
+</table>
+<p>Heeft volgens de tabel een niet-roker minder kans op een scheiding dan
+een roker?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Ja
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Ja: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nee
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Nee: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Niet te bepalen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Niet te bepalen: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

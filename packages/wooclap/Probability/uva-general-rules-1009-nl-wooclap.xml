@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-general-rules-1009-nl-wooclap/Probability/Elementary Probability/General Rules</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Probability_uva-general-rules-1009-nl_uva-general-rules-1009-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Eén onderzoeker heeft de frequenties van de haarkleur in een groep konijnen uit het zuiden en het noorden onderzocht.</p>
+<table class="table_shade">
+<thead>
+<tr class="header">
+<th>Gebied</th>
+<th>Kleur</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td>Licht</td>
+<td>Donker</td>
+</tr>
+<tr class="even">
+<td>Noorden</td>
+<td>471</td>
+<td>148</td>
+</tr>
+<tr class="odd">
+<td>Zuiden</td>
+<td>151</td>
+<td>230</td>
+</tr>
+</tbody>
+</table>
+<p>We definiëren de gebeurtenissen:
+A: De noordelijke konijnen met de lichte kleur,
+B: De zuidelijke konijnen met de donkere kleur
+Wat is dan de relatieve frequentie van de noordelijke konijnen met de lichte kleur?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The correct answer is 0.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

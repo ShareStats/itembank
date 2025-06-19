@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-random-variables-285-nl-wooclap/Probability/Elementary Probability/Random variables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-random-variables-285-nl_uva-random-variables-285-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In de kruistabel hieronder staat hoe er in twee Utrechtse kiesdistricten
+is gestemd tijdens het afgelopen referendum over de Europese grondwet:
+voor, tegen of blanco.</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">Voor</td>
+<td style="text-align: left;">Tegen</td>
+<td style="text-align: left;">Blanco</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Kiesdistrict 1</td>
+<td style="text-align: left;">183</td>
+<td style="text-align: left;">161</td>
+<td style="text-align: left;">12</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Kiesdistrict 2</td>
+<td style="text-align: left;">212</td>
+<td style="text-align: left;">228</td>
+<td style="text-align: left;">16</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Totaal</td>
+<td style="text-align: left;">395</td>
+<td style="text-align: left;">398</td>
+<td style="text-align: left;">28</td>
+</tr>
+</tbody>
+</table>
+<p>Wanneer we uit deze 812 stemmers er aselect één kiezen, dan is kans dat
+het iemand uit district 1 is, en dat deze gestemd heeft tegen de
+grondwet, gelijk aan</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.2: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.21
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.21: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.45
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.45: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.7
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.7: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

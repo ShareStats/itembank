@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-squared-60-nl-wooclap/Inferential Statistics/NHST/Test statistic/Chi-squared</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-squared-60-nl_uva-squared-60-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Twee onderzoekers voeren een chi-kwadraat toets op onafhankelijkheid uit
+op een dataset voor een 2-bij-2 tabel. Ze krijgen een P-waarde die
+kleiner is dan 0.05. De onderzoekers hanteren een significantieniveau
+van 0.05 en dus verwerpen ze de nulhypothese. Er ontstaat nu onenigheid
+over de conclusie. De eerste onderzoeker beweert dat met dit resultaat
+de conclusie moet zijn dat de twee variabelen onafhankelijk zijn,
+terwijl de tweede onderzoeker beweert dat de variabelen juist
+afhankelijk zijn.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De eerste onderzoeker heeft gelijk en de tweede ongelijk.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+De eerste onderzoeker heeft gelijk en de tweede ongelijk.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De eerste onderzoeker heeft ongelijk en de tweede gelijk.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+De eerste onderzoeker heeft ongelijk en de tweede gelijk.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Allebei de onderzoekers hebben ongelijk.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Allebei de onderzoekers hebben ongelijk.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Power-822-nl-wooclap/Inferential Statistics/NHST/Power</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Power-822-nl_uu-Power-822-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een rookmelder moet een duidelijk signaal geven als er rook in de ruimte is, en uiteraard stil blijven als er geen rook is. We beschouwen de afwezigheid van rook als de nulhypothese. Welke situatie komt overeen met de power zoals we die rondom het toetsen behandeld hebben?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>A: Dit is een type II fout: de alternatieve hypothese is juist (er is rook), maar de rookmelder geeft geen signaal.
+B: Dit is een juiste beslissing ten aanzien van H0, de power is de kans op een juiste beslissing ten aanzien van H1.
+C: Dit is een type I fout: de nulhypothese is juist (er is geen rook), maar de rookmelder geeft wel een signaal.
+D: Power is een juiste beslissing ten aanzien van H1: er is rook en de rookmelder geeft een signaal.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De kans dat de rookmelder geen signaal geeft als er rook is
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit is een type II fout: de alternatieve hypothese is juist (er is rook), maar de rookmelder geeft geen signaal.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De kans dat de rookmelder geen signaal geeft als er geen rook is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit is een juiste beslissing ten aanzien van H0, de power is de kans op een juiste beslissing ten aanzien van H1.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De kans dat de rookmelder een signaal geeft als er geen rook is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit is een type I fout: de nulhypothese is juist (er is geen rook), maar de rookmelder geeft wel een signaal.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De kans dat de rookmelder een signaal geeft als er rook is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Power is een juiste beslissing ten aanzien van H1: er is rook en de rookmelder geeft een signaal.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

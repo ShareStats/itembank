@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-equation-1007-en-wooclap/inferential statistics/regression/equation</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-equation-1007-en_vufsw-equation-1007-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher relates the number of hours spent practising and the
+ability to successfully execute a specific skill (e.g. diving, arm stand
+dive, high board dive) with the use of a linear regression model: the
+more you practise, the better the performance of the dive.</p>
+<p>Calculate the predicted score in a diving competition if they have
+amassed 250 hours of training. Assume that the<em> slope of hours of
+training =</em> .1016 on diving performance and the <em>constant</em> = 22.5 in the
+regression equation. <em>Use only one decimal!</em></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The regression equation is: Diving score = 22.5 + 0.1016*hours
+training<br />
+ If you replace hours with 250: (diving score = 22.5 + 0.1016 * 250),
+you will reach the outcome 47.9</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>47.9</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

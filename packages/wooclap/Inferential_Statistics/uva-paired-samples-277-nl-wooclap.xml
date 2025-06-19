@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-paired-samples-277-nl-wooclap/Inferential Statistics/Parametric Techniques/t-test/Paired samples</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-paired-samples-277-nl_uva-paired-samples-277-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een experiment wordt gekeken naar het effect van een dieetproduct op
+lichaamsgewicht. Daartoe wordt van 20 tweelingen aselect telkens één in
+de behandelgroep gestopt en één in de controlegroep. De behandelgroep
+krijgt gedurende twee maanden het dieetproduct, terwijl de controlegroep
+een placebo krijgt. Na twee maanden wordt bij iedereen het gewicht
+gemeten. De meest geschikte toets om te toetsen of het dieetproduct
+effect heeft op het lichaamsgewicht, is bij deze proefopzet de</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+F-toets voor gelijkheid van varianties
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+F-toets voor gelijkheid van varianties: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+T-toets voor twee onafhankelijke steekproeven
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+T-toets voor twee onafhankelijke steekproeven: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+gepaarde T-toets
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+gepaarde T-toets: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+CRD-ANOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CRD-ANOVA: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

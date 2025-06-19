@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-213-en-wooclap/Inferential Statistics/Regression/Dummies, Inferential Statistics/Regression/Simple linear regression, Inferential Statistics/Regression/Equation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-213-en_eur-inferential_statistics-213-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher wants to compare four groups (group 0, 1, 2 and 3) with respect to their average high school grade. However, she has only regression analysis at hand, and therefore she transforms the variable “group” into dummy variables. Group 0 has a score of 0 on each of the dummy variables. She gets the following output:</p>
+<table class="table_shade">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Group</th>
+<th style="text-align: left;">B</th>
+<th style="text-align: left;">Std.Error</th>
+<th style="text-align: left;">Beta</th>
+<th style="text-align: left;">t</th>
+<th style="text-align: left;">Sig</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">(Constant)</td>
+<td style="text-align: left;">3.75</td>
+<td style="text-align: left;">0.758</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">4.945</td>
+<td style="text-align: left;">0.001</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Group 1</td>
+<td style="text-align: left;">3.5</td>
+<td style="text-align: left;">1.072</td>
+<td style="text-align: left;">0.691</td>
+<td style="text-align: left;">3.264</td>
+<td style="text-align: left;">0.009</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Group 2</td>
+<td style="text-align: left;">2.75</td>
+<td style="text-align: left;">1.072</td>
+<td style="text-align: left;">0.543</td>
+<td style="text-align: left;">2.564</td>
+<td style="text-align: left;">0.028</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Group 3</td>
+<td style="text-align: left;">2.5</td>
+<td style="text-align: left;">1.313</td>
+<td style="text-align: left;">0.38</td>
+<td style="text-align: left;">1.904</td>
+<td style="text-align: left;">0.061</td>
+</tr>
+</tbody>
+</table>
+<p>Which of the following statements about the group means is correct?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The correct answer is that group 0 and 1 differ. Group 0 is your reference group; the unstandardized B coefficients show the difference in means between one of the three groups and group 0. When looking at group 1, you can see that the B coefficient is 3.5, which signifies a mean difference of 3.5; this difference is significant at p &lt; .05.</p>
+<p>The B of 3.75 here refers to the mean of the reference group, which is group 0. Furthermore, there is no linear decrease in means from groups 0 to 3, nor does group 3 have the lowest mean. Instead, group 0 has the lowest mean, followed by group 3, then group 2. Group 1 has the highest mean.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The grand mean equals 3.75
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Approximately, there is a linear decrease in means for groups 0 to 3
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Group 3 has to lowest mean
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The means of groups 0 and 1 differ significantly
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

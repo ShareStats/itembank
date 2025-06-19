@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-slope-003-nl-wooclap/Inferential Statistics/Regression/Slope</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-slope-003-nl_vufgb-slope-003-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een meervoudig regressiemodel zijn twee predictoren (<span class="math inline">\(x_{1}\)</span> en <span class="math inline">\(x_{2}\)</span>) en de interactie tussen <span class="math inline">\(x_{1}\)</span> en <span class="math inline">\(x_{2}\)</span> opgenomen (<span class="math inline">\(x_{1}*x_{2}\)</span>). Wat is, na centreren van de predictoren <span class="math inline">\(x_{1}\)</span> en <span class="math inline">\(x_{2}\)</span>, de juiste interpretatie van de regressiecoëfficiënt (<span class="math inline">\(b_{1}\)</span>) die hoort bij de eerste predictor?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het geschatte verband tussen <span class="math inline">\(x_{1}\)</span> en y gegeven <span class="math inline">\(x_{2} = 0\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Het geschatte verband tussen <span class="math inline">\(x_{1}\)</span> en y gegeven een gemiddelde score op <span class="math inline">\(x_{2}\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het geschatte verband tussen <span class="math inline">\(x_{1}\)</span> en y gegeven dat <span class="math inline">\(x_{2}\)</span> constant blijft
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het geschatte verband tussen <span class="math inline">\(x_{1}\)</span> en y gegeven een constante van 0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

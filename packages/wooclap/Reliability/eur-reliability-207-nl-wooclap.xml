@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-reliability-207-nl-wooclap/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_eur-reliability-207-nl_eur-reliability-207-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Uit eerder onderzoek naar de WISC is gebleken dat deze een betrouwbaarheid heeft van .71 (Cronbach’s alpha). Een onderzoeker aan het CITO wil weten wat de correlatie is tussen de WISC en een CITO toets. Hij trekt een steekproef van 102 kinderen en vindt een correlatie van .86. Hoe kan het dat deze correlatie hoger is dan de wortel uit de betrouwbaarheid van de WISC?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li>Cronbach’s alpha gives an underestimation of the reliability in the population, not an overestimation.</li>
+<li>When you calculate the maximum correlation you assume that the reliability of the other variable is 1, so the high reliability of the CITO test is not the correct answer.</li>
+<li>The variance in true scores on the CITO test being high is not the correct answer, because this would increase the reliability of the Cito test.</li>
+</ul>
+<p>This leaves us with the answer regarding sample fluctuation being the only correct answer, because you may have drawn an “extreme” sample from the population with a higher correlation.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dit kan komen doordat de true score variantie in de CITO scores hoog is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Dit kan komen door steekproef fluctuatie in de schatting van Cronbach’s alpha.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Goed
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dit kan komen doordat Cronbach’s alpha een overschatting geeft van de betrouwbaarheid in de populatie.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dit kan komen doordat de CITO toets een hoge betrouwbaarheid heeft.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-assumptions-002-nl-wooclap/Assumptions</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Assumptions_uu-assumptions-002-nl_uu-assumptions-002-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Aan welke van de volgende voorwaarden moet zijn voldaan voor een enkelvoudige regressie-analyse waarin je de score op Y voorspelt uit de score op X?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Alle drie de voorwaarden zijn voorwaarden voor een regressie-analyse.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het verband tussen X en Y moet lineair zijn.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De variabele <span class="math inline">\(Y\)</span> moet minimaal op intervalniveau zijn gemeten.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De residuen <span class="math inline">\(\hat{Y}\)</span> behoren ongeveer normaalverdeeld te zijn.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Er moet aan alle drie de voorwaarden zijn voldaan.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Juist!
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

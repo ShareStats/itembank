@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Cronbach's-alpha-002-nl-wooclap/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_uu-Cronbach's-alpha-002-nl_uu-Cronbach's-alpha-002-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Prof. A. James is bezig met het analyseren van een enquête. Een van de schalen heeft 8 vragen. Als zij een betrouwbaarheidsanalyse uitvoert vindt zij een Cronbach’s alpha van 0.455. Hieronder staat deel van de SPSS output.</p>
+<p><img src="uu-Cronbach&#39;s-alpha-002-nl-tabel.jpg" /></p>
+<p>Stel dat Prof. A. James de test moet verkorten, welk van de vier genoemde items komt dan het laatst in aanmerking om uit de schaal te verwijderen?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Vraag 1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Door het verwijderen van welk item zou Cronbach’s Alpha het meeste afnemen?
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Vraag 3
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Door het verwijderen van welk item zou Cronbach’s Alpha het meeste afnemen?
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Vraag 5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Door het verwijderen van item 5, zou Cronbach’s Alpha het meeste afnemen.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Vraag 7
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Door het verwijderen van welk item zou Cronbach’s Alpha het meeste afnemen?
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

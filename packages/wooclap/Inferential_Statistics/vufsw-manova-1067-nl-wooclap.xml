@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-manova-1067-nl-wooclap/inferential statistics/parametric techniques/anova/manova</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-manova-1067-nl_vufsw-manova-1067-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Welke van de volgende 2 stellingen over discriminante analyse als
+vervolg op MANOVA is / zijn correct ?<br />
+I. Discriminant analyse voorspelt de categorie van experimentele
+manipulatie uit de afhankelijke variabelen van MANOVA<br />
+II. Met discriminant analyse beslissen we welke van de 4 tests van
+MANOVA (Pillai’s trace, Roy’s Largest Root, Wilk’s Lamda en Hotellings
+Trace) we moeten gebruiken.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The  statement “Discriminant analysis predicts the category of
+experimental manipulation from the dependent variables of MANOVA” is
+correct. Discriminant Analysis turns around the situation of MANOVA. The
+dependent variables of MANOVA are used as predictors in discriminant
+analysis, while the independent variable of MANOVA (the experimental
+manipulation) is the dependent variable.</p>
+<p>The  statement ” With discriminant analysis we decide which of the 4
+tests of MANOVA (Pillai’s trace, Roy’s Largest Root, Wilk’s Lamda and
+Hotellings Trace) to use” is incorrect. Discriminant analysis has
+nothing to do with it.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Beide stellingen I en II zijn <strong>in</strong>correct
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Stelling I is correct en stelling II is <strong>in</strong>correct
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Beide stellingen I en II zijn correct
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Stelling I is <strong>in</strong>correct en stelling II is correct
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

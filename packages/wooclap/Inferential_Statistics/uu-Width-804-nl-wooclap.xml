@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Width-804-nl-wooclap/Inferential Statistics/Confidence Intervals/Width</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Width-804-nl_uu-Width-804-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Aan de hand van de gegevens van een aselect getrokken steekproef van vijftien kinderen van 3 t/m 5 jaar is de volgende regressievergelijking opgesteld:</p>
+<p><span class="math inline">\(Y = 0.75 + 0.75X\)</span></p>
+<p><span class="math inline">\(X =\)</span> leeftijd in jaren; <span class="math inline">\(Y =\)</span> het aantal goed afgelegde proefjes van Piaget m.b.t. het begrip vormconstantie.</p>
+<p>Het totaal aantal afgenomen proefjes is gelijk aan 6.</p>
+<p>Verder is gegeven: <span class="math inline">\(M_X = 3\)</span>; <span class="math inline">\(s_X = 2\)</span>; <span class="math inline">\(s.e. = 0.75\)</span>.</p>
+<p>Wanneer men voor een kind van 4 jaar een schatting van zijn y score met 95% betrouwbaarheid wil doen, dan is de breedte van het schattingsinterval gelijk aan:</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.50
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2.94
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.15
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.00
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

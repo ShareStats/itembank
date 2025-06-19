@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-independent-samples-means-346-nl-wooclap/Inferential Statistics/Parametric Techniques/t-test/Independent samples means</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-independent-samples-means-346-nl_uva-independent-samples-means-346-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Uit twee normaal verdeelde populaties zijn twee onafhankelijke
+steekproeven getrokken en hieruit is het volgende berekend:<br />
+Steekproef 1: n = 7, gemiddelde = 34, variantie = 36<br />
+Steekproef 2: n = 5, gemiddelde = 25, variantie = 46. De T toets voor
+het toetsen van H<sub>0</sub>: μ<sub>1</sub> = μ<sub>2</sub> heeft hier een waarde van 2.430. Welke
+kritieke waarde en conclusie omtrent Ho zijn hier juist (α = 10%
+tweezijdig)?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Kritieke waarde is 1.7823, verwerp H0 niet.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Kritieke waarde is 1.7823, verwerp H0 niet.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Kritieke waarde is 1.8210, verwerp H0 niet.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Kritieke waarde is 1.8210, verwerp H0 niet.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Kritieke waarde is 2.2281, verwerp H0 niet.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Kritieke waarde is 2.2281, verwerp H0 niet.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Kritieke waarde is 2.2281, verwerp H0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Kritieke waarde is 2.2281, verwerp H0.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-confidence-level-882-nl-wooclap/Inferential Statistics/Confidence Intervals/Confidence level</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-confidence-level-882-nl_uva-confidence-level-882-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een onderzoek naar de tijdsduur van het nemen van een beslissing over
+de aankoop van een huis op basis van foto's, hebben onderzoekers 30
+mensen aselect toegewezen aan één van twee condities: (1) 20 foto's van
+het huis werden getoond en (2) 5 foto's van het huis werden getoond.
+Het gemiddelde van groep (1) was 2.0 uur en standaarddeviatie 2.1; het
+gemiddelde van groep (2) was 4.8 uur en standaarddeviatie 3.2. De
+onderzoekers gaan ervan uit dat de standaarddeviaties in de populatie
+gelijk zijn en komen zo tot een <em>standard error</em> van 0.9883 en 28
+vrijheidsgraden. Een 95% betrouwbaarheidsinterval voor het verschil 1 -
+2 is</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+(-4.72, -0.88).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+(-4.72, -0.88).: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+(-4.82, -0.78).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+(-4.82, -0.78).: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+(-4.92, -0.68).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+(-4.92, -0.68).: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

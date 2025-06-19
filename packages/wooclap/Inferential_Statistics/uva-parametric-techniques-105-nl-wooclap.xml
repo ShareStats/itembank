@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-parametric-techniques-105-nl-wooclap/Inferential Statistics/Non-parametric Techniques</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-parametric-techniques-105-nl_uva-parametric-techniques-105-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Onderzoekers willen weten of er een verschil is in informatieverwerking
+tussen kinderen met autisme en kinderen met Attention Deficit
+Hyperactivity Disorder (ADHD). Daartoe trekken ze aselect 32 kinderen
+uit de populatie van kinderen met autisme en trekken ze aselect 29
+kinderen uit de populatie van kinderen met ADHD. Ze meten reactietijden
+van beide groepen. Het is bekend van reactietijden dat deze scheef naar
+rechts zijn verdeeld. Het is in dit geval verstandig als de onderzoekers
+de volgende test uitvoeren:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Wilcoxon’s test.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Wilcoxon’s test.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+paired t-test.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+paired t-test.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+McNemar’s test.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+McNemar’s test.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

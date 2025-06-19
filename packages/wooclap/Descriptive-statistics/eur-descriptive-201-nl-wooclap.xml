@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-descriptive-201-nl-wooclap/Descriptive statistics/Summary Statistics/Measures of Location</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_eur-descriptive-201-nl_eur-descriptive-201-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>De blokcoordinator van blok 1.4 heeft een examen afgenomen bestaande uit 60 multiple choice vragen waarbij telkens 1 antwoord correct is en 3 antwoorden incorrect zijn. In de instructie staat aangegeven dat vragen die niet zijn beantwoord fout zullen worden gerekend. Het blijkt dat een aantal studenten in tijdnood zijn gekomen en daardoor niet verder dan vraag 40 zijn gekomen. De blokcoordinator wilt de totaal scores berekenen met behulp van SPSS. Welke functie raad je haar aan om te gebruiken?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Sinds de ontbrekende antwoorden als onjuist worden beoordeeld, kunnen we gewoon de functie “som” gebruiken. Bij som wordt geen rekening gehouden met alle ontbrekende scores, dus de somscore is het aantal juiste antwoorden.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+sum(item1 to item60)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Goed
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+rnd(60*mean.60(item1 to item60)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+rnd(40*mean.40(item1 to item60))
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+rnd(60*mean.40(item1 to item60))
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

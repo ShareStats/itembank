@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-dummies-800-nl-wooclap/Inferential Statistics/Regression/Dummies</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-dummies-800-nl_uu-dummies-800-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een onderzoek naar de invloed van lesmethoden voor begrijpend lezen op de leesprestaties (variabele Y) van leerlingen onderscheidt men de volgende methoden:
+1 = Veilig leren lezen.
+2 = Goed gelezen!
+3 = Tekstverwerken.</p>
+<p>In de analyse betrekt men, naast de lesmethode (M), sekse (S) en non-verbale intelligentie (N, schaal met een gemiddelde van 100 en een standaardafwijking van 15) als controlevariabelen.</p>
+<p>Welk van de onderstaande regressievergelijkingen is voor deze situatie van toepassing (D = dummy)?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\hat{Y} = b_0 + b_1N + b_2S + b_3M + e\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+$ = b_0 + b_1N + b_2D_1 + b_3D_2 + b_4D_3 + b_5D_4 $
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\hat{Y} = b_1N + b_2S_1 + b_3M + e\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\hat{Y} = b_0 + b_1N + b_2S_1 + b_3D_2 + b_4D_3\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

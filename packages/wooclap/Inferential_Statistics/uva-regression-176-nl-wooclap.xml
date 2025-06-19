@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-regression-176-nl-wooclap/Inferential Statistics/Regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-regression-176-nl_uva-regression-176-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Bij regressie-analyse is het mogelijk om te toetsen of de coëfficiënten
+afwijken van nul. Het gaat hier om inferentiële statistiek.
+Noodzakelijke voorwaarden hiervoor bij regressie-analyse zijn:<br />
+I. De standaarddeviaties van <em>y</em> uit de steekproef zijn gelijk voor
+iedere <em>x</em>.<br />
+II. De gemiddelden van <em>y</em> uit de populatie zijn gelijk voor alle <em>x</em>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is waar en II is onwaar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is waar en II is onwaar.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is onwaar en II is waar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is onwaar en II is waar.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+I en II zijn onwaar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I en II zijn onwaar.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

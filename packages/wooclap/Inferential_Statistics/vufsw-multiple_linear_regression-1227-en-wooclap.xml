@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-multiple_linear_regression-1227-en-wooclap/inferential statistics/regression/multiple linear regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-multiple_linear_regression-1227-en_vufsw-multiple_linear_regression-1227-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Given is the following incomplete output. Occupational prestige is the
+dependent variable, and age in years, education in number of years of
+the respondent, the father and the mother are the independent
+variables.<br />
+ </p>
+<table class="fr-alternate-rows tvcss_2 tvcss_3" style="width:100%;">
+<colgroup>
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td colspan="7" class="tvcss_4 tvcss_5">
+<strong>Coefficients</strong><sup><strong>a</strong></sup><br />
+</td>
+</tr>
+<tr class="even">
+<td colspan="2" rowspan="2" class="tvcss_6">
+<br />
+<br />
+Model<br />
+</td>
+<td colspan="2" class="tvcss_7 tvcss_5">
+Unstandardized
+Coefficients<br />
+</td>
+<td class="tvcss_8 tvcss_5">
+Standardized Coefficients<br />
+</td>
+<td rowspan="2" class="tvcss_9 tvcss_5">
+<br />
+<br />
+t<br />
+</td>
+<td rowspan="2" class="tvcss_10 tvcss_5">
+<br />
+<br />
+Sig.<br />
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_11 tvcss_5">
+B<br />
+</td>
+<td class="tvcss_12 tvcss_5">
+Std. Error<br />
+</td>
+<td class="tvcss_13 tvcss_5">
+Beta<br />
+</td>
+</tr>
+<tr class="even">
+<td rowspan="5" class="tvcss_14 tvcss_15">
+1<br />
+</td>
+<td class="tvcss_16">
+(Constant)<br />
+</td>
+<td class="tvcss_11 tvcss_5">
+4.339<br />
+</td>
+<td class="tvcss_12 tvcss_5">
+1.839<br />
+</td>
+<td class="tvcss_13 tvcss_5">
+<br />
+</td>
+<td class="tvcss_17 tvcss_5">
+2.359<br />
+</td>
+<td class="tvcss_18 tvcss_5">
+.018<br />
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_16">
+age age at day of interview<br />
+</td>
+<td class="tvcss_11 tvcss_5">
+.085<br />
+</td>
+<td class="tvcss_12 tvcss_5">
+.021<br />
+</td>
+<td class="tvcss_13 tvcss_5">
+.056<br />
+</td>
+<td class="tvcss_17">
+<br />
+</td>
+<td class="tvcss_18">
+<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_16">
+edu education level attained (years)<br />
+</td>
+<td class="tvcss_11 tvcss_5">
+2.709<br />
+</td>
+<td class="tvcss_12 tvcss_5">
+.070<br />
+</td>
+<td class="tvcss_13 tvcss_5">
+.610<br />
+</td>
+<td class="tvcss_17">
+<br />
+</td>
+<td class="tvcss_18">
+<br />
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_16">
+eduf educ level father<br />
+</td>
+<td class="tvcss_11 tvcss_5">
+.446<br />
+</td>
+<td class="tvcss_12 tvcss_5">
+.090<br />
+</td>
+<td class="tvcss_13 tvcss_5">
+.085<br />
+</td>
+<td class="tvcss_17">
+<br />
+</td>
+<td class="tvcss_18">
+<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_16">
+edum educ level mother<br />
+</td>
+<td class="tvcss_11 tvcss_5">
+.018<br />
+</td>
+<td class="tvcss_12 tvcss_5">
+.141<br />
+</td>
+<td class="tvcss_13 tvcss_5">
+.002<br />
+</td>
+<td class="tvcss_17">
+<br />
+</td>
+<td class="tvcss_18">
+<br />
+</td>
+</tr>
+<tr class="odd">
+<td colspan="7" class="tvcss_4">
+<ol style="list-style-type: lower-alpha">
+<li>Dependent Variable: occpre
+occupational prestige (highest)<br /></li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+<p> <br />
+Which of the four independent variables has a statistically significant
+effect on occupational prestige?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Age, education respondent, and education mother.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Age, education respondent, and education father.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Age, education respondent, education father, and education mother.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Age and education respondent.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

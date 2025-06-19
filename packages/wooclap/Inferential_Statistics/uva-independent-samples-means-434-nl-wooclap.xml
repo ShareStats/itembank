@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-independent-samples-means-434-nl-wooclap/Inferential Statistics/Parametric Techniques/t-test/Independent samples means</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-independent-samples-means-434-nl_uva-independent-samples-means-434-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een onderzoek naar het effect van voorlichting op angstgevoelens bij
+patiënten die een onaangename operatie moeten ondergaan, is bij 10
+mannen die de standaard voorlichting kregen daarna de angst gemeten via
+een VAS-score, alsmede bij 6 mannen na uitgebreide voorlichting.<br />
+Standaard: n = 10, gemiddelde = 35.10, standaardafwijking = 29.39<br />
+Uitgebreid: n = 6, gemiddelde = 27.17, standaardafwijking = 24.32<br />
+De waarde van de toetsingsgrootheid voor het toetsen van de nulhypothese
+dat de populatiegemiddelden gelijk zijn, is (zonder eventueel minteken)
+gelijk aan</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.55
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.55: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.07
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1.07: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.039
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.039: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.51
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.51: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

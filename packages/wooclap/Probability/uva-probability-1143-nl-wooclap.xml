@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-probability-1143-nl-wooclap/Probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-probability-1143-nl_uva-probability-1143-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een uitkomstenruimte bevat de getallen {1,4,5,7}. Welke waarde hoort op
+de plaats van het vraagteken te staan?<br />
+<br />
+</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">k</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">7</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">P(X=k)</td>
+<td style="text-align: left;">1/6</td>
+<td style="text-align: left;">1/6</td>
+<td style="text-align: left;">?</td>
+<td style="text-align: left;">3/6</td>
+</tr>
+</tbody>
+</table>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1/6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/6: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2/6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2/6: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3/6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+3/6: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1/4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/4: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

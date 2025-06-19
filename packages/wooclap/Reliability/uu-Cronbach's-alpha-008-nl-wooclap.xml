@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Cronbach's-alpha-008-nl-wooclap/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_uu-Cronbach's-alpha-008-nl_uu-Cronbach's-alpha-008-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>De onderstaande SPSS-uitvoer van de betrouwbaarheidsanalyse voor de schaal Negatieve Faalangst is gebaseerd op de gegevens van de Prestatie Motivatie Test voor Kinderen (PMTK).</p>
+<p><img src="uu-Cronbach&#39;s-alpha-008-nl-tabel.jpg" /></p>
+<p>Stel dat je de test moet verkorten, welk van de vier genoemde items komt dan het eerst in aanmerking om uit de schaal te verwijderen?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Item 14
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Door verwijdering van item 14, zou Cronbach’s Alpha lager worden. Is dat wat je wil?
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Item 11
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Door verwijdering van item 11, zou Cronbach’s Alpha lager worden. Is dat wat je wil?
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Item 2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Door verwijdering van item 2, zou Cronbach’s Alpha lager worden. Is dat wat je wil?
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Geen van deze items
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Goed
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

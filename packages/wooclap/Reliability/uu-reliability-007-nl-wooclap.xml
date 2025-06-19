@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-reliability-007-nl-wooclap/Reliability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_uu-reliability-007-nl_uu-reliability-007-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>De klassieke testtheorie is gebaseerd op een gedachte-experiment waarbij dezelfde test oneindig vaak wordt afgenomen bij dezelfde respondent onder gelijkblijvende omstandigheden (replicaties).</p>
+<p>Voor de replicaties van een respondent geldt dan dat:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Bij de testtheorie wordt gesteld dat een respondent bij het gedachte-experiment altijd dezelfde ware score heeft (X). Zijn score op de test (T) zal echter variëren, wat betekent dat ook de meetfout varieert (e). De correcte combinatie staat gegeven in antwoordoptie C.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+de testscores gelijk blijven en de meetfout varieert.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+de testscores verschillen en de meetfout gelijk blijft.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+de ware score gelijk blijft en de meetfout varieert.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+de ware score varieert en de meetfout gelijk blijft.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Oneway_ANOVA-868-nl-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Oneway_ANOVA-868-nl_uu-Oneway_ANOVA-868-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Er wordt onderzoek gedaan naar pesten op basisscholen. Driehonderd families met kinderen op de basisschool worden willekeurig geselecteerd om mee te doen met het onderzoek. Een van de dingen die gemeten wordt is de mening van de participanten over hoe en wat de scholen doen aan het voorkomen van pesten op school. De vragenlijst wordt gegeven aan de vader, de moeder en het oudste kind op de basisschool. De onderzoekers willen de scores vergelijken tussen de vaders, moeders en kinderen. Ze stellen voor om deze drie groepen te vergelijken met een ANOVA.</p>
+<p>Aan welke voorwaarde van de ANOVA is sowieso <span class="math inline">\(\textbf{niet}\)</span> voldaan?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Vaders en moeders en hun kind vormen samen een gezin. Hierdoor hebben ze vaak gelijke meningen, dus deze zijn NIET onafhankelijk</p>
+<p>Weerlegging a: In de tekst staat willekeurig
+Weerlegging c: Schaalscores zijn vaak normaal verdeeld. Maar ook al weet je dit niet, hier kunnen we dan NIKS over zeggen
+Weerlegging d: Hier is niks over te zeggen adhv het verhaal. We weten niet of hier aan voldaan is of niet.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De steekproeven zijn aselect getrokken
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De steekproeven zijn onafhankelijk van elkaar
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De verdeling van de scores in de populatie is normaal
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De spreiding van de scores is hetzelfde in de verschillende populaties
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

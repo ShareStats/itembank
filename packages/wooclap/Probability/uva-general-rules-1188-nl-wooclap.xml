@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-general-rules-1188-nl-wooclap/Probability/Elementary Probability/General Rules</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-general-rules-1188-nl_uva-general-rules-1188-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Elke zaterdagochtend gooit Daan een zuivere dobbelsteen. Als hij een 1
+of 2 gooit dan gaat hij zwemmen. Als hij een 3, 4, 5 of 6 gooit dan gaat
+hij fietsen. Wat is de kans dat hij van de komende vijf zaterdagen er
+precies twee gaat zwemmen?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,111
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,111: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,400
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,400: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,165
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,165: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,329
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,329: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,671
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,671: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

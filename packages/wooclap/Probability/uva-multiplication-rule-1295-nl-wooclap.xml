@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-multiplication-rule-1295-nl-wooclap/Probability/Elementary Probability/General Rules/Multiplication rule</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-multiplication-rule-1295-nl_uva-multiplication-rule-1295-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Er zijn 151 ongevallen tijdens sportlessen op middelbare scholen. 54 van
+deze ongevallen werden veroorzaakt door cheerleaden. Stel dat je een
+random steekproef van 5 uit de 151 wil nemen zonder terugleggen. Wat is
+dan de kans dat er geen enkel ongeluk veroorzaakt wordt door
+cheerleaden?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+(49/151)5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+(49/151)5: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1-(54/151)5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1-(54/151)5: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+(49/151)(48/150)(47/149)(46/148)(45/147)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+(49/151)(48/150)(47/149)(46/148)(45/147): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+(49/151)(48/151)(47/151)(46/151)(45/151)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+(49/151)(48/151)(47/151)(46/151)(45/151): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+(97/151)(96/150)(95/149)(94/148)(93/147)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+(97/151)(96/150)(95/149)(94/148)(93/147): Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

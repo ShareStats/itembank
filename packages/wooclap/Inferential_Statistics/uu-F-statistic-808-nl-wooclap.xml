@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-F-statistic-808-nl-wooclap/Inferential Statistics/NHST/Test statistic/F-statistic</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-F-statistic-808-nl_uu-F-statistic-808-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Bij een exacte herhaling van het bovenstaande onderzoek bij een even grote groep nieuwe respondenten blijkt dat de groepsgemiddelden meer van elkaar verschillen dan bij het eerste onderzoek. De spreiding in scores op de afhankelijke variabele binnen de groepen blijft gelijk.</p>
+<p>Wat heeft dit resultaat voor gevolg voor de F-toetsingsgrootheid?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De tussen-factor heeft een groter aandeel van de totale variantie. Omdat alle andere factoren gelijk blijven, wordt de <span class="math inline">\(MS_{between}\)</span> dus groter ten opzicht van de <span class="math inline">\(MS_{within}\)</span>, daarmee wordt de F-waarde ook groter.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dat valt uit deze informatie niet af te leiden.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De F-toetsingsgrootheid wordt groter.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De F-toetsingsgrootheid wordt kleiner.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De F-toetsingsgrootheid blijft gelijk.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

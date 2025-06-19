@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-validity-206-nl-wooclap/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_eur-validity-206-nl_eur-validity-206-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Twee onderzoekers in een TBS kliniek bediscussiëren het effect van malingenering op de betrouwbaarheid en de validiteit van een test die gebruikt wordt om een succesvolle terugkeer in de maatschappij te voorspellen. De patiënten vulden namelijk bij alle 5-punt Likert stellingen een 3 in.</p>
+<p>Wat kun je in dit geval stellen over de betrouwbaarheid en de validiteit ?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Since most of the patients chose the same answer category for most items, their malingering leads to systematic variance which increases the reliability estimate. The validity of their test scores is negatively influenced by their malingering since their scores do not reflect their true successful rehabilitation.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Omdat de malingering vooral leidt tot systematische variantie, zal de betrouwbaarheid positief beïnvloed worden. De validiteit wordt echter negatief beïnvloed.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Goed
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Omdat de malingering vooral leidt tot niet-systematische variantie, zal de betrouwbaarheid positief beïnvloed worden. De validiteit wordt ook positief beïnvloed.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Omdat de malingering vooral leidt tot niet-systematische variantie, zal de betrouwbaarheid negatief beïnvloed worden. De validiteit wordt ook negatief beïnvloed.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Omdat de malingering vooral leidt tot systematische variantie, zal de betrouwbaarheid negatief beïnvloed worden. De validiteit wordt ook negatief beïnvloed.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

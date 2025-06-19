@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-simple-linear-regression-795-nl-wooclap/Inferential Statistics/Regression/Simple linear regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-simple-linear-regression-795-nl_uva-simple-linear-regression-795-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Gegeven is de tabel met correlaties voor drie predictoren <em>x</em><sub>1</sub>, <em>x</em><sub>2</sub>
+en <em>x</em><sub>3</sub>:</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"><em>x</em><sub>1</sub></td>
+<td style="text-align: left;"><em>x</em><sub>2</sub></td>
+<td style="text-align: left;"><em>x</em><sub>3</sub></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>x</em><sub>1</sub></td>
+<td style="text-align: left;">-</td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><em>x</em><sub>2</sub></td>
+<td style="text-align: left;">0.72</td>
+<td style="text-align: left;">-</td>
+<td style="text-align: left;"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>x</em><sub>3</sub></td>
+<td style="text-align: left;">0.01</td>
+<td style="text-align: left;">0.03</td>
+<td style="text-align: left;">-</td>
+</tr>
+</tbody>
+</table>
+<p>De regressievergelijking voor de afhankelijke variabele <em>y</em> met alleen <em>x</em><sub>1</sub> en <em>x</em><sub>2</sub> is <span class="math inline">\(\hat{y} = 8.75 + 3.51x_{1} + 4.32x_{2}\)</span>
+Stel nu dat het model wordt berekend met <em>x</em><sub>3</sub> erbij. Dan zal de
+coëfficiënt</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+van x1 veel kleiner worden en van x2 veel groter worden.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+van x1 veel kleiner worden en van x2 veel groter worden.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+van x1 ongeveer hetzelfde blijven en van x2 ook.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+van x1 ongeveer hetzelfde blijven en van x2 ook.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+van x1 ongeveer hetzelfde blijven en voor x2 veel kleiner worden.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+van x1 ongeveer hetzelfde blijven en voor x2 veel kleiner worden.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

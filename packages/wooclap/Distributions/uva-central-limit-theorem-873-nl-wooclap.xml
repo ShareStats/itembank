@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-central-limit-theorem-873-nl-wooclap/Distributions/Limit Theorems/Central Limit Theorem</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-central-limit-theorem-873-nl_uva-central-limit-theorem-873-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Wanneer de populatieverdeling van een variabele scheef naar rechts is,
+zal de <em>sampling distribution</em> van het gemiddelde van deze variabele in
+een grote steekproef bij benadering een</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+binomiale verdeling hebben.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+binomiale verdeling hebben.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+normale verdeling hebben.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+normale verdeling hebben.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+verdeling hebben die ook scheef naar rechts is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+verdeling hebben die ook scheef naar rechts is.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+verdeling hebben met twee pieken (bimodal).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+verdeling hebben met twee pieken (bimodal).: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

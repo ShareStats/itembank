@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-inferential-statistics-21-nl-wooclap/Inferential Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-inferential-statistics-21-nl_uva-inferential-statistics-21-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoeker wil er bij het opzetten van een experiment voor zorgen
+dat hij de kans op een significant resultaat zo groot mogelijk maakt.
+Waar moet hij op letten?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dat de meting van de onafhankelijke variabele betrouwbaar is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dat de meting van de onafhankelijke variabele betrouwbaar is.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dat er geen sprake is van observer bias.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dat er geen sprake is van observer bias.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Dat de meting van de afhankelijke variabele betrouwbaar is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dat de meting van de afhankelijke variabele betrouwbaar is.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

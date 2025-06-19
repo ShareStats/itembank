@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Exploratory-factor-analysis-800-nl-wooclap/Factor analysis/Exploratory factor analysis</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Factor-analysis_uu-Exploratory-factor-analysis-800-nl_uu-Exploratory-factor-analysis-800-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Er is een explorerende factoranalyse uitgevoerd over tien items die zijn opgesteld voor het beoordelen van belangstelling voor roddel en achterklap. Het resultaat van een hoofdcomponentenanalyse met oblique (scheve) rotatie is twee statistisch en inhoudelijk zinvol te onderscheiden factoren, namelijk één voor belangstelling voor roddel en één voor belangstelling voor achterklap.</p>
+<p>Beoordeel de volgende twee uitspraken.</p>
+<ol style="list-style-type: upper-roman">
+<li>Het maximale aantal te onderscheiden factoren is gelijk aan 10.</li>
+<li>De eigenwaarden van de twee factoren zijn beide hoger dan 1.</li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Stelling 1: Het doel van factoranalyse is het reduceren van het aantal dimensies. Als er 10 items mee worden genomen in de factoranalyse, is het maximale aantal te onderscheiden factoren gelijk aan dat aantal. De stelling is dus correct.</p>
+<p>Stelling 2: Aangezien er gemeld wordt dat er twee factoren statistisch zinvol te onderscheiden zijn, zullen de eigenwaarden van beide factoren hoger dan 1 zijn.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+I is juist, II is juist
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Beide stellingen zijn inderdaad juist.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is juist, II is niet juist
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Stelling I is inderdaad juist. Kijk nog een keer naar stelling II.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is niet juist, II is juist
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Stelling II is inderdaad juist. Kijk nog een keer naar stelling I.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is niet juist, II is niet juist
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Lees de beschrijving nogmaals goed door. Hoeveel items zijn er? Hoeveel factoren zijn er gevonden?
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

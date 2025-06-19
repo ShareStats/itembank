@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-power-601-nl-wooclap/Inferential Statistics/NHST/Power</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-power-601-nl_uu-power-601-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Welke drie acties leiden tot een verhoging van de power?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het significantieniveau verhogen, een éénzijdige i.p.v. een tweezijdige toets uitvoeren, de standaardafwijking verhogen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+De standaardafwijking verhogen leidt tot een lagere power.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Het significantieniveau verhogen, een éénzijdige i.p.v. een tweezijdige toets uitvoeren, de steekproef vergroten
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is correct.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het significantieniveau verhogen, een tweezijdige i.p.v. een éénzijdige toets uitvoeren, het verwachte effect vergroten
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Een tweezijdige i.p.v. een éénzijdige toets uitvoeren leidt tot een lagere power.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het significantieniveau verlagen, de standaardafwijking verkleinen, de steekproef vergroten
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Het significantieniveau verlagen leidt tot een lagere power.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

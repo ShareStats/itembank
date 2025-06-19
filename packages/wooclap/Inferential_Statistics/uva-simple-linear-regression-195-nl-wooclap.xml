@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-simple-linear-regression-195-nl-wooclap/Inferential Statistics/Regression/Simple linear regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-simple-linear-regression-195-nl_uva-simple-linear-regression-195-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een regressie-analyse wordt nagegaan hoe het aantal studiepunten dat
+studenten in een jaar halen (y) kan worden voorspeld vanuit hun
+gemiddeld eindexamen cijfer (x<sub>1</sub>) en hun sexe (x<sub>2</sub>: x<sub>2</sub> = 0 voor
+vrouwen en x<sub>2</sub>= 1 voor mannen). De regressievergelijking is<br />
+ŷ = 30 + 2x<sub>1</sub> - 5x<sub>2</sub><br />
+Het voorspelde aantal studiepunten voor een vrouw met een gemiddeld
+eindexamencijfer gelijk aan 8 is</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+41
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+41: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+46
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+46: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+51
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+51: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

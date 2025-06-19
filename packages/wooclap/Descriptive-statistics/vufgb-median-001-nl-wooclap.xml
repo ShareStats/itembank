@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-median-001-nl-wooclap/Descriptive statistics/Summary Statistics/Measures of Location/Median, Descriptive statistics/Data representation/Graphs/Stem and leaf plot</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_vufgb-median-001-nl_vufgb-median-001-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Gegeven is onderstaande stem-and-leaf plot met 13 observaties. Welke waarde heeft de mediaan?</p>
+<p><img src="@@PLUGINFILE@@/vufgb-median-001-nl-table01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-median-001-nl-table01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+19
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+20
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

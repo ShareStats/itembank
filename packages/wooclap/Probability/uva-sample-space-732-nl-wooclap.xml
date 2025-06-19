@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-sample-space-732-nl-wooclap/Probability/Elementary Probability/Sample Space</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-sample-space-732-nl_uva-sample-space-732-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Jij werkt op een afdeling van 21 personen. In een doos zitten 21
+enveloppes. Twintig ervan bevatten een boekenbon van 100 euro. De
+eenentwintigste enveloppe is leeg. De eenentwintig personen gaan in een
+rij staan. De voorste persoon in de rij krijgt een aselect gekozen
+enveloppe. Voor de tweede persoon wordt uit de overgebleven enveloppes
+er aselect één gekozen, et cetera. Je wilt natuurlijk een zo klein
+mogelijke kans hebben om de lege enveloppe te ontvangen.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Je kunt dan het beste vooraan in de rij gaan staan.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Je kunt dan het beste vooraan in de rij gaan staan.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Je kunt dan het beste achteraan in de rij gaan staan.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Je kunt dan het beste achteraan in de rij gaan staan.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Je kunt dan het beste midden in de rij (dus: op de elfde plaats) gaan staan.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Je kunt dan het beste midden in de rij (dus: op de elfde plaats) gaan staan.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Het maakt helemaal niets uit op welke plaats je gaat staan.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Het maakt helemaal niets uit op welke plaats je gaat staan.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

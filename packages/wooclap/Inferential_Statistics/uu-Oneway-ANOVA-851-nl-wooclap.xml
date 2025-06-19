@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Oneway-ANOVA-851-nl-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Oneway-ANOVA-851-nl_uu-Oneway-ANOVA-851-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Vier onderwijskundestudenten doen voor de bachelorthesis een onderzoek naar de effecten van concept mapping op leerprestaties van psychologiestudenten (N = 86). In het onderzoek worden drie condities onderscheiden:</p>
+<ol style="list-style-type: decimal">
+<li>Puur: Studenten die instructie krijgen bij het maken van de concept map.</li>
+<li>Ondersteuning: Studenten die instructie krijgen bij het maken van de concept map, waarbij een deel van de concept map al gegeven is.</li>
+<li>Controle: Studenten die geen instructie krijgen bij het maken van de concept map.</li>
+</ol>
+<p>Vier weken nadat de psychologiestudenten het hoofdstuk hebben gelezen, maken ze een kennistoets (tien vragen waarbij elk goed antwoord 1 punt oplevert). De verwachting is dat de studenten in de experimentele condities 1 en 2 gemiddeld hoger scoren op de kennistoets dan de studenten in de controle conditie.</p>
+<p>De onderwijskundestudenten analyseren de gegevens met een ANOVA. Ze noteren hiervan de volgende gegevens in hun verslag:
+<span class="math inline">\(F(2, 83) = 17.90\)</span>, <span class="math inline">\(p &lt; .001\)</span>, <span class="math inline">\(\eta^2 = 0.13\)</span>.</p>
+<p>Welke van de onderstaande uitspraken is juist op basis van het gerapporteerde toetsresultaat?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>In dit onderzoek worden 3 verschillende condities met elkaar vergeleken. Met het vinden van een significant verschil tussen deze groepen (p &lt; .001), weten we nog niet welke van de 3 groepen van elkaar verschillen. Hiervoor is een post-hoc analyse nodig.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De gemiddelden van de experimentele condities 1 en 2 zijn significant hoger dan het gemiddelde in de controle conditie.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het effect van conditie is significant, maar niet relevant (minder dan 5% verklaarde variantie).
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De gerapporteerde gegevens kunnen niet van dit onderzoek afkomstig zijn.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Er is een post-hoc analyse is nodig om vast te stellen of in de experimentele condities 1 en 2 de gemiddelden significant hoger zijn dan in de controle conditie.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

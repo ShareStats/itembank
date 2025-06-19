@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-multiplication-rule-1109-nl-wooclap/Probability/Elementary Probability/General Rules/Multiplication rule</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-multiplication-rule-1109-nl_uva-multiplication-rule-1109-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Bij recente verkiezingen in de VS stemde 55% van alle kiezers
+Republikeins en 45% niet. Van de Republikeinen stemt 80% op kandidaat X,
+en van de niet-republikeinen stemt 10% op kandidaat X. Neem één aselecte
+kiezer in de VS en definieer de gebeurtenissen:<br />
+<br />
+A = Kiezers zijn republikeinen.<br />
+B = Stemmen op de kandidaat X.<br />
+<br />
+Wat is dan de kans op P(A en B)?<br />
+</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,045
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,045: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,440
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,440: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,485
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,485: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,550
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,550: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-paired-samples-595-nl-wooclap/Inferential Statistics/Parametric Techniques/t-test/Paired samples</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-paired-samples-595-nl_uva-paired-samples-595-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Van een aselect getrokken steekproef van 7 personen is de lengte van de
+linker- en de rechterarm gemeten (in cm.):</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">linkerarm</td>
+<td style="text-align: left;">68</td>
+<td style="text-align: left;">67</td>
+<td style="text-align: left;">70</td>
+<td style="text-align: left;">79</td>
+<td style="text-align: left;">65</td>
+<td style="text-align: left;">70</td>
+<td style="text-align: left;">75</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">rechterarm</td>
+<td style="text-align: left;">69</td>
+<td style="text-align: left;">76</td>
+<td style="text-align: left;">69</td>
+<td style="text-align: left;">80</td>
+<td style="text-align: left;">66</td>
+<td style="text-align: left;">73</td>
+<td style="text-align: left;">76</td>
+</tr>
+</tbody>
+</table>
+<p>We willen toetsen<br />
+H<sub>0</sub>: μ(links) - μ(rechts) = 0<br />
+tegen<br />
+H<sub>1</sub>: μ(links) - μ(rechts) &lt; 0<br />
+Geef de kritieke waarde van de éénzijdige toets met risico 0.05.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.44
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2.44: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.78
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1.78: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+-1.75
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+-1.75: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+-2.18
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+-2.18: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

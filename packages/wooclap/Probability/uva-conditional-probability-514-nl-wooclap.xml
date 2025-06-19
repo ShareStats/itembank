@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-conditional-probability-514-nl-wooclap/Probability/Elementary Probability/Conditional probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-conditional-probability-514-nl_uva-conditional-probability-514-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Van 40 eerstejaars studenten verplegingswetenschap is het geslacht en de
+leeftijd bepaald. Dit leverde de volgende kruistabel op:</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">30 jaar en jonger</td>
+<td style="text-align: left;">31 - 40 jaar</td>
+<td style="text-align: left;">41 jaar en ouder</td>
+<td style="text-align: left;"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">vrouw</td>
+<td style="text-align: left;">15</td>
+<td style="text-align: left;">10</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">28</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">man</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">12</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">15</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">40</td>
+</tr>
+</tbody>
+</table>
+<p>P(persoon is 30 jaar of jonger, <em>gegeven</em> dat het een vrouw is) =</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.375
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.375: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.5: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.536
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.536: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.75
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.75: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

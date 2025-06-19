@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-expected-value-1134-nl-wooclap/Probability/Elementary Probability/Random variables/Expected value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-expected-value-1134-nl_uva-expected-value-1134-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>De kans op het winnen van € 2 in een gokspel is 0,3 en de kans op
+verlies van € 1 is 0,7. Wat is het verwachte bedrag dat een speler zal
+winnen of verliezen per gokje als hij het gokspel langere tijd speelt?<br />
+</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<ul>
+<li>€ 0,70 (verlies)</li>
+</ul>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li>€ 0,70 (verlies): Incorrect</li>
+</ul>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<ul>
+<li>€ 0,10 (verlies)</li>
+</ul>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li>€ 0,10 (verlies): Correct</li>
+</ul>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+€ 0,30 (winst)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+€ 0,30 (winst): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+€ 0,70 (winst)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+€ 0,70 (winst): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

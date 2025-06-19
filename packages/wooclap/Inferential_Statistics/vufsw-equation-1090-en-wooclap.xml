@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-equation-1090-en-wooclap/inferential statistics/regression/equation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-equation-1090-en_vufsw-equation-1090-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The table below shows the data of 9 students concerning their exam grade
+(Y), measured on a scale from 0 to 100, and absence from lecture (X),
+measured in the number of missed lectures. The formula that belongs to
+the regression line is Y= 96.14+ 2.75*X. What is the estimated exam
+grade of a student who has not missed any lectures and therefore scores
+0 on absence?</p>
+<table class="table_shade">
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td class="tvcss_2">
+X
+</td>
+<td class="tvcss_3">
+<br />
+</td>
+<td class="tvcss_4">
+0
+</td>
+<td class="tvcss_4">
+3
+</td>
+<td class="tvcss_4">
+6
+</td>
+<td class="tvcss_4">
+4
+</td>
+<td class="tvcss_4">
+9
+</td>
+<td class="tvcss_4">
+2
+</td>
+<td class="tvcss_4">
+15
+</td>
+<td class="tvcss_4">
+8
+</td>
+<td class="tvcss_4">
+5
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_2">
+Y
+</td>
+<td class="tvcss_3">
+<br />
+</td>
+<td class="tvcss_4">
+98
+</td>
+<td class="tvcss_4">
+86
+</td>
+<td class="tvcss_4">
+80
+</td>
+<td class="tvcss_4">
+82
+</td>
+<td class="tvcss_4">
+71
+</td>
+<td class="tvcss_4">
+92
+</td>
+<td class="tvcss_4">
+55
+</td>
+<td class="tvcss_4">
+76
+</td>
+<td class="tvcss_4">
+82
+</td>
+</tr>
+</tbody>
+</table>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The formula: Y= 96.14+ 2.75*X : if X is 0 than Y=96.14</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+96
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2,75
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+96,14
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

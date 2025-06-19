@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-multiplication-rule-1115-nl-wooclap/Probability/Elementary Probability/General Rules/Multiplication rule</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-multiplication-rule-1115-nl_uva-multiplication-rule-1115-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Daan en Marieke zijn van plan om samen een cruise te maken. Maar ze
+wonen in verschillende steden in de VS. De cruise vertrekt vanuit New
+York. Ze moeten naar New York vliegen en op tijd bij het schip aankomen.
+Volgens hun reisplan is de kans dat de vlucht van Daan op tijd zal zijn
+65%, en voor Mariekes vlucht is die kans 75%. We nemen aan dat de
+gebeurtenissen onafhankelijk van elkaar zijn. Hoe groot is dan de kans
+dat ze geen van beiden op tijd arriveren?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,09
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,09: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,10
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,10: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,15
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,15: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,25
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,25: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

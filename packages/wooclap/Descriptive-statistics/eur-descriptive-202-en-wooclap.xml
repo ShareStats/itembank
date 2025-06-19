@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-descriptive-202-en-wooclap/Descriptive statistics/Summary Statistics/Measures of Location, Descriptive statistics/Summary Statistics/Measures of Location/Mean</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_eur-descriptive-202-en_eur-descriptive-202-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Below, the responses of 4 people on 5 variables are shown. What are the rounded total scores (I to IV) when only the people who gave at least 3 answers are included? In SPSS this would be the function: rnd(means.3(v1 to v5) <span class="math inline">\(\times\)</span> 5).</p>
+<table class="table_shade">
+<thead>
+<tr class="header">
+<th style="text-align: left;">ID</th>
+<th style="text-align: left;">V1</th>
+<th style="text-align: left;">V2</th>
+<th style="text-align: left;">V3</th>
+<th style="text-align: left;">V4</th>
+<th style="text-align: left;">V5</th>
+<th style="text-align: left;">Total</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">…</td>
+<td style="text-align: left;">…</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">(I)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">…</td>
+<td style="text-align: left;">…</td>
+<td style="text-align: left;">…</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">(II)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">…</td>
+<td style="text-align: left;">(III)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">(IV)</td>
+</tr>
+</tbody>
+</table>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>“(I) 10, (II) missing, (III) 10 en (IV) 9” is correct. For each person with at least 3 scores, you replace the missings by their mean score. For person 1 this makes: <span class="math inline">\(1+2+3 \div 3 = 2\)</span>, so the scores are: 1, 2, 2, 2, 3 so a total score of 10. Person 2 is excluded, so “missing”, person 3 gets <span class="math inline">\(8 \div 4 = 2\)</span> to replace the missing, so the scores are 1, 2, 2, 3, 2 and the total score is 10. Person 4 has a total score of 9.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<ol style="list-style-type: upper-roman">
+<li>missing, (II) missing, (III) missing, (IV) 9</li>
+</ol>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<ol style="list-style-type: upper-roman">
+<li>10, (II) missing, (III) 10 en (IV) 9</li>
+</ol>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<ol style="list-style-type: upper-roman">
+<li>missing, (II) missing, (III) 10, (IV) 9</li>
+</ol>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<ol style="list-style-type: upper-roman">
+<li>6, (II) missing, (III) 8, (IV) 9</li>
+</ol>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

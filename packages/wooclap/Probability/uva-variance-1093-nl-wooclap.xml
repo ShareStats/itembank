@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-variance-1093-nl-wooclap/Probability/Elementary Probability/Random variables/Variance</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-variance-1093-nl_uva-variance-1093-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Je hebt 1000 euro en een plan om je geld te investeren. In onderstaande
+tabel vind je de mogelijke nettowinsten in een jaar en de kans op deze
+winsten.<br />
+<br />
+Plan:<br />
+</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Netto winst</td>
+<td style="text-align: left;">Kans</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">€ 5000</td>
+<td style="text-align: left;">0,001</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">€ 1000</td>
+<td style="text-align: left;">0,005</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">€ 0</td>
+<td style="text-align: left;">0,994</td>
+</tr>
+</tbody>
+</table>
+<p><br />
+Wat is de variantie van de winst?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+€ 100
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+€ 100: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+€ 29.900
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+€ 29.900: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+€ 980.100
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+€ 980.100: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+€ 24.900.100
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+€ 24.900.100: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

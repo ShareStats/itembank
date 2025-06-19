@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-z-test-801-nl-wooclap/Inferential Statistics/Parametric Techniques/z-test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-z-test-801-nl_uu-z-test-801-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Het aantal geweldsmisdrijven in Nederland is normaalverdeeld met een gemiddelde <span class="math inline">\(\mu = 2.6\)</span> per dag en een standaarddeviatie <span class="math inline">\(\sigma = 0.5\)</span>. Een onderzoeker veronderstelt dat het aantal geweldsmisdrijven bij warm weer toeneemt. In een steekproef van 25 warme dagen blijken er gemiddeld 2.8 geweldsmisdrijven per dag te zijn gepleegd. De onderzoeker voert een eenzijdige z-toets uit. Bij welk significantieniveau <span class="math inline">\(\alpha\)</span> wordt de nulhypothese verworpen?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De <span class="math inline">\(H_0\)</span> wordt verworpen bij <span class="math inline">\(\alpha\)</span> = 5%, maar niet bij <span class="math inline">\(\alpha\)</span> = 1%.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De <span class="math inline">\(H_0\)</span> wordt verworpen bij <span class="math inline">\(\alpha\)</span> = 1%, maar niet bij <span class="math inline">\(\alpha\)</span> = 5%.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De <span class="math inline">\(H_0\)</span> wordt zowel bij <span class="math inline">\(\alpha\)</span> = 5% als bij <span class="math inline">\(\alpha\)</span> = 1% verworpen.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De <span class="math inline">\(H_0\)</span> wordt noch bij <span class="math inline">\(\alpha\)</span> = 5% noch bij <span class="math inline">\(\alpha\)</span> = 1% verworpen.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

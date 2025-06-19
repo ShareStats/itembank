@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-paired-samples-427-nl-wooclap/Inferential Statistics/Parametric Techniques/t-test/Paired samples</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-paired-samples-427-nl_uva-paired-samples-427-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Van een aselect getrokken steekproef van 7 personen is de hartslag om 8
+uur ’s ochtends en 4 uur ’s middags gemeten, met als resultaten:<br />
+ochtend: 75, 74, 70, 79, 65, 70, 68<br />
+middag: 76, 76, 69, 80, 66, 73, 69<br />
+We willen toetsen H<sub>0</sub>: μ(ochtend) = μ(middag) tegen H<sub>1</sub>: μ(ochtend) ≠
+μ(middag). De waarde van de toetsingsgrootheid (eventueel met
+minus-teken) is gelijk aan</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.941
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.941: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.442
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.442: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2.489
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2.489: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.244
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1.244: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

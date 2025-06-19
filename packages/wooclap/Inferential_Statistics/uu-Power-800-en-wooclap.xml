@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Power-800-en-wooclap/Inferential Statistics/NHST/Power</text>
+</category>
+</question>
+
+
+<question type="shortanswer">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Power-800-en_uu-Power-800-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Wells and Perrine (2001) investigated possible psychological benefits of employees bringing their pets to work. They found that employees believed that pets reduced stress and brought positive benefits to the work environment. Based on this finding Dr. Ohboy hypothesizes that participants will experience less psychological stress watching a horror film holding a small pet than they will if they are alone. Dr. Ohboy finds out that the power of his study is .26.</p>
+<p>Explain what a power of .26 means and name and explain 3 things Dr. Ohboy can do to increase the power of his study.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>0.26 means that the researcher only has a 26% chance of finding an effect of holding a small pet during a horror film when, indeed, that effect exists.</p>
+<p>The researcher can increase the power by (1) increasing the sample size, (2) using a larger effect size, or (3) increasing the significance level.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<usecase>0</usecase>
+<answer fraction="100" format="moodle_auto_format">
+<text>
+""
+</text>
+</answer>
+</question>
+
+</quiz>

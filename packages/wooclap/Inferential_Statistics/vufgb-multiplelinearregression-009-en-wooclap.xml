@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-multiplelinearregression-009-en-wooclap/Inferential Statistics/Regression/Multiple linear regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-multiplelinearregression-009-en_vufgb-multiplelinearregression-009-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A student investigates the relationship between secure attachment representation of mothers (Secure), their depressive complaints (depr) and the confidence in their own role as a mother (effic).</p>
+<p>The student has a sample of 30 mothers, and ran a multiple regression on this sample. A part of the results is in the table underneath. Carry out a two-sided test for the regression coefficient of the attachment representation of mothers (Secure), and draw a conclusion.</p>
+<p><img src="@@PLUGINFILE@@/vufgb-multiplelinearregression-009-en-table01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-multiplelinearregression-009-en-table01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Determine the <em>t</em>-value of the corresponding <em>df</em>. The <span class="math inline">\(t = \frac{bi}{se} = \frac{0.23}{0.06} = 3.83\)</span>. The <span class="math inline">\(df = n-(k+1) = 30-(2+1) = 27\)</span>. Look in the <em>t</em>-table at the critical <em>t</em>-value that corresponds with the right-sided exceedance probability of 0.025. Critical <span class="math inline">\(t = 2.025\)</span>. De found <em>t</em> is bigger than the critical <em>t</em> so we reject the nul hypothesis (<span class="math inline">\(b = 0\)</span>). The found <em>t</em> is smaller than <span class="math inline">\(t = 3.421\)</span>, which corresponds with the right-sided exceedance probability of .001 (the <em>p</em>-value of .002). So, the <em>p</em>-value belonging to the found <span class="math inline">\(t = 3.83\)</span> is smaller than .002.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(t = 3.83, \; df = 28, \; p &lt; .002\)</span>; de regression coefficient deviates significantly from 0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(t = 3.83, \; df = 27, \; p &lt; .002\)</span>; de regression coefficient deviates significantly from 0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(t = 3.83, \; df = 28, \; .002 &lt; p &lt; .05\)</span>; de regression coefficient deviates significantly from 0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(t = 3.83, \; df = 27, \; .002 &lt; p &lt; .05\)</span>; de regression coefficient deviates significantly from 0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

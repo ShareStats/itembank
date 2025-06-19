@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-113-en-wooclap/Inferential Statistics/Parametric Techniques/Correlations/Pearson</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-113-en_eur-inferential_statistics-113-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>We predict Y from X1 using linear regression analysis. The Pearson correlation between X1 and Y is r = 0.40 and <span class="math inline">\(s_Y^2\)</span> = 100. When we add a second variable, X2, to the regression model we get <span class="math inline">\(R^2\)</span> = 0.25. How much additional variance is explained by the addition of X2 compared to the regression model with only X1?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.15 or 15%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.09 or 9%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This is the correct answer! The explained variance in Y based on X1 alone equals <span class="math inline">\(0.40^2\)</span> = 0.16 or 16%. When X2 is added to the model, the total proportion of variance explained equals 0.25 of 25%; the increase is 0.25 - 0.16 = 0.09 or 9%.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.40 or 40%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.25 or 25%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

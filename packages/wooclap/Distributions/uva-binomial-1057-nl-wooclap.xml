@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-binomial-1057-nl-wooclap/Distributions/Discrete/Binomial</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-binomial-1057-nl_uva-binomial-1057-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>5% van de geproduceerde schroeven is defect en de kwaliteit van de
+schroeven zijn onafhankelijk van elkaar. Stel <em>X</em> is het aantal defecte
+schroeven en je pakt 10 schroeven als een steekproef. Wat is dan de kans
+dat er geen enkele schroef defect is?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,00
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,00: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,05
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,05: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,10
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,10: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,60
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,60: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

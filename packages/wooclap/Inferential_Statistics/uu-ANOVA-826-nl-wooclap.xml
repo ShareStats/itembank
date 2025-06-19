@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-ANOVA-826-nl-wooclap/Inferential Statistics/Parametric Techniques/ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-ANOVA-826-nl_uu-ANOVA-826-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Stel dat de toelatingsexamenscores waren gecodeerd als “onvoldoende”, “voldoende” of “goed/excellent”. Welke analyse techniek is nu het meest geschikt om te kijken of de GPA’s van de Amerikaanse high school studenten verschillen in deze drie groepen?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Pearson correlatie
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect. Toelatingsexamenscores zijn niet van interval of ratio meetniveau.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Variantie-analyse
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is correct.GPA is de afhankelijke variabele, deze is van interval meetniveau, Toelatingsexamenscores zijn de onafhankelijke variabele, deze zijn hier van ordinaal meetniveau. Het vergelijken van twee of meer groepen op een variabele van interval of ratio meetniveau is mogelijk met variantie-analyse.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Twee-weg variantie-analyse
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect. Er is maar één onafhankelijke variabele, geen twee.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Chi-kwadraat toets van Goodness of Fit
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect. Een chi-kwadraat toets is niet geschikt bij een afhankelijke variabele van interval meetniveau met veel verschillende waarden.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

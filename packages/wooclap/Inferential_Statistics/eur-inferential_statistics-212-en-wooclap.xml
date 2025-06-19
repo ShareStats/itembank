@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-212-en-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-212-en_eur-inferential_statistics-212-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher wants to find out whether the number of units of alcoholic beverages per occasion has a negative influence on the number of months a student needs to obtain his master degree in psychology, when he controls for intelligence (IQ).</p>
+<p>He asks a random sample (N = 100) of freshly graduated psychologists about their alcohol consumption during the master program. Based on this information he classifies the subjects as non-drinkers, moderate drinkers, or heavy drinkers. Furthermore, for each subject the duration of the study and IQ were determined.</p>
+<p>Which type of data analysis is, in theory, most suited for the above study?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The correct answer is ANCOVA. You use an ANCOVA when you want to look at the effect of a categorical independent variable (type of drinker) on a continuous dependent variable (alcohol consumption), while controlling for another continuous variable/covariate (intelligence) that covariates with the dependent variable. Therefore, this is the most appropriate analysis for this study.</p>
+<p>Two-way factorial anova is incorrect, as there is only one independent variable (type drinker). The researcher merely wants to control for IQ.</p>
+<p>As this study is comparing groups, both three-way mixed ANOVA and repeated measures ANOVA do not make sense, as they require some form of within-subjects element as well.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Two-way factorial ANOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Thee-way mixed ANOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+ANCOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repeated measures ANOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

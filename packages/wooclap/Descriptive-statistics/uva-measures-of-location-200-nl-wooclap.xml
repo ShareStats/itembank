@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-measures-of-location-200-nl-wooclap/Descriptive statistics/Summary Statistics/Measures of Location</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-measures-of-location-200-nl_uva-measures-of-location-200-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een <em>random sample</em> van 100 vrouwen blijkt 40% te roken, in een <em>random sample</em> van 100 mannen is dat 60%. Het 95% betrouwbaarheidsinterval voor het verschil tussen de corresponderende populatieproporties is dan</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+(-0.14, +0.14)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+(-0.14, +0.14): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+(-0.34, -0.06)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+(-0.34, -0.06): Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+(-0.38, -0.02)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+(-0.38, -0.02): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

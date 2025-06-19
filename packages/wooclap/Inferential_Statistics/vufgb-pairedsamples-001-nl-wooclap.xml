@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-pairedsamples-001-nl-wooclap/Inferential Statistics/Parametric Techniques/t-test/Paired samples</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-pairedsamples-001-nl_vufgb-pairedsamples-001-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een onderzoek wordt de prestatie op een puzzeltaak (dat wil zeggen, het aantal correct gelegde puzzelstukjes) gemeten bij kinderen. Dit gebeurt tijdens twee condities. Ten eerste wordt de prestatie op een puzzeltaak gemeten terwijl de kinderen alleen zijn. Ten tweede worden de prestaties van dezelfde kinderen gemeten, maar terwijl hun moeder aanwezig is. We willen weten of er een significant verschil is in de gemiddelde prestaties op de puzzeltaak tussen de twee condities. Met welke statistische techniek kan dit getoetst worden?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De <span class="math inline">\(χ^2\)</span>-toets voor onafhankelijkheid.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De McNemar’s toets voor afhankelijke proporties.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De <em>t</em>-toets voor gepaarde steekproeven (<em>paired samples </em>t<em>-test</em>).
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De <em>t</em>-toets voor onafhankelijke steekproeven (<em>independent samples </em>t<em>-test</em>).
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

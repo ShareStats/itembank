@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Twoway-ANOVA-803-nl-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Twoway-ANOVA-803-nl_uu-Twoway-ANOVA-803-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een onderzoek van Wiede et al. (2005) wordt er gekeken naar de hoeveelheid empathie (inlevingsvermogen) van agressieve kinderen tussen de 8 en 12 jaar, waarbij ook gekeken wordt naar het verschil tussen jongens en meisjes. Hierbij is er onderscheid gemaakt tussen agressieve kinderen, agressieve kinderen die ook met ADHD gediagnosticeerd zijn, en kinderen zonder gedragsproblemen (controlegroep). Empathie wordt gemeten door een video te laten zien van een jongetje die van zijn fiets valt, waarna er een vragenlijst wordt afgenomen die gescoord kan worden op een schaal van 0 tot 100.</p>
+<p>In Utrecht wordt het onderzoek van Wiede et al. gerepliceerd en wordt dezelfde onderzoeksopzet gebruikt. In de replicatie wordt ook gekeken naar de combinatie van geslacht en agressie op inlevingsvermogen.</p>
+<p>In de replicatie van het onderzoek van Wiede et al. wil men de volgende hypothese toetsen,
+Halt: $$1 &gt; $$2 &gt; $$3 , waarbij:
+Groep 1 = controle
+Groep 2 = agressie + ADHD
+Groep 3 = agressie</p>
+<p>Kan dit binnen de tweeweg ANOVA worden getoetst?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ja, er moet gekeken worden naar het hoofdeffect van agressie
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ja, er moet gekeken worden naar de interactie
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nee, hiervoor moet een enkelvoudige ANOVA worden uitgevoerd
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Nee, hiervoor moeten post-hoc toetsen (LSD) worden uitgevoerd
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is correct.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

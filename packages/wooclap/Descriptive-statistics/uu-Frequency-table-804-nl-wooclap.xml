@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Frequency-table-804-nl-wooclap/Descriptive statistics/Data representation/Tables/Frequency table</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uu-Frequency-table-804-nl_uu-Frequency-table-804-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Beoordeel de volgende uitspraken over gegroepeerde-frequentietabellen.</p>
+$\verb#I.  De breedte van de intervallen moet zodanig gekozen worden dat er ongeveer 10 intervallen ontstaan.#$
+$\verb#II. Zodra de scores in een gegroepeerde-frequentieverdeling zijn opgenomen, is het niet meer mogelijk de exacte waarde te bepalen van de originele scores.#$
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Uitspraak I is juist, uitspraak II is onjuist.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Uitspraak I is onjuist, uitspraak II is juist.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Beide uitspraken zijn juist.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Beide uitspraken zijn onjuist.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

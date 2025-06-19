@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-simplelinearregression-0098-nl-wooclap/inferential statistics/regression/simple linear regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-simplelinearregression-0098-nl_vufsw-simplelinearregression-0098-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een docent is geïnteresseerd in de invloed van het aantal uren dat
+studenten hebben gestudeerd (“<strong>UREN</strong>”) op het tentamencijfer
+(“<strong>CIJFER</strong>”). Hij voert een regressie-analyse uit met deze twee
+variabelen, met gegevens van een steekproef van 60 studenten.</p>
+<p>Gegeven is het volgende lineair model voor deze relatie: CIJFER = 2,80 +
+0,30 * UREN.</p>
+<p>Bij een regressie veronderstellen we een <strong><em>lineaire</em></strong> relatie tussen X
+en Y. Wat houdt deze assumptie van lineariteit in bij het bovenstaande
+model?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Language<br />
+Nederlands</p>
+<p>M&amp;T Basics of quantitative research<br />
+Basics of quantitative research</p>
+<p>M&amp;T BIS<br />
+Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+We gaan ervan uit dat het aantal UREN een invloed zal hebben op CIJFER, <em>maar niet andersom</em>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dat houdt in dat we verwachten dat de invloed van UREN op CIJFER <em>positief</em> zal zijn.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Dat houdt in dat we verwachten dat de invloed van UREN op CIJFER bij elke vergelijkbare toename van het aantal UREN <em>hetzelfde</em> zal zijn.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+We verwachten dat het effect opgaat voor <em>alle</em> studenten in onze steekproef.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

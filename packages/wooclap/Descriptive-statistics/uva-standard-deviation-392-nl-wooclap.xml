@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-standard-deviation-392-nl-wooclap/Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-standard-deviation-392-nl_uva-standard-deviation-392-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Gegeven de volgende steekproefuitkomsten: 4.5, 3.9, 4.6, 4.1, 4.4.
+Gemiddelde en standaarddeviatie van deze steekproef zijn gelijk aan
+respectievelijk</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.3 en 0.085
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+4.3 en 0.085: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.3 en 0.130
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+4.3 en 0.130: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.3 en 0.261
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+4.3 en 0.261: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+4.3 en 0.292
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+4.3 en 0.292: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

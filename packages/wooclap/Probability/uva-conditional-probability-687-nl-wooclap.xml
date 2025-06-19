@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-conditional-probability-687-nl-wooclap/Probability/Elementary Probability/Conditional probability</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Probability_uva-conditional-probability-687-nl_uva-conditional-probability-687-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Meisjes en jongens kiezen verschillende studierichtingen op de
+middelbare school. Jongens kiezen veel vaker voor richtingen als
+houtbewerking, bouw en elektronica, terwijl meisjes vooral onderwerpen
+als verpleging en schoonheidsverzorging kiezen. In de tabel hieronder
+staan de aantallen studenten die verschillende vakken hebben gekozen:</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">Houtbewerking</td>
+<td style="text-align: left;">Bouw</td>
+<td style="text-align: left;">Elektronica</td>
+<td style="text-align: left;">Verpleging</td>
+<td style="text-align: left;">Schoonheidsverzorging</td>
+<td style="text-align: left;">Totaal</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Meisjes</td>
+<td style="text-align: left;">34</td>
+<td style="text-align: left;">16</td>
+<td style="text-align: left;">57</td>
+<td style="text-align: left;">311</td>
+<td style="text-align: left;">324</td>
+<td style="text-align: left;">742</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Jongens</td>
+<td style="text-align: left;">124</td>
+<td style="text-align: left;">345</td>
+<td style="text-align: left;">231</td>
+<td style="text-align: left;">28</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">736</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Totaal</td>
+<td style="text-align: left;">158</td>
+<td style="text-align: left;">361</td>
+<td style="text-align: left;">288</td>
+<td style="text-align: left;">339</td>
+<td style="text-align: left;">332</td>
+<td style="text-align: left;">1478</td>
+</tr>
+</tbody>
+</table>
+<p>Hoe groot is de voorwaardelijke kans dat een aselect gekozen student
+Verpleging volgt, gegeven het feit dat het een jongen is?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Het correcte antwoord is: 0.04</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.04</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

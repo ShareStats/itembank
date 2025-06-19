@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-multiplelinearregression-007-nl-wooclap/Inferential Statistics/Regression/Multiple linear regression, Inferential Statistics/Regression/Equation, Inferential Statistics/Regression/Intercept, Inferential Statistics/Regression/Slope</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-multiplelinearregression-007-nl_vufgb-multiplelinearregression-007-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Gegeven is de volgende regressievergelijking van een meervoudig lineair regressiemodel met interactie: <span class="math inline">\(Y&#39; = 20 - 3.5 X_1 + 5 X_2 - 2 X_1 X_2\)</span>. Bereken de waardes van het <em>intercept</em> en de <em>slope</em> die het verband tussen <span class="math inline">\(Y\)</span> en <span class="math inline">\(X_1\)</span> weergeeft als <span class="math inline">\(X_2 = 3\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<em>Intercept</em> = 20; <em>slope</em> = -3.5
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<em>Intercept</em> = 35; <em>slope</em> = -3.5
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<em>Intercept</em> = 20; <em>slope</em> = -9.5
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<em>Intercept</em> = 35; <em>slope</em> = -9.5
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

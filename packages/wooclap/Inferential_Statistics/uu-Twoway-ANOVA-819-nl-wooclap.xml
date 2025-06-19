@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Twoway-ANOVA-819-nl-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Twoway-ANOVA-819-nl_uu-Twoway-ANOVA-819-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>De cijfers van een groep studenten van het vak Statistics I aan een universiteit in Boston wordt gebruikt om de vraag te beantwoorden of cijfer voor dit vak afhangt van studieonderwerp (major) en sekse (gender).</p>
+<p>De onderzoekers hebben de studenten willekeurig geselecteerd uit de bestanden van de opleidingen. Bij nadere inspectie blijkt dat er meerdere studenten in de steekproef zitten die een dubbele major hebben. De cijfers van enkele studenten staan zowel bij Social Science als bij Languages. De cijfers van nog twee studenten staan bij zowel Econ/Political Science as bij Languages.</p>
+<p>Welke voorwaarde van de tweeweg ANOVA hebben de onderzoekers hiermee geschonden?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Aselecte steekproef
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Aselecte steekproef. Deze voorwaarde is niet geschonden, aangezien er wel een willekeurige sample is getrokken, oftewel een aselecte steekproef
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Onafhankelijkheid van de waarnemingen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onafhankelijkheid van de waarnemingen. Deze voorwaarde is geschonden, omdat er studenten zijn die in meer dan 1 van de groepen zit. Het is bij een ANOVA belangrijk dat er onafhankelijke groepen zijn. Dat is niet het geval.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Gelijke varianties
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Gelijke varianties. Deze voorwaarde is een belangrijke bij deze toets, maar hier gaat de vraag niet over.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Normale verdeling van de cijfers
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Normale verdeling van de cijfers.Deze voorwaarde is een belangrijke bij deze toets, maar hier gaat de vraag niet over
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

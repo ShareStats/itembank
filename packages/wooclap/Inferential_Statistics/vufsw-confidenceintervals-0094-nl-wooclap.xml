@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-confidenceintervals-0094-nl-wooclap/inferential statistics/confidence intervals</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-confidenceintervals-0094-nl_vufsw-confidenceintervals-0094-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoeker voert een enkelvoudige regressie-analyse uit met
+“<strong>Inkomen</strong>” (netto maandsalaris, in euro’s) als afhankelijke variabele
+en variabele “<strong>Leeftijd</strong>” (leeftijd in jaren) als onafhankelijke
+variabele.</p>
+<p>Zij rekent een 95% betrouwbaarheidsinterval (<em>confidence interval</em>) uit
+van de slope. Dit interval blijkt [-0,02; 0,06] te zijn.</p>
+<p>Wat kunnen we hieruit concluderen, indien we tweezijdig toetsen of
+Leeftijd een significante invloed heeft op Inkomen? We hanteren hierbij
+een significantieniveau van 5% (α = 0,05).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Leeftijd heeft <strong>geen</strong> significante invloed op Inkomen, want het interval bevat <strong>wel</strong> het getal 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Leeftijd heeft <strong>wel</strong> een significante invloed op Inkomen, want het interval bevat <strong>wel</strong> het getal 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Leeftijd heeft <strong>geen</strong> significante invloed op Inkomen, want het interval bevat <strong>wel</strong> het getal 0,05.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Leeftijd heeft <strong>wel</strong> een significante invloed op Inkomen, want het interval bevat <strong>wel</strong> het getal 0,05.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

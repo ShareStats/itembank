@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-ftestforcomparingnestedmodels-004-nl-wooclap/Inferential Statistics/Regression/Multiple linear regression/F-test for comparing (nested) models, Descriptive statistics/Data representation/Tables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-ftestforcomparingnestedmodels-004-nl_vufgb-ftestforcomparingnestedmodels-004-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een onderzoek wordt een regressievergelijking met 3 predictoren geschat op de data van 20 waarnemingen en is de volgende ANOVA-tabel het resultaat:</p>
+<p><img src="@@PLUGINFILE@@/vufgb-ftestforcomparingnestedmodels-004-nl-table01.jpg" /></p>
+<p>Wat is de F-ratio van dit model?</p>
+</p>]]></text>
+<file name="vufgb-ftestforcomparingnestedmodels-004-nl-table01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+23.27
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+25.83
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+17.22
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+20.44
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

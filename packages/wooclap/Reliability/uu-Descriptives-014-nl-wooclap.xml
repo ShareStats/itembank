@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Descriptives-014-nl-wooclap/Reliability/Descriptives</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_uu-Descriptives-014-nl_uu-Descriptives-014-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Voor het behalen van het theorie rijexamen is de ene leerstijl succesvoller dan de andere. In onderzoek naar de invloed van leerstijlen op het examenresultaat, is voor elke leerstijl een aparte test ontwikkeld. Twee testontwikkelaars spreken met elkaar over de betekenis van meetfout <span class="math inline">\(E\)</span> binnen de klassieke testtheorie.</p>
+<p>Beoordeel de volgende twee uitspraken:</p>
+<ol style="list-style-type: upper-roman">
+<li>De meetfout E van een test correleert niet (<span class="math inline">\(r_{ET} = 0\)</span>) met de ware score <span class="math inline">\(T\)</span>.</li>
+<li>Tussen de meetfouten <span class="math inline">\(E\)</span> van de tests voor de verschillende leerstijlen is geen samenhang.</li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Stelling 1: Volgens de klassieke testtheorie is de meetfout <span class="math inline">\(E\)</span> onafhankelijk van de ware score <span class="math inline">\(T\)</span>, omdat <span class="math inline">\(E\)</span> een toevallige en onsystematische meetfout is.</p>
+<p>Stelling 2: Meetfout <span class="math inline">\(E\)</span> is toevallig en onsystematisch, onderling zit er geen samenhang in.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Uitspraak I en II zijn beide juist.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alleen uitspraak I is juist.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alleen uitspraak II is juist.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Uitspraak I en II zijn beide onjuist.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

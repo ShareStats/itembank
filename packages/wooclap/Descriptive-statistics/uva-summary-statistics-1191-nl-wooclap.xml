@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-summary-statistics-1191-nl-wooclap/Descriptive statistics/Summary Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-summary-statistics-1191-nl_uva-summary-statistics-1191-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Volgens de Wereldbank had ongeveer 35% van alle mensen in Oeganda in
+1999 minder dan € 1 per dag te besteden. Stel dat je herhaaldelijk een
+steekproef neemt bij 100 Oegandezen en je telt het aantal mensen dat die
+dag minder dan € 1 te besteden had. Wat is dan het gemiddelde en de
+standaardafwijking van deze verdeling?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+gemiddelde 0,35, standaardafwijking 0,2275
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+gemiddelde 0,35, standaardafwijking 0,2275: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+gemiddelde 35, standaardafwijking 0,2275
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+gemiddelde 35, standaardafwijking 0,2275: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+gemiddelde 35, standaardafwijking 0,4770
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+gemiddelde 35, standaardafwijking 0,4770: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+gemiddelde 35, standaardafwijking 4,7697
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+gemiddelde 35, standaardafwijking 4,7697: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+gemiddelde 35, standaardafwijking 22,75
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+gemiddelde 35, standaardafwijking 22,75: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

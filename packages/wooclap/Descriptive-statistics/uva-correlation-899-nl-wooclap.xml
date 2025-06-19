@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-correlation-899-nl-wooclap/Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-correlation-899-nl_uva-correlation-899-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een onderzoek naar de samenhang tussen het volgen van een statistiek
+college (<em>x</em>) en het ontwikkelen van een psychose (<em>y</em>) wordt een
+correlatie gevonden van r = 0.40. Dit kan worden geïnterpreteerd als</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+een 16% afname in fouten van het voorspellen van y met x.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+een 16% afname in fouten van het voorspellen van y met x.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+dat voor 40% van alle y geldt dat voorspelling (<span class="math inline">\(\hat{y}\)</span>) = y.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+dat voor 40% van alle y geldt dat voorspelling (<span class="math inline">\(\hat{y}\)</span>) = y.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+een 40% afname in fouten van het voorspellen van y met x.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+een 40% afname in fouten van het voorspellen van y met x.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

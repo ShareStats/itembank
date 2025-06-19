@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-reliability-006-nl-wooclap/Reliability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_uu-reliability-006-nl_uu-reliability-006-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een nieuwe test moet bij ouders van schoolgaande kinderen de motivatie meten om actief deel te nemen aan schoolactiviteiten. Er wordt een pilot-onderzoek uitgevoerd naar de praktische bruikbaarheid en de psychometrische kwaliteit van de test met 40 Likert items. De test blijkt te lang te zijn; een aanzienlijk deel van de deelnemers vult op de het einde van de test, geheel willekeurig maar wat in.</p>
+<p>Dit heeft in dit pilot-onderzoek tot gevolg dat de schatting van de betrouwbaarheid van de testscores…</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De laatste items worden niet per definitie fout beantwoord (er kan “per ongeluk” het “goede” antwoord worden ingevuld). Echter, zullen deze items niet samenhangen met elkaar of de overige items. Betrouwbaarheid meet de consistentie van de antwoorden op de items. Aangezien de laatste items niet consistent zijn beantwoord, zal de betrouwbaarheid van de testscores onderschat worden.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+…gelijk blijft. Met een lengte van 40 vragen zal de betrouwbaarheid van de testscores niet worden beïnvloed.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+..overschat wordt, omdat de laatste items niet naar waarheid zijn ingevuld.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+…onderschat wordt, omdat de antwoorden op de laatste items niet met elkaar samenhangen.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dit kunnen we op basis van deze informatie niet weten.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

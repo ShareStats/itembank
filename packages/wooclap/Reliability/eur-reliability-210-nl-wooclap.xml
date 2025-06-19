@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-reliability-210-nl-wooclap/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_eur-reliability-210-nl_eur-reliability-210-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Verlegenheid is in de populatie normaal verdeeld met een gemiddelde van 12 en een standaarddeviatie van 5. De betrouwbaarheid van een verlegenheidstest is .78 (Cronbach’s Alpha). In een onderzoek naar verlegenheid zijn uit een populatie de 40 meest verlegen kinderen gekozen (kinderen met hoogste scores op de verlegenheidstest). Twintig van hen zijn toebedeeld aan een controlegroep en 20 zitten in de behandelgroep. De kinderen in de behandelgroep hebben een assertiviteitstraining doorlopen. Vervolgens is na de behandeling de verlegenheidstest opnieuw afgenomen bij alle kinderen. Onderstaand zie je de gemiddelden voor de controle groep en de behandelgroep voor de twee metingen.</p>
+<table class="table_shade">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Groep</th>
+<th style="text-align: left;">Mean_pretest</th>
+<th style="text-align: left;">Mean_posttest</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Controlegroep (n=20)</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">18</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Behandelingsgroep (n=20)</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">16</td>
+</tr>
+</tbody>
+</table>
+<p>Beoordeel onderstaande stellingen:
+I. Als de betrouwbaarheid van de verlegenheidstest 0 was geweest, dan zou het gemiddelde op de pre-test voor beide groepen nog hoger zijn geweest.
+II. Omdat er een controle groep is, is hier geen sprake van regressie naar het gemiddelde.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Both statements are false If the reliability were 0, then you have only measurement error and in that case the scores on the pre-test could have been either higher, lower, or equal. Including a control group does not influence the presence of regression to the mean, but concerns the design of the study and whether causal conclusions may be drawn (see WE chapter 7).</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Stelling I is niet waar en stelling II is waar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Stelling I en stelling II zijn beide waar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Stelling I is waar en stelling II is niet waar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Stelling I en stelling II zijn beide niet waar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Goed
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-r_squared_change-1028-nl-wooclap/inferential statistics/regression/multiple linear regression/r squared change</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-r_squared_change-1028-nl_vufsw-r_squared_change-1028-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>We onderzoeken het effect van uren “<em>hours”</em> training en houding”<em>attitude</em>” op de prestaties “<em>performance</em>” van een specifieke
+vaardigheid (bijv. Aantal gescoorde goals).</p>
+<p>Voor dit doel voeren we 2 regressies uit met performance als de
+afhankelijke variabele. In de eerste regressie worden hours training en
+attitude opgenomen als onafhankelijke variabelen, terwijl we in de
+tweede regressie ook de interactie tussen hours training en attitude
+toevoegen als een onafhankelijke variabele.</p>
+<p>We voeren de F-test uit voor de R<sup>2</sup>-verandering om te
+beslissen of we de tweede regressie in plaats van de eerste kiezen.</p>
+<p>De volgende regressievergelijking verwijst naar de tweede regressie.
+Welke van de volgende uitspraken over de R<sup>2</sup>-verandering en de
+F-test van de R<sup>2</sup>-verandering is aannemelijk?</p>
+<p><em>p<strong>e</strong>r<strong>f</strong>o<strong>r</strong>m<strong>a</strong>n<strong>c</strong>e</em> = 1.23<sup>*</sup> + 0.112 × <em>a<strong>t</strong>t<strong>i</strong>t<strong>u</strong>d<strong>e<em> + 0.531<sup>*</sup> × </em>h</strong>o<strong>u</strong>r<strong>s<em> + 0.167<sup>*</sup> × </em>a</strong>t<strong>t</strong>i<strong>t</strong>u<strong>d</strong>e</em> × <em>h<strong>o</strong>u<strong>r</strong>s</em></p>
+<p>* betekent statistisch significant</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>These numbers indicate an increase in the R<sup>2 </sup>due to the
+inclusion of the interaction in the regression and a statistically
+significant F-test for the R<sup>2 </sup>change. The interaction effect
+between attitude and hours is statistically significant (see the * that
+is placed next to it in the regression equation). In the case of a
+single interaction, the F-test of the R<sup>2</sup> change always agrees
+with the t-test of the interaction. When a variable is included in the
+regression the R<sup>2 </sup>always increases, at least by a tiny bit.
+In no whatsoever case can the R<sup>2 </sup>decrease due to the
+inclusion of a variable in the regression. Moreover, the interaction
+effect between attitude and hours is statistically significant (see the
+* that is placed next to it in the regression equation). In the case of
+a single interaction, the F-test of the R<sup>2</sup> change always
+agrees with the t-test of the interaction.</p>
+<p>Language<br />
+English</p>
+<p>M&amp;T Dimitris Pavlopoulos<br />
+Default value</p>
+<p>M&amp;T Moderation<br />
+Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+R<sup>2</sup> change = -0.001, F(1,537)=4.2537, P-value=0.0396
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+R<sup>2</sup> change = -0.001, F(1,537)=4.2537, P-value=0.396
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+R<sup>2</sup> change = 0.051, F(1,537)=4.2537, P-value=0.396
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+R<sup>2</sup> change = 0.051, F(1,537)=4.2537, P-value=0.0396
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

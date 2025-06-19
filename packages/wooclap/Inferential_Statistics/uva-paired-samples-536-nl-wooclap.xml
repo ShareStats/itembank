@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-paired-samples-536-nl-wooclap/Inferential Statistics/Parametric Techniques/t-test/Paired samples</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-paired-samples-536-nl_uva-paired-samples-536-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Uit een populatie van mensen die een kalktekort hadden is een aselecte
+steekproef van 10 personen getrokken, die daarop een calcium-verrijkt
+dieet hebben gevolgd. Van deze mensen is het calciumgehalte voor en na
+het dieet gemeten. Welke toets moet je gebruiken om te toetsen of in
+deze populatie het gemiddelde calciumgehalte voor het dieet gelijk is
+aan het gemiddelde calciumgehalte na het volgen van het dieet?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+gepoolde T-toets
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+gepoolde T-toets: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+gepaarde T-toets
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+gepaarde T-toets: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+F-toets
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+F-toets: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+CRD-ANOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CRD-ANOVA: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

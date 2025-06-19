@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Split-half-019-nl-wooclap/Reliability/Analysis/Split half</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_uu-Split-half-019-nl_uu-Split-half-019-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>We kennen allemaal mensen die we ‘geluksvogels’ noemen. Die kunnen doen wat ze willen en ze hebben altijd succes. Aan de andere kant kennen we de ‘pechvogels’. Wat ze ook ondernemen, het loopt altijd verkeerd af, nooit komt er iets behoorlijks tot stand.</p>
+<p>In een pilot voor de ontwikkeling van een ‘geluk of pech’-schaal zijn 17 stellingen (met vijf geordende antwoordcategorieën: 1 = helemaal mee eens t/m 5 = helemaal mee oneens) voorgelegd aan een aselecte steekproef van 129 volwassenen. Voor de schatting van de betrouwbaarheid van de schaalscores is gebruik gemaakt van de split-halfmethode.</p>
+<p>Een nadeel van het schatten van de betrouwbaarheid via de split-halfmethode is dat het resultaat:</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Een overschatting geeft van de betrouwbaarheidscoëfficiënt.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Een niet valide schatting geeft van de betrouwbaarheidscoëfficiënt.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alleen als schatting te gebruiken is voor dichotome items.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Afhankelijk is van de samenstelling van de twee helften.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

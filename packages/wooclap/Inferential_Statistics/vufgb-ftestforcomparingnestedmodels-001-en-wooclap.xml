@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-ftestforcomparingnestedmodels-001-en-wooclap/Inferential Statistics/Regression/Multiple linear regression/F-test for comparing (nested) models</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-ftestforcomparingnestedmodels-001-en_vufgb-ftestforcomparingnestedmodels-001-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In a Model Comparison Test, the following 2 nested models are compared. The sample size is 50.</p>
+<ul>
+<li>Reduced model: <span class="math inline">\(\hat{y} = a + b_1 x_1 + b_2 x_2 + b_3 x_3\)</span></li>
+<li>Complete model: <span class="math inline">\(\hat{y} = a + b_1 x_1 + b_2 x_2 + b_3 x_3 + b_4 x_1 x_2 + b_5 x_1 x_3\)</span></li>
+</ul>
+<p>Complete the following sentence: “The Model Comparison Test has in the numerator … degrees of freedom and in the denominator … degrees of freedom.”</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2, 46
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2, 44
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4, 46
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6, 44
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

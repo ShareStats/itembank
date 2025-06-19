@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Continuous-variable-001-nl-wooclap/Variable type/Continuous variable</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Variable-type_uu-Continuous-variable-001-nl_uu-Continuous-variable-001-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Welke van de volgende variabelen is geen continue variabele?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De tijd benodigd om een som op te lossen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Tijd is een continue variabele. 3,5 minuten of 6,93 seconden zijn mogelijke waarden.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Temperatuur.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Temperatuur is een continue variabele. Het kan 13,5 graden zijn buiten of de oven kan 181,7 graden warm zijn.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Gewicht.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Gewicht is een continue variabele. Iemand kan 71,7 kilo wegen of je kunt 145,6 gram suiker over hebben in de zak.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Aantal kinderen per gezin.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is correct. We tellen het aantal kinderen. Dit is een discrete variabele.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

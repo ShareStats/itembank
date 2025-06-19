@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-simple-linear-regression-571-nl-wooclap/Inferential Statistics/Regression/Simple linear regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-simple-linear-regression-571-nl_uva-simple-linear-regression-571-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een regressiesituatie is bij een aantal individuen een onafhankelijke
+variabele (X) en een afhankelijke (Y) gemeten.<br />
+<br />
+Het gemiddelde van de X-waarden is 54.<br />
+<br />
+De vergelijking van de regressielijn is<br />
+Y = 11.64 - 0.16 X.<br />
+<br />
+Als X met 1 <em>afneemt</em> zal de voorspelde waarde van Y met</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+11.64 afnemen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+11.64 afnemen: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.16 afnemen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.16 afnemen: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+11.64 toenemen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+11.64 toenemen: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.16 toenemen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.16 toenemen: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

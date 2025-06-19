@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-independent_samples_means-1243-en-wooclap/inferential statistics/parametric techniques/t-test/independent samples means</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-independent_samples_means-1243-en_vufsw-independent_samples_means-1243-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The Executive Board of the VU wants to know whether the degree of
+satisfaction with the study (measured on a scale of 1 to 10) is related
+to the gender of the student. For this she bases herself on evaluation
+scores of 100 randomly selected female and male students. Which
+statistical test is most suitable for testing the hypothesis?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>It is the independent t test. The <strong>independent t-test</strong>, is an
+inferential statistical <strong>test</strong> that determines whether there is a
+statistically significant difference between the means in two unrelated
+groups.</p>
+<p>The <strong>dependent t-test</strong> (also called the <strong>paired t-test</strong>or
+<strong>paired</strong>-samples t-<strong>test</strong>) compares the means of two related groups
+to determine whether there is a statistically significant difference
+between these means.</p>
+<p><strong>The </strong>One Sample t Test** is commonly used to <strong>test </strong>the
+following:**</p>
+<ol style="list-style-type: decimal">
+<li>Statistical difference between a <strong>sample</strong> mean and a known or
+hypothesized value of the mean in the population.</li>
+<li>Statistical difference between the <strong>sample</strong> mean and the
+<strong>sample</strong> midpoint of the <strong>test</strong> variable.</li>
+</ol>
+<p> <strong>Use</strong> the <strong>chi</strong>-<strong>square test</strong> for independence to determine
+whether there is a significant relationship between two categorical
+variables.</p>
+<p>M&amp;T Hypothesis testing: means<br />
+Default value</p>
+<p>M&amp;T Model selection<br />
+Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Independent t-test
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+One sample t-test
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dependent t-test
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Chi-sqare test
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

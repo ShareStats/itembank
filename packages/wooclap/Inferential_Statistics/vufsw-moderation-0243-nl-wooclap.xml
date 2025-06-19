@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-moderation-0243-nl-wooclap/inferential statistics/regression/multiple linear regression/moderation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-moderation-0243-nl_vufsw-moderation-0243-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Hieronder staat een regressievergelijking van een moderatie-model. De
+afhankelijke variabele “<strong>PINC</strong>” is persoonlijk maandinkomen (netto, in
+euro’s). “<strong>MAN</strong>” is een dummy variabele (vrouw = 0; man =1);
+“<strong>FULLTIME</strong>” is een dummy variabele die aangeeft of iemand 32 uur of
+meer (score 1) of minder dan 32 uur per week betaalde arbeid verricht
+(score 0).</p>
+<p>PINC = 1381 + 644*MAN + 742*FULLTIME – 128*MAN*FULLTIME.</p>
+<p>Stel, we willen toetsen of het moderatie-effect (idem:
+interactie-effect) van MAN op de relatie tussen FULLTIME en PINC
+significant is. Wat moeten we dan doen?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Language<br />
+Nederlands</p>
+<p>Levels of Difficulty<br />
+Easy</p>
+<p>M&amp;T Basics of quantitative research<br />
+Basics of quantitative research</p>
+<p>M&amp;T BIS<br />
+Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+We moeten dan nagaan of het verschil tussen de waarde 644 en de waarde -128 significant afwijkt van 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+We moeten dan nagaan of de waarde 742 significant afwijkt van 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+We moeten dan nagaan of de waarde -128 significant afwijkt van 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+We moeten dan nagaan of het verschil tussen de waarde 742 en de waarde 644 significant afwijkt van 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+We moeten dan nagaan of het verschil tussen de waarde 742 en de waarde -128 significant afwijkt van 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

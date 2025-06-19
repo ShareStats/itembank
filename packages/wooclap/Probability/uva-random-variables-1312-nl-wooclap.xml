@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-random-variables-1312-nl-wooclap/Probability/Elementary Probability/Random variables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-random-variables-1312-nl_uva-random-variables-1312-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Hieronder zie je variabelen in een onderzoek naar lichamelijke conditie.
+Bepaal welke toevalvariabele X een continue variabele is:<br />
+<br />
+I          De proefpersoon is mannelijk of vrouwelijk, X = het aantal
+vrouwen.<br />
+II         Na elke 30 minuten komt een langs trainer aan wie je vraagt
+om je inspanning te meten. X = het aantal keer dat de trainer langskomt
+per dag.<br />
+III       Je meet de V-O<sub>2</sub>, het maximale zuurstofverbruik per minuut
+tijdens de oefening.<br />
+X = het aantal liters zuurstofverbruik per minuut.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is een continue toevalsvariabele.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is een continue toevalsvariabele.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+II is een continue toevalsvariabele.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+II is een continue toevalsvariabele.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+III is een continue toevalsvariabele.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+III is een continue toevalsvariabele.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I en II zijn continue toevalsvariabelen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I en II zijn continue toevalsvariabelen.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+II en III zijn continue toevalsvariabelen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+II en III zijn continue toevalsvariabelen.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

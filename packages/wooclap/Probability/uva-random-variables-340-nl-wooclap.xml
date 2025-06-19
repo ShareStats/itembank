@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-random-variables-340-nl-wooclap/Probability/Elementary Probability/Random variables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-random-variables-340-nl_uva-random-variables-340-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Van 200 mensen is bepaald of zij links- of rechtshandig zijn, en hoe
+goed zij artistiek ontwikkeld zijn (goed, matig, slecht). De resultaten
+zijn weergegeven in onderstaande kruistabel.</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">Artistieke ontwikkeling</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">Goed</td>
+<td>Matig</td>
+<td>Slecht</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Rechtshandig</td>
+<td style="text-align: left;">42</td>
+<td>72</td>
+<td>56</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Linkshandig</td>
+<td style="text-align: left;">18</td>
+<td>8</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+<p>Wanneer we aselect een van deze 200 personen trekken, wat is dan de kans
+dat deze persoon rechtshandig of artistiek slecht ontwikkeld (of beide)
+is?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.28
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.28: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.33
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.33: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.87
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.87: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.93
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.93: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

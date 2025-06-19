@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-correlation-579-nl-wooclap/Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-correlation-579-nl_uva-correlation-579-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Bereken de Pearson correlatiecoefficient, als gegeven is</p>
+<ul>
+<li>Gemiddelde van X: 0.5</li>
+<li>Gemiddelde van Y: 0.5</li>
+<li>Standaarddeviatie van X: 0.2</li>
+<li>Standaarddeviatie van Y: 0.25</li>
+<li>Covariantie tussen X en Y: 0.039</li>
+</ul>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Om de Pearson correlatiecoëfficiënt te berekenen, hebben we niet alleen de gemiddelden en standaarddeviaties van de twee variabelen nodig, maar ook de covariantie tussen de variabelen. Hier is de formule die we zullen gebruiken:</p>
+<p><span class="math inline">\(r = \frac{\text{cov}(X, Y)}{\sigma_X \sigma_Y}\)</span></p>
+<p>waarbij:
+- <span class="math inline">\(r\)</span> de Pearson correlatiecoëfficiënt is.
+- <span class="math inline">\(\text{cov}(X, Y)\)</span> de covariantie tussen <span class="math inline">\(X\)</span> en <span class="math inline">\(Y\)</span> is.
+- <span class="math inline">\(\sigma_X\)</span> de standaarddeviatie van <span class="math inline">\(X\)</span> is.
+- <span class="math inline">\(\sigma_Y\)</span> de standaarddeviatie van <span class="math inline">\(Y\)</span> is.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+-0.57
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+-0.57: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+-0.36
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+-0.36: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.78
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.78: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

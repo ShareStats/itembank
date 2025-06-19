@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Oneway_ANOVA-853-en-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Oneway_ANOVA-853-en_uu-Oneway_ANOVA-853-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>An educational scientist is researching the effects of concept mapping on the learning performance of students (N = 86). The participants are divided into three conditions:</p>
+<ol style="list-style-type: decimal">
+<li>Pure: Students who receive instructions on how to create the concept map.</li>
+<li>Support: Students who receive instructions on how to create the concept map, in which part of the concept map has already been given.</li>
+<li>Control: Students who are not instructed in how to create the concept map.</li>
+</ol>
+<p>After taking part in the experimental conditions the participants complete an exam. It is expected that students in the pure and support experimental conditions will on average score higher on the exam than students in the control condition.
+The scientist analyses the data with an ANOVA. She reports the following result:</p>
+<p>F(2, 83) = 17.90, p &lt; .001, <span class="math inline">\(\eta^2\)</span> = 0.13.</p>
+<p>Which of the following statements is correct based on the reported result?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>In this research 3 different conditions are compared with each other. By finding a significant difference between these groups (p &lt; .001), we don’t know yet which of the 3 groups differ from each other. This requires a post-hoc analysis.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The mean values of the pure and support experimental conditions are significantly higher than the mean values in the control condition.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The effect of condition is significant, but not relevant.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The reported data cannot originate from this study.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+A post-hoc analysis is necessary to determine whether the mean values in the pure and support experimental conditions are significantly higher than in the control condition.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Effect-size-815-nl-wooclap/Inferential Statistics/Effect size</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Effect-size-815-nl_uu-Effect-size-815-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een onderzoek naar de relatie tussen locatie van uitzending (Irak of Afghanistan) en depressiviteit van soldaten wordt in eerste plaats alleen maar gekeken òf de soldaten depressief zijn geworden, ja of nee. Een <span class="math inline">\(\chi^2\)</span>-toets wordt uitgevoerd en de variabelen bleken, in een steekproef van 60 soldaten, niet onafhankelijk: <span class="math inline">\(\chi^2(1, n = 60) = 5.88\)</span>, <span class="math inline">\(p = .015\)</span>. Wat is de waarde van de effectgrootte die hierbij gerapporteerd hoort te worden?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Locatie is een dichotome variabele (Irak/Afghanistan), evenals depressie (ja/nee). Om in dit geval de effectgrootte uit te rekenen kan de phi-coefficiënt berekend worden:</p>
+<p><span class="math inline">\(\phi= \sqrt{\frac{\chi^2}{n}} = \sqrt{\frac {5.88}{60}} =0.313\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(0.015\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(.015\)</span> is <span class="math inline">\(p\)</span>-waarde en niet de effectgrootte.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(0.098\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Bij ditt antwoord (<span class="math inline">\(.098\)</span>) is vergeten de wortel te trekken.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(0.313\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\phi= \sqrt{\frac{\chi^2}{n}} = \sqrt{\frac {5.88}{60}} =0.313\)</span>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dit is niet te bepalen omdat de kruistabel niet gegeven is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit is wel degelijk te bepalen. Locatie is een dichotome variabele (Irak/Afghanistan), evenals depressie (ja/nee). Om in dit geval de effectgrootte uit te rekenen kan de phi-coefficiënt berekend worden.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-oneway-anova-273-nl-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-oneway-anova-273-nl_uva-oneway-anova-273-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Hieronder staat de (onvolledige) ANOVA-tabel van een CRD-ANOVA
+(Completely Randomised Design ANOVA), die is uitgevoerd op gegevens die
+verzameld zijn bij 16 personen, verdeeld over 4 groepen. </p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Variatiebron</td>
+<td style="text-align: left;">SS</td>
+<td style="text-align: left;">df</td>
+<td style="text-align: left;">MS</td>
+<td style="text-align: left;">F</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Among groups</td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">8.0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Within groups</td>
+<td style="text-align: left;">60</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Total</td>
+<td style="text-align: left;">180</td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+</tr>
+</tbody>
+</table>
+<p>De waarde van MS(Among groups) is hier gelijk aan</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+5: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+30
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+30: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+40
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+40: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+120
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+120: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

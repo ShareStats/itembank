@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-129-en-wooclap/Inferential Statistics/Regression/Regression F-test</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-129-en_eur-inferential_statistics-129-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Research has shown that when people learn words from a foreign language they better remember those words if they first study the words and then test themselves trying to recollect the words, compared to just studying the words twice. A researcher from the institute of psychology wants to know whether this so-called testing effect can be proven to exist in the classroom. She divides a group of 60 students into three groups [condition]. The students in group 1 study a list of 30 French words and their Dutch translation twice (1 = restudy). The students in group 2 study the list of 30 French words and their Dutch translation once and then test themselves (2 = testing). The students in group 3 just study the list of 30 French words and their Dutch translation once without testing themselves (3 = study_once). A week after the study phase, the students took a test where they had to give the Dutch translation of the 30 French words that they studied earlier. The total number of correct translations is represented by the variable score [score]. Additionally, the researcher included for each student his/her French grade [French].</p>
+<p>Open the data file.</p>
+<p>The researcher wants to know whether there is an effect of [condition] on performance [score] while controlling for French grades [French]. Before she can conduct the appropriate analysis, she wants to test whether the three groups differ with respect to their average French grade [French]. What is the F-value for this latter test? (3 decimals)</p>
+<p><strong>Download</strong>: <a href="@@PLUGINFILE@@/eur-inferential_statistics-129-en-data.sav">SPSS file</a>, <a href="@@PLUGINFILE@@/eur-inferential_statistics-129-en-data.csv">CSV file</a></p>
+</p>]]></text>
+<file name="eur-inferential_statistics-129-en-data.sav" encoding="base64">JEZMMkAoIykgSUJNIFNQU1MgU1RBVElTVElDUyBEQVRBIEZJTEUgTVMgV2luZG93cyAyMC4wLjAgICAgICAgIAIAAAAEAAAAAQAAAAAAAABdAAAAAAAAAAAAWUAxMSBTZXAgMTQxNTo1NjoxOCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAAAAACAAAAAAAAAAAAAAAAAAAAAAIFAAACBQBQUCAgICAgIAIAAAAAAAAAAAAAAAAAAAAAAQUAAAEFAENPTkRJVElPAgAAAAAAAAAAAAAAAAAAAAACBQAAAgUAU0NPUkUgICACAAAAAAAAAAAAAAAAAAAAAAgFAAAIBQBGUkVOQ0ggIAMAAAADAAAAAAAAAAAA8D8HcmVzdHVkeQAAAAAAAABAB3Rlc3RpbmcAAAAAAAAIQApzdHVkeV9vbmNlICAgICAEAAAAAQAAAAIAAAAHAAAAAwAAAAQAAAAIAAAAFAAAAAAAAAAAAAAA0AIAAAEAAAABAAAAAgAAAOQEAAAHAAAABAAAAAgAAAADAAAA////////7//////////vf/7//////+//BwAAAAsAAAAEAAAADAAAAAMAAAAIAAAAAQAAAAEAAAALAAAAAQAAAAMAAAAIAAAAAQAAAAEAAAAKAAAAAQAAAAcAAAANAAAAAQAAADIAAABQUD1wcAlDT05ESVRJTz1jb25kaXRpb24JU0NPUkU9c2NvcmUJRlJFTkNIPUZyZW5jaAcAAAAQAAAACAAAAAIAAAABAAAAAAAAAF0AAAAAAAAABwAAABIAAAABAAAATQAAAHBwOiRAUm9sZSgnMCcKKS9jb25kaXRpb246JEBSb2xlKCcwJwopL3Njb3JlOiRAUm9sZSgnMCcKKS9GcmVuY2g6JEBSb2xlKCcwJwopBwAAABQAAAABAAAADAAAAHdpbmRvd3MtMTI1MucDAAAAAAAAZWV6aWZleWpnZXdtaGV5bGlleW5qZXpra2V8amxld2ltZXltbmV3bG9leWxwZXlqcWV3bHJldGlzZXRndGV3bHVleGl2ZXptd2V3a3hlem15ZXtsemV7bHtldGt8ZXRofWVza35ldmx/ZXhrgGV0aoFlfWyCZXVtg2V6a4Rme22FZnprhmZ9bIdmdW2IZnxsiWZ4bIpmeWuLZn1sjGZ5a41me26OZnZsj2Z5bZBmem2RZnhtkmZ8bZNmeWyUZnttlWZ/bJZmemyXZnttmGZ4bZlmf22aZndsm2Z7a5xmfm2dZnxrnmZ3a59md2ugZnttoWZ5aqJndW2jZ3FqpGdzaKVncWmmZ3Rrp2dzaKhndmqpZ3Jsqmd0bKtndWmsZ3ZrrWdwaa5ncW2vZ3hrsGd1Z7Fnc2eyZ3lts2dyarRnc2y1Z3dqtmd0Z7dndmu4Z3NruWdxaLpncWq7Z3VpvGdzab1nc2i+Z3Zsv2d1bcBndmrBZ3hrAAAAAA==</file>
+<file name="eur-inferential_statistics-129-en-data.csv" encoding="base64">77u/cHAsY29uZGl0aW9uLHNjb3JlLEZyZW5jaAoxLDEsMjIsNQoyLDEsMjEsNgozLDEsMTksOQo0LDEsMjEsOAo1LDEsMjEsMTAKNiwxLDIyLDcKNywxLDI0LDYKOCwxLDE5LDUKOSwxLDIxLDkKMTAsMSwxOSw4CjExLDEsMjEsOAoxMiwxLDIxLDYKMTMsMSwxOSw4CjE0LDEsMTYsNQoxNSwxLDE2LDMKMTYsMSwxOSw4CjE3LDEsMjAsNQoxOCwxLDIyLDkKMTksMSwxOSw3CjIwLDEsMjIsOQoyMSwxLDIzLDgKMjIsMSwyMyw4CjIzLDEsMTYsNwoyNCwxLDE2LDQKMjUsMSwxNSw3CjI2LDEsMTgsOAoyNywxLDIwLDcKMjgsMSwxNiw2CjI5LDEsMjUsOAozMCwxLDE3LDkKMzEsMSwyMiw3CjMyLDIsMjMsOQozMywyLDIyLDcKMzQsMiwyNSw4CjM1LDIsMTcsOQozNiwyLDI0LDgKMzcsMiwyMCw4CjM4LDIsMjEsNwozOSwyLDI1LDgKNDAsMiwyMSw3CjQxLDIsMjMsMTAKNDIsMiwxOCw4CjQzLDIsMjEsOQo0NCwyLDIyLDkKNDUsMiwyMCw5CjQ2LDIsMjQsOQo0NywyLDIxLDgKNDgsMiwyMyw5CjQ5LDIsMjcsOAo1MCwyLDIyLDgKNTEsMiwyMyw5CjUyLDIsMjAsOQo1MywyLDI3LDkKNTQsMiwxOSw4CjU1LDIsMjMsNwo1NiwyLDI2LDkKNTcsMiwyNCw3CjU4LDIsMTksNwo1OSwyLDE5LDcKNjAsMiwyMyw5CjYxLDIsMjEsNgo2MiwzLDE3LDkKNjMsMywxMyw2CjY0LDMsMTUsNAo2NSwzLDEzLDUKNjYsMywxNiw3CjY3LDMsMTUsNAo2OCwzLDE4LDYKNjksMywxNCw4CjcwLDMsMTYsOAo3MSwzLDE3LDUKNzIsMywxOCw3CjczLDMsMTIsNQo3NCwzLDEzLDkKNzUsMywyMCw3Cjc2LDMsMTcsMwo3NywzLDE1LDMKNzgsMywyMSw5Cjc5LDMsMTQsNgo4MCwzLDE1LDgKODEsMywxOSw2CjgyLDMsMTYsMwo4MywzLDE4LDcKODQsMywxNSw3Cjg1LDMsMTMsNAo4NiwzLDEzLDYKODcsMywxNyw1Cjg4LDMsMTUsNQo4OSwzLDE1LDQKOTAsMywxOCw4CjkxLDMsMTcsOQo5MiwzLDE4LDYKOTMsMywyMCw3Cg==</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The F-value is 13.549.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>13.549</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

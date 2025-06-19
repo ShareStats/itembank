@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-reliability-207-en-wooclap/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_eur-reliability-207-en_eur-reliability-207-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Previous studies on the WISC have shown that it has a reliability of .71 (Cronbach’s alpha). A researcher working for CITO (Dutch central institute for test development) wants to know the correlation between the WISC and one of the CITO tests. He draws a sample of 102 children and finds that the correlation is .86. How is it possible that this correlation is higher than the square root of the WISC’s reliability?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li>Cronbach’s alpha gives an underestimation of the reliability in the population, not an overestimation.</li>
+<li>When you calculate the maximum correlation you assume that the reliability of the other variable is 1, so the high reliability of the CITO test is not the correct answer.</li>
+<li>The variance in true scores on the CITO test being high is not the correct answer, because this would increase the reliability of the Cito test.</li>
+</ul>
+<p>This leaves us with the answer regarding sample fluctuation being the only correct answer, because you may have drawn an “extreme” sample from the population with a higher correlation.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Because of sample fluctuation when Cronbach’s alpha is estimated.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Because Cronbach’s alpha gives an overestimation of the reliability in the population.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Because the CITO test has a high reliability.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Because the variance in true scores on the CITO test is high.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-inferential-statistics-42-nl-wooclap/Inferential Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-inferential-statistics-42-nl_uva-inferential-statistics-42-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een aantal onderzoekers is geïnteresseerd in beslissingen gebaseerd op
+rationele gronden. Daartoe stellen ze een onderzoek in met twee groepen
+die uit twee auto's (auto A en auto B) moeten kiezen: één groep van 100
+proefpersonen waarin men moet beslissen welke auto ze kiezen aan de hand
+van vijf gegevens (prijs, kleur, grootte, air-conditioning en
+stuurbekrachtiging), en één groep van 100 proefpersonen waarin men moet
+beslissen welke auto ze kiezen aan de hand van twee gegevens (prijs en
+kleur). In de eerste groep heeft een proportie van 0.25 voor auto A
+gekozen en in de tweede groep heeft een proportie van 0.30 voor auto A
+gekozen. De vraag van de onderzoekers is of het uitmaakt hoeveel
+gegevens er worden gegeven voor de keuze van auto. Getoetst wordt de
+nulhypothese dat het niet uitmaakt tegen de alternatieve hypothese dat
+het verschil in proporties groter of kleiner dan nul is. De P-waarde van
+deze toets is</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.0215
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.0215: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.4296
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.4296: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.7852
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.7852: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

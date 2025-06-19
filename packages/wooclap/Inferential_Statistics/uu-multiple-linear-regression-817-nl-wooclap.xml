@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-multiple-linear-regression-817-nl-wooclap/Inferential Statistics/Regression/Multiple linear regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-multiple-linear-regression-817-nl_uu-multiple-linear-regression-817-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoeker wil weten wat het effect is van het aantal uren VRIJE TIJD per week op het gevoel van GELUK van studenten (vragenlijst met schaal van 0-20). De onderzoeker heeft echter ook reden om te verwachten dat STUDIERESULTATEN (onvoldoende, voldoende) een invloed kan hebben op deze relatie.</p>
+<p>Op welke manier kan de onderzoeker het beste analyseren of de relatie tussen aantal vrije uren per week en geluksgevoel gemodereerd wordt door studieresultaten?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Multipele regressieanalyse met als predictoren VRIJE TIJD, STUDIERESULTATEN en de interactieterm STUDIERESULTATEN×GELUK.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Multipele regressieanalyse met als predictoren VRIJE TIJD, STUDIERESULTATEN en de interactieterm STUDIERESULTATEN×VRIJE TIJD.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Hiërarchische regressieanalyse waar in model 1 GELUK wordt opgenomen als predictor en in model 2 STUDIERESULTATEN als predictor wordt toegevoegd.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Hiërarchische regressieanalyse waar in model 1 VRIJE TIJD wordt opgenomen als predictor en in model 2 STUDIERESULTATEN als predictor.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

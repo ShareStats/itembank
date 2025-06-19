@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-mean-69-nl-wooclap/Descriptive statistics/Summary Statistics/Measures of Location/Mean</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-mean-69-nl_uva-mean-69-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In onderzoek met 6 proefpersonen wordt overwogen de Wilcoxon test op het
+verschil in gemiddelde rangordeningen uit te voeren. De proefpersonen
+zijn aselect aan één van twee condities toegewezen. Twee observatoren
+hebben met getallen van 0 tot en met 10 aangegeven in hoeverre
+"onrustig persoon" op de proefpersonen van toepassing was, waarbij 0
+"heel rustig" betekent en 10 "heel onrustig". De observatoren wisten
+niet in welke conditie ieder van de proefpersonen zat. De data van
+observator 1 zijn als volgt:<br />
+groep 1: 6, 2, 3<br />
+groep 2: 4, 5, 1<br />
+De data van observator 2 zijn als volgt:<br />
+groep 1: 10, 6, 7<br />
+groep 2: 8, 9, 4<br />
+Er worden rangordeningen gemaakt van de data voor ieder van de
+observatoren, waarbij een hoge rangorde wordt toegekend aan een hoge
+score (10 krijgt rangorde 1 enz.). Dan volgt dat de gemiddelde
+rangordeningen</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+gelijk zijn voor beide observatoren.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+gelijk zijn voor beide observatoren.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+van observator 1 groter zijn dan die van observator 2.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+van observator 1 groter zijn dan die van observator 2.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+van observator 1 kleiner zijn dan die van observator 2.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+van observator 1 kleiner zijn dan die van observator 2.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

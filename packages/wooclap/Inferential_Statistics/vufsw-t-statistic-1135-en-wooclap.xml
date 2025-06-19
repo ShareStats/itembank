@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-t-statistic-1135-en-wooclap/inferential statistics/nhst/rest statistic/t-statistic</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-t-statistic-1135-en_vufsw-t-statistic-1135-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher took a random sample of 50 men and 52 women and, among
+other things, asked about the number of hours that respondents spend on
+the internet per week. The null hypothesis H<sub>0</sub> is that there
+is no difference between men and women; the alternative hypothesis
+H<sub>a</sub> of the researcher is that the average number of hours per
+week does differ between men and women. This is tested with alpha =
+0.01. Below is (a part of) the results.</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td>
+mean difference
+</td>
+<td>
+standard error of the mean difference
+</td>
+<td>
+Degrees of freedom
+</td>
+</tr>
+<tr class="even">
+<td>
+0.535
+</td>
+<td>
+0.954
+</td>
+<td>
+100
+</td>
+</tr>
+</tbody>
+</table>
+<p>Suppose the mean number of hours among the men in the sample would have
+been much higher. Which quantity (or quantities) change as a result of
+the higher average of men?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The alpha is a quantity you decide on for the testing. The <em>t</em> value can
+be calculated with the mean difference divided by the standard error. If
+the mean of the men is higher the mean difference will also be higher,
+so the <em>t</em> value also higher. </p>
+<p>If you want to know more about t test calculation watch this
+<a href="https://www.youtube.com/watch?v=A1lLo-np0KU&amp;index=6&amp;list=PLyLpEs0x9Bnl2e68nd7M6lecUqUNu2Sgn">clip</a></p>
+<p>Language<br />
+Nederlands</p>
+<p>Levels of Difficulty<br />
+Medium</p>
+<p>M&amp;T BIS<br />
+Default value</p>
+<p>M&amp;T Hypothesis testing: means<br />
+Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The <em>t</em>-value and the alpha
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The <em>t</em>-value.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+None of the above answers.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The alpha
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

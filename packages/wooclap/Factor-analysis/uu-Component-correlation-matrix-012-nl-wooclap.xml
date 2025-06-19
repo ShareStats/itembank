@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Component-correlation-matrix-012-nl-wooclap/Factor analysis/Compontent correlation matrix</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Factor-analysis_uu-Component-correlation-matrix-012-nl_uu-Component-correlation-matrix-012-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Voor een onderzoek bij Nederlandse studenten naar ‘lange tenen’ en ‘gevoelige snaren’ zijn acht items ontwikkeld. De items X1 tot en met X4 gaan over ‘lange tenen’ en de items X5 tot en met X8 gaan over ‘gevoelige snaren’.</p>
+<p>De respondenten geven op een vijfpuntsschaal de mate van instemming aan (1 = geheel mee oneens tot en met 5 = geheel mee eens). Over de verzamelde gegevens is een factoranalyse uitgevoerd. De factoroplossing met één factor ‘respectvolle omgang’ bleek uitstekend. De factorladingen van de acht items op de factor zijn hieronder weergegeven.</p>
+<p><img src="uu-Compontent-correlation-matrix-012-nl-tabel.jpg" /></p>
+<p>Alle respondenten krijgen een factorscore F. Stel een student heeft een factorscore ver boven het gemiddelde van de groep (F &gt; 2.5), dan is het, gegeven de factorladingen, zeer waarschijnlijk dat deze student het …</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Uitleg: Iemand die hoog scoort op de Factor, heeft hoge scores op de items met positieve factorladingen (X1 tot en met X4) en lage scores op de items met negatieve factorladingen (X5 tot en met X8). De items X1 tot en met X4 meten de lange tenen-stellingen. Iemand die hoog scoort op Factor F scoort dus ook hoog op deze items. Een hogere score (1 = geheel mee oneens, 5 = geheel mee eens) betekent dat men het eens is met deze stellingen. Een lage score op de items X5 tot ten met X8 staan juist voor oneens zijn met de gevoelige snaren-stellingen.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+eens is met de lange tenen-stellingen en het ook eens is met de gevoelige snaren-stellingen.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+eens is met de lange tenen-stellingen, maar het oneens is met de gevoelige snaren-stellingen.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+oneens is met de lange tenen-stellingen, maar het wel eens is met de gevoelige snaren-stellingen.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+oneens is met de lange tenen-stellingen en het ook oneens is met de gevoelige snaren-stellingen.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

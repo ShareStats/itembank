@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Oneway_ANOVA-830-en-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Oneway_ANOVA-830-en_uu-Oneway_ANOVA-830-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>An educational scientist is investigating how mind mapping influences learning among UCU-students. In this research three conditions are present:</p>
+<p>I. Pure: Students receive instructions while making a mind map
+II. Support: Students are shown part of a mind map as an example and receive instructions while making their mind map,
+III. Control: Students do not get any instruction while making a mind map
+The next week the students take a knowledge test. The researcher expects that the students in the Pure (I) and Support (II) conditions score higher on the knowledge test than the students in the control condition (III).
+The researcher analyses the data with an ANOVA. He writes in the research report:
+F(2, 83) = 17.90, p &lt; .001, η2 = .131.
+Which of the following statements is correct given the reported results?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The means of the experimental conditions I and II are significantly higher than the mean of the control condition III.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+A post-hoc analysis is needed to decide if the means of the experimental conditions I and II are significantly higher than the mean of the control condition III.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The effect of condition is significant, but not relevant.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The reported results do not match the research design.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

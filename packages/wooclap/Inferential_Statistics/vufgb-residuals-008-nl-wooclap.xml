@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-residuals-008-nl-wooclap/Inferential Statistics/Regression/Residuals</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-residuals-008-nl_vufgb-residuals-008-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Gegeven zijn onderstaande gegevens.</p>
+<p>De schatting van de kwadratensom (SS) van de residuen bedraagt 2.0. Bepaal nu de standaardfout van de residuen.</p>
+<p><img src="@@PLUGINFILE@@/vufgb-residuals-008-nl-table01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-residuals-008-nl-table01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.00
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.50
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.00
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.67
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

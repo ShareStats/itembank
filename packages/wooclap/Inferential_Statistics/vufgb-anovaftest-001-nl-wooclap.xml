@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-anovaftest-001-nl-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/ANOVA F-test, Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-anovaftest-001-nl_vufgb-anovaftest-001-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een eenwegs-ANOVA (<em>one-way ANOVA</em>) wordt uitgevoerd om te toetsen of de gemiddeldes van 3 groepen verschillen. De totale steekproefgrootte is 90, ofwel 30 in elke van de drie groepen. De kwadratensom tussen groepen (<span class="math inline">\(SS_{between}\)</span>, ofwel <span class="math inline">\(SSA\)</span>) is 60, de kwadratensom binnen groepen (<span class="math inline">\(SS_{within}\)</span>) is 870. Voer de <em>F</em>-toets uit en trek een conclusie.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<em>F</em>(2, 87) = 3, <em>p</em> &lt; .05. Er zijn <em>wel</em> significante verschillen tussen groepen.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<em>F</em>(2, 87) = 3, <em>p</em> &gt; .05. Er zijn <em>geen</em> significante verschillen tussen groepen.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<em>F</em>(3, 87) = 2, <em>p</em> &lt; .05. Er zijn <em>wel</em> significante verschillen tussen groepen.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<em>F</em>(3, 87) = 2, <em>p</em> &gt; .05. Er zijn <em>geen</em> significante verschillen tussen groepen.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

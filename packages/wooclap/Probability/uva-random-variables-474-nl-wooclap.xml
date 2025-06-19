@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-random-variables-474-nl-wooclap/Probability/Elementary Probability/Random variables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-random-variables-474-nl_uva-random-variables-474-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Gegeven is de volgende kruistabel betreffende de gezondheidstoestand van
+200 personen, en hun uitslag op een zekere diagnostische test.</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">ziek</td>
+<td style="text-align: left;">gezond</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Test positief</td>
+<td style="text-align: left;">40</td>
+<td style="text-align: left;">10</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Test negatief</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">130</td>
+</tr>
+</tbody>
+</table>
+<p>Uit de 200 individuen wordt aselect een persoon getrokken. Hoe groot is
+de kans dat deze persoon ziek is en een positieve testuitslag heeft?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.2: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.35
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.35: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.55
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.55: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.8
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.8: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

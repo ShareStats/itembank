@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-variance-1079-nl-wooclap/Probability/Elementary Probability/Random variables/Variance</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-variance-1079-nl_uva-variance-1079-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Als je een dobbelsteen opgooit, dan krijgt je als uitkomst 1, 2, 3, 4, 5
+of 6. Hieronder zie je een kansverdeling voor de som van twee
+dobbelstenen die werden opgegooid. Bereken het gemiddelde en variantie
+uit deze verdeling:<br />
+<br />
+</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Som van twee dobbelstenen</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">9</td>
+<td style="text-align: left;">10</td>
+<td style="text-align: left;">11</td>
+<td style="text-align: left;">12</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Kans</td>
+<td style="text-align: left;">1/36</td>
+<td style="text-align: left;">2/36</td>
+<td style="text-align: left;">3/36</td>
+<td style="text-align: left;">4/36</td>
+<td style="text-align: left;">5/36</td>
+<td style="text-align: left;">6/36</td>
+<td style="text-align: left;">5/36</td>
+<td style="text-align: left;">4/36</td>
+<td style="text-align: left;">3/36</td>
+<td style="text-align: left;">2/36</td>
+<td style="text-align: left;">1/36</td>
+</tr>
+</tbody>
+</table>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+µ = 3,5 en σ2 = 2,917.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+µ = 3,5 en σ2 = 2,917.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+µ = 3,5 en σ2 = 5,834.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+µ = 3,5 en σ2 = 5,834.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+µ = 7 en σ2 = 2,917.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+µ = 7 en σ2 = 2,917.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+µ = 7 en σ2 = 5,834.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+µ = 7 en σ2 = 5,834.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

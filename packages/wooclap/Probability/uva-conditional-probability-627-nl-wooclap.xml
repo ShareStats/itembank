@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-conditional-probability-627-nl-wooclap/Probability/Elementary Probability/Conditional probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-conditional-probability-627-nl_uva-conditional-probability-627-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Driehonderd patiënten werden behandeld voor slapeloosheid, met één van
+drie methodes A, B of C. Na afloop van de behandeling werd hen naar hun
+oordeel over de behandeling gevraagd. De uitkomsten staan in de volgende
+kruistabel:</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">methode A</td>
+<td style="text-align: left;">methode B</td>
+<td style="text-align: left;">methode C</td>
+<td style="text-align: left;"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">"goed"</td>
+<td style="text-align: left;">72</td>
+<td style="text-align: left;">45</td>
+<td style="text-align: left;">60</td>
+<td style="text-align: left;">177</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">"matig"</td>
+<td style="text-align: left;">15</td>
+<td style="text-align: left;">34</td>
+<td style="text-align: left;">31</td>
+<td style="text-align: left;">80</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">"slecht"</td>
+<td style="text-align: left;">13</td>
+<td style="text-align: left;">21</td>
+<td style="text-align: left;">9</td>
+<td style="text-align: left;">43</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">100</td>
+<td style="text-align: left;">100</td>
+<td style="text-align: left;">100</td>
+<td style="text-align: left;">300</td>
+</tr>
+</tbody>
+</table>
+<p>Uit deze 300 personen wordt aselect één persoon getrokken. We definiëren
+de volgende twee gebeurtenissen:<br />
+A: de persoon werd behandeld met methode A.<br />
+B: het oordeel van de persoon over zijn methode was: "goed".<br />
+<br />
+P(B | A) =</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+59%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+59%: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+24%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+24%: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+41%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+41%: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+72%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+72%: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

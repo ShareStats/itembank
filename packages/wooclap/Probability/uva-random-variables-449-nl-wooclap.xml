@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-random-variables-449-nl-wooclap/Probability/Elementary Probability/Random variables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-random-variables-449-nl_uva-random-variables-449-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Van 100 personen is de systolische bloeddruk (SB) gemeten en in drie
+klassen ingedeeld: 1 = laag, 2 = middel en 3 = hoog. Tevens is het
+lichamelijke activiteitengedrag (AG) gemeten en in drie klassen
+ingedeeld: 1 = zelden, 2 = soms, 3 = regelmatig. De uitkomsten zijn in
+onderstaande kruistabel weergegeven:</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">frequenties</td>
+<td style="text-align: left;">SB = 1</td>
+<td style="text-align: left;">SB = 2</td>
+<td style="text-align: left;">SB = 3</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">AG = 1</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;">14</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">AG = 2</td>
+<td style="text-align: left;">13</td>
+<td style="text-align: left;">25</td>
+<td style="text-align: left;">12</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">AG = 3</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">4</td>
+</tr>
+</tbody>
+</table>
+<p>Hoe groot is voor deze 100 personen P(SB =3 ||| AG = 3)?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.04
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.04: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.13
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.13: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.2: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.46
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.46: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

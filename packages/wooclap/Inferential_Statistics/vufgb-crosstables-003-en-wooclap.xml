@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-crosstables-003-en-wooclap/Inferential Statistics/Parametric Techniques/Cross tables, Inferential Statistics/Regression/Residuals</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-crosstables-003-en_vufgb-crosstables-003-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A scholar is wondering whether there is a relationship between divorce and level of education. He makes the following table based on the collected data in a sample of 240 adults.</p>
+<p>Calculate the unstandardized residue for the cell Divorced – Low education.</p>
+<p><img src="@@PLUGINFILE@@/vufgb-crosstables-003-en-table01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-crosstables-003-en-table01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The unstandardized residual is the difference between the observed frequency in a cell and the expected frequency in a cell, under the null hypothesis (no relationship between two categorical variables) in a cross-table. The observed frequency for the cell Divorced-Low education is 20. The expected frequency (at the null hypothesis) is given by the product of the row and column totals of the cell, divided by the total <span class="math inline">\(N: \; \frac{80 \times 48}{240} = 16\)</span>.</p>
+<p>The unstandardized residual is: <span class="math inline">\(20-16 = 4\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+16
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+20
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+40
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

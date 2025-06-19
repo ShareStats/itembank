@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Oneway_ANOVA-881-nl-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Oneway_ANOVA-881-nl_uu-Oneway_ANOVA-881-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Bij drie populaties met gemiddelden <span class="math inline">\(\mu_1, \mu_2\)</span> en <span class="math inline">\(\mu_3\)</span> en standaardafwijkingen <span class="math inline">\(\sigma_1, \sigma_2\)</span> en <span class="math inline">\(\sigma_3\)</span> wil men de volgende hypothesen toetsen:</p>
+<ol style="list-style-type: upper-roman">
+<li>Alle <span class="math inline">\(\mu\)</span>’s zijn gelijk (gemiddelden)</li>
+<li><span class="math inline">\(\sigma_1 = \sigma_2 = \sigma_3\)</span> (standaarafwijkingen)</li>
+</ol>
+<p>Welke hiervan kan met een gewone variantieanalyse worden getoetst?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Een hypothese over standaarafwijkingen kan niet met een ANOVA getoetst worden.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Alleen I
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alleen II
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Zowel I als II
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I noch II
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

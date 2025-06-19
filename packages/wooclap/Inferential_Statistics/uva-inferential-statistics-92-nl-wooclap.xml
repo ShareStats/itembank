@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-inferential-statistics-92-nl-wooclap/Inferential Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-inferential-statistics-92-nl_uva-inferential-statistics-92-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Onderzoek naar de werking van medicijn A op schizofrene patiënten levert
+een positieve correlatie op tussen de dosis (x) van medicijn A en hoe
+goed de patiënt zich voelt (y). De toets op de hellingparameter geeft
+aan dat de relatie significant is. De onderzoekers merken op dat er drie
+verschillende leeftijdsgroepen van patiënten zijn: 21-25, 26-30 en 31-35
+jaar. De onderzoekers voeren voor iedere leeftijdsgroep apart een
+regressie-analyse uit. Dan blijkt dat er voor ieder van deze drie
+groepen een negatieve correlatie is tussen de dosis van medicijn A en
+hoe goed de patiënt zich voelt. Dit is een voorbeeld van</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+regressie naar het gemiddelde.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+regressie naar het gemiddelde.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Simpson’s paradox.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Simpson’s paradox.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+bivariate correlatie.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+bivariate correlatie.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

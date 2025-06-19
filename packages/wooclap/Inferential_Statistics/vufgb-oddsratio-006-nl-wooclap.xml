@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-oddsratio-006-nl-wooclap/Inferential Statistics/Regression/Logistic regression/Odds ratio, Descriptive statistics/Data representation/Tables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-oddsratio-006-nl_vufgb-oddsratio-006-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Zie onderstaande logistische regressie-uitkomsten. In een onderzoek (n=150), moeten programmeurs een programmeerprobleem in een uur oplossen. Het resulterende databestand bevat de responsvariabele ‘opgelost’ (dummy, binnen een uur opgelost=1) en de predictoren ‘ervaring’ (programmeerervaring in maanden) en geslacht (dummy, man=1).</p>
+<p><img src="@@PLUGINFILE@@/vufgb-oddsratio-006-nl-table01.jpg" /></p>
+<p>Hoe groot is de oddsratio voor sekse?</p>
+</p>]]></text>
+<file name="vufgb-oddsratio-006-nl-table01.jpg" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAASYAAABJCAYAAACQEYvhAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAA8+SURBVHhe7Z1prNVEGIbRyGLcUVFQcMEdXIOoqChqogYlAsYNFCPBEI0ajBFwg0DiCiohKibE5Y9EgwYVXMElbhESNSqKW1BwF1GjCK5jno/Otbd3Om3vnN7Te+73JA2dTs+5neGbtzPTzns6zZgxw8Q3RVGUetMp+ldRFKUytBCmTp066aabbrq16ZbEKUxKfjp6fWm8KKGoMJWACpPGixKGClMJqDBpvChhqDCVgAqTxosShgpTCfjq64cffpD8vffe2+y3337y77Rp06LcxiArXu69915zwAEHmH322ccMGzbMfP311031stdee5l9991XtpEjR0afUDoarhhSYQrEV1+2Af7000+SplF269bNvPfee5JuBHzlX7FihenZs6f58ccfJb1o0SLz22+/NdUL/yqKK4ZUmALx1VdSmN566y2z8847N1SD9JX/pZdeEmFau3ZtdGQjKkxKHFcMqTAF4qsv2wAZwu25556mS5cuZu7cuVFuY+Ar/4YNG8ygQYNM9+7dzWWXXSY9KLD1Eh/KWfFWOh6uGFJhCsRXX7YB2ka3atUq6UE8//zzkm4EsuLl77//Ns8++6wZPXq06dq1q/QatcekxHHFkApTIL76SgoTjBgxwtx0001Rqv1TJF7OPvtsc8stt6gwKc1wxZAKUyC++koKE+ldd93VLFmyRNKNgK/8L7zwglmwYIHsr1u3zhx66KFm8eLFKkxKM1wxpMIUiK++bANkjol5FOZUGs3BwVf+999/35xyyilS9v3339/cfPPNctzWi74uoIArhlSYAuno9aXxooSiwlQCKkwaL0oYKkwloMKk8aKEocJUAipMGi9KGLmFSTfddNOtLbckTmFS8tPR60vjRQlFhakEVJg0XpQwVJhKQIVJ40UJo90J0wcffGB69OhhPvvss+hI9WiL+nruuefMQQcdJJ5GZ511lvn555+jnPqjwqSEEixMbf3G7ueff26OPvpo8TGqKq1tmK+99prZbLPNmryZMFTbaaedpE4xlZszZ44cx79o2223NW+//bakL774YnP55ZfLfhUoWn5uNjgtzJ49OzrSnGS9AMta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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.58
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.79
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.46
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.71
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

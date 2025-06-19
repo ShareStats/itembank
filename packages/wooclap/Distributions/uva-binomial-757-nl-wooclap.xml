@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-binomial-757-nl-wooclap/Distributions/Discrete/Binomial</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-binomial-757-nl_uva-binomial-757-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>De genetica leert dat kinderen genen erven van hun ouders. Als beide
+ouders de genen O en A voor bloedgroep dragen, heeft elke kind een kans
+van 0,25 om twee O-genen te erven en zo bloedgroep O te krijgen. Het
+aantal kinderen met bloedgroep O onder vijf nakomelingen van deze ouders
+is het aantal successen <em>X</em> in vijf onafhankelijke pogingen. Stel dat
+toevalsvariabele <em>X</em> het aantal kinderen is met de bloedgroep O, dus <em>X</em>
+heeft de waarden als 0, 1, ... , 5 en de Binomiaal (5, 0,25)-verdeling.
+Hieronder zie je een tabel waarover de verdeling. Hoe groot is dan de
+kans als <em>X</em> ≥ 3?</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Waarde van <em>X</em></td>
+<td style="text-align: left;">0</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">5</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>kans</em></td>
+<td style="text-align: left;">0,2373</td>
+<td style="text-align: left;">0,3955</td>
+<td style="text-align: left;">0,2637</td>
+<td style="text-align: left;">0,0879</td>
+<td style="text-align: left;">0,0146</td>
+<td style="text-align: left;">0,0010</td>
+</tr>
+</tbody>
+</table>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,0879
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,0879: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,1025
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,1025: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,1035
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,1035: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,9844
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,9844: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

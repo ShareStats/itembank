@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Test-for-correlation-800-nl-wooclap/Inferential Statistics/Parametric Techniques/t-test/Test for correlation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Test-for-correlation-800-nl_uu-Test-for-correlation-800-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoeker heeft vragenlijsten afgenomen onder 25 aselect geselecteerde medewerkers van een bedrijf. De vragenlijsten meten o.a. gevoelens van zorg, stress niveau, en andere sociaal-emotionele aspecten. De onderzoeker wil toetsen of de correlatie tussen zorg en stress significant is bij <span class="math inline">\(\alpha=.01\)</span> en wil hiervoor een <span class="math inline">\(t\)</span>-toets uitvoeren. Wat is de minimale waarde van de correlatie die hij moet vinden, zodat de <span class="math inline">\(t\)</span>-toets significante resultaten zal opleveren?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Bij gebruik van een correlatie-tabel kunnen we de kritieke waarde opzoeken. Het gaat om een gewone (Pearson) correlatie, en een tweezijdige toets. We moeten dan zoeken bij <span class="math inline">\(df=n-2=25-2=23\)</span> en bij <span class="math inline">\(\alpha=.01\)</span>.
+De juiste kritieke waarde is dan: <span class="math inline">\(r=.505\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+.505
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+.487
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+zoeken bij <span class="math inline">\(df=25\)</span> levert op: <span class="math inline">\(r=.487\)</span>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+.396
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+zoeken bij <span class="math inline">\(\alpha=.05\)</span> levert op: <span class="math inline">\(r=.396\)</span>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+.462
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+eenzijdige waarde levert op: <span class="math inline">\(r=.462\)</span>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

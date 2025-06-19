@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-t-test-800-en-wooclap/Inferential Statistics/Parametric Techniques/t-test</text>
+</category>
+</question>
+
+
+<question type="shortanswer">
+<name>
+<text> Q1 : Inferential_Statistics_uu-t-test-800-en_uu-t-test-800-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>An employee at the local library claims that, on average, the books in the library are more than 20 years old. To test this claim, a student takes a random sample of 30 books and records the publication date for each.
+In this sample the mean age of the books is 23.8 years and the variance (s2) is 67.5.</p>
+<p>Use the five steps of hypothesis testing to answer the research question:<br />
+Are the books in the library, on average, more than 20 years old?</p>
+<p>Use the .01 level of significance.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Step 1 Hypotheses
+Hr: μ = 20
+H0: μ &gt;20 (0.5 points)</p>
+<p>Step 2 Comparison Distribution
+Sm = √67.5/30 = 1.5 (0.5 points)</p>
+<p>Step 3 Cutoff
+α =.01; one-tailed
+tcritical = 2.462 (0.5 points)</p>
+<p>Step 4 sample’s score
+t = 23.8-20/1.5 = 2.53 (0.5 points)</p>
+<p>Step 5 Reject?
+2.53&gt;2.462, so reject H0.
+This means that in the population, on average, the books are probably more than 20 years old. (1 point)</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<usecase>0</usecase>
+<answer fraction="100" format="moodle_auto_format">
+<text>
+"Step 1 Hypotheses
+</text>
+</answer>
+</question>
+
+</quiz>

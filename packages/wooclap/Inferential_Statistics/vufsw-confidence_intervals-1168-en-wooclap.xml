@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-confidence_intervals-1168-en-wooclap/inferential statistics/confidence intervals</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-confidence_intervals-1168-en_vufsw-confidence_intervals-1168-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The message below (shortened) appeared on NU.nl (April 4, 2013).</p>
+<p>The bonuses that employees receive are much higher in one sector than in
+the other sector. The average bonus was more than 2.000 euros on an
+annual basis. This is shown by sample data from Statistics Netherlands
+(CBS). The bulk of the bonuses is still given in the financial services
+sector (including banks, insurance companies and pension funds), where
+employees received an average bonus of 7.100 per year.</p>
+<p>Employees can count on the lowest bonus in catering, health care and
+education. In the hotel and catering industry, the bonus is on average
+559 euros, in healthcare 655 euros and education 774 euros.</p>
+<p>A VU teacher calculates both the 95% and 99% confidence interval of the
+average bonus in the education sector. Which of the following statements
+is/are correct?</p>
+<p>I. The point estimate (774 euros) used is the same in both confidence
+intervals.</p>
+<ol start="2" style="list-style-type: upper-roman">
+<li>The 95% confidence interval will be wider than the 99% confidence
+interval.</li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Only statement I is correct. The point estimate is the same. A 99%
+confidence interval is wider. In other words, one can say that it is
+harder to fall out of the CI in the case of 99%.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Only statement II is correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Only statement I is correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Both statements are correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Neither statement is correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

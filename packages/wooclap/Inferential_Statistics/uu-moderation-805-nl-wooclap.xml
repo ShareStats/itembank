@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-moderation-805-nl-wooclap/Inferential Statistics/Regression/Multiple linear regression/Moderation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-moderation-805-nl_uu-moderation-805-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Van een bepaald medicijn dat gebruikt wordt bij patiënten met een psychose is bekend dat het bij sommige mensen genezend werkt, en bij andere mensen helemaal niet. Artsen willen weten welke kenmerken van patiënten deze verschillende effecten kunnen verklaren, zodat ze het medicijn niet meer zinloos voorschrijven. Zij moeten hiervoor op zoek naar:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Een moderator beïnvloedt de relatie tussen X en Y. In dit onderzoek wordt gekeken of de relatie tussen medicijngebruik (X) en psychose (Y) afhangt van bepaalde kenmerken van mensen, oftewel of bepaalde kenmerken van mensen de relatie tussen medicijngebruik en psychose beïnvloedt. Deze kenmerken zijn dan moderatoren. Voorbeelden van deze kenmerken zijn leeftijd of sekse.</p>
+<p>Bij mediatie gaat het om een mechanisme dat de relatie tussen twee variabelen verklaart. De artsen hoeven niet noodzakelijk op zoek naar het mechanisme dat verklaart hoe het medicijn werkt, als ze er maar achter komen welke kenmerken van mensen een voorwaarde zijn om het medicijn te laten werken.
+De onderzoekers zijn ook niet op zoek naar afhankelijke variabelen. Ze hebben al een afhankelijke variabele: (mate van) psychose.
+Het antwoord “Moderator en mediatorvariabelen”, is ook goed gerekend, omdat het geen kwaad kan om ook mediatorvariabelen te zoeken, zolang de moderator maar gevonden wordt. In dit specifieke geval zou het zelfs kunnen helpen om mediatorvariabelen te ontdekken, omdat die inzicht kunnen geven in welke moderatorvariabelen een rol spelen.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Afhankelijke variabelen
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Moderatorvariabelen
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Mediatorvariabelen
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Moderator en mediatorvariabelen
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

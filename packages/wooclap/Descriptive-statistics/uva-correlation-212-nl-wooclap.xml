@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-correlation-212-nl-wooclap/Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-correlation-212-nl_uva-correlation-212-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Men berekent afzonderlijk voor een groep jongens en een groep meisjes de
+correlatie (pmcc) tussen de variabelen Intelligentie en Logisch
+Redeneren. Bij de meisjes heeft de pmcc de waarde 0.30 (r<sub>m</sub>), bij de
+jongens de waarde 0.60 (r<sub>j</sub>). Mogelijke conclusies zijn nu:<br />
+I. r<sub>m</sub> is twee keer zo laag als r<sub>j</sub><br />
+II. r<sub>m</sub> is lager dan r<sub>j</sub></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I en II zijn beide juist.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I en II zijn beide juist.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+I is onjuist en II is juist.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is onjuist en II is juist.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I en II zijn beide onjuist.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I en II zijn beide onjuist.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-central_limit_theorem-1153-en-wooclap/distributions/limit theorems/central limit theorem</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_vufsw-central_limit_theorem-1153-en_vufsw-central_limit_theorem-1153-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher wants to know how many glasses of alcohol are consumed on
+average per week by Dutch young people aged between 16 and 18 years. A
+random sample with 114 youngsters (n=114) yields the following data:</p>
+<p>Mean = 6.13<br />
+Standard error = 0.34<br />
+Standard deviation = 3.66</p>
+<p>The sample distribution appears to be very skewed to the right. Even
+though the sample is not distributed normally, we can draw certain
+conclusions because of the Central Limit Theorem. Which of the following
+conclusion (s) can we draw?</p>
+<p>I. The sampling distribution is skewed to the right.<br />
+II. We can predict with high confidence (about 95% certainty) that the
+average number of glasses of alcohol consumed per week for all Dutch
+youngsters between the ages of 16 and 18 will be approximately between
+5.45 (6.13 - 0.68) and 6.81 (6.13 + 0.68).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Statement I is incorrect and statement II is correct.</p>
+<p>Language<br />
+Nederlands</p>
+<p>Levels of Difficulty<br />
+Medium</p>
+<p>M&amp;T BIS<br />
+Default value</p>
+<p>M&amp;T Distributions<br />
+Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Statement I is correct en statement II is incorrect.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Statement I and II are incorrect.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Statement I and II are correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Statement I is incorrect and statement II is correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

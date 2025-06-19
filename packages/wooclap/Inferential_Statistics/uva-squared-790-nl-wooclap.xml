@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-squared-790-nl-wooclap/Inferential Statistics/NHST/Test statistic/Chi-squared</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-squared-790-nl_uva-squared-790-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Onderstaande tabel toont de associatie tussen sporten en algemeen
+welbevinden. In de tabel staan de gestandaardiseerde residuen tussen
+haakjes. Welke interpretatie van het gestandaardiseerde residu -1.3 is
+juist?</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Sporten</td>
+<td style="text-align: center;">Algemeen welbevinden</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td style="text-align: center;">Niet zo goed</td>
+<td>Redelijk</td>
+<td>Heel goed</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Nooit</td>
+<td style="text-align: center;">20 (11.2)</td>
+<td>14 (<strong>-1.3</strong>)</td>
+<td>3 (-4.1)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Soms</td>
+<td style="text-align: center;">35 (1.4)</td>
+<td>395 (14.7)</td>
+<td>75 (-15.5)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Vaak</td>
+<td style="text-align: center;">30 (-5.8)</td>
+<td>310 (-13.8)</td>
+<td>515 (16.1)</td>
+</tr>
+</tbody>
+</table>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Het geobserveerde aantal van 14 in deze cel is 1.3 standaard error lager dan het verwachtte aantal.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Het geobserveerde aantal van 14 in deze cel is 1.3 standaard error lager dan het verwachtte aantal.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het geobserveerde aantal van 14 in deze cel minus 1.3 standaard error geeft de verwachtte waarde.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Het geobserveerde aantal van 14 in deze cel minus 1.3 standaard error geeft de verwachtte waarde.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Omdat het gestandaardiseerde residu negatief is, is er geen afhankelijkheid.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Omdat het gestandaardiseerde residu negatief is, is er geen afhankelijkheid.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

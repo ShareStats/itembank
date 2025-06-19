@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-paired-samples-395-nl-wooclap/Inferential Statistics/Parametric Techniques/t-test/Paired samples</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-paired-samples-395-nl_uva-paired-samples-395-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Bij vijf personen is de hartslag voor en 15 minuten na een langdurige,
+zware inspanning gemeten, met als resultaten:</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Persoon</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">5</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Hartslag voor</td>
+<td style="text-align: left;">70</td>
+<td style="text-align: left;">65</td>
+<td style="text-align: left;">81</td>
+<td style="text-align: left;">57</td>
+<td style="text-align: left;">74</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Hartslag a</td>
+<td style="text-align: left;">75</td>
+<td style="text-align: left;">64</td>
+<td style="text-align: left;">86</td>
+<td style="text-align: left;">59</td>
+<td style="text-align: left;">79</td>
+</tr>
+</tbody>
+</table>
+<p>We willen toetsen of het verschil tussen de gemiddelde hartslag na en
+voor de inspanning gelijk is aan 0, met behulp van een gepaarde T-toets.
+Het kritieke gebied bij toetsen met 5% tweezijdig risico is gelijk aan</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+&lt; -∞,-2.7764] ∪ [2.7764, ∞ &gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+&lt; -∞,-2.7764] ∪ [2.7764, ∞ &gt;: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+&lt; - ∞,-2.5706] ∪ [2.5706, ∞ &gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+&lt; - ∞,-2.5706] ∪ [2.5706, ∞ &gt;: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+&lt; -2.3060, 2.3060 &gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+&lt; -2.3060, 2.3060 &gt;: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+&lt; -2.5706, 2.5706 &gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+&lt; -2.5706, 2.5706 &gt;: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

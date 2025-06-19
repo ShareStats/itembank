@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-onesidedhypothesis-1167-en-wooclap/inferential statistics/nhst/hypothesis/one sided hypothesis</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-onesidedhypothesis-1167-en_vufsw-onesidedhypothesis-1167-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher wants to test whether the proportion of Dutch students who
+have ever used cannabis is higher than 20%. The alternative hypothesis
+of the researcher is therefore as follows: H<sub>a</sub>: π &gt; 0.20.
+The observed proportion in the mentioned sample (n = 150) is 0.24.</p>
+<p>The researcher uses a significance level of 5% (alpha = 0.05).</p>
+<p>Is the null hypothesis H0 rejected in this study?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The true answer is: No, because there is not enough empirical evidence
+to assume that the proportion of Dutch pupils who ever used cannabis is
+higher than 0.20.</p>
+<p>The alternative hypothesis is that the mean is higher than 0.2 and we
+found a proportion of 0.24. However,</p>
+<p>Compute the standard error (se) of the sampling distribution. se =
+sqrt[ P * ( 1 - P ) / n ]<br />
+where P is the hypothesized value of population proportion in the null
+hypothesis, and n is the sample size.</p>
+<p>For this example: σ = sqrt[ P * ( 1 - P ) / n ] = sqrt
+(0.2)(0.8)/150=0.033</p>
+<p>The test statistic is a z-score (z) defined by the following equation: z
+= (p - P) / se<br />
+where P is the hypothesized value of population proportion in the null
+hypothesis, p is the sample proportion, and se is the standard deviation
+of the sampling distribution.<br />
+z = (0.24-0.20)/0.033=1.22</p>
+<p>The critical value (one tailed) is 1.64.</p>
+<p>Because 1.22 is smaller than 1.64 there is not enough evidence.</p>
+<p>Language<br />
+Nederlands</p>
+<p>Levels of Difficulty<br />
+Medium</p>
+<p>M&amp;T BIS<br />
+Default value</p>
+<p>M&amp;T Hypothesis testing: proportions<br />
+Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Yes, because there is not enough empirical evidence to assume that the proportion of Dutch pupils who have ever used cannabis is higher than 0.20.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Yes, because there is sufficient empirical evidence to assume that the proportion of Dutch students who have ever used cannabis is higher than 0.20.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, because there is not enough empirical evidence to assume that the proportion of Dutch school students who ever used cannabis is higher than 0.20.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No, because there is sufficient empirical evidence to assume that the proportion of Dutch students who have ever used cannabis is higher than 0.20.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

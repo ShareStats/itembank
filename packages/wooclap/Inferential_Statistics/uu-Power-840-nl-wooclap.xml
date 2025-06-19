@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Power-840-nl-wooclap/Inferential Statistics/NHST/Power</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Power-840-nl_uu-Power-840-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een speelgoedfabricant vraagt aan een ontwikkelingspsycholoog de reactie van kinderen op een nieuw produkt (speelgoed) te testen. De test die gebruikt wordt geeft de reacties van de kinderen scores tussen de 0 en de 10. De hypotheses die hij wil toetsen zijn H0: <span class="math inline">\(\mu\)</span> = 5 vs. 
+H1: <span class="math inline">\(\mu\)</span> &gt; 5. De psycholoog berekent de power van toets 1. Bij toets 1 wordt een steekproef van 50 kinderen gebruikt. Hij kiest voor deze toets een significantieniveau van <span class="math inline">\(\alpha\)</span> = 0.05 en er wordt een verhoging van 2 punten verwacht. Als hij de power gaat uitrekenen voor toets 2, waarbij een steekproef van 100 kinderen wordt gebruikt met <span class="math inline">\(\alpha\)</span> = 0.01, wat gebeurt er dan met de power?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Power gaat omhoog
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Power blijft gelijk
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Power gaat omlaag
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Dat kunnen we niet zeggen a.d.h.v. de gegeven informatie
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is correct.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

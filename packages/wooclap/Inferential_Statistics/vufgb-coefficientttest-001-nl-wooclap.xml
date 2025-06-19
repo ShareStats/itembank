@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-coefficientttest-001-nl-wooclap/Inferential Statistics/Regression/Coefficient t-test, Inferential Statistics/Regression/Multiple linear regression, Inferential Statistics/Regression/Confidence interval</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-coefficientttest-001-nl_vufgb-coefficientttest-001-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>We bespreken een lineaire regressieanalyse met twee predictoren. Het aantal proefpersonen is 12. Bereken het aantal vrijheidsgraden en bepaal de kritieke <em>t</em>-waarde die nodig zijn voor het opstellen van een 95% betrouwbaarheidsinterval voor een regressiecoëfficiënt in dit model.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<em>df</em> = 9; <em>t</em> = 2.262.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<em>df</em> = 9; <em>t</em> = 1.833.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<em>df</em> = 10; <em>t</em> = 2.228.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<em>df</em> = 10; <em>t</em> = 1.812.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

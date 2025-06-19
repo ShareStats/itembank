@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-expected-value-1067-nl-wooclap/Probability/Elementary Probability/Random variables/Expected value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-expected-value-1067-nl_uva-expected-value-1067-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>De familie van Waller wil een aantal kinderen krijgen. Een financieel
+adviseur vertelt dat de kansverdeling gebaseerd op families met dezelfde
+eigenschappen als volgt is:<br />
+<br />
+</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Aantal kinderen</td>
+<td style="text-align: left;">0</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">3</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Kans</td>
+<td style="text-align: left;">0,05</td>
+<td style="text-align: left;">0,60</td>
+<td style="text-align: left;">0,30</td>
+<td style="text-align: left;">0,05</td>
+</tr>
+</tbody>
+</table>
+<p><br />
+Stel dat <em>X</em> is het aantal kinderen dat de familie van Waller zou kunnen
+krijgen. Wat is de verwachtingswaarde van <em>X</em> op basis van deze tabel?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,05
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,05: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1,00
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1,00: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1,35
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1,35: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3,00
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+3,00: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>
