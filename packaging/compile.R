@@ -19,6 +19,16 @@ compile_rmd <- function(fmt, file, name, dir) {
       file = file, name = name, dir = dir, edir = edir,
       schoice = list(enumerate = FALSE)
     )
+  } else if (fmt == "ans") {
+    exams::exams2ans(
+      file = file, name = name, dir = dir, edir = edir,
+      schoice = list(enumerate = FALSE)
+    )
+  } else if (fmt == "wooclap") {
+    exams::exams2wooclap(
+      file = file, name = name, dir = dir, edir = edir,
+      schoice = list(enumerate = FALSE)
+    )
   } else if (fmt == "canvas") {
     exams::exams2canvas(
       file = file, name = name, dir = dir, edir = edir,

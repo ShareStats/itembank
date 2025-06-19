@@ -10,8 +10,8 @@ from .item import Item
 BASEFOLDER = "."
 PACK_FOLDER = "packages/"
 HTML_FOLDER = "docs/"
+PLATTFORMS = ("qti", "tv", "canvas", "ans", "wooclap")
 EXCLUDE_FOLDER = ("scripts", "packaging", "packages", "build", "docs")
-EXCLUDE_FILES = ("-qti.zip", "-tv.zip", "-canvas.zip", ".html")
 FILE_TBL = "files.tsv"
 
 def all_items():
@@ -47,7 +47,7 @@ def file_table(formats, only_changed=True):
     fl.write('"format"\t"file"\t"name"\t"dir"\n')
     for frmt in formats:
         for item in all_items():
-            if frmt in ("qti", "tv", "canvas"):
+            if frmt in PLATTFORMS:
                 pack_name = item.name + "-" + frmt
                 fld = pkg_folder.joinpath(frmt, item.path.parent)
                 pkg_path = fld.joinpath(pack_name + ".zip")
@@ -94,6 +94,8 @@ def save_fingerprints(filename="fingerprints.json"):
 
 
 def tarballs():
+
+    exclude_files = [f"-{x}.zip" for x in PLATTFORMS] + [".html"] # platform zip file and html file
     pkg_folder = Path(PACK_FOLDER)
     tz = ZoneInfo('Europe/Amsterdam')
     log_folder = pkg_folder.joinpath("log")
@@ -109,10 +111,10 @@ def tarballs():
                 item = Item(Path(row[1]).parent)
                 if row[0] == "zip":
                     txt = f"[zip] {item.path}"
-                    item.zip(PACK_FOLDER + "zip", EXCLUDE_FILES)
+                    item.zip(PACK_FOLDER + "zip", exclude_files)
                 else:
                     txt = f"[tar] {item.path}"
-                    item.tar(PACK_FOLDER + "tar", EXCLUDE_FILES)
+                    item.tar(PACK_FOLDER + "tar", exclude_files)
 
                 log_file.write(txt + "\n")
                 print(txt)
