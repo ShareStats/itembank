@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-manova-0272-nl-moodle/inferential statistics/parametric techniques/anova/manova</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-manova-0272-nl_vufsw-manova-0272-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Welk analyse model wordt toegepast bij een between-groups design met één
+categorische onafhankelijke variabele en twee afhankelijke variabelen?<br />
+De afhankelijke variabele is hierbij een continue variabele.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Een one-way ANOVA is een design met één categorische onafhankelijke
+variabele en één afhankelijke variabele.<br />
+Een two-way ANOVA is een design met twee categorische onafhankelijke
+variabelen en één afhankelijke variabele.<br />
+Een ANCOVA is een design met één categorische onafhankelijke variabele
+één continue afhankelijke variabele (covariaat) en één afhankelijke
+variabele.  <br />
+Een MANOVA is een design met één categorische onafhankelijke variabele
+en meerdere afhankelijke variabelen.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+MANOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Two-way ANOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+One-way ANOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+ANCOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-centrallimittheorem-001-nl-moodle/Distributions/Limit Theorems/Central Limit Theorem</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_vufgb-centrallimittheorem-001-nl_vufgb-centrallimittheorem-001-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Wat is de juiste omschrijving van de centrale limietstelling (<em>central limit theorem</em>)? Vul de volgende zin aan: “Als sprake is van aselecte steekproeftrekking en een … steekproef <em>n</em>, zal de … verdeling bij benadering normaal verdeeld zijn.”</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+kleine ; steekproeven
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+kleine ; populatie
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+grote ; steekproeven
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+grote ; populatie
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

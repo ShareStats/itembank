@@ -128,16 +128,6 @@ The expected value of the distribution is…</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-55.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 52.
@@ -145,6 +135,16 @@ False
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+45.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -160,7 +160,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-45.
+55.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

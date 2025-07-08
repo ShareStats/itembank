@@ -60,7 +60,7 @@ decimaal) </p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-12,5%
+7,2%
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -80,7 +80,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-7,2%
+12,5%
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -98,16 +98,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-0,2%
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 2,4%
@@ -115,6 +105,16 @@ False
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,2%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

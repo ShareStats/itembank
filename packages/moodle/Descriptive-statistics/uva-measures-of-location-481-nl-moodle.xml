@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-measures-of-location-481-nl-moodle/Descriptive statistics/Summary Statistics/Measures of Location</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-measures-of-location-481-nl_uva-measures-of-location-481-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Gegeven de volgende getallen in een steekproef: 7, 1, 4, 8, 7, 3. Het
+95% betrouwbaarheidsinterval voor het gemiddelde van de populatie
+waaruit de steekproef is getrokken is:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+&lt;2.81; 7.19 &gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+&lt;2.81; 7.19 &gt;: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+&lt;2.49; 7.51 &gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+&lt;2.49; 7.51 &gt;: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+&lt;2.79; 7.21 &gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+&lt;2.79; 7.21 &gt;: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+&lt;2.11; 7.89 &gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+&lt;2.11; 7.89 &gt;: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

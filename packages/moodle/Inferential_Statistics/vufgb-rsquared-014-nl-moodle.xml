@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-rsquared-014-nl-moodle/Inferential Statistics/Regression/R squared, Descriptive statistics/Data representation/Tables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-rsquared-014-nl_vufgb-rsquared-014-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Zie de onderstaande gegevens. Deze kwadratensommen (<em>Sum of Squares (SS)</em>) zijn gebaseerd op een enkelvoudige regressie van dementiescores op leeftijd. De steekproef bestaat uit 50 personen.</p>
+<p><img src="@@PLUGINFILE@@/vufgb-rsquared-014-nl-table01.jpg" /></p>
+<p>Bereken de waarde van <span class="math inline">\(r^{2}\)</span>.</p>
+</p>]]></text>
+<file name="vufgb-rsquared-014-nl-table01.jpg" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAL8AAABzCAYAAADJwNPJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAABL8SURBVHhe7Z2/a+NIG8f9X5zawB68gRSbLi5j2CJmtzhDDtawRRApgkixiBSLSBNMimBSLOaKRaRYcOAWlGLBKQJOs+AUC05x4BQLTrGFD1K4SKFii+d9npmRPZLlWPlh2Tk9HxDY8li2Zr6aeWb0PI9ywDAZhcXPZBYWP5NZWPxMZmHxM5mFxc9kFhY/k1lY/ExmYfEzmYXFz2SWB4n/9evX8Ntvv/HG20y233//XSnxcTxI/P/++y9vvM10ewrY7GEyC4ufySwsfuZJ8K88qO5YYG6aYG7ZUDvvAdw0wN5vga/KEEnLpQGLn3k0/kUF8isVaN2qHUj/zIGCYUBuvQ4ob0HScmnB4mceSQdqKzmwvvbV+yHtg2VN1EnLpQeLn3kcP+tQyuXAPosxWn64UAhEnbRcirD4mcfhN8FGUVPP3VW7hrShdqhs+aTlUoTFzzwSH9r7ecihsI2lMthHHrSueuD/Uh8PSFouPVj8zBPQhcZOERaoZx9sC1A6aEHYwk9aLh1Y/MzT4fehe+mBu2tB8YUUd/6wrT7USFpuyrD4mUfjxxnrv7rgrpOwbWiqz5OWSwsWP/M4aBVnr6XeRPjmoKhLUP+Jr5OWSxEWP/M4SNSv3JgVHOSigqK2oEEGfdJyKcLiZx6HWL83oHw8KuvupyIYWw05mU1aLkVY/MzjIFEbFlQOTDD36tC86kG/34XWkQWFVc2VIWm5FGHxM4/D70HnWs1Uf/nQvWxC87wJrat++KZV0nIpwuJnMguLn8ksLH4ms7D4mczC4mcyy4PE/+eff/LG20y3p+BB4v/77795422m21PAZg+TWVj8TGaZsvj70DmXd/JGtxZ0erO6tzdlbvszjVBKjV/+hLuzPnR/TPLYSVJmOky95/f7feh/r0GBonY26tCl97Rdt8HbL8LCUhlq32dz8lPhhwtFOte1MR6Mz5TWHoUfFsHarUL1oArOVhEWJ/jk9L6UwZgQmJ6kzLRIx+wRHn0oiBF/bh+aOwbkcnmofP+PjAJ+G2obBTD/as/MZ2UatPYMWFxawLbCdnyRB/OgAd27nNFuGmAZWPYuYScpM0VmLH688o9LskJ3xwQ6MHNBa+8+wSZ9aGw7YG/fJewkZabLzMXf/SzFvzwuhhPtyn4/eR8qzKx7dbl0/HGehfIzcTyybyN2vPgt9WN+Upfce57PvHAf8fe/WuCc+cJUGifsJGWmzYzF34X6OtqScbbjbQfq74tQxuG1deFBZb0I9lfNiqbPd0o4/HrQOLKh+NYCa6cGrZMKLL6sgvfZhNIKmVQlcM/q4HxwwPzfAphfgmP0oXVQhuJ7F5oXTXC3i1D6GJgqPrQ/WmAftcQcpXtehfKSAaVj2UT+ZQ1/y4XWNc1dmlB9u6jsVvxPGyXIxw3lNy0sV4bKSRvalx5UsZx9EvwX+b2CCOauQAOP79B5nbpgrUXOe0aQ+N3LDjQ+u+Ae1cDF8+jFTepvm+Bsy8CUscJOUiYF0hX/Zm2w2uMdoRjXSuAct2IqES+KdwYs48Uy6CPFRDIP1Ut6g0PmFgobKzAQa3MHjy8mmVrPSpnAcgYY76hy0RZfL0AJbXEq39rLhyvdxwYxDJlO73tlZBLW/YTfFeJvQ8WI9IKRjGMjDfrTg7KxDJULvcfvgrsWjmySoyBeZEfaPvzdnIGdg3o/K+ic8tgewdJE96gU02lhO3ywoHEj38ULO0mZdJhdz0894ZsFKLzHiZPaFeCfO2Bgeeeb2iFAsbwKzKMWVCLHk3OHiCjV747kh1QrMqXP+i+rC4jC6Uj8uSJUzvFSCi7MHw2oX5J4Sfw5KO41tQlfFxrHwwlutEFpspjD0Shq2ElhD2NXB+dwLd8Tsec1C2j5Vr0U9HGyinWopxzxz5xQXccJO0mZtJit2SN65tGcLe19uQJkHdIQG2xoCrwtQAFNE3EhrOHxdpqDBhHfiQpM/W7lQr1X0PIazTNKu/rxXahs4fHxYuyRmN8XxAVIPfHiqonmSmfwW92vNhTItMHPjaUCmHsedLQeMNygbai+1N8PCSb7wf+LE/rciH8E1QEFdX6L77e90DmOCDtJmRSZrfiD/ZGofin+CQ1+gbY9lqld9qB36aJNTq9DfdNE8Uf3R/H7XWife1DbklnGipo5IhMvofmGcwOReElb14+Kn0aK5yz+/qkDhVclqIaWo5X4cY5Crdo+XIbilrwHEGwWdVAvyzh/wfc4b0lSJk3mQ/w5J2TTxps9RB86V3LIbO2iIK7Vagyt1sRNvsaIP97sIXzo/tMTeeSDyW2AsMeFgLHRo0K+pt8ZCjQsfrJx8WJGuz08vimzR/vevIqfzn1hZVT8DrVdzEUt6YnFjPGfE0nKTI90xT+ylq96xVwB3B/0vgfeJg2jcsJraGYNMbQXyT7HyeKnNvSU+GOXK4Uo43p4NeGN3oXFi8IkE4zyyEQ+889sMD7Q/6Eer6j+r4IyEBvOIOPYyFCO/4MmvM43/R9K0y2/P5wrzKv4qV7KB5FL97IKy2gSxqYcFyhhj8vVI0hSZnpMWfxoO+Nw5mwq+9kogh0Z3rpfTGlSfMLJ5bULFo4OojrVUqdYirxsQ/MIha/dNfW/VyGfW4D8K7TTcVsUF9ECFHfkBLr7FX93Q2YFzm84OMRGJ9a01FmC/HoVPDx++wSH4A+qDIrfeFMGa6cO7R6ZN3Wcb9jQEBNRFD+eR3nLxglwT7hp1HfLajmSztcBc4X+SxGsAxdaam7nX9XBXisNlzpx/lLG+Yv8WNaT/YbMPQPPuQruBaX1iO4bThTThtqpvI+TfOxkelgf1mpBW6oNQ3Vf3TXVvCgPJrlEREyaJGWmTTo9/yRuybZuQhMbfKR50bYe3GhS+N/V422ihW+aUEHhhWzzSYibTnh8fclucEMrMKvCvVtwQ0ve5Bp3gyyeh3xnbrjpQEu0U+eeNxLnk/kQ/z0RE+Lo/EHR+Qt7+zGfMYzOsxQ/XHtgLpXB/SfS9eN+a6UQmZgxTDzPU/yE34PWcQ0quzY4+xVw9qpQOyabVH3OMBN4vuJnmEfC4mcyC4ufySwsfiazsPiZzMLiZzLLlMU/u9Ql/oRbkP7PNjSOa8KzcDpuA3TuHrjkznE0m+fM3h8//omJOjHhnHH4twnaNkmZKTL1nn8WqUu6R0Ugn5473RzIbeLKFY5vUQ/Op8Lv98CbYYB2UsjvyNlxwD3BTumkAsWlItjHw/gFwbUHzqYF1eM6uDslWMR2q55Hz0qGf1p/eaKD8w5MKO140A1dLD50jkzhs9U4b4hjmQMfp3RJx+wZ59KMFTGN1CUUY2u+Mkf9+0eQPunTEj8xy2CNRIjwzRJUtdFPepKqkE6CUoy8c0MiDkIu9agsipOwT8N1TuWkN6xE5OkJecz2wduQjo1pM2PxBxWNn80kdQmLf9A2KzXoqF3y0aDD9hKCXTXB1TsTFcY4dP0m9+TANV1DHD+IQZZRbYWI0IUGNJfwtJi5+GUP8sDUJcojU9igaKzev+6eQvzaf4hh7sWP+D870FEB5cSgVz+VvXrQQeU/Di4PRNZdEMlF4vfe5cDAEaKj2TAiMGnDk2aNClsdqW9xsRk4+qv3KTFj8T80dUkXGjtof552oId2dfvYFqGEImjlnzqYf+RF/EC0kvvfamBtWFBD27bx2QH7sAKmVq5/VoHyqwXR0IP/qh0v/P/Rvv3LAueoCZ2rlkh9EsQS6DwH8YeRQTYLKFj9XGjuFupcgjbVzo1y8QRxGxWcD/jkaLhuqTgIRDxpPSa4SI005S/p1lK64n+i1CUiBjciRMq8MKzU0R5dDN2GDU3tIvOxMZYj5ei7IjwvdHzVy+n7KJLJWATzJPiuHNKjwfjPRvw/muAeVcFaNaC4P3l1ih4cHTdX6585g+D+XM4ETxtRghFknPhHRoQpM7ue/xGpS4T4X1pQvxz2Rv2LOjQHoX4R8YtJHY4wIUEj6n9FxT8i9Lh9Pxtgr5ewhwtkolKfRIT+HHt+EUL6pgrt6GgcIMIy9QRgAZT1Aie9Rx64QfYLo4Bil63E4tdRNuC9U5fcUgIqZZ5QKCMOrbVvel8VEf+4yn2M+BX9qybUP9ageljFiwHLPHvxI6pdDMphpHYNoPQjK9g2IyGHZPMvgDUYCbFuvlWhRJktKDcRjgAUB83iDwj2PyR1CeL3OtA6rUOF0gXihMk5D8aBFMRPIkATIf+hMTDb4oQ+9+K/aUP9GEdfXeUUkE/nmxsm1JLgqLCB9rzW0QxuJpIZGJOYS44SKnGYSAYW0w6qfUazdUyX+RD/PVOX9I7Lkd7Dh9busnb8iPhvPDGxjS6xPVz8lGEYL9BQGkHN7OnjBFj1jPMufvH/8NwW9OwMPQ/KdL45nCMNTHoyaUyccw12IGiKbqqOiwT8Rz3UiUlkhgYhfnVRRVPGSHMoPD9Ig3TF/0SpS6iyop9RDpzhHd2I+LFkez8PuZVwzxQ/4ZVzi5D4RZoOfZ9KuRFqbC0zG55veV/+0ryLn+6GL27UoK0LT53vcMGBUr0UoXzYGCxYiO3YgXzQDiLXPo7WWqpFAY6Qzkqwhk/HwU4qWPoUyE4j2p5pMGXxy5QcT526hMSfXzfBOqCwxR50zmtgvsUGpAnaj4ZIiZGn31uzNL+aPrQ/4vewoVvX+J3TKlibZel2sWKCo6U2oaRVhVUHvCvKBodm1R6ewx9Y7kUJ/78sR3eRSy9U7qDrFtT3KuCdVKGA52hRD/n9SktjIlNzNKI3gOaCPjR3y2B+bECnR24nDRSrAYX3Q7eEwRJmzKaPpqJOsM4p7Qrd++hdNdAkNcG90mQt5msFsHCyLNqSssFNeMLLtEin55/EPVOXDG5oxaUdmUTwHXEA/XWEoJz6UKYcGS04sh+/l8Txa+4I2oAcDm/iKiQpWG9XLTEytNBEHXekJGWmzXyIn2FmAIufySwsfiazsPiZzMLiZzILi5/JLCx+JrOw+JnMMnXxk9dj6Jb4Xdv3Xgo3PJ5jVoW08Cdnb0hUBkslvvHoQ/fHbFphyuJXfhtvHKiftmXmhuu6cDIjr033iu6O9qBz4UGVXJTv4wNDd2AfeKU8l6wKaZEoewO5JWzLKLgmdh7hh2grfnXB+0BuJ3WoH9lQWlqE8kEz/mHVChFkNKN2mLL4yQEs6pqsPCQHsZ+K2wZYcS6x4/jmjLrG3oO5dzVOiyTZG7CWvHc2NEK9OYWg6m7k9GDwMri6Y5t6JlpsXAAhnOFm1w5TFn8X3PWooMeIX1wo0X3jGT4R/WGw+BWBx+0d2RtEmZiHxomLJChDbtBGAcyj4XPT5AVBbR15gJ+A3MIdsGc4Ak9Z/DhUioc664wTP5b+iL2L5lorgqbjhkwVIHGn+IVD3Hi7iMU/ZFL2BunfTx6sHa0HR5P2gwHmidoTdxEhQbxANHqLPEWdM3Jx/s+KP47x4pf40Dm2oTxwZUbbkfzNVR13v1jYC1HkVg4WXpXB3DRxqw8rXNimaL+eY4NeuGCt6VkfhrD4xxGXvYF6cIquo/lbBZo9nKSeYDtsR+Kvb7HDCfU3Ku4hGpV3i6YWfpealMU/QAWdRCpDPAOXnr4Y2Jyql4nr+ekp38aSCV5Q2SIwQ2Z90GHxR5iYvYH8/lVcBm2bekDKGETGjfCzhuWIIWN6CRZ/gBK1ngJPoMLfBkmT7hB/7xRHCpw7NINhPAidi5Rl8Y9jTPaG6wbYb21wT1yw8QIRo8CdQSjyOCP5fwYPEpew+BVkB8bZh4PvBJV0h/gFv2gtvw61j1WoHuLFEFOWxX8H0ewNP9Hmf2GBN6gs+QBvisCLX8khWz4P+RGzCNtx2wvVOYtfIfLx4Gf3Fr8WPSVCEI08OKdBdcrvsvjHkCB7A5mSy3qAu6J7XEYzKJrhgfabYdPJlwsXdJziFnZIdINRbRbOL3Ivy+BEwlvTYL7MHmUjjqStU40xSDoVFf83R14wlDw1mpxKM3v6OAEO4mhZ/BJRD1g/d2VvoDLRjAsC0Q5h8Xe/2mAe6jY+7vtkxix1EmpCzD0/IYdLqoywnYgTXqM8nMSCzPoQBE93P1NKDXwRXBR6Q6lMBCR+kfJEJUNl8UuSZG8QAeyRNiEo+0VeSz9Oo27xXRUaIbeVOjgregoUHSX+mHsIaZCa+KnXFUPdjrQVaR25sOnIfaHhTtqTxe3hUmfxjQ1eJCWGyPqw4oB34YHzPmgYejgCHh8vFPeyB90LyrzggXdYAGPNApvSoviUUeI5ZFVIi8nZG4J6pTZpXSuXlNMKlDdd6AQT3uBurWjbyBYj7u5XbPddU+X1lO2QAbMnIUH2hLGrCYjK7DDSqcR9d8aPwJl7kmRvwPruXEwo84yYX/EzzJRh8TOZhcXPZBYWP5NZWPxMZnmQ+M/Pz3njbabbU/Ag8b9+/RpWV1d5421m21PAZg+TWVj8TGZh8TOZhcXPZBYWP5NZWPxMZmHxM5mFxc9kFhY/k1lY/ExmYfEzmYXFz2QUgP8D7YB2/EGE+VEAAAAASUVORK5CYII=</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.14
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.17
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.83
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.86
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

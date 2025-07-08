@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-pvalue-0033-nl-moodle/inferential statistics/nhst/p-value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-pvalue-0033-nl_vufsw-pvalue-0033-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een politicus beweert dat het gemiddelde ziekteverzuim onder oudere
+werknemers 10 dagen per jaar bedraagt. Een onderzoeker betwijfelt dit en
+vermoedt dat het gemiddelde aantal dagen dat oudere werknemers wegens
+ziekte afwezig zijn geweest in werkelijkheid lager ligt. Hij besluit een
+survey af te nemen onder een aselecte steekproef van 100 werknemers in
+Nederland (n=100) en vindt in zijn steekproef een gemiddelde
+ziekteverzuim van 9,2 dagen. De standaarddeviatie is 3,6 dagen.</p>
+<p>Wat is de kans op zo’n steekproefuitkomst (of een voor de politicus nog
+ongunstigere steekproefuitkomst) als we aannemen dat de bewering van de
+politicus juist is?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>you can calculate it by 131,313/2564,6 = 0,051 (Sum of squares
+regression/sum of squares total)<br />
+0,051*100%=5,1%</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,25%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2,12%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5,05%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1,32%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1,14%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2,50%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

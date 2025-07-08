@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-general-rules-646-nl-moodle/Probability/Elementary Probability/General Rules</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Probability_uva-general-rules-646-nl_uva-general-rules-646-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Bij het testen van een persoon die het aids-virus <strong>niet</strong> heeft, is de
+kans dat de test abusievelijk aanduidt dat het virus aanwezig is, gelijk
+aan 0,004. Als er 400 werknemers van een medische kliniek getest moeten
+worden en alle 400 zijn vrij van het aids-virus, hoe groot is dan de
+kans dat er tenminste één foutief positief resultaat zal voorkomen? Wij
+nemen aan dat de testresultaten voor de verschillende individuen
+onafhankelijk zijn.<br />
+Rond af op vier decimalen.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Het correcte antwoord is: 0.7988</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.7988</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

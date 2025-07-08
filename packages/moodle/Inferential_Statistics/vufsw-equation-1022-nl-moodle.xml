@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-equation-1022-nl-moodle/inferential statistics/regression/equation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-equation-1022-nl_vufsw-equation-1022-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Als je onderzoek deed naar het effect van <em>hours </em>training en <em>attitude</em>
+op de prestaties van een specifieke vaardigheid (bijv. Aantal gescoorde
+goals: <em>performance</em>), en de regressieresultaten geven je de volgende
+regressievergelijking, welke van de volgende uitspraken is waar?</p>
+<p><em>p<strong>e</strong>r<strong>f</strong>o<strong>r</strong>m<strong>a</strong>n<strong>c</strong>e</em> = 1.23<sup>*</sup> + 0.112 × <em>a<strong>t</strong>t<strong>i</strong>t<strong>u</strong>d<strong>e<em> + 0.531<sup>*</sup> × </em>h</strong>o<strong>u</strong>r<strong>s<em> + 0.167<sup>*</sup> × </em>a</strong>t<strong>t</strong>i<strong>t</strong>u<strong>d</strong>e</em> × <em>h<strong>o</strong>u<strong>r</strong>s</em></p>
+<p>* betekent statistisch significant</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p><em>p<strong>e</strong>r<strong>f</strong>o<strong>r</strong>m<strong>a</strong>n<strong>c</strong>e</em> = 1.23<sup>*</sup> + 0.112 × <em>a<strong>t</strong>t<strong>i</strong>t<strong>u</strong>d<strong>e<em> + 0.531<sup>*</sup> × </em>h</strong>o<strong>u</strong>r<strong>s<em> + 0.167<sup>*</sup> × </em>a</strong>t<strong>t</strong>i<strong>t</strong>u<strong>d</strong>e</em> × <em>h<strong>o</strong>u<strong>r</strong>s</em></p>
+<p>The effect of hours on performance is:</p>
+<p>(0.531 + 0.167*attitude). So, if attitude is positive, this number we
+always be positive.Since, both the coefficient of the main effect of
+hours and the interaction effect are statistically significant, we
+expect the effect of hours to be always significant if attitude is
+positive.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Wanneer de houding van de atleet positief is, is er een negatieve significante relatie tussen uren training en sportprestaties.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Wanneer de houding van de atleet positief is, is er een positief significant verband tussen uren training en sportprestaties.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Wanneer de houding van de atleet positief is, is er een positieve niet-significante relatie tussen uren training en sportprestaties.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Wanneer de houding van de atleet positief is, is er een negatieve niet-significante relatie tussen uren training en sportprestaties.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

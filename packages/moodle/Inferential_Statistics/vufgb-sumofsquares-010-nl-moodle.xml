@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-sumofsquares-010-nl-moodle/Inferential Statistics/Regression/Sum of squares, Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA, Descriptive statistics/Data representation/Tables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-sumofsquares-010-nl_vufgb-sumofsquares-010-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Gegeven zijn de volgende scores voor een ANOVA met twee Factoren (‘Two-Way ANOVA’). Bereken de kwadratensom (‘sum of squares’) voor factor A (SSA).</p>
+<p><img src="@@PLUGINFILE@@/vufgb-sumofsquares-010-nl-table01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-sumofsquares-010-nl-table01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+18
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+98
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+474
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+800
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-power-349-nl-moodle/Inferential Statistics/NHST/Power</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-power-349-nl_uva-power-349-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Hieronder staan twee uitspraken over onderscheidingsvermogen
+('power'):<br />
+1: Bij een grotere steekproefomvang neemt het onderscheidingsvermogen
+toe.<br />
+2: Bij een kleiner risico van de toets neemt het onderscheidingsvermogen
+toe.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Beide uitspraken zijn juist.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Beide uitspraken zijn juist.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Uitspraak 1 is juist, uitspraak 2 is onjuist.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Uitspraak 1 is juist, uitspraak 2 is onjuist.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Uitspraak 1 is onjuist, uitspraak 2 is juist.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Uitspraak 1 is onjuist, uitspraak 2 is juist.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Beide uitspraken zijn onjuist.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Beide uitspraken zijn onjuist.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

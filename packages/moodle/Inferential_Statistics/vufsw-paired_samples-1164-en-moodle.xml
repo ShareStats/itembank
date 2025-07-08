@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-paired_samples-1164-en-moodle/inferential statistics/parametric techniques/t-test/paired samples</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-paired_samples-1164-en_vufsw-paired_samples-1164-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The medical faculty of the VU conducts a study into the effectiveness of
+a product that should lead to weight reduction. For this purpose, the
+weight (in kilograms) for the use of the product is compared with the
+weight in a group of 20 people after the product has been used for three
+weeks by the persons examined.</p>
+<p>Why should the Independent t-test <strong>not</strong> be used for this analysis?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Because it are the same people the sample is not independent.<br />
+The two samples that are compared are the same persons, so they are not
+independent of each other.</p>
+<p>Levels of Difficulty<br />
+Easy</p>
+<p>M&amp;T Hypothesis testing: means<br />
+Default value</p>
+<p>M&amp;T Model selection<br />
+Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The two samples that are compared are the same persons, so they are not independent of each other.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The researcher’s hypothesis is that the product is effective, so that the degree of weight reduction and the use of the product are not independent of each other.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The weight is not measured on a ratio scale.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The two samples that are compared are measured by the same faculty, so they are not independent of each other.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

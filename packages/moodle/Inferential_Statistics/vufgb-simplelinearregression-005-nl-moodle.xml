@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-simplelinearregression-005-nl-moodle/Inferential Statistics/Regression/Simple linear regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-simplelinearregression-005-nl_vufgb-simplelinearregression-005-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Het lineaire verband tussen twee kwantitatieve variabelen wordt onderzocht middels een enkelvoudige lineaire regressieanalyse in een steekproef van 30 personen. De onderzoeker wil een alpha niveau van 0.01 aanhouden.</p>
+<p>Welke kritieke <em>t</em>-waarde hoort bij een tweezijdige toets voor het lineaire verband?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>In het enkelvoudige regressiemodel worden twee parameters geschat: intercept en regressiecoefficient. Om die reden is <span class="math inline">\(df = n-2\)</span>. In dit geval <span class="math inline">\(df = 30-2 = 28\)</span>. Bij een tweezijdige toets met een alpha niveau van 0.01 hoort een rechteroverschrijdingskans van <span class="math inline">\(0.01 \div 2 = 0.005\)</span>. Je zoekt in de <em>t</em>-tabel dus die waarde op die hoort bij <span class="math inline">\(df = 28\)</span> en <span class="math inline">\(t._{005}\)</span>, en dat is 2.763.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.457
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.467
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.750
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2.763
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

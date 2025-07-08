@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-standard-deviation-471-nl-moodle/Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-standard-deviation-471-nl_uva-standard-deviation-471-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een Amerikaans onderzoek is de temperatuur van een aantal patiënten
+gemeten in graden Fahrenheit. De standaarddeviatie wordt gemeld als een
+bepaalde waarde <em>s</em>. We drukken de waarden uit in graden Celsius, door
+van alle waarden 32 af te trekken en het resultaat te vermenigvuldigen
+met 5/9. Dan geldt voor de standaarddeviatie van de nieuwe waarden het
+volgende</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Blijft gelijk aan s
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Blijft gelijk aan s: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Wordt 5/9 × s + 32
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Wordt 5/9 × s + 32: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Wordt 5/9 × s
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Wordt 5/9 × s: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Wordt 25/81 × s
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Wordt 25/81 × s: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

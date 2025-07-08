@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-elementary_probability-1269-en-moodle/probability/elementary probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_vufsw-elementary_probability-1269-en_vufsw-elementary_probability-1269-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The magazine ‘Cosmopolitan’ suggests that women who skip breakfast have
+a greater chance of being pregnant with a girl, while women who do have
+breakfast are more likely to be pregnant with a boy. To test this, we
+took a sample of pregnant women who were already familiar with the sex
+of their child. We asked them about the sex of their baby and whether or
+not they had breakfast every day. Given that a woman does have
+breakfast, what is the likelihood of a boy?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The likelihood of getting a boy for a woman that did have breakfast is:
+The number that gets a boy and had breakfast / the number that had
+breakfast.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The number that gets a boy and <strong>not</strong> had breakfast / the number that gets a boy and had breakfast.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The number that gets a boy and had breakfast / the number that had breakfast.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The number that gets a boy and had breakfast / the number that <strong>not</strong> had breakfast.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The number that gets a boy and had breakfast / the number that gets a boy receives and <strong>not</strong> had breakfast.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

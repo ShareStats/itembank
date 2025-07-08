@@ -109,16 +109,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-None of the above answers.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 The <em>t</em>-value.
@@ -126,6 +116,16 @@ The <em>t</em>-value.
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+None of the above answers.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-variabletype-0093-nl-moodle/variable type</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Variable-type_vufsw-variabletype-0093-nl_vufsw-variabletype-0093-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een docent is geïnteresseerd in de invloed van het aantal uren dat
+studenten hebben gestudeerd (“<strong>UREN</strong>”) op het tentamencijfer
+(“<strong>CIJFER</strong>”). Hij voert een regressie-analyse uit met deze twee
+variabelen, met gegevens van een steekproef van 60 studenten.</p>
+<p>Gegeven is het volgende lineair model voor deze relatie: CIJFER = 2,80 +
+0,30 * UREN.</p>
+<p>Wat kun je zeggen over de afhankelijke en onafhankelijke variabelen in
+dit model?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Language<br />
+Nederlands</p>
+<p>M&amp;T Basics of quantitative research<br />
+Basics of quantitative research</p>
+<p>M&amp;T BIS<br />
+Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De onafhankelijke variabele is 2,80 en de afhankelijke variabele is 0,30.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De onafhankelijke variabele is UREN en de afhankelijke variabele is CIJFER.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De onafhankelijke variabele is de constante en de afhankelijke variabele is de B-coëfficiënt (<em>slope</em>).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De onafhankelijke variabelen zijn de studenten (N=60) en de afhankelijke variabele is het effect van UREN op CIJFER.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

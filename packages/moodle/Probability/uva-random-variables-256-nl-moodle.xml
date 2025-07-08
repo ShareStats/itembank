@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-random-variables-256-nl-moodle/Probability/Elementary Probability/Random variables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-random-variables-256-nl_uva-random-variables-256-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een onderzoek naar verschillen tussen verpleeg- en verzorgingshuizen
+werd o.a. gekeken naar de leeftijd van de (502) bewoners in de
+steekproef. Leeftijd is hierbij in 5 klassen ingedeeld. De uitkomsten
+staan in de onderstaande kruistabel:</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Frequentie</td>
+<td style="text-align: left;">50-64</td>
+<td style="text-align: left;">65-74</td>
+<td style="text-align: left;">75-84</td>
+<td style="text-align: left;">85-94</td>
+<td style="text-align: left;">≥95</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">verpleeghuis</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">27</td>
+<td style="text-align: left;">96</td>
+<td style="text-align: left;">108</td>
+<td style="text-align: left;">14</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">verzorgingshuis</td>
+<td style="text-align: left;">0</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">91</td>
+<td style="text-align: left;">129</td>
+<td style="text-align: left;">27</td>
+</tr>
+</tbody>
+</table>
+<p>De kans dat een willekeurig getrokken persoon jonger is dan 85 jaar,
+gegeven dat hij/zij in een verpleeghuis woont, is</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.25
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.25: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.45
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.45: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.51
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.51: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.57
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.57: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-distributions-201-nl-moodle/Distributions/Continuous/Normal</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_eur-distributions-201-nl_eur-distributions-201-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Wat is het doel wanneer men scores normaliseert?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>We normaliseren scores als we de scores een verdeling willen geven die meer lijkt op een normale verdeling.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het kunnen berekenen van percentielscores.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het kunnen vergelijken van testscores met het gemiddelde.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het creëren van normgroepen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Het creëren van een normale verdeling.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Goed
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -67,7 +67,7 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-A Chi squared test to test the association between the income and the number of missed days.
+A t-test for ‘independent samples’ to test the effect of the income on the number of missed days.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -75,19 +75,9 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Regression analysis to predict the number of missed days per year with the income.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-A t-test for ‘independent samples’ to test the effect of the income on the number of missed days.
+A Chi squared test to test the association between the income and the number of missed days.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -102,6 +92,16 @@ A t-test for ‘paired (dependent) samples’ to test the effect of the income o
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Regression analysis to predict the number of missed days per year with the income.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

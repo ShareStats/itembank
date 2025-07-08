@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-207-en-moodle/Inferential Statistics/Parametric Techniques/Correlations/Pearson, Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-207-en_eur-inferential_statistics-207-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher investigates the relationship between depression and sleeping problems using a sample of 55 participants. The reliability of the depression scale is high, Rxx=.82. However, sleeping problems are more difficult to measure and the reliability of this scale is Ryy=.62.</p>
+<p>Calculate the maximum possible correlation the researcher can expect between depression and sleeping problems. Round to two decimals.</p>
+<p>Use the formula: <span class="math inline">\(r_{XoYo} = r_{XtYt} \times \sqrt {R_{XX}R_{YY}}\)</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The maximum correlation that can be obtained is the square root of the product of the two reliabilities times 1 (the true score correlation). Thus, the maximum correlation is: <span class="math inline">\(rmax_{XoYo} = 1 \sqrt{R_{xx}R_{yy}} = \sqrt {.82 \times .62} = .71\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.71</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

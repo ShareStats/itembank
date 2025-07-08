@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-test-467-nl-moodle/Inferential Statistics/Parametric Techniques/t-test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-test-467-nl_uva-test-467-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Van 10 verpleegkundigen is nagegaan hoe oud ze zijn en hoe lang ze als
+verpleegkundige werkzaam zijn. De Pearson Correlatiecoëfficiënt bleek
+0.60 te zijn. Is deze correlatie significant (bij een α van 5%,
+tweezijdig)?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Kritieke waarde is 0.5760, dus significant.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Kritieke waarde is 0.5760, dus significant.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Kritieke waarde is 0.6319, dus significant.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Kritieke waarde is 0.6319, dus significant.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Kritieke waarde is 0.6319, dus niet significant.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Kritieke waarde is 0.6319, dus niet significant.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Kritieke waarde is 0.6364, dus niet significant.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Kritieke waarde is 0.6364, dus niet significant.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

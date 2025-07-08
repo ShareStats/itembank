@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-median-436-nl-moodle/Descriptive statistics/Summary Statistics/Measures of Location/Median</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-median-436-nl_uva-median-436-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Van een aantal promovendi is bepaald hoe lang zij over hun
+promotieonderzoek hebben gedaan. De resultaten zijn in de onderstaande
+tabel weergegeven:</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Duur promotieonderzoek</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;">8</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Aantal (<strong>in procenten</strong>)</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">24</td>
+<td style="text-align: left;">42</td>
+<td style="text-align: left;">22</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">2</td>
+</tr>
+</tbody>
+</table>
+<p>Geef aan welke stelling over de modus en mediaan van de gegeven tabel,
+juist is.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De modus is kleiner dan de mediaan
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+De modus is kleiner dan de mediaan: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De modus en de mediaan zijn gelijk
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+De modus en de mediaan zijn gelijk: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De modus is groter dan de mediaan
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+De modus is groter dan de mediaan: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Modus en mediaan zijn hier niet te vergelijken
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Modus en mediaan zijn hier niet te vergelijken: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

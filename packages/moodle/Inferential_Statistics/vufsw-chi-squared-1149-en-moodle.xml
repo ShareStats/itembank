@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-chi-squared-1149-en-moodle/inferential statistics/nhst/test statistic/chi-squared</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-chi-squared-1149-en_vufsw-chi-squared-1149-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A student at VU University Amsterdam conducted research into the use of
+social media among young people. For his thesis he collected data on the
+use of Facebook from 224 students. In the table below the gender of the
+youngsters is plotted to the question whether they have a Facebook
+account (actually observed numbers).</p>
+<table class="tvcss_2 tvcss_3">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td class="tvcss_4">
+Facebook account<br />
+</td>
+<td class="tvcss_5">
+yes<br />
+</td>
+<td class="tvcss_6">
+no<br />
+</td>
+<td class="tvcss_7">
+total<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+men<br />
+</td>
+<td class="tvcss_5">
+97<br />
+</td>
+<td class="tvcss_6">
+12<br />
+</td>
+<td class="tvcss_7">
+109<br />
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_4">
+women<br />
+</td>
+<td class="tvcss_5">
+106<br />
+</td>
+<td class="tvcss_6">
+9<br />
+</td>
+<td class="tvcss_7">
+115<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+total<br />
+</td>
+<td class="tvcss_5">
+203<br />
+</td>
+<td class="tvcss_6">
+21<br />
+</td>
+<td class="tvcss_7">
+224<br />
+</td>
+</tr>
+</tbody>
+</table>
+<p>The researcher wants to know if female students are more often members
+of Facebook than male students. He performs a Chi-square test and
+receives a Chi-square value of 0.85. He tests with a significance level
+(alpha) of 0.05. What is the correct conclusion based on this Chi-square
+test?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The chi square is lower than the critical value (see table).<br />
+If you want to know more about the chi square test watch this
+<a href="https://www.youtube.com/watch?v=izw6vGctckA&amp;index=2&amp;list=PLyLpEs0x9BnkqWS0k674CckSeAeJ4A3W7">clip</a></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Female students are significantly more likely to be members of Facebook than male students.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+For the group of women there is a significant link between gender and Facebook membership, while for the group of men there is none significant relationship between these two variables.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Female students are not significantly more likely to be members of Facebook than male students.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The above data provide too little information to come te a conclusion.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

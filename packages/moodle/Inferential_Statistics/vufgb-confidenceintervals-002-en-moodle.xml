@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-confidenceintervals-002-en-moodle/Inferential Statistics/Confidence Intervals, Descriptive statistics/Summary Statistics/Proportion</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-confidenceintervals-002-en_vufgb-confidenceintervals-002-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A randomly selected sample of 50 people filled out a survey. The survey concerned toilet hygiene at train stations in The Netherlands. A total of 15 participants had a positive opinion on this. All other participants had a negative opinion. Based on this sample, calculate the 95% confidence interval for the proportion of people that have a <em>negative</em> opinion.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+(0.593, 0.807)
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+(0.173, 0.427)
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+(0.573, 0.827)
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+(0.193, 0.407)
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

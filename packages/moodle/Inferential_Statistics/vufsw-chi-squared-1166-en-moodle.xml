@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-chi-squared-1166-en-moodle/inferential statistics/nhst/test statistic/chi-squared</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-chi-squared-1166-en_vufsw-chi-squared-1166-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Given is the following crosstab with international data about a group of
+students: the country in which someone lives in the rows and experience
+with cannabis use in the columns. The values in the cells are the
+actually observed frequencies (see table below).</p>
+<table class="tvcss_2 tvcss_3">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td class="tvcss_4">
+Ever used Cannabis?<br />
+</td>
+<td class="tvcss_5">
+yes<br />
+</td>
+<td class="tvcss_6">
+no<br />
+</td>
+<td class="tvcss_7">
+total<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+The Netherlands<br />
+</td>
+<td class="tvcss_5">
+36<br />
+</td>
+<td class="tvcss_6">
+114<br />
+</td>
+<td class="tvcss_7">
+150<br />
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_4">
+France<br />
+</td>
+<td class="tvcss_5">
+56<br />
+</td>
+<td class="tvcss_6">
+104<br />
+</td>
+<td class="tvcss_7">
+160<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+Germany<br />
+</td>
+<td class="tvcss_5">
+40<br />
+</td>
+<td class="tvcss_6">
+118<br />
+</td>
+<td class="tvcss_7">
+158<br />
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_4">
+Italy<br />
+</td>
+<td class="tvcss_5">
+49<br />
+</td>
+<td class="tvcss_6">
+103<br />
+</td>
+<td class="tvcss_7">
+152<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+Total<br />
+</td>
+<td class="tvcss_5">
+181<br />
+</td>
+<td class="tvcss_6">
+439<br />
+</td>
+<td class="tvcss_7">
+620<br />
+</td>
+</tr>
+</tbody>
+</table>
+<p>Which of the following statements is / are true?</p>
+<p>I. The number of French school students who have ever used cannabis is
+greater than the expected value for independence between country and
+cannabis use.</p>
+<ol start="2" style="list-style-type: upper-roman">
+<li>The number of observed Dutch students who have ever used cannabis is
+greater than the expected number of independence between country and
+cannabis use.</li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>concerning I: total 181/620=0.29 , thus 29% total yes.<br />
+For France this would be 0.29*160=46.7.<br />
+Thus 56 (counted) is more than expected .<br />
+Thus I is true</p>
+<p>Concerning II: for the Netherlands: 0.29*150=43.5 to be expected if
+country and cannabis use is independent.<br />
+Thus 36 is less than expected.<br />
+Thus II is not true.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Both statements are true
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Only statement I is true
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Only statement II is true
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Neither statement is correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

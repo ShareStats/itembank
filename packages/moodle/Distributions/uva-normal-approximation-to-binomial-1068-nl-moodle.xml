@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-normal-approximation-to-binomial-1068-nl-moodle/Distributions/Discrete/Normal approximation to Binomial</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-normal-approximation-to-binomial-1068-nl_uva-normal-approximation-to-binomial-1068-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een politicus is ervan overtuigd dat ten minste 50% van haar kiezers
+vindt dat een kind het recht heeft bij een van de ouders te wonen. Maar
+uit de laatste opiniepeiling onder 500 kiezers in haar district blijkt
+dat iets minder dan de helft, slechts 240 oftewel 48%, deze positie
+ondersteunt. Als inderdaad 50% van deze kiezers in haar district deze
+mening deelt, wat is dan de kans dat van een aselecte groep van 500
+kiezers er 240 of minder deze mening heeft?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,19
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,19: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,48
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,48: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,50
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,50: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,89
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,89: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

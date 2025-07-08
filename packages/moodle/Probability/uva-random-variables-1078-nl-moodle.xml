@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-random-variables-1078-nl-moodle/Probability/Elementary Probability/Random variables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-random-variables-1078-nl_uva-random-variables-1078-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Welke van de volgende kenmerken zijn continue dan wel discrete
+stochastische variabelen?<br />
+<br />
+I. De snelheid van een voertuig op een snelweg.<br />
+II. Het aantal ongelukken afgelopen jaar op een snelweg.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I en II zijn allebei continue stochastische variabelen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I en II zijn allebei continue stochastische variabelen.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is een discrete variabele, maar II is een continue.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is een discrete variabele, maar II is een continue.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+I is een continue variabele, maar II is een discrete.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is een continue variabele, maar II is een discrete.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I en II zijn allebei discrete stochastische variabelen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I en II zijn allebei discrete stochastische variabelen.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

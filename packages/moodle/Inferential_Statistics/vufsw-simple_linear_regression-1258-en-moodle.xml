@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-simple_linear_regression-1258-en-moodle/inferential statistics/regression/simple linear regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-simple_linear_regression-1258-en_vufsw-simple_linear_regression-1258-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher wants to know how much beer students drink during a night
+out. He is curious whether the money a student has to spend per month
+(in euros) has an influence on the amount of alcohol that the student
+drinks (measured in the number of glasses of alcohol). Which statistical
+test or technique is most suitable for testing this?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p> It is a simple regression.</p>
+<p>The dependent t-test (also called the paired t-test or paired-samples
+t-test) compares the means of two related groups to determine whether
+there is a statistically significant difference between these means.</p>
+<p>The chi-squared test is used to determine whether there is a significant
+difference between the expected frequencies and the observed frequencies
+in one or more categories.</p>
+<p>Simple linear regression is a statistical method that allows us to
+summarize and study relationships between two continuous (quantitative)
+variables.</p>
+<p>Reliability in scientific investigation usually means the stability and
+repeatability of measures, or the ability of a test to produce the same
+results under the same conditions</p>
+<p>Levels of Difficulty<br />
+Easy</p>
+<p>M&amp;T Bivariate linear regression<br />
+Bivariate linear regression</p>
+<p>M&amp;T Model selection<br />
+Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dependent t-test
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Reliability test
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Simple regression
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Chi-square test
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

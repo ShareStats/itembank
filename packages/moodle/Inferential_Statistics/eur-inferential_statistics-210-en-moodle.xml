@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-210-en-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Oneway repeated measures ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-210-en_eur-inferential_statistics-210-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A psychologist conducts a study to test the effect of rational emotive therapy (RET). He includes a random sample of patients, who are subjected to weekly therapy sessions during a period of
+one year. The outcome variable is the level of anxiety-complaints experienced in the week prior to each measurement. The outcome variable (level of experienced complaints over the last week) is
+measured at the beginning of the year, after one year of therapy, and two years after the final therapy session.</p>
+<p>What is the best term to describe the design of this study?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The right answer here is within-subjects design. Factorial designs refer to designs with two or more independent variables, whereas here we only have one independent variable (time). Furthermore, we are not assigning people into different groups, nor are we comparing different groups of people, meaning that both between-subjects design and mixed-design do not fit.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Factorial design
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Between-subjects design
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Mixed design
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Within-subjects design
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

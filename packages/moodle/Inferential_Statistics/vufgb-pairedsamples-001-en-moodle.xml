@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-pairedsamples-001-en-moodle/Inferential Statistics/Parametric Techniques/t-test/Paired samples</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-pairedsamples-001-en_vufgb-pairedsamples-001-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In a study, performance on a puzzle task (i.e., number of correctly laid puzzle pieces) is measured in children. This is done during two conditions. First, performance on the puzzle task is measured while the children are alone. Second, the performance of the same children is measured, but now in the presence of their mother. We want to know whether there is a statistically significant difference in mean performance on the task between the two conditions. With which statistical technique can this be tested?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The <span class="math inline">\(χ^2\)</span>-test for independence.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The McNemar’s test for dependent proportions.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The paired samples <em>t</em>-test.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The independent samples <em>t</em>-test.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

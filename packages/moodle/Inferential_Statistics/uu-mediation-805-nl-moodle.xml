@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-mediation-805-nl-moodle/Inferential Statistics/Regression/Multiple linear regression/Mediation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-mediation-805-nl_uu-mediation-805-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een onderzoek naar persoonlijk letsel (Y) bij een ongeval met een brommer wordt de snelheid van de brommer (X) gemeten en wordt er gekeken of er wel of geen helm is gedragen (M). Onderzocht wordt of M een mediator is. Men zet twee stappen:
+1) regressie met Y als afhankelijke en X als onafhankelijke variabele.
+2) regressie met M als afhankelijke en X als onafhankelijke variabele.</p>
+<p>Als er bij stap 1) en 2) sprake is van significante resultaten, wat is dan de volgende stap?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Regressie met Y en M als onafhankelijke variabelen en X als afhankelijke.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Regressie met X en Y als onafhankelijke variabelen en M als afhankelijke.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Regressie met X en M als onafhankelijke variabelen en Y als afhankelijke.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Regressie met Y als onafhankelijke variabele en X als afhankelijke.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

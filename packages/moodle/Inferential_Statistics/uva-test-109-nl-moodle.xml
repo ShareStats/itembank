@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-test-109-nl-moodle/Inferential Statistics/Parametric Techniques/t-test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-test-109-nl_uva-test-109-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Onderzoekers zijn geïnteresseerd in de relatie tussen probleemgedrag op
+school (<em>y</em>) en probleemgedrag op het kinderdagverblijf (<em>x</em>) van
+kinderen. Na het verzamelen van de gegevens voor 42 kinderen berekenen
+ze de regressielijn <em>y</em> = 2 + 3<em>x</em>. Ze doen een toets op de
+hellingparameter om de relatie tussen <em>x</em> en <em>y</em> vast te stellen. De
+standaarderror van de hellingparameter is 1.5 en het aantal
+vrijheidsgraden waarmee getoetst wordt is 40. De nulhypothese stelt dat
+de hellingparameter 0 is. Deze nulhypothese wordt getoetst tegen de
+alternatieve hypothese die stelt dat de hellingparameter niet gelijk aan
+0 is. De nulhypothese kan</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+worden verworpen bij significantieniveau 0.10 maar niet bij 0.05.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+worden verworpen bij significantieniveau 0.10 maar niet bij 0.05.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+worden verworpen bij significantieniveau 0.05 maar niet bij 0.01.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+worden verworpen bij significantieniveau 0.05 maar niet bij 0.01.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+worden verworpen bij significantieniveau 0.01.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+worden verworpen bij significantieniveau 0.01.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

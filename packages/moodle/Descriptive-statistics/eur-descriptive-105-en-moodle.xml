@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-descriptive-105-en-moodle/Descriptive statistics/Summary Statistics/Measures of Location/Mean, Descriptive statistics/Summary Statistics/Measures of Location/Median</text>
+</category>
+</question>
+
+
+<question type="shortanswer">
+<name>
+<text> Q1 : Descriptive-statistics_eur-descriptive-105-en_eur-descriptive-105-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Fill in: “larger than”, “smaller than” or “equal to”:
+When a variable is distributed positively skewed the mean is …. the median.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>When a variable is distributed positively skewed the mean is larger than the median. When a variable is positively skewed the tail of the distribution is at the right side. The mean, and not the median is influenced by these large numbers and is therefore larger than the median.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<usecase>0</usecase>
+<answer fraction="100" format="moodle_auto_format">
+<text>
+"equal to"
+</text>
+</answer>
+</question>
+
+</quiz>

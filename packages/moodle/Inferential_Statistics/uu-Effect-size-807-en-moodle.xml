@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Effect-size-807-en-moodle/Inferential Statistics/Effect size</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Effect-size-807-en_uu-Effect-size-807-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Twenty-five women between ages 70 and 80 were randomly selected from the general population of women their age to take part in a special program to increase their knowledge of dementia. After the course, the women had an average knowledge score of 25. The mean knowledge for the general population of women of this age group is 22, with a standard deviation of 4. Assume that the mean knowledge of dementia in the population is normally distributed. Use the .05 level of significance.
+The researcher uses the following research question: Does the special program increase women’s knowledge of dementia?</p>
+<p>What is the effect size?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p><span class="math inline">\(d=\frac{25-22}{4}=\frac{3}{4}=0.75\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.75
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.75
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.50
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.65
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

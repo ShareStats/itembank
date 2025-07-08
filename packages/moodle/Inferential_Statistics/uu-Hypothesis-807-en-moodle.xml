@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Hypothesis-807-en-moodle/Inferential Statistics/NHST/Hypothesis</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Hypothesis-807-en_uu-Hypothesis-807-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher wants to investigate if UCU students differ from Dutch university students in general with regard to the level of academic stress they experience (measured on a scale from 0 to 100). The researcher knows that the average stress score among students in the Netherlands is 59. For her study, the researcher has collected data from a random sample of 36 UCU students. The mean of the academic stress score in the sample was 62 and the estimated population variance (S2) was 100.</p>
+<p>What are the research hypothesis (HR) and the null hypothesis (H0) of this study?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+HR: There is no difference in stress levels between UCU students and Dutch students in general.H0: There is a difference in stress levels between UCU students and Dutch students in general.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+HR: UCU students experience higher levels of academic stress than Dutch students in general. H0: There is no difference in stress levels between UCU students and Dutch students in general.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+HR: There is a difference in stress levels between UCU students and Dutch students in general.H0: There is no difference in stress levels between UCU students and Dutch students in general.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+HR: UCU students experience higher levels of academic stress than Dutch students in general.H0: UCU students do not experience higher levels of academic stress than Dutch students in general.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

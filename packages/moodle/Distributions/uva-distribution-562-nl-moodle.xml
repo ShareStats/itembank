@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-distribution-562-nl-moodle/Distributions/Continuous/t-distribution</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-distribution-562-nl_uva-distribution-562-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Van een aselect getrokken steekproef van 5 vrouwen is het (normaal
+verdeelde) gewicht (in kg.) gemeten:<br />
+55, 70, 61, 58, 66<br />
+We willen H<sub>0</sub>: μ=60 toetsen. De te gebruiken toetsingsgrootheid volgt
+een</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+standaardnormale verdeling
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+standaardnormale verdeling: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+T-verdeling met 3 vrijheidsgraden
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+T-verdeling met 3 vrijheidsgraden: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+T-verdeling met 4 vrijheidsgraden
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+T-verdeling met 4 vrijheidsgraden: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+T-verdeling met 5 vrijheidsgraden
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+T-verdeling met 5 vrijheidsgraden: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

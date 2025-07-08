@@ -73,16 +73,6 @@ kunnen we uit het 95% betrouwbaarheidsinterval van ‘FAMEDUC’ in <strong>mode
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De populatiewaarde niet 0 zal zijn, en dat er daarom waarschijnlijk een positief effect van ‘FAMEDUC’ in de populatie zal zijn
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De populatiewaarde ook 0 kan zijn, en dat er daarom onvoldoende aanwijzingen zijn dat er een positief effect van ‘FAMEDUC’ in de populatie zal zijn
@@ -90,6 +80,16 @@ De populatiewaarde ook 0 kan zijn, en dat er daarom onvoldoende aanwijzingen zij
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De populatiewaarde niet 0 zal zijn, en dat er daarom waarschijnlijk een positief effect van ‘FAMEDUC’ in de populatie zal zijn
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

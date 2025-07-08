@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-assumptions-013-nl-moodle/Assumptions</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Assumptions_uu-assumptions-013-nl_uu-assumptions-013-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Welke van de onderstaande situaties is geen assumptie voor een correcte interpretatie van de resultaten van een multipele lineaire regressieanalyse?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De observaties die zijn gebruikt voor het verzamelen van de onderzoeksgegevens (variabelen) zijn afhankelijk van elkaar.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De spreiding van de geobserveerde scores van de afhankelijke variabele Y rond de best passende regressielijn is ongeveer gelijk verdeeld voor de verschillende waarden van de X-en.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De voorspellingsfouten zijn bij toepassing van het regressiemodel normaalverdeeld.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De statistische samenhang tussen de onafhankelijke variabelen (X-en) in het model is niet te sterk.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

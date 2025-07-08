@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-One-sample-mean-804-nl-moodle/Inferential Statistics/Parametric Techniques/t-test/One sample mean</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-One-sample-mean-804-nl_uu-One-sample-mean-804-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een steekproef van 16 personen heeft de teststatistiek van het steekproefgemiddelde M de waarde 1.67. Onder welke omstandigheid dient de H0 te worden verworpen?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+In het geval van een 2-zijdige toets met <span class="math inline">\(\alpha\)</span> = 5% en een populatie met onbekende <span class="math inline">\(\sigma\)</span>.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+In het geval van een 1-zijdige toets met <span class="math inline">\(\alpha\)</span> = 5% en een populatie met onbekende <span class="math inline">\(\sigma\)</span>.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+In het geval van een 1-zijdige toets met <span class="math inline">\(\alpha\)</span> = 5% en een populatie met bekende <span class="math inline">\(\sigma\)</span>.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+In geen van de onder a, b en c situaties.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

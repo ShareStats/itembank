@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-independent-samples-means-45-nl-moodle/Inferential Statistics/Parametric Techniques/t-test/Independent samples means</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-independent-samples-means-45-nl_uva-independent-samples-means-45-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Twee onderzoekers willen weten of een verschil van 1 tussen twee
+gemiddelden significant is. In beide groepen is de standaarddeviatie 5
+en elk van de groepen heeft een steekproefgrootte van 200. De
+nulhypothese die de onderzoekers hanteren en die stelt dat het verschil
+gelijk is aan 0, wordt getoetst tegen het alternatief dat stelt dat het
+verschil ongelijk is aan 0. Er wordt getoetst met een oneindig aantal
+(∞) vrijheidsgraden. De nulhypothese kan worden verworpen bij</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.05 maar niet bij 0.02.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.05 maar niet bij 0.02.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.02 maar niet bij 0.01.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.02 maar niet bij 0.01.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.01 maar niet bij 0.002.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.01 maar niet bij 0.002.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-t-statistic-807-nl-moodle/Inferential Statistics/NHST/Test statistic/t-statistic</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-t-statistic-807-nl_uu-t-statistic-807-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een t-test voor onafhankelijke groepen verhoudt zich tot een t-test voor afhankelijke groepen als ______ tot ______.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+een onafhankelijke groepen-design versus een niet-equivalente groepen-design.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+een herhaalde metingen-design versus een design met gematchte groepen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+een niet-equivalente groepen-design versus een herhaalde metingen-design
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is correct.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+een design met gematchte groepen versus een herhaalde metingen-design.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

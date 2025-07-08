@@ -56,16 +56,6 @@ standard deviation</em> genoemd.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-s<sub>res</sub> = 3,22
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 s<sub>res</sub> = 2,09
@@ -78,7 +68,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-s<sub>res</sub> = 0,24
+s<sub>res</sub> = 1,88
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -86,9 +76,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+s<sub>res</sub> = 3,22
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-s<sub>res</sub> = 1,88
+s<sub>res</sub> = 0,24
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

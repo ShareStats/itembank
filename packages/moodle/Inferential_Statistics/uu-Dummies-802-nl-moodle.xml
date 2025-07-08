@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Dummies-802-nl-moodle/Inferential Statistics/Regression/Dummies</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Dummies-802-nl_uu-Dummies-802-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Bij proefpersonen wordt afname van depressiviteit gemeten op een continue schaal (Y). Men is geïnteresseerd in de effecten van drie soorten van therapieën: A, B of C, maar men meet ook achtergrondvariabelen <span class="math inline">\(X_{1}\)</span> en <span class="math inline">\(X_{2}\)</span>. Om de afname van depressiviteit te voorspellen worden voor therapie twee dummy-variabelen gemaakt:</p>
+<p><img src="@@PLUGINFILE@@/uu-Dummies-802-nl-tabel.jpg" /></p>
+<p>De regressievergelijking voor Y is: <span class="math inline">\(\hat{Y}\)</span> = 6.0 - 1.2<span class="math inline">\(D_{1}\)</span> + 1.4<span class="math inline">\(D_{2}\)</span> + 2<span class="math inline">\(X_{1}\)</span> +3<span class="math inline">\(X_{2}\)</span></p>
+<p>Bij de keuze voor de twee dummy-variabelen is een van de therapieën referentiecategorie geworden. Indien andere dummy-variabelen worden gekozen dan de twee die gekozen zijn in Vraag 6, dan…</p>
+</p>]]></text>
+<file name="uu-Dummies-802-nl-tabel.jpg" encoding="base64">/9j/4AAQSkZJRgABAQEAeAB4AAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAB/ALYDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9U6KK8z1P4S+Kb/Uru5g+NPjnTYJpnkjs7Wy0FooFLEiNDJpjOVUHA3MzYAySeaAPTKK8q/4U34u/6Lt8QP8AwB8Pf/Kqj/hTfi7/AKLt8QP/AAB8Pf8AyqoA9Voryr/hTfi7/ou3xA/8AfD3/wAqqP8AhTfi7/ou3xA/8AfD3/yqoA9Voryr/hTfi7/ou3xA/wDAHw9/8qqP+FN+Lv8Aou3xA/8AAHw9/wDKqgD1WivKv+FN+Lv+i7fED/wB8Pf/ACqo/wCFN+Lv+i7fED/wB8Pf/KqgD1WivKv+FN+Lv+i7fED/AMAfD3/yqo/4U34u/wCi7fED/wAAfD3/AMqqAPVaK8q/4U34u/6Lt8QP/AHw9/8AKqvNtY8aeDvDurXml6r+2Zc6ZqdnM1vc2V5qnhKGaCRThkdG04MrAgggjIIoA+nqK8f0n4Y+INe0qz1PTP2gvHGo6bewpc2t5aW3hyWGeJ1DJIjrpRDKykEMDgggirf/AApvxd/0Xb4gf+APh7/5VUAeq0V5V/wpvxd/0Xb4gf8AgD4e/wDlVR/wpvxd/wBF2+IH/gD4e/8AlVQB6rRXlX/Cm/F3/RdviB/4A+Hv/lVXm2seNPB3h3VrzS9V/bMudM1Ozma3ubK81TwlDNBIpwyOjacGVgQQQRkEUAfT1FeP6T8MfEGvaVZ6npn7QXjjUdNvYUubW8tLbw5LDPE6hkkR10ohlZSCGBwQQRXqei6fPpWkWdndaldazcQRLHJqF6sSz3DAYLuIkSMMep2Iq+gFAF2iiigAooooAKKKKACiiigAooooAKKKKACiiigArwDwCiyftpfGRHUMreFvDgKsMgjzNR4r3+vJdU/Zb8A6t4u1rxPJ/wAJVba7rO1b+7sPGutWhmRS7JGViu1URoZH2xgBV3kKADQB85/D3xDffBUftd/8KxGl2vg7wbqNvqGi2VzavPplveCyE+qWcUccsewCQBdqlREz/dYDafuavMdW/Z38JSfBC9+FPhyKXwL4UurM2DL4djgSZYWAEgzNFKrNIuQ8jKzncW3bvmr0bT7aSzsLa3mu5r+WKJY3urgIJJmAALsEVVDE8naqjJ4AHFAFiiiigArwDwCiyftpfGRHUMreFvDgKsMgjzNR4r3+vJdU/Zb8A6t4u1rxPJ/wlVtrus7Vv7uw8a61aGZFLskZWK7VRGhkfbGAFXeQoANAHhnwDsdb8K/EH9pDwx8Jbzw/oPgrRfElm2mvq9rLcaTpty9j5upwRRRSxYCziIFA6LF5jHB2hG+rvh/4gvfFvgLw3rmpac2j6jqemW17c6c5JNrLJErvESQDlWYryB0ridW/Z08PL8K9O+Hvg+/1D4aeGrKWJ/J8KR2qNcIhDGKb7RBMJUkYAy7gTKNyyF1d1b0Tw7pEmg6LaWE2pXusTQpiTUNRZGnuHJJZ32KqAkknaiqi9FVVAAANGiiigAoorzPU/wBp74OaLqV3p2o/FnwNYahaTPb3FrdeJLOOWGRGKujo0oKspBBBGQQRQB6ZRXlX/DWPwQ/6LJ8P/wDwqLH/AOO0f8NY/BD/AKLJ8P8A/wAKix/+O0Aeq0V5V/w1j8EP+iyfD/8A8Kix/wDjtH/DWPwQ/wCiyfD/AP8ACosf/jtAHqtFeVf8NY/BD/osnw//APCosf8A47R/w1j8EP8Aosnw/wD/AAqLH/47QB6rRXlX/DWPwQ/6LJ8P/wDwqLH/AOO0f8NY/BD/AKLJ8P8A/wAKix/+O0Aeq0V5V/w1j8EP+iyfD/8A8Kix/wDjtH/DWPwQ/wCiyfD/AP8ACosf/jtAHqtFeVf8NY/BD/osnw//APCosf8A47R/w1j8EP8Aosnw/wD/AAqLH/47QB6rRXlX/DWPwQ/6LJ8P/wDwqLH/AOO0f8NY/BD/AKLJ8P8A/wAKix/+O0Aeq0V5V/w1j8EP+iyfD/8A8Kix/wDjtH/DWPwQ/wCiyfD/AP8ACosf/jtAHqtFeVf8NY/BD/osnw//APCosf8A47R/w1j8EP8Aosnw/wD/AAqLH/47QB6rRXlX/DWPwQ/6LJ8P/wDwqLH/AOO16Rouuad4l0iz1XSL+11XS7yJZ7a+splmgnjYZV0dSVZSOQQcGgC7RRRQAV5V+0h8fLL9nX4e/wDCTXOkXOvym5WNdOtG2yGFVaW6mztbCw20U8p4wTGFyC4Neq180a7beK/jj8ZvFEWiSR+G9E8P6ZL4dEXjbwPqc9pqq3JVrue2kNxaRsn7uOEEM7Hy5GGI5FZwD6Qsr2DUrOC7tZVntriNZYpYzlXRhlWB7ggg1PXzp+w/4i1q3+EcHgDxLpviGHWPBMsmiw6trHh+902DVrCJytpdQm4jUEGHYpTcXVo2JG0qT9F0AFFFFABRRRQAUUUUAFFFFABXl/jL40XfhH44fD74fnwnd3Fl4sW8x4ja8hS3gkt7d5zEsQLSu5CcllRQHUhnO5R6hXzr8ddUkt/2m/gPKmi+Ir+00q51Ka/vtN8P315a2q3NnJbQmSeGFo1Jl4ILZQEO+1SGoA+iqKKKACiiigArxXx5+0ZJ4R1bxfNZ+HF1Xwn4HMI8V6wb8xTWZkiSZhbQCJhceVDJHLLuki2q42eY2UHtVfIvxL8G69puk/H/AOHNpoOsahdfFK8N1oWpWmnTT2afa7C2sbn7TcKvlW4tzbvKRKyF0ZRH5j/JQB9cI6yIrowZWGQynII9adVbTbIabptraKxdbeJIgxGCdoAz+lWaACiiigAryLWP2qfh9ofirXfDlw/iiXWdDUSajb2fgvWboW8ZLhZS8VoymJvLk2yAlGCMVJAr12vlVdN8cal+2Z8WR4K8Q6BoEy+FvD/2htc0ObUhJmTUNmzy7u38vB3ZJ35yOBjkA+lPCfizRvHXhvTtf8PalbaxouoQie1vrOQPFKh7gj8QR1BBB5Fa1fOH/BP/AFbTdS/ZvsLfTLZo49P1fVLOe8W+S9g1C4W8laa7t544okeGR3Zl2xqAPlAO3J+j6ACiiigAooooAKKKKACiiigAriPE3xo8HeD/ABRB4f1bVmt9Sk8nzClnPLb2nnOUg+1XCIYrbzXBWPznTzGGF3Hiu3r4w+JivbfDP9snStQw/iLUr4CwjYgSTxXek2Vrpqx5xktcJJEmOsisBlhQB9n0VU0mO4h0uzS7bfdLCizNnOXCjcc/XNW6ACiiigArjtX+MHgzQviRoXw/vfENpF401yKW4sNFUl7iSKNGdpGVQfLTaj4Z9oYowUkgiuxrwP41/wDJz37OX/X9r3/pqkoA98ooooAKKKKACvNtY/Zn+EHiLVrzVNV+FPgjU9TvJmuLm9vPDtnNNPIxyzu7RlmYkkkk5JNek182aHdXn7RXx6+KOjatrmuaV4N8B3FnpFlpXh/V7nSXu7yS3E891cT2rxzMF8xY0jEnl4VmZSxUqAfQ+j6Np/h3SbPS9KsbbTNMs4Vt7ays4VhhgjUYVERQFVQAAABgAVcri/hf4M1vwPa67Zax4kvfFEM2ptcabc6jL5lxDaGGJUgc4AJRlkAI5YYZiXZye0oAKKKKACiiigAooooAKKKKACsHVvAPhjXvEml+IdT8OaTqOv6UGGn6rd2MUt1ZhvveTKylo85OdpGc1vV8jfEzxpr+qaJ+0F8Q7PX9W0y7+F109r4fsLW+lisy1rp1tezm5t0YR3Ina4aM+cr7EVTH5b5YgH1zRVbTb0alptrdqpRbiJJQp5I3AHH61ZoAKKKKACuS8SfCHwJ4y8SWHiLxB4K8O674gsBGtnq2paVBcXVsEcyRiOV0LIFdmYYIwSSOTXW18jfEzxpr+qaJ+0F8Q7PX9W0y7+F109r4fsLW+lisy1rp1tezm5t0YR3Ina4aM+cr7EVTH5b5YgH1zRVbTb0alptrdqpRbiJJQp5I3AHH61ZoAKKKKACvHte+B+uaX8UNV8e/DrxZZ+E9U163hg17TtX0dtU07UXhUrBc+WlxbyRzqh2Fll2soUMhKhq9hooA5/wV4f1Lw/pUq6zrk3iDV7qY3N3eNH5MAkKquy3g3N5MKhQFTcx4LO8js7t0FFFABRRRQAUUUUAFFFFABRRRQAV4p46/Zyl8Xa54sjtPEcWmeEfGr20nirRX03z5r1oUSJvs8/mqsAmhiihl3RykomUMbkvXtdFADURY0VEUKqjAVRgAelOoooAKKKKACvFPHX7OUvi7XPFkdp4ji0zwj41e2k8VaK+m+fNetCiRN9nn81VgE0MUUMu6OUlEyhjcl69rooAaiLGioihVUYCqMAD0p1FFABRRRQAUUV5nqf7MPwc1rUrvUdR+E3ga/wBQu5nuLi6uvDdnJLNI7Fnd3aIlmYkkknJJJoA9Moryr/hk74If9Eb+H/8A4S9j/wDGqP8Ahk74If8ARG/h/wD+EvY//GqAPVaK8q/4ZO+CH/RG/h//AOEvY/8Axqj/AIZO+CH/AERv4f8A/hL2P/xqgD1WivKv+GTvgh/0Rv4f/wDhL2P/AMao/wCGTvgh/wBEb+H/AP4S9j/8aoA9Voryr/hk74If9Eb+H/8A4S9j/wDGqP8Ahk74If8ARG/h/wD+EvY//GqAPVaK8q/4ZO+CH/RG/h//AOEvY/8Axqj/AIZO+CH/AERv4f8A/hL2P/xqgD1WivKv+GTvgh/0Rv4f/wDhL2P/AMao/wCGTvgh/wBEb+H/AP4S9j/8aoA9Voryr/hk74If9Eb+H/8A4S9j/wDGqP8Ahk74If8ARG/h/wD+EvY//GqAPVaK8q/4ZO+CH/RG/h//AOEvY/8Axqj/AIZO+CH/AERv4f8A/hL2P/xqgD1WivKv+GTvgh/0Rv4f/wDhL2P/AMao/wCGTvgh/wBEb+H/AP4S9j/8aoA9Voryr/hk74If9Eb+H/8A4S9j/wDGq9I0XRNO8NaRZ6VpFha6VpdnEsFtY2UKwwQRqMKiIoCqoHAAGBQBdooooA//2Q==</file>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+verandert de geschatte afname van een persoon.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+verandert de constante (het intercept).
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+veranderen de B-waarden van de X-variabelen.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+meer dan 1 van de drie alternatieven a), b) en c) is waar.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

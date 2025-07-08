@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-r_squared-1238-en-moodle/inferential statistics/regression/r squared</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-r_squared-1238-en_vufsw-r_squared-1238-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A multiple regression analysis gives the following results:</p>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>
+Model
+</td>
+<td>
+Sum of Squares
+</td>
+<td>
+df
+</td>
+<td>
+Mean Square
+</td>
+<td>
+F
+</td>
+<td>
+Sig.
+</td>
+</tr>
+<tr class="even">
+<td>
+Regression
+</td>
+<td>
+81.580
+</td>
+<td>
+2
+</td>
+<td>
+40.790
+</td>
+<td>
+91.932
+</td>
+<td>
+.000
+</td>
+</tr>
+<tr class="odd">
+<td>
+Residual
+</td>
+<td>
+393.115
+</td>
+<td>
+886
+</td>
+<td>
+.444
+</td>
+<td>
+<br />
+</td>
+<td>
+ 
+</td>
+</tr>
+<tr class="even">
+<td>
+Total
+</td>
+<td>
+474.695
+</td>
+<td>
+888
+</td>
+<td>
+<br />
+</td>
+<td>
+<br />
+</td>
+<td>
+<br />
+</td>
+</tr>
+</tbody>
+</table>
+<p>How much of the variance of Y is explained by the independent variables?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>You can calculate the R<sup>2</sup> by (total sum of squares - residual)
+/ total sum of squares = 0.172</p>
+<p>If you want to know more about the explained variance, the R<sup>2</sup>
+watch this
+<a href="https://www.youtube.com/watch?v=s4iAV-ag640&amp;list=PLyLpEs0x9BnnDik99xLBH1yxkUCL4E7jk&amp;index=2">clip</a>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+20.8%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.000%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+91.932%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+17.2%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

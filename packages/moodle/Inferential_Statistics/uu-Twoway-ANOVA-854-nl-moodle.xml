@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Twoway-ANOVA-854-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Twoway-ANOVA-854-nl_uu-Twoway-ANOVA-854-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een groep onderzoekers kijkt naar het effect van sekse en het al dan niet aanbrengen van een smiley-face op de rekeningen en het gemiddelde tip-percentage.
+De onderzoekers stellen voor om de volgende zin in het onderzoeksverslag op te nemen:</p>
+<p>Uit het onderzoek komt naar voren dat er geen significante verschillen bestaan in gemiddelde tip-percentages tussen rekeningen met een smiley-face en die zonder een smiley-face, F = 2, p = .135.</p>
+<p>Zijn de onderzoekers juist om dit te rapporteren? Waarom wel of niet?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ja, omdat de p-waarde groter is dan 0.05 en dan is er geen verschil aanwezig en is het niet belangrijk om nog verder te kijken
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ja, omdat de resultaten van het interactie-effect significant zijn en er dus geen verschillen zijn tussen de serveerders en serveersters
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nee, omdat de F-waarde gelijk is aan 2, en dat is bijna gelijk aan 1 en dan kunnen we geen betrouwbare conclusies trekken over het wel of niet aanwezig zijn van verschillen tussen de rekeningen met en de rekeningen zonder smiley-face
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Nee, omdat ze eerst naar het interactie-effect moet kijken en het blijkt dat er wel verschillen zijn tussen de rekeningen met een smiley-face en die zonder, maar dan binnen de twee sekse groepen
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

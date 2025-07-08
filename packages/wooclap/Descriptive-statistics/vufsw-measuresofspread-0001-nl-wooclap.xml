@@ -72,6 +72,16 @@ Standaardwaarde</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De waarde van de standaarddeviatie ligt veel dichter bij de minimum score dan bij de maximum score.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 De waarde van het gemiddelde is veel kleiner dan de modus.
@@ -84,17 +94,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De waarde van de standaarddeviatie is veel kleiner dan 1,96.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De waarde van de standaarddeviatie ligt veel dichter bij de minimum score dan bij de maximum score.
+De waarde van de standaarddeviatie is veel kleiner dan het gemiddelde.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -114,7 +114,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De waarde van de standaarddeviatie is veel kleiner dan het gemiddelde.
+De waarde van de standaarddeviatie is veel kleiner dan 1,96.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

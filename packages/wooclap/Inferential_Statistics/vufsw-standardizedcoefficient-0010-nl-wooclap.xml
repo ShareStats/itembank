@@ -65,21 +65,11 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-hoeveel de waarde van Y verandert, wanneer X met één toeneemt, terwijl de omgekeerde invloed van Y op X constant wordt gehouden.
+hoeveel de waarde van Y verandert, uitgedrukt op een schaal die loopt van 0 t/m 1, wanneer X toeneemt van 0 naar 1.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-hoeveel de waarde van Y verandert, uitgedrukt in standaardeviaties van Y, wanneer X met één standaarddeviatie toeneemt.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>
@@ -95,11 +85,21 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-hoeveel de waarde van Y verandert, uitgedrukt op een schaal die loopt van 0 t/m 1, wanneer X toeneemt van 0 naar 1.
+hoeveel de waarde van Y verandert, wanneer X met één toeneemt, terwijl de omgekeerde invloed van Y op X constant wordt gehouden.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+hoeveel de waarde van Y verandert, uitgedrukt in standaardeviaties van Y, wanneer X met één standaarddeviatie toeneemt.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

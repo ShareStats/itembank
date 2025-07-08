@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Post-hoc_test-808-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Post-hoc test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Post-hoc_test-808-nl_uu-Post-hoc_test-808-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een psychologe doet een experiment met 100 vrijwilligers. Factor A geeft aan of de participant wel of geen rustgevend drankje heeft gekregen. Factor B geeft aan welke kleur licht er scheen in de ruimte waar de participant in zat tijdens het afnemen van een concentratietest: gewoon wit (controle situatie), geel, blauw of paars. Om te bepalen of er significante verschillen zijn tussen de gemiddelde scores in de verschillende testcondities, voert de psychologe een tweeweg variantieanalyse uit. Alle F-testen resulteren in significante resultaten.</p>
+<p>Voor welke factor(en) zou de psychologe nog een post-hoc toets moeten doen?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Factor A heeft maar twee niveaus: <code>wel een drankje'' en</code>geen drankje’’. Als het resultaat significant is, weten we dat de twee groepen significant van elkaar verschillen. Een post-hoc toets heeft hier geen zin.</p>
+<p>Factor B heeft 4 niveaus: wit, geel, blauw en paars. Als hier het resultaat significant is, weten we alleen nog maar dat niet alle groepen gelijk aan elkaar scoren. Maar welke significant van elkaar afwijken weten we nog niet. Dus een post-hoc toets is hier nodig om te bepalen welke groepen significant van elkaar afwijken.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alleen factor A
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Alleen factor B
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Zowel factor A als factor B
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Geen van beide factoren
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

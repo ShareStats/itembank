@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-reliability-005-nl-moodle/Reliability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_uu-reliability-005-nl_uu-reliability-005-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een experiment naar de gevoeligheid voor omgevingsgeluiden bij de uitvoering van cognitieve taken krijgen de deelnemers tien opgaven. De betrouwbaarheid rXX’ van deze test (berekend over de samengestelde score van de tien opgaven) bedraagt .60. Een onderzoeker besluit tot een uitbreiding met vijf gelijkwaardige opgaven.</p>
+<p>De geschatte betrouwbaarheid van de verlengde test (rvv’) is dan:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>We bepalen eerste de verlengingsfactor:</p>
+<p><span class="math inline">\(v= \frac {k&#39;}{k} = \frac {Nieuwe aantal items} {Oorspronkelijk aantal items} = \frac {15}{10} = 1.50\)</span></p>
+<p>We weten dat de oorspronkelijke betrouwbaarheid van de test .60 was. Met behulp van de SPearman Brown formule berekenen we de geschatte betrouwbaarheid van de verlenge test:</p>
+<p>$r_{vv’} =  {1 + (v-1)r{oo’}} =  {1+ (1.50-1) * 0.60} =  = 0.69 $</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+rvv’ is kleiner of gelijk aan 0.60
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+rvv’ is groter dan 0.60 maar kleiner of gelijk aan 0.70
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+rvv’ is groter dan 0.70 maar kleiner of gelijk aan 0.80
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+rvv’ is groter dan 0.80
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

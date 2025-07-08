@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-equation-1926-nl-moodle/Inferential Statistics/Regression/Equation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-equation-1926-nl_uva-equation-1926-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>We hebben een regressievergelijking <span class="math inline">\(\hat{y} = 7 + 5x_{1} + 7x_{2} + 9x_{3}\)</span> We controleren voor <em>x</em><sub>2</sub> en <em>x</em><sub>3</sub>. Wat is de
+afname in voorspelde <em>y</em> indien we voor <em>x</em><sub>1</sub> van 9 naar 1 gaan?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+8: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+40
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+40: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+45
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+45: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

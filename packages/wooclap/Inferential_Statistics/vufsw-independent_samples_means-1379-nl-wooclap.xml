@@ -58,16 +58,6 @@ difference) 2.36930?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Dit is de standaarddeviatie van de steekproefverdeling van het gemiddelde verschil in cultuurparticipatie tussen alleenstaanden en samenwonenden
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dit is de standaarddeviatie in de populatie van het gemiddelde verschil in cultuurparticipatie tussen alleenstaanden en samenwonenden
@@ -95,6 +85,16 @@ Dit is het verschil in standaarddeviatie van cultuurparticipatie tussen alleenst
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Dit is de standaarddeviatie van de steekproefverdeling van het gemiddelde verschil in cultuurparticipatie tussen alleenstaanden en samenwonenden
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

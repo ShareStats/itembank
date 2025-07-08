@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-sample-mean-1360-nl-moodle/Inferential Statistics/Sampling Distributions/Sample mean</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-sample-mean-1360-nl_uva-sample-mean-1360-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Hieronder zie je een tabel die het aantal manen toont voor iedere
+planeet in onze zonnestelsel. Je krijgt drie verschillende aselect
+gekozen planeten waarvan je een omschrijving van de manen van die drie
+planeten moet maken. In totaal zijn er 56 verschillende mogelijke
+steekproeven van drie planeten. Wat is de kans dat je drie manen of
+minder moet omschrijven?<br />
+<br />
+</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">planeet</td>
+<td style="text-align: left;">aantal manen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Mercurius</td>
+<td style="text-align: left;">0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Venus</td>
+<td style="text-align: left;">0</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Aarde</td>
+<td style="text-align: left;">1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Mars</td>
+<td style="text-align: left;">2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Jupiter</td>
+<td style="text-align: left;">63</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Saturnus</td>
+<td style="text-align: left;">56</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Uranus</td>
+<td style="text-align: left;">27</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Neptunus</td>
+<td style="text-align: left;">13</td>
+</tr>
+</tbody>
+</table>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1/56
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/56: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2/56
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2/56: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3/56
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+3/56: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+4/56
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+4/56: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

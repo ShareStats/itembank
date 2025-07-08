@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-graphs-0017-nl-moodle/descriptive statistics/data representation/graphs</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_vufsw-graphs-0017-nl_vufsw-graphs-0017-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Stel dat je geïnteresseerd bent of meer uren studeren per week tot
+hogere cijfers zou leiden. Dit wil je onderzoeken onder studenten van de
+Vrije Universiteit Amsterdam. Hierbij wil je studenten selecteren van
+verschillende opleidingen, zoals sociologie, psychologie, politicologie
+en antropologie.</p>
+<p>Als je de verdeling (<em>distribution</em>) van het aantal studie-uren wilt
+weergeven in een figuur, wat is dan de beste manier om dit te laten
+zien: een <em>bar chart</em> (staafdiagram) of een histogram? Waarom?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Een staafdiagram (<em>bar chart</em>), omdat het aantal studie-uren een continue kwantitatieve variabele is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Een histogram, omdat het aantal studie-uren een continue kwantitatieve variabele is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Een staafdiagram (<em>bar chart</em>), omdat het aantal studie-uren een discrete categorische variabele is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Een histogram, omdat het aantal studie-uren een discrete categorische variabele is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

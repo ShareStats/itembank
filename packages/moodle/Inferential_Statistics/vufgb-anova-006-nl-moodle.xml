@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-anova-006-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA, Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA, Inferential Statistics/Parametric Techniques/ANOVA/Oneway repeated measures ANOVA, Inferential Statistics/Regression/Residuals, Inferential Statistics/Regression/Sum of squares</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-anova-006-nl_vufgb-anova-006-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Vul de volgende stellingen aan.</p>
+<p>Als data van herhaalde metingen worden geanalyseerd met een <em>One-way</em> ANOVA in plaats van met een <em>Repeated Measures</em> ANOVA, dan zal bij <em>One-way</em> ANOVA de kwadratensom van de residuen (SSE) … zijn dan bij de <em>Repeated Measures</em> ANOVA. Hier is de power bij een <em>One-way</em> … ANOVA dan bij een <em>Repeated Measures</em> ANOVA.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+groter, kleiner
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+groter, groter
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+kleiner, kleiner
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+kleiner, groter
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

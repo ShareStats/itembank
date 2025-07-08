@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-central-limit-theorem-1310-nl-moodle/Distributions/Limit Theorems/Central Limit Theorem</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-central-limit-theorem-1310-nl_uva-central-limit-theorem-1310-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>HYS Den Haag en Destil Trappers Tilburg doen mee aan
+ijshockeywedstrijden. Het totale aantal punten <em>X</em> in een aantal
+wedstrijden van HYS heeft een normale  verdeling met een gemiddelde van
+70 en een standaardafwijking van 7. Het totale aantal punten Y van
+Destil heeft een gemiddelde van 60 en een standaardafwijking van 5. Als
+ze onafhankelijk van elkaar spelen, hoe groot is dan de kans dat HYS
+minder punten krijgt dan Destil?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,097
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,097: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,100
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,100: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,500
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,500: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,768
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,768: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Sample-mean-602-nl-moodle/Inferential Statistics/Sampling Distributions/Sample mean</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Sample-mean-602-nl_uu-Sample-mean-602-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Bij een steekproefomvang van n = 5 uit een populatie met een gemiddelde <span class="math inline">\(\mu\)</span> en standaarddeviatie <span class="math inline">\(\sigma\)</span> volgt de verdeling van de steekproefgemiddelden <span class="math inline">\(M\)</span> een normaalverdeling met gemiddelde <span class="math inline">\(\mu\)</span> en standaarddeviatie <span class="math inline">\(\frac{\sigma}{\sqrt{n}}\)</span> . . .</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+ongeacht de vorm van de verdeling van de betreffende variabele.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+als het steekproefgemiddelde <span class="math inline">\(M\)</span> en de standaarddeviatie <span class="math inline">\(s\)</span> ongebiased (unbiased) zijn.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+als de steekproef aselect is getrokken en representatief is voor de populatie.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+als de betreffende variabele in de populatie normaalverdeeld is.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

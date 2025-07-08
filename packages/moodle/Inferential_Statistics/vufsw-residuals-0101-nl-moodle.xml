@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-residuals-0101-nl-moodle/inferential statistics/regression/residuals</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-residuals-0101-nl_vufsw-residuals-0101-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoeker onderzoekt in hoeverre de mate van welvaart van een land
+de sterkte van religiositeit van een land kan verklaren. “<strong>Welvaart</strong>”
+(X) van een land is gemeten met de Human Development Index (HDI), en
+“<strong>Religiositeit</strong>” (Y) is gemeten met een schaal van 0 (niet religieus)
+tot 10 (zeer religieus). Een regressieanalyse van de gegevens van 46
+landen (n=46) geeft het volgende model: Ŷ = 8,58 – 1,76x.</p>
+<p>Canada heeft een HDI score van 0,94. De geobserveerde religiositeitscore
+voor dit land was 8,00. Wat is het <strong>residu</strong> van dit land (rond dit
+getal af op 2 decimalen). En wat betekent dit getal?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6,93. De geobserveerde religiositeit voor Canada is 6,93 standaard deviaties hoger dan de gemiddelde score.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1,07. De geobserveerde religiositeit voor Canada is 1,07 hoger dan de voorspelde score.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6,93. De geobserveerde religiositeit voor Canada is 6,93 hoger dan de voorspelde score.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1,07. De geobserveerde religiositeit voor Canada is 1,07 standaard deviaties hoger dan de gemiddelde score.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

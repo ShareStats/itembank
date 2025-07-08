@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-one-sample-mean-103-nl-moodle/Inferential Statistics/Parametric Techniques/t-test/One sample mean</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-one-sample-mean-103-nl_uva-one-sample-mean-103-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een 95% betrouwbaarheidsinterval voor een gemiddelde in de populatie is
+(-2; 5). Dan geldt voor een hypothesetoets met <em>H<sub>0</sub></em>: <em>μ</em> = 0 tegen <em>H<sub>a</sub></em>: <em>μ</em> ≠ 0 en een significantieniveau van 5% dat<br />
+</p>
+<ul>
+<li>I. de Type II fout groter is dan 5%.<br />
+</li>
+<li><ol start="2" style="list-style-type: upper-roman">
+<li>de P-waarde kleiner is dan 5%.</li>
+</ol></li>
+</ul>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Stelling I is waar en stelling II is onwaar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Stelling I is waar en stelling II is onwaar.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Stelling I is onwaar en stelling II is waar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Stelling I is onwaar en stelling II is waar.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Stelling I en stelling II zijn beide onwaar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Stelling I en stelling II zijn beide onwaar.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -161,26 +161,6 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Neither age (X<sub>1</sub>) nor gender (X<sub>2</sub>).
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Both age (X<sub>1</sub>) and gender (X<sub>2</sub>).
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Gender (X<sub>2</sub>).
@@ -193,7 +173,27 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Neither age (X<sub>1</sub>) nor gender (X<sub>2</sub>).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Age (X<sub>1</sub>).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Both age (X<sub>1</sub>) and gender (X<sub>2</sub>).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

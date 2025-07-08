@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Power-828-nl-moodle/Inferential Statistics/NHST/Power</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Power-828-nl_uu-Power-828-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een hoogleraar psychologie is bezig met een onderzoek naar depressieve gevoelens bij studenten van de Universiteit Utrecht die allemaal zijn relaxatietherapie volgen. De hypotheses die hij wil toetsen zijn H0: <span class="math inline">\(\mu\)</span> = 3.0 vs. H1: <span class="math inline">\(\mu\)</span> &lt; 3.0. Hiervoor wil hij een steekproef van 25 studenten gebruiken die allemaal een vragenlijst zullen invullen over depressieve gevoelens (met scores op een 5-punts Likertschaal). Hij kiest voor deze toets een significantieniveau van <span class="math inline">\(\alpha\)</span> = 1%. De power wordt uitgerekend voor deze toets en blijkt maar 68% te zijn. Bij welk van de onderstaande situaties zal de power niet omhoog gaan?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Een steekproef van 50 studenten gebruiken.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Toetsen bij <span class="math inline">\(\alpha\)</span> = 5%.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De power uitrekenen met een groter verwacht effect.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tweezijdig toetsen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is correct.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-variabletype-1091-en-moodle/variable type</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Variable-type_vufsw-variabletype-1091-en_vufsw-variabletype-1091-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A lecturer wants to know whether the average examination grades of two
+different classes differ from each other because they followed education
+in a different way. One group received interactive education, the other
+did not. The two classes are indicated by the variable ‘Interactive
+class’ (yes / no). In this case:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The variable ‘Interactive class’ is the independent variable and the
+average exam grade is the dependent variable.</p>
+<p>Language<br />
+English</p>
+<p>Levels of Difficulty<br />
+Easy</p>
+<p>M&amp;T BIS<br />
+Default value</p>
+<p>M&amp;T Bivariate linear regression<br />
+Bivariate linear regression</p>
+<p>M&amp;T Multivariate linear regression<br />
+Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The number of students in the interactive class is the independent variable and the average exam grade is the dependent variable.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The average exam grade is the independent variable and the variable ‘Interactive class’ the dependent variable.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The average exam grade is the independent variable and the number of students in the interactive class is the dependent variable.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The variable ‘Interactive class’ is the independent variable and the average exam grade is the dependent variable.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

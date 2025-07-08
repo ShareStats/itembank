@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-union-688-nl-moodle/Probability/Elementary Probability/General Rules/Union</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Probability_uva-union-688-nl_uva-union-688-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Meisjes en jongens kiezen verschillende studierichtingen op de middelbare school. Jongens kiezen veel vaker voor richtingen als houtbewerking, bouw en elektronica, terwijl meisjes vooral onderwerpen als verpleging en schoonheidsverzorging kiezen. In de tabel hieronder staan de aantallen studenten die verschillende vakken hebben gekozen:</p>
+<table class="table_shade">
+<thead>
+<tr class="header">
+<th></th>
+<th>Houtbewerking</th>
+<th>Bouw</th>
+<th>Elektronica</th>
+<th>Verpleging</th>
+<th>Schoonheidsverzorging</th>
+<th>Totaal</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Meisjes</td>
+<td>34</td>
+<td>16</td>
+<td>57</td>
+<td>311</td>
+<td>324</td>
+<td>742</td>
+</tr>
+<tr class="even">
+<td>Jongens</td>
+<td>124</td>
+<td>345</td>
+<td>231</td>
+<td>28</td>
+<td>8</td>
+<td>736</td>
+</tr>
+<tr class="odd">
+<td>Totaal</td>
+<td>158</td>
+<td>361</td>
+<td>288</td>
+<td>339</td>
+<td>332</td>
+<td>1478</td>
+</tr>
+</tbody>
+</table>
+<p>Hoe groot is de kans dat een aselect gekozen student een jongen is die Bouw studeert?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The correct answer is 0.23.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.23</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

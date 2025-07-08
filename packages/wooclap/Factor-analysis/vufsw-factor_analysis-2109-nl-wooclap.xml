@@ -61,21 +61,11 @@ voor wiskunde</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Geen van beide uitspraken klopt
+Uitspraak 2 klopt; uitspraak 1 klopt niet
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Uitspraak 1 klopt; uitspraak 2 klopt niet
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>
@@ -91,11 +81,21 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Uitspraak 2 klopt; uitspraak 1 klopt niet
+Geen van beide uitspraken klopt
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Uitspraak 1 klopt; uitspraak 2 klopt niet
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

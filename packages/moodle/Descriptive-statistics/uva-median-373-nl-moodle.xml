@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-median-373-nl-moodle/Descriptive statistics/Summary Statistics/Measures of Location/Median</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-median-373-nl_uva-median-373-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Uit een populatie van astmapatiënten wordt een steekproef van 6 personen
+getrokken en hun vitale longcapaciteit (in liter) wordt gemeten, met als
+uitkomsten: 2.47, 2.25, 2.65, 2.00, 3.41, 2.22. Voor deze steekproef
+geldt</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+de mediaan is kleiner dan het gemiddelde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+de mediaan is kleiner dan het gemiddelde: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+de mediaan en het gemiddelde zijn even groot
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+de mediaan en het gemiddelde zijn even groot: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+de mediaan is groter dan het gemiddelde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+de mediaan is groter dan het gemiddelde: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+mediaan en gemiddelde kunnen niet vergeleken worden
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+mediaan en gemiddelde kunnen niet vergeleken worden: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

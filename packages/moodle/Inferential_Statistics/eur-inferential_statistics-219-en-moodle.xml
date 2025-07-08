@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-219-en-moodle/Inferential Statistics/Regression/Equation, Inferential Statistics/Regression/Dummies, Inferential Statistics/Regression/Simple linear regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-219-en_eur-inferential_statistics-219-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A psychologist runs an ANCOVA with the dependent variable Y, the between-subject factor ‘group’ (1, 2, 3) and the covariate X with a mean of 110. This results in the following SPSS output:</p>
+<table class="table_shade">
+<thead>
+<tr class="header">
+<th style="text-align: left;">B</th>
+<th style="text-align: left;">Std.Error</th>
+<th style="text-align: left;">t</th>
+<th style="text-align: left;">Sig</th>
+<th style="text-align: left;">LowerboundCI</th>
+<th style="text-align: left;">UpperboundCI</th>
+<th style="text-align: left;">Partial_Eta</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">22.961</td>
+<td style="text-align: left;">6.313</td>
+<td style="text-align: left;">3.637</td>
+<td style="text-align: left;">0.001</td>
+<td style="text-align: left;">9.984</td>
+<td style="text-align: left;">35.939</td>
+<td style="text-align: left;">0.337</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">1.139</td>
+<td style="text-align: left;">0.282</td>
+<td style="text-align: left;">4.031</td>
+<td style="text-align: left;">0.000</td>
+<td style="text-align: left;">0.558</td>
+<td style="text-align: left;">1.719</td>
+<td style="text-align: left;">0.385</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">0.191</td>
+<td style="text-align: left;">1.878</td>
+<td style="text-align: left;">0.102</td>
+<td style="text-align: left;">.920</td>
+<td style="text-align: left;">-3.669</td>
+<td style="text-align: left;">4.051</td>
+<td style="text-align: left;">0.000</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">5.008</td>
+<td style="text-align: left;">1.831</td>
+<td style="text-align: left;">2.735</td>
+<td style="text-align: left;">0.011</td>
+<td style="text-align: left;">1.244</td>
+<td style="text-align: left;">8.773</td>
+<td style="text-align: left;">0.223</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">0(a)</td>
+<td style="text-align: left;">…</td>
+<td style="text-align: left;">…</td>
+<td style="text-align: left;">…</td>
+<td style="text-align: left;">…</td>
+<td style="text-align: left;">…</td>
+<td style="text-align: left;">…</td>
+</tr>
+</tbody>
+</table>
+<p>What can be inferred about the adjusted mean of group 3 from the above table?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The adjusted mean is the mean of a group when the covariate has its mean value. In other words, it is the mean of a group when adjusted for the covariate. The B-values in the table represent the difference between the adjusted mean of the relevant group and the adjusted mean of the reference group.</p>
+<p>You can get the adjusted mean of group 3 by writing out the regression formula and entering a 0 for each of the other groups (or the dummies). For the covariate, enter the mean value (in this case 110). This is what you see at answer B.</p>
+<p>Data for group 3 is missing as they are the reference group. Furthermore, the B-value for group 1 does indeed represent the difference between group 1 and the reference group (in this case group 3), but the table shows that this difference is not significant (p = .920).</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+It does not differ from 0 statistically
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+It equals 22.961 + 1.139 × 110
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+It is significantly lower than the adjusted mean of group 1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nothing can be inferred about the adjusted mean of group 3, because it is the reference group.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-reliability-102-en-moodle/Reliability/Analysis/Test-retest</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Reliability_eur-reliability-102-en_eur-reliability-102-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Below you can find the observed scores on a depression scale with a one‐week interval.High scores indicate high levels of depression.</p>
+<table class="table_shade">
+<thead>
+<tr class="header">
+<th style="text-align: right;">Participant</th>
+<th style="text-align: right;">Form1</th>
+<th style="text-align: right;">Form2</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">19</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">21</td>
+<td style="text-align: right;">23</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">11</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">28</td>
+<td style="text-align: right;">24</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">32</td>
+<td style="text-align: right;">34</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">24</td>
+<td style="text-align: right;">21</td>
+</tr>
+</tbody>
+</table>
+<p>Calculate the test‐retest reliability. To decrease your work:
+<span class="math inline">\(s^2_{1st} = 37.06\)</span>, <span class="math inline">\(s^2_{2nd} = 54.56\)</span> and <span class="math inline">\(c_{1st,2nd} = 37.89\)</span>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The test‐retest reliability is equal to the correlation between the two scores on the two administrations. This correlation is: <span class="math inline">\(r_{F1,F2}\)</span> = <span class="math inline">\(\frac{37.89}{\sqrt{37.06 \times 54.56}} = .843\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.843</text>
+<tolerance>0.005</tolerance>
+</answer>
+</question>
+
+</quiz>

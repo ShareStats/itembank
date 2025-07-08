@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-109-en-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Oneway repeated measures ANOVA, Inferential Statistics/NHST/Power, Inferential Statistics/Parametric Techniques/ANOVA/ANOVA F-test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-109-en_eur-inferential_statistics-109-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A repeated measures ANOVA has more power than an ANOVA for independent groups, because one variance component is calculated differently. Which variance component is this?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Individual differences between participants matters less for repeated measures analyses. Each participant’s score is measured at a minimum of 2 different occasions; the difference between these conditions within participants is what’s relevant. An individual who starts at a 0 and ends at a 2 (difference of 2) has the same difference score as someone who starts at a 5 and ends at a 7.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The Sum of Squares Total
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The Sum of Squares Model
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The Sum of Squares Residual
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This is the correct answer!
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+None of the above
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

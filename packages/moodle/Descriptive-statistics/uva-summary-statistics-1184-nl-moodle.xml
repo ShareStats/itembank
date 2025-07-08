@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-summary-statistics-1184-nl-moodle/Descriptive statistics/Summary Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-summary-statistics-1184-nl_uva-summary-statistics-1184-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Otto loopt elke dag 10 mijl om 13:00 uur. Gemiddeld is hij klaar om
+15:50 uur met een standaardafwijking van 10 minuten. Zijn vriendin Sien
+begint 30 minuten later en zij rent elke dag de 10 mijl precies twee
+keer zo snel als Otto. Wat is de gemiddelde tijd dat Sien finisht, en
+wat is de standaardafwijking in minuten wanneer zij de finish haalt?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+gemiddeld om 14:25 uur, standaardafwijking 5 minuten
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+gemiddeld om 14:25 uur, standaardafwijking 5 minuten: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+gemiddeld om 14:25 uur, standaardafwijking 20 minuten
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+gemiddeld om 14:25 uur, standaardafwijking 20 minuten: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+gemiddeld om 14:25 uur, standaardafwijking 35 minuten
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+gemiddeld om 14:25 uur, standaardafwijking 35 minuten: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+gemiddeld om 14:55 uur, standaardafwijking 5 minuten
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+gemiddeld om 14:55 uur, standaardafwijking 5 minuten: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+gemiddeld om 14:55 uur, standaardafwijking 35 minuten
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+gemiddeld om 14:55 uur, standaardafwijking 35 minuten: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

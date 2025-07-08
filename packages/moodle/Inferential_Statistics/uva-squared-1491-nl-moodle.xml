@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-squared-1491-nl-moodle/Inferential Statistics/NHST/Test statistic/Chi-squared</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-squared-1491-nl_uva-squared-1491-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Gegeven is de volgende frequentietabel.</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td></td>
+<td style="text-align: left;">Sportauto</td>
+<td style="text-align: left;">Familieauto</td>
+</tr>
+<tr class="even">
+<td>Man</td>
+<td style="text-align: left;">11</td>
+<td style="text-align: left;">7</td>
+</tr>
+<tr class="odd">
+<td>Vrouw</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">17</td>
+</tr>
+</tbody>
+</table>
+<p>Wat is de verwachte celfrequentie van een Man met Sportauto onder de
+aanname van onafhankelijkheid van de nulhypothese?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+6: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+9: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+12
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+12: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

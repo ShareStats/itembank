@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Effect-size-806-nl-moodle/Inferential Statistics/Effect size</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Effect-size-806-nl_uu-Effect-size-806-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een onderzoek onder 30 jongens en 100 meisjes blijkt de correlatie tussen tv-kijken en agressie voor de jongens .36 te zijn met een <span class="math inline">\(p\)</span>-waarde van .02 en voor de meisjes .20 met een <span class="math inline">\(p\)</span>-waarde van eveneens .02. Welke uitspraak is gezien deze gegevens juist?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De effectgrootte is voor jongens en meisjes ongeveer gelijk, gezien de gelijke <span class="math inline">\(p\)</span>-waardes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De effectgrootte is voor de jongens groter dan voor de meisjes, gezien de hogere correlatie.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is correct.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De effectgrootte is voor de meisjes groter dan voor de jongens gezien de grotere steekproef van meisjes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Op basis van deze gegevens kun je niets over de effectgrootte zeggen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

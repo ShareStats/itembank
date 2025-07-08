@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-confidenceintervals-0185-nl-moodle/inferential statistics/confidence intervals</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-confidenceintervals-0185-nl_vufsw-confidenceintervals-0185-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Hieronder volgt een klein gedeelte uit een onderzoeksverslag over de
+mate van tevredenheid van werknemers bij een grote organisatie. Er is
+een tekst en een getal weggelaten uit dit onderzoeksverslag.  </p>
+<p>De mate van werktevredenheid werd gemeten door middel van 8 vragen. Elk
+van deze vragen had de volgende vijf antwoordmogelijkheden: helemaal mee
+oneens (1), mee oneens (2), niet mee eens, niet mee oneens (3), mee eens
+(4), helemaal mee eens (5). Een schaal werd geconstrueerd door per
+respondent de gemiddelde score op deze 8 items te berekenen.</p>
+<p>Uit de gegevens uit onze steekproef bleek dat de mate van tevredenheid
+met de huidige baan van werknemers met een vast contract significant
+verschilt van werknemers met een tijdelijk contract. De berekening van
+<strong>[—Tekst —] </strong>laat namelijk zien dat het verschil tussen de
+gemiddelde scores van de twee groepen significant afwijkt van
+<strong>[—Getal—]</strong>.</p>
+<p>Wat is de juiste tekst en het juiste getal?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<strong>Tekst:</strong> een 95% betrouwbaarheidsinterval. <strong>Getal:</strong> 0,05.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<strong>Tekst:</strong> het 5% significantieniveau. <strong>Getal:</strong> 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<strong>Tekst:</strong> het 5% significantieniveau. <strong>Getal:</strong> 0,05.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<strong>Tekst:</strong> een 95% betrouwbaarheidsinterval. <strong>Getal:</strong> 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

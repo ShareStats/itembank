@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-reliability-115-en-moodle/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Reliability_eur-reliability-115-en_eur-reliability-115-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A test that measures assertiveness is administered both before and after an assertiveness training. The variance in the pre‐test is 8 and the reliability is .75. The post‐test has a variance of 7 and the reliability is .80. The correlation between the pre‐ and post‐test scores is .65.
+Calculate the reliability of the differences scores.</p>
+<p><span class="math inline">\(R_d = \frac{S^2_{Xo} \times R_{XX} + S^2_{Yo} \times R_{YY}-2\times r_{XoYo}\times\ S_{Xo} \times S_{Yo}}{S^2_{XO} + S^2_{YO} - 2\times r_{XoYo}\times\ S_{Xo} \times S_{Yo}}\)</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>To calculate the reliability of the differences scores, one has to use the beforementioned formula, giving us the following outcome:
+<span class="math inline">\(R_d = \frac{8 \times .75+7\times.80-2\times.65\times\sqrt{8\times7}}{8+7-2\times.65\times \sqrt{8\times7}} = \frac{1.87}{5.27} = .355\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.355</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

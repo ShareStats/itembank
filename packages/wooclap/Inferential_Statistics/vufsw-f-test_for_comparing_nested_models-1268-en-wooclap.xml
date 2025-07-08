@@ -58,19 +58,9 @@ The 1.96 is the critical value of the t test.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Neither statement is correct.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Statement I is correct.
+Statement II is correct.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -88,9 +78,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Neither statement is correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Statement II is correct.
+Statement I is correct.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

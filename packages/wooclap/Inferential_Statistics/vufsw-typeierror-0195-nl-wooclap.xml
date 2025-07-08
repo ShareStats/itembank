@@ -69,6 +69,16 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De cursus heeft in werkelijkheid (in de populatie) een<strong> </strong>positief effect, maar uit het onderzoek blijkt dat de geobserveerde afname van het gemiddelde aantal fouten tussen de voor- en nameting (meting 1 en 2) <strong>niet</strong> significant is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 De cursus heeft in werkelijkheid (in de populatie) <strong>geen</strong> positief effect, maar uit het onderzoek blijkt dat de geobserveerde afname van het gemiddelde aantal fouten tussen de voor- en nameting (meting 1 en 2) <strong>wel</strong> significant is.
@@ -92,16 +102,6 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De cursus heeft in werkelijkheid (in de populatie) een<strong> </strong>positief effect, maar uit het onderzoek blijkt dat de geobserveerde afname van het gemiddelde aantal fouten tussen de voor- en nameting (meting 1 en 2) <strong>wel</strong> significant is.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De cursus heeft in werkelijkheid (in de populatie) een<strong> </strong>positief effect, maar uit het onderzoek blijkt dat de geobserveerde afname van het gemiddelde aantal fouten tussen de voor- en nameting (meting 1 en 2) <strong>niet</strong> significant is.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-measurement-level-800-en-moodle/Measurement Level</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Measurement-Level_uu-measurement-level-800-en_uu-measurement-level-800-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In a questionnaire counsellors describe a variety of thoughts that teenagers could have at varying frequencies. Examples are ‘I wish I would look like that model from the magazine’, ‘I wish I could just disappear forever’, or ‘I don’t ever want to go out in public again’. The teenagers are asked to indicate how frequently they experience these thoughts, ranging from 0 = never, to 8 = a few times each week, 9 = once a day, and 10 = multiple times per day. In the end, the counsellors will calculate a total score by combining the answers to all the statements. What scale is being described?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Summated scale.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Semantic differential.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Differential scale.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Cumulative scale.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

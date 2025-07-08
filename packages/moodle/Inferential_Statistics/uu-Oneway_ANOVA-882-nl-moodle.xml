@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Oneway_ANOVA-882-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Oneway_ANOVA-882-nl_uu-Oneway_ANOVA-882-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Op een peuterspeelzaal worden 25 peuters opgedeeld in 5 groepen (rood, blauw, geel, groen en paars). De peuterleidster vergelijkt het vocabulaire van deze kinderen door de woordkennis te testen bij alle kinderen en de gemiddelden uit te rekenen per kleurgroep. Ze vindt een <span class="math inline">\(SS_{within}\)</span> van 50.4. Verder weet ze dat ze 16% van de spreiding heeft verklaard met de groepsindeling in kleuren. Wat is de waarde van de <span class="math inline">\(MS_{between}\)</span> die ze heeft gevonden?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1,92
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+dit is met <span class="math inline">\(DF_{between}\)</span> = 5
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2,52
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+dit is alleen <span class="math inline">\(MS_{Within}\)</span>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9,6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+dit is alleen <span class="math inline">\(SS_{between}\)</span>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2,4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+dit is correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

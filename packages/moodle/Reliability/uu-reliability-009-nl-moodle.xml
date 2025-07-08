@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-reliability-009-nl-moodle/Reliability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_uu-reliability-009-nl_uu-reliability-009-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Twee testontwikkelaars spreken over de bruikbaarheid van een nieuwe meetinstrument. Een psychometrica van naam en faam vangt een aantal suggesties voor verbetering van het meetinstrument op.</p>
+<p>Welk van onderstaande suggesties vindt zij minder geschikt voor het vergroten van de betrouwbaarheid van het nieuwe meetinstrument?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Uitleg: De betrouwbaarheid van het meetinstrument wordt vergroot door:
+Optie A: Items die nauwelijks samenhangen met de overige items te verwijderen
+Optie C: Een groter aantal items te gebruiken
+Optie D: Te zorgen voor duidelijkheid bij de participanten betreft het invullen.</p>
+<p>Optie B zorgt niet voor een betrouwbaarder meetinstrument.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het verwijderen van items met een lage item-restcorrelatie.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Het herhalen van de observaties bij dezelfde personen.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het vergroten van het aantal gelijkwaardige items.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het verbeteren van de instructies over de afname.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

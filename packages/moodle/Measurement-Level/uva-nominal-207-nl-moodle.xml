@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-nominal-207-nl-moodle/Measurement Level/Nominal</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Measurement-Level_uva-nominal-207-nl_uva-nominal-207-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een vragenlijst komt de vraag voor "Bent u over het algemeen
+gelukkig?" met de antwoordmogelijkheden: ja, nee, geen mening. Dit is
+een voorbeeld van</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+instrumenteel-nomologisch onderzoek.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+instrumenteel-nomologisch onderzoek.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+kwantitatief meten.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+kwantitatief meten.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+ongeordend-categoriserend meten.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+ongeordend-categoriserend meten.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

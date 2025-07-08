@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-202-nl-moodle/Inferential Statistics/Effect size/Cohen's d</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-202-nl_eur-inferential_statistics-202-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoeker wil weten of kinderen die vaak een koptelefoon op hebben een slechter gehoor hebben dan kinderen die nooit een koptelefoon op hebben. Hoe hoger de score op de gehoortest, des te beter het gehoor. De betrouwbaarheid van een gehoormeting is .81. In onderstaande tabel staan de gemiddelden en standaarddeviaties van de twee groepen. Hoe hoog zou de effect-size Cohen’s d, <span class="math inline">\(d_{XT}\)</span> zijn als de gehoortest perfect betrouwbaar was geweest?</p>
+<table class="table_shade">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Condition</th>
+<th style="text-align: left;">Mean</th>
+<th style="text-align: left;">SD</th>
+<th style="text-align: left;">N</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Headphones</td>
+<td style="text-align: left;">10</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">30</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">No headphones</td>
+<td style="text-align: left;">11.25</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">30</td>
+</tr>
+</tbody>
+</table>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>First you use:
+<span class="math inline">\(d_{xO} = (x̄_{O1} -x̄_{O2}) \div √ ((S^2_{O1}+S^2_{O2}) \div 2)\)</span> to calculate <span class="math inline">\(d_{Xo}\)</span>.</p>
+<p>This makes <span class="math inline">\((11.25 - 10) \div √((9 + 4) \div 2)=1.25 \div √6.5 = (1.25 ) \div (2.5495) = 0.490\)</span>.</p>
+<p>Then you use:
+<span class="math inline">\(d_{X_O} = d_{X_T} \times √R_{XX}\)</span></p>
+<p>To calculate <span class="math inline">\(d_{X_T}\)</span>, this makes <span class="math inline">\(0.409 \div √0.81 = 0.409 \div 0.9 = 0.545\)</span>.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+.556
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+.490
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+.545
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+.405
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

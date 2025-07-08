@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-simple-linear-regression-890-nl-moodle/Inferential Statistics/Regression/Simple linear regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-simple-linear-regression-890-nl_uva-simple-linear-regression-890-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Bij een toets op een coëfficiënt uit een multipele regressie met drie <em>explanatory variables</em>, wordt de nulhypothese getoetst die stelt dat de
+coëfficiënt 0 is tegen het alternatief dat de coëfficiënt ongelijk aan 0
+is. De coëfficiënt is <em>b</em><sub>1</sub> = 2.3 met <em>se</em> = 1.5 en er zijn 16
+vrijheidsgraden. Dan kan de nulhypothese</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+worden verworpen bij 0.20 maar niet bij 0.10.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+worden verworpen bij 0.20 maar niet bij 0.10.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+worden verworpen bij 0.10 maar niet bij 0.05.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+worden verworpen bij 0.10 maar niet bij 0.05.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+worden verworpen bij 0.05 maar niet bij 0.02.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+worden verworpen bij 0.05 maar niet bij 0.02.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

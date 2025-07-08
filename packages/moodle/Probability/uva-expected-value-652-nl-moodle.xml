@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-expected-value-652-nl-moodle/Probability/Elementary Probability/Random variables/Expected value</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Probability_uva-expected-value-652-nl_uva-expected-value-652-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een gesloten doos zitten vijf ballen: drie rode en twee gele. Als je
+één bal pakt, wat is dan kans dat het een rode bal is?<br />
+(Geef het antwoord met één decimaal. Gebruik een komma als
+decimaalteken).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Het correcte antwoord is: 0.6</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.6</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

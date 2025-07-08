@@ -53,6 +53,16 @@ gekwadrateerde residuen zo klein mogelijk is.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Zowel stelling I als stelling II zijn <strong>on</strong>juist
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Stelling I is <strong>on</strong>juist en stelling II is juist
@@ -65,27 +75,17 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Zowel stelling I als stelling II zijn juist
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Zowel stelling I als stelling II zijn <strong>on</strong>juist
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Stelling I is juist en stelling II is <strong>on</strong>juist
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Zowel stelling I als stelling II zijn juist
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

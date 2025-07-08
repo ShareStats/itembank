@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Twoway-ANOVA-823-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Twoway-ANOVA-823-nl_uu-Twoway-ANOVA-823-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Uit onderzoek blijkt dat dove kinderen van dove ouders beter functioneren op het gebied van taal en op sociaal gebied. Ook academisch gezien scoren ze hoger dan dove kinderen van horende ouders. De onderzoeker K.L. Hamminga, S. de Vries en J.C. Walsen onderzochten bij 79 dove kinderen of dit ook het geval was voor de motorische ontwikkeling. Hierbij werd bovendien onderscheid gemaakt tussen dove kinderen die op een reguliere school zaten en dove kinderen die naar speciaal (doven)onderwijs gingen.
+De proefpersonen werden at random uit de populatie van dove kinderen (6 tot en met 18 jaar) in Nederland getrokken, en getest op motorische ontwikkeling. Dit gebeurde aan de hand van een twaalf testjes zoals rennen, huppelen, springen, vangen ed. die met een camera werden opgenomen. Voor elke handeling is voor elke leeftijd een bepaald criterium vastgesteld, gebaseerd op standaard normen. Bij het bekijken van de video’s kreeg elk kind een punt wanneer het aan het criterium van een bepaalde handeling had voldaan, en kon dus minimaal 0 en maximaal 12 punten scoren. De onderzoekers voerden een tweeweg ANOVA uit.</p>
+<p>Welke variabelen in dit onderzoek zijn de onafhankelijke variabelen?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+doofheid van de ouders, motorische ontwikkeling van kind
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+doofheid van ouders, schooltype van kind
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+doofheid van kind, schooltype van kind
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+doofheid van kind, motorische ontwikkeling van kind
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

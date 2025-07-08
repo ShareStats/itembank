@@ -60,9 +60,19 @@ Standaardwaarde</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Geen van deze atwoorden is correct
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Bevatten alleen een mix van within-group en repeated-measures variabelen.
+Kunnen geen repeated-measures en onafhankelijke designs combineren.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -80,19 +90,9 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Geen van deze atwoorden is correct
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Kunnen geen repeated-measures en onafhankelijke designs combineren.
+Bevatten alleen een mix van within-group en repeated-measures variabelen.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-multiplication-rule-657-nl-moodle/Probability/Elementary Probability/General Rules/Multiplication rule</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Probability_uva-multiplication-rule-657-nl_uva-multiplication-rule-657-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Als een klant naar de supermarkt gaat om iets te kopen voorspellen we
+dat de kans dat een klant product A wil kopen gelijk is aan 0,5 en voor
+product B is de kans 0,6. Wij nemen aan dat product A en B elkaar niet
+beïnvloeden en de motivatie om de producten te kopen ook onafhankelijk
+is van elkaar. Wat is de kans dat iemand gewoon één product A of één
+product B wil kopen?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Het correcte antwoord is: 0.5</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.5</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

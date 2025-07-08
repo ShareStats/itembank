@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-expectedvalue-1257-en-moodle/probability/elementary probability/random variables/expected value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-expectedvalue-1257-en_vufsw-expectedvalue-1257-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher is curious how often people play sports during a week and
+interviews 100 people. He finds the following results.<br />
+What is the expected value of the number of days that people play sports
+per week on the basis of this sample?</p>
+<table class="fr-alternate-rows tvcss_2 tvcss_3">
+<colgroup>
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td class="tvcss_4">
+<strong>Playing sport<br />
+(how many days?)</strong><br />
+</td>
+<td class="tvcss_5">
+0<br />
+</td>
+<td class="tvcss_6">
+1<br />
+</td>
+<td class="tvcss_7">
+2<br />
+</td>
+<td class="tvcss_8">
+3<br />
+</td>
+<td class="tvcss_8">
+4<br />
+</td>
+<td class="tvcss_8">
+5<br />
+</td>
+<td class="tvcss_8">
+6<br />
+</td>
+<td class="tvcss_9">
+7<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+<strong>P(y)<br />
+</strong>
+</td>
+<td class="tvcss_5">
+0.70<strong><br />
+</strong>
+</td>
+<td class="tvcss_6">
+0.10<strong><br />
+</strong>
+</td>
+<td class="tvcss_7">
+0.08<br />
+</td>
+<td class="tvcss_8">
+0.05<strong><br />
+</strong>
+</td>
+<td class="tvcss_8">
+0.01<strong><br />
+</strong>
+</td>
+<td class="tvcss_8">
+0.01<br />
+</td>
+<td class="tvcss_8">
+0.03
+</td>
+<td class="tvcss_9">
+0.02<strong><br />
+</strong>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>``</strong></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>It is 0,82.</p>
+<p>You can calculate this by: 0*0,7+1*0,1+2*0,08+3*0,05 etc.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.00
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.70
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.24
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.82
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.14
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

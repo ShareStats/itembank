@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Twoway-ANOVA-801-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Twoway-ANOVA-801-nl_uu-Twoway-ANOVA-801-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Prof. J. Richardson doet onderzoek naar dagelijks gedrag. Een van de dingen die onderzocht worden is hoe lang en hoe vaak mensen met een hond als huisdier ook daadwerkelijk met hun hond wandelen. Prof. Richardson denkt dat de lengte van de wandelingen wel eens samen kunnen hangen met leeftijd, want oudere mensen zijn meer thuis dan wat minder oude mensen die de hele dag moeten werken. Hij besluit om leeftijd te operationaliseren als wel of niet met pensioen. Ook kijkt hij naar locatie, waarbij hij bepaalt of de mensen vlak bij een park/buitengebied wonen (lekker om in te wandelen) of niet (bijvoorbeeld in de binnenstad).</p>
+<p>Om de gemiddelde lengte van de wandelingen te vergelijken aan de hand van leeftijd en locatie, welke analyse techniek moet hij hier gebruiken?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Er zijn in dit verhaal drie variabelen:
+1) leeftijd (wel/niet pensioen), dichotoom, dus nominaal meetniveau
+2) locatie (vlak bij een park/niet vlak bij een park), dichotoom, dus nominaal meetniveau
+3) Lengte wandelingen (meters of km bijvoorbeeld), ratio, meetniveau</p>
+<p>Het gaat er hier om dat de gemiddelde lengtes worden vergeleken tussen de leeftijds- en locatiegroepen, dan is de tweeweg ANOVA het meest geschikt. Er zijn namelijk twee factoren (leeftijd en locatie) en één afhankelijke variabele (lengte wandeling)</p>
+<p>Een eenweg ANOVA kan niet, omdat je dan maar 1 factor hebt. Bij een regressie heb je ook maar 2 variabelen, plus dat beide variabelen van minimaal interval meetniveau moeten zijn. Een punt-biseriële correlatie kan ook niet omdat je ook maar 2 variabelen hebt; 1 dichotoom, de ander minimaal interval meetniveau. Daar is hier geen sprake van.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Regressieanalyse
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Punt-biseriële correlatie
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tweeweg ANOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is correct.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Eenweg ANOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

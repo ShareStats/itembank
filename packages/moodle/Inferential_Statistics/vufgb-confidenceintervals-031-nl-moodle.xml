@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-confidenceintervals-031-nl-moodle/Inferential Statistics/Confidence Intervals, Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-confidenceintervals-031-nl_vufgb-confidenceintervals-031-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een klinische psycholoog vergelijkt stresssymptomen tussen drie groepen (controle, cognitieve therapie, psychoanalytische therapie) in 60 personen met een ANOVA met één factor (‘One-way ANOVA’).</p>
+<p>De onderzoeker berekent de volgende drie betrouwbaarheidsintervallen (‘confidence intervals’). Welke conclusie over verschillen tussen de drie groepen is juist?</p>
+<p>BI <span class="math inline">\(\mu_{controle-cognitief} = (1.48, 6.48)\)</span></p>
+<p>BI <span class="math inline">\(\mu_{controle-psychoanalytisch} = (-0.38, 4.73)\)</span></p>
+<p>BI <span class="math inline">\(\mu_{cognitief-psychoanalytisch} = (-5.09, -0.09)\)</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De controlegroep verschilt van zowel de cognitieve als de psychoanalytische groep.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De cognitieve groep verschilt van zowel de controle- als de psychoanalytische groep.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De psychoanalytische groep verschilt van zowel de controle- als de cognitieve groep.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alleen de controlegroep en de cognitieve groep verschillen van elkaar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

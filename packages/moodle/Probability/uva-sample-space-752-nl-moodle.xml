@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-sample-space-752-nl-moodle/Probability/Elementary Probability/Sample Space</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-sample-space-752-nl_uva-sample-space-752-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>De genetica leert dat kinderen genen erven van hun ouders. Als beide
+ouders de genen O en A voor bloedgroep dragen, heeft elke kind een kans
+van 0,25 om twee O-genen te erven en zo bloedgroep O te krijgen. Het
+aantal kinderen met bloedgroep O onder vijf nakomelingen van deze ouders
+is het aantal successen <em>X</em> in vijf onafhankelijke pogingen. Stel dat de
+toevalsvariabele <em>X</em> het aantal kinderen is met bloedgroep O. Wat zijn
+dan de mogelijke waarden voor X?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A, B, AB en O
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A, B, AB en O: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0, 1, 2, 3, 4 en 5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0, 1, 2, 3, 4 en 5: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1, 2, 3, 4 en 5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1, 2, 3, 4 en 5: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+(5, 0,25)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+(5, 0,25): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

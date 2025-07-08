@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-fstatistic-002-nl-moodle/Inferential Statistics/NHST/Test statistic/F-statistic, Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-fstatistic-002-nl_vufgb-fstatistic-002-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een A&amp;O-psycholoog vergelijkt de mate van extraversie onder Administratief, Leidinggevend en Verkopend personeel. In totaal doen 45 personen mee. Hieronder staat de incomplete tabel met gegevens die het resultaat zijn van een Oneway Anova met Personeel als Factor en extraversie als afhankelijke variabele.</p>
+<p><img src="@@PLUGINFILE@@/vufgb-fstatistic-002-nl-table01.jpg" /></p>
+<p>Hoe groot is de F-statistic?</p>
+</p>]]></text>
+<file name="vufgb-fstatistic-002-nl-table01.jpg" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAXUAAABtCAYAAABeD/GKAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAABZnSURBVHhe7Z29axtLF8b1Z2xrcGO4RdxZpQUpLEgRgYtXkCKItzAixYtIYUSaIFIYkcKIWwRxi4BcXFCKgFwE5CYgF4Z1cUEpAnKRQoWLLVxs4eK858yHtLta2bJzpV2tnx/MvdZqtJn9embmzOw8OQIAAJAZIOoAAJAhIOoAAJAhIOoAAJAhIOoAAJAhIOoAAJAhIOoAAJAhIOoAAJAhIOoAAJAhIOoAAJAhIOoAAJAhIOpZxvfIu3LJveL/+/z5dkzDn57+LoDv8fbLIY1VJiLvJ/99q/5MB3IcnjmGO/AlDyc/ybLf+nPLoMsXOYgFr9HKsOd6TrrnEoAUAFHPKKOvNSo4OXL+KFBhZ4NyuQ0q7G5TzmmQa/LQjUutff1d/nmBtiT/boHyuRyV/x6bTEnjUoPLleMy5XJV6sXp3XWf6ruOycNps06DRNRnTN1Xtqwl6vwymxn3iM+92u5Q40JvW+garRSXmpu2/HPS+4HJC9IKRD2LXDZZmB0qfx6ZDdz6/t5QYp3LNUg/lh71DlgId/izFcrbEXVeaXEsnaRF1DXjkxKXKyyUGp/6h1zmZyzkN5zvrEXN4z7La1KMqbOvBXB6Dlksn0W2LXSNkmHwPq4M5rgg6qkHop5BtABGH0qPuq+DD+uAGnHizWKzvVaibsRmv5OgkAfR5XEcrmhsmeSc8mcncF4Xu0bJEC/qPrl/Vqn697QSAukEop5BvK9Vfijz1Lw0GwzeeZuaJ66Ji+rWo3PQDYuhP6LecYv6M+K5WrzvLaru52mDW7NbuxWqHRTCov5Pm0rPC1QwYaOcs6X+llT6NDSZkkCLeul9g0qmvBJ6cQ7rVAuI+mLXKBlmRP0m4XGKJLjqUMXcT4WDJrXelii/qUNllSPuCab4fEDUM4kNo2xQ6W2T2l8GNBzPyoR/rrv7Dotm/bhDvcvRvYORq2D8d5lbtQ4VP/Rp5I3JPamasESwpa4HJD1vSO2X/N3LNg3tgF6ix2BE/WSg//+5y5WnQ/WzfqRntNg1SgIt6nXqBc/vkwu76PurdyjnIkcbr1s0uPJoxJVudYefmVcdvoLpBKKeWfgGPG1T/UC3MOTGdHZr1L0yX1vGLD7HNarsbqnwgBKZY5d/nRB+n+rc8t5+Nwi1VvVA4/qEX0S8VYjl2TZtO3Xq+3HhrgWv0YrRoh5JTzSWrs6Fun5mg6BClA5VTxOcpXQHEPUngv9rQC1pGT7jbvW8BuGtR8MvddUqDovPCrloqMqlcW4+G9Ytpq7O368OlfhYnMM+V1BzxjACLHSNVkA4/KJn9DgfkpmPkzTqXMzcW2bgO6UVHUQ9g6i47FFvtnv4s00FFpb6d/kwot4Rd/vPo60Nn/pv+YZ9mVD38rzBgjKd9mdZS1FnZG66jkeHRX2xa5QMYVF/2kDUQSrQAlih7rXZYLnSLUfdCtYis3002wIbvEtQJL0eVblcxU9BufOp90aEZv1EfUpY1Be7RskAUZ+iz0UtHH7hirfI16j6FeEXsCK0YMhgTptcKxq3Y+od5tW8dFfdoFpkZAZG/XQ8iV97/7Sp7DgJvnzkk/uBy+kUVLnk8+jLdKC0/c/0rUb9hmZ0oDTBuIVwO1LlKf0VaYPf9qnOx2C3L3aNEsC3g4N6oDThs5k4WtRzlD/sqRkv/q8e1Xd4206T2+vpBKKeQZRgPCtS+YUd/NRJBuF6k0E4LerF/cpkkE4nPVCa7MPskXtc1lMVpUybJaq9KU7KuPWRHycTe5+W26YNakZCN6sj+EapzHixZzG8XUJLi12jVTP7RmkxWjk9MZSo83UqTd5YdqjwX66Ib0yGFAJRzyKy/oi96SZreczKtIr3Bv5Wa3ukbP6tn9Wm4oLXCCRLKKa+JjcjRB0AAOYQEvU1AaIOAABzgKgDAEAWMDNcpuMLSY7VPAyIOgAAZAiIOgAAZAiIOgAAZAiIOgAAZAiIOgAAZAiIOgAAZAiIOgAAZIglibp1pQmkFK+VkGV8b0zDyyGN73wFna/X1TA1zjsA3MmtT+MfQxr9G8sqLLIvWdLBG5F7ft9zlA6WIupiRzadtB9IToFqJ8Mnv/LbSrjuU10tQrRB+efa67Pwv5j1u6+6VDHei8qDcbdO/ehysACkBLFgLDg52tjR3rQbr9s0fGSDcZF9jf6u6IXlNvNUUM9R0ouu3c/ywi/K7CDsKTn+WlM2UNPV6x7AuEtls8IduAffpYbyUZTlaM22qw6V+ebMywqHlpuBypc/7Gv7ulvjm7nXTsYgA4C7UPewQ+VPpmHo6fvXeSvOUg9kkX0pzWFBP+hN7R1laWVZvz/Fz8gKRV3gE/KcT8hjHEOMNViS5gHrgnaqL1D7p9lgUD6fztT8YPRXkT/XqB9snajXox9Z8QKwNHzqH842OPyzOjm54sy9fjeL7mtE/eMmtc7CK7+MPhX4+UqvichqRf3GuNqE1mj2afilQeU/zHrF3M2pHA0mNaN3WuduT4EKxhhZukrqs6R9bomqTD2q222cSlz78kbqHcbkFa4H1Dooqq6UrI+89aJGnR+zIub/6FLjP1ND5vzrJg1saOK8Of333rd4f8Y8eLOYeIhJGzDUZ246/1uNt29T81I+catczCVmWjnztgOQJANlMlIIOWIJ87bfxW/sy/Rute9sOlmyqBeo/nef+mecTttU23UicSvjcpPLU/XEpbHn0eisQUUJE3wwRg1qkMJTjjzSUq+fBgdgp6fVv2hRwTjjTAZlb/hv3t9WrkKdK5P3F3epeP/Oiwb1r/j7sUudN+K0U6ZuoALyLxrKbSf/pkPumPNd9anxgise60qjymVcdwL5hn+JoFrhTAbd4pgtg/elosoatLMrfZ69gddxZTqQcUxPfda71dgZPqT3/9B9cSOwfdSk5rsqFdW4E7fSHxnHXwVLFnVuBe9OW8tbm3qgdBKfMiuhRYVFd28ivoD3hV/8PtViYu4qFPHMWk+ZbtczbsUGL4r6bbCGHlF7TwtbqGTGFLj2zRbM3AST/TOmnMn6F3JrW8q1U6eeqsx8GpvKciLq5pjj3O2VqMOjEqQJoxWzz/8jPGofui8r6kd1qu5taKvFb0k+33ez2vCLGYywrXA9S2abyodywgLpQKzLIjHhe2PqOl4v3pr+ZZuqB9ISJ3I/bgdCCS41RNj2quF/jy9WWdzBbT4zQLL9qh7JxzU1b5+Kf0zNbsoZJ5Yr5WZInbc2xMRJwkJvpBdhKz7dUt8ODpwquOJ7y/nRUgdpYm5j6RHjdL+5r5HqjT80jr86VjxQyidEtcJ1vHeuqEs67tHINoiFe0WdZeodd40+DLilqePz2x/71DsIivA8UdepfW4u8lxRl9Si3k9bsBSLegzhHpDxzXzdnfacFC41uYJzHvKQALB09LO7fRRphHh6nO5hz9uC+/LH5F7G7PeOXm4aWLmoqxkYdhBvTviFbkY0OHMp9C5MVNT5xNb5wgRd70efuQbdr1KVRSm/k6fc8xKV+O9puGRO+IXx/ulT/4eVtznhF/796LxP7q+0i7pH7knHhF4MNwOqi1gHBnh0jD3S4rhsPn7aKQBLRM/eqofCsrH3sEV5v8bfx4vsS4chY/Y9t6WfDpYm6v5pnU+IGbg0A5sj3qYGH+0gKP83OFDqiekx1469Qxm4rFIv+BKMqUWLf+qZJbFz3r/LvykXgiuTbzr+rf4OvigQHCg14uxdtmfmcIcGSlU5fBqr8juTi+nbgdLDnhmc9ScDujIDJ7GXz8xNl3tnKpvrATXNIG+4MuNWuYzkv+LKS869nav7qovQC0gf16wB8pxyI0o9gfbdi4meBBlSi+9l0YNY8V1gXzIe5wS1Sbh2qS3vcsw8S+lhKaI+/43SLSoHpitqfBqe1NSoss23sRc/xXDEQi5vgE32dRy5mPZlATX/1FzUwLzsCSJyk6mKZl8z5eKS/ehQTQZGbL7AdEU9w8RsV6lMjfcyFhDY9kdgAHWleNwjKQTK59DWfwLTMYNc96kROMbfeUMPgGXj/2hTxU5/5vu68M68ODfDmLqv9aBm82JWS4T79zWrTeoZ2Z/zLKWE5YVfHsOtHxbpOfg3i+RaDH/BXS2aL1Wo7ienBUTaj0wRBSC9mGnO/0rjY7F96eeD0xo8IukSdQAAAL8FRB0AADIERB0AADIERB0AADIERB0AADIERB0AADIERB0AADIERB0AADIERB0AADLEckTdGlvMvH5lt3uxb476v/GGmH3jy7drNCyCv9gbrOnFo6EYkMStJKeQ8z2m4eUCLuhyza5ccq8eeA6Xjl5ErX8+mvM6uFx7e4zx9xUAT4kliLpPvf9N11MILrgVXBNmI7Ls5fBYFvZ65OqAV3q1R7XvRRejkgXCZB2ZNTZZdj/KOZPjnl3fxr9sUUnWrHC26G4XdI/c45L+/o8CFWQtDKccXgQtQfSiSnKMsyt+yro19V0prxyjdoTPbZao+X2e/AOQfZYUftFef3Frnythfz4rpP5lh5pH7fkL5ajFumadjYI8zIbNmMp+Ha1n6+6ySfncNtXficl0RNSjK9AJtyPqyOpyzzjv5IB9PmeyImaRmhcm50VDiWjYRzYhzHGU3tWpNCPqZnnkvSa59iBvPerL8eTyidoJApAkSxL1qQtRFOVEdNCb25WeS3Q99RiejremFjRHnJrUuvVhUfdPRegjSw4LxmLQVozyW1m+eLrevCAhnQGNEl+pURyYuBKSntSVXPuIqJv7Yda5yZh8fEhmfUwAkmZJou4px6F5VmnTB25Mvf9NPUwlNb6H283eaV1/t6uXyt3YCeTfb9PQ5BOUqD+vUfN9xYQRYpbUvWhRyf5e0uuoEQa3aP9rv69S868GVdS/fcfytStGmYE4NeqL8MaIujYfcah8Ejwy2yq3xgDGts70miZjEvJVCvC/17nCMQYFSsBnW+rS0+pcRkvM10+tcd83nwF4WixJ1Lm99IFFVZk0jNXD1zyRtc+1U1DQFWiypKU1l4g6BtlBV/N9/dTkVyn8QGunEq40xADjyqPxNxGGyCL5k0FcrngOJX9MPFq+VyYf/L1TpMbZiLxxXzkHPaqX8W+iFvOfGnXEijrjXbS5MtrgiogrOWOYK+vUdyetd2vtV6LyZE1pTpt8vEmb6t4YL1vbKIgV9TmYFnwqwkcAJMDSRH18ItZyHRpb4wplYafNjmNDKOZhnGsDZ76/N/ySq1B30pqeZ66s0flnBVGhxDJHlS9TgVP5nyVlfCGIr6gTdia6Q9Sre1thUd9vBAZK9bmRcExZXJrUNo+Gn8rcK8lTY46xwPIxblg7DXJtERYWdTNuEPwtAE+MpYm6FZv+txoL4Ta3mAvUPhOBj4n1Cv+WqIdi6ka45pgo3y/qYSG5M/8K0DNBitS6CPRWVI+iTj312SiZGkTl1nygQhKUC7pTpq46JnNuZsYgjKN6Uj0SVfYtqn3l3pE9RtVLm1ojxur1zVDbjG1ypZ6SmTsAJMHyRF0NbpWp+mabcm9b1HqZo+pb8RW1bvYRIOr3MvwzaFEXk1jQenzwKvQV16MIuaCb2HPMFNDZ87g6vNOaml4Ze3ySnC1qRmdAmamNzm6d+im2GQNgFSxP1JWA8IMmU9I+j5TQOM4csREeKuq8/zrvOzjDJuuiHktM+EXNMIqrPM05tPF4lS/iqK4Me6WlLjNrzJbEUeWOD7+Iz6QYBsNbFQDN8kTdTC2zU+gkdKBaWtGWofXRDLrwy+foAyovC/H3xT+18fP4q7T6py8ryeCmGvh8yQ+3CUP4/BuZLz91+9fYwVk9UGpDF4FuvZRJhTV0l19tvwnmn+RMFi5TMPwyeRP0V1c7o7/p0sgWVcy2X+h488QF3ebj8zNWv/VY6Isqpp6aed5yLYLhl8CpH/E9lefrK+UfXetr6HlDFVd35lTkAGSdJYq6ntY4aQmaVmJ4/rCZgSHCG00zLUh5iGtUsPlluuKxzKhhgm+UqsRi/z7i9u9UqMdd8+BbrdGkZ0yMqP0ivN05bKhewXSbQ5XgjJokuO5SJVBGlYIV5lWXansbge/jp2RO3jy1+VL1RiY3DCJO7jmnoXt6kwH4+ARRB0+VJYo6I9MHgy1ubllGdPpR+Df/xl6eCNKalxbsPadM915wXgFYd5Yr6gAAAFYKRB0AADIERB0AADIERB0AADIERB0AADIERB0AADIERB0AADIERB0AADIERB0AADIERB0AADLE0kR94mgUmxJ8Hd0uIGbSOr4YH3tugwuWXQ2ofxlYjzySYo9ZlnS4csm9CiwMBgBYO5Yi6nctmmXTXeuiL4/ZxbrmLcubVpSjVLD8NgUWQNNLBM9PYUNwj9zjklrD3PmjYLxdy/FGJgCA1LMcUVfCY9f41r6kE/GMrou+KGpVvqkT/u8TKdeaED638Qw/laggyw2bz4pfPaqK7+dhP7DdmlEXqXlhtl401OqW8PgEYD1ZiqjLcq7Vgy63i4WIePoutQ6q1BWX+Ifw2MpgLtkV9VmMd+de21wTjX/eUGvS174FAzIeDc8GNIquZw8AWAtWMFB6n3j6NDypUdE42m/sVELreYsJROF5gQq7W6oFubHDf8tnSfttGpp8sh/3uEL5yfrbG5R/3aDuj3lR86cj6vo3RWqHKlKf+m/5+J9robdx+nUcYwAATElY1I1zvFOg+qkM7I3JPRE3G2ca95UBPBEc44xUPw0O+gUlyBhu7LXIle/GLnXeyL6t0XKUdRZ1rrB2pgYYG3u1+WbLxvZvm48zLNj2fJWobCpUlTaL1PiWFpMMAMBDSVbUjXtPJeJ67x7FeGcuEn7xIzM3jAVevO/pOot6nupfhtr44tpWXlXl7BTF+1Lh/NFWumD8W6UCFQtBtc2j4aeysrNrXKDNDsA6kqio+99qLCoxhsLKTDkyKLqIqN+OaXDSpOp+gbYC9nNZEvUZNynhRldehU/RwU1jKRgy47YYUZ/5bkRtMZ4+iAy0AgDWgkRFXZtRs6hHQwePEfUbFqmdHDm7FWp9cWkk8eFbLVzZEXWfRud9Gs60yM2xvO2HQyx+n2qxYi+MqPOSfxM1AmfUlMjYigAAkHaSDb/81IbRjwq/mFixjb3rufHRCiJjom7OQdi8m7lh8Za4+cfI9ssmbXP++nfzOYL7MeY805Ba0lKPVhAAgLVg6aLue0NqS4tQ5k3PvEkamCd9LsLu0/i0TnkR4s+R1qWJjxf/HCqxGX+tqel49TOzTyVggfiw75H7uapErSTb7L89eaM0WC69Lf1vUrrU5N5Ibq9JA9tal+OQ6YpxMXXV4ynExNMNv7pU5sogz+dgrI6dz9nHooqpNy9VDgDAmrFUUZ99szTu5SGPBkflaQx8s0i1Ey3cUUYs5AWbz9mi8rEbyKenRk6+5yTTI6sHRfW2pP63Y94oDabX3fTHka8H1NyfznyRtLHfpH5cZ0SJepm6d8RR5J2C0mQaKKfNUmhKKQBgvVhB+GVx/Dglj8G/uSfjfd9nAdvjuPMlIZkOuti50PPUn8B5AyDjpErUAQAA/B4QdQAAyBAQdQAAyBAQdQAAyBAQdQAAyBAQdQAAyBAQdQAAyBAQdQAAyBAQdQAAyBAQdQAAyBAQdQAAyBAQdQAAyBAQdQAAyBAQdQAAyBAQdQAAyBAQdQAAyBAQdQAAyAxE/wejiYWbET5FvwAAAABJRU5ErkJggg==</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.14
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+81.00
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3.89
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.71
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

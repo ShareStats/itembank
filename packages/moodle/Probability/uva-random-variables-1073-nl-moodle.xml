@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-random-variables-1073-nl-moodle/Probability/Elementary Probability/Random variables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-random-variables-1073-nl_uva-random-variables-1073-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Stel de kansverdeling van X = het aantal banen per student aan een
+universiteit in het afgelopen jaar is als volgt:<br />
+<br />
+</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Aantal banen <em>X</em></td>
+<td style="text-align: left;">0</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">4</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Kans</td>
+<td style="text-align: left;">0,14</td>
+<td style="text-align: left;">0,37</td>
+<td style="text-align: left;">0,29</td>
+<td style="text-align: left;">0,15</td>
+<td style="text-align: left;">0,05</td>
+</tr>
+</tbody>
+</table>
+<p><br />
+<br />
+</p>
+<p>Wat is dan de kans dat, als je een willekeurige student kiest, deze twee
+of minder banen tijdens het afgelopen jaar had, zoals P(X ≤ 2)?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,14
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,14: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,29
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,29: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,37
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,37: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,80
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,80: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

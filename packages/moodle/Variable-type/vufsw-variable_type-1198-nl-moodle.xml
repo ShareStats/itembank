@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-variable_type-1198-nl-moodle/variable type</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Variable-type_vufsw-variable_type-1198-nl_vufsw-variable_type-1198-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Welke van de onderstaande uitspraken over ‘kwantitatieve’ variabelen
+zijn juist?<br />
+ <br />
+<strong>I.  </strong> Dichotoom = de classificatie bestaat uit twee elkaar
+uitsluitende en uitputtende (exhaustive) categorieën.<br />
+<strong>II.</strong>  Nominaal = de classificatie bestaat uit meerdere elkaar
+uitsluitende en uitputtende (exhaustive) categorieën.<br />
+<strong>III. </strong>Ordinaal = de classificatie bestaat uit elkaar uitsluitende en
+uitputtende categorieën en heeft een rangordening.<br />
+<strong>IV. </strong>Ratio / Interval = de classificatie bestaat uit elkaar
+uitsluitende en uitputtende categorieën, heeft een rangordening, en
+heeft gelijke afstanden tussen de gemeten categorieën.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Uitspraak I. en II. zijn juist.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Uitspraak II., III., en IV. zijn juist.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Uitspraak III. en IV. zijn juist.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Alle uitspraken zijn juist.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Power-835-nl-moodle/Inferential Statistics/NHST/Power</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Power-835-nl_uu-Power-835-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Welk van onderstaande stellingen is correct, aangenomen dat overige omstandigheden gelijk blijven?</p>
+<p>I De power van een toets verandert als de steekproefomvang verandert.
+II De power van een toets verandert als de kans op een fout van de eerste soort verandert.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Geen van beide stellingen is correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alleen stelling I is correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alleen stelling II is correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Beide stellingen zijn correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is correct.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

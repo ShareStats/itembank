@@ -67,13 +67,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-De standaardfout (se) gebruik je bij het berekenen van een betrouwbaarheidsinterval en de exacte standaardfout (se<sub>0</sub>) bij het toetsen van een hypothese.
+De standaardfout (se) gebruik je bij een categorische variabele en de exacte standaardfout (se<sub>0</sub>) bij een kwantitatieve variabele.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -97,13 +97,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-De standaardfout (se) gebruik je bij een categorische variabele en de exacte standaardfout (se<sub>0</sub>) bij een kwantitatieve variabele.
+De standaardfout (se) gebruik je bij het berekenen van een betrouwbaarheidsinterval en de exacte standaardfout (se<sub>0</sub>) bij het toetsen van een hypothese.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

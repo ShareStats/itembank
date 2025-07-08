@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-mixeddesignanova-0267-nl-moodle/inferential statistics/parametric techniques/anova/mixed design anova</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-mixeddesignanova-0267-nl_vufsw-mixeddesignanova-0267-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoeker bestudeert het effect van het geven van een lezing over
+wetenschappelijke ethiek aan wetenschappers. Zij wil ook weten of dit
+effect verschilt tussen mannen en vrouwen. Ze stelt een aantal vragen
+daarover aan 6 vrouwelijke en 6 mannelijke respondenten op drie
+momenten; voor de lezing, kort na de lezing en een paar maanden na de
+lezing (3 metingen). Ze maakt een schaal uit de antwoorden voor elke
+meting. Welke analysemethode kan zij het best gebruiken?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Deze analyse is een combinatie van een Repeated Measures design (3
+metingen per proefpersoon) en een between groups design (mannen vs
+vrouwen). Dus, dit is een Mixed Design ANOVA met één within en één
+between variabele.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Mixed design ANOVA met één within en één between variabele
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repeated Measures ANOVA met twee within variabelen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+MANOVA met één within en één between variabele
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Mixed design ANOVA met twee within en één between variabele
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

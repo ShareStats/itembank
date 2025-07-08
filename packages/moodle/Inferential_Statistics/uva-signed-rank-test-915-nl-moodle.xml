@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-signed-rank-test-915-nl-moodle/Inferential Statistics/Non-parametric Techniques/Signed Rank test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-signed-rank-test-915-nl_uva-signed-rank-test-915-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Met behulp van een Wilcoxon toets worden twee groepen (A en B)
+vergeleken. In elke groep zitten drie deelnemers en er wordt gekeken
+naar welke groep de meeste vragen goed hebben. De scores worden
+gerangordend (1 tot en met 6). Het verschil tussen groep A en groep B
+is: A - B = 1. Een mogelijke rangordening van de deelnemers in de beide
+groepen is</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Rangorde van groep A is (1, 2, 3) en van groep B (4, 5, 6)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Rangorde van groep A is (1, 2, 3) en van groep B (4, 5, 6): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Rangorde van groep A is (4, 5, 6) en van groep B (1, 2, 3)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Rangorde van groep A is (4, 5, 6) en van groep B (1, 2, 3): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Rangorde van groep A is (1, 5, 6) en van groep B (2, 3, 4)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Rangorde van groep A is (1, 5, 6) en van groep B (2, 3, 4): Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

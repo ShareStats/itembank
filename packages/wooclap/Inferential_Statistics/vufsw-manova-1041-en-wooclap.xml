@@ -70,16 +70,6 @@ induction) has an effect on all the dependent variables together</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-The type of mood induction had a significant effect on responses to the nine items together.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 The type of mood induction had a significant effect on responses to more than half of the nine items.
@@ -107,6 +97,16 @@ The type of mood induction had a significant effect on responses to at least one
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The type of mood induction had a significant effect on responses to the nine items together.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-201-nl-moodle/Inferential Statistics/Parametric Techniques/Correlations/Phi</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-201-nl_eur-inferential_statistics-201-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Bereken de inter-item correlatie tussen item 1 en item 2.</p>
+<p><img src="Phi%20Correlation_1.PNG" /></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>So from this table we can calculate the proportion of people who gave correct answers to both questions, this is: <span class="math inline">\(10 \div 100=.1\)</span>.
+The covariance is then: <span class="math inline">\(Sxy = Pxy - Px \times Py = =0.1 - 0.48 \times 0.50= -0.14\)</span>.
+The product of the standard deviations of the questions is: <span class="math inline">\(√Px \times (1-Px) \times Py \times (1 - Py) = √0.48 \times 0.52 \times 0.50 \times 0.50 = 0.25\)</span>.
+Thus, the correlation (phi coefficient) becomes: <span class="math inline">\(-0.14 \div 0.25 = -0.56\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+.12
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+.23
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+-.14
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+-.56
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Goed
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

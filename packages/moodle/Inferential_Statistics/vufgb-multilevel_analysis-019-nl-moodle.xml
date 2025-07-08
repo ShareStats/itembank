@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-multilevel_analysis-019-nl-moodle/Inferential Statistics/Multilevel Analysis</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-multilevel_analysis-019-nl_vufgb-multilevel_analysis-019-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een Linear Mixed Model wordt de volgende variantieschatting gevonden voor de regressiecoëfficiënt van tijd: 25.25 (se=12.12). Voer de juiste Wald toets uit (zoals deze ook in de SPSS output voor Mixed Models wordt gegeven) om te toetsen of er significante variatie is in het effect van Tijd.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(Chi^{2} = 4.34\)</span>. De gevonden <span class="math inline">\(Chi^{2}\)</span>-waarde is groter dan 3.84, dus de bijbehorende <em>p</em>-waarde kleiner dan .05. Dit betekent dat er wel significante variatie is in effect van tijd.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(Chi^{2} = 4.34\)</span>. De gevonden <span class="math inline">\(Chi^{2}\)</span>-waarde is groter dan 3.84, dus de bijbehorende <em>p</em>-waarde groter dan .05. Dit betekent dat er geen significante variatie is in effect van tijd.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(z = 2.08\)</span>. De gevonden z-waarde is groter dan 1.96, dus de bijbehorende <em>p</em>-waarde groter dan .05. Dit betekent dat er geen significante variatie is in effect van tijd.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(z = 2.08\)</span>. De gevonden z-waarde is groter dan 1.96, dus de bijbehorende <em>p</em>-waarde kleiner dan .05. Dit betekent dat er wel significante variatie is in effect van tijd.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

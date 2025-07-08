@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-onewayanova-0257-en-moodle/inferential statistics/parametric techniques/anova/oneway anova</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-onewayanova-0257-en_vufsw-onewayanova-0257-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In the Netherlands, municipalities are partly allowed to determine the
+distribution of their health care expenses.</p>
+<p>Two municipalities (‘gemeente A’and ’gemeente B’) wondered how satisfied
+residents are with the care they receive from the municipality (on a
+scale of 1, very dissatisfied to 10, very satisfied) and put this
+question to a number of respondents. Below are the results of the
+survey.</p>
+<p>The null hypothesis is that there is no difference in satisfaction
+between the two municipalities and perform an ANOVA for this.</p>
+<p>Calculate the Mean Sum of Squares Model (MSM) based on the above
+data. <em>Round to one decimal place</em></p>
+<p><img src="@@PLUGINFILE@@/1641299727441.png" /></p>
+<p>**<br />
+**</p>
+</p>]]></text>
+<file name="1641299727441.png" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAQkAAAEtCAYAAAAbVZVEAAAUcElEQVR4nO2d27WqMBBAb2vWQiuUQifU4QeVcD88SN6ZkIw6uvda+ThHCBiGTQiY+bcDABT49+4dAIDPBkkAQBEkAQBFnpK43+8UCoWy3+/3vCQAAJAEABRBEgBQBEkAQBEkAQBFkAQAFEESAFAESQC8gW3bVJcfiVgS2zLtt9stW+b1NTucZZ33223ex+zGus9d32nd59u0L7njOnRfdVjn3mPa24aS+gtt/Ba2fZlq3/mxzCTe8Zblc9t//P84V/266u14rSexLfv0aQfooyRRq/6zJbEt037r/vK/JonzRHyPJHLb//v/85+P4+LVty37NC17bgsDJeHb6uZsdJ1vUdCd/9v2ZZr2ZZn/1j3qzdfnftnnOkt44pXW/wuwddknt47Nr3tecp8L6w/qy++r27SJHtuz7UrbzLWjfNvnvvqf+/sUtMPmtFHUBpU2dNdN9UiLn+clUY43Yb3Z2Ih5ts8073OxJxEcv+pxzS3fsP3UubrO0fm0znkRDZJEbLttmc4dia6c7lXmryGigC/UF31+nAjHNmrrh8v/BZH4c0n9vuzy+1rAa+fwipDep9SJ+tz28+TIbzvqRYTHzvs7Po6l75lqY39Tt0zduc8zJ28x3mTbze93qs0WL+7aehKy41rqSRS3nxDCIw6CGEgt98cYSSS7z+4OBwfGWz7RCLX6Up+7/2vdn2idyuei+v/ap7avWYJ2SR3Y4km6Jw/846qT27b0WEi+R62NW+sLPy/dbpTiTVJv434/uSCJK8e1Yfv+xev5z8SdQL49h0iiNKh5fDm3u+d3BzNfrFBf/os/Gru+P32SkNX/aJ/avuabOFgvaXo3gDLtGEZs64kddHmrAViqK7lt93Yo1cvJfV4ek8jHm6TeF0pCeFz1JZHf93GSKHTH9n13Gjo8CMIvtlc+DyVR3J8BkqjW3yGJv9uCardRRRKVE8+5R++TxHmSeidM0+eSJ0jhfsi2+y2SEN9uFLajeLsR4g5kxQOM3d3S6u1AYl+G3m6E9V+93YjvUR//lnVLawFSvt2QPJFwgqnndiMVvC2f1ySRizdRvd9zuyEff1DuSSQHzdY5GhV+dtP9b5HYuVp96cc64ThHfv1OSYjql+5r2LS5k1g2wJVqR/mgqWBMwjv2fjv5PZdG0T4HVTNyDT+vSiITb6J6XyiJAQOX5e0LHoE+/684JuHtzM3vksbrpb9E3LC1+tzPBY9AvfV7JSGpPyHR7L7m6gzHOmqPQFPtmHgEWruVCyo5bzPicQn/cWLuiUK6Df1641uD8ueC9ySS8SapV1MSKXmVH/enL64t2y+9TPXH8KcbYJdCMPwt8GEvKcErGP+eBNgguuWTdV3HvHEJZlB54xLMED6u7fsNAHwfWr/dAICfAUkAQBEkAQBFkAQAFEESAFCkKAkKhUK53+lJgGGIU32QBJiGONUHSYBpiFN9kASYhjjVB0mAaYhTfZAEmIY41QdJgGmIU32QBJiGONUHSSToT3F34MwIxO+uVfjlOH0VSCLgmNpsyDmdndoNRvGrcfpKGiXhzpV3zg2YnZMvNSfi+peGbl6Cuvz14smiC3WKljn2fd7XYx9Sk+e6c0s6FUi2n9ufeZ7HiQc8knEapfFLTx+f/7w2Wc+x/rTP87FcPg+N9ePeIInESTRNj4MR5v3MTuS6n5KoltyEqekDV18mP8nsmZM0LQnJ9mMcKR1Baz1aPpA4TsOkO+Hksrk4qMdbduJap/5rsfLZyCWRyCN5Jir9OwDHMolZnP2p1J2/Heu7sxU/zSypU7KMc2AjYSUkd8aDpO4EnhgEy8MlsnGam7MxEcfeMY+m2N/3KCZzY01XY+XDkUvieZvg3Tv4txvFXoKbT+FWz5kRLi+ps7RMWG9q//eEJER1xzxvNdb03zAGWU8iTHhcuLIn4zw8fqlY2i/HyqfzOZKIuoNakohzQ4yXRO3WBkYhG5MoxV8Akoh4we1GQKskJHVKlrkqCVHdmf1JFrvdzk9E8nQjfTsRx/G0bI23G8GJfyVWDPCygcuotyGVhKRO0TJtknD3UbJ9r6XcoHMY+ngV9n0vXcxych45cBn3DlpjxQKNj0Dd+738I9CooaKcmW2SqNYpWkYmCS/IShLKHvQzCLOPcbHEMGS3G7WTOf5c+gg0dQshjxUb9L1MlXg6APBKeJlKnwZJZJ4/J7rVAK8CSejT1pNIjd7SdYY3giT04bcbYBriVB8kAaYhTvVBEmAa4lQfJAGmIU71KUqCQqFQ7nd6EmAY4lQfJAGmIU71QRJgGuJUHyQBpiFO9UESYBriVB8kAaYhTvVBEmAa4lQfJNHJtvEL2HdCnOrzW5JY54HTxz0mHpH9TP6xLD+YHU8Up4V5Jmn/ayCJy0glkZ+pCvqRxOk6MzFSDw2S2PZlmvZlmYMpv4I5A4vZvMLJRad9WUup8Ep1p9YPpxNzJ8o59t3dxtX6g/UyZ/85UfC8z/QkVKhKYuiF4TdplER63kj3arotUzDpbZjz4Pg7zLdxnFTBhKXOmeVfEeL1/c/DfUvn98jue3P9MduyeNtCEuMpS6LllhByNEvCa/CkpZ0Tomjxx0nonzjO/7Zln6J13XUS67vbS2279rl3MlfqZ0ziIyhKgl7EEJol4Wc182cUjue99LvlsRDC2wPnxFvnxH2ke2KWT2K/V/Dc4ad46vuOJCyQlwS9iFH0S0I4IHROM36I4QMkUdx3JGGBrCS2ZZ8MZ836JLok0d6dq5zkb7/dyG0r9X2RxCeQlUTyIgNX6JNEajBznXc/76JzInp2lw0M1gYuaydxNTFxbt+RhAlyklhnZnIfRackzv/nsiGF2YzO9f9Owtl5+SVze5F/RFnr2bjrCx6BJvI/luqXZ+RCElqUJMF4xBje+DJV6nYDoI2vfOnvw0ASYBokoQ+SANMgCX1+67cb8HUQp/ogCTANcaoPkgDTEKf6IAkwDXGqD5IA0xCn+hQlQaFQKPc7PQkwDHGqD5IA0xCn+iAJMA1xqg+SANMQp/ogCTANcaoPkgDTEKf6IAkwDXGqD5LohDR/74U41ee3JPHyDF5ucqBU8iHoJRen/oxoTIjbA5K4TE0SD0FEyX8QxVBScRpNXUf+jS4aJEGav6Y0f8nATKURgB6iOGUq/eE0SoI0fy1p/iII4OFEccpU+sNplgRp/q5MqX8uzzTvYwnj9BD96vVgudXooVkSpPm7nncDQYwnKYkbYxIj6ZcEaf7KX3x7jGmQA0KHXE8iFTc4+hpdkiDNX+Xk9zKCgQayMQkk0UOfJEjzl5cEg5QvQediBi6dkjj/T5q/oFUKYx5c0caRfp8nPK4Iooc3vkxFch7o5ytf+vswkASYBknogyTANEhCn9/67QZ8HcSpPkgCTEOc6oMkwDTEqT5IAkxDnOqDJMA0xKk+RUlQKBTK/U5PAgxDnOqDJMA0xKk+SAJMQ5zqgyTANMSpPkgCTEOc6oMkwDTEqT5IohMyeL0X4lSf35LEyzN4CfJzQBfJON3cXCm5CY1ACpK4TF0S6+yK4UKeDqiSjNN1RsgDaZAEGbyaMngl5rhsmV0cZKQksc7MUzKSRkmQwet6Bi96EhrkLmZT4cIFbTRLggxercl5nF4HwTqcOE7jRM37tuwTbX+ZZkmQwetqmr9wfRiBbOyMqRJ76JcEGbwE397ff4J1HDJJ0O49dEmCDF4FSSTr54o2mihOs+1OoqSr9EmCDF6FnkRGqtwbD0V8MaPdL9MpifP/ZPBKUX48DP2kbzfcR9+0ey9vfJmKrjf085Uv/X0YSAJMgyT0QRJgGiShz2/9dgO+DuJUHyQBpiFO9UESYBriVB8kAaYhTvVBEmAa4lSfoiQoFArlfqcnAYYhTvVBEmAa4lQfJAGmIU71QRJgGuJUHyQBpiFO9UESYBriVB8kAaYhTvVBEp2Q5u+9EKf6/JYkXp7mz108TtYD/URxus57bhZ0piW4BpK4TIskjmnskMRoJHHqz40KrTRIgjR/TWn+gjaY5pmehAJVSZDrpJtGSZDmrznN35E9itsNFcqSILXiCJolQZq/luQ8f72vbWdMQomiJOhFDKFZEqT5k0tiW6bzcyShQl4S9CJG0S8J0vylVw+T1CIJFbKSoL2H0SUJ0vzlJVHqqfAobhxZSZC1axh9kiDNH+9JvJmcJNa5/tQJZHRK4vw/af4qIAkVSpJgPGIMb3yZiuQ80M9XvvT3YSAJMA2S0AdJgGmQhD6/9dsN+DqIU32QBJiGONUHSYBpiFN9kASYhjjVB0mAaYhTfYqSoFAolPudngQYhjjVB0mAaYhTfZAEmIY41QdJgGmIU32QBJiGONUHSYBpiFN9kASYhjjVB0mAaYhTfZBEgnXu/Qm7mxQoKMy7OJRfjtNXgSQCjun21CSBKIbyq3H6Shol4c4JOe/rcTIUU/ul5om87bd5Cery1wtP0mKdomWOfZ/31UsqG0yM657MTgWS7TtfMprkt/x/uAqS0KdBEomTaJoeeTIdSYQT3/oJb/Zi1me/BLNol+oULZPYf08GeUlItu9TkQQ9iWEgCX3kktiOxLmJ2aKPoD+WSeQL9fNdOH9vZ0JeN5/Gc+ZqSZ2SZRwJRMJKSG4+v6Sg7pDS7QYzZo8ESegjl8TzNsG7d/CvjMVegpuL41bPhxEuL6mzeFIG9ab2f09IQlR3SGVMgtuNYSAJfT5HEmFSHjVJuCeotiRiGYwZGIUDJKHPC243AlolIalTssxVSYjqjr4kkngRSEKflw1cRr0NqSQkdYqWaZOEZOAyLw5uN14FktCn8RGoG/z5R6DRSRXl22yTRLVO0TIySbgDqUUJCTKSM3CpD5LQp+9lqsTTAYBXgiT0aZBE/upIYlZ4F0hCn7aeRGqknxE4eCNIQh9+uwGmIU71QRJgGuJUHyQBpiFO9UESYBriVJ+iJCgUCuV+pycBhiFO9UESYBriVB8kAaYhTvVBEmAa4lQfJAGmIU71QRJgGuJUHyQBpiFO9UESnWwbv4B9J8SpPr8liXUeOCvUYxKb4s/k3QlsRJPVQCu5OPUnCWKinx6QxGUEklhnfkqvTCpO1zk4LkOP++/RIIltX6ZpX5Y5sHMw92Uxm1c4nf20L6t7tQ0PZKnu1PrhFcOdKOfYd3cbV+sP1suIoD+nKNSI4nRb9omew1AaJZGeN9K19rZMwaS3zknp/R3PKP0QSpB/wznL1tndfry+/3m4b+n8Htl9b64/5CHVqSBQ6CeK03WmnQfTLIl6N+6x3LzmPn+uvM/R1PLO/7ZlnzJp8txMX3GeUTdTWLB+7XN332v1VyXxWN/7fFv2iQAeShinh+hXrwfLrUYPzZJwT5owiW4876XfLY+FEHYLnRMveUVwT8zySez3Cp47/BRPfd97JZEiJUboISmJUM6MSXTRLwnhlfEcbT7E8AGSEEyLP1YScRtCH7meRCpuaPdrdEmi3dCVk/zttxu5baW+b0USyfpTYoQeZGMSSKKHPkmkBjPXefdzdDonijfyLBsYrA1c1k7iamLi3L539yQyUmVMYig6FzNw6ZTE+f/ciyth5qtz/b+TcHam6c9cAfKPKGvB4K4veASayDheqv85rpG9RAW5ShDEcNLv84THFUH08MaXqRjEg36+8qW/DwNJgGmQhD5IAkyDJPT5rd9uwNdBnOqDJMA0xKk+SAJMQ5zqgyTANMSpPkgCTEOc6lOUBIVCodzv9CTAMMSpPkgCTEOc6oMkwDTEqT5IAkxDnOqDJMA0xKk+SAJMQ5zqgyTANMSpPkiiE9L8vRfiVJ/fksSrM3jtpJvTphqnJOvpBklcpi4J0s3pU47TYxo7JNFDgyRI89eU5o8r2EsoSWJbpn2aZ45DJ42SIM2fOM0fM2O/hKwkjmxpyLqbZkmQ5k82pT7p5l5DWhJ/vd5tp0c3gGZJkOavQRKkm1MnJYltmc52RxLd9EuCNH/JtUk39xqiOA2TMiOJbrokQZq/1jEJJDGaME5LPUTa/Rp9kiDNX3uaP243hsJ7Evp0SuL8P2n+UpBuThskoc8bX6YiOQ/085Uv/X0YSAJMgyT0QRJgGiShz2/9dgO+DuJUHyQBpiFO9UESYBriVB8kAaYhTvVBEmAa4lSfoiQoFArlfqcnAYYhTvVBEmAa4lQfJAGmIU71QRJgGuJUHyQBpiFO9UESYBriVB8k0QkZvN4LcarPb0nilcl51nlnGjV9knG6ublSchMagRQkcRlZmj9/8wTraJJxus6F2cKglQZJkMGrKYNXCPNbqpCSxDrTWxtJoyTI4CXO4JVou5ZeB8jIXcymwoUL2miWBBm8pLNl59aDkcRx+jhu3nEJc3FAE82SIINXqyToRWgiGztjqsQe+iVBBq/yF2dKd1VkkiApUg9dkiCDl0ASZBdXJYrT5HFNXZBASp8kyOBVlcQ6C59+wCXEFzNEfZlOSZz/J4NXmnVmPEKT9O2G++ibpxu9vPFlKgaToJ+vfOnvw0ASYBokoQ+SANMgCX1+67cb8HUQp/ogCTANcaoPkgDTEKf6IAkwDXGqD5IA0xCn+hQlQaFQKPc7PQkwDHGqD5IA0xCn+iAJMA1xqg+SANMQp/ogCTANcaoPkgDTEKf6IAkwDXGqD5LohDR/74U41ee3JPHyDF7BDEn8Ln446Til3UeCJC5Tk0Q4xyZT62sQxyntPpoGSZDmry3NXzypzrZMXNUGE8cp7T6aRkmQ5k+e5o8r2iugJ6FPsyRI83dhSv1kBjMYQe62mHYfR7MkSPMnlUSck5IcHOPJ3W7Q7uPolwRp/nJfOLN9MkmNJIpT2n04XZIgzR+SeDdIQp8+SZDmr/12g2xSQxHfbtDul+mUxPl/0vylIN2cNqKXqWj3Lt74MhXJeaCfr3zp78NAEmAaJKEPkgDTIAl9fuu3G/B1EKf6IAkwDXGqD5IA0xCn+iAJMA1xqg+SANMQp/oUJUGhUCj3e0YSAAApkAQAFEESAFDkP/NlKIpDPhDKAAAAAElFTkSuQmCC</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>gemeente A      score tevredenheid (schaal van 0 tot 10)               
+                                                                       
+      <br />
+respondent 1    7              0,75       0,5625                       
+                          <br />
+respondent 2    6              -0,25      0,0625                       
+                          <br />
+respondent 3    5              -1,25      1,5625                       
+                          <br />
+respondent 4    7              0,75       0,5625                       
+                          <br />
+gemeente B                                                             
+                                       <br />
+respondent 5    6              0,25       0,0625                       
+                          <br />
+respondent 6    4              -1,75      3,0625                       
+                          <br />
+respondent 7    5              -0,75      0,5625                       
+                          <br />
+respondent 8    8              2,25       5,0625                       
+                          <br />
+                                                                       
+                                      <br />
+totaal gemiddelde=        6                                             
+                                              <br />
+                                                                       
+                                      <br />
+Total sum of squares= Σ(Y-Ῡ)²                                           
+                                                      <br />
+Model sum of squares=Σnk*(Ῡk-Ῡ)²                                       
+                                                               <br />
+Residual sum of
+squares=Σ(Y-Ῡk)²=(4-5)²+(5-5)²+(6-5)²+(6-6)²+(3-6)²+(9-6)²=20           
+                                                                        
+            <br />
+Mean square model= MSS/dfm                                             
+                                                <br />
+Mean square residual= RSS/dfr=20/4=5                                   
+                                                          <br />
+F=MSM/MSR                                                               
+                                   <br />
+                                                                       
+                                      <br />
+                                                                       
+                                      <br />
+                                                                       
+                                      <br />
+ gemeente A     6,25                       SSm       0,5               
+                         <br />
+gemeente B       5,75                       SSr         11,5           
+                           <br />
+                                               MSM     0,5/1=0,5       
+                                    <br />
+                                               RSS     
+  11,5/6=1,916667                                              <br />
+                                                                       
+                                      <br />
+                F=           0,5/1,916667=0,261                       a
+very small F so probably not significant</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.5</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

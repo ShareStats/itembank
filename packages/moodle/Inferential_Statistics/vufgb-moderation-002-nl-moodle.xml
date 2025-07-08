@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-moderation-002-nl-moodle/Inferential Statistics/Regression/Multiple linear regression/Moderation, Inferential Statistics/Regression/Multiple linear regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-moderation-002-nl_vufgb-moderation-002-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een meervoudige regressieanalyse willen we toetsen of er sprake is van significante interactie tussen de predictoren. Welke procedure is NIET geschikt om deze interactie te testen?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Uitvoeren van een <em>t</em>-toets voor de regressiecoëfficiënt van de interactieterm.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Uitvoeren van een <em>F</em>-toets voor de proportie verklaarde variantie van het model met interactie.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Uitvoeren van een <em>F</em>-toets als modelvergelijkingstoets voor het model met en zonder interactie.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Opstellen van een betrouwbaarheidsinterval voor de regressiecoëfficiënt behorende bij de interactieterm.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

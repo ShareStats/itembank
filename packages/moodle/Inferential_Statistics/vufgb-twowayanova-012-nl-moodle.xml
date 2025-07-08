@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-twowayanova-012-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA, Inferential Statistics/Regression/Sum of squares</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-twowayanova-012-nl_vufgb-twowayanova-012-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Voor een tweewegs ANOVA worden de kwadratensommen uitgerekend met behulp van een rekenschema, hieronder voor 1 proefpersoon weergegeven. Het algemeen gemiddelde <span class="math inline">\(\overline{y}\)</span> is 12. Bereken de gekwadrateerde deviatie van deze proefpersoon die hoort bij de kwadratensom van Factor B (<span class="math inline">\(SS_{B}\)</span>).</p>
+<p><img src="@@PLUGINFILE@@/vufgb-twowayanova-012-nl-table01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-twowayanova-012-nl-table01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+-2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

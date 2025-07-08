@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-moderation-001-en-moodle/Inferential Statistics/Regression/Multiple linear regression/Moderation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-moderation-001-en_vufgb-moderation-001-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Given is the following multivariate relationship. What type of variable is <span class="math inline">\(X_{2}\)</span>?</p>
+<p><img src="@@PLUGINFILE@@/vufgb-moderation-001-en.png" /></p>
+</p>]]></text>
+<file name="vufgb-moderation-001-en.png" encoding="base64">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</file>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+A moderator.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A mediator.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A lurking variable.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A confounder variable.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

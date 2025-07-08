@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-onewayanova-008-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-onewayanova-008-nl_vufgb-onewayanova-008-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een studente onderzoekt of er verschillen zijn in sociale betrokkenheid tussen politici van de VVD, CDA en de SP. De resultaten staan in onderstaande tabel samengevat. Hoe groot is de Mean Square Within (<span class="math inline">\(MS_{Within}\)</span>) van het ANOVA model?</p>
+<p><img src="@@PLUGINFILE@@/vufgb-onewayanova-008-nl-table01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-onewayanova-008-nl-table01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+23.47
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+25.37
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+26.07
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+28.93
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

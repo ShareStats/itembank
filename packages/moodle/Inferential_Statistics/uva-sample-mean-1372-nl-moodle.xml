@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-sample-mean-1372-nl-moodle/Inferential Statistics/Sampling Distributions/Sample mean</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-sample-mean-1372-nl_uva-sample-mean-1372-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>30.000 telefonische gesprekken van de ICT afdeling hebben een verdeling
+met een gemiddelde duur van 173,9 seconden en een standaarddeviatie van
+184,8 seconden. Je neemt 16 willekeurige steekproeven, elk van 80
+gesprekken. Wat is dan het steekproefgemiddelde?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2,2 seconden
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2,2 seconden: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+10,9 seconden
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+10,9 seconden: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+173,9 seconden
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+173,9 seconden: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+184,8 seconden
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+184,8 seconden: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

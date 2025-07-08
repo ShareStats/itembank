@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-oneway-anova-80-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-oneway-anova-80-nl_uva-oneway-anova-80-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een ANOVA met één factor A (3 niveau’s) wordt het volgende gevonden:</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Source</td>
+<td style="text-align: left;">df</td>
+<td style="text-align: left;">SS</td>
+<td style="text-align: left;">MS</td>
+<td style="text-align: left;">F</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">A</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">48</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Error</td>
+<td style="text-align: left;">28</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Total</td>
+<td style="text-align: left;">30</td>
+<td style="text-align: left;">300</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+<p>Het gemiddelde van groep één was 3 met 10 proefpersonen en van groep
+twee was het gemiddelde 5 ook met 10 proefpersonen. De conclusie van een
+95% <em>follow up</em> betrouwbaarheidsinterval op basis van bovenstaande
+gegevens volgens de methode van Fisher met df = 25, kan worden aangeduid
+met</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+μ1μ2.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+μ1μ2.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+μ1 &gt; μ2.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+μ1 &gt; μ2.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+μ1 = μ2.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+μ1 = μ2.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

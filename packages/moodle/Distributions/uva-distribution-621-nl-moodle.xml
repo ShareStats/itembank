@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-distribution-621-nl-moodle/Distributions/Continuous/t-distribution</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-distribution-621-nl_uva-distribution-621-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een variabele A is normaal verdeeld volgens N(μ,σ<sup>²</sup>). We trekken een
+steekproef ter grootte van <em>n</em> uit deze verdeling, met gemiddelde
+<span class="math inline">\(\bar{x}\)</span> en sd s. Dan volgt de grootheid <span class="math inline">\(\frac{\bar{A}-\mu }{\frac{s}{\sqrt{n}}}\)</span> de volgende verdeling:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+N(0,1), de standaardnormale verdeling
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+N(0,1), de standaardnormale verdeling: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+T[n], de T-verdeling met n vrijheidsgraden
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+T[n], de T-verdeling met n vrijheidsgraden: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+T[n-1], de T-verdeling met n-1 vrijheidsgraden
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+T[n-1], de T-verdeling met n-1 vrijheidsgraden: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+N(μ,σ²), de normale verdeling met gemiddelde μ en variantie σ²
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+N(μ,σ²), de normale verdeling met gemiddelde μ en variantie σ²: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

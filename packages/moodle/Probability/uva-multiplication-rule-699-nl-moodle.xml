@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-multiplication-rule-699-nl-moodle/Probability/Elementary Probability/General Rules/Multiplication rule</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-multiplication-rule-699-nl_uva-multiplication-rule-699-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Stel dat er twee spelers zijn die met vier zuivere dobbelstenen spelen.
+Ze moeten om de beurt deze vier dobbelstenen tegelijk gooien. Speler <em>A</em>
+krijgt een punt wanneer er geen 3 wordt gegooid en speler <em>B</em> krijgt een
+punt als bij minstens één van de vier dobbelstenen één 3 boven ligt. Is
+dit voor beide spelers een eerlijk spel volgens de kansrekening?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ja, omdat beide spelers dezelfde kans hebben.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Ja, omdat beide spelers dezelfde kans hebben.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nee, omdat speler A een grotere kans heeft dan speler B.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Nee, omdat speler A een grotere kans heeft dan speler B.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Nee, omdat speler B een grotere kans heeft dan speler A.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Nee, omdat speler B een grotere kans heeft dan speler A.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

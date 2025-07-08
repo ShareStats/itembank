@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-reliability-214-en-moodle/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Reliability_eur-reliability-214-en_eur-reliability-214-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Exams aim at measuring a person’s true score. The accuracy of this measurement of the true score will likely be lower if the reliability of the test is too low. One way to theoretically compensate for this lower accuracy is by calculating the adjusted true score: <span class="math inline">\(X_{est} = x̄ + R_{xx}(X_o-x̄)\)</span></p>
+<p>Suppose that the average score of a psychometric exam is 5.8. The reliability of this test is .31 (Cronbach’s alpha); A grade of at least 5.5 is needed to pass the exam. A student who had a 5.0 complains to the examination board that he doesn’t want to do the retake because his true score is in fact 5.5. Calculate which reliability of the exam will give this student a right to complain.</p>
+<p>Round to two decimals.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>We can calculate the observed score which is accompanied with an adjusted true score 5.5.
+<span class="math inline">\(5.5 = 5.8 + R_{XX}(5.0 - 5.8)\)</span>
+<span class="math inline">\(-.3 = R_{XX} \times -.8\)</span>
+<span class="math inline">\(R_{XX} = .375 = .38\)</span></p>
+<p>A reliability of .38 (or lower) would give the student a right to complain</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.38</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

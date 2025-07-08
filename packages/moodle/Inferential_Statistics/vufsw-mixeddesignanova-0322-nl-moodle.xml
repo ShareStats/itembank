@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-mixeddesignanova-0322-nl-moodle/inferential statistics/parametric techniques/anova/mixed design anova</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-mixeddesignanova-0322-nl_vufsw-mixeddesignanova-0322-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een onderzoek naar positieve resultaten van een mindfulness training,
+willen onderzoekers nagaan in hoeverre het licht in de ruimte en de duur
+van de training van invloed zijn op hoe mensen de training beoordelen.
+Daarnaast zijn zij benieuwd of deze effecten afhangen van het geslacht
+van de proefpersonen. Om dit te onderzoeken geven de onderzoekers 9
+weken lang een mindfulness training aan proefpersonen, iedere avond met
+een ander licht in de ruimte en met een andere duur van de training. De
+maten van de verschillende soorten licht zijn donker, medium en licht,
+en de duur van de trainingen zijn kort (1), midden (2) en lang (3). De
+proefpersonen moesten na elke training een cijfer geven over hoe ze de
+training hadden ervaren. Welke analysemethode kunnen onderzoekers het
+best gebruiken?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Mixed design ANOVA met licht en duur als within variables en geslacht als between variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repeated Measures ANOVA met licht en duur als within variables
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Repeated Measures ANOVA met licht,  duur en geslacht als within variables
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Mixed design ANOVA met licht en geslacht als within variables en duur als between variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

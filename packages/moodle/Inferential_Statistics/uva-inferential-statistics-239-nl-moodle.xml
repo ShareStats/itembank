@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-inferential-statistics-239-nl-moodle/Inferential Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-inferential-statistics-239-nl_uva-inferential-statistics-239-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Het verschil tussen twee steekproeffracties B<sub>1</sub>/n<sub>1</sub> en B<sub>2</sub>/n<sub>2</sub> heeft
+bij benadering een</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+binomiale verdeling
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+binomiale verdeling: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+multinomiale verdeling
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+multinomiale verdeling: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+normale verdeling
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+normale verdeling: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

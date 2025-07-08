@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-reliability-212-en-moodle/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Reliability_eur-reliability-212-en_eur-reliability-212-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Exams aim at measuring a person’s true score. The accuracy of this measurement of the true score will likely be lower if the reliability of the test is too low. One way to theoretically compensate for this lower accuracy is by calculating the adjusted true score: <span class="math inline">\(X_{est} = x̄ + R_{xx}(X_o-x̄)\)</span></p>
+<p>Suppose that the average score of a psychometric exam is 5.8. The reliability of this test is .81 (Cronbach’s alpha); A grade of at least 5.5 is needed to pass the exam.</p>
+<p>The table below shows the frequencies of the students who did not pass the first exam. How many of these students do you expect to pass the retake without preparing? Assume that the reliability of the retake is 1.</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Grade</td>
+<td style="text-align: right;">2.1</td>
+<td style="text-align: right;">3.4</td>
+<td style="text-align: right;">3.7</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">4.3</td>
+<td style="text-align: right;">4.6</td>
+<td style="text-align: right;">4.9</td>
+<td style="text-align: right;">5.2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Frequency</td>
+<td style="text-align: right;">2.0</td>
+<td style="text-align: right;">10.0</td>
+<td style="text-align: right;">15.0</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">15.0</td>
+<td style="text-align: right;">15.0</td>
+<td style="text-align: right;">10.0</td>
+<td style="text-align: right;">13.0</td>
+</tr>
+</tbody>
+</table>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>We can calculate the observed score which is accompanied with an adjusted true score 5.5.
+<span class="math inline">\(5.5 = 5.8 + .81(x - 5.8)\)</span>
+<span class="math inline">\(-.3 = .81X - 4.698\)</span>
+<span class="math inline">\(4.398 = .81X\)</span>
+<span class="math inline">\(X = 5.430\)</span></p>
+<p>Thus, an observed score of 5.43 or higher would lead to an expected true score 5.5. Since none of the students who failed at the exam had a grade of 5.43 or higher, none of the students are expected to pass the retake without preparing.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-measures-of-spread-478-nl-moodle/Descriptive statistics/Summary Statistics/Measures of Spread</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-measures-of-spread-478-nl_uva-measures-of-spread-478-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een personenlift is plaats voor 4 personen. De maximale belasting is
+360 kilogram. Veronderstel dat de gewichten in een zekere populatie
+normaal verdeeld zijn volgens N(80, 10<sup>²</sup>). Iemand beweert bij de
+zwaarste 1% van de populatie te behoren. Hoe zwaar moet hij dan
+tenminste zijn?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+99.0 kg
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+99.0 kg: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+100.5 kg
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+100.5 kg: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+103.3 kg
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+103.3 kg: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+105.8 kg
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+105.8 kg: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -53,29 +53,9 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Dit is de constante, dit is de waarde van Y als X<sub>1 </sub>gelijk is aan 0.<sub>  </sub>
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dit is het significantieniveau, deze waarde bepaalt de onderzoeker zelf en is meestal 0.05.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dit is de alpha, deze waarde hoort bij een bepaalde t-statistic en moeten we opzoeken in een tabel.
+Dit is het intercept, deze waarde is 0 als X<sub>1 </sub>geen effect heeft op Y.<sub>  </sub>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -95,7 +75,27 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dit is het intercept, deze waarde is 0 als X<sub>1 </sub>geen effect heeft op Y.<sub>  </sub>
+Dit is de alpha, deze waarde hoort bij een bepaalde t-statistic en moeten we opzoeken in een tabel.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Dit is de constante, dit is de waarde van Y als X<sub>1 </sub>gelijk is aan 0.<sub>  </sub>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dit is het significantieniveau, deze waarde bepaalt de onderzoeker zelf en is meestal 0.05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

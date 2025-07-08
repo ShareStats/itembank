@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-mediation-1033-en-moodle/inferential statistics/regression/multiple linear regression/mediation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-mediation-1033-en_vufsw-mediation-1033-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Which of the following is <strong>not </strong>one of the <strong>dis</strong>advantages of Baron
+and Kenny’s method to assess mediation?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The three disadvantages of the Baron and Kenny method are the
+following:</p>
+<ol style="list-style-type: decimal">
+<li><p>Baron and Kenny rely too much on the statistical significance of c
+and c’. So, if c’=.5 (P=0.049) we conclude that there is mediation while
+if c’=.5 (P=0.051), we conclude that there is no mediation</p></li>
+<li><p>Baron and Kenny suggest the testing of the significance of <em>a </em>and
+<em>b</em>. However, mediation is assessed by the significance of the indirect
+effect <em>ab</em> which is not the same as testing of the significance of
+<em>a </em>and <em>b </em>separately.</p></li>
+<li><p>The condition that a total effect <em>c</em> should exist is not necessary.
+This is the case in suppression. </p></li>
+</ol>
+<p>Therefore the option “<em>The condition that the indirect effect ab should
+exist is not necessary</em>” is the correct answer</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The condition that a total effect <em>c</em> should exist is not necessary
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Baron and Kenny suggest the testing of the significance of <em>a </em>and <em>b</em>. However, mediation is assessed by the significance of the indirect effect <em>ab</em> which is not the same as testing of the significance of <em>a </em>and <em>b </em>separately.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The condition that an indirect effect <em>ab</em> should exist is not necessary
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Baron and Kenny rely too much on the statistical significance of <em>c</em> and <em>c’</em>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

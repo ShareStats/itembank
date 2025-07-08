@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-reliability-117-en-moodle/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Reliability_eur-reliability-117-en_eur-reliability-117-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A psychometrician working at CITO wants to evaluate the criterion validity of a dyslexia test. The reliability of the test <span class="math inline">\(R_{xx}\)</span> has already been investigated and turned out to be .70. The criterion measure is the judgement of a school psychologist which is quite, though not perfectly, reliable: $R_{yy} = $ .80. The observed correlation between the test and criterion turned out to be .6. The psychometrician doubts whether she should calculate the adjusted correlation and what variable she has to adjust; the test, the criterion or both.</p>
+<p>Calculate the adjusted correlation by adjusting for the test, criterion or both. What would the correlation be if one (or both) of these elements were to be perfectly reliable? Write down the answer (3 decimals).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p><span class="math inline">\(r_{xy-adjusted} = \frac{.6}{\sqrt{.8}} = .671\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.671</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

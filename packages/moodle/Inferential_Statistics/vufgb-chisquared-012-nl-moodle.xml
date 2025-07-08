@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-chisquared-012-nl-moodle/Inferential Statistics/NHST/Test statistic/Chi-squared, Descriptive statistics/Data representation/Tables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-chisquared-012-nl_vufgb-chisquared-012-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Aan de hand van een steekproef van 100 studenten is onderzocht of er een samenhang is tussen de reactie op oogcontact (“terugkijken” of “wegkijken”) en geslacht (“vrouw” of “man”). Bereken aan de hand van onderstaande tabel de Chi-kwadraat toetsstatistiek en bepaal het aantal vrijheidsgraden van de bijbehorende verdeling.</p>
+<p><img src="@@PLUGINFILE@@/vufgb-chisquared-012-nl-table01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-chisquared-012-nl-table01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\chi^{2} = 4.24\)</span>, met 1 vrijheidsgraad
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\chi^{2} = 4.24\)</span>, met 2 vrijheidsgraden
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\chi^{2} = 1.01\)</span>, met 1 vrijheidsgraad
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\chi^{2} = 1.01\)</span>, met 2 vrijheidsgraden
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-binomial-733-nl-moodle/Distributions/Discrete/Binomial</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-binomial-733-nl_uva-binomial-733-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Vaas I bevat negen rode ballen en één witte bal. Vaas II bevat zes rode
+en vier witte ballen. We herhalen 20 maal achter elkaar het volgende
+experiment:</p>
+<ol style="list-style-type: decimal">
+<li>Gooi eerst een zuivere dobbelsteen.</li>
+<li>Als het aantal ogen deelbaar is door drie, kies dan aselect een bal
+uit vaas I. Kies anders aselect een bal uit vaas II.</li>
+</ol>
+<p>Na elke herhaling wordt de gekozen bal teruggelegd in de vaas waar deze
+uit is gehaald.<br />
+<br />
+Welke van de onderstaande beweringen is juist?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het aantal gekozen rode ballen is binomiaal verdeeld met n=20 en p=0.90.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Het aantal gekozen rode ballen is binomiaal verdeeld met n=20 en p=0.90.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het aantal gekozen rode ballen is binomiaal verdeeld met n=20 en p=0.60.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Het aantal gekozen rode ballen is binomiaal verdeeld met n=20 en p=0.60.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het aantal gekozen rode ballen is binomiaal verdeeld met n=20 en p=0.75.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Het aantal gekozen rode ballen is binomiaal verdeeld met n=20 en p=0.75.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Het aantal gekozen rode ballen is binomiaal verdeeld met n=20 en p=0.70.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Het aantal gekozen rode ballen is binomiaal verdeeld met n=20 en p=0.70.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De kansverdeling van het aantal rode ballen dat gekozen wordt is helemaal geen binomiale verdeling.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+De kansverdeling van het aantal rode ballen dat gekozen wordt is helemaal geen binomiale verdeling.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

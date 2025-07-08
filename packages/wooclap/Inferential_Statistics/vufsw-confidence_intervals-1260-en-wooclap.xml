@@ -58,13 +58,13 @@ significant decrease in weight. Because the 0 is not in the CI</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-In at least 95% of all possible samples, we will find an average weight loss between 1.6 and 2.8.
+The values of the interval are in the critical area, so we cannot reject the null hypothesis.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -78,13 +78,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-The values of the interval are in the critical area, so we cannot reject the null hypothesis.
+In at least 95% of all possible samples, we will find an average weight loss between 1.6 and 2.8.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

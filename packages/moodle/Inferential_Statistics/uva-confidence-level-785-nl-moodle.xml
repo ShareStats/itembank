@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-confidence-level-785-nl-moodle/Inferential Statistics/Confidence Intervals/Confidence level</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-confidence-level-785-nl_uva-confidence-level-785-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><em>Bepaal welke woorden op de streepjes horen (in dezelfde volgorde) in de
+volgende zinnen:</em><br />
+Het significantieniveau, ook wel het ______ genoemd, wordt vaak
+vastgesteld op 0.05. Dit significantieniveau kan gerelateerd worden aan
+het betrouwbaarheidsinterval. Dan wordt in beide staarten van de
+verdeling voor de parameter 0.025 kans geplaatst. Het ______ is nu
+95%.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+“confidence level”, “power level”
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+“confidence level”, “power level”: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+“confidence interval”, “Type II error”
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+“confidence interval”, “Type II error”: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+“Type I error”, “confidence level”
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+“Type I error”, “confidence level”: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

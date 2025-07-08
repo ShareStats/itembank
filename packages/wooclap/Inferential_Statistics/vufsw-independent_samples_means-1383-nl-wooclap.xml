@@ -69,16 +69,6 @@ juice door een onbekende Nederlander.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De intentie om de juice te kopen groter is wanneer de juice getoond wordt door een bekend persoon dan wanneer de juice getoond wordt door een onbekend persoon; het verschil is significant
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 De intentie om de juice te kopen minder groot is wanneer de juice getoond wordt door een bekend persoon dan wanneer de juice getoond wordt door een onbekend persoon; het verschil is niet significant
@@ -86,6 +76,16 @@ De intentie om de juice te kopen minder groot is wanneer de juice getoond wordt 
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De intentie om de juice te kopen groter is wanneer de juice getoond wordt door een bekend persoon dan wanneer de juice getoond wordt door een onbekend persoon; het verschil is niet significant
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -101,7 +101,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De intentie om de juice te kopen groter is wanneer de juice getoond wordt door een bekend persoon dan wanneer de juice getoond wordt door een onbekend persoon; het verschil is niet significant
+De intentie om de juice te kopen groter is wanneer de juice getoond wordt door een bekend persoon dan wanneer de juice getoond wordt door een onbekend persoon; het verschil is significant
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

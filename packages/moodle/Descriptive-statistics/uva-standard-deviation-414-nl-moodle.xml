@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-standard-deviation-414-nl-moodle/Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-standard-deviation-414-nl_uva-standard-deviation-414-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Uit een grote populatie wordt een steekproef van 7 personen getrokken en
+hun lichaamstemperatuur (in °C) wordt gemeten, met als uitkomsten: 37.5,
+37.1, 38.0, 37.6, 36.8, 37.1, 37.7 De steekproef standaarddeviatie is
+gelijk aan</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.157
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.157: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.173
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.173: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.385
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.385: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.416
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.416: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

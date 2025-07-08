@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Cronbach's-alpha-010-nl-moodle/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_uu-Cronbach's-alpha-010-nl_uu-Cronbach's-alpha-010-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Daan heeft een vragenlijst van tien vragen aan een steekproef van 100 mensen gegeven. Hij denkt het construct “eenzaamheid” te meten. Hij voert een betrouwbaarheidsanalyse uit. Deel van de SPSS output staat hieronder.</p>
+<p><img src="uu-Cronbach&#39;s-alpha-010-nl-tabel.jpg" />
+Welk item komt als eerste in aanmerking voor verwijdering?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Item 5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Goed
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Item 6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Bij welk item is de item-total correlation het laagst?
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Item 9
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Bij welk item is de item-total correlation het laagst?
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Item 5 en 9
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Bij welk item is de item-total correlation het laagst?
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

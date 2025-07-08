@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-typeiierror-1173-en-moodle/inferential statistics/nhst/statistical errors/type II error</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-typeiierror-1173-en_vufsw-typeiierror-1173-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher is interested in the difference in study results between
+students who are optimistic versus students who are pessimistic. Suppose
+that the researcher does <strong>not</strong> find a significant difference between
+the two groups of students, while in the population a difference
+actually exists.</p>
+<p>What is going on?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>A type II error is made.<br />
+In statistical hypothesis testing, a type I error is the rejection of a
+true null hypothesis (also known as a “false positive” finding), while a
+type II error is failing to reject a false null hypothesis (also known
+as a “false negative” finding).<br />
+More simply stated, a type I error is to falsely infer the existence of
+something that is not there, while a type II error is to falsely infer
+the absence of something that is present.</p>
+<p>M&amp;T Basics of quantitative research<br />
+Basics of quantitative research</p>
+<p>M&amp;T Hypothesis testing: means<br />
+Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+A Type II error is made.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The null hypothesis is rightly assumed.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A Type I error is made.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The null hypothesis has rightly been rejected.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-reliability-203-nl-moodle/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_eur-reliability-203-nl_eur-reliability-203-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoeker aan het instituut voor psychologie ontwikkelde een test om angst bij kinderen uit verschillende autochtone en allochtone groepen te meten. Deze test is met name bedoeld om verschil in angst tussen groepen kinderen te onderzoeken. Wat betekent dit voor de vereiste betrouwbaarheid van de test?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Because the reliability of an average does depend both on the reliability and the sample size the reliability of a test that is used to compare group averages is allowed to be a bit lower. The sample size compensates for the lower test reliability rendering the average still reliable.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Die moet hoger zijn dan bij toetsing van individuen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Die moet ongeveer even hoog zijn als bij toetsing van individuen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Die mag iets lager zijn dan bij toetsing van individuen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Goed
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De vereiste betrouwbaarheid hangt af van de spreiding in de angstscores van de kinderen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

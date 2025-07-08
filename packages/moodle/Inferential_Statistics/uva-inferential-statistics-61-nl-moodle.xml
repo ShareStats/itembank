@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-inferential-statistics-61-nl-moodle/Inferential Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-inferential-statistics-61-nl_uva-inferential-statistics-61-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoeker verricht een experiment waarin hij een verschil verwacht
+in gemiddelde prestaties op een bepaalde taak tussen de condities. Hij
+toetst zijn resultaten aan de hand van een t-toets en vindt een p-waarde
+die kleiner is dan het nominale significantieniveau van .05. Waarom
+betekent dit statistische resultaat <strong>niet</strong> dat de onderzoekshypothese
+zeker waar is?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Er kan een type I fout gemaakt zijn.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Er kan een type I fout gemaakt zijn.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Er kan een type II fout gemaakt zijn.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Er kan een type II fout gemaakt zijn.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Er kan sprake zijn van een gebrek aan “power”.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Er kan sprake zijn van een gebrek aan “power”.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

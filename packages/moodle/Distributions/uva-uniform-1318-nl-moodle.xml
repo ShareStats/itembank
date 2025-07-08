@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-uniform-1318-nl-moodle/Distributions/Continuous/Uniform</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-uniform-1318-nl_uva-uniform-1318-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Stel de continue stochastische variabele X is: elke waarde tussen 0 en
+2. De dichtheidskromme van X is hieronder weergegeven.<br />
+Hoe groot is de kans dat X kleiner dan 1 is?</p>
+<p><img src="@@PLUGINFILE@@/uva-uniform-1318-nl-graph01.png" /></p>
+</p>]]></text>
+<file name="uva-uniform-1318-nl-graph01.png" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,1: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,5: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

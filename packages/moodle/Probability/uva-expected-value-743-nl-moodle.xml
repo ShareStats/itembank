@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-expected-value-743-nl-moodle/Probability/Elementary Probability/Random variables/Expected value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-expected-value-743-nl_uva-expected-value-743-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Bij het bedrijf Tata Steel is onderzoek gedaan naar de efficiëntie van
+het productieproces op het gebied van het maken van mallen. Uit het
+onderzoek is gebleken dat de tijd die nodig is om een blauwdruk (stap 1)
+te maken van een mal op de lange termijn varieert met een verwachting
+van 3 uur en een standaardafwijking van 0,7 uur. Daarnaast is gebleken
+dat het daadwerkelijk fabriceren (stap 2) van een mal varieert met een
+verwachting van 7,5 uur en een standaardafwijking van 3,2 uur. Beide
+stappen in het productieproces (blauwdruk en fabricage) zijn
+onafhankelijk van elkaar. Lees de twee onderstaande situaties en kies
+vervolgens het juiste antwoord.<br />
+<br />
+I. Het reduceren van de standaardafwijking van de blauwdruk van 0,75
+naar 0,5 leidt tot een reductie in de verwachte tijd van het gehele
+productieproces (zowel blauwdruk als fabricage).<br />
+II. Indien de beide onderdelen in het productieproces wel afhankelijk
+van elkaar zouden zijn, dan zal dit van invloed zijn op de verwachte
+tijd van het productieproces.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is juist, II is juist
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is juist, II is juist: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is juist, II is onjuist
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is juist, II is onjuist: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is onjuist, II is juist
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is onjuist, II is juist: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+I is onjuist, II is onjuist
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is onjuist, II is onjuist: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

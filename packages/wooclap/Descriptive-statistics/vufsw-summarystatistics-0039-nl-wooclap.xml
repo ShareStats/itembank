@@ -52,16 +52,6 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Het gemiddelde van een Standaard Normale verdeling is altijd 0.00 en de standaarddeviatie is altijd 1.96.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Bij een 95% betrouwbaarheidsinterval ligt de steekproefwaarde altijd in het “kritieke gebied” van 5%.
 </p>]]></text>
 <feedback format="html">
@@ -87,6 +77,16 @@ De Standard Error (SE) is bij zowel een proportie als bij een gemiddelde afhanke
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het gemiddelde van een Standaard Normale verdeling is altijd 0.00 en de standaarddeviatie is altijd 1.96.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

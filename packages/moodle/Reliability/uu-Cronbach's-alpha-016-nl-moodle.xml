@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Cronbach's-alpha-016-nl-moodle/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_uu-Cronbach's-alpha-016-nl_uu-Cronbach's-alpha-016-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In het Loopbaanproject Schilders zijn voor een (pilot-)onderzoek naar de mobiliteitswensen van schilders 20 items afgenomen bij een aselecte steekproef uit de doelpopulatie (<span class="math inline">\(n = 86\)</span>). In de onderstaande tabel staan de item-restcorrelaties (<span class="math inline">\(r_{ir}\)</span>) van de 20 items.</p>
+<p><img src="uu-Cronbach&#39;s-alpha-016-nl-tabel.jpg" />
+Beoordeel de volgende twee uitspraken:</p>
+<ol style="list-style-type: upper-roman">
+<li>Door het ompolen van ITEM13, zal de Cronbachs alfa vrijwel zeker lager uitvallen.</li>
+<li>Door het verwijderen van ITEM15, zal Cronbachs alfa vrijwel zeker lager uitvallen.</li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Stelling I: Item13 vertoont een vrij hoge negatieve item-restcorrelatie. Wanneer dit item opgepoold zou worden, zou dit tot gevolg hebben dat de item-restcorrelatie positief wordt. Dit komt de betrouwbaarheid (Cronbach’s alfa) van de schaal ten goede, immers moeten de items gelijk gepoold zijn om de Cronbach’s alfa te meten. De Cronbach’s alfa zal dus stijgen.</p>
+<p>Stelling II: Item15 toont een zeer lage item-restcorrelatie, de laagste van alle items. Door dit item te verwijderen zal een item verwijderd worden dat zeer weinig samenhangt met de overige items. De interne consistentie van de schaal zal toenemen wanneer Item15 verwijderd wordt, dus Cronbach’s alfa zal waarschijnlijk juist toenemen.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Uitspraak I en II zijn beide juist.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alleen uitspraak I is juist.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alleen uitspraak II is juist.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Uitspraak I en II zijn beide onjuist.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

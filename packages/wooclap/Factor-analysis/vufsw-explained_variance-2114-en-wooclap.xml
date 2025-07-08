@@ -55,9 +55,19 @@ factors?<br />
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+38,3%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-33,4%
+52,6%
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -77,21 +87,11 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-52,6%
+33,4%
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-38,3%
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

@@ -53,19 +53,19 @@ standard deviation 1.66179.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Smaller than -1 (&lt;-1).
+between 0 and 1.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-between 0 and 1.
+Larger than 1 (&gt;1).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -83,13 +83,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Larger than 1 (&gt;1).
+Smaller than -1 (&lt;-1).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

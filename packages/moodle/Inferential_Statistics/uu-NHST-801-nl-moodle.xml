@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-NHST-801-nl-moodle/Inferential Statistics/NHST</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-NHST-801-nl_uu-NHST-801-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Welke van de onderstaande conclusie(s) is/zijn gerechtvaardigd op basis van een hypothesetest waarin het effect van een interventie niet statistisch significant is?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De toets toont aan dat de interventie geen effect heeft.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit is niet de juiste conclusie.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De toets toont aan dat de alternatieve hypothese onwaar is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit is niet de juiste conclusie.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De toets heeft geen overtuigend bewijs geleverd dat de interventie effect heeft.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit is de juiste conclusie.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Antwoorden a, b en c zijn alle drie correcte conclusies.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Niet alle conclusies zijn juist.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

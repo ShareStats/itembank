@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-114-en-moodle/Inferential Statistics/Regression/Equation, Inferential Statistics/Regression/Simple linear regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-114-en_eur-inferential_statistics-114-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>When performing a regression analysis, the regression equation is determined by minimizing:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The regression equation is meant to plot out the perfect line through all datapoints, meaning the least total squared error (residual) between the predicted and the observed Y values</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+the total squared error (residual) between the predicted and the observed Y values
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This is the correct answer!
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+the total absolute error (residual) between the predicted and the observed Y value
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+the total absolute error (residual) between the values of X and Y
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+the total squared error (residual) between the values of X and Y
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

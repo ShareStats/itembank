@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Null-hypothesis-802-nl-moodle/Inferential Statistics/NHST/Hypothesis/Null hypothesis</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Null-hypothesis-802-nl_uu-Null-hypothesis-802-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Hieronder staan twee stellingen:</p>
+<p>I Door gebruik te maken van een objectieve, van tevoren vastgestelde, kans op het verwerpen van H0, is hypothese testen een vorm van inductief gedrag.
+II Het testen van H0 volgens de Neyman en Pearson-principes, werkt slechte
+theorievorming in de hand.</p>
+<p>Welke stelling(en) is/ zijn waar?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Zowel stelling I als stelling II is waar.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Stelling I is waar, stelling II is niet waar.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Stelling II is waar, stelling I is niet waar.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Beide stellingen zijn niet waar.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

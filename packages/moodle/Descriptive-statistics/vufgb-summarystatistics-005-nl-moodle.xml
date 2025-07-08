@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-summarystatistics-005-nl-moodle/Descriptive statistics/Summary Statistics, Descriptive statistics/Summary Statistics/Measures of Location/Mean, Descriptive statistics/Summary Statistics/Measures of Location/Median, Descriptive statistics/Data representation/Graphs/Boxplot</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_vufgb-summarystatistics-005-nl_vufgb-summarystatistics-005-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>De verdeling van een variabele wordt weergegeven door onderstaande box-plot. Het gemiddelde ligt …….I……. van de mediaan, en de verdeling is scheef naar …..II…… .</p>
+<p><img src="@@PLUGINFILE@@/vufgb-summarystatistics-005-nl-boxplot01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-summarystatistics-005-nl-boxplot01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+I: links, II: links
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I: links, II: rechts
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I: rechts, II: links
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I: rechts, II: rechts
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

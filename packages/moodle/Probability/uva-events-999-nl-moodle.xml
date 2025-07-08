@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-events-999-nl-moodle/Probability/Elementary Probability/Events</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-events-999-nl_uva-events-999-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Gooi een zuivere dobbelsteen één keer op. We definiëren de
+gebeurtenissen <em>A</em> en <em>B</em> als volgt:<br />
+<br />
+* <em>A</em>: het aantal ogen is groter dan 4,<br />
+* <em>B</em>: het aantal ogen is deelbaar door drie<br />
+<br />
+Wat is dan de vereniging van <em>A</em> en <em>B</em>, oftewel <em>A</em> ∪ <em>B</em>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A ∪ B = {6}
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A ∪ B = {6}: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A ∪ B = {5,6}
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A ∪ B = {5,6}: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+A ∪ B = {3,5,6}
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A ∪ B = {3,5,6}: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A ∪ B = {1,2,3,4,5,6}
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A ∪ B = {1,2,3,4,5,6}: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

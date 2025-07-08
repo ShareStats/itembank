@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-mixed_design_anova-1060-nl-moodle/inferential statistics/parametric techniques/anova/mixed design anova</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-mixed_design_anova-1060-nl_vufsw-mixed_design_anova-1060-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Welke van de volgende designs is een voorbeeld van een mixed design?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>There are no repeated measurement in this design.<br />
+(An employee can either follow or not follow the training not both. In
+this case, there is a 2-way ANOVA but not a repeated measures design.)</p>
+<p>Language<br />
+English &amp; Nederlands</p>
+<p>M&amp;T Mixed design ANOVA<br />
+Default value</p>
+<p>M&amp;T MVA<br />
+Standaardwaarde</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Een onderzoek naar het effect dat het geslacht van een accountant heeft op rapportagefouten aan het einde van de maand tussen accountants die training hebben gevolgd en accountants die geen training hebben gevolgd
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Een onderzoek naar het effect dat het geslacht van een werknemer heeft op de leeftijd van het bereiken van een senior managementfunctie
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Geen van de antwoorden beschrijft een mixed design
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Een onderzoek naar het effect dat het geslacht van de werknemer heeft op de keuze van een gekozen trainingsprogramma
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

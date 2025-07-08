@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-mediation-800-nl-moodle/Inferential Statistics/Regression/Multiple linear regression/Mediation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-mediation-800-nl_uu-mediation-800-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoekster heeft gelezen dat er een verband is gevonden tussen het aantal uren dat een moeder buitenshuis werkt, en de mate van opstandig gedrag van haar jonge kinderen (gemeten op een 10-puntschaal). De onderzoekster heeft echter het vermoeden dat dit verband eigenlijk veroorzaakt wordt door het aantal minuten dat kinderen per dag televisie kijken. Om dit te onderzoeken meet de onderzoekster bij een steekproef van 50 kinderen deze 3 variabelen.</p>
+<p>Welke analyse is geschikt om haar vermoeden te toetsen?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+een ancova met ‘aantal minuten televisie kijken’ als covariaat
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+een multipele regressie met daarin het interactie-effect van ‘aantal minuten televisie kijken’ en ‘aantal uren dat moeder buitenshuis werkt’
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+een mediatie-analyse
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+een moderatie-analyse
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

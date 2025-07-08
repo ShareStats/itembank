@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-oneway-anova-541-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-oneway-anova-541-nl_uva-oneway-anova-541-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Hieronder staat een onvolledige ANOVA-tabel, behorend bij een Randomized
+Complete Block ANOVA.</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Variatiebron</td>
+<td style="text-align: left;">SS</td>
+<td style="text-align: left;">df</td>
+<td style="text-align: left;">MS</td>
+<td style="text-align: left;">F</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Groep</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">39.0</td>
+<td style="text-align: left;">8.67</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Blok</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">22.5</td>
+<td style="text-align: left;">5.00</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Error</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;">4.5</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Totaal</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">11</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+<p>De totale kwadratensom in deze ANOVA-tabel is gelijk aan</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+17.2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+17.2: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+66
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+66: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+162
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+162: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+189
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+189: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

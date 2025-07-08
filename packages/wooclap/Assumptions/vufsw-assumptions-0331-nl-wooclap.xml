@@ -53,19 +53,19 @@ VIF=3.6, Durban-Watson=3.7 en de hoogste Cook’s distance = 1.2.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Gebaseerd op deze gegevens moet Jens zich zorgen maken over multicollineariteit en de assumptie van onafhankelijke errors.
+Gebaseerd op deze gegevens moet Jens zich zorgen maken over de assumptie van onafhankelijke errors en influential cases.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Gebaseerd op deze gegevens hoeft Jens zich geen zorgen te maken, geen van de assumpties zijn geschonden.
+Gebaseerd op deze gegevens moet Jens zich zorgen maken over multicollineariteit en de assumptie van onafhankelijke errors.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -83,13 +83,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Gebaseerd op deze gegevens moet Jens zich zorgen maken over de assumptie van onafhankelijke errors en influential cases.
+Gebaseerd op deze gegevens hoeft Jens zich geen zorgen te maken, geen van de assumpties zijn geschonden.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>

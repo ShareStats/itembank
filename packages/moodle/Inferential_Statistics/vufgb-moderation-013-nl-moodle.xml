@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-moderation-013-nl-moodle/Inferential Statistics/Regression/Multiple linear regression/Moderation, Inferential Statistics/Regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-moderation-013-nl_vufgb-moderation-013-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Miriam heeft een hypothese opgesteld over een interactie tussen twee kwantitatieve predictoren (<span class="math inline">\(X_{1}\)</span> en <span class="math inline">\(X_{2}\)</span>) in hun effect op een kwantitatieve uitkomstmaat (<em>Y</em>).</p>
+<p>Hoe kan zij de interactie het beste opnemen in haar regressiemodel?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Kruisproduct tussen gecentreerde <span class="math inline">\(X_{1}\)</span> en gecentreerde <span class="math inline">\(X_{2}\)</span> berekenen en opnemen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Kruisproduct tussen ongecentreerde <span class="math inline">\(X_{1}\)</span> en ongecentreerde <span class="math inline">\(X_{2}\)</span> berekenen en nemen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Kruisproduct tussen gecentreerde <span class="math inline">\(X_{1}\)</span> en gecentreerde <em>Y</em> berekenen en opnemen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Kruisproduct tussen ongecentreerde <span class="math inline">\(X_{1}\)</span> en ongecentreerde <em>Y</em> berekenen en opnemen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

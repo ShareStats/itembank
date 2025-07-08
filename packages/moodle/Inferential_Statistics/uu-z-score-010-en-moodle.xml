@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-z-score-010-en-moodle/Descriptive statistics/Score interpretation/z-score</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-z-score-010-en_uu-z-score-010-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Jason had two midterm exams. His z-score for English is 0. His z-score for the mathematics exam is 1.50. Compared to his fellow students, Jason …</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Jason did average on English, and did well on mathematics.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+did average on English, and did well on mathematics.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is correct.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+did below average on both.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+did well on mathematics, and did below average on English.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+did average on mathematics, and did below average on English.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

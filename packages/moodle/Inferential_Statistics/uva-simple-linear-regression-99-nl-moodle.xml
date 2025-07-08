@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-simple-linear-regression-99-nl-moodle/Inferential Statistics/Regression/Simple linear regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-simple-linear-regression-99-nl_uva-simple-linear-regression-99-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Gegeven is een tabel met correlaties voor drie predictoren <em>x</em>1, <em>x</em>2 en <em>x</em>3.</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><em>x</em>1</td>
+<td style="text-align: left;"><em>x</em>2</td>
+<td style="text-align: left;"><em>x</em>3</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>x</em>1</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><em>x</em>2</td>
+<td style="text-align: left;">0.01</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>x</em>3</td>
+<td style="text-align: left;">0.35</td>
+<td style="text-align: left;">0.05</td>
+</tr>
+</tbody>
+</table>
+<p>De regressievergelijking voor de afhankelijke variabele <em>y</em> is met
+alleen <em>x</em>1 en <em>x</em>3:<br />
+* <em>y</em> = 23.13 + 12.17 <em>x</em>1 + 2.10 <em>x</em>3<br />
+Stel dat nu het model berekend wordt met <em>x</em>2 erbij. Dan zal de
+coëfficiënt</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+van x1 veel kleiner en van x3 veel groter worden.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+van x1 veel kleiner en van x3 veel groter worden.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+van x1 ongeveer hetzelfde blijven en voor x3 veel kleiner worden.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+van x1 ongeveer hetzelfde blijven en voor x3 veel kleiner worden.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+van x1 ongeveer hetzelfde blijven en van x3 ook.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+van x1 ongeveer hetzelfde blijven en van x3 ook.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

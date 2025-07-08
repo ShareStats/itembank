@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-homogeneityofvariance-0309-nl-moodle/assumptions/homogeneity of variance</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Assumptions_vufsw-homogeneityofvariance-0309-nl_vufsw-homogeneityofvariance-0309-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Voor een Mixed Design ANOVA waarin onderzocht wordt of de prestaties van
+scholieren verschilt tussen 3 vakken (literatuur, essay writing,
+wiskunde) en of die verschillen variëren tussen mannelijke en
+vrouwelijke scholieren zijn 2 assumpties over de varianties van
+toepassing: de homogeneity of variances en sphericity.</p>
+<p>Vul aan: De assumptie van homogeneity of variances houdt in dat de variantie van
+[1] <strong>…</strong> gelijk is aan de variantie van [2] <strong>…</strong> .</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+[1] de scores van vrouwen in elk van de drie vakken [2] de scores van mannen in elk van de drie vakken
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+[1] scores in literatuur - scores in wiskunde [2] de scores van mannen in elk van de drie vakken
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+[1] de scores van vrouwen in elk van de drie vakken [2] scores in wiskunde - scores in essay writing
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+[1] scores in literatuur - scores in wiskunde [2] scores in wiskunde - scores in essay writing
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

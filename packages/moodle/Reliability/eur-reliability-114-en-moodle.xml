@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-reliability-114-en-moodle/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Reliability_eur-reliability-114-en_eur-reliability-114-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The “Three Minutes Test” (TMT) is a test to assess technical reading level. Children have to accurately read as many words as possible during three minutes. A teacher from grade 5 wants to use the test, which was constructed for children in grade 2, to assess the reading skills of her grade 5 children.
+Cronbach’s alpha based on the grade 2 population is .88 and the standard deviation of the test scores in grade 2 is 3.</p>
+<p>The standard deviation of the observed scores in grade 5 turned out to be 2.5. Calculate the reliability of the TMT in grade 5 and assume that the error variance is equal for the grade 2 and grade 5 populations. Use the following formula, but note that you might have to alter the formula in some way:</p>
+<p><span class="math inline">\(r_{xx} = \frac{S^2_{X_t}}{S^2_{X_o}}\)</span></p>
+<p>And</p>
+<p><span class="math inline">\(S^2_{X_o}= S^2_{X_t} + S^2_{X_e}\)</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>We can calculate the error variance by using: <span class="math inline">\(r_{xx} = \frac{S^2_{X_t}}{S^2_{X_o}} = \frac{S^2_{X_0}-S^2_{X_t}}{S^2_{X_o}}\)</span>.We can fill in the reliability (.88) and the variance (3^2) of the scores of grade 2: <span class="math inline">\(.88 = \frac{9-S^2_{X_t}}{9}\)</span>. Then, the variance of the error is: <span class="math inline">\(.88 \times 9 - 9 = - s^2_{x_e}\)</span>, thus <span class="math inline">\(s^2_{x_e} = 1.08\)</span> and <span class="math inline">\(s_{x_e} = 1.04\)</span>. We can use this error variance to calculate the reliability in grade 5:<span class="math inline">\(r_{xx} = \frac{S^2_{X_t}}{S^2_{X_o}} = \frac{2.5^2-1.08}{2.5^2} = \frac{5.17}{6.25}\)</span> = .827.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.827</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

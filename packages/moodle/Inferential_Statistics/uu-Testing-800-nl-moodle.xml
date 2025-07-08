@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Testing-800-nl-moodle/Inferential Statistics/Confidence Intervals/Testing</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Testing-800-nl_uu-Testing-800-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een onderzoek naar leessnelheid van negen kinderen wordt een voortest gedaan waarbij de tijd genoteerd wordt die het kind doet over het lezen van een bepaald stukje tekst; na een periode van leesonderwijs wordt een paralleltest afgenomen. De gemiddelde leestijd op de voortest is 63 seconden, de gemiddelde leestijd op de natest is 58 seconden, en de standaardafwijking (standard deviation) van de verschilscores is 6.</p>
+<p>Toets met behulp van een betrouwbaarheidsinterval of de gemiddelde leestijd op de natest verschilt van de gemiddelde leestijd op de voortest (<span class="math inline">\(\alpha = .01\)</span>). Wat is de conclusie?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het resultaat is significant, want het betrouwbaarheidsinterval omvat 0.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het resultaat is niet significant, want het betrouwbaarheidsinterval omvat 0 niet.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het resultaat is significant, want het betrouwbaarheidsinterval omvat 0 niet.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Het resultaat is niet significant, want het betrouwbaarheidsinterval omvat 0.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

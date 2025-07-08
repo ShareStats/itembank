@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Oneway_ANOVA-831-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Oneway_ANOVA-831-nl_uu-Oneway_ANOVA-831-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In het onderzoek van Daniëlle Mohren van de Universiteit Maastricht worden twee factoren geïdentificeerd die van invloed zijn op arbeidstevredenheid van werknemers, de eisen die een werkgever stelt (hoog of laag) en de motivatie van de werknemer zelf (hoog-matig-laag). Er wordt verwacht dat werknemers waar hoge eisen aan worden gesteld, minder tevreden zijn over hun werk dan collega’s waar minder eisen aan worden gesteld. Voor haar onderzoek gebruikte de onderzoekster vragenlijsten voor 27.000 werknemers, ruim 12.000 mensen reageerden. Een hogere score op de tevredenheidsmeting betekent dat de persoon meer tevreden is.</p>
+<p>Een onderzoeker doet Levene’s test om te kijken of er aan de voorwaarde van gelijke error varianties wordt voldaan. Zij vindt als toetsingsgrootheid F = 1.744 en een
+p-waarde van .147. Wat is de juiste conclusie in deze situatie?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Uit de test van Levene blijkt dat wordt voldaan aan de voorwaarde van gelijke spreiding.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Uit de test van Levene blijkt dat niet wordt voldaan aan de voorwaarde van gelijke spreiding.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Uit de test van Levene blijkt dat niet wordt voldaan aan de voorwaarde van normaliteit.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Uit de test van Levene blijkt dat wordt voldaan aan de voorwaarde van normaliteit.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

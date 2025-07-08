@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-elementary-probability-1001-nl-moodle/Probability/Elementary Probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-elementary-probability-1001-nl_uva-elementary-probability-1001-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Er zitten 60 schroeven in een doosje. Eén van deze schroeven heeft zowel
+een defecte kop als een defecte draad. Drie van de schroeven hebben een
+defecte kop en twee hebben een defecte draad. We noemen de
+gebeurtenissen:<br />
+<br />
+* <em>A</em> = {een defecte draad}<br />
+* <em>B</em> = {een defecte kop}<br />
+* <em>C</em> = {zowel een defecte kop als een defecte draad}<br />
+<br />
+Wat is dan de relatieve frequentie van <em>A</em>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1/60
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/60: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2/60
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2/60: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3/60
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+3/60: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4/60
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+4/60: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

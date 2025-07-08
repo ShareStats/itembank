@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-addition-rule-654-nl-moodle/Probability/Elementary Probability/General Rules/Addition rule</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Probability_uva-addition-rule-654-nl_uva-addition-rule-654-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Carla investeert 30% van haar fondsen in staatobligaties en 70% in een
+fonds van veel voorkomende aandelen. De opbrengst van een investering
+over een bepaalde periode is het percentage verandering in prijs
+gedurende deze periode. Als <em>X</em> de jaarlijkse opbrengst van de
+staatobligaties is en <em>Y</em> de jaarlijkse opbrengst van de aandelen, dan
+is de opbrengst van de hele aandelenportefeuille <em>R</em> = 0,3<em>X</em> + 0,7<em>Y</em>.<br />
+<br />
+Uit een gegevensverzameling (dataset) van de opbrengst in haar
+aandelenportefeuille in de periode van 1995 tot 2010 zie je hieronder
+data over de verwachtingwaarden, de standaardafwijkingen, en over de
+correlaties tussen <em>X</em> en <em>Y</em>.<br />
+<br />
+Gebaseerd op deze data hebben wij:</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">X= jaarlijkse opbrengst van staatsobligaties</td>
+<td style="text-align: left;"><em>μ<sub>X</sub></em> = 4,5%</td>
+<td style="text-align: left;"><em>σ<sub>X</sub></em> = 3,9%</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>Y</em> = jaarlijkse opbrengst van aandelen</td>
+<td style="text-align: left;"><em>μ<sub>X</sub></em> = 14,2%</td>
+<td style="text-align: left;"><em>σ<sub>X</sub></em> = 18,2% </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Correlatie tussen <em>X</em> en <em>Y</em></td>
+<td style="text-align: left;">-0,12</td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+<p>Wat is de verwachte opbrengst (<em>μ<sub>R</sub></em>) voor Carla, uitgedrukt in
+procenten?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Het correcte antwoord is: 0.113</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.113</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

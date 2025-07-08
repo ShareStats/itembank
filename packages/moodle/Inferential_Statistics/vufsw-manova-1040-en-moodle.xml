@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-manova-1040-en-moodle/inferential statistics/parametric techniques/anova/manova</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-manova-1040-en_vufsw-manova-1040-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A management consultant was interested in gauging the success of
+different motivation-enhancing practices on employees. She had two
+groups of employees who underwent different types of practices: a group
+team-building exercise and a confidence-building meeting.</p>
+<p>After the motivational practice, participants were asked to endorse
+eight statements relating to their motivation (on a five-point Likert
+scale from 1 = disagree to 5 = agree): (1) I live for succeeding in my
+job,<br />
+(2) I look forward to work when I get up in the morning,<br />
+(3) I do not like missing days through illness,<br />
+(4) I want to work hard to gain a promotion,<br />
+(5) I am going to be more successful this year than last,<br />
+(6) I am in this job to pay the bills,<br />
+(7) People who work harder than me irritate me,<br />
+(8) I often look on the internet for other jobs.</p>
+<p>To ascertain whether the motivational practices had an effect on the
+responses, the management consultant had to employ a MANOVA
+with<strong> [–I–]</strong> dependent variables and a factor with<strong> [–II–]</strong>
+categories. Give always a number as a response!</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Participants were asked to endorse eight statements relating to their
+motivation. Therefore, there are 8 dependent variables. There are 2
+groups of employees: a group team-building exercise and a
+confidence-building meeting. Therefore, the factor has 2 categories.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I. 2 II. 8
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I. 2 II. 7
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+I. 8 II. 2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I. 7 II. 2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

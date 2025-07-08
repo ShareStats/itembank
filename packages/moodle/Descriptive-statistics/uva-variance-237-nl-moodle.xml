@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-variance-237-nl-moodle/Descriptive statistics/Summary Statistics/Measures of Spread/Variance</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-variance-237-nl_uva-variance-237-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In twee aselecte steekproeven uit een normaal verdeelde populatie (n<sub>1</sub>
+= 10 en n<sub>2</sub> = 30) vindt men S<sub>1</sub><sup>2</sup> = 50 en S<sub>2</sub><sup>2</sup> = 40. Een gewogen
+schatting van de populatievariantie σ<sup>2</sup> heeft dan de waarde</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+42.37
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+42.37: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+45
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+45: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+47.63
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+47.63: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

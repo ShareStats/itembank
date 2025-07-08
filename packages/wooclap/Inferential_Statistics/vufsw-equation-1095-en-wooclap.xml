@@ -57,6 +57,16 @@ equation?</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Y = 20 – 10 * X
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Y = 10 – 20 * X
 </p>]]></text>
 <feedback format="html">
@@ -67,7 +77,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Y = 20 – 10 * X
+Y = 20 – 0.5 * X
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -88,16 +98,6 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Y = 10 – 2 * X
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Y = 20 – 0.5 * X
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

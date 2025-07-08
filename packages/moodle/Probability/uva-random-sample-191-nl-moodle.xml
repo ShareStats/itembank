@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-random-sample-191-nl-moodle/Probability/Elementary Probability/Random variables/Random sample</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-random-sample-191-nl_uva-random-sample-191-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>De UvA had in 2007 272 hoogleraren in dienst. Daarvan was 16% vrouw. Hoe
+groot is de kans om in een random sample van 10 hoogleraren tenminste
+30% vrouwen te vinden?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.11
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.11: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.15
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.15: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.45
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.45: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

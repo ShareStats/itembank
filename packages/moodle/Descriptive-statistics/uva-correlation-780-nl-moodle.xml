@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-correlation-780-nl-moodle/Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-correlation-780-nl_uva-correlation-780-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Er zijn twee tests ontworpen om te bepalen of iemand een Prodlaws
+psychose heeft. De een wordt gemeten met waardes tussen de 0 en de 200
+en de ander met waardes tussen 0 en de 1. De onderzoeker berekent
+vervolgens een z-score van ieder van de uitkomsten van de twee tests.
+Dit doet ze om de uitkomsten van de twee tests te vergelijken. Dat kan
+omdat</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+z-scores percentages zijn.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+z-scores percentages zijn.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+z-scores een gemiddelde van 0 en een standaarddeviatie van 1 hebben.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+z-scores een gemiddelde van 0 en een standaarddeviatie van 1 hebben.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+z-scores de variabelen afhankelijk maakt.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+z-scores de variabelen afhankelijk maakt.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

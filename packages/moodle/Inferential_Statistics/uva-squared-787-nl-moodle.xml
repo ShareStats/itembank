@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-squared-787-nl-moodle/Inferential Statistics/NHST/Test statistic/Chi-squared</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-squared-787-nl_uva-squared-787-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Gegeven is de volgende frequentietabel</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">Psycholoog</td>
+<td style="text-align: left;">Geen psycholoog</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Vrouw</td>
+<td style="text-align: left;">25</td>
+<td style="text-align: left;">15</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Man</td>
+<td style="text-align: left;">25</td>
+<td style="text-align: left;">35</td>
+</tr>
+</tbody>
+</table>
+<p>Wat is de <em>X</em><sup>2</sup> waarde van deze data voor de toets op
+onafhankelijkheid?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+X2 = 0.83.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+X2 = 0.83.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+X2 = 1.01.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+X2 = 1.01.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+X2 = 4.17.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+X2 = 4.17.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

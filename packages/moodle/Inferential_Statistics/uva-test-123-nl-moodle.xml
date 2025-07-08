@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-test-123-nl-moodle/Inferential Statistics/Parametric Techniques/t-test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-test-123-nl_uva-test-123-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een onderzoek naar het verschil tussen wel of geen tijdslimiet bij
+het oplossen van problemen, worden 28 proefpersonen onderzocht. Iedere
+proefpersoon maakt zowel een set (vergelijkbare) problemen met en zonder
+tijdslimiet. De score op de test is bij benadering normaal verdeeld. Dan
+worden verschilscores berekend met gemiddelde 3.21 en variantie 2.53. De
+nulhypothese is dat er geen verschil is tussen wel of geen tijdslimiet,
+en de alternatieve hypothese dat er wel een verschil is. Er is geen goed
+idee over welke kant het effect op gaat. Bij toetsing kan de
+nulhypothese</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+worden verworpen bij 1%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+worden verworpen bij 1%: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+niet worden verworpen bij 1% maar wel bij 5%.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+niet worden verworpen bij 1% maar wel bij 5%.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+niet worden verworpen bij 5% maar wel bij 10%.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+niet worden verworpen bij 5% maar wel bij 10%.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+niet worden verworpen bij 10% maar wel bij 20%.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+niet worden verworpen bij 10% maar wel bij 20%.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

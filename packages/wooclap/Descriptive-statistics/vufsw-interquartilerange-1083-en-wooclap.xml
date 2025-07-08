@@ -84,7 +84,7 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-2 shoe sizes
+8 shoe sizes
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -102,16 +102,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-3 shoe sizes
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 1 shoe size
@@ -124,11 +114,21 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-8 shoe sizes
+2 shoe sizes
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3 shoe sizes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

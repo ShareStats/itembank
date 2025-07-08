@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-reliability-201-nl-moodle/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_eur-reliability-201-nl_eur-reliability-201-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Wat is het effect van onevenredig veel gemakkelijke vragen in een prestatietoets voor de betrouwbaarheid van de prestatietoets?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Relatively many easy items means that the test is relatively easy that is suited for people with low ability: it discriminates well between low ability scores. Since high ability people will give correct answers to most of the easy questions the test does not discriminate well between high ability level. So the test is more reliable for low ability than for high ability level.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De betrouwbaarheid van de test is lager in een populatie bestaande uit mensen die een relatief lage vaardigheid hebben dan in een populatie bestaande uit mensen die een relatief hoge vaardigheid hebben.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het is niet mogelijk om op basis van de moeilijkheid van vragen voorspellingen te doen over de hoogte van de betrouwbaarheid van de test in populaties die verschillen wat betreft de gemiddelde vaardigheid.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De betrouwbaarheid van de test zal min of meer gelijk zijn in een populatie bestaande uit mensen die een relatief lage vaardigheid hebben als in een populatie bestaande uit mensen die een relatief hoge vaardigheid hebben.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De betrouwbaarheid van de test is hoger in een populatie met mensen die een relatief lage vaardigheid hebben dan in een populatie bestaande uit mensen die een relatief hoge vaardigheid hebben.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Goed
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

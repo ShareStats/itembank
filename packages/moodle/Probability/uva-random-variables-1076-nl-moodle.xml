@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-random-variables-1076-nl-moodle/Probability/Elementary Probability/Random variables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-random-variables-1076-nl_uva-random-variables-1076-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Welke van de volgende kenmerken van een commerciële nieuwsuitzending op
+TV zijn discrete stochastische variabelen?<br />
+</p>
+<p>I. Aantal reclameblokken (bijv. drie blokken).<br />
+II. Lengte van het eerste reclameblok (bijv. 4 minuten).<br />
+III. Of er fatale auto-ongelukken werden gemeld (0 = er waren geen
+dodelijke ongevallen gemeld, 1 = er is ten minste één dodelijk ongeval
+gemeld).<br />
+IV. Of er regen wordt voorspeld (0 = er wordt ‘geen regen’ voorspeld, 1
+= er wordt ‘wel regen’ voorspeld).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I, II en III zijn discrete stochastische variabelen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I, II en III zijn discrete stochastische variabelen.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I, II en IV zijn discrete stochastische variabelen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I, II en IV zijn discrete stochastische variabelen.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+I, III en IV zijn discrete stochastische variabelen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I, III en IV zijn discrete stochastische variabelen.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+II, III en IV zijn discrete stochastische variabelen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+II, III en IV zijn discrete stochastische variabelen.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

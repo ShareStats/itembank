@@ -64,7 +64,7 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-It affects both the slope and the correlation coefficient.
+It affects the correlation coefficient, but does not affect the slope.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -74,7 +74,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-It affects the correlation coefficient, but does not affect the slope.
+It neither affects the slope, nor the correlation coefficient.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -94,7 +94,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-It neither affects the slope, nor the correlation coefficient.
+It affects both the slope and the correlation coefficient.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-onewayrepeatedmeasuresanova-004-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Oneway repeated measures ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-onewayrepeatedmeasuresanova-004-nl_vufgb-onewayrepeatedmeasuresanova-004-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een experiment wordt opgezet om het effect van cognitieve gedragstherapie op angstklachten te onderzoeken, specifiek bij kinderen gediagnosticeerd met autisme. 100 kinderen gediagnosticeerd met autisme worden aselect toegewezen aan de experimentele groep of controlegroep. Gedurende een periode van drie maanden worden dan angstklachten tweewekelijks gemeten. Ten slotte wordt een herhaalde metingen ANOVA-model opgesteld. Welke <em>between-subject</em> en <em>within-subject</em> factoren staan er in het model?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Between-subject: Autisme; Within-subject: Tijd.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Between-subject: Tijd; Within-subject: Autisme.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Between-subject: Groep; Within-subject: Tijd.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Between-subject: Tijd; Within-subject: Groep.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

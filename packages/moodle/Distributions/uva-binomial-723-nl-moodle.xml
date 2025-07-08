@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-binomial-723-nl-moodle/Distributions/Discrete/Binomial</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-binomial-723-nl_uva-binomial-723-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Peter is een basketbalspeler die in de loop van het seizoen met 80% van
+zijn vrije worpen succes boekt. Tijdens een cruciale wedstrijd mist hij
+even van zijn 12 vrije worpen. Is een dergelijke prestatie slecht voor
+Peter? Wij nemen aan dat zeven worpen onafhankelijke van elkaar zijn.
+(Gebruik tabel van binomiale verdeling toegestaan.)</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ja, omdat hij een kans op misgooien van 50% heeft.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Ja, omdat hij een kans op misgooien van 50% heeft.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ja, omdat hij 80% kans heeft op misgooien.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Ja, omdat hij 80% kans heeft op misgooien.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Nee, omdat de kans op zeven of meer mislukte worpen 0,0039 is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Nee, omdat de kans op zeven of meer mislukte worpen 0,0039 is.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -95,29 +95,9 @@ the reference category (control group = 0, experimental group = 1).</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-EVALUATION= 3.60 – 0.20 * GROUP
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-EVALUATION = 3.40 – 0.20 * GROUP
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-EVALUATION = 0.20 + 3.40 * GROUP
+EVALUATION = 3.60 + 3.40 * GROUP
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -135,6 +115,16 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+EVALUATION= 3.60 – 0.20 * GROUP
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 EVALUATION = 3.40 – 3.60 * GROUP
@@ -147,7 +137,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-EVALUATION = 3.60 + 3.40 * GROUP
+EVALUATION = 3.40 – 0.20 * GROUP
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+EVALUATION = 0.20 + 3.40 * GROUP
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

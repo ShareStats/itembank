@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Equation-810-nl-moodle/Inferential Statistics/Regression/Equation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Equation-810-nl_uu-Equation-810-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoeker is geinteresseerd in de vraag of er op de basisschool een verband bestaat tussen de populariteit van kinderen (X) en de interesse van leerkrachten in de kinderen (Y). De volgende gegevens van een steekproef van kinderen die op de basisschool zitten zijn bekend: n = 12, <span class="math inline">\(\sum{XY}\)</span> = 710, <span class="math inline">\(\sum{X}\)</span> = 60, <span class="math inline">\(\sum{Y}\)</span> = 130, <span class="math inline">\(\sum{X^2}\)</span> = 375, <span class="math inline">\(\sum{Y^2}\)</span> = 1466</p>
+<p>Welke score op interesse van leerkracht (afgerond op het dichtsbij gelegen gehele getal) voorspel je voor iemand met populariteitsscore 7?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+11
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+12
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

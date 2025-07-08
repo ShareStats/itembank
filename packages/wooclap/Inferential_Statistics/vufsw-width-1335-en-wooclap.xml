@@ -56,13 +56,13 @@ confidence interval is shown running from .230 to .385.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-With 95% confidence, the population value fluctuates between .230 and .385.
+If we assume that this sample is among the 95% of samples that contain the population value, the correlation in the population is between .230 and .385.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -86,13 +86,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-If we assume that this sample is among the 95% of samples that contain the population value, the correlation in the population is between .230 and .385.
+With 95% confidence, the population value fluctuates between .230 and .385.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>

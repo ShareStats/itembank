@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Kolmogorov-Smirnov-801-en-moodle/Assumptions/Normality/Kolmogorov-Smirnov</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Assumptions_uu-Kolmogorov-Smirnov-801-en_uu-Kolmogorov-Smirnov-801-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A friend of yours knows you are taking a statistics class and wants to ask you a question about his thesis. He is using multiple linear regression and calculates the Kolmogorov-Smirnov test. The test gives a p-value of <span class="math inline">\(.054\)</span> and your friend is unsure if he has violated the homoscedasticity assumption. What advice should you give your friend if <span class="math inline">\(\alpha =.05\)</span> is used?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Homoscedasticity is upheld because the p-value is greater than .05.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Homoscedasticity is violated because the p-value is greater than .05.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+There is some evidence that homoscedasticity may be violated, but it is important to know the sample size before drawing a definitive conclusion.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+You cannot help your friend because this test does not address the homoscedasticity assumption.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

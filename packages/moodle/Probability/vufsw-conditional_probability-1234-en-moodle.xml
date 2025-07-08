@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-conditional_probability-1234-en-moodle/probability/elementary probability/conditional probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_vufsw-conditional_probability-1234-en_vufsw-conditional_probability-1234-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In a debate competition at a secondary school, half of the participants
+were asked to wear a suit, while the other half were asked to wear a
+t-shirt. The table below shows how much has been won and lost.</p>
+<table class="table_shade">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>
+<br />
+</td>
+<td>
+won
+</td>
+<td>
+lost
+</td>
+</tr>
+<tr class="even">
+<td>
+Suit
+</td>
+<td>
+22
+</td>
+<td>
+28
+</td>
+</tr>
+<tr class="odd">
+<td>
+T-shirt
+</td>
+<td>
+28
+</td>
+<td>
+22
+</td>
+</tr>
+</tbody>
+</table>
+<p>What is the relative risk of losing, in which the participants wearing a
+suit are compared with the participants wearing a t-shirt?<br />
+And what is the correct interpretation of this number?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Chance of losing with suit =0.56 (28/50); chance of losing with t-shirt
+=0.44 (22/50). 0.56/0.44=1.27, thus 1.27; those who wore a suit had a
+1.27 times greater chance of losing than those wearing a t-shirt.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.27; those who wore a t-shirt had a 1.27 times greater chance of losing than those who wore a suit.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.12; those who wore a t-shirt had a 0.12 times greater chance of losing than those who wore a suit.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.79; those who wore a suit had a 0.79 times greater chance of losing than those wearing a t-shirt.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.27; those who wore a suit had a 1.27 times greater chance of losing than those wearing a t-shirt.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

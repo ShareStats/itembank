@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Twoway-ANOVA-869-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Twoway-ANOVA-869-nl_uu-Twoway-ANOVA-869-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Binnen een onderzoek naar de effectiviteit van twee therapieën zijn vier even grote groepen gevormd: een groep vrouwen welke therapie A volgt, een groep mannen welke therapie A volgt, een groep vrouwen welke therapie B volgt, en een groep mannen welke therapie B volgt. Na afloop van het onderzoek worden de volgende gemiddelden op een afhankelijke variabele gerapporteerd:
+Vrouwen, therapie A: 95.00
+Mannen, therapie A: 25.00
+Vrouwen, therapie B: 35.00
+Mannen, therapie B: 85.00</p>
+<p>Ga er van uit dat alle verschillen significant zijn. Welke uitspraak correspondeert dan met deze gegevens?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Er is sprake van zowel een hoofdeffect van sekse als een hoofdeffect van therapie.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Er is sprake van een hoofdeffect van sekse en een interactie-effect tussen sekse en therapie.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Er is sprake van een hoofdeffect van therapie en een interactie-effect tussen sekse en therapie.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Er is alleen sprake van een interactie-effect tussen therapie en sekse.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

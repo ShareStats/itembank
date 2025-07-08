@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-dummies-001-en-moodle/Inferential Statistics/Regression/Dummies</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-dummies-001-en_vufgb-dummies-001-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The following three group means are found: <span class="math inline">\(\bar{y}_1 = 12\)</span>, <span class="math inline">\(\bar{y}_2 = 8\)</span> and <span class="math inline">\(\bar{y}_3 = 10\)</span>. Group 3 is the reference category. We look at the corresponding estimated ANOVA model, but present it as a regression model with dummy variables. The formula is: <span class="math inline">\(\hat{y} = 10 + 2Z_1 - 2Z_2\)</span>. What would the estimated model look like if group 1 were chosen as the reference category?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\hat{y} = 10 - 2Z_1 + 2Z_2\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\hat{y} = 12 + 2Z_1 - 2Z_2\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\hat{y} = 12 - 2Z_1 + 2Z_2\)</span>
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\hat{y} = 12 - 4Z_1 - 2Z_2\)</span>
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-oddsratio-003-nl-moodle/Descriptive statistics/Summary Statistics/Odds ratio, Descriptive statistics/Data representation/Tables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-oddsratio-003-nl_vufgb-oddsratio-003-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>(Chronische) depressiviteit komt bij mannen en vrouwen in verschillende mate voor. Bereken op basis van onderstaande kruistabel de odds-ratio voor depressiviteit om deze samenhang weer te geven.</p>
+<p><img src="@@PLUGINFILE@@/vufgb-oddsratio-003-nl-table01.jpg" /></p>
+<p>Formule voor de odds ratio:</p>
+<p><span class="math inline">\(\theta = \frac{\frac{\pi_{1}}{(1-\pi_{1})}}{\frac{\pi_{2}}{(1-\pi_{2})}}\)</span></p>
+</p>]]></text>
+<file name="vufgb-oddsratio-003-nl-table01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.00
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.75
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.81
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.00
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

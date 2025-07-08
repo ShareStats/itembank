@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-distribution-1877-nl-moodle/Distributions/Continuous/t-distribution</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-distribution-1877-nl_uva-distribution-1877-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Uit ieder van twee normaal verdeelde populaties met gelijke varianties
+wordt een steekproef getrokken.<br />
+steekproef 1: n = 15, gemiddelde = 42, sd = 12.37<br />
+steekproef 2: n = 11, gemiddelde = 53, sd = 6.99<br />
+De gepoolde variantieschatter heeft als waarde 109.62. Er wordt getoetst
+of de populatiegemiddelden gelijk zijn. De bijbehorende
+toetsingsgrootheid volgt, als de nulhypothese waar is,</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+een T-verdeling met 26 vrijheidsgraden
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+een T-verdeling met 26 vrijheidsgraden: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+een F-verdeling met 15 en 11 vrijheidsgraden
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+een F-verdeling met 15 en 11 vrijheidsgraden: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+een F-verdeling met 14 en 10 vrijheidsgraden
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+een F-verdeling met 14 en 10 vrijheidsgraden: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+een T-verdeling met 24 vrijheidsgraden
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+een T-verdeling met 24 vrijheidsgraden: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

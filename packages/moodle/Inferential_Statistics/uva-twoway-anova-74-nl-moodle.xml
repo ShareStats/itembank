@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-twoway-anova-74-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-twoway-anova-74-nl_uva-twoway-anova-74-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>De nulhypothese voor de interactie van een ANOVA met twee factoren A en
+B met ieder twee niveau's (A1, A2 en B1, B2), stelt dat op niveau A1
+het verschil in gemiddelden tussen B1 en B2 gelijk is aan het verschil
+in gemiddelden tussen B1 en B2 op A2. Dit betekent dat<br />
+I. de verschillen tussen de niveaus van B1 en B2 hetzelfde zijn op A1 en
+op A2.<br />
+II. de gemiddelden bij B1 en B2 hetzelfde zijn op A1 als op A2.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+I is waar en II is onwaar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is waar en II is onwaar.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is onwaar en II is waar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is onwaar en II is waar.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Beide zijn onwaar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Beide zijn onwaar.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

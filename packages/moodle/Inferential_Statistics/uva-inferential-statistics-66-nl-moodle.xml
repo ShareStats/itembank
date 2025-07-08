@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-inferential-statistics-66-nl-moodle/Inferential Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-inferential-statistics-66-nl_uva-inferential-statistics-66-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Bij controversiële onderwerpen in de psychologie worden vaak argumenten
+gebruikt die weinig inhoudelijk zijn, maar wel persoonlijk. Zo wordt een
+mannelijke onderzoeker die een sekseverschil heeft gevonden in gemiddeld
+IQ door een vrouwelijke collega uitgemaakt voor seksist. Die mannelijke
+onderzoeker reageert vervolgens door te schrijven dat de vrouwelijke
+collega duidelijk een vooringenomen feministe is wiens onderzoek daarom
+ook niet te vertrouwen is. Hoe worden dergelijke argumenten ook wel
+genoemd?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+discriminerende argumenten
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+discriminerende argumenten: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+ad hominem argumenten
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+ad hominem argumenten: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+kwetsende argumenten
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+kwetsende argumenten: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

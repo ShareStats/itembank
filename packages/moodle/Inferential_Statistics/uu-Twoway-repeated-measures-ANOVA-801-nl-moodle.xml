@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Twoway-repeated-measures-ANOVA-801-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Twoway repeated measures ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Twoway-repeated-measures-ANOVA-801-nl_uu-Twoway-repeated-measures-ANOVA-801-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Nachtmerries hebben een negatieve invloed op schoolprestaties. In een onderzoek naar het effect van slaapproblemen van leerlingen op leerresultaten doet een onderzoeker een experiment. Via doorverwijzingen van huisartsen heeft de onderzoeker de beschikking gekregen over een groep van 60 leerlingen die aan nachtmerries lijden. De groep wordt random ingedeeld in drie groepen:</p>
+<ul>
+<li>Groep 1: Therapie waarbij geleerd wordt invloed uit te oefenen op het verloop van de droom.</li>
+<li>Groep 2: Een therapie met ontspanningsoefeningen voor het slapen gaan.</li>
+<li>Groep 3: Controle.</li>
+</ul>
+<p>Alle deelnemers tellen een week lang (7 nachten) het aantal keer dat men per nacht wakker wordt van een nachtmerrie. Het verloop over de tijd van het aantal nachtmerries kan zo voor de drie groepen worden geanalyseerd.</p>
+<p>Met welke analysetechniek kan de onderzoeker het beste vaststellen of het verloop van het aantal nachtmerries per nacht verschilt tussen de groepen?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Meerweg ANOVA.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Meerweg ANCOVA.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Herhaalde metingenanalyse.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is correct.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Mixed designanalyse.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

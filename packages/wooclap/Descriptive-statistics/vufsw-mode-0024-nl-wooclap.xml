@@ -57,27 +57,7 @@ het werk te reizen (in uren).</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De mediaan heeft een lagere score (lager aantal uren) dan de modus.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Zowel de mediaan als het gemiddelde hebben lagere scores (een lager aantal uren) dan de modus.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De score van het gemiddelde is lager (het aantal uren is lager) dan de score van de modus.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -92,6 +72,26 @@ De modus heeft de laagste score (laagste aantal uren) van de drie grootheden.
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De mediaan heeft een lagere score (lager aantal uren) dan de modus.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De score van het gemiddelde is lager (het aantal uren is lager) dan de score van de modus.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

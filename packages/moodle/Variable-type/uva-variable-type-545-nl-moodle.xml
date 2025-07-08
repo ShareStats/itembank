@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-variable-type-545-nl-moodle/Variable type</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Variable-type_uva-variable-type-545-nl_uva-variable-type-545-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>We nemen uit een grote populatie een steekproef van 7 personen en meten
+hun lichaamstemperatuur in graden Celsius, met als uitkomsten: 37.6,
+37.1, 38.0, 37.5, 36.9, 37.1, 37.3. Deze variabele wordt gemeten op een</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+discrete intervalschaal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+discrete intervalschaal: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+continue intervalschaal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+continue intervalschaal: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+discrete ratioschaal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+discrete ratioschaal: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+continue ratioschaal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+continue ratioschaal: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

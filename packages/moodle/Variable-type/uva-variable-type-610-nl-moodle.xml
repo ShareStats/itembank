@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-variable-type-610-nl-moodle/Variable type</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Variable-type_uva-variable-type-610-nl_uva-variable-type-610-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>De polsslag van een proefpersoon, uitgedrukt in aantal slagen per
+minuut, is een voorbeeld van een</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+diskrete, kwalitatieve variabele
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+diskrete, kwalitatieve variabele: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+diskrete, kwantitatieve variabele
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+diskrete, kwantitatieve variabele: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+continue, kwalitatieve variabele
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+continue, kwalitatieve variabele: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+continue, kwantitatieve variabele
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+continue, kwantitatieve variabele: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

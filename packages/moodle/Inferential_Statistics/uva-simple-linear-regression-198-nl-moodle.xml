@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-simple-linear-regression-198-nl-moodle/Inferential Statistics/Regression/Simple linear regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-simple-linear-regression-198-nl_uva-simple-linear-regression-198-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>De regressieformule om iemands lengte (y) te voorspellen vanuit haar of
+zijn gewicht (x) is<br />
+?= 100 + x<br />
+Wanneer in een groep de standaardafwijking van lengte drie keer zo groot
+is als die van gewicht is in die groep de correlatie tussen lengte en
+gewicht gelijk aan</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.33
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.33: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.5: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.67
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.67: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

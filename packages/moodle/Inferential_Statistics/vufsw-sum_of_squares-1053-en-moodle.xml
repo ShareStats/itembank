@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-sum_of_squares-1053-en-moodle/inferential statistics/regression/sum of squares</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-sum_of_squares-1053-en_vufsw-sum_of_squares-1053-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A scientist was interested in the success of a newly developed sleep aid
+called ‘Night Owl’ on quality of sleep and the number of hours spent
+asleep. She recruited 10 participants who were randomly allocated to
+receive either a dose of Night Owl or a placebo for one week(5 Night Owl and 5 placebo). The
+scientist measured the mean time spent asleep (rounded up to the nearest
+hour) and the quality of sleep (on a scale from 0 (poorest quality) to
+10 (best possible quality)) over the course of two weeks.</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td>
+<strong>Group</strong>
+</td>
+<td>
+<strong>Quality</strong>
+</td>
+<td>
+<strong>Quantity</strong>
+</td>
+</tr>
+<tr class="even">
+<td rowspan="5">
+Night Owl
+</td>
+<td class="tvcss_2">
+4
+</td>
+<td class="tvcss_2">
+4
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_2">
+6
+</td>
+<td class="tvcss_2">
+7
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_2">
+3
+</td>
+<td class="tvcss_2">
+3
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_2">
+5
+</td>
+<td class="tvcss_2">
+8
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_2">
+5
+</td>
+<td class="tvcss_2">
+4
+</td>
+</tr>
+<tr class="odd">
+<td rowspan="5">
+Placebo
+</td>
+<td class="tvcss_2">
+4
+</td>
+<td class="tvcss_2">
+7
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_2">
+8
+</td>
+<td class="tvcss_2">
+5
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_2">
+4
+</td>
+<td class="tvcss_2">
+4
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_2">
+6
+</td>
+<td class="tvcss_2">
+6
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_2">
+2
+</td>
+<td class="tvcss_2">
+1
+</td>
+</tr>
+<tr class="even">
+<td>
+Grand mean
+</td>
+<td class="tvcss_2">
+4.7
+</td>
+<td class="tvcss_2">
+4.9
+</td>
+</tr>
+</tbody>
+</table>
+<p>The total Sum of Squares (SS) for Quality equals … . <em>Round to one
+decimal.</em></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The formula for SStotal for Quality is<br />
+Sum ( Quality-mean(Quality)^2 )</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>26.1</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

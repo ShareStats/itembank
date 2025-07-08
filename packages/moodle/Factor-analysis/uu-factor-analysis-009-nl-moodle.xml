@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-factor-analysis-009-nl-moodle/Factor analysis</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Factor-analysis_uu-factor-analysis-009-nl_uu-factor-analysis-009-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een factoranalyse wordt uitgevoerd op vijftien items die bij kinderen de angst voor Sinterklaas moeten meten. De hoofdcomponentenanalyse met obliminrotatie resulteert in twee statistische en inhoudelijke interessante dimensies. Factor A betreft de angst voor Sinterklaas en factor B de angst voor Zwarte Piet.</p>
+<p>Beoordeel de volgende twee uitspraken over factoranalyse.</p>
+<ol style="list-style-type: upper-roman">
+<li>In het algemeen geldt dat factoren met een eigenwaarde groter dan 1 meer testvariantie verklaren dan een afzonderlijk item.</li>
+<li>Als een item (na de rotatie) een hoge factorlading (|a| &gt; .40) heeft op factor A, hangt factor A sterk samen met factor B.</li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Stelling 1: De eigenwaarde wordt berekend door:</p>
+<ul>
+<li><p>Per item wordt gekeken hoeveel variantie van dat item verklaard wordt door de factor</p></li>
+<li><p>Dit wordt omgezet in een proportie (bijvoorbeeld: .60 (=60%) van het item wordt verklaard door de factor)</p></li>
+<li><p>De proportie van alle items worden bij elkaar opgeteld om de eigenwaarde van een factor te bepalen.</p></li>
+</ul>
+<p>Elk item heeft dus een variantie van 1.00. Wanneer een factor een eigenwaarde &gt;1.00 heeft, verklaart de factor meer variantie dan een afzonderlijk item.</p>
+<p>Stelling 2: De factorlading van één item op één van de factoren zegt niets over de correlatie tussen de factoren.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is juist, II is juist
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+I is juist, II is niet juist
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is niet juist, II is juist
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is niet juist, II is niet juist
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

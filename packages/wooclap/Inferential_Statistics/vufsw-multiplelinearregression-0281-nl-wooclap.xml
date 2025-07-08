@@ -54,9 +54,19 @@ heeft het sterkste effect op de “FREQUENCY OF SEX DURING LAST YEAR”?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De variabele met het sterkste effect op de FREQUENCY OF SEX DURING LAST YEAR is <strong>AGE</strong>. Dat is gebaseerd op -0.475.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De variabele met het sterkste effect op de FREQUENCY OF SEX DURING LAST YEAR is <strong>GENERAL HAPPINESS</strong>. Dat is gebaseerd op -3.094.
+De variabele met het sterkste effect op de FREQUENCY OF SEX DURING LAST YEAR is <strong>MARITAL</strong>. Dat is gebaseerd op 1.372.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -76,7 +86,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De variabele met het sterkste effect op de FREQUENCY OF SEX DURING LAST YEAR is <strong>RACE</strong>. Dat is gebaseerd op 0.125.
+De variabele met het sterkste effect op de FREQUENCY OF SEX DURING LAST YEAR is <strong>GENERAL HAPPINESS</strong>. Dat is gebaseerd op -3.094.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -86,21 +96,11 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De variabele met het sterkste effect op de FREQUENCY OF SEX DURING LAST YEAR is <strong>MARITAL</strong>. Dat is gebaseerd op 1.372.
+De variabele met het sterkste effect op de FREQUENCY OF SEX DURING LAST YEAR is <strong>RACE</strong>. Dat is gebaseerd op 0.125.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De variabele met het sterkste effect op de FREQUENCY OF SEX DURING LAST YEAR is <strong>AGE</strong>. Dat is gebaseerd op -0.475.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

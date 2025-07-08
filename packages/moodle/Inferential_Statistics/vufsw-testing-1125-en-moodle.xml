@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-testing-1125-en-moodle/inferential statistics/confidence intervals/testing</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-testing-1125-en_vufsw-testing-1125-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher draws a sample of 50 Dutch citizens and examines whether
+the confidence of the Dutch in politics is higher than the European
+average, of which we have a reliable population value based on previous
+studies.</p>
+<p>The sample mean is 6.38 (on a scale of 0-10) and the standard deviation
+is 1.55. The European average is 6.0. Test, with alpha = 0.05, whether
+the confidence of the Dutch in politics is higher than the European
+average. What is the conclusion?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>You can not reject the H<sub>a</sub> hypothesis, you can only reject the
+H<sub>0</sub> hypothesis.<br />
+In order to undertake hypothesis testing you need to express your
+research hypothesis as a null and alternative hypothesis. The null
+hypothesis and alternative hypothesis are statements regarding the
+differences or effects that occur in the population. You will use your
+sample to test which statement (i.e., the null hypothesis or alternative
+hypothesis) is most likely (although technically, you test the evidence
+against the null hypothesis). You can reject or not reject the
+H<sub>0 </sub>hypothesis.</p>
+<p>The H<sub>0</sub> hypothesis in this example states that the mean
+confidence of the Dutch in politics is 6.38. The H<sub>a</sub>
+hypothesis is that the mean is higher than 6.38.</p>
+<p>se=1.55/(sqrt 50)=0.22</p>
+<p>t= (6.38-6.00)/0.22=1.73</p>
+<p>The t critical value (see table) for one tailed test (df=50) is 1.68.
+So, there is enough evidence to reject H<sub>0</sub></p>
+<p>If you want to learn more about hypothesis testing watch
+this <a href="https://www.youtube.com/watch?v=1xwNztgZ7Ho&amp;list=PLyLpEs0x9BnkUdochj7JEC-2javLshojj&amp;index=1">clip</a>.</p>
+<p>If you want to learn more about the statistical test about the mean
+watch this
+<a href="https://www.youtube.com/watch?v=9V6L3Zu3PP0&amp;index=3&amp;list=PLyLpEs0x9BnkUdochj7JEC-2javLshojj">clip</a>.</p>
+<p>Language<br />
+Nederlands</p>
+<p>Levels of Difficulty<br />
+Difficult</p>
+<p>M&amp;T Hypothesis testing: proportions<br />
+Default value</p>
+<p>M&amp;T Multivariate Analyse<br />
+Default value</p>
+<p>M&amp;T Multivariate Analyse CW<br />
+Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+There is <em>not</em> enough evidence to reject H<sub>0</sub>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+There is enough evidence to reject H<sub>0</sub>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+There is <em>not</em> enough evidence to reject H <sub>a.</sub>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+There is enough evidence to reject H<sub>a.</sub>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

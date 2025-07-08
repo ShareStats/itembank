@@ -66,21 +66,11 @@ volgende beweringen over de populatie aannemelijk?<br />
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Beide beweringen zijn aannemelijk
+Bewering 1 niet; bewering 2 wel
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Bewering 1 wel; bewering 2 niet
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>
@@ -96,11 +86,21 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Bewering 1 niet; bewering 2 wel
+Beide beweringen zijn aannemelijk
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Bewering 1 wel; bewering 2 niet
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

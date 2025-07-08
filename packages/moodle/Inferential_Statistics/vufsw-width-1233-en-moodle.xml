@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-width-1233-en-moodle/inferential statistics/confidence intervals/width</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-width-1233-en_vufsw-width-1233-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>If you increase the sample size by a factor of four, the width of the
+confidence interval will……</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The answer: <em>increase by a factor of two </em>is <strong>wrong</strong>. It is true that
+the factor is 2, but increasing the sample size decreases the width of
+confidence intervals because it decreases the standard error. The
+standard error for a population percentage has the square root of the
+sample size in the denominator.</p>
+<p>The answer: <em>increase by a factor of 4</em> is <strong>wrong</strong>. Increasing the
+sample size decreases the width of confidence intervals because it
+decreases the standard error. Also, the standard error for a population
+percentage has the square root of the sample size in the denominator.
+Hence, increasing the sample size by a factor of 4 (i.e., multiplying it
+by 4) is equivalent to multiplying the standard error by 1/2.</p>
+<p>The answer: <em>decrease by a factor of two</em> is <strong>correct</strong>. The standard
+error for a population percentage has the square root of the sample size
+in the denominator. Hence, increasing the sample size by a factor of 4
+(i.e., multiplying it by 4) is equivalent to multiplying the standard
+error by 1/2. Hence, the interval will be half as wide.</p>
+<p>The answer: <em>decrease by a factor of 4</em> is <strong>wrong</strong>. It is true that it
+decreases but not by a factor of 4. The standard error for a population
+percentage has the square root of the sample size in the denominator.
+Hence, increasing the sample size by a factor of 4 (i.e., multiplying it
+by 4) is equivalent to multiplying the standard error by 1/2. Hence, the
+interval will be half as wide.</p>
+<p>If you would like to know more about sample sizes watch this
+<a href="https://www.youtube.com/watch?v=QHzMPzHQgEg&amp;index=9&amp;list=PLyLpEs0x9BnmPTE2RRRJW058Nf7R_2xQa">clip</a>.</p>
+<p>Language<br />
+Nederlands</p>
+<p>Levels of Difficulty<br />
+Difficult</p>
+<p>M&amp;T BIS<br />
+Default value</p>
+<p>M&amp;T Distributions<br />
+Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+decrease by a factor of 4.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+decrease by a factor of two.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+increase by a factor of two.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+increase by a factor of 4.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

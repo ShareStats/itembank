@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-manova-1040-nl-moodle/inferential statistics/parametric techniques/anova/manova</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-manova-1040-nl_vufsw-manova-1040-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een managementconsultant was geïnteresseerd in het meten van het succes
+van verschillende motivatie bevorderende <em>practises </em>bij werknemers. Ze
+had twee groepen werknemers die verschillende soorten <em>practises</em>
+ondergingen: een groep met een teambuilding opdracht en een
+vertrouwensopbouwende bijeenkomst.<br />
+ <br />
+Na de motiverende <em>practise</em> werd de deelnemers gevraagd acht stellingen
+met betrekking tot hun motivatie in te vullen (op een Likert-schaal van
+vijf punten van 1 = niet mee eens tot 5 = mee eens):<br />
+(1) ik leef om te slagen in mijn werk,<br />
+(2) ik kijk uit naar het werk als ik ’s morgens opsta,<br />
+(3) ik hou er niet van om dagen door ziekte te missen,<br />
+(4) ik wil hard werken om promotie te krijgen,<br />
+(5) ik zal dit jaar succesvoller zijn dan vorig jaar,<br />
+(6) Ik doe dit werk om de rekeningen te betalen,<br />
+(7) Mensen die harder werken dan ik irriteren me,<br />
+(8) Ik zoek vaak op internet naar andere banen.</p>
+<p>Om na te gaan of de motiverende practises effect hadden op de gegeven
+antwoorden, moest de managementconsultant een MANOVA test uitvoeren met
+<strong>[–I–] </strong>afhankelijke variabelen en een factor met <strong>[–II–]</strong>
+categorieën. Geef een rond getal als antwoord.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Participants were asked to endorse eight statements relating to their
+motivation. Therefore, there are 8 dependent variables. There are 2
+groups of employees: a group team-building exercise and a
+confidence-building meeting. Therefore, the factor has 2 categories.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+I. 8 II. 2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I. 7 II. 2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I. 2 II. 7
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I. 2 II. 8
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

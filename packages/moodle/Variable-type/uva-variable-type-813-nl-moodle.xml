@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-variable-type-813-nl-moodle/Variable type</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Variable-type_uva-variable-type-813-nl_uva-variable-type-813-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Wanneer elke waarneming van een variabele behoort tot één bepaalde
+categorie van een verzameling categorieën, is de variabele ‘A’ continu
+en ‘B’ kwantitatief.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+‘A’ is juist en ‘B’ is onjuist
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+‘A’ is juist en ‘B’ is onjuist: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+‘A’ is onjuist en ‘B’ is juist
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+‘A’ is onjuist en ‘B’ is juist: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+‘A’ en ‘B’ zijn beide onjuist
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+‘A’ en ‘B’ zijn beide onjuist: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

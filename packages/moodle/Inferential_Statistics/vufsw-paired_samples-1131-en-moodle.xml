@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-paired_samples-1131-en-moodle/inferential statistics/parametric techniques/t-test/paired samples</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-paired_samples-1131-en_vufsw-paired_samples-1131-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In an experiment, 20 randomly selected subjects receive training to
+improve their mathematics skills. Their performance was measured before
+the training took place (measurement 1) and afterwards (measurement 2)
+on a scale of 1 to 10. A higher number means better performance. The
+results can be found below. A researcher wants to check whether the
+training increases the score and tests one-sided with alpha = 0.05.</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td>
+N
+</td>
+<td>
+mean score measurement 1 (before)
+</td>
+<td>
+mean score measurement 2 (afterwards)
+</td>
+<td>
+  mean difference     
+</td>
+<td>
+standard error (se) of the mean score difference
+</td>
+</tr>
+<tr class="even">
+<td>
+20
+</td>
+<td>
+         5.75
+</td>
+<td>
+         6.35
+</td>
+<td>
+       0.60                      
+</td>
+<td>
+0.24
+</td>
+</tr>
+</tbody>
+</table>
+<p>Calculate the t-value associated with testing the researcher’s
+hypothesis.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Dependent t-test</p>
+<p>H<sub>0 </sub> mean(2)-mean (1)=0</p>
+<p>H<sub>a </sub> mean (2)-mean (1) does not equal 0</p>
+<p>t=(mean(2)-mean(1))/se= 0.6/0.24= 2.5</p>
+<p>If you want to know more about the dependent t test watch this
+<a href="https://www.youtube.com/watch?v=UyQuY-uo918&amp;index=8&amp;list=PLyLpEs0x9Bnl2e68nd7M6lecUqUNu2Sgn">clip</a></p>
+<p>Language<br />
+Nederlands</p>
+<p>Levels of Difficulty<br />
+Difficult</p>
+<p>M&amp;T BIS<br />
+Default value</p>
+<p>M&amp;T Hypothesis testing: means<br />
+Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.44
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.01
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.82
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2.50
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

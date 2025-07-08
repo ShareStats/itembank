@@ -62,16 +62,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Het bereik (de <em>range</em>) kijkt alleen naar de uiteinden van de verdeling, en de standaarddeviatie is gebaseerd op alle observaties.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Het bereik (de <em>range</em>) drukt de variabiliteit uit op een niet-gestandaardiseerde manier, terwijl de standaarddeviatie is gebaseerd op z-scores.
@@ -79,6 +69,16 @@ Het bereik (de <em>range</em>) drukt de variabiliteit uit op een niet-gestandaar
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Het bereik (de <em>range</em>) kijkt alleen naar de uiteinden van de verdeling, en de standaarddeviatie is gebaseerd op alle observaties.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

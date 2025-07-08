@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-ancova-102-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-ancova-102-nl_uu-ancova-102-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Stichting Skepsis werpt een kritische blik op buitengewone beweringen, pseudowetenschappelijke theorieën, dubieuze therapieën en paranormale overtuigingen. Er is in dit kader een experiment gedaan naar de mate van scepsis van academici bij het beoordelen van onderzoeksresultaten. Respondenten werden random toegewezen aan drie informatiebronnen:</p>
+<p>1 = wetenschapsbijlage van de krant,
+2 = peer reviewed wetenschappelijk tijdschrift,
+3 = populair wetenschappelijk tijdschrift.</p>
+<p>Naast deze experimentele conditie werden ook de variabele SEKSE en de variabele LEEFTIJD (in jaren) betrokken in de analyse.</p>
+<p>Stel dat geen van de noodzakelijke assumpties is geschonden, welke analysetechniek is dan het meest geschikt voor het analyseren van de relaties tussen de onafhankelijke variabelen en de afhankelijke variabele?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Uitleg: De afhankelijke variabele is de beoordeling die de respondenten geven aan de artikelen. Hoe dit gemeten is, wordt niet duidelijk. Echter wijzen alle antwoordcategorieën op een variabele van minimaal interval-meetniveau. De onafhankelijke variabele in dit onderzoek is het type informatiebron (nominaal meetniveau, 3 categorieën). Daarnaast is het voor de hand liggend om te controleren op SEKSE (nominaal, 2 categorieën) en LEEFTIJD (in jaren, dus ratio meetniveau). In deze cursus is geen aandacht besteedt aan nominale covariaten, zodoende wordt SEKSE meegenomen als onafhankelijke variabele. Dit brengt het totaal op twee onafhankelijke variabelen, één covariaat en één afhankelijke variabele. Dit levert een tweeweg ANCOVA op als passende analysetechniek.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tweeweg ANOVA
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Tweeweg ANCOVA
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Drieweg ANCOVA
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Drieweg ANOVA
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

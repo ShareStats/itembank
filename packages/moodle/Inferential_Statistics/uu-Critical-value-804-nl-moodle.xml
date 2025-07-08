@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Critical-value-804-nl-moodle/Inferential Statistics/NHST/Significance level/Critical value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Critical-value-804-nl_uu-Critical-value-804-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In de zomer van 2009 werden 944 militairen ondervraagd of ze het ermee eens waren dat ze zich onmiddellijk uit Irak moesten terugtrekken. Volgens politici zou “slechts een kwart van de militairen” het hier mee eens zijn. In de steekproef waren 274 militairen het met deze stelling eens. De rest was het er niet mee eens. Blijkt uit deze data dat de verdeling eens/oneens van de politici klopt? Toets bij <span class="math inline">\(\alpha = .01\)</span> .</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nee, want 2.86 &lt; 3.84 (= kritieke waarde)
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nee want 8.16 &lt; 9.21 (= kritieke waarde)
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nee, want 0.21 &lt; 0.25 (= kritieke waarde)
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Ja, want 8.16 &gt; 6.63 (= kritieke waarde)
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

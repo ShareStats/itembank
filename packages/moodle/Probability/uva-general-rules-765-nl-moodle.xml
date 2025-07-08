@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-general-rules-765-nl-moodle/Probability/Elementary Probability/General Rules</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Probability_uva-general-rules-765-nl_uva-general-rules-765-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Je gooit met drie dobbelstenen. Stel X is het aantal vieren. Hieronder
+zie je een kansverdeling van X. Wat is dan de kans P(X = 3)?</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">De waarde van X</td>
+<td style="text-align: left;">0</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">3</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">P(X = x)</td>
+<td style="text-align: left;">125/216</td>
+<td style="text-align: left;">75/216</td>
+<td style="text-align: left;">15/216</td>
+<td style="text-align: left;">?</td>
+</tr>
+</tbody>
+</table>
+<p><br />
+(Geef je antwoord in de vorm van een breuk: X/Y).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Het correcte antwoord is: 0.0046</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0046</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

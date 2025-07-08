@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-normal-1369-nl-moodle/Distributions/Continuous/Normal</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-normal-1369-nl_uva-normal-1369-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>88% van de jongens op middelbare scholen had een bijbaantje in de zomer.
+Voor de meisjes op dezelfde scholen is het percentage 82%. Een
+onderzoeker neemt twee aselecte steekproeven: één onder jongens en de
+andere onder meisjes. Iedere steekpoef bevat 500 studenten. Wat is bij
+benadering de distributie van het verschil tussen de proporties van deze
+twee steekproeven?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het is een normaalverdeling met een gemiddelde van 0,06 en standaardfout van 0,017.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Het is een normaalverdeling met een gemiddelde van 0,06 en standaardfout van 0,017.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het is een normaalverdeling met een gemiddelde van 0,06 en standaardfout van 0,018.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Het is een normaalverdeling met een gemiddelde van 0,06 en standaardfout van 0,018.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Het is een normaalverdeling met een gemiddelde van 0,06 en standaardfout van 0,023.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Het is een normaalverdeling met een gemiddelde van 0,06 en standaardfout van 0,023.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het is een normaalverdeling met een gemiddelde van 0,06 en standaardfout van 0,035.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Het is een normaalverdeling met een gemiddelde van 0,06 en standaardfout van 0,035.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

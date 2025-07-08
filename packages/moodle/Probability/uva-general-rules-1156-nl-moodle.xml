@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-general-rules-1156-nl-moodle/Probability/Elementary Probability/General Rules</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-general-rules-1156-nl_uva-general-rules-1156-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Uit onderzoek blijkt dat 22% van alle volwassenen geïnteresseerd is in
+een reis naar Mars. Van deze volwassenen is 75% jonger dan 26 jaar. Als
+we veronderstellen dat leeftijd en interesse onafhankelijk van elkaar
+zijn, hoe groot is dan de kans dat een aselect gekozen volwassene zowel
+geïnteresseerd is naar Mars te reizen als jonger is dan 26?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,17
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,17: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,22
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,22: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,25
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,25: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,26
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,26: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

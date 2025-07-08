@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-variance-255-nl-moodle/Descriptive statistics/Summary Statistics/Measures of Spread/Variance</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-variance-255-nl_uva-variance-255-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Op een bepaalde ziekenhuisafdeling wordt gedurende een jaar bijgehouden
+hoeveel mannen en hoeveel vrouwen er op de eerste dag van de maand
+liggen. <br />
+<br />
+De getallen voor het aantal vrouwen gedurende dat jaar waren:<br />
+10   13   12    9    9    11   12   12   10   14   12   10<br />
+De steekproefvariantie  is:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.192
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.192: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.586
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1.586: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.306
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2.306: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2.515
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2.515: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

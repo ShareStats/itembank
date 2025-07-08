@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-expectedvalue-004-nl-moodle/Probability/Elementary Probability/Random variables/Expected value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_vufgb-expectedvalue-004-nl_vufgb-expectedvalue-004-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Marleen wil aan hand van onderstaande kruistabel met gegevens van 100 ouderen onderzoeken of er een verband is tussen Depressie en Diabetes. Wat is de verwachte frequentie <span class="math inline">\(f_{e}\)</span> in de cel Wel Depressie en Wel Diabetes onder de nulhypothese van onafhankelijkheid?</p>
+<p><img src="@@PLUGINFILE@@/vufgb-expectedvalue-004-nl-table01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-expectedvalue-004-nl-table01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+15
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

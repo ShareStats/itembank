@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-oneway-anova-569-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-oneway-anova-569-nl_uva-oneway-anova-569-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Hieronder staat een gedeelte van een ANOVA-tabel, behorend bij een
+RCB-ANOVA.</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Variatiebron</td>
+<td style="text-align: left;">df</td>
+<td style="text-align: left;">SS</td>
+<td style="text-align: left;">MS</td>
+<td style="text-align: left;">F</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Behandeling</td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">48</td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Blok</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">22</td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Error</td>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Totaal</td>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">90</td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+</tr>
+</tbody>
+</table>
+<p>Wat is de kritieke waarde waarmee de F-waarde vergeleken moet worden bij
+toetsen met 5% risico?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.41
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+3.41: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3.84
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+3.84: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.35
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+4.35: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+215.7
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+215.7: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-testing-1102-nl-moodle/inferential statistics/confidence intervals/testing</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-testing-1102-nl_vufsw-testing-1102-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Aan 22 aselect gekozen Duitse journalisten (groep 1) en 20 aselect
+gekozen Argentijnse journalisten (groep 2) is gevraagd om de kwaliteit
+van het Duitse elftal te beoordelen. De antwoordschaal loopt van 0 (zeer
+slecht) tot 10 (zeer goed). Uit de (fictieve) resultaten blijkt dat de
+Duitse groep gemiddeld een 8,3 geeft en de Argentijnse groep gemiddeld
+een 7,9. Een onderzoeker wil nagaan of de beoordeling significant
+verschilt tussen beide groepen. Hij berekent het 95%
+betrouwbaarheidsinterval van het verschil in gemiddeldes, µ<sub>1</sub>-
+µ<sub>2</sub>. Dit interval blijkt (0,15; 0,65) te zijn.</p>
+<p>De onderzoeker concludeert dat de beoordelingen van de twee groepen
+significant van elkaar verschillen. Waaruit valt dit af te leiden?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het getal 0,05 ligt buiten het interval.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De kritieke t-waarde bij een tweezijdige toetsing met α = 0,05 en <em>df</em> = 40 is 2,02. Dit getal ligt buiten het interval.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het getal 0,95 ligt buiten het interval.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Het getal 0,00 ligt buiten het interval.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

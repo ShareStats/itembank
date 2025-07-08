@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-measures-of-location-268-nl-moodle/Descriptive statistics/Summary Statistics/Measures of Location</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-measures-of-location-268-nl_uva-measures-of-location-268-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Uit twee populaties zijn twee onafhankelijke steekproeven getrokken met
+als resultaten:<br />
+Steekproef 1: grootte = 16, gemiddelde = 42.0, standaardafwijking = 5.4<br />
+Steekproef 2: grootte = 12, gemiddelde = 37.0, standaardafwijking = 5.9
+De waarde uit de tabel van de T-verdeling, die nodig is om het
+tweezijdig 95% betrouwbaarheidsinterval voor μ<sub>1</sub> - μ<sub>2</sub> te berekenen,
+is gelijk aan</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.7011
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1.7011: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.7056
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1.7056: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.0484
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2.0484: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2.0555
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2.0555: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

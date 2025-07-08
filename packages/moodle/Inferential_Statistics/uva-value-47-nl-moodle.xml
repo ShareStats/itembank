@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-value-47-nl-moodle/Inferential Statistics/NHST/p-value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-value-47-nl_uva-value-47-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Bij een tweezijdige toets op het verschil tussen twee gemiddelden en een
+alternatieve hypothese die stelt dat het verschil ongelijk aan 0 is,
+betekent een P-waarde van 0.10 dat</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+de kans dat de nulhypothese waar is gegeven het gevonden verschil in gemiddelden 0.10 is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+de kans dat de nulhypothese waar is gegeven het gevonden verschil in gemiddelden 0.10 is.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+de kans op het gevonden resultaat of extremer gegeven de nulhypothese 0.10 is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+de kans op het gevonden resultaat of extremer gegeven de nulhypothese 0.10 is.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+de kans dat de alternatieve hypothese waar is gegeven het gevonden verschil in gemiddelden 0.10 is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+de kans dat de alternatieve hypothese waar is gegeven het gevonden verschil in gemiddelden 0.10 is.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

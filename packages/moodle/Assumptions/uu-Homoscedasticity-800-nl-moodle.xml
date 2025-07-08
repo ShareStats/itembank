@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Homoscedasticity-800-nl-moodle/Assumptions/Homoscedasticity</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Assumptions_uu-Homoscedasticity-800-nl_uu-Homoscedasticity-800-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een van de voorwaarden van een regressieanalyse gaat over “homoscedasticiteit”. Welke grafiek moeten we gebruiken om deze voorwaarde te controleren?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+een spreidingsdiagram met de predictoren op de X-as en de afhankelijke variabele op de Y-as
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+een spreidingsdiagram met de residuen op de X-as en afhankelijke variabele op de Y-as
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+een spreidingsdiagram met de residuen op de X-as en de voorspelde waarden op de Y-as
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+een spreidingsdiagram met de voorspelde waarden op de X-as en de residuen op de Y-as
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

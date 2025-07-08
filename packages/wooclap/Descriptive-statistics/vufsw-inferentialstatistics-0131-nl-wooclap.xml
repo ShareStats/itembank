@@ -63,6 +63,16 @@ onderzoek.</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+De tweede onderzoeker hanteert een ander significantieniveau.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 De tweede onderzoeker kiest een andere kritieke t-waarde.
 </p>]]></text>
 <feedback format="html">
@@ -73,7 +83,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De tweede onderzoeker hanteert een ander significantieniveau.
+De tweede onderzoeker gebruikt een grotere steekproef (N=52).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -88,16 +98,6 @@ Alle bovenstaande antwoorden geven een mogelijke verklaring voor zo’n tegenstr
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De tweede onderzoeker gebruikt een grotere steekproef (N=52).
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-variance-600-nl-moodle/Descriptive statistics/Summary Statistics/Measures of Spread/Variance</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uu-variance-600-nl_uu-variance-600-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een populatie van 5 personen met een uiterst zeldzame ziekte is de leeftijd gemeten waarop de ziekte zich voor het eerst heeft geopenbaard. In de onderstaande tabel zijn voor deze 5 personen de deviatiescores voor leeftijd weergegeven. Wat is de variantie van de verdeling van leeftijd in deze populatie?</p>
+<p><img src="@@PLUGINFILE@@/uu-variance-600-nl-tabel.jpg" /></p>
+</p>]]></text>
+<file name="uu-variance-600-nl-tabel.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Deze kan niet worden bepaald zonder dat het gemiddelde µ van de verdeling is gegeven.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dat kan wel: de deviatiescores staan in de tabel.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Nee, dat klopt niet helaas.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Nee, dat klopt niet helaas.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Het juiste antwoord is 6.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

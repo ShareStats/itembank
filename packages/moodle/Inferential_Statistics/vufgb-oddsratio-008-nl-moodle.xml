@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-oddsratio-008-nl-moodle/Inferential Statistics/Regression/Logistic regression/Odds ratio</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-oddsratio-008-nl_vufgb-oddsratio-008-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Gegeven is onderstaande output van een enkelvoudige logistische regressieanalyse uitgevoerd in een steekproef van 22 proefpersonen. Bereken het 95% betrouwbaarheidsinterval van de odds ratio.</p>
+<p><img src="@@PLUGINFILE@@/vufgb-oddsratio-008-nl-table01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-oddsratio-008-nl-table01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.107; 1.295
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.150; 1.246
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.102; 0.258
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.022; 0.305
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

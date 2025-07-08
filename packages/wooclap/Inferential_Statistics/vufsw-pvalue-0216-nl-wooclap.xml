@@ -67,7 +67,7 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De kans is 0,2% dat de nulhypothese waar is.
+De kans is 0,2% dat de nulhypothese niet waar is.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -87,7 +87,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De kans is 0,2% dat de nulhypothese niet waar is.
+De kans is 0,2% dat we dit verschil observeren (of een nog groter verschil) indien de nulhypothese waar is.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -97,7 +97,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De kans is 0,2% dat we dit verschil observeren (of een nog groter verschil) indien de nulhypothese waar is.
+De kans is 0,2% dat de nulhypothese waar is.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-confidence-level-803-nl-moodle/Inferential Statistics/Confidence Intervals/Confidence level</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-confidence-level-803-nl_uu-confidence-level-803-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een onderzoeksverslag van een experiment met een controlegroep en een hiervan onafhankelijke experimentele groep van elk 15 personen is voor beide groepen een 95%-betrouwbaar¬heidsinterval voor het gemiddelde μ vermeld:
+- voor de experimentele groep: &lt;12; 18&gt;
+- voor de controlegroep: &lt;10; 16&gt;
+De vraag is echter of het steekproefgemiddelde in de experimentele groep bij <span class="math inline">\(\alpha\)</span> = 5% significant hoger is dan dat in de controlegroep.</p>
+<p>Kan dit op basis van deze gegevens worden nagegaan?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ja, het resultaat is niet significant want het interval van de experimentele groep overlapt dat van de controlegroep
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ja, want de steekproefgemiddelden zijn 15 resp. 13; aangezien dit verschil minder is dan 2 intervalbreedte, is het verschil niet significant
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Ja, op basis van de intervallen kan van beide steekproeven het gemiddelde en de standaardafwijking worden berekend, waarna het toetsresultaat via de t-toetsprocedure kan worden bepaald.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nee
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

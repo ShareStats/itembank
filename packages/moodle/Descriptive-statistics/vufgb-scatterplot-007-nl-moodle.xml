@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-scatterplot-007-nl-moodle/Descriptive statistics/Data representation/Graphs/Scatterplot, Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation, Inferential Statistics/Regression/Sum of squares</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_vufgb-scatterplot-007-nl_vufgb-scatterplot-007-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Gegeven is onderstaande puntenwolk (‘scatterplot’).</p>
+<p>Vul aan.</p>
+<p>De correlatie tussen de twee variabelen is … en de SSE is … .</p>
+<p><img src="@@PLUGINFILE@@/vufgb-scatterplot-007-nl-scatterplot01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-scatterplot-007-nl-scatterplot01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0 ; 0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0 ; 1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1 ; 0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1 ; 1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

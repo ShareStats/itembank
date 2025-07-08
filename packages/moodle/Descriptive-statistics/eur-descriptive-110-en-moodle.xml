@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-descriptive-110-en-moodle/Descriptive statistics/Summary Statistics/Measures of Location/Mean</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Descriptive-statistics_eur-descriptive-110-en_eur-descriptive-110-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>On the exam of course 2.8, 189 students gave a correct response to the question “What is the population mean of drawing a head of a coin?” 71 students gave an incorrect answer.</p>
+<p>What is the correct answer to this question?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Since the probability of drawing a head or a tail is equal. The population mean of drawing a head of a coin is .50.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.5</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

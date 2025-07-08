@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-paired-samples-1826-nl-moodle/Inferential Statistics/Parametric Techniques/t-test/Paired samples</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-paired-samples-1826-nl_uva-paired-samples-1826-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Van 11 proefpersonen wordt voor en na een bepaalde krachtsinspanning de
+hartslag gemeten. We willen toetsen of de gemiddelde hartslag voor en na
+de inspanning gelijk is. Van de 11 verschillen tussen voor- en nameting
+is het gemiddelde 31 en de standaarddeviatie 31. De waarde van de
+toetsingsgrootheid van de gepaarde T-toets is dan</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.49
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2.49: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3.32
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+3.32: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.71
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+3.71: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.35
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+9.35: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -54,16 +54,6 @@ between the population means is between -0.08 and 0.15.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-If we would randomly draw such two samples a 100 times, then the difference between their means is between -0.08 and 0.15 in 95 of the cases.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 The probability is 0.95 that a significant difference between the population means is between -0.08 and 0.15.
@@ -91,6 +81,16 @@ We have 5% certainty that the true difference between the population means is be
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+If we would randomly draw such two samples a 100 times, then the difference between their means is between -0.08 and 0.15 in 95 of the cases.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Independent-samples-means-805-en-moodle/Inferential Statistics/Parametric Techniques/t-test/Independent samples means</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Independent-samples-means-805-en_uu-Independent-samples-means-805-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Twenty-five women between ages 70 and 80 were randomly selected from the general population of women their age to take part in a special program to increase their knowledge of dementia. After the course, the women had an average knowledge score of 25. The mean knowledge for the general population of women of this age group is 22, with a standard deviation of 4. Assume that the mean knowledge of dementia in the population is normally distributed. Use the .05 level of significance.
+The researcher uses the following research question: Does the special program increase women’s knowledge of dementia?</p>
+<p>Does this study support the idea that the course increases knowledge on dementia?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No, because the result is statistically significant.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No, because the result is not statistically significant.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Yes, because the result is statistically significant.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Yes, because the result is not statistically significant.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

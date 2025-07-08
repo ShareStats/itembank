@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-regression-007-nl-moodle/Inferential Statistics/Regression, Inferential Statistics/Regression/Simple linear regression, Inferential Statistics/Regression/Prediction</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-regression-007-nl_vufgb-regression-007-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Maak de volgende zin af.</p>
+<p>Als aan een lineaire regressie van <span class="math inline">\(y\)</span> op <span class="math inline">\(x_{1}\)</span> een tweede predictor <span class="math inline">\(x_{2}\)</span> wordt toegevoegd die niet correleert met <span class="math inline">\(x_{1}\)</span>, dan …</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+zal de partiële correlatie tussen <span class="math inline">\(y\)</span> en <span class="math inline">\(x_{1}\)</span> toenemen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+zal de partiële correlatie tussen <span class="math inline">\(y\)</span> en <span class="math inline">\(x_{1}\)</span> gelijk blijven.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+zal de partiële correlatie tussen <span class="math inline">\(y\)</span> en <span class="math inline">\(x_{1}\)</span> afnemen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+kan de partiële correlatie tussen <span class="math inline">\(y\)</span> en <span class="math inline">\(x_{1}\)</span> afnemen, gelijk blijven of toenemen. Alle opties zijn mogelijk.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

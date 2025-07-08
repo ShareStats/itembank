@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-One-sample-mean-601-en-moodle/Inferential Statistics/Parametric Techniques/z-test/One sample mean</text>
+</category>
+</question>
+
+
+<question type="shortanswer">
+<name>
+<text> Q1 : Inferential_Statistics_uu-One-sample-mean-601-en_uu-One-sample-mean-601-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>1st year psychology students at universities often take psychological tests for instructive reasons, such as tests to determine the intelligence quotient (confidentially, of course). Assume that, based on long-term experience, researchers at Utrecht University know that the intelligence scores of the population of students who successfully complete a BA degree in psychology is normally distributed with mean 114 and standard deviation 10. The researchers know, furthermore, that the intelligence score distribution of the population of students who fail to obtain a BA in psychology is also normal, but with mean 91 and standard deviation 20. A pupil has just graduated from high school and takes this intelligence test prior to deciding to study, achieving a score of 93. She would like to study psychology. Her teacher knows about the distribution of successful BA students and advises her pupil based on a significance test to attempt the study. She argues that experience would have shown that she has sufficient chance to graduate successfully. (Assume researchers from Utrecht can measure intelligence without error.)</p>
+<p>The teacher tested the following null hypothesis against the research hypothesis:</p>
+<p><span class="math inline">\(H_0\)</span>: The pupil comes from the distribution of students who successfully complete the BA.</p>
+<p><span class="math inline">\(H_a\)</span>: The pupil comes from the distribution of students who do not successfully complete the BA.</p>
+<p>The teacher tested one-sided to the lower end of the comparison distribution and assumed <span class="math inline">\(\alpha=.01\)</span>. Determine the cutoff score and test the null hypothesis. Is the teacher’s advice based on this test correct?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>z-score=-2.1 (1 point)</p>
+<p>cutoff score=-2.33 or -2.325 (0.5 points)</p>
+<p>Decision: Not reject. The teacher’s advice based on this test is correct. (0.5 points)</p>
+<ul>
+<li>  </li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<usecase>0</usecase>
+<answer fraction="100" format="moodle_auto_format">
+<text>
+z-score=-2.1 Cutoff score=-2.33. Not reject. The teacher's advice based on this test is correct.
+</text>
+</answer>
+</question>
+
+</quiz>

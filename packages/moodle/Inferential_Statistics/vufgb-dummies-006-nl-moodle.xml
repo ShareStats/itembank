@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-dummies-006-nl-moodle/Inferential Statistics/Regression/Dummies, Inferential Statistics/Regression/Dummies</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-dummies-006-nl_vufgb-dummies-006-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een marktonderzoeker wil weten of mensen die in een Mercedes, Audi, Golf of Opel rijden verschillen op de y-variabele impulsiviteit. Hij vindt de volgende regressievergelijking: <span class="math inline">\(\hat{y} = 35+3z_{1}+5z_{2}-2z_{3}\)</span>, waarin hij de dummyvariabelen volgens onderstaand schema heeft gecodeerd. Welke groep autorijders is het minst impulsief?</p>
+<p><img src="@@PLUGINFILE@@/vufgb-dummies-006-nl-table01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-dummies-006-nl-table01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Mercedes-rijders
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Audi-rijders
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Golf-rijders
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Opel-rijders
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-F-statistic-802-nl-moodle/Inferential Statistics/NHST/Test statistic/F-statistic</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-F-statistic-802-nl_uu-F-statistic-802-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een steekproef van 235 studenten in de Faculteit Sociale Wetenschappen aan de Universiteit Utrecht krijgt een vragenlijst in te vullen over gevoelens. Een van de vragen luidt: “Wat vind je over je eigen lengte?” De antwoordcategorieën waren: te kort, ongeveer juist, te lang. Een totaalscore is berekend voor alle studenten, deze meet de zelfwaarde van de studenten. De resultaten van de zelfwaardescores worden vergeleken tussen de drie lengte-gevoelensgroepen en tussen jongens en meisjes. De F-ratio voor het interactie-effect tussen lengte-gevoelens en sekse is <span class="math inline">\(4.98\)</span> met een <span class="math inline">\(p\)</span>-waarde van <span class="math inline">\(.008\)</span>.</p>
+<p>Hoe is de <span class="math inline">\(p\)</span>-waarde van <span class="math inline">\(.008\)</span> berekend?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De oppervlakte rechts van <span class="math inline">\(F = 4.98\)</span> onder de F-verdeling.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De oppervlakte links van <span class="math inline">\(F = 4.98\)</span> onder de F-verdeling.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De oppervlakte links van <span class="math inline">\(F = −4.98\)</span> en rechts van <span class="math inline">\(F = 4.98\)</span> onder de F-verdeling.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De oppervlakte tussen <span class="math inline">\(F = −4.98\)</span> en <span class="math inline">\(F = 4.98\)</span> onder de F-verdeling.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

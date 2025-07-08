@@ -51,13 +51,13 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Als X1 groter wordt, dan wordt X2 ook groter (en omgekeerd). De correlatie is niet significant.
+Als X1 groter wordt, dan wordt X2 kleiner (en omgekeerd). De correlatie is niet significant.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -71,13 +71,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Als X1 groter wordt, dan wordt X2 kleiner (en omgekeerd). De correlatie is niet significant.
+Als X1 groter wordt, dan wordt X2 ook groter (en omgekeerd). De correlatie is niet significant.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>

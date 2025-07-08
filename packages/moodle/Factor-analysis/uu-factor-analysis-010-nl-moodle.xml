@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-factor-analysis-010-nl-moodle/Factor analysis</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Factor-analysis_uu-factor-analysis-010-nl_uu-factor-analysis-010-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Hedonisten veranderen in altruïsten als ze zelf kinderen krijgen. Voor een empirisch onderzoek naar deze verwachting moet een meetinstrument voor altruïsme-hedonisme ontwikkeld worden.</p>
+<p>Beoordeel de volgende twee uitspraken over een factoranalyse van een verzameling items voor de altruïsme-hedonisme schaal.</p>
+<ol style="list-style-type: upper-roman">
+<li><p>Met het eigenwaarde groter dan 1 criterium selecteert men een aantal factoren op basis van een inhoudelijke criterium.</p></li>
+<li><p>Na rotatie van factoren wordt de interpretatie van de factoren meestal aanzienlijk veel lastiger dan voor de rotatie.</p></li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Uitleg:</p>
+<p>Stelling 1: Het eigenwaardecriterium is een statistisch criterium. Er wordt gekeken naar statistische gegevens zonder de inhoud van de items of een verwacht aantal factoren in ogenschouw te nemen.</p>
+<p>Stelling 2: Rotatie van de factoren heeft juist tot doel om de items sterker te laten laden op de factoren, waardoor de interpretatie van de factoren (aanzienlijk) makkelijker zal worden.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Uitspraak I en II zijn beide juist.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alleen uitspraak I is juist.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alleen uitspraak II is juist.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Uitspraak I en II zijn beide onjuist.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

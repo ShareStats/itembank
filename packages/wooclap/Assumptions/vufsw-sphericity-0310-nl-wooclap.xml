@@ -56,9 +56,19 @@ toepassing: de homogeneity of variances en sphericity.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+[1] scores in literatuur - scores in wiskunde [2] scores in wiskunde - scores in essay writing
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-[1] de scores van vrouwen in elk van de drie vakken [2] scores in wiskunde - scores in essay writing
+[1] de scores van vrouwen in elk van de drie vakken [2] de scores van mannen in elk van de drie vakken
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -78,21 +88,11 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-[1] de scores van vrouwen in elk van de drie vakken [2] de scores van mannen in elk van de drie vakken
+[1] de scores van vrouwen in elk van de drie vakken [2] scores in wiskunde - scores in essay writing
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-[1] scores in literatuur - scores in wiskunde [2] scores in wiskunde - scores in essay writing
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

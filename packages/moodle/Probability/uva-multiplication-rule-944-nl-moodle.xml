@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-multiplication-rule-944-nl-moodle/Probability/Elementary Probability/General Rules/Multiplication rule</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-multiplication-rule-944-nl_uva-multiplication-rule-944-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>We nemen aan dat alle geboortemaanden even waarschijnlijk zijn. Marieke
+is geboren in maart en zij zal twee onbekenden ontmoeten in een
+vergadering. Stel de gebeurtenissen:<br />
+<br />
+* <em>A</em> = de eerste onbekende is in maart geboren,<br />
+* <em>B</em> = de tweede onbekende is in maart geboren.<br />
+<br />
+Wat is de kans dat beide mensen die Marieke ontmoet, dezelfde
+geboortemaand hebben als Marieke?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1/12
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/12: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2/12
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2/12: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1/144
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/144: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2/144
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2/144: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

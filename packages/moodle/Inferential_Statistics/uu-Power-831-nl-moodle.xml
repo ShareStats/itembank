@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Power-831-nl-moodle/Inferential Statistics/NHST/Power</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Power-831-nl_uu-Power-831-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In het onderzoek van Fazio et al. (1981) vergelijken de onderzoekers het verschil in prestatie tussen twee persoonlijkheidstypes (type A en type B) op twee taken (single en multiple). De proefpersonen worden at random verdeeld over de twee condities. In de single conditie wordt de proefpersoon gevraagd fouten in een tekst aan te strepen. In de multiple conditie wordt de proefpersoon hetzelfde gevraagd maar wordt daarbij regelmatig onaangekondigd een korte andere opdracht gegeven.
+In totaal wordt in beide condities 10 minuten besteed aan het opsporen van fouten in de tekst. Het aantal fouten dat correct wordt gevonden is het prestatieniveau. Er is getoetst bij <span class="math inline">\(\alpha\)</span> = 5%.</p>
+<p>De hypotheses die de onderzoekers opstellen, zeggen dat er geen hoofdeffecten zijn en dat er wel een interactie-effect is. De hypothese die Fazio et al. opgesteld heeft over de interactie luidt: mensen met Type A persoonlijkheid worden uitgedaagd door de multiple taak en gaan daar beter van presteren; mensen met Type B persoonlijkheid worden daarentegen afgeleid door de multiple taak en gaan slechter presteren.</p>
+<p>Stel dat op een universiteit iemand het onderzoek van Fazio et al. wil repliceren, maar met een grotere power. Welk van onderstaande stellingen hierover is correct, aangenomen dat overige omstandigheden gelijk blijven?</p>
+<p>I De power van een toets wordt groter als de steekproefomvang groter wordt.
+II De power van een toets wordt groter als de kans op een fout van de eerste soort verkleind wordt.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Geen van beide stellingen is correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Alleen stelling I is correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is correct.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alleen stelling II is correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Beide stellingen zijn correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

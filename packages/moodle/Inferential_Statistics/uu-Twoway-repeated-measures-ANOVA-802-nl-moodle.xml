@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Twoway-repeated-measures-ANOVA-802-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Twoway repeated measures ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Twoway-repeated-measures-ANOVA-802-nl_uu-Twoway-repeated-measures-ANOVA-802-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In het artikel van Kammers et al. (2010) wordt een herhaalde metingen analyse gedaan waarbij de respons van 11 vrouwelijke studenten in elke conditie worden gemeten. Er wordt een 2 x 2 x 2 x 2 repeated measures anova uitgevoerd. Hoeveel condities zijn er per persoon?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Bij een herhaalde metingen analyse nemen alle participanten deel aan alle verschillende condities. Een 2 x 2 x 2 x 2 design betekend dat er vier factoren zijn met ieder twee verschillende waardes.</p>
+<p>Bijvoorbeeld: factor 1 = A of B, factor 2 = X of Y, factor 3 = 1 of 2 en factor 4 = # of <em>. In totaal zijn dan de volgende 16 combinaties mogelijk:
+AX1# AY1# BX1# BY1# AX1</em> AY1* BX1* BY1<em>
+AX2# AY2# BX2# BY2# AX2</em> AY2* BX2* BY2*</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+16
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is correct.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

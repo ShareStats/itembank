@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-general-rules-656-nl-moodle/Probability/Elementary Probability/General Rules</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Probability_uva-general-rules-656-nl_uva-general-rules-656-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een fabriek in Arnhem produceert spaarlampen. De kans op een defect is
+5%. Bij een steekproef pakken we willekeurig twee lampen <strong><em>met</em></strong>
+terugleggen. In de volgende tabel zien we dat het aantal lampen <em>X</em> dat
+wordt gepakt de volgende kansverdeling heeft:</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Waarde van <em>X</em></td>
+<td style="text-align: left;">0</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">kans</td>
+<td style="text-align: left;">0,9025</td>
+<td style="text-align: left;">0,095</td>
+<td style="text-align: left;">?</td>
+</tr>
+</tbody>
+</table>
+<p>Hierbij is <em>X</em> een toevalsvariabele. <em>X</em> = 0 betekent dat de twee lampen
+niet defect zijn; <em>X</em> = 1 betekent dat er één van de twee defect is; <em>X</em>
+= 2 betekent dat de twee lampen allebei defect zijn.<br />
+<br />
+Wat is de kans dat beide lampen defect zijn? Rond af op vier decimalen.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Het correcte antwoord is: 0.0025</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.0025</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

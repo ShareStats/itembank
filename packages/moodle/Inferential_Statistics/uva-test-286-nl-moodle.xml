@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-test-286-nl-moodle/Inferential Statistics/Parametric Techniques/t-test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-test-286-nl_uva-test-286-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Bij 10 personen zijn systolische en diastolische bloeddruk gemeten.
+Hiermee zijn een Pearson en een Spearman correlatiecoëfficiënt berekend.
+Beide bleken gelijk te zijn aan 0.65. Voor beide wordt de nulhypothese
+getoetst dat de populatie-correlatiecoëfficiënt gelijk is aan 0, tegen
+het tweezijdig alternatief, met een risico van α = 0.05. Welke van beide
+volgende uitspraken zijn waar?<br />
+1: De Pearson correlatiecoëfficiënt ρ<sub>P</sub> wijkt significant af van 0.<br />
+2: De Spearman rangcorrelatiecoëfficiënt ρ<sub>S</sub> wijkt significant af van
+0.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Beide uitspraken zijn juist.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Beide uitspraken zijn juist.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Uitspraak 1 is juist, uitspraak 2 is onjuist.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Uitspraak 1 is juist, uitspraak 2 is onjuist.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Uitspraak 1 is onjuist, uitspraak 2 is juist.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Uitspraak 1 is onjuist, uitspraak 2 is juist.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Beide uitspraken zijn onjuist
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Beide uitspraken zijn onjuist: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

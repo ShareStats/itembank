@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Oneway_ANOVA-875-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Oneway_ANOVA-875-nl_uu-Oneway_ANOVA-875-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een docent doet onderzoek naar het effect van drie verschillende leermethoden. Elke groep leerlingen krijgt gedurende een week les volgens één van de drie methoden. De onderwijskundige wil de volgende hypothesen toetsen die betrekking hebben op de variabele ‘leerresultaat’:
+I. <span class="math inline">\(\mu_{1}\)</span> &gt; <span class="math inline">\(\mu_{2}\)</span> &gt; <span class="math inline">\(\mu_{3}\)</span>
+II. <span class="math inline">\(\sigma_{1}\)</span> = <span class="math inline">\(\sigma_{2}\)</span> = <span class="math inline">\(\sigma_{3}\)</span>
+Welke van deze hypothesen kan met variantie-analyse (ANOVA) worden getoetst?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Alleen de hypothese <span class="math inline">\(\mu_{1}\)</span> = <span class="math inline">\(\mu_{2}\)</span> = <span class="math inline">\(\mu_{3}\)</span> is te toetsen met variantie-analyse – geen andere hypothesen m.b.t. gemiddelden met de tekens &gt; of &lt; of m.b.t. varianties danwel standaardafwijkingen.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alleen I.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alleen II.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Zowel I als II.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Noch I, noch II.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

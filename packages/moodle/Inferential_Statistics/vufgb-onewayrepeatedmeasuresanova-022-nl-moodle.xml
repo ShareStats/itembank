@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-onewayrepeatedmeasuresanova-022-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Oneway repeated measures ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-onewayrepeatedmeasuresanova-022-nl_vufgb-onewayrepeatedmeasuresanova-022-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Pim heeft bij zijn proefpersonen depressieve klachten gedurende vier weken elke week gemeten. De helft van de proefpersonen kreeg gedurende vier weken een behandeling aangeboden, de andere helft niet. Pim wil met behulp van een herhaalde metingen ANOVA toetsen of het effect van tijd op depressieve klachten anders verloopt bij mensen die aan de behandeling hebben meegedaan vergeleken met mensen die de behandeling niet hebben gekregen.</p>
+<p>Wat voor soort variabele is Tijd in de herhaalde metingen ANOVA?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>In herhaalde metingen ANOVA wordt onderscheid gemaakt tussen Within-Subjects Factoren en Between-Subjects Factoren. Within-Subjects Factoren zijn variabelen die herhaaldelijk binnen dezelfde personen gemeten worden, en die dus in waarde kunnen variëren binnen dezelfde persoon. Between-Subjects Factoren zijn variabelen die niet herhaaldelijk worden gemeten. Waardes variëren niet binnen personen maar wel tussen personen. Tijd is dus een Within-Subjects Factor.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Error variabele
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Mixed variabele
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Within-Subjects Factor
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Between-Subjects Factor
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

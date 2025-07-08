@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Confidence-level-800-en-moodle/Inferential Statistics/Confidence Intervals/Confidence level</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Confidence-level-800-en_uu-Confidence-level-800-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The confidence level for a confidence interval for a mean is</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+the probability the procedure in the long run provides an interval that covers the sample mean.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+the probability of making a Type 1 error if the interval is used to test a null hypothesis about the population mean.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+the probability that individuals in the population have values that fall into the interval.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+the probability the procedure in the long run provides an interval that covers the population mean.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is correct.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Oneway_ANOVA-802-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Oneway_ANOVA-802-nl_uu-Oneway_ANOVA-802-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Veel docenten in het voortgezet onderwijs worstelen met de vraag hoe om te gaan met ordeverstoringen. Veelgebruikte lichte sancties als waarschuwen hebben weinig effect op de ordeverstoring, en zware sancties als verwijderen uit de les hebben soms een averechts effect omdat ze tot statusverhoging van de getroffen leerling kunnen leiden. In een onderzoek is nagegaan wat het effect is op de rust in de klas van een nieuw soort sanctie, de schrijftaak. Hierbij moeten de leerlingen een opstel schrijven over hun eigen gedrag. In dit experiment werden drie groepen onderscheiden: docenten die leerlingen slechts (herhaaldelijk) waarschuwden, docenten die leerlingen uit de klas verwijderden bij ordeverstoring en docenten die leerlingen een schrijftaak gaven. Het aantal ordeverstoringen twee weken na de interventie werd bekeken.</p>
+<p>Waarom is het in dit geval beter om een variantie-analysetoets (ANOVA) uit te voeren in plaats van drie aparte t-toetsen?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Variantieanalyse maakt met één toets duidelijk welke groepen van elkaar verschillen.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Variantieanalyse past beter bij het meetniveau van de afhankelijke variabele, aantal ordeverstoringen na de interventie.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Variantie-analyse geeft een kleinere kans op het onterecht vinden van een verschil tussen de groepen in het aantal ordeverstoringen na de interventie.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Variantie-analyse geeft een kleinere kans op een type II fout.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

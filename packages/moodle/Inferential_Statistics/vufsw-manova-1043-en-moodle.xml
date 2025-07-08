@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-manova-1043-en-moodle/inferential statistics/parametric techniques/anova/manova</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-manova-1043-en_vufsw-manova-1043-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Which of the following statements is true about MANOVA</p>
+<p>I. MANOVA controls for the overall error rate, ensuring that the risk of
+Type I errors does not increase.<br />
+II. MANOVA is suitable to study the effect of an experimental
+manipulation on dependent variables which are not correlated with each
+other.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>By analyzing simultaneously several dependent variables MANOVA corrects
+for the familywise error rate. Thus, the statement “It controls for the
+overall error rate, ensuring that the risk of Type I errors does not
+increase.” is correct.</p>
+<p>MANOVA studies the effect of (at least one) independent variable on
+several dependent variables that are correlated with each other. If they
+are uncorrelation with each other, MANOVA makes no sense. therefore the
+statement” It is suitable to study the effect of an experimental
+manipulation on dependent variables which are not correlated with each
+other.” is incorrect</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Both statements are correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Statement I is incorrect and statement II is correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Statement I is correct and statement II is incorrect.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Both statements are incorrect.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

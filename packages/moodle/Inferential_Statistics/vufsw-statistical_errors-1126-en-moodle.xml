@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-statistical_errors-1126-en-moodle/inferential statistics/nhst/statistical errors</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-statistical_errors-1126-en_vufsw-statistical_errors-1126-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Decide whether the following statements are true or false.</p>
+<p>I. The probability of making a type I error depends on the level of
+significance.</p>
+<ol start="2" style="list-style-type: upper-roman">
+<li>We make a type II error if we make the mistake that we do <em>not</em>
+reject the H0, while H0 is in fact false.</li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>They are both true.</p>
+<ol style="list-style-type: upper-roman">
+<li>Wrongly rejecting the null hypothesis, or stating that there is a
+statistically significant difference in the data when in fact there is
+not (false positive), is called type I error or alpha error. The
+probability of type I error depends on the level of significance
+assigned by the investigator and the existence or nonexistence of a
+difference between the two experimental conditions.</li>
+</ol>
+<p>A level of significance of 5%, or 1 in 20, is arbitrary set. 5% chance
+of making a type I error. If p is probability and p &lt;0.05, there is
+5% chance that an observed difference occurred because of chance.</p>
+<ol start="2" style="list-style-type: upper-roman">
+<li>A type II error is failing to reject a false null hypothesis (also
+known as a “false negative” finding)</li>
+</ol>
+<p>EXTRA: Why not always set a very small alpha value? The consequence of
+setting a p-value of .01 versus .05 is that there is an increased risk
+of making a type II or beta error. This is a failure to reject the null
+hypothesis when it is in fact false. The smaller the p-value, the more
+likely one is to make a type II error. The power of a test is 1-beta.
+The probability of making a type II error depends on 4 factors. 1) size
+of alpha (as discussed) 2) variability within a population (more
+variability results in greater likelihood of type II error) 3) sample
+size (more subjects results in less chance of type II error) and 4) the
+magnitude of difference between the experimental conditions (smaller
+differences result in higher likelihood of type II error).</p>
+<p>If you would like to know more about type I and type II errors watch
+this
+ <a href="https://www.youtube.com/watch?v=ddEgwAwwB7A&amp;index=6&amp;list=PLyLpEs0x9BnkUdochj7JEC-2javLshojj">clip</a></p>
+<p>Levels of Difficulty<br />
+Easy</p>
+<p>M&amp;T Hypothesis testing: means<br />
+Default value</p>
+<p>M&amp;T Hypothesis testing: proportions<br />
+Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Statements I and II are false.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Statement I is not true and statement II is true.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Statements I and II are true.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Statement I is true and statement II is false.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

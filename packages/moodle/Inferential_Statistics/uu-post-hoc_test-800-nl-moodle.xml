@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-post-hoc_test-800-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Post-hoc test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-post-hoc_test-800-nl_uu-post-hoc_test-800-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Marco werkt als hondentherapeut en heeft een groep van vijftien honden met verlatingsangst onder zijn hoede. Hij ontwikkelt een drie maanden durende relaxatietherapie voor honden die hij test op vijf van de vijftien honden. De tien overige honden worden opgedeeld in een groep die gedurende drie maanden kalmerende medicijnen krijgt en een controlegroep.<br />
+Marco meet vervolgens wekelijks het aantal minuten dat het duurt totdat de honden gaan blaffen nadat de baas het huis heeft verlaten. Hij verwacht dat de “tijd tot eerste blaf” van de groep honden met relaxatietherapie significant sneller toeneemt dan die van beide andere groepen. Welke analyse gebruikt hij om deze verwachting te toetsen?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+ANOVA voor herhaalde metingen
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Mixed design met posthoc toets
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+ANCOVA met een posthoc
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Regressieanalyse met dummy’s
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

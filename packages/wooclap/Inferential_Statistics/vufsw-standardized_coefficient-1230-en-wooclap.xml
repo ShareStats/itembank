@@ -53,21 +53,11 @@ prestige is 0.256. What is the interpretation of this figure?</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-An increase of one guilder income means a change of 0.256 points prestige, independent of the effect of the remaining independent variables.
+An increase of one standard deviation income means a change of 0.256 standard deviation prestige, independent of the effect of the remaining independent variables.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-An increase of one standard deviation income means a change of 0.256 standard deviation prestige, controlled for the effect of the remaining independent variables.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>
@@ -83,11 +73,21 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-An increase of one standard deviation income means a change of 0.256 standard deviation prestige, independent of the effect of the remaining independent variables.
+An increase of one guilder income means a change of 0.256 points prestige, independent of the effect of the remaining independent variables.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+An increase of one standard deviation income means a change of 0.256 standard deviation prestige, controlled for the effect of the remaining independent variables.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

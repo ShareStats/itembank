@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-prediction-001-nl-moodle/Inferential Statistics/Regression/Prediction, Descriptive statistics/Data representation/Tables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-prediction-001-nl_vufgb-prediction-001-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Zie onderstaande tabel met scores op een criterium (Y ) en een voorspeller (X).</p>
+<p>De resulterende regressievergelijking is <span class="math inline">\(\hat{y} = 8.5+1.5x\)</span>.</p>
+<p>Voor welke proefpersoon (Pers.) ligt de voorspelling het dichtst bij de waargenomen score?</p>
+<p><img src="@@PLUGINFILE@@/vufgb-prediction-001-nl-table01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-prediction-001-nl-table01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Proefpersoon 1.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proefpersoon 2.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proefpersoon 3.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Proefpersoon 4.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

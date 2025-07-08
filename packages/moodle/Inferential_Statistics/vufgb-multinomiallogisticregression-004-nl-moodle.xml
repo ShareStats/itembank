@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-multinomiallogisticregression-004-nl-moodle/Inferential Statistics/Regression/Multinomial logistic regression, Inferential Statistics/Regression/Dummies</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-multinomiallogisticregression-004-nl_vufgb-multinomiallogisticregression-004-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een dataset bevat drie categorische variabelen gemeten in een steekproef van leerkrachten werkzaam op basisscholen in Utrecht: Opleiding (<span class="math inline">\(X_{1};\;0 = reguliere\;PABO,\;1 = universitaire\;PABO\)</span>), Type klas (<span class="math inline">\(X_{2};\;0 = Onderbouw,\;1 = Middenbouw,\;2 = Bovenbouw\)</span>) en Type school (<span class="math inline">\(Y;\;0 = Openbaar,\;1 = Confessioneel\;bijzonder,\;2 = Algemeen\;bijzonder\)</span>).</p>
+<p>Met welk type analyse kan onderzocht worden of er een verband is tussen Opleiding en Type school, statistisch gecontroleerd voor Type klas?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinale logistische regressie met interactie.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinale logistische regressie zonder interactie.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Multinomiale logistische regressie met interactie.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Multinomiale logistische regressie zonder interactie.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

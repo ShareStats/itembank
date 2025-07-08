@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Statistical-errors-601-nl-moodle/Inferential Statistics/NHST/Statistical errors</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Statistical-errors-601-nl_uu-Statistical-errors-601-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Als een toets wordt uitgevoerd met <span class="math inline">\(\alpha = 5%\)</span> en een power heeft van <span class="math inline">\(80%\)</span>, wat is dan de kans dat de <span class="math inline">\(H_0\)</span> terecht wordt verworpen?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+5% is de kans dat <span class="math inline">\(H_0\)</span> wordt verworpen terwijl deze juist is (kans op een Type I fout).
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+20%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+20% is de kans dat <span class="math inline">\(H_0\)</span> niet wordt verworpen terwijl deze wel verworpen had moeten worden (kans op een Type II fout).
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+80%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+80% is de kans dat er in de steekproef een effect gevonden wordt, wanneer deze in de populatie ook daadwerkelijk aanwezig is. Dit is dus de kans <span class="math inline">\(H_0\)</span> wordt verworpen terwijl deze ook niet juist is (en dus terecht verworpen wordt).
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+95%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+95% is de kans dat <span class="math inline">\(H_0\)</span> niet wordt verworpen wanneer deze ook daadwerkelijk juist is.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

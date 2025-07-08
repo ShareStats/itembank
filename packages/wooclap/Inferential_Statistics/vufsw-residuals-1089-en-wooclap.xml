@@ -53,7 +53,27 @@ variable Y and the predicted value of this variable is…</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+the slope
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 the intercept
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+the z-score
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -68,26 +88,6 @@ the residual
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-the z-score
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-the slope
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

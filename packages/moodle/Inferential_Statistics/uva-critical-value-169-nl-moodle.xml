@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-critical-value-169-nl-moodle/Inferential Statistics/NHST/Significance level/Critical value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-critical-value-169-nl_uva-critical-value-169-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Wanneer de nulhypothese bij een significantieniveau van 0.05 kan worden
+verworpen, is</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+de kans 0.05 dat de nulhypothese waar is
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+de kans 0.05 dat de nulhypothese waar is: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+de kans 0.95 dat de alternatieve hypothese waar is
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+de kans 0.95 dat de alternatieve hypothese waar is: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+de P-waarde kleiner of gelijk aan 0.05
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+de P-waarde kleiner of gelijk aan 0.05: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

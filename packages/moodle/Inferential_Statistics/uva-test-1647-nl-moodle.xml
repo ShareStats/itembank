@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-test-1647-nl-moodle/Inferential Statistics/Parametric Techniques/z-test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-test-1647-nl_uva-test-1647-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Iemand behaalt voor een Statistiektoets een score van 12.1 goed. De
+gemiddelde score van alle deelnemers aan de toets is 10.9 bij een
+standaardafwijking 2.9. De z-score van de persoon met 12.1 goed is dan
+gelijk aan</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.01
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.01: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.41
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.41: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.79
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1.79: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

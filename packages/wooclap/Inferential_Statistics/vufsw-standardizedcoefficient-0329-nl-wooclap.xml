@@ -60,21 +60,11 @@ negatief is maakt niet uit.</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Opleiding, het heeft de grootste positieve Beta
+Dat kun je uit deze output niet opmaken, er zijn aanvullende analyses nodig
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Sociale klasse, het heeft de grootste negatieve Beta
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>
@@ -90,11 +80,21 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dat kun je uit deze output niet opmaken, er zijn aanvullende analyses nodig
+Opleiding, het heeft de grootste positieve Beta
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sociale klasse, het heeft de grootste negatieve Beta
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

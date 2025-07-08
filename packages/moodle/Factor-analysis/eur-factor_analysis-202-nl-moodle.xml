@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-factor_analysis-202-nl-moodle/Factor analysis/Rotations</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Factor-analysis_eur-factor_analysis-202-nl_eur-factor_analysis-202-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Bij een oblique rotatie geeft spss zowel een structure matrix als een pattern matrix als output. Beoordeel de volgende stellingen over deze twee matrices.</p>
+<ol style="list-style-type: decimal">
+<li>In de structure matrix zijn de correlaties tussen de factoren gelijk aan nul.</li>
+<li>De getallen in de pattern matrix geven de unieke correlatie tussen een factor en een item
+weer.</li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Statement 1 is incorrect. The structure matrix contains the correlations between the items and the factors; In an oblique rotation the correlation between the factors is not necessarily zero. Statement 2 is correct: the pattern matrix contains the correlation between the factor and the items corrected for the correlation between factors.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Stelling 1 en stelling 2 zijn beide correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Stelling 1 en stelling 2 zijn beide incorrect.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Stelling 1 is correct en stelling 2 is incorrect.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Stelling 2 is correct en stelling 1 is incorrect.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Goed
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

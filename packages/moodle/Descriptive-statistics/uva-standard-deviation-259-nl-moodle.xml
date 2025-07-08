@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-standard-deviation-259-nl-moodle/Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-standard-deviation-259-nl_uva-standard-deviation-259-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Van de variabele X is gegeven dat hij een gemiddelde van 45 en een
+standaardafwijking van 12 heeft. De variabele wordt gestandaardiseerd,
+door er 45 van af te trekken, en vervolgens door 12 te delen. De
+standaardafwijking van deze gestandaardiseerde variabele is dan gelijk
+aan:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.46
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+3.46: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+12
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+12: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-conditional_probability-1263-en-moodle/probability/elementary probability/conditional probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_vufsw-conditional_probability-1263-en_vufsw-conditional_probability-1263-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>During an election poll in America, 146 people were randomly selected
+and it was noted with which party they felt most connected. The
+following crosstab gives the results.</p>
+<table class="table_shade">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td class="tvcss_2">
+<br />
+</td>
+<td class="tvcss_3">
+Democrats
+</td>
+<td class="tvcss_4">
+Republicans
+</td>
+<td class="tvcss_5">
+Other<br />
+</td>
+<td class="tvcss_6">
+Total
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_2">
+Men
+</td>
+<td class="tvcss_3">
+22
+</td>
+<td class="tvcss_4">
+22
+</td>
+<td class="tvcss_5">
+28
+</td>
+<td class="tvcss_6">
+72
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_2">
+Women
+</td>
+<td class="tvcss_3">
+24
+</td>
+<td class="tvcss_4">
+28
+</td>
+<td class="tvcss_5">
+22
+</td>
+<td class="tvcss_6">
+74
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_2">
+Total
+</td>
+<td class="tvcss_3">
+46
+</td>
+<td class="tvcss_4">
+50
+</td>
+<td class="tvcss_5">
+50
+</td>
+<td class="tvcss_6">
+146
+</td>
+</tr>
+</tbody>
+</table>
+<p>Find the conditional distribution of political preference among women.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Democraten: 32.4%, Republikeinen: 37.8%, Anders: 29.7%.</p>
+<p>Calculated by 24/74 and 28/74 and 22/74</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Democrats: 52.2%, Republicans: 56.0%, Other: 44.0%.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Democrats: 32.4%, Republicans: 37.8%, Other: 29.7%.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Democrats: 31.5%, Republicans: 34.2%, Other: 34.2%.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Democrats: 16.4%, Republicans: 44.0%, Other: 56.0%.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

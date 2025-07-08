@@ -68,19 +68,19 @@ relatie tussen leeftijd en het soort muziek dat gewaardeerd wordt?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Nee, er is in dit onderzoek niet gecontroleerd voor mogelijke mediërende variabelen voor de relatie tussen leeftijd en de waardering voor de drie soorten muziek
+Ja, leeftijd is weliswaar geen experimenteel gemanipuleerde variabele, maar is het niet aannemelijk dat er confounding variabelen zijn voor de relatie tussen leeftijd en de waardering voor de drie soorten muziek
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Nee, er is in dit onderzoek niet gecontroleerd voor mogelijke confounding variabelen voor de relatie tussen leeftijd en de waardering voor de drie soorten muziek
+Nee, er is in dit onderzoek niet gecontroleerd voor mogelijke mediërende variabelen voor de relatie tussen leeftijd en de waardering voor de drie soorten muziek
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -98,13 +98,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Ja, leeftijd is weliswaar geen experimenteel gemanipuleerde variabele, maar is het niet aannemelijk dat er confounding variabelen zijn voor de relatie tussen leeftijd en de waardering voor de drie soorten muziek
+Nee, er is in dit onderzoek niet gecontroleerd voor mogelijke confounding variabelen voor de relatie tussen leeftijd en de waardering voor de drie soorten muziek
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>

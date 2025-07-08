@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-addition-rule-880-nl-moodle/Probability/Elementary Probability/General Rules/Addition rule</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-addition-rule-880-nl_uva-addition-rule-880-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Welk van de volgende weddenschappen levert het meeste geld op <em>in the
+long run</em>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.50 kans op 10 euro winst, 0.25 kans op 50 euro en 0.25 kans op 5 euro verlies.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.50 kans op 10 euro winst, 0.25 kans op 50 euro en 0.25 kans op 5 euro verlies.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.50 kans op 5 euro winst, 0.25 kans op 100 euro en 0.25 kans op 100 euro verlies.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.50 kans op 5 euro winst, 0.25 kans op 100 euro en 0.25 kans op 100 euro verlies.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.50 kans op 0 euro winst, 0.25 kans op 250 euro en 0.25 kans op 250 euro verlies.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.50 kans op 0 euro winst, 0.25 kans op 250 euro en 0.25 kans op 250 euro verlies.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-factor-analysis-015-nl-moodle/Factor analysis</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Factor-analysis_uu-factor-analysis-015-nl_uu-factor-analysis-015-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In het onderzoek De grenzeloze jeugd is een vragenlijst afgenomen bij een aselecte steekproef van ruim 500 jongeren tussen de 12 en 25 jaar. De volgende acht persoonskenmerken zijn daarbij geoperationaliseerd: narcisme, materialisme, maatschappelijke betrokkenheid, hedonisme, egocentrisme, altruïsme, zelfredzaamheid en als laatste kolder-in-je-kop.</p>
+<p>Over de testscores willen de onderzoekers een exploratieve hogere orde factoranalyse (PAF) met orthogonale rotatie uitvoeren. De onderzoekers vragen een consult aan bij een deskundige op het gebied van factoranalyse. Zij leggen de volgende twee uitspraken aan de deskundige voor.</p>
+<ol style="list-style-type: upper-roman">
+<li>De eigenwaarde van een factor is het percentage door die factor verklaarde variantie in de testscores.</li>
+<li>Na een orthogonale rotatie is geen correlatie tussen de factoren (assen) mogelijk.</li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I en II zijn juist
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alleen I is juist
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Alleen II is juist
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I en II zijn onjuist
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

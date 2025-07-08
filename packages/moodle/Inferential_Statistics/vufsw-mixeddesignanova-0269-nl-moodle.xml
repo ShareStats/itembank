@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-mixeddesignanova-0269-nl-moodle/inferential statistics/parametric techniques/anova/mixed design anova</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-mixeddesignanova-0269-nl_vufsw-mixeddesignanova-0269-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoekster bestudeert het effect van een uitgebreid opleidings-
+reïntegratieprogramma op criminaliteit onder jonge gedetineerden,
+gemeten op een schaal van 1 tot 15. Criminaliteit is gemeten vóór de
+arrestatie en na de vrijlating van de gedetineerden. Een random
+getrokken steekproef van zowel mannelijke en vrouwelijke gedetineerden
+is toegewezen aan het programma (dat tijdens de detentie gevolgd wordt
+terwijl een andere random getrokken steekproef van gedetineerden met
+vrijwel identieke kenmerken (i.e. geslacht, socio-economische status,
+land van herkomst, duur van gevangenisstraf, gevangenisstraffen van
+ouders) is getrokken die het programma niet gevolgd heeft.</p>
+<p>Welke analysemethode kan zij het best gebruiken om het effect van het
+programma te evalueren?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De onderzoekster wil weten of het programma een effect had op
+criminaliteit. Zij had data uit herhaaldelijke metingen van dezelfde
+individuen. Dus, zij moet een Mixed Design ANOVA gebruiken met het
+tijdstip als als within variable en het programma als between variable.
+Zij is niet geïnteresseerd naar man-vrouw verschillen. Dus, geslacht
+speelt geen rol in dit onderzoek.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+MANOVA met de 2 metingen van criminaliteit (voor en na de gevangenisstraf) als afhankelijke variabelen en geslacht als covariaat.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Mixed Design ANOVA met de schaal van criminaliteit als afhankelijke variabele, het tijdstip van de meting (voor of na de gevangenisstraf)  als <em>within variable </em>en het programma als<em> between </em>variable.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+One-way ANOVA met de meting van criminaliteit (voor en na de gevangenisstraf) als afhankelijke variabele en het moment van de meting als afhankelijke variabele
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Mixed Design ANOVA met de schaal van criminaliteit als afhankelijke variabele en met het tijdstip van de meting (voor of na de gevangenisstraf) als <em>within variable</em> en geslacht als <em>between variable</em>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

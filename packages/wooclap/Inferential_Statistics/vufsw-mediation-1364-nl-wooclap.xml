@@ -81,16 +81,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De constante .465 geeft de voorspelde score op ‘tvwatching’ aan, voor respondenten van wie de ouders het laagst zijn opgeleid (0) en vroeger het minst televisie keken (0)
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De constante .465 geeft het effect van de opleiding van de ouders op ‘tvwatching’ aan voor respondenten van wie de ouders vroeger het minst televisie keken (0)
@@ -98,6 +88,16 @@ De constante .465 geeft het effect van de opleiding van de ouders op ‘tvwatchi
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De constante .465 geeft de voorspelde score op ‘tvwatching’ aan, voor respondenten van wie de ouders het laagst zijn opgeleid (0) en vroeger het minst televisie keken (0)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

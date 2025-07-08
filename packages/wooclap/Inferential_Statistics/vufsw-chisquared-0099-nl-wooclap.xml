@@ -60,6 +60,16 @@ H<sub>a</sub>: Geslacht en antwoord zijn afhankelijk.</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+We kunnen de nulhypothese niet verwerpen, omdat de p-waarde kleiner is dan .05.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 We kunnen de nulhypothese verwerpen, omdat de geobserveerde chi-square groter is dan .05.
 </p>]]></text>
 <feedback format="html">
@@ -81,16 +91,6 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 We kunnen de nulhypothese verwerpen, omdat de geobserveerde chi-square kleiner is dan .05.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-We kunnen de nulhypothese niet verwerpen, omdat de p-waarde kleiner is dan .05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

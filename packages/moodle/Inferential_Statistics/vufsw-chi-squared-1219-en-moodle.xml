@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-chi-squared-1219-en-moodle/inferential statistics/nhst/test statistic/chi-squared</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-chi-squared-1219-en_vufsw-chi-squared-1219-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Consider the following contingency table with the variable income in the
+rows and the variable job satisfaction in the columns. The values in the
+cells are the observed frequencies. The values in parentheses are the
+expected frequencies.</p>
+<table class="tvcss_2 tvcss_3 tvcss_4">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td class="tvcss_5">
+<br />
+</td>
+<td class="tvcss_6">
+<br />
+</td>
+<td colspan="2" class="tvcss_7 tvcss_8">
+<em>Job satisfaction</em><br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_5">
+<br />
+</td>
+<td class="tvcss_6">
+<br />
+</td>
+<td class="tvcss_9">
+Unsatisfied
+</td>
+<td class="tvcss_10">
+Satisfied
+</td>
+</tr>
+<tr class="odd">
+<td rowspan="3" class="tvcss_5 tvcss_11">
+<em>Income</em><br />
+</td>
+<td class="tvcss_6">
+Below modal
+</td>
+<td class="tvcss_9">
+20 (15)
+</td>
+<td class="tvcss_10">
+10 (15)
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_6">
+Modal
+</td>
+<td class="tvcss_9">
+20 (20)
+</td>
+<td class="tvcss_10">
+20 (20)
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_6">
+Above modal
+</td>
+<td class="tvcss_9">
+10 (15)
+</td>
+<td class="tvcss_10">
+20 (15)
+</td>
+</tr>
+</tbody>
+</table>
+<p>Perform a Chi-square (<em>X</em><sup>2</sup>) test for the data presented in
+the table. What is the correct conclusion with α = 0.05?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+There is a statistical association between income and satisfaction, because the observed <em>X</em><sup>2</sup> is smaller than the critical <em>X</em><sup>2</sup>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+There is no statistical association between income and satisfaction, because the observed <em>X</em><sup>2</sup> is smaller than the critical <em>X</em><sup>2</sup>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+There is a statistical association between income and satisfaction, because the observed <em>X</em><sup>2</sup> is greater than the critical <em>X</em><sup>2</sup>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+There is no statistical association between income and satisfaction, because the observed <em>X</em><sup>2</sup> is greater than the critical <em>X</em><sup>2</sup>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

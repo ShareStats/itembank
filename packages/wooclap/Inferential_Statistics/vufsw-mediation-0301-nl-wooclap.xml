@@ -59,6 +59,36 @@ en taakvariatie als onafhankelijke variabele weer?</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+<em>a</em> en <em>c’</em>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<em>c</em>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<em>a</em> en <em>b</em>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 <em>b</em>
 </p>]]></text>
 <feedback format="html">
@@ -69,17 +99,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-<em>b</em> en <em>c’</em>
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-<em>c’</em>
+Deze regressie is incorrect.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -99,7 +119,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-<em>c</em>
+<em>b</em> en <em>c’</em>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -109,27 +129,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Deze regressie is incorrect.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-<em>a</em> en <em>c’</em>
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-<em>a</em> en <em>b</em>
+<em>c’</em>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-bayesian-statistics-969-nl-moodle/Inferential Statistics/Bayesian Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-bayesian-statistics-969-nl_uva-bayesian-statistics-969-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Vorige week ging Marja naar haar huisarts voor een medisch onderzoek.
+Vanmorgen vertelde haar huisarts dat het resultaat positief is ten
+aanzien van de ziekte <em>D</em>. In 95% van de gevallen is deze toets
+accuraat. Met andere woorden als iemand ziekte <em>D</em> heeft wordt dit in
+95% van de gevallen ontdekt met een positief resultaat. En als iemand
+geen ziekte <em>D</em> heeft levert dit ook in 95% van de gevallen een
+negatieve uitslag op. Eén op de 1000 vrouwen met dezelfde leeftijd als
+Marja heeft deze ziekte. Nemen we de gebeurtenissen:<br />
+<br />
+* <em>D</em> = De ziekte <em>D</em>,<br />
+* <em>P</em> = De toets met het positief resultaat.<br />
+<br />
+Wat is dan de kans P(<em>D</em> en <em>P</em>) dat Marja de ziekte <em>D</em> heeft en de
+test ook positief is?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,0095
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,0095: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,0025
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,0025: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,0001
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,0001: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,9025
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,9025: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

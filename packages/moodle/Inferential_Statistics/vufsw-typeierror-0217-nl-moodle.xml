@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-typeierror-0217-nl-moodle/inferential statistics/nhst/statistical errors/type I error</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-typeierror-0217-nl_vufsw-typeierror-0217-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Stel dat een onderzoeker die de effectiviteit van een nieuw medicijn
+onderzoekt een zogenoemde <strong>Type I fout </strong>maakt. Welke fout maakt
+hij/zij dan?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Language<br />
+Nederlands</p>
+<p>Levels of Difficulty<br />
+Easy</p>
+<p>M&amp;T Basics of quantitative research<br />
+Basics of quantitative research</p>
+<p>M&amp;T BIS<br />
+Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het medicijn heeft in werkelijkheid (in de populatie) geen effect, maar uit het onderzoek blijkt dat het geobserveerde verschil tussen de voor- en nameting <strong>niet</strong> significant is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het medicijn heeft in werkelijkheid (in de gehele populatie) een effect, maar uit het onderzoek blijkt dat het geobserveerde verschil tussen de voor- en nameting <strong>niet</strong> significant is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Het medicijn heeft in werkelijkheid (in de populatie) geen effect, maar uit het onderzoek blijkt dat het geobserveerde verschil tussen de voor- en nameting <strong>wel</strong> significant is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het medicijn heeft in werkelijkheid (in de gehele populatie) een effect, maar uit het onderzoek blijkt dat het geobserveerde verschil tussen de voor- en nameting <strong>wel</strong> significant is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

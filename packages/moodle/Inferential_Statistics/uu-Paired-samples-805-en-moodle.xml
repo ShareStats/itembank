@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Paired-samples-805-en-moodle/Inferential Statistics/Parametric Techniques/t-test/Paired samples</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Paired-samples-805-en_uu-Paired-samples-805-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>An eyeglass manufacturer is interested in finding out whether people can read a computer screen faster using glasses with specially coated lenses as opposed to glasses with regular (uncoated) lenses. Twenty people are asked to read a computer screen for 15 minutes with the coated lenses; on a separate day, the same 20 people are asked to read a computer screen for 15 minutes using lenses without the coating. The number of pages read by each participant for each condition was collected.</p>
+<p>Which statistical test should the researcher use?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+t Test for Independent Means
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+t Test for a single sample
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+t Test for Dependent Means
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Chi-Square Test for Independence
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

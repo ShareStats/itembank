@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Confidence-Intervals-801-en-moodle/Inferential Statistics/Confidence Intervals</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Confidence-Intervals-801-en_uu-Confidence-Intervals-801-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher conducts an intelligence test among 36 students who received a special training for this test. In the population the mean for this intelligence test is 100 with a standard deviation of 24 with normally distributed scores. The students who were given the special training have a sample mean of 110.</p>
+<p>What is the 99% confidence interval for the sample mean?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+&lt;99.7; 120.3&gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is correct.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+&lt;102.2; 117.8&gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+&lt;89.7; 110.3&gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+&lt;62.5; 158.5&gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

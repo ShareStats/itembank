@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-two-sided-hypothesis-1728-nl-moodle/Inferential Statistics/NHST/Hypothesis/Two sided hypothesis</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-two-sided-hypothesis-1728-nl_uva-two-sided-hypothesis-1728-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een onderzoek met een random steekproef van 93 mensen werd gevraagd
+of mensen het eens waren met de uitspraak van de rechter in de zaak
+Wilders. In die zaak besloot de rechter dat zijn film 'Fitna' niet
+oproept tot haat of geweld tegen moslims. Het percentage mensen dat het
+eens was met de uitspraak van de rechter was 55%. De onderzoekers wilden
+weten of het percentage in de populatie groter was dan 50%. Daartoe
+stelden de onderzoekers een nulhypothese op die stelt dathet percentage
+mensen die het eens is met de rechter 50% is. De P-waarde bij deze toets
+is</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.1674
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.1674: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.8172
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.8172: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.8495
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.8495: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

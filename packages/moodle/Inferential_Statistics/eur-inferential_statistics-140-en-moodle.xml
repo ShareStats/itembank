@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-140-en-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Oneway repeated measures ANOVA</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-140-en_eur-inferential_statistics-140-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher from Erasmus University Rotterdam is investigating the possible advantages of PBL on students’ social competencies and has gathered social competency scores about students on four occasions. These scores come from observations by the researcher 2 days after their first PBL group (T1_social), six months after their first PBL tutor group (T2­_social), a year after their first PBL tutor group (T3_social) and a year and a half after their first PBL tutor group (T4_social). At these four occasions, social competence was measured using a semi-structured interview with scores varying from 0 (not social) to 40 (very social). Additionally, the researcher determines whether a student is shy or not [SHY].</p>
+<p>Open the data file.</p>
+<p>Conduct an analysis for all subjects to determine whether the level of social competency differs between the four measurements ? [T1_social, T2_social, T3_social, T4_social]. What is the F-value for this effect according to univariate approach? (3 decimals)</p>
+<p><strong>Download</strong>: <a href="@@PLUGINFILE@@/eur-inferential_statistics-140-en-data.sav">SPSS file</a>, <a href="@@PLUGINFILE@@/eur-inferential_statistics-140-en-data.csv">CSV file</a></p>
+</p>]]></text>
+<file name="eur-inferential_statistics-140-en-data.sav" encoding="base64">JEZMMkAoIykgSUJNIFNQU1MgU1RBVElTVElDUyA2NC1iaXQgTVMgV2luZG93cyAyMS4wLjAuMCAgICAgICAgIAIAAAAGAAAAAQAAAAAAAAArAAAAAAAAAAAAWUAwNCBGZWIgMTUwODowODoxMyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAAAAACAAAAAAAAAAAAAAAAAAAAAAIFAAACBQBQUCAgICAgIAIAAAAAAAAAAAAAAAAAAAAAAgUAAAIFAFQxX1NPQ0lBAgAAAAAAAAAAAAAAAAAAAAACBQAAAgUAVDJfU09DSUECAAAAAAAAAAAAAAAAAAAAAAIFAAACBQBUM19TT0NJQQIAAAAAAAAAAAAAAAAAAAAAAgUAAAIFAFQ0X1NPQ0lBAgAAAAAAAAAAAAAAAAAAAAAIBQAACAUAU0hZICAgICADAAAAAgAAAAAAAAAAAAAAB25vdCBzaHkAAAAAAADwPwNzaHkgICAgBAAAAAEAAAAGAAAABwAAAAMAAAAEAAAACAAAABUAAAAAAAAAAAAAANACAAABAAAAAQAAAAIAAADp/QAABwAAAAQAAAAIAAAAAwAAAP///////+//////////73/+///////v/wcAAAALAAAABAAAABIAAAADAAAACAAAAAEAAAADAAAADAAAAAEAAAADAAAADAAAAAEAAAADAAAADAAAAAEAAAADAAAADAAAAAEAAAABAAAADAAAAAAAAAAHAAAADQAAAAEAAABZAAAAUFA9cHAJVDFfU09DSUE9VDFfc29jaWFsCVQyX1NPQ0lBPVQyX3NvY2lhbAlUM19TT0NJQT1UM19zb2NpYWwJVDRfU09DSUE9VDRfc29jaWFsCVNIWT1zaHkHAAAAEAAAAAgAAAACAAAAAQAAAAAAAAArAAAAAAAAAAcAAAASAAAAAQAAAHwAAABwcDokQFJvbGUoJzAnCikvVDFfc29jaWFsOiRAUm9sZSgnMCcKKS9UMl9zb2NpYWw6JEBSb2xlKCcwJwopL1QzX3NvY2lhbDokQFJvbGUoJzAnCikvVDRfc29jaWFsOiRAUm9sZSgnMCcKKS9zaHk6JEBSb2xlKCcwJwopBwAAABQAAAABAAAABQAAAFVURi04BwAAABgAAAABAAAAJAEAADw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IlVURi04Ij8+PERBVEFWSUVXX1RBQkxFX0ZPUk1BVCBUTVBfREVTQ1JJUFRJT049IlNhdmUgZmlsZSBmb3IgZm9ybWF0IHByb3BlcnRpZXMgaW4gZGF0YXZpZXcgdGFibGUiIFZBUl9JRFM9IjowOjE6MjozOjQ6NSIgVkVSU0lPTj0iMSI+PEJLX0NPTE9SPjxXSE9MRV9UQUJMRSBWQUxVRT0iIi8+PC9CS19DT0xPUj48Rk9SRUdST1VORF9DT0xPUj48V0hPTEVfVEFCTEUgVkFMVUU9IiIvPjwvRk9SRUdST1VORF9DT0xPUj48L0RBVEFWSUVXX1RBQkxFX0ZPUk1BVD7nAwAAAAAAAGV9eXV0ZWZ+eHJzZWd9e3R2ZWh9d3R4ZWmBenZ1ZWp+eHV1ZWt9eXV1ZGyAenh2ZG18eHRzZW6AeXR2ZG99eHR1ZXB6eXN0ZXF+eXV0ZXJ+fHV1ZHN6d3NzZXR8eXN1ZHV9d3RyZHZ4eHBwZXd+enR1ZHh9enZ0ZXl7d3R0ZXp5dW9xZXt8eHN2ZXx+enV1ZH18eXVzZH56d3N0ZH+Ad3N2ZIB8eHV2ZIF7dnRxZYJ+fHZ4ZIN+enZ2ZIR+e3Z4ZIWBeHZ2ZIZ+enV0ZYd/eHV0ZIh9d3RzZYl+d3VzZIqDfXp3ZIt+e3R0ZIx/fHR1ZI1/e3V2ZI59eHV2ZI9/end1ZAAAAAAAAA==</file>
+<file name="eur-inferential_statistics-140-en-data.csv" encoding="base64">77u/cHAsVDFfc29jaWFsLFQyX3NvY2lhbCxUM19zb2NpYWwsVDRfc29jaWFsLHNoeQoxLDI1LDIxLDE3LDE2LDEKMiwyNiwyMCwxNCwxNSwxCjMsMjUsMjMsMTYsMTgsMQo0LDI1LDE5LDE2LDIwLDEKNSwyOSwyMiwxOCwxNywxCjYsMjYsMjAsMTcsMTcsMQo3LDI1LDIxLDE3LDE3LDAKOCwyOCwyMiwyMCwxOCwwCjksMjQsMjAsMTYsMTUsMQoxMCwyOCwyMSwxNiwxOCwwCjExLDI1LDIwLDE2LDE3LDEKMTIsMjIsMjEsMTUsMTYsMQoxMywyNiwyMSwxNywxNiwxCjE0LDI2LDI0LDE3LDE3LDAKMTUsMjIsMTksMTUsMTUsMQoxNiwyNCwyMSwxNSwxNywwCjE3LDI1LDE5LDE2LDE0LDAKMTgsMjAsMjAsMTIsMTIsMQoxOSwyNiwyMiwxNiwxNywwCjIwLDI1LDIyLDE4LDE2LDEKMjEsMjMsMTksMTYsMTYsMQoyMiwyMSwxNywxMSwxMywxCjIzLDI0LDIwLDE1LDE4LDEKMjQsMjYsMjIsMTcsMTcsMAoyNSwyNCwyMSwxNywxNSwwCjI2LDIyLDE5LDE1LDE2LDAKMjcsMjgsMTksMTUsMTgsMAoyOCwyNCwyMCwxNywxOCwwCjI5LDIzLDE4LDE2LDEzLDEKMzAsMjYsMjQsMTgsMjAsMAozMSwyNiwyMiwxOCwxOCwwCjMyLDI2LDIzLDE4LDIwLDAKMzMsMjksMjAsMTgsMTgsMAozNCwyNiwyMiwxNywxNiwxCjM1LDI3LDIwLDE3LDE2LDAKMzYsMjUsMTksMTYsMTUsMQozNywyNiwxOSwxNywxNSwwCjM4LDMxLDI1LDIyLDE5LDAKMzksMjYsMjMsMTYsMTYsMAo0MCwyNywyNCwxNiwxNywwCjQxLDI3LDIzLDE3LDE4LDAKNDIsMjUsMjAsMTcsMTgsMAo0MywyNywyMiwxOSwxNywwCg==</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De F-value is 521.962.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>521.962</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

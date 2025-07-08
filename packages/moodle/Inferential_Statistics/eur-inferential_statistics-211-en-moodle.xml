@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-211-en-moodle/Inferential Statistics/Regression/Multiple linear regression/R squared change, Inferential Statistics/Regression/Simple linear regression, Inferential Statistics/Regression/R squared</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-211-en_eur-inferential_statistics-211-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In order to select new personnel the police-force uses a procedure in which applicants are rated on three continuous scales: stress-resistance, sociability, and intelligence. To study the validity of this procedure a random sample of police officers is rated on these three psychological scales. Additionally, their supervisor rates their overall functioning on a scale ranging from 0 (poor functioning) to 100 (excellent functioning).</p>
+<p>A researcher wants to know whether stress-resistance and sociability together explain a significant proportion of the variation in overall functioning after controlling for intelligence.
+Which analysis technique is most suited for this purpose?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Hierarchical regression analysis is the correct answer. You want to know what the effect is of two continuous variables on overall functioning when controlling for a third continuous variable. Out of these options, only a hierarchical regression will give an answer to this question through R-squared change.</p>
+<p>A multiple regression analysis would only test for a general effect (explained variance) and would not control for a specific variable.</p>
+<p>Mixed ANOVA is irrelevant as there is no mix of between- and within-subjects factors.</p>
+<p>An ANCOVA is also not relevant here. You use an ANCOVA when you want to look at the effect of a categorical independent variable on a continuous dependent variable, while controlling for another continuous variable (covariate) that covariates with the dependent variable. In this case, there is no categorical independent variable.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Hierarchical regression analysis
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Multiple regression analysis (method: enter)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Mixed ANOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+ANCOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

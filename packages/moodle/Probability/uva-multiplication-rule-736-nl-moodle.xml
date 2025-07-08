@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-multiplication-rule-736-nl-moodle/Probability/Elementary Probability/General Rules/Multiplication rule</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-multiplication-rule-736-nl_uva-multiplication-rule-736-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Op de Nederlandse universiteiten stroomt jaarlijks 3% van de studenten
+na hun afstuderen door naar een promotieplek. Na 10 jaar is 80% van de
+gepromoveerde studenten nog steeds werkzaam aan een wetenschappelijk
+instituut. Wat is de kans dat een aselect gekozen universitair student
+10 jaar na zijn afstuderen werkzaam is bij een wetenschappelijk
+instituut?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,024
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,024: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,062
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,062: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,125
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,125: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,830
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,830: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

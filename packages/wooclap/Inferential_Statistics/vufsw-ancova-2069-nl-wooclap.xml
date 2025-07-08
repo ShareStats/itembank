@@ -61,16 +61,6 @@ regression slopes’ van ANCOVA is voldaan?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Door aan analyse 2 de interactie tussen culpar_1 en cjp toe te voegen; de <em>F</em>-waarde van het interactie-effect tussen beide toetst de assumptie
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Door aan analyse 2 de interactie tussen culpar_1 en cjp toe te voegen; de <em>F</em>-waarde van het ‘corrected model’ toetst deze assumptie
@@ -83,7 +73,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Door culpar_1 als afhankelijke variabele te nemen en cjp als onafhankelijke; de <em>F</em>-waarde van het interactie-effect tussen beide toetst de assumptie
+Door culpar_1 als afhankelijke variabele te nemen en cjp als onafhankelijke; de <em>F</em>-waarde van het ‘corrected model’ toetst deze assumptie
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -91,9 +81,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Door aan analyse 2 de interactie tussen culpar_1 en cjp toe te voegen; de <em>F</em>-waarde van het interactie-effect tussen beide toetst de assumptie
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Door culpar_1 als afhankelijke variabele te nemen en cjp als onafhankelijke; de <em>F</em>-waarde van het ‘corrected model’ toetst deze assumptie
+Door culpar_1 als afhankelijke variabele te nemen en cjp als onafhankelijke; de <em>F</em>-waarde van het interactie-effect tussen beide toetst de assumptie
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

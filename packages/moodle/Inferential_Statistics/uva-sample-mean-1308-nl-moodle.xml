@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-sample-mean-1308-nl-moodle/Inferential Statistics/Sampling Distributions/Sample mean</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-sample-mean-1308-nl_uva-sample-mean-1308-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een farmaceutisch bedrijf verklaart dat 30% van de patiënten die een
+nieuwe allergiemedicatie gebruikt zich slaperig voelt. Om deze
+verklaring te controleren wordt er aan 450 willekeurig gekozen mensen
+gevraagd dit medicijn te gebruiken. We meten X is het aantal mensen dat
+zich slaperig voelt. De kans dat 160 of meer mensen in de steekproef
+zich slaperig voelen is te schrijven als:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+P(X ≥ 0,30)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P(X ≥ 0,30): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+P(X ≥ 0,36)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P(X ≥ 0,36): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+P(X ≤ 0,36)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P(X ≤ 0,36): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+P(X ≥ 160)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P(X ≥ 160): Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+P (160 ≤ X≤ 450)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P (160 ≤ X≤ 450): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

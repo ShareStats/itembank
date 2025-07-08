@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Power-819-nl-moodle/Inferential Statistics/NHST/Power</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Power-819-nl_uu-Power-819-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een middelbare school gebruikt lesmethode A voor wiskunde; het gemiddelde cijfer voor deze lesmethode is <span class="math inline">\(\mu\)</span>A = 6.67 met <span class="math inline">\(\sigma\)</span> = 2. De directeur van de school wil overstappen op lesmethode B die volgens de ontwerpers van de methode een gemiddelde van <span class="math inline">\(\mu\)</span>B = 7.00 heeft. De wiskundedocenten zijn echter sceptisch en willen eerst bewijs. Men besluit daarom in het volgende semester een steekproef van 100 leerlingen lesmethode B te laten volgen. Indien mocht blijken dat in deze steekproef de H0: <span class="math inline">\(\mu\)</span>B ≤ <span class="math inline">\(\mu\)</span>A met <span class="math inline">\(\alpha\)</span> = 5% kan worden verworpen, dan zal de school overstappen op lesmethode B. Indien de ontwerpers van lesmethode gelijk hebben en <span class="math inline">\(\mu\)</span>B inderdaad gelijk is aan 7.00, hoe groot is de kans dat de school overgaat op lesmethode B (m.a.w., wat is de power van de toets)?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+34.1%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+50.0%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is correct.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+68.2%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+84.1%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -68,6 +68,16 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De SE(b) geeft aan hoe groot de spreiding is van het geschatte effect van tv kijken (X) op studieprestaties (Y), indien we meerdere steekproeven zouden nemen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De SE(b) geeft aan in hoeverre het gehanteerde significantieniveau afwijkt van het geschatte effect van tv kijken (X) op studieprestaties (Y).
@@ -85,16 +95,6 @@ De SE(b) geeft aan wat het geschatte effect van tv kijken (X) op studieprestatie
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De SE(b) geeft aan hoe groot de spreiding is van het geschatte effect van tv kijken (X) op studieprestaties (Y), indien we meerdere steekproeven zouden nemen.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

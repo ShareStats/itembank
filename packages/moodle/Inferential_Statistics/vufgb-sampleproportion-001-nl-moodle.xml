@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-sampleproportion-001-nl-moodle/Inferential Statistics/Sampling Distributions/Sample proportion</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-sampleproportion-001-nl_vufgb-sampleproportion-001-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Vul in:</p>
+<ol style="list-style-type: lower-roman">
+<li>De … toets wordt gebruikt voor het toetsen van het verschil in proporties tussen <em>grote afhankelijke steekproeven</em>.</li>
+<li>De … toets wordt gebruikt voor het verschil in proporties tussen <em>kleine onafhankelijke steekproeven</em>.</li>
+</ol>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+i: binomiaal, ii: Chi-kwadraat.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+i: Chi-kwadraat, ii: binomiaal.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+i: McNemar, ii: Fisher’s exacte.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+i: Fisher’s exacte, ii: McNemar.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

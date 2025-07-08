@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-sample-mean-1309-nl-moodle/Inferential Statistics/Sampling Distributions/Sample mean</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-sample-mean-1309-nl_uva-sample-mean-1309-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een student heeft zich niet voorbereid op een waar-onwaar test die 20
+vragen bevat. Daarom gokt hij bij elke vraag. Bij 70% juiste antwoorden
+is hij geslaagd. Stel <em>X</em> is het aantal vragen waarop hij het juiste
+antwoord geeft. De kans dat die student slaagt voor deze test is te
+schrijven als:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+P(X = 70%)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P(X = 70%): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+P(X ≥ 30%)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P(X ≥ 30%): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+P(X ≥ 70%)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P(X ≥ 70%): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+P(X ≥ 14)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P(X ≥ 14): Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+P(X &gt; 15)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P(X &gt; 15): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

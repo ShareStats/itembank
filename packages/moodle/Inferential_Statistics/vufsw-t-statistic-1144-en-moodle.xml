@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-t-statistic-1144-en-moodle/inferential statistics/nhst/test statistic/t-statistic</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-t-statistic-1144-en_vufsw-t-statistic-1144-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher asks 160 randomly chosen people what the ideal group size
+(in number of persons) is to work as a team on an assignment. The
+respondents’ response is on average 6.3, with a standard deviation of
+2.8. The researcher tests whether this average deviates significantly
+from a test average of 8.</p>
+<p>Suppose that instead of 160 people, only 80 people would have
+participated in the study, and that the average (6.3) and standard
+deviation (2.8) would be the same. What does the decrease in the number
+of respondents mean for the calculated (observed) t-value?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The absolute t-value has become smaller.</p>
+<p>t=mean-mean(test)/se and the se=S/ √n</p>
+<p>If n becomes smaller than the se becomes higher, thus t becomes
+smaller.</p>
+<p>If you want to know more about this t-test watch this  
+<a href="https://www.youtube.com/watch?v=9V6L3Zu3PP0&amp;index=3&amp;list=PLyLpEs0x9BnkUdochj7JEC-2javLshojj">clip</a></p>
+<p>Language<br />
+Nederlands</p>
+<p>Levels of Difficulty<br />
+Difficult</p>
+<p>M&amp;T BIS<br />
+Default value</p>
+<p>M&amp;T Hypothesis testing: means<br />
+Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Data is missing to calculate the t-value
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The absolute t-value has become smaller.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The absolute t-value has become higher.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The t-value is unchanged.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

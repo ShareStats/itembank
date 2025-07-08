@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-chisquaredforindependence-004-nl-moodle/Inferential Statistics/Parametric Techniques/Cross tables/Chi-Squared for Independence</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-chisquaredforindependence-004-nl_vufgb-chisquaredforindependence-004-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Gegeven is onderstaande kruistabel voor twee categorische variabelen.</p>
+<p>Vul aan: De conditionele verdelingen zijn …, dus de variabelen zijn … .</p>
+<p><img src="@@PLUGINFILE@@/vufgb-chisquaredforindependence-004-nl-table01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-chisquaredforindependence-004-nl-table01.jpg" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAASEAAABQCAYAAABWFMPLAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAABMBSURBVHhe7Z0FjB1FGMeLW3H3YAWKOxxuJQQKhBZ3KFAoBNcQmhQroTjFXYNTXAMEhxZtcdcWl+Iy5DfduZs33d2Zvdvbefv6/ZJNb6Xz7r5v9j+zszP/12PYsGFKEAQhFj2SfwVBEKLQLkI9evSQTTbZZKtks2kQIaH7kPg2H5KTOIgIRULi23xITuIgIhQJiW/zITmJg4hQJCS+zYfkJA4iQpGQ+DYfVebkm2++UfPMM4+68MILkyMT8++//6qlllpKHXnkkcmR1kREKBIh8b3sssvUzDPPnOwJ3Y0vJ2ussYZaccUV1V9//ZUcaWTs2LFq9tlnV/vss09yJJuffvpJrbPOOuqWW25JjkzMf//9p7bcckt15plnJkdaExGhSIgINR8hIsQ1p556anKkkZ133lnNN998QSIkdCAiFInOiNAnn3yi+vXrp+aaay7dld9tt93U119/nZxVarrpplMjRoxQbW1tavrpp1errbaaGj16tD535ZVXqsUWW0xNOeWU+rPZuKng448/VltvvbWaYYYZ1IILLqhOOukk/ShgyCuXG5LfZc4551R77bWX+vnnn/XxOuLLCfHacccddTw++OCD5OgEHnnkEbXKKquoAw88sF2EfHGl13Tdddfpn7PiSJn8P/CVV9dcuHEXEaqIkPjaIvTnn3+qJZdcUg0YMED9+OOP6ttvv1XbbrutWnvttXW3HaaZZhq14YYbqnfeeUf99ttvusKy/+mnn6rJJptMPffcc/rac889Vy200EL68eGPP/5Qiy++uL5xqLSff/65Wn311dXFF1+sy4Sscl9++WUtamPGjFG///67uvPOOzMfVepAiAiRE8R/s802S44qHcNevXqpJ598Ug0aNEjHMiSuRoTy4mhEyFdenXMhIhSJoiJ033336Uo2fvx4vQ+0jJRDBQTEgspnuOGGG/T//+KLL/T/ffrpp9Xff/+txxio0HDPPfeoaaedVv366696H+644w4tboascqnwk08+ub6RKLfuhIoQg8pzzDGHuvHGG/XxwYMH6x4qGBEKiasRobw4GhHylVfnXIgIRSJUhGaZZRb98/Dh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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Gelijk; Onafhankelijk
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ongelijk; Onafhankelijk
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Gelijk; Afhankelijk
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ongelijk; Afhankelijk
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

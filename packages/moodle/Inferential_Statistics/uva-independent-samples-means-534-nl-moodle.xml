@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-independent-samples-means-534-nl-moodle/Inferential Statistics/Parametric Techniques/t-test/Independent samples means</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-independent-samples-means-534-nl_uva-independent-samples-means-534-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Om twee populaties met elkaar te vergelijken wordt uit beide een
+steekproef getrokken met de volgende resultaten:<br />
+Groep 1: n = 10, gemiddelde = 107, variantie = 400<br />
+Groep 2: n = 12, gemiddelde = 112, variantie = 484<br />
+Bij het tweezijdig toetsen (met α = 0.05) van de hypothese dat de
+populatiegemiddelden gelijk zijn, zijn de grenzen van het kritieke
+gebied gelijk aan</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+±1.7171
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+±1.7171: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+±1.7247
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+±1.7247: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+±2.0739
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+±2.0739: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+±2.0860
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+±2.0860: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

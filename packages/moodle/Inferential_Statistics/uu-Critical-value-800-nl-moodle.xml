@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Critical-value-800-nl-moodle/Inferential Statistics/NHST/Significance level/Critical value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Critical-value-800-nl_uu-Critical-value-800-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Aan een aselecte steekproef van werknemers van een groot ziekenhuis wordt gevraagd een vragenlijst in te vullen over de voldoening van de werkzaamheden en werkomstandigheden binnen het ziekenhuis. De voldoeningscores liggen tussen de 1 (erg ontevreden) en de 7 (zeer voldaan). Een onderzoeker van het planbureau die het onderzoek uitvoert, gaat onderzoeken of fulltime en parttime medewerkers verschillen tonen in mate van werkvoldoening. Er waren 25 fulltime werknemers en 30 parttimers in de steekproef. Aangezien de verdeling van de voldoeningscores erg scheef was, gebruikt de onderzoeker een Mann-Whitney U-toets. De waarde van de toetsingsgrootheid is 267. Zijn er significante verschillen tussen fulltime en parttime medewerkers bij <span class="math inline">\(\alpha = .05\)</span>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Nee, want de toetsingsgrootheid is kleiner dan de kritieke waarde.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ja, want 267 is groter dan de kritieke waarde.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ja, want de p-waarde is kleiner dan .05.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dat kunnen we niet zeggen a.d.h.v. de gegeven informatie.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

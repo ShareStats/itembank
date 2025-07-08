@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-inferentialstatistics-0131-nl-moodle/inferential statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_vufsw-inferentialstatistics-0131-nl_vufsw-inferentialstatistics-0131-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>De medische faculteit van de VU voert een onderzoek uit naar de
+effectiviteit van een medicijn dat tot een lagere bloeddruk moet leiden.
+Hiervoor wordt in een groep van 31 personen de bloeddruk <em>voor</em> het
+gebruik van het medicijn vergeleken met de bloeddruk <em>nadat</em> het
+medicijn drie weken is gebruikt door de onderzochte personen. De
+eenzijdige hypothese werd getoetst met een significantieniveau van 5% (α
+= .05).</p>
+<p>Een andere onderzoeker repliceert (herhaalt) dit onderzoek, met een
+nieuwe steekproef van 52 proefpersonen. Hij komt tot een andere
+conclusie over de effectiviteit van het medicijn dan het vorige
+onderzoek.</p>
+<p>Hoe kunnen we zo’n tegenstrijdige uitkomst verklaren?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De tweede onderzoeker gebruikt een grotere steekproef (N=52).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Alle bovenstaande antwoorden geven een mogelijke verklaring voor zo’n tegenstrijdige uitkomst.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De tweede onderzoeker observeert andere verschilscores in zijn steekproef.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De tweede onderzoeker hanteert een ander significantieniveau.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De tweede onderzoeker kiest een andere kritieke t-waarde.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

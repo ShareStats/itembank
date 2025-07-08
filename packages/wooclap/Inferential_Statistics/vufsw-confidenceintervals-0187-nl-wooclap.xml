@@ -50,13 +50,13 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Bij een 95% betrouwbaarheidsinterval ligt de geschatte steekproefwaarde altijd in het “kritieke gebied” van 5%.
+Bij een 95% betrouwbaarheidsinterval ligt de puntschatter (<em>point estimate</em>) altijd in het midden van het interval.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -80,13 +80,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Bij een 95% betrouwbaarheidsinterval ligt de puntschatter (<em>point estimate</em>) altijd in het midden van het interval.
+Bij een 95% betrouwbaarheidsinterval ligt de geschatte steekproefwaarde altijd in het “kritieke gebied” van 5%.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>

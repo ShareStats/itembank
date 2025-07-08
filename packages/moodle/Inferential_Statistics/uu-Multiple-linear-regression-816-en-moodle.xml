@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Multiple-linear-regression-816-en-moodle/Inferential Statistics/Regression/Multiple linear regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Multiple-linear-regression-816-en_uu-Multiple-linear-regression-816-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>College Hall is concerned that an active social life will interfere with students’ academic performance. To test this hypothesis, a researcher conducts regression analysis. Their dependent variable is students’ performance on the statistics exam (percentage of correct answers). Their independent variables are: number of hours studied per week, age in years, major (1) Humanities, 2) Science, 3) Social Science, or 4) Other), the personality trait conscientiousness (on a 7-point Likert scale), and the number of parties attended per week. After conducting a multiple regression analysis, the researcher is not sure which statistic to report to College Hall, in order to convey the relative importance of the number of parties attended per week as a predictor of exam performance. Can you help?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+B
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Beta
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is correct.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(R^2\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+p-value
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

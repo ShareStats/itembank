@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-independent-samples-means-172-nl-moodle/Inferential Statistics/Parametric Techniques/t-test/Independent samples means</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-independent-samples-means-172-nl_uva-independent-samples-means-172-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een onderzoek naar jeugddelinquentie in de Verenigde Staten binnen de
+Afro-Amerikaanse bevolkingsgroep, wordt een random steekproef getrokken
+van 56 proefpersonen uit de groep jongeren met alleenstaande moeders en
+van 52 proefpersonen uit de groep jongeren met beide biologische ouders.
+Delinquentie wordt gemeten met vier dichotome (binaire) vragen: (i) ben
+je in aanraking geweest met de politie, (ii) ben je ooit gearresteerd
+geweest, (iii) ben je ooit voorgeleid voor de rechtbank en (iv) heb je
+in de gevangenis gezeten. De score van iedere proefpersoon was het
+aantal vragen waarop 'ja' was geantwoord. De gemiddelde score was 1,2
+met standaarddeviatie 1,5 voor jongeren met alleenstaande moeders, en
+een gemiddelde van 2,7 en standaarddeviatie 1,5 voor jongeren uit een
+gezin met beide biologische ouders. De onderzoekers zijn geïnteresseerd
+in de vraag of het populatiegemiddelde van de jongeren van de
+alleenstaande moeders anders is dan dat van de jongeren met beide
+biologische ouders. De onderzoekers nemen aan dat de standaarddeviatie
+in beide populaties hetzelfde is en komen tot <em>standard error</em> 0.538
+voor het verschil in gemiddelden en vrijheidsgraden 100. De nulhypothese
+dat de twee populatiegemiddelden gelijk zijn kan</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+niet worden verworpen bij 0.001 maar wel bij 0.002.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+niet worden verworpen bij 0.001 maar wel bij 0.002.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+niet worden verworpen bij 0.002 maar wel bij 0.010.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+niet worden verworpen bij 0.002 maar wel bij 0.010.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+niet worden verworpen bij 0.010 maar wel bij 0.025.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+niet worden verworpen bij 0.010 maar wel bij 0.025.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

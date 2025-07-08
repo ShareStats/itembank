@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-oneway-anova-497-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-oneway-anova-497-nl_uva-oneway-anova-497-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Hieronder staat een gedeeltelijk ingevulde ANOVA-tabel, behorende bij
+een Completely Randomized Design (Oneway) ANOVA.</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Source of variation</td>
+<td style="text-align: left;">SS</td>
+<td style="text-align: left;">df</td>
+<td style="text-align: left;">MS</td>
+<td style="text-align: left;">F</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Between groups</td>
+<td style="text-align: left;">27</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Within groups</td>
+<td style="text-align: left;">24</td>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+<p>De kritieke waarde uit de F-tabel (bij toetsing met een risico van 5%)
+die hier van toepassing is, is gelijk aan</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3.49
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+3.49: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.98
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+3.98: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.95
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+5.95: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.74
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+8.74: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

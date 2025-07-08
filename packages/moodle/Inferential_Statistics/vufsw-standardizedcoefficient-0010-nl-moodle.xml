@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-standardizedcoefficient-0010-nl-moodle/inferential statistics/regression/standardized coefficient</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-standardizedcoefficient-0010-nl_vufsw-standardizedcoefficient-0010-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Bij een regressie-analyse kun je het effect van X op Y uitdrukken in de
+‘gewone’ (ongestandaardiseerde) b-coëfficiënt en in de
+gestandaardiseerde b-coëfficiënt (‘Beta’).</p>
+<p>Wat is de beste omschrijving van de betekenis van de gestandaardiseerde
+b-coëfficiënt (‘Beta’)?</p>
+<p>De gestandaardiseerde b-coëfficiënt (‘Beta’) geeft aan…</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Language<br />
+Nederlands</p>
+<p>Levels of Difficulty<br />
+Easy</p>
+<p>M&amp;T Basics of quantitative research<br />
+Basics of quantitative research</p>
+<p>M&amp;T BIS<br />
+Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+wat de gemiddelde waarde is van Y, wanneer X de waarde 0 heeft.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+hoeveel de waarde van Y verandert, uitgedrukt in standaardeviaties van Y, wanneer X met één standaarddeviatie toeneemt.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+hoeveel de waarde van Y verandert, uitgedrukt op een schaal die loopt van 0 t/m 1, wanneer X toeneemt van 0 naar 1.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+hoeveel de waarde van Y verandert, wanneer X met één toeneemt, terwijl de omgekeerde invloed van Y op X constant wordt gehouden.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

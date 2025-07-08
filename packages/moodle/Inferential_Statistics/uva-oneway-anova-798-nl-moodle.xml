@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-oneway-anova-798-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-oneway-anova-798-nl_uva-oneway-anova-798-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In de tabel staat deels het resultaat van een ANOVA met één factor.</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Source</td>
+<td style="text-align: left;">df</td>
+<td style="text-align: left;">SS</td>
+<td style="text-align: left;">MS</td>
+<td style="text-align: left;">F</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Groups</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Error</td>
+<td style="text-align: left;">25</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Total</td>
+<td style="text-align: left;">28</td>
+<td style="text-align: left;">35</td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+</tr>
+</tbody>
+</table>
+<p>Gegeven is het significantieniveau van 0.05. Dan volgt uit de tabel dat</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4 ≤ F ≤ 5 en dus kan de nulhypothese van ANOVA worden verworpen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+4 ≤ F ≤ 5 en dus kan de nulhypothese van ANOVA worden verworpen.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6 ≤ F ≤ 7 en dus kan de nulhypothese van ANOVA worden verworpen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+6 ≤ F ≤ 7 en dus kan de nulhypothese van ANOVA worden verworpen.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+F ≤ 2 en dus kan de nulhypothese van ANOVA niet worden verworpen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+F ≤ 2 en dus kan de nulhypothese van ANOVA niet worden verworpen.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

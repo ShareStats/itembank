@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-cross_tables-1256-en-moodle/inferential statistics/parametric techniques/cross tables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-cross_tables-1256-en_vufsw-cross_tables-1256-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In 2015, a research bureau commissioned by the government asked a sample
+of random men and women how much trust they have in current healthcare.
+The results are shown below. The value 563 for the category a little
+confidence and woman is….</p>
+<table class="table_shade">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td class="tvcss_2">
+<br />
+</td>
+<td class="tvcss_3">
+Great confidence
+</td>
+<td class="tvcss_4">
+A little confidence
+</td>
+<td class="tvcss_5">
+No confidence
+</td>
+<td>
+Total
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_2">
+Men
+</td>
+<td class="tvcss_3">
+348
+</td>
+<td class="tvcss_4">
+416
+</td>
+<td class="tvcss_5">
+82
+</td>
+<td>
+846
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_2">
+Women
+</td>
+<td class="tvcss_3">
+430
+</td>
+<td class="tvcss_4">
+<strong>563</strong>
+</td>
+<td class="tvcss_5">
+134
+</td>
+<td>
+1127
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_2">
+Total
+</td>
+<td class="tvcss_3">
+778
+</td>
+<td class="tvcss_4">
+979
+</td>
+<td class="tvcss_5">
+216
+</td>
+<td>
+1973
+</td>
+</tr>
+</tbody>
+</table>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>It is just the observed number.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The observed number
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The observed number if gender and confidense are dependent.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The observed number if gender and cofidence are independent.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

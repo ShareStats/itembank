@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-measures-of-location-132-nl-moodle/Descriptive statistics/Summary Statistics/Measures of Location</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-measures-of-location-132-nl_uva-measures-of-location-132-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Op basis van een <em>random sample</em> van n = 30 personen wil ik een 99% <em>confidence interval</em> voor het populatiegemiddelde opstellen. In de steekproef is het gemiddelde 10,23 en de standaardafwijking 3,9. De <em>margin of error</em> is dan gelijk aan</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.454
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1.454: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.834
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1.834: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.962
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1.962: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

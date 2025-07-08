@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-oddsratio-003-en-moodle/Descriptive statistics/Summary Statistics/Odds ratio</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_vufgb-oddsratio-003-en_vufgb-oddsratio-003-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher would like to know whether there is a difference between female students
+(group 1) and male students (group 2) in the share of students that have moved out
+of their parents’ house. Based on the table below, calculate the odds ratio indicating
+this difference.</p>
+<p>Formula for the odds ratio:</p>
+<p><span class="math inline">\(\theta = \frac{\frac{\pi_{1}}{(1-\pi_{1})}}{\frac{\pi_{2}}{(1-\pi_{2})}}\)</span></p>
+<p><img src="@@PLUGINFILE@@/vufgb-oddsratio-003-en-table01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-oddsratio-003-en-table01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.23
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.89
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.55
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.37
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

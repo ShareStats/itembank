@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-test-576-nl-moodle/Inferential Statistics/Parametric Techniques/t-test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-test-576-nl_uva-test-576-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Van een steekproef van 10 twintigjarige mannen is hun longinhoud bepaald
+en de afstand die ze in 15 minuten hardlopend kunnen afleggen. De
+Pearson correlatie tussen deze variabelen bleek 0.60 te zijn. De
+nulhypothese ρ = 0 wordt dan bij toetsing (α = 0.05 tweezijdig)</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+verworpen, een significant resultaat
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+verworpen, een significant resultaat: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+verworpen, geen significant resultaat
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+verworpen, geen significant resultaat: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+niet verworpen, een significant resultaat
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+niet verworpen, een significant resultaat: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+niet verworpen, geen significant resultaat
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+niet verworpen, geen significant resultaat: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

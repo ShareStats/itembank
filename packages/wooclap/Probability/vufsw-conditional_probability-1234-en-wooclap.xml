@@ -102,21 +102,11 @@ And what is the correct interpretation of this number?</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-1.27; those who wore a t-shirt had a 1.27 times greater chance of losing than those who wore a suit.
+0.79; those who wore a suit had a 0.79 times greater chance of losing than those wearing a t-shirt.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-1.27; those who wore a suit had a 1.27 times greater chance of losing than those wearing a t-shirt.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>
@@ -132,11 +122,21 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-0.79; those who wore a suit had a 0.79 times greater chance of losing than those wearing a t-shirt.
+1.27; those who wore a t-shirt had a 1.27 times greater chance of losing than those who wore a suit.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1.27; those who wore a suit had a 1.27 times greater chance of losing than those wearing a t-shirt.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

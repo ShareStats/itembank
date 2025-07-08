@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-assumptions-0280-nl-moodle/assumptions</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Assumptions_vufsw-assumptions-0280-nl_vufsw-assumptions-0280-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Wat zijn de gevolgen van de schending van de assumpties van lineaire
+regressie?</p>
+<p>Als de assumptie van <em>geen influential observations</em> is geschonden, dan
+…</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Als de assumptie van normaliteit is geschonden zijn de
+significantietoetsen niet betrouwbaar. Echter, bij grote steekproeven
+door de Central Limit Theorem is de verdeling van de residuen bij
+benadering normaal. Dus, dan zijn ook significantietoetsen te
+vertrouwen.<br />
+De schending van de assumptie van homoscedasticiteit beïnvloedt de
+significantietoetsen (die zijn niet te vertrouwen), maar niet de
+coëfficiënten.<br />
+De schending van de assumpties van lineariteit en geen influential
+observations hebben gevolgen voor de coëfficiënten (die zijn geen goede
+afspiegeling van de relatie), maar niet voor significantietoetsen.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+zijn de coëfficiënten niet betrouwbaar, maar de significantietoetsen wel betrouwbaar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+zijn zowel de coëfficiënten als de significantietoetsen niet betrouwbaar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+zijn de coëfficiënten betrouwbaar, maar de significantietoetsen niet betrouwbaar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+zijn zowel de coëfficiënten als de significantietoetsen betrouwbaar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

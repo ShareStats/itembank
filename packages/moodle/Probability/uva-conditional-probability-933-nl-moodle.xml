@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-conditional-probability-933-nl-moodle/Probability/Elementary Probability/Conditional probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-conditional-probability-933-nl_uva-conditional-probability-933-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Stel dat een klas 40 leerlingen bevat. Daarvan zijn 3 leerlingen
+linkshandig. De docent wil twee leerlingen aselect kiezen die ieder een
+vraag moeten beantwoorden. Wat is dan de kans dat de docent als tweede
+een linkshandige kiest, gegeven dat de eerste leerling ook linkshandig
+is?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3/40
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+3/40: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2/39
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2/39: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2/43
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2/43: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6/1560
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+6/1560: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

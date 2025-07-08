@@ -63,7 +63,17 @@ H<sub>0</sub> is not rejected because …</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-This conclusion is incorrect. H<sub>0</sub> has to be be rejected.
+The value 0 falls within the 95% confidence interval.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+a and b are both correct.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -83,17 +93,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The value 0 falls within the 95% confidence interval.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-a and b are both correct.
+This conclusion is incorrect. H<sub>0</sub> has to be be rejected.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

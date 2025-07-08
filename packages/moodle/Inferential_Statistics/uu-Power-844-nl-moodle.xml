@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Power-844-nl-moodle/Inferential Statistics/NHST/Power</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Power-844-nl_uu-Power-844-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Kinderen van 8 tot 12 jaar kijken gemiddeld 2 uur per dag TV met een standaarddeviatie van σ = 2. Onderzoekers verwachten dat ADHD-kinderen van dezelfde leeftijd langer TV kijken. Om deze hypothese te toetsen trekken de onderzoekers een aselecte steekproef van 36 ADHD-kinderen en voeren een eenzijdige z-toets uit met <span class="math inline">\(\alpha\)</span> = 5%. Wat is de power van deze toets indien de populatie ADHD-kinderen gemiddeld 3 uur TV per dag kijkt? (Neem aan dat <span class="math inline">\(\sigma\)</span> =2 ook in de ADHD-populatie).</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.72
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.85
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.91
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.95
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

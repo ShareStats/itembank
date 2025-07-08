@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-reliability-211-en-moodle/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Reliability_eur-reliability-211-en_eur-reliability-211-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Exams aim at measuring a person’s true score. The accuracy of this measurement of the true score will likely be lower if the reliability of the test is too low. One way to theoretically compensate for this lower accuracy is by calculating the adjusted true score: <span class="math inline">\(X_{est} = x̄ + R_{xx}(X_o-x̄)\)</span></p>
+<p>Suppose that the average score of a psychometric exam is 5.8. The reliability of this test is .81 (Cronbach’s alpha); A grade of at least 5.5 is needed to pass the exam.</p>
+<p>Calculate the adjusted true score for a student who has grade 5.2. Round to two decimals</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>For a student who has a 5.2 the adjusted true score becomes: <span class="math inline">\(X_{est} =5.8 + .81(5.2 - 5.8) = 5.8 - .486 = 5.314 = 5.31\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>5.31</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-equation-1026-en-moodle/inferential statistics/regression/equation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-equation-1026-en_vufsw-equation-1026-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>If you were researching the effect of <em>hours </em>of training (predictor)
+and <em>attitude </em>(moderator) on the performance of a specific skill (e.g.
+the number of goals scored: <em>performance</em>) and the regression results
+give you the following regression equation, which of the following
+statements is <strong><em>in</em>correct</strong>?</p>
+<p><em>All the variables in this regression are mean-centred.</em></p>
+<p><em>p<strong>e</strong>r<strong>f</strong>o<strong>r</strong>m<strong>a</strong>n<strong>c</strong>e</em> = 1.23<sup>*</sup> + 0.112 × <em>a<strong>t</strong>t<strong>i</strong>t<strong>u</strong>d<strong>e<em> + 0.531<sup>*</sup> × </em>h</strong>o<strong>u</strong>r<strong>s<em> + 0.167<sup>*</sup> × </em>a</strong>t<strong>t</strong>i<strong>t</strong>u<strong>d</strong>e</em> × <em>h<strong>o</strong>u<strong>r</strong>s</em></p>
+<p>* indicates a statistically significant effect</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The correct answer is the option “<em>The effect of hours training on the
+performance of a specific skill is lower for higher scores of attitude
+than for lower scores of attitude”</em>. This is correct because the
+statement is incorrect! The regression equation shows that the
+interaction effect (0.167) is positive and not negative as the statement
+suggests. This means that the effect of hours on performance increases
+with attitude.</p>
+<p>The option “<em>The effect of hours training on the performance of a
+specific skill is higher for higher scores of attitude than for lower
+scores of attitude</em>” is incorrect because the statement is correct! The
+regression equation shows that the interaction effect (0.167) is
+positive. This means that the effect of hours on performance increases
+with attitude.</p>
+<p>The option “<em>The mean score in performance in a specific skill equals
+1.23 if hours of training and attitude equal its mean values</em>” is
+incorrect because the statement is correct! Both attitude and hours are
+mean-centred, so when these variables take their mean value, they should
+be replaced with 0 in the regression equation. This means that in that
+case, performance would equal the constant = 1.23.<br />
+<em>p<strong>e</strong>r<strong>f</strong>o<strong>r</strong>m<strong>a</strong>n<strong>c</strong>e</em> = 1.23<sup>*</sup> + 0.112 × <em>a<strong>t</strong>t<strong>i</strong>t<strong>u</strong>d<strong>e<em> + 0.531<sup>*</sup> × </em>h</strong>o<strong>u</strong>r<strong>s<em> + 0.167<sup>*</sup> × </em>a</strong>t<strong>t</strong>i<strong>t</strong>u<strong>d</strong>e</em> × <em>h<strong>o</strong>u<strong>r</strong>s</em> = 1.23 + 0.112 × 0 + 0.531<sup>*</sup> × 0 + 0.167<sup>*</sup> × 0 × 0 = 1.23</p>
+<p>The option “<em>If the variable hours of training equal its mean, then an
+increase of attitude by 1 unit results in a mean increase of performance
+by 0.112 units</em>” is incorrect because the statement is correct! Hours
+training is mean-centred, so when this variable takes its mean value, it
+should be replaced with 0 in the regression equation. In this case, the
+effect of attitude on performance is 0.112.</p>
+<p><em>p<strong>e</strong>r<strong>f</strong>o<strong>r</strong>m<strong>a</strong>n<strong>c</strong>e</em> = 1.23<sup>*</sup> + 0.112 × <em>a<strong>t</strong>t<strong>i</strong>t<strong>u</strong>d<strong>e<em> + 0.531<sup>*</sup> × </em>h</strong>o<strong>u</strong>r<strong>s<em> + 0.167<sup>*</sup> × </em>a</strong>t<strong>t</strong>i<strong>t</strong>u<strong>d</strong>e</em> × <em>h<strong>o</strong>u<strong>r</strong>s</em> = 1.23 + 0.112 × <em>a<strong>t</strong>t<strong>i</strong>t<strong>u</strong>d<strong>e<em> + 0.531<sup>*</sup> × 0 + 0.167<sup>*</sup> × </em>a</strong>t<strong>t</strong>i<strong>t</strong>u<strong>d</strong>e</em> × 0 = 1.23 + 0.112 × *a<strong>t</strong>t<strong>i</strong>t<strong>u</strong>d**e*</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+If the variable hours of training equal its mean, then an increase of attitude by 1 unit results in a mean increase of performance by 0.112 units.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The mean score in performance in a specific skill equals 1.23 if hours of training and attitude equal its mean values.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The effect of hours training on the performance of a specific skill is higher for higher scores of attitude than for lower scores of attitude.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The effect of hours training on the performance of a specific skill is lower for higher scores of attitude than for lower scores of attitude.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>
