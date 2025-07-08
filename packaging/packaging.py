@@ -28,7 +28,7 @@ def file_table(formats=None, only_changed=True):
 
     if formats is None:
         # default: all platforms
-        formats = ("HTML",) + SUPPORTED_PLATFORMS
+        formats = ("html",) + SUPPORTED_PLATFORMS
     elif not isinstance(formats, (list, tuple)):
         formats = (formats, )
 
