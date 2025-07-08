@@ -1,7 +1,5 @@
 .PHONY: all clean compile tarballs tarballs_zipped checksums website sharestats_website_csv fingerprint_file
 
-TARGET_PACKAGES = "html", "qti", "tv", "canvas", "ans", "wooclap"
-
 clean:
 	rm -rf packages/
 
@@ -17,7 +15,7 @@ tarballs:
 	rm -f packages/files.tsv
 
 compile:
-	python -c 'import packaging; packaging.file_table(formats=($(TARGET_PACKAGES)))' # compile instructions
+	python -c 'import packaging; packaging.file_table()' # compile instructions
 	Rscript packaging/compile.R
 	rm -f packages/files.tsv
 
