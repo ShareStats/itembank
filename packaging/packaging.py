@@ -19,7 +19,8 @@ def all_items():
 
 def file_table(formats=None, only_changed=True):
     """Make table with source and destination files that changed to prepare
-    compilation. If only_changed=False, returns all files.
+    compilation. If only_changed=False, returns all files. If no format is specified
+    all supported platforms and html is generated.
 
     * generate instruction file that is read by tarballs and compile.R
     * the function also creates the required folder structure for the packages
