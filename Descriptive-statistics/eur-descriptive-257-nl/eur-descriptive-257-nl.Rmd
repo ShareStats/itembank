@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-257-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-257-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Wat is de waarde die overeenkomt met het 75e percentiel voor het eindexamen wiskunde (variabele: mathematics)? Schrijf je antwoord in het antwoordvak (met 3 cijfers achter de komma).
+
+* Download**: [SPSS file](eur-descriptive-257-en-data.sav), [CSV file](eur-descriptive-257-en-data.csv)
+
+
+Solution
+========
+Het juiste antwoord is 6,031.
+
+Meta-information
+================
+exname: eur-descriptive-257-nl
+extype: num
+exsolution: 6.031
+extol: 0
+exsection: Descriptive statistics/Score interpretation/Percentile
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

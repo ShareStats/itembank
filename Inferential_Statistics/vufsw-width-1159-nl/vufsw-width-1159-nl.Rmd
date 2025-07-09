@@ -1,0 +1,43 @@
+Question
+========
+Een onderzoeker is geïnteresseerd in het percentage werknemers in Nederland dat last heeft van burn-outklachten. Nederland dat last heeft van burn-outklachten. De onderzoeker trekt een aselecte steekproef van 130 Nederlandse werknemers, waarvoor we vinden: p̂* = *0,12  Bereken het 95% betrouwbaarheidsinterval.
+
+Answerlist
+----------
+* \[0.064; 0.176\]
+* \[0.099; 0.141\]
+* \[0.091; 0.149\]
+* \[0.118; 0.122\]
+
+Solution
+========
+
+Je kunt dit berekenen met de volgende formule: CI voor p̂ +/-* t(se) *met *se* = (√(p̂(1 - p̂)) / n)  Dus, se = (*√ *(0,12 \* (1 - 0,12)) / 130 ) = 0,0285 en CI = 0,12 +/- 1.96 \* 0.0285 = \[0.064; 0.176\]*
+*
+
+Taal Nederlands
+
+Moeilijkheidsniveaus Gemiddeld
+
+M&T BIS Standaardwaarde
+
+M&T Hypothesetest: gemiddelden Standaardwaarde
+Answerlist
+----------
+* Waar
+* Onwaar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-width-1159-nl
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/confidence intervals/width
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-test-329-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+A researcher is interested in the correlation between two normally normally distributed variables X and Y and to that end draws a random sample of 20 individuals from her target population. From this she calculates the following quantities. If we want to test H~0~: ρ~P~ = 0 with a two-sided risk of 5%, then the critical value will be equal to
+
+![](uva-test-329-nl-graph01.png)
+
+Answerlist
+----------
+
+* 0.3789
+* 0.4227
+* 0.4438
+* 0.4451
+
+Solution
+========
+
+Answerlist
+----------
+
+* 0.3789: Incorrect
+* 0.4227: Incorrect
+* 0.4438: Correct
+* 0.4451: Incorrect
+
+Meta-information
+================
+exname: uva-test-329-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/t-test
+exextra[Type]: Calculation
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.444
+exextra[p-value]: 0.0258

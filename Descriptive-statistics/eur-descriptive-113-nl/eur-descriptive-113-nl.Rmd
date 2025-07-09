@@ -1,0 +1,22 @@
+Question
+========
+Op de eerste vraag in het examen van cursus 2.8 gaven 189 studenten een goed antwoord en 71 studenten een fout antwoord. Stel dat we een variabele maken gebaseerd op de scores voor deze examenvraag, waarbij 0 = fout antwoord en 1 = goed antwoord.
+
+Wat is de standaardafwijking van deze variabele?
+
+
+Solution
+========
+De standaardafwijking van deze variabele is $\sqrt{p \times (1 - p)}$waarbij $p$ is de verhouding correct: $\frac{189}{189+71}= .73$. De standaardafwijking is dus $\sqrt{.73 \times (1 - .73)} = .45$ (de vierkantswortel van de variantie nemen).
+
+Meta-information
+================
+exname: eur-descriptive-113-nl
+extype: num
+exsolution: .45
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
+exextra[Type]: Calculate
+exextra[Program]: Calculater
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

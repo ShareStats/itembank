@@ -1,0 +1,28 @@
+Question
+========
+Research is being conducted on bullying in elementary schools. Three hundred families with elementary school children are randomly selected to participate in the study. One of the things being measured is the participants' opinions on how and what the schools are doing to prevent bullying at school. The questionnaire will be given to the father, the mother and the oldest child in the elementary school. The researchers want to compare scores among fathers, mothers and children. They propose to compare these three groups using an ANOVA.
+
+Which condition of the ANOVA is anyway $\textbf{niet}$ fulfilled?
+
+Answerlist
+----------
+* The samples were drawn at random
+* The samples are independent of each other
+* The distribution of scores in the population is normal
+* The distribution of scores is the same in the different populations
+
+
+Solution
+========
+Fathers and mothers and their child form a family together. Because of this, they often have similar opinions, so these are NOT independent  Rebuttal a: The text says random Rebuttal c: Scale scores are often normally distributed. But even if you don't know this, we can say nothing about this Rebuttal d: Nothing can be said about this adhv the story. We don't know if this is met or not.
+
+Meta-information
+================
+exname: uu-Oneway ANOVA-868-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Reasoning

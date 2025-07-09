@@ -1,0 +1,28 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-245-en-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-245-en-data.csv", recursive = TRUE)
+```
+Question
+========
+Feyenoord- en Ajax-fans hebben vaak kritiek op elkaars team. We kijken naar van welk team iemand fan is [Fan, waarbij Feyenoord = 0 en Ajax = 1], in welke stad iemand woont [Stad, waarbij Rotterdam = 1, Amsterdam = 2, Dordrecht = 3 en Haarlem = 4], het aantal wedstrijden gespeeld door het favoriete team waar iemand in de loop der jaren naar heeft gekeken (dus het aantal wedstrijden gespeeld door Feyenoord waar een Feyenoord-fan naar heeft gekeken) [played_favourite] en het aantal wedstrijden gespeeld door het andere team waar iemand in de loop der jaren naar heeft gekeken [played_other]. We hebben ook geregistreerd wiens team kampioen is geworden in de laatste 4 jaar [Kampioen, waarbij Geen kampioenschap = 0 en Kampioenschap = 1].
+
+Er is onderzocht of de kans op het winnen van het kampioenschap [Kampioen=1] voor alle steden hetzelfde is [Stad]. Als de nulhypothese waar zou zijn, wat is dan het verwachte aantal fans uit Rotterdam [Stad=1] dat hun team een kampioenschap [Kampioen=1] zag winnen? Geef het verwachte aantal (met 1 decimaal).
+
+* Downloaden**: [SPSS file](inferential_statistics-245-en-data.sav), [CSV file](inferential_statistics-245-en-data.csv)
+
+
+Solution
+========
+Het juiste antwoord is 13,8
+
+Meta-information
+================
+exname: eur-inferential_statistics-245-nl
+extype: num
+exsolution: 13.8
+extol: 0
+exsection: Inferential Statistics/Parametric Techniques/Cross tables
+exextra[Type]: Interpreting output, Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

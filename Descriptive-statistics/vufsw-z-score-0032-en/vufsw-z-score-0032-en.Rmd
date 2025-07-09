@@ -1,0 +1,42 @@
+Question
+========
+An economics graduate has received two offers for a job.  
+  
+In the United States, she can get a job where she will earn a salary earns $5,000. The average salary in the United States is $3,300 (*s *= $800).  
+In Germany, she can get a job where she earns a salary of 4,000 euros. The average salary in Germany is 2,800 euros (*s *= 500 euros).  
+  
+In which country is the offered salary most above the average salary of that country? And from which can you infer that?
+
+Answerlist
+----------
+* In the United States. The standard error (*standard error*) of the offered salary is higher in the United States than in Germany.
+* In the United States. The z-score of the offered salary is higher in the United States than in Germany.
+* In the United States. The correlation coefficient of the offered salary is higher in the United States than in Germany.
+* In the Germany. The standard error (*standard error*) of the offered salary is higher in the Germany than in the United States.
+* In the Germany. The z-score of the offered salary is higher in Germany than in the United States.
+* In the Germany. The correlation coefficient of the offered salary is higher in the Germany than in the United States.
+
+Solution
+========
+
+Answerlist
+----------
+* False
+* False
+* False
+* False
+* True
+* False
+
+Meta-information
+================
+exname: vufsw-z-score-0032-en
+extype: schoice
+exsolution: 000010
+exshuffle: TRUE
+exsection: descriptive statistics/score interpretation/z-score
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

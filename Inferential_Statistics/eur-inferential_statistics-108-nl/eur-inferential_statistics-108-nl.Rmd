@@ -1,0 +1,34 @@
+Question
+========
+Na het uitvoeren van een Repeated Measures ANOVA vindt een onderzoeker een F-ratio met df = 2, 12. Hoeveel mensen namen deel aan dit onderzoek?
+
+Answerlist
+----------
+* 13
+* 15
+* 7
+* 14
+
+
+Solution
+========
+Het juiste antwoord is 7. Je hebt 2 condities (2) en 7 metingen per conditie. Je kunt n-1 per conditie uitvoeren (12), maar je moet jezelf eraan herinneren dat dit een within-subjects design is, wat betekent dat de waarderingen in conditie 2 van dezelfde deelnemers zijn als die in conditie 1.
+
+Answerlist
+----------
+* Dit antwoord is onjuist
+* Dit antwoord is onjuist
+* Dit is het goede antwoord!
+* Dit antwoord is onjuist
+
+Meta-information
+================
+exname: eur-inferential_statistics-108-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway repeated measures ANOVA
+exextra[Type]: Calculate
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exshuffle: FALSE

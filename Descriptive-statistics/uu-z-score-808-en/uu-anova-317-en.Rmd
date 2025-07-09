@@ -1,0 +1,28 @@
+Question
+========
+A researcher wants to see if there are differences between male and female psychotherapists in the workload they experience (scale score from 0 = "extremely low workload" to 20 = "extremely high workload"). To make a fair comparison between male and female psychotherapists, the researcher wants to take into account the employment of the psychotherapists. For the variable employment, the researcher distinguishes between part-time and full-time psychotherapists.
+
+Which analysis technique is most appropriate for answering the above question?
+
+Answerlist
+----------
+* ANOVA
+* ANCOVA
+* MANOVA
+* MANCOVA
+
+
+Solution
+========
+Dependent variable: Work pressure Measurement level: continuous Independent variables: gender and tenure Measurement level: categorical With a continuous dependent variable and two categorical independent variables, an ANOVA is the most appropriate analysis technique. It is then a two-way ANOVA.
+
+Meta-information
+================
+exname: uu-anova-317-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/ANOVA
+exextra[Type]: Test choice
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Reasoning

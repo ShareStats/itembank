@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-factor-408-en-data.sav", recursive = TRUE)
+include_supplement("eur-factor-408-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een onderzoeker van het instituut voor psychologie doet onderzoek naar alcoholmisbruik onder adolescenten. De onderzoeker ontwierp 34 stellingen waar de adolescenten het mee eens of oneens kunnen zijn op een vierpuntsschaal (1 = helemaal mee eens; 2 = enigszins mee eens; 3 = enigszins mee oneens; 4 = helemaal mee oneens). Een voorbeeld van een stelling is: Als ik me eenzaam voel, drink ik graag een alcoholische drank. De antwoorden van 312 meisjes (0) en jongens (1) op de 34 stellingen staan in de dataset.
+
+Voer een factoranalyse uit met principal axis factoring met 2 factoren en een orthogonale varimax rotatie, wat is de correlatie tussen factor 2 en item 3 op de geroteerde factormatrix? (3 decimalen)
+
+Open de onderstaande dataset om deze vraag te beantwoorden:
+
+* Download** [SPSS file](eur-factor-408-en-data.sav), [CSV file](eur-factor-408-en-data.csv)
+
+
+Solution
+========
+De correlatie tussen factor 2 en item 3 na varimaxrotatie is 0,062 (zie de geroteerde factormatrix voor de factorlading van item 3 op factor 2).
+
+Meta-information
+================
+exname: eur-factor-408-nl
+extype: num
+exsolution: 0.062
+extol: 0
+exsection: Factor analysis/Exploratory factor analysis, Factor analysis/Rotations, Factor analysis/Factor loadings
+exextra[Type]: Interpreting output, Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

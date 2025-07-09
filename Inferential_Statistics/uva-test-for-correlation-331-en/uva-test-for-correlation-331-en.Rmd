@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-test-for-correlation-331-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Below is SPSS output of a paired T-test on depression scores of 15 patients, measured before and after an interview with a therapist. If we are interested in whether the scores before and after the conversation are dependent, the conclusion should be:
+
+![](uva-test-for-correlation-331-nl-graph01.png)
+
+Answerlist
+----------
+
+* Reject the null hypothesis that they are dependent.
+* Reject the null hypothesis that they are independent.
+* Do not reject the null hypothesis that they are dependent.
+* Reject the null hypothesis
+
+Solution
+========
+
+Answerlist
+----------
+
+* Reject the null hypothesis that they are dependent...: Incorrect
+* Reject the null hypothesis that they are independent: Correct
+* Do not reject the null hypothesis that they are dependent: Incorrect Incorrect
+* Reject the null hypothesis: Incorrect
+
+Meta-information
+================
+exname: uva-test-for-correlation-331-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/t-test/Test for correlation
+exextra[Type]: Interpreting output
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.17
+exextra[p-value]: 0.2553

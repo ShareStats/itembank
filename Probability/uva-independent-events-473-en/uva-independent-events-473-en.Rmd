@@ -1,0 +1,35 @@
+Question
+========
+
+Two events A and B are independent if holds:
+
+Answerlist
+----------
+
+* P(A ∩ B) = 0
+* P(A ∩ B) = P(A) x P(B)
+* P(A ∪ B) = P(A) + P(B)
+* P(A ∪ B) = P(A) + P(B) - P(A ∩ B)
+
+Solution
+========
+
+Answerlist
+----------
+
+* P(A ∩ B) = 0: Incorrect
+* P(A ∩ B) = P(A) x P(B): Correct
+* P(A ∪ B) = P(A) + P(B): Incorrect
+* P(A ∪ B) = P(A) + P(B) - P(A ∩ B): Incorrect
+
+Meta-information
+================
+exname: uva-independent-events-473-en
+extype: schoice
+exsolution: 0100
+exsection: Probability/Elementary Probability/General Rules/Independent events
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.009
+exextra[p-value]: 0.2965

@@ -1,0 +1,39 @@
+Question
+========
+  
+Given is a *t* distribution with 23 degrees of freedom.
+
+At what *t* value do 97.5% of the values lie on the right-hand side? 
+Answerlist
+----------
+* -2.500
+* -2.069
+* 2.069
+* 2.500 
+
+Solution
+========
+
+Look in the *t* table at $df = 23$.
+
+A *t* value of 2.069 gives a right-hand overshoot probability of 2.5%. This means that 2.5% of the values lie on the right. For a *t* value of -2.069, there are 2.5% of the values on the left, and therefore 97.5% of the values on the right.
+
+Tip: Draw the *t* distribution and put in the *t* values and corresponding exceedance probabilities of the 4 answer options!
+
+Answerlist
+----------
+* Incorrect
+* Correct
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-tstatistic-008-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/NHST/Test statistic/t-statistic, Distributions/Continuous/t-distribution
+exextra[Type]: Interpreting output
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

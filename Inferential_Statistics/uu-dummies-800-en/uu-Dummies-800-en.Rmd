@@ -1,0 +1,30 @@
+Question
+========
+  
+In a study of the influence of teaching methods for reading comprehension on students' reading performance (variable Y), the following methods are distinguished: 1 = Learn to read safely. 2 = Good reading! 3 = Text Processing.
+
+In the analysis, in addition to teaching method (M), one includes gender (S) and nonverbal intelligence (N, scale with a mean of 100 and a standard deviation of 15) as control variables.
+
+Which of the regression equations below applies to this situation (D = dummy)?
+
+  
+Answerlist
+----------
+* $\hat{Y} = b_0 + b_1N + b_2S + b_3M + e$
+* $\hat{Y} = b_0 + b_1N + b_2D_1 + b_3D_2 + b_4D_3 + b_5D_4 $
+* $\hat{Y} = b_1N  + b_2S_1 + b_3M + e$
+* $\hat{Y} = b_0 + b_1N + b_2S_1 + b_3D_2 + b_4D_3$
+
+
+Solution
+========
+
+Meta-information
+================
+exname: uu-Dummies-800-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Regression/Dummies
+exextra[Type]: Case
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

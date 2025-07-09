@@ -1,0 +1,33 @@
+Question
+========
+In which analysis do you have a low probability of Type I error due to the familywise error rate?
+
+Answerlist
+----------
+* The approximate F-test for Pillai's trace in MANOVA
+* A series of one-way ANOVAs testing a common research question
+* A series of post-hoc tests without Bonferoni correction of a between factor with more than 2 categories in a Mixed-Design ANOVA
+* The non-orthogonal contrasts of a one-way ANOVA
+
+Solution
+========
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-manova-0262-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/anova/manova
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical reasoning
+

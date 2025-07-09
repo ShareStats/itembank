@@ -1,0 +1,28 @@
+Question
+========
+Een onderzoeker is benieuwd naar het verschil in studiegedrag bij drie verschillende typen studenten: bachelorstudenten, selectietraject-studenten en masterstudenten. Hij operationaliseert studiegedrag als aantal uren studeren per week.
+
+Met welke analysetechniek kan hij nagaan of er verschillen zijn in studiegedrag tussen de drie typen studenten?
+
+Answerlist
+----------
+* $\chi^2$ Goedheid van Fit
+* $\chi^2$  toets voor onafhankelijkheid
+* ANOVA
+* T-toets voor onafhankelijke groepen
+
+
+Solution
+========
+Het gaat ten eerste om het herkennen van de onderzoeksvraag/het doel van de studie; de onderzoeker wil drie groepen vergelijken. Ten tweede is het zaak om de variabelen en hun meetniveau te herkennen. De onafhankelijke variabele is in dit geval type student met drie groepen, nominaal meetniveau. De afhankelijke variabele is aantal uren studeren per week, ratio meetniveau. Met een ANOVA kun je dan goed de gemiddelde verschillen tussen drie groepen bekijken.
+
+Meta-information
+================
+exname: uu-anova-1594-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA
+exextra[Type]: Test choice
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Reasoning

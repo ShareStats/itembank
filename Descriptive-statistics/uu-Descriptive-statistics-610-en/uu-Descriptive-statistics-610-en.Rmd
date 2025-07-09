@@ -1,0 +1,45 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Descriptive-statistics-610-en-data.sav", recursive = TRUE)
+include_supplement("uu-Descriptive-statistics-610-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+
+* Download**: [SPSS file](uu-Descriptive-statistics-610-en-data.sav), [CSV file](uu-Descriptive-statistics-610-en-data.csv)
+
+Open the data file.
+
+Answer the following questions.
+
+* Answer each question with all decimals listed in the output.**
+
+Answerlist
+----------
+* The number of respondents whose score on recognizing letters is known is....
+* The standard deviation of recognizing shapes is....
+* The minimum score obtained on recognizing animals is...
+* The mode of recognizing animals is...
+
+Solution
+========
+
+Answerlist
+----------
+* Answer: 202
+* Answer: 13.50624
+* Answer: 18.00
+* Answer: 38.00
+
+Meta-information
+================
+exname: uu-Descriptive-statistics-610-en
+extype: cloze
+exclozetype: num|num|num|num
+exsolution: 202|13.50624|18.00|38.00
+extol: 0
+exsection: Descriptive statistics
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS, JASP
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

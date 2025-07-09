@@ -1,0 +1,39 @@
+Question
+========
+
+Two balanced dice are rolled. Define the stochastic variable *X* is the sum of the eyes that come up, so we have the following probability with different values of *X*:
+
+  -------- ------ --- ---- --- ------ --- --- --- ---- ---- ------ *X* 2 3 43 5 6 7 8 9 10 11 12 Odds 1/36 ?   ?    ?   5/36 ?   ?   ?   ?    ?    1/36 -------- ------ --- ---- --- ------ --- --- --- ---- ---- ------
+
+Then what is the probability of *X* = 8?
+
+Answerlist
+----------
+
+* 3/36
+* 4/36
+* 5/36
+* 6/36
+
+Solution
+========
+
+Answerlist
+----------
+
+* 3/36: Incorrect
+* 4/36: Incorrect
+* 5/36: Correct
+* 6/36: Incorrect
+
+Meta-information
+================
+exname: uva-sample-mean-1045-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Sampling Distributions/Sample mean
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

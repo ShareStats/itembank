@@ -1,0 +1,39 @@
+Question
+========
+
+Below is an ANOVA (incomplete) table, belonging to linear regression of a dependent variable on an explanatory variable.
+
+  -------------- ---- ---- ---- --- Variation source SS df MS F Regression 54 Residual 90 9 -------------- ---- ---- ---- ---
+
+The value of the test quantity F, the critical value and the conclusion (for testing with a risk of α = 0.05) must then be
+
+Answerlist
+----------
+
+* F = 5.4, critical value = 5.12, significant
+* F = 2.7, critical value = 4.26, not significant
+* F = 5.4, critical value = 10.56, not significant
+* F = 0.6, critical value = 4.96, not significant
+
+Solution
+========
+
+Answerlist
+----------
+
+* F = 5.4, critical value = 5.12, significant: Correct
+* F = 2.7, critical value = 4.26, not significant: Incorrect
+* F = 5.4, critical value = 10.56, not significant: Incorrect
+* F = 0.6, critical value = 4.96, not significant: Incorrect
+
+Meta-information
+================
+exname: uva-oneway-anova-330-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.169
+exextra[p-value]: 0.2563

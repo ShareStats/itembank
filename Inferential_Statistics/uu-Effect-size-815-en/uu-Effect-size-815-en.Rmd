@@ -1,0 +1,37 @@
+Question
+========
+  
+A study of the relationship between location of deployment (Iraq or Afghanistan) and depression of soldiers primarily examines only whether soldiers became depressed, yes or no. A $\chi^2$-test is performed and the variables were found, in a sample of 60 soldiers, not to be independent: $\chi^2(1, n = 60) = 5.88$, $p = .015$. What is the value of the effect size that should be reported here? 
+Answerlist
+----------
+* $0.015$
+* $0.098$
+* $0.313$
+* This cannot be determined because the cross table is not given.
+
+Solution
+========
+  
+Location is a dichotomous variable (Iraq/Afghanistan), as is depression (yes/no). To calculate the effect size in this case, the phi coefficient can be calculated:
+
+$\phi= \sqrt{\frac{\chi^2}{n}} = \sqrt{\frac {5.88}{60}} =0.313$
+ 
+ 
+
+
+Answerlist
+----------
+* $.015$ is $p$-value and not the effect size.
+* Thist answer ($.098$) forgot to root.
+* $\phi= \sqrt{\frac{\chi^2}{n}} = \sqrt{\frac {5.88}{60}} =0.313$
+* This can indeed be determined. Location is a dichotomous variable (Iraq/Afghanistan), as is depression (yes/no). To calculate the effect size in this case, the phi coefficient can be calculated.
+
+Meta-information
+================
+exname: uu-Effect-size-815-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Effect size
+exextra[Type]: Case
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

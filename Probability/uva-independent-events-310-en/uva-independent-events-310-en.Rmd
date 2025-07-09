@@ -1,0 +1,35 @@
+Question
+========
+
+Of two events A and B, the following is given: P(A) = 0.60, P(B) = 0.40, P(A ∩ B) = 0.20 and P(A ∪ B) = 0.80. Are events A and B independent?
+
+Answerlist
+----------
+
+* Yes, because P(A ∪ B)= P(A) + P(B) - P(A ∩ B)
+* Yes, because P(B | A) = P(B)
+* No, because P(A ∩ B) ≠ P(A) x P(B)
+* No, because P(A ∪ B) ≠ P(A) + P(B)
+
+Solution
+========
+
+Answerlist
+----------
+
+* Yes, because P(A ∪ B)= P(A) + P(B) - P(A ∩ B): Incorrect
+* Yes, because P(B | A) = P(B): Incorrect
+* No, because P(A ∩ B) ≠ P(A) x P(B): Correct
+* No, because P(A ∪ B) ≠ P(A) + P(B): Incorrect
+
+Meta-information
+================
+exname: uva-independent-events-310-en
+extype: schoice
+exsolution: 0010
+exsection: Probability/Elementary Probability/General Rules/Independent events
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3
+exextra[p-value]: 0.311

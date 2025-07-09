@@ -1,0 +1,35 @@
+Question
+========
+
+To test the null hypothesis that two population averages are equal, we drew a sample from both populations, one sized of n = 10, the other of n = 8. The critical range of the two samples T-test for independent samples is then, at a two-sided risk of 5%, equal to
+
+Answerlist
+----------
+
+* < -2.1199, 2.1199 >
+* < -2.1009, 2.1009 >
+* < -∞,-2.1199] ∪ [2.1199, ∞ >
+* < -∞,-2.1009] ∪ [2.1009, ∞ >
+
+Solution
+========
+
+Answerlist
+----------
+
+* < -2.1199, 2.1199 >: Incorrect
+* < -2.1009, 2.1009 >: Incorrect
+* < -∞,-2.1199] ∪ [2.1199, ∞ >: Correct
+* < -∞,-2.1009] ∪ [2.1009, ∞ >: Incorrect
+
+Meta-information
+================
+exname: uva-independent-samples-means-388-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/t-test/Independent samples means
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.201
+exextra[p-value]: 0.0841

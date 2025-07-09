@@ -1,0 +1,46 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Screen__Shot__2019-02-21__at__00.36.04.png", recursive = TRUE)
+```
+
+Question
+========
+The table below gives the data of 9 students regarding their exam grade (**Y**), measured on a scale of 0 to 10, and lecture attendance (**X**), measured in number of lectures attended.  
+The formula associated with the regression line is *ŷ* = 5.2 + 0.4*x*.  
+  
+What is the residual of the student who took 6 lectures and got the exam grade of 8.0?  
+  
+![](Screen__Shot__2019-02-21__at__00.36.04.png)
+
+Answerlist
+----------
+* 0,4
+* 1,0
+* 1,5
+* 0,1
+* 2,6
+* 1,9
+
+Solution
+========
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-residuals-0175-en
+extype: schoice
+exsolution: 100000
+exshuffle: TRUE
+exsection: inferential statistics/regression/residuals
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: English
+exextra[Level]: statistical thinking
+

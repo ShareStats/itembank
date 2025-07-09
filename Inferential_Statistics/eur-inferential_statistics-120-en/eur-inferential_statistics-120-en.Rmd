@@ -1,0 +1,34 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-120-en-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-120-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+* Nowledge about the professional field.*
+
+A knowledge test about the professional field of psychologists and pedagogues consists of 20 items and was administered to 202 students in the master's program in psychology and pedagogy. The total number of correctly answered questions is shown in the variable [total score]. The variable [education] indicates whether a person is studying pedagogy (0) or psychology (1).
+
+Open the data file.
+
+A researcher wants to see if he can predict total score with IQ score and wonders if the relationship is different for psychologists and pedagogues [education]. Perform a regression analysis to investigate this question. What is the unstandardized regression weight of the interaction effect education x IQscore? (3 decimal places)
+
+
+* Download**: [SPSS file](eur-inferential_statistics-120-en-data.sav), [CSV file](eur-inferential_statistics-120-en-data.csv)
+
+
+Solution
+========
+The unstandardized regression weight of the interaction effect education x IQscore is -.096. You answer this question by including both 'IQscore' and 'education' as predictors in the regression model and by additionally including the interaction variable 'education x IQscore' as a predictor. You create the interaction variable 'education x IQscore' by calculating the product of the variables education in IQscore.
+
+Meta-information
+================
+exname: eur-inferential_statistics-120-en
+extype: num
+exsolution: -.096
+extol: 0
+exsection: Inferential Statistics/Regression/Multiple linear regression
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,33 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Capture.gif", recursive = TRUE)
+include_supplement("Capture1.gif", recursive = TRUE)
+```
+
+Question
+========
+We analyseren of de prestaties van leerlingen verschillen tussen 3 vakken: literatuur, essay schrijven en wiskunde (ze staan in deze volgorde in de dataset).  
+Daarnaast onderzoeken we of eventuele verschillen tussen de 3 onderwerpen verschillen tussen mannelijke en vrouwelijke leerlingen.   
+Daarom gebruiken we een Mixed Design ANOVA.  
+De output van deze analyse wordt hieronder weergegeven. "Vrouwelijk" is gecodeerd als 0: mannelijk, 1: vrouwelijk.  
+* Als **de onderstaande resultaten in strijd zijn met de assumptie van homogeniteit van varianties, welke F-waarde geeft dit dan aan?  
+* Ond af op 3 decimalen, noteer 0 als de assumptie niet geschonden is.*  
+  
+![](Capture.gif)
+![](Capture1.gif)
+
+
+Solution
+========
+
+Meta-information
+================
+exname: vufsw-levene'stest-0307-nl
+extype: num
+exsolution: 11.133
+extol: 0
+exsection: assumptions/homogeneity of variance/levene's test
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: Dutch
+exextra[Level]: statistical reasoning
+

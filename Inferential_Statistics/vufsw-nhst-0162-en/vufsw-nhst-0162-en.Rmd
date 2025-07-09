@@ -1,0 +1,48 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1553595822664.png", recursive = TRUE)
+```
+
+Question
+========
+A researcher conducts a multiple regression to determine which factors that influence the extent to which a person watches television (**Y**). The data used comes from the *European Social Survey* from 2014. The questionnaire was administered to a random sample from the population of the Netherlands aged 18 years and older (N=1362). The extent to which a person watches television was measured with a question in which response options ranged from 1 ("less than half an hour per day") to 7 ("more than three hours a day"). Education ("**Educyrs**") was measured in number of years of education completed; scores on this variable range from 0 years to 28 years. The researcher obtains the results below.  
+Fill in the appropriate texts:  
+  
+If we compare someone with the average number of years of education completed (an "average" person) with someone who has one year more education has received more education than the average, we would expect a lower rate of viewing behavior of **Like the average person.  
+  
+Assuming a two-way test and a significance level of 5% (α = 0.05), we can conclude that this effect of number of years of training is significant because the P value is ** ** ** ****.  
+  
+![](1553595822664.png)
+
+Answerlist
+----------
+* **Text 1:** 0.113. **Text 2:** 0.045.
+* **Text 1:** 0.113. **Text 2:** 0.013.
+* **Text 1:** 0.172. **Text 2:** 0.045.
+* **Text 1:** 0.172. **Text 2:** 0.013.
+* **Text 1:** 2.495. **Text 2:** 0.013.
+* **Text 1:** 2,495. **Text 2:** 0.045.
+
+Solution
+========
+
+Answerlist
+----------
+* False
+* True
+* False
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-nhst-0162-en
+extype: schoice
+exsolution: 010000
+exshuffle: TRUE
+exsection: inferential statistics/nhst
+exextra[Type]: interpretating output
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

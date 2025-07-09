@@ -1,0 +1,34 @@
+Question
+========
+
+In a sample of girls, we found that they lost weight after 15 months ($M = −3.1$ kg). Using a statistical test, this difference in average weight is significant. What kind of statistical error may have occurred?
+
+Answerlist
+----------
+* An error of the first kind: $H_0$ has been rejected, but there is actually no difference at all.
+* An error of the second kind: $H_0$ is not rejected, but there is a difference.
+* An error of the first kind: $H_1$ is assumed, but in real life the difference is much greater.
+* An error of the first and second kind can both: in statistical tests, you simply take the chance of making an error. 
+
+Solution
+========
+
+It is an error of the first kind: $H_0$ has been rejected, but there is really no difference at all.
+
+Answerlist
+----------
+* Indeed!
+* It is concluded that the difference is significant. Being $H_0$ then rejected or not rejected?
+* This is incorrect.
+* This is incorrect.
+
+Meta-information
+================
+exname: uu-Statistical-errors-800-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/NHST/Statistical errors
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

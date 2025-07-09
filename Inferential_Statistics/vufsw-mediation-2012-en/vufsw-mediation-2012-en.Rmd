@@ -1,0 +1,48 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1657817289375.png", recursive = TRUE)
+include_supplement("1657817294616.png", recursive = TRUE)
+include_supplement("1657817315395.png", recursive = TRUE)
+include_supplement("1657817306031.png", recursive = TRUE)
+include_supplement("1657817601627.png", recursive = TRUE)
+```
+
+Question
+========
+Data on nightlife activities was used for this question. Below is a path model (without errors). The high culture (hcul) is explained by education (educ) and income. The output below shows the results of the path analyses. *NB: don't be confused if your answer differs slightly from the answer categories; these may be rounding errors.* 
+* [](1657817289375.png)*
+![](1657817294616.png)
+![](1657817315395.png)
+![](1657817306031.png)
+![](1657817601627.png)
+  
+What is the total (causal) effect of education on high culture?
+
+Answerlist
+----------
+* 0.050
+* 0.170
+* 0.220
+* 0.696
+
+Solution
+========
+
+Answerlist
+----------
+* False
+* False
+* True
+* False
+
+Meta-information
+================
+exname: vufsw-mediation-2012-en
+extype: schoice
+exsolution: 0010
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression/mediation
+exextra[Type]: interpreting output
+exextra[Program]: calculator
+exextra[Language]: English
+exextra[Level]: statistical thinking
+

@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-factor-406-en-data.sav", recursive = TRUE)
+include_supplement("eur-factor-406-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een onderzoeker van het instituut voor psychologie doet onderzoek naar alcoholmisbruik onder adolescenten. De onderzoeker ontwierp 34 stellingen waar de adolescenten het mee eens of oneens kunnen zijn op een vierpuntsschaal (1 = helemaal mee eens; 2 = enigszins mee eens; 3 = enigszins mee oneens; 4 = helemaal mee oneens). Een voorbeeld van een stelling is: Als ik me eenzaam voel, drink ik graag een alcoholische drank. De antwoorden van 312 meisjes (0) en jongens (1) op de 34 stellingen staan in de dataset.
+
+Voer een ongeroteerde exploratieve factoranalyse met hoofdasfactoring uit op alle items van de vragenlijst. Wat is het percentage van de variantie dat verklaard wordt door de tweede factor? (3 decimalen)
+
+Open de dataset hieronder om deze vraag te beantwoorden:
+
+* Download** [SPSS file](eur-factor-406-en-data.sav), [CSV file](eur-factor-406-en-data.csv)
+
+
+Solution
+========
+Het percentage variantie dat door de tweede factor wordt verklaard, is 7,129.
+
+Meta-information
+================
+exname: eur-factor-406-nl
+extype: num
+exsolution: 7.129
+extol: 0
+exsection: Factor analysis/Explained variance, Factor analysis/Exploratory factor analysis, Factor analysis/Eigenvalues
+exextra[Type]: Interpreting output, Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

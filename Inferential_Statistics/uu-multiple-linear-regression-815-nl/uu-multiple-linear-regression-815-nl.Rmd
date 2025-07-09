@@ -1,29 +1,31 @@
-
 Question
 ========
-Een onderzoeker bij sociale wetenschappen fietst elke dag 20 kilometer naar haar werk. Ze meet een half jaar lang de tijd die ze erover doet om op haar werk te komen en merkt dat daar nogal wat variatie in zit. Ze denkt dat ze haar dagelijkse aankomsttijd kan voorspellen door de temperatuur in graden te meten, de windkracht te bepalen en de windrichting (mee of tegen) te bepalen. Welke analyse kiest de onderzoeker?
-
-
   
+Wat is de nulhypothese die wordt getest door de F-toets voor de algemene significantie van een meervoudig lineair regressiemodel? 
 Answerlist
 ----------
-* ANOVA voor herhaalde metingen
-* ANCOVA
-* Multiple regressieanalyse met een dummy
-* Tweeweg ANOVA
-
+* H0:$\beta$ = 0
+* H0:b = 0
+* H0:F = 0
+* H0:$\rho$2 = 0   
 
 Solution
 ========
-  
 
+
+Answerlist
+----------
+* Dit antwoord is onjuist.
+* Dit antwoord is onjuist.
+* Dit antwoord is onjuist.
+* Dit antwoord is juist.
 
 Meta-information
 ================
-exname: uu-multiple-linear-regression-815-nl.Rmd
+exname: uu-Multiple-linear-regression-815-nl
 extype: schoice
-exsolution: 0010
+exsolution: 0001
 exsection: Inferential Statistics/Regression/Multiple linear regression
-exextra[Type]: Case
+exextra[Type]: Conceptual
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy

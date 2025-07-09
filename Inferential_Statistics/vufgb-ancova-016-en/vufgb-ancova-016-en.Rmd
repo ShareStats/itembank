@@ -1,0 +1,39 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-ancova-016-nl-table01.jpg", recursive = TRUE)
+```
+
+Question
+========
+The data below are from a covariance analysis (ANCOVA): *y* is the post-measurement score, *x* is the pre-measurement score, and 'gender' is a dummy variable to indicate males (gender = 0) and females (gender = 1).
+
+![](vufgb-ancova-016-nl-table01.jpg)
+  
+Adjusted for premeasurement, what are the "adjusted means" for men and women?  
+  
+Answerlist
+----------
+* Men = 10.80, women = 11.92.
+* Men = 10.92, women = 11.80.
+* Men = 10.60, women = 11.72.
+* Men = 10.72, women = 11.60.
+
+Solution
+========
+
+Answerlist
+----------
+* Correct
+* Incorrect
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-ancova-016-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA
+exextra[Type]: Interpreting output
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

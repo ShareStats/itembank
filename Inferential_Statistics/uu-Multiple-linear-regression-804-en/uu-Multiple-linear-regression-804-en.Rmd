@@ -1,0 +1,33 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Multiple-linear-regression-804-nl-tabel.jpg", recursive = TRUE)
+```
+
+Question
+========
+  
+The table below is always part of the output SPSS gives when you run a multiple regression analysis. The dependent variable is school performance (SV), the independent variables are: gender (0 = girl, 1 = boy), ethnicity (1 = Dutch, 0 = other) and disruptive behavior (higher score corresponds to more disruptive behavior).
+
+![](uu-Multiple-linear-regression-804-nl-tabel.jpg)
+
+What is the (rounded) predicted score for a Dutch girl who has a score of 2 on the disruptive behavior scale? 
+Answerlist
+----------
+* 3.8
+* 6.4
+* 100.5
+* 104.1
+
+
+Solution
+========
+
+Meta-information
+================
+exname: uu-Multiple-linear-regression-804-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Regression/Multiple linear regression
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

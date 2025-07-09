@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-239-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-239-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+What is the standard deviation of scores on the final history exam (variable: history) for girls with the profile "nature and technology" (variable: profile, where profile 3 = nature and technology)? Write your answer in the answer box (with 4 decimal places).
+
+* Download**: [SPSS file](eur-descriptive-239-en-data.sav), [CSV file](eur-descriptive-239-en-data.csv)
+
+
+Solution
+========
+The correct answer is 1.9717.
+
+Meta-information
+================
+exname: eur-descriptive-239-en
+extype: num
+exsolution: 1.9717
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
+exextra[Type]: Calculation, Data manipulation
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

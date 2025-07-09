@@ -1,0 +1,39 @@
+Question
+========
+
+The heart rate before and 15 minutes after prolonged strenuous exercise was measured, with the results being:
+
+  --------------- ---- ---- ---- ---- ---- Person 1 2 3 4 5 Heart rate before 70 65 81 57 74 Heart rate a 75 64 86 59 79 --------------- ---- ---- ---- ---- ----
+
+We want to test whether the difference between the average heart rate after and before exercise is equal to 0, using a paired T test. The critical area when testing with 5% two-sided risk is equal to
+
+Answerlist
+----------
+
+* < -∞,-2.7764] ∪ [2.7764, ∞ >
+* < - ∞,-2.5706] ∪ [2.5706, ∞ >
+* < -2.3060, 2.3060 >
+* < -2.5706, 2.5706 >
+
+Solution
+========
+
+Answerlist
+----------
+
+* < -∞,-2.7764] ∪ [2.7764, ∞ >: Correct
+* < - ∞,-2.5706] ∪ [2.5706, ∞ >: Incorrect
+* < -2.3060, 2.3060 >: Incorrect
+* < -2.5706, 2.5706 >: Incorrect
+
+Meta-information
+================
+exname: uva-paired-samples-395-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/t-test/Paired samples
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.809
+exextra[p-value]: 0.1547

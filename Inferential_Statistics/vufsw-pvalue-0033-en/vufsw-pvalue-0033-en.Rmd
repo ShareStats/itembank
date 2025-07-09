@@ -1,0 +1,41 @@
+Question
+========
+A politician claims that the average sick leave among older workers is 10 days per year. A researcher doubts this and suspects that the average number of days older workers are absent due to sickness absence is actually lower. He decides to conduct a survey among a random sample of 100 workers in the Netherlands (n=100) and finds in his sample an average sick leave of 9.2 days. The standard deviation is 3.6 days.  
+  
+What is the probability of such a sample outcome (or an even more worse sample outcome) if we assume that the politician's claim is politician is correct?
+
+Answerlist
+----------
+* 0,25%
+* 1,14%
+* 2,50%
+* 5,05%
+* 1,32%
+* 2,12%
+
+Solution
+========
+
+you can calculate it by 131.313/2564.6 = 0.051 (Sum of squares regression/sum of squares total) 0,051\*100%=5,1%
+
+Answerlist
+----------
+* False
+* False
+* False
+* False
+* True
+* False
+
+Meta-information
+================
+exname: vufsw-pvalue-0033-en
+extype: schoice
+exsolution: 000010
+exshuffle: TRUE
+exsection: inferential statistics/nhst/p-value
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

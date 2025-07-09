@@ -1,0 +1,25 @@
+```{r, echo=F, results='hide'}
+#Load package
+library(exams)
+```
+
+Question
+========
+Vul in: "groter dan", "kleiner dan" of "gelijk aan": Als een variabele normaal verdeeld is, is het gemiddelde .... de mediaan.
+
+
+Solution
+========
+Wanneer een variabele negatief scheef verdeeld is, is het gemiddelde kleiner dan de mediaan. Wanneer een variabele negatief scheef verdeeld is, ligt de staart van de verdeling aan de linkerkant. Het gemiddelde, en niet de mediaan, wordt beïnvloed door deze kleine aantallen en is daarom kleiner dan de mediaan.
+
+Meta-information
+================
+exname: eur-descriptive-107-nl
+extype: string
+exsolution: "kleiner dan"
+extol: 
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean, Descriptive statistics/Summary Statistics/Measures of Location/Median, Distributions/Continuous/Normal
+exextra[Type]: Conceptual
+exextra[Program]: none
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

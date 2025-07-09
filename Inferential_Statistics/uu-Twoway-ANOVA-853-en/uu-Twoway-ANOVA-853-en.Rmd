@@ -1,0 +1,44 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Twoway-ANOVA-853-nl-graph01.jpg", recursive = TRUE)
+```
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Twoway-ANOVA-853-nl-graph02.jpg", recursive = TRUE)
+```
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Twoway-ANOVA-853-nl-graph03.jpg", recursive = TRUE)
+```
+Question
+========
+The 20-item "Parenting Hassles Scale" asks parents of young children to rate certain, common situations for (1) how often it occurs (frequency); and (2) how much it bothers them (intensity). The scoring system for the frequency rating is 0-4 points (0 = never, 4 = consistently) and for the intensity rating is 1-5 points (1 = very little, 5 very much). If a 0 (zero) is obtained for a frequency item, that item also becomes 0 (zero) for the intensity. The total scores for these two assessments form the frequency scale (0-80) and the intensity scale (0-100). 
+
+![](uu-Twoway-ANOVA-853-nl-graph01.jpg)
+
+Intensity scale scores are compared between mothers (including adoptive mothers), fathers (including adoptive fathers) and foster parents. Descriptive statistics are shown in Table 1. We see that mothers generally score lowest (M = 50.95) and foster parents score highest (M = 62.41). Part of the SPSS output for the comparison of the three groups is below.
+
+![](uu-Twoway-ANOVA-853-nl-graph02.jpg)
+
+A second condition is that the lines are parallel. Use the SPSS output below to verify that this condition is met.
+
+![](uu-Twoway-ANOVA-853-nl-graph03.jpg)
+
+Answerlist
+----------
+* Yes, we can assume that the lines are parallel because p < .05
+* Yes, we can assume that the lines are parallel because p > .05
+* No, we cannot assume that the lines are parallel because p < .05
+* No, we cannot assume that the lines are parallel because p > .05
+
+
+Solution
+========
+
+Meta-information
+================
+exname: uu-Twoway-ANOVA-853-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Reasoning

@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufsw-tstatistic-0225-en.png", recursive = TRUE)
+```
+
+Question
+========
+A researcher wants to investigate the extent to which working hours (X<sub>1</sub>) and gender (X<sub>2</sub>) can predict one's salary. The regression analysis based on a sample of 120 respondents (N=120) gives the following (notional) results.  
+As you can see, the t-values and p-values are missing from the table. The researcher tests two-sided with alpha = 0.05. Which variables have a significant influence on Y?   
+  
+![](vufsw-tstatistic-0225-en.png)
+
+Answerlist
+----------
+* Both Work Hours (X<sub>1</sub>) and Gender (X<sub>2</sub>).
+* Only Working Hours (X<sub>1</sub>).
+* Gender only (X<sub>2</sub>).
+* Both variables have **no **significant influence.
+
+Solution
+========
+
+Answerlist
+----------
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-tstatistic-0225-en
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: inferential statistics/nhst/test statistic/t statistic
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

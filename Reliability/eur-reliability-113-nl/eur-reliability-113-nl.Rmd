@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(exams)
+library(knitr)
+```
+Question
+========
+De "Drie Minuten Test" (TMT) is een test om het technisch leesniveau te beoordelen. Kinderen moeten gedurende drie minuten zo veel mogelijk woorden nauwkeurig lezen. Een leerkracht uit groep 5 wil de toets, die gemaakt is voor kinderen uit groep 2, gebruiken om de leesvaardigheid van haar kinderen uit groep 5 te beoordelen. Cronbach's alpha gebaseerd op de groep 2 is .88 en de standaardafwijking van de toetsscores in groep 2 is 3.
+
+Leg uit waarom de TMT waarschijnlijk minder betrouwbaar zal zijn voor kinderen in groep 5.
+
+
+Solution
+========
+De TMT zal waarschijnlijk minder betrouwbaar zijn voor de kinderen in klas 5 omdat de variatie in ware scores naar verwachting kleiner is. Omdat vanuit de klassieke testtheorie wordt aangenomen dat de foutvariantie gelijk is voor kinderen in klas 2 en klas 4, zal de betrouwbaarheid lager zijn in een populatie met minder variatie in ware scores.
+
+Meta-information
+================
+exname: eur-reliability-113-nl
+extype: string
+exsolution: ""
+extol: 
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Reasoning

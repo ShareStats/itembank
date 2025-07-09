@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-416-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-416-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een onderzoeker van het instituut voor psychologie doet onderzoek naar alcoholmisbruik onder adolescenten. De onderzoeker ontwierp 34 stellingen waar de adolescenten het mee eens of oneens kunnen zijn op een vierpuntsschaal (1. helemaal mee eens; 2. enigszins mee eens; 3. enigszins mee oneens; 4. helemaal mee oneens). Een voorbeeld van een stelling is: Als ik me eenzaam voel, drink ik graag een alcoholische drank. De antwoorden van 312 meisjes (gender = 0) en jongens (gender = 1) op de 34 stellingen zitten in de dataset. Ook IQ-scores (IQ), schaalscores (scale) en de hoeveelheid alcoholgebruik (alcohol_use; 1 = heel vaak; 2 = vaak; 3 = soms; 4 = nooit) zijn in de dataset opgenomen.
+
+De onderzoeker wil de schaalscores van de adolescenten toewijzen aan de volgende percentielgroepen: 0-20% = 1; >20%-40% =2; >40%-60%=3; >60%-80%=4; >80% = 5. Bereken een nieuwe variabele die de percentielgroep aangeeft waarin elke jongere werd ingedeeld op basis van zijn percentielscores. Wat is het gemiddelde van item 8 (variabele [item8]) van percentielgroep 4? (2 decimalen)
+
+Open de dataset hieronder om deze vraag te beantwoorden:
+
+* Download** [SPSS file](eur-descriptive-416-en-data.sav), [CSV file](eur-descriptive-416-en-data.csv)
+
+
+Solution
+========
+Het gemiddelde van item 8 voor adolescenten die zijn ingedeeld in percentielgroep 4 is 2,48. Eerst moet een nieuwe variabele worden berekend met behulp van de percentielscores en de hercodering naar een andere variabelefunctie. Vind daarna het gemiddelde van groep 4 op item 8.
+
+Meta-information
+================
+exname: eur-descriptive-416-nl
+extype: num
+exsolution: 2.48
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
+exextra[Type]: Data manipulation, Interpreting output, Calculation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

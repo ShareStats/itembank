@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-reliability-408-en-data.sav", recursive = TRUE)
+include_supplement("eur-reliability-408-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een onderzoeker van het instituut voor psychologie doet onderzoek naar alcoholmisbruik onder adolescenten. De onderzoeker ontwierp 34 stellingen waar de adolescenten het mee eens of oneens kunnen zijn op een vierpuntsschaal (1 = helemaal mee eens; 2 = enigszins mee eens; 3 = enigszins mee oneens; 4 = helemaal mee oneens). Een voorbeeld van een stelling is: Als ik me eenzaam voel, drink ik graag een alcoholische drank. De antwoorden van 312 meisjes (0) en jongens (1) op de 34 stellingen staan in de dataset.
+
+Eerder onderzoek heeft aangetoond dat jongens meer alcohol misbruiken dan meisjes. Vanwege deze bevinding wil een onderzoeker de betrouwbaarheid van de vragenlijst voor jongens en meisjes afzonderlijk berekenen (variabele [geslacht]). Wat is de betrouwbaarheid (Cronbach's alpha) van de schaal voor de meisjes? (3 decimalen)
+
+Open de dataset hieronder om deze vraag te beantwoorden:
+
+**Download** [SPSS file](eur-reliability-408-en-data.sav), [CSV file](eur-reliability-408-en-data.csv)
+
+
+Solution
+========
+De betrouwbaarheid (Cronbach's alpha) van de schaal voor meisjes is 0,493 (schakel split file in om subgroepen te maken voor geslacht voordat de analyse wordt uitgevoerd).
+
+Meta-information
+================
+exname: eur-reliability-408-nl
+extype: num
+exsolution: 0.493
+extol: 0
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Interpreting output, Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-simple-linear-regression-1390-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Fat percentage can be estimated using (the logarithm of) the sum of the skinfold thicknesses of biceps and triceps.______________________ Attached is a scatterplot plotting both of these variables against each other. Suppose an additional person measured, A, B, C or D. By which person would increase the intercept of the regression line the most? 
+
+![](uva-simple-linear-regression-1390-nl-graph01.png)
+
+Answerlist
+----------
+
+* A
+* B
+* C
+* D
+
+Solution
+========
+
+Answerlist
+----------
+
+* A: Incorrect
+* B: Incorrect
+* C: Incorrect
+* D: Correct
+
+Meta-information
+================
+exname: uva-simple-linear-regression-1390-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Regression/Simple linear regression
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 0
+exextra[p-value]: 0.9242

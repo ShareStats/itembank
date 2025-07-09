@@ -1,0 +1,33 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-121-en-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-121-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+* Nowledge about the professional field.*
+
+A knowledge test about the professional field of psychologists and pedagogues consists of 20 items and was administered to 202 students in the master's degree program in psychology and pedagogy. The total number of correctly answered questions is shown in the variable [total score]. The variable [education] indicates whether a person is studying pedagogy (0) or psychology (1). The variable [master direction] indicates which subject direction someone is studying, namely clinical child and adolescent (0), remedial pedagogy (1), brain and cognition (2) or work and organizational psychology (3).
+
+Open the data file.
+
+A researcher thinks there are differences in total scores between students who took clinical child and adolescent; orthopedagogy; brain and cognition and labor and organizational psychology. (variable [master's direction]). Conduct an analysis to examine whether students from different master's disciplines differ in mean total score [total score]. What is the effect size (partial eta squared) of this effect (3 decimal places)?
+
+* Download**: [SPSS file](eur-inferential_statistics-121-en-data.sav), [CSV file](eur-inferential_statistics-121-en-data.csv)
+
+
+Solution
+========
+The effect size, partial eta squared, is .007. The correct analysis for this question is ANOVA.
+
+Meta-information
+================
+exname: eur-inferential_statistics-121-en
+extype: num
+exsolution: .007
+extol: 0
+exsection: Inferential Statistics/Effect size/Eta squared
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

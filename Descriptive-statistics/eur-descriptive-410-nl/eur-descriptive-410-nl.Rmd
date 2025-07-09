@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-410-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-410-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een onderzoeker van het instituut voor psychologie doet onderzoek naar alcoholmisbruik onder adolescenten. De onderzoeker ontwierp 34 stellingen waar de adolescenten het mee eens of oneens kunnen zijn op een vierpuntsschaal (1. helemaal mee eens; 2. enigszins mee eens; 3. enigszins mee oneens; 4. helemaal mee oneens). Een voorbeeld van een stelling is: Als ik me eenzaam voel, drink ik graag een alcoholische drank. De antwoorden van 312 meisjes (gender = 0) en jongens (gender = 1) op de 34 stellingen zitten in de dataset. Ook IQ-scores (IQ), schaalscores (scale) en de hoeveelheid alcoholgebruik (alcohol_use; 1 = heel vaak; 2 = vaak; 3 = soms; 4 = nooit) zijn in de dataset opgenomen.
+
+Op welke van de 34 items geven de adolescenten de meest uiteenlopende antwoorden? (geen decimalen)
+
+Open de dataset hieronder om deze vraag te beantwoorden:
+
+* Download** [SPSS file](eur-descriptive-410-en-data.sav), [CSV file](eur-descriptive-410-en-data.csv)
+
+
+Solution
+========
+Het item met de meest gevarieerde antwoorden is item 16 (vraag om beschrijvende statistieken en kijk naar de varianties van alle items).
+
+Meta-information
+================
+exname: eur-descriptive-410-nl
+extype: num
+exsolution: 16
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Variance, Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation
+exextra[Type]: Interpreting output, Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

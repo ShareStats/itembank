@@ -1,0 +1,45 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+
+Question
+========
+Examens zijn bedoeld om de werkelijke score van een persoon te meten. De nauwkeurigheid van deze meting van de ware score zal waarschijnlijk lager zijn als de betrouwbaarheid van de test te laag is. Een manier om deze lagere nauwkeurigheid theoretisch te compenseren is door de aangepaste ware score te berekenen: $X_{est} = x̄ + R_{xx}(X_o-x̄)$
+
+Stel dat het gemiddelde cijfer van een psychometrisch examen 5,8 is. De betrouwbaarheid van deze test is .81 (Cronbach's alpha); Een cijfer van minstens 5,5 is nodig om te slagen voor het examen.
+
+De tabel hieronder toont de frequenties van de studenten die het eerste examen niet gehaald hebben. Hoeveel van deze studenten verwacht je te slagen voor het herexamen zonder voorbereiding? Neem aan dat de betrouwbaarheid van het herexamen 1 is.
+
+
+```{r, echo=FALSE}
+library(knitr)
+library(exams)
+Grade <- c(2.1, 3.4, 3.7, 4.0, 4.3, 4.6, 4.9, 5.2)
+Frequency <- c(2, 10, 15, 20, 15, 15, 10, 13)
+table <- rbind(Grade, Frequency)
+kable(table)
+```
+
+
+Solution
+========
+We kunnen de waargenomen score berekenen die gepaard gaat met een aangepaste ware score 5,5. 
+$5.5 = 5.8 + .81(x - 5.8)$
+$-.3 = .81X - 4.698$
+$4.398 = .81X$
+$X = 5.430$
+
+Een geobserveerde score van 5.43 of hoger zou dus leiden tot een verwachte ware score 5.5. Aangezien geen van de studenten die gezakt zijn voor het examen een cijfer van 5.43 of hoger had, wordt verwacht dat geen van de studenten het herexamen zal halen zonder zich voor te bereiden.
+
+Meta-information
+================
+exname: eur-reliability-212-nl
+extype: num
+exsolution: 0
+extol: 0
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Calculate
+exextra[Program]: Calculator
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

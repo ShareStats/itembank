@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-212-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-212-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+What is the Z-score for methods theory (variable:methods theory) of the student with student number 343565 (variable: st)? Write your answer in the answer box (using 5 decimal places).
+
+* Download**: [SPSS file](eur-descriptive-212-en-data.sav), [CSV file](eur-descriptive-212-en-data.csv)
+
+
+Solution
+========
+The correct answer is 1.52292.
+
+Meta-information
+================
+exname: eur-descriptive-212-en
+extype: num
+exsolution: 1.52292
+extol: 0
+exsection: Descriptive statistics/Score interpretation/z-score
+exextra[Type]: Case, Calculation
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,39 @@
+Question
+========
+Which theorem(s) is/are correct about the regression equation Y = b<sub>0</sub> + b<sub>1</sub>X?  
+  
+I. Y actually represents the predicted value by the regression.  
+II. b<sub>0 </sub>is the mean value of Y when X equals 0
+
+Answerlist
+----------
+* Theorem I. is correct and theorem II. is not correct
+* Theorem I. is not correct and Theorem II. is correct
+* Both statements are correct
+* Both statements are not correct
+
+Solution
+========
+
+Theorem I is correct because the regression equation predicts values of Y predicted by means of the regression line a + b<sub>1</sub>X.  
+Theorem II is also correct because if you replace X with 0 then the equation Y=b<sub>0</sub>. This means that the pre-measured value of Y (or alternatively, the average Y) is equal to the constant.
+
+Answerlist
+----------
+* False
+* False
+* True
+* False
+
+Meta-information
+================
+exname: vufsw-simplelinearregression-0274-en
+extype: schoice
+exsolution: 0010
+exshuffle: TRUE
+exsection: inferential statistics/regression/simple linear regression
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

@@ -1,0 +1,34 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-118-nl-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-118-nl-data.csv", recursive = TRUE)
+```
+
+
+Question
+========
+*Work for psychologists and educators.*
+
+A scientist was commissioned to investigate whether psychology and education graduates succeed in finding level jobs. The researcher designed his own questionnaire consisting of 12 Likert items with 5 response options ranging from completely disagree (1) to completely agree (5). An example of an item is: I had to put a lot of effort to find a job opening for a level job. The responses of 608 educators (1) and psychologists (2), distinguished in the variable [psy_ped], to the 12 items are shown in the data file. NOTES. The more the respondent agrees with the statements, the more difficult he/she finds it to find a level job.
+
+Open the data file.
+
+Calculate the total score as the sum of all responses to all items. Take into account the misses when calculating the total score and exclude individuals who gave less than 8 answers. Round total scores to whole numbers. What is the mean of the total score? (3 decimal places)
+
+* Download**: [SPSS file](eur-descriptive-118-nl-data.sav), [CSV file](eur-descriptive-118-nl-data.csv)
+
+
+Solution
+========
+The average total score is 33,799.
+
+Meta-information
+================
+exname: eur-descriptive-118-en
+extype: num
+exsolution: 33.799
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

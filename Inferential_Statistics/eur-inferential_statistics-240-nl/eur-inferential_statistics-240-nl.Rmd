@@ -1,0 +1,29 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-240-en-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-240-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Feyenoord- en Ajax-fans hebben vaak kritiek op elkaars team. We kijken naar van welk team iemand fan is [Fan, waarbij Feyenoord = 0 en Ajax = 1], in welke stad iemand woont [Stad, waarbij Rotterdam = 1, Amsterdam = 2, Dordrecht = 3 en Haarlem = 4], het aantal wedstrijden gespeeld door het favoriete team waar iemand in de loop der jaren naar heeft gekeken (dus het aantal wedstrijden gespeeld door Feyenoord waar een Feyenoord-fan naar heeft gekeken) [played_favourite] en het aantal wedstrijden gespeeld door het andere team waar iemand in de loop der jaren naar heeft gekeken [played_other]. We hebben ook geregistreerd wiens team kampioen is geworden in de laatste 4 jaar [Kampioen, waarbij Geen kampioenschap = 0 en Kampioenschap = 1].
+
+Bereken een nieuwe variabele waarbij mensen uit Amsterdam en Haarlem de ene groep vormen en mensen uit Rotterdam en Dordrecht de andere. Bepaal of het gemiddelde aantal "wedstrijden van het andere team dat iemand keek" van de groep "Amsterdam+Haarlem" significant verschilt van dat van de groep "Rotterdam+Dordrecht". Rapporteer de verkregen p-waarde (met 3 decimalen).
+
+* Download**: [SPSS file](inferential_statistics-240-en-data.sav), [CSV file](inferential_statistics-240-en-data.csv)
+
+
+Solution
+========
+Het juiste antwoord is 0,106.
+
+Meta-information
+================
+exname: eur-inferential_statistics-240-nl
+extype: num
+exsolution: 0.106
+extol: 0
+exsection: Inferential Statistics/Parametric Techniques/t-test/Independent samples means
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

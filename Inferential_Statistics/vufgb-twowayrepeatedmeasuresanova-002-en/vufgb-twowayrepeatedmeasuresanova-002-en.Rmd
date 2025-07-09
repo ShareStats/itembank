@@ -1,0 +1,35 @@
+Question
+========
+
+Given is the equation below for the repeated measures ANOVA model: 
+
+$X_{ij} = \mu+\pi_{i}+\tau_{j}+e_{ij}^{*}$
+
+What it stands for $\tau_{j}$? 
+Answerlist
+----------
+* The average for person *j* across repeated measurements.
+* The mean for time *j* across persons.
+* The deviation of person *j* from the overall mean.
+* The deviation of time *j* from the overall mean.
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Incorrect
+* Correct
+
+Meta-information
+================
+exname: vufgb-twowayrepeatedmeasuresanova-002-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway repeated measures ANOVA
+exextra[Type]: Conceptual, Interpreting output
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

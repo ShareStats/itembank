@@ -1,0 +1,57 @@
+Question
+========
+Bepaal of de volgende Stellingen waar of niet waar zijn.  
+  
+I. De waarschijnlijkheid van het maken van een type I fout hangt af van het niveau van significantie.  
+  
+II. We maken een type II fout als we de fout maken dat we *niet* H0 verwerpen, terwijl H0 in feite onwaar is.
+
+Answerlist
+----------
+* Stellingen I en II zijn waar.
+* Stelling I is waar en stelling II is onwaar.
+* Stelling I is niet waar en stelling II is waar.
+* Stellingen I en II zijn onwaar.
+
+Solution
+========
+
+Ze zijn allebei waar.  
+  
+I) Het ten onrechte verwerpen van de nulhypothese, of stellen dat er een statistisch significant verschil in de gegevens terwijl dat er in feite niet is (fout-positief), wordt type I fout of alfafout genoemd. niet is (fout-positief), wordt type I fout of alfafout genoemd. De waarschijnlijkheid van een type I fout hangt af van het significantieniveau toegekend door de onderzoeker en het al dan niet bestaan van een verschil tussen de twee experimentele condities.  
+  
+  
+Een significantieniveau van 5%, of 1 op 20, is willekeurig vastgesteld. 5% kans op het maken van een type I fout. Als p waarschijnlijkheid is en p &lt;0,05, dan is er 5% kans dat een waargenomen verschil door toeval is ontstaan.  
+  
+  
+II) Een type II fout is het niet verwerpen van een foutieve nulhypothese (ook bekend als een "fout-negatieve" bevinding). ook bekend als een "fout-negatieve" bevinding)  
+EXTRA: Waarom niet altijd een zeer kleine alfawaarde instellen? Het gevolg van van een p-waarde van .01 versus .05 is dat er een verhoogd risico is op het maken van een type II- of bètafout. op het maken van een type II- of bètafout. Dit is het niet verwerpen van de nulhypothese hypothese te verwerpen terwijl deze in feite vals is. Hoe kleiner de p-waarde, hoe meer groter de kans is op een type II fout. De power van een test is 1-bèta. De kans op het maken van een type II fout hangt af van 4 factoren. 1) grootte van alpha (zoals besproken) 2) variabiliteit binnen een populatie (meer variabiliteit resulteert in een grotere kans op een type II fout) 3) steekproef grootte (meer proefpersonen resulteert in minder kans op type II fout) en 4) de grootte van het verschil tussen de experimentele condities (kleinere verschillen resulteren in een grotere kans op type II fouten).  
+  
+  
+Als je meer wilt weten over type I en type II fouten, bekijk dan deze
+ [clip](https://www.youtube.com/watch?v=ddEgwAwwB7A&index=6&list=PLyLpEs0x9BnkUdochj7JEC-2javLshojj)
+
+Moeilijkheidsniveaus Gemakkelijk
+
+M&T Hypothese testen: gemiddelden Standaardwaarde
+
+M&T Hypothese testen: verhoudingen Standaardwaarde
+Answerlist
+----------
+* Waar
+* Onwaar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-statistical errors-1126-nl
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/nhst/statistical errors
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: Dutch
+exextra[Level]: statistical reasoning
+

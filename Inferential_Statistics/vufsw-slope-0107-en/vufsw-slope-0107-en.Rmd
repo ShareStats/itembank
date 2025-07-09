@@ -1,0 +1,59 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Screen__Shot__2020-04-30__at__15.36.58.png", recursive = TRUE)
+```
+
+Question
+========
+Below are the results of a multiple regression analysis with the degree of trust in the police (variable: "**Police**") as the dependent variable, measured on a scale ranging from 1 (very little trust) to 10 (very much trust). The three independent variables in the model are:  
+  
+
+- **Migration background**: 0 = no; 1 = yes.
+- **Age category**: measured by a scale with five categories ranging from score 0 (16 to 19 years old) to 4 (65 years old or older).
+- **Education level**: the highest education a respondent is is currently pursuing or has already completed, measured by a scale with six categories ranging from score 0 (no education at all) to score 5 (Scientific Education).  
+      
+
+Age category and education level have ordinal levels of measurement, but will be considered quantitative for convenience.  
+  
+Suppose we compare two fictional individuals, Dušan and Hakim. Both individuals have a migration background, and both individuals belong to the same age group. Dušan's educational level (WO; score = 5) is one category higher than Hakim's educational level (HBO; score
+= 4).  
+  
+Which statement about the estimated difference in the level of trust in the police is correct?  
+  
+![](Screen__Shot__2020-04-30__at__15.36.58.png)
+
+Answerlist
+----------
+* Dušan has 0.179 more confidence in the police than Hakim, expressed on a scale of 1 to 10.
+* Dušan has 0.179 more confidence in the police than Hakim, expressed on a scale of 0 to 1.
+* Dušan has 0.895 (calculated as follows: 0.179 \* 5 = 0.895) more trust in the police than Hakim, expressed on a scale of 0 to 1.
+* Dušan has 0.895 (calculated as follows: 0.179 \* 5 = 0.895) more trust in the police than Hakim, expressed on a scale of 1 to 10.
+
+Solution
+========
+
+Language Dutch
+
+Levels of Difficulty Easy
+
+M&T Basics of quantitative research Basics of quantitative research
+
+M&T BIS Default value
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-slope-0107-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/regression/slope
+exextra[Type]: interpretating output
+exextra[Program]: spss
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

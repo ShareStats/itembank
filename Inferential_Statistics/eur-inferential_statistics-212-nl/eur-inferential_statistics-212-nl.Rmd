@@ -1,0 +1,41 @@
+Question
+========
+Een onderzoeker wil nagaan of het aantal eenheden alcoholische drank per gelegenheid een negatieve invloed heeft op het aantal maanden dat een student nodig heeft om zijn masterdiploma in psychologie te behalen, wanneer hij controleert voor intelligentie (IQ).
+
+Hij vraagt een willekeurige steekproef (N = 100) van pas afgestudeerde psychologen naar hun alcoholgebruik tijdens hun masteropleiding. Op basis van deze informatie deelt hij de proefpersonen in als niet-drinkers, matige drinkers of zware drinkers. Bovendien werd voor elke proefpersoon de duur van de studie en het IQ bepaald.
+
+Welk type data-analyse is in theorie het meest geschikt voor bovenstaand onderzoek?
+
+Answerlist
+----------
+* Tweezijdige factoriële ANOVA
+* Thee-weg gemengde ANOVA
+* ANCOVA
+* Herhaalde maatregelen ANOVA
+
+
+Solution
+========
+Het juiste antwoord is ANCOVA. Je gebruikt een ANCOVA als je wilt kijken naar het effect van een categorische onafhankelijke variabele (type drinker) op een continue afhankelijke variabele (alcoholgebruik), terwijl je controleert voor een andere continue variabele/covariaat (intelligentie) die covarieert met de afhankelijke variabele. Daarom is dit de meest geschikte analyse voor dit onderzoek.
+
+Tweeweg factorial anova is onjuist, omdat er maar één onafhankelijke variabele is (type drinker). De onderzoeker wil alleen controleren voor IQ.
+
+Aangezien deze studie groepen vergelijkt, zijn zowel drieweg gemengde ANOVA als herhaalde maatregelen ANOVA niet zinvol, omdat ze ook een vorm van een intra-subjects element vereisen.
+
+Answerlist
+----------
+* Onjuist
+* Onjuist
+* Waar
+* Onwaar
+
+Meta-information
+================
+exname: eur-inferential_statistics-212-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA
+exextra[Type]: Test choice
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

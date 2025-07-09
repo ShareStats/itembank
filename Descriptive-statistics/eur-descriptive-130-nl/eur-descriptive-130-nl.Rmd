@@ -1,0 +1,29 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-130-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-130-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Open het SPSS-bestand.
+
+Wat is het percentage van de vrouwen (geslacht = 2) met een score van 2 (oneens) op stelling 1 (statement 1)? Rond je antwoord af op 1 decimaal.
+
+* Download**: [SPSS file](eur-descriptive-130-en-data.sav), [CSV file](eur-descriptive-130-en-data.csv)
+
+
+Solution
+========
+Van de vrouwelijke studenten had 15,2% een score van 2 (oneens) op stelling 1.
+
+Meta-information
+================
+exname: eur-descriptive-130-nl
+extype: num
+exsolution: 15.2
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Proportion
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

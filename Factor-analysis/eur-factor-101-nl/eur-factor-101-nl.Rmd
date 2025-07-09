@@ -1,0 +1,36 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+
+
+Question
+========
+Hieronder vind je de output van een factoranalyse op 8 items die extraversie meten.
+
+```{r, echo=FALSE}
+library(knitr)
+Factor <- 1:8
+Eigenvalue <- c(2.2, 1.8, 1.1, 0.9, 0.8, "...", 0.3, 0.3)
+table <- cbind(Factor, Eigenvalue)
+kable(table, caption = 'Table 1')
+```
+
+Bereken de eigenwaarde van de 6e Factor.
+
+
+Solution
+========
+De eigenwaarde van de 6e factor kan als volgt worden berekend. De som van de eigenwaarden van 8 variabelen is gelijk aan 8. De som van de eigenwaarden van de factoren in de tabel is: $2.2+1.8+1.1+.9+.8+.3+.3=7.4$. De eigenwaarde van de 6e factor is dus: $8‐7.4= .6$.
+
+Meta-information
+================
+exname: eur-factor-101-nl
+extype: num
+exsolution: .6
+extol: 0
+exsection: Factor analysis/Eigenvalues
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,26 @@
+Question
+========
+Examens zijn bedoeld om de werkelijke score van een persoon te meten. De nauwkeurigheid van deze meting van de ware score zal waarschijnlijk lager zijn als de betrouwbaarheid van de test te laag is. Een manier om deze lagere nauwkeurigheid theoretisch te compenseren is door de aangepaste ware score te berekenen: $X_{est} = x̄ + R_{xx}(X_o-x̄)$
+
+Studenten die examen doen in psychometrie hebben een 6,0 nodig om te slagen voor het examen. Eén student heeft een 6,0. De gemiddelde score is 5,8 en de betrouwbaarheid van het examen is .31. Adviseer je deze student om te klagen over de betrouwbaarheid van het examen? Leg uit waarom.
+
+
+Solution
+========
+De aangepaste ware score (geschatte ware score) voor een leerling met een geobserveerde score van 6 is:
+$X_{adj} = 5.8 + .31(6.0 - 5.8)$
+$X_{adj} = 5.8 + .062 = 5.862 = 5.9$
+
+De geschatte score is 5,9, wat onder het criterium is. In dit geval kan de student dus beter tevreden zijn met de lagere betrouwbaarheid.
+
+Meta-information
+================
+exname: eur-reliability-215-nl
+extype: string
+exsolution: ""
+extol: 
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Calculate, Interpreting output
+exextra[Program]: Calculator
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

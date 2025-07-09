@@ -1,0 +1,32 @@
+Question
+========
+  
+Suppose the entrance exam scores were coded as "failing," "satisfactory," or "good/excellent." Now which analysis technique is best suited to see if the GPAs of U.S. high school students differ in these three groups? 
+Answerlist
+----------
+* Pearson correlation
+* Analysis of variance
+* Two-way analysis of variance
+* Chi-square test of Goodness of Fit 
+
+
+Solution
+========
+  
+
+Answerlist
+----------
+* This answer is incorrect. Admission exam scores are not of interval or ratio measurement level.
+* This answer is correct.GPA is the dependent variable, it is of interval measurement level, Entrance exam scores are the independent variable, they are of ordinal measurement level here. Comparing two or more groups on a variable of interval or Ratio measurement level is possible with analysis of variance.
+* This answer is incorrect. There is only one independent variable, not two.  
+* This answer is incorrect. A chi-square test is not appropriate with a dependent variable of interval measurement level with many different values.
+
+Meta-information
+================
+exname: uu-ANOVA-826-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA
+exextra[Type]: Test Choice
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

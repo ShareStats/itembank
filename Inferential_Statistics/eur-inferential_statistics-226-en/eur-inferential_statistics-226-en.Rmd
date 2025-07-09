@@ -1,0 +1,29 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-226-en-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-226-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Men and women often comment on each other's driving in the car. We look at the gender of who is behind the wheel [Driver, where male = 0, female = 1], what make of car someone drives [Car, where Ford = 1, Audi = 2, Toyota = 3, and Volkswagen = 4], the miles driven [Driven_kilometers] and the miles as a co-driver [Co-driver_kilometers]. We also look at who received a collision and who did not [Collision, where no collision = 0, did collision = 1].
+
+We examine whether the probability of getting a collision [Collision] is percent the same for all four car makes [Car]. If the null hypothesis in this study were TRUE, what is the expected value of the number of Ford drivers who get a collision? Write the expected number in the answer box (with 1 decimal place).
+
+* Download**: [SPSS file](eur-inferential_statistics-226-en-data.sav), [CSV file](eur-inferential_statistics-226-en-data.csv)
+
+
+Solution
+========
+The correct answer is 13.8.
+
+Meta-information
+================
+exname: eur-inferential_statistics-226-en
+extype: num
+exsolution: 13.8
+extol: 0
+exsection: Inferential Statistics/Parametric Techniques/Cross tables, Inferential Statistics/NHST/Hypothesis/Null hypothesis
+exextra[Type]: Interpreting output, Conceptual
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,39 @@
+Question
+========
+
+Genetics teaches that children inherit genes from their parents. If both parents carry the genes O and A for blood type, each child has a chance of 0.25 to inherit two O genes to become blood type O. The number of children with blood type O among five offspring of these parents is the number of successes X in five independent attempts. Suppose that the chance variable *X* is the number of children with blood type O, so X has the values as 0, 1, TRUE. , 5 and the Binomial (5, 0.25)-distribution. What is then the probability that *X* = 1?
+
+Answerlist
+----------
+
+* 0,0010
+* 0,0146
+* 0,0879
+* 0,2373
+* 0,2637
+* 0,3955
+
+Solution
+========
+
+Answerlist
+----------
+
+* 0.0010: Incorrect
+* 0.0146: Incorrect
+* 0.0879: Incorrect
+* 0.2373: Incorrect
+* 0.2637: Incorrect
+* 0.3955: Correct
+
+Meta-information
+================
+exname: uva-binomial-754-en
+extype: schoice
+exsolution: 000001
+exsection: Distributions/Discrete/Binomial
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

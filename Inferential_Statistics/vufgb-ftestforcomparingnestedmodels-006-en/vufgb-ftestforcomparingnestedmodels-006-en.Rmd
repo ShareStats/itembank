@@ -1,0 +1,31 @@
+Question
+========
+
+Two nested models are compared. Reduced model: $\hat{y} = a+b_{1}x_{1}+b_{2}x_{2}+b_{3}x_{3}$. Complete model: $\hat{y} = a+b_{1}x_{1}+b_{2}x_{2}+b_{3}x_{3}+b_{4}x_{1}x_{2}+b_{5}x_{1}x_{3}$. The sample size is 160. How many degrees of freedom are in the numerator of the Model Comparison Test? 
+Answerlist
+----------
+* 2
+* 3
+* 4
+* 6
+
+Solution
+========
+
+Answerlist
+----------
+* Correct
+* Incorrect
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-ftestforcomparingnestedmodels-006-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Regression/Multiple linear regression/F-test for comparing (nested) models
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

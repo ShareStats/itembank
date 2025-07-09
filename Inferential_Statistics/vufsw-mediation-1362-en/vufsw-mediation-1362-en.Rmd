@@ -1,0 +1,48 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1602951598702.png", recursive = TRUE)
+include_supplement("1602951629778.png", recursive = TRUE)
+```
+
+Question
+========
+The analyses below were conducted on data from a sample of young adults between the ages of 20 and 40 who were surveyed via a questionnaire that asked about their cultural preferences. The research questions are (1) to what extent the amount of television viewing (variable: TV WATCHING (scale 0-1): a higher score means more TV watched) is caused by the social position of the parental environment (measured is parents' education (variable: FAMEDUC (scale 0-7), ranging from primary education (0) to university (7) a higher score means higher education) and (2) whether this relationship can be explained by the extent to which previously (when the respondent was 12 years old) television was watched by the parents (variable: FAMTV (scale 0-1), a higher score means more TV was watched).  
+Below are the results of two regression analyses.  
+  
+Regression 1:  
+![](1602951598702.png)
+  
+Regression 2:  
+![](1602951629778.png)
+  
+  
+If this sample is one of 95% containing the population value then we can conclude from the confidence interval of 'fameduc' in **model 1in the first regression analysis** conclude that....
+
+Answerlist
+----------
+* The population value can also be 0, and therefore there is insufficient evidence that there will be a negative effect of "fameduc" in the population will be
+* The population value will not be 0, and therefore there is likely to be a negative effect of 'fameduc' in the population
+* The estimated b (-.026) is part of the confidence interval, and that therefore there is likely to be a negative effect of 'fameduc' in the population will be
+* The t-value -4.045 is outside the limits of the confidence interval, and that therefore there is likely to be a negative effect of 'fameduc' in the population
+
+Solution
+========
+
+Answerlist
+----------
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-mediation-1362-en
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression/mediation
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical reasoning
+

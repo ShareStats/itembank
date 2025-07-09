@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-214-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-214-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+What is the value associated with the 25th percentile for the final mathematics exam (variable: math)? Write your answer in the answer box (using 3 decimal places).
+
+* Download**: [SPSS file](eur-descriptive-214-en-data.sav), [CSV file](eur-descriptive-214-en-data.csv)
+
+
+Solution
+========
+The correct answer is 3,889.
+
+Meta-information
+================
+exname: eur-descriptive-214-en
+extype: num
+exsolution: 3.889
+extol: 0
+exsection: Descriptive statistics/Score interpretation/Percentile
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

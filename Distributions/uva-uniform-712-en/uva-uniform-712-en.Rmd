@@ -1,0 +1,35 @@
+Question
+========
+
+A generator of random numbers in a computer will spread its outcomes spread evenly over the entire interval from 0 to 1 when we make it generate a long series of numbers. We call this a so-called *uniform distribution*. A generator of random numbers produces a number *X* that lies in an interval between 0 and 0.4 or in an interval between 0.7 and 1, what is the probability of P(*X* ≤ 0.4 or *X* \> 0,7)?
+
+Answerlist
+----------
+
+* 0,4
+* 0,7
+* 0,3
+* 1,1
+
+Solution
+========
+
+Answerlist
+----------
+
+* 0,4: Incorrect
+* 0,7: Incorrect
+* 0.3: Correct
+* 1.1: Incorrect
+
+Meta-information
+================
+exname: uva-uniform-712-en
+extype: schoice
+exsolution: 0010
+exsection: Distributions/Continuous/Uniform
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

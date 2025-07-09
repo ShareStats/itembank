@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-253-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-253-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Welk percentage van de mannelijke leerlingen [gender = 1] had het middelbare schoolprofiel "economie en maatschappij" (variabele: profile, waarbij 2 = economie en maatschappij)? Schrijf je antwoord in het antwoordvak (1 decimaal).
+
+* Download**: [SPSS file](eur-descriptive-253-en-data.sav), [CSV file](eur-descriptive-253-en-data.csv)
+
+
+Solution
+========
+Het juiste antwoord is 32,9.
+
+Meta-information
+================
+exname: eur-descriptive-253-nl
+extype: num
+exsolution: 32.9
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Proportion
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

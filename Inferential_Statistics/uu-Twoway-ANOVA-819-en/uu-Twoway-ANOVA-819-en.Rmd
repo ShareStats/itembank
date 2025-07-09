@@ -1,0 +1,39 @@
+Question
+========
+  
+The grades of a group of students in the Statistics I course at a Boston university is used to answer the question of whether grade for this course depends on subject of study (major) and sex (gender).
+
+The researchers randomly selected the students from course files. Closer inspection reveals that there are several students in the sample who have a double major. The grades of a few students are listed under both Social Science and Languages. The grades of two more students are listed under both Econ/Political Science and Languages.
+
+Which condition of the two-way ANOVA did the researchers violate with this?
+
+  
+Answerlist
+----------
+* Random sample
+* Independence of observations
+* Equal variances
+* Normal distribution of numbers
+
+
+Solution
+========
+  
+
+
+Answerlist
+----------
+* Random sample. This condition is not violated, since a random sample was drawn, or a random sample
+* Independence of observations. This condition is violated because there are students who are in more than 1 of the groups. It is important in an ANOVA that there are independent groups. This is not the case.
+* Equal variances. This condition is an important one in this test, but this is not what the question is about.
+* Normal distribution of numbers.This condition is an important one with this test, but this is not what the question is about.
+
+Meta-information
+================
+exname: uu-Twoway-ANOVA-819-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
+exextra[Type]: Case
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

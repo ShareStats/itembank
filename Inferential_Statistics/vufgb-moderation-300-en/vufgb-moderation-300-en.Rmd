@@ -1,0 +1,33 @@
+Question
+========
+
+A researcher first wants to center the predictors in a model before looking at interaction between predictors.
+
+What formula creates a centered variable? 
+Answerlist
+----------
+* $X_{1}-M_{X_{1}}$
+* $(X_{1}-M_{X_{1}})/SD_{X_{1}}$
+* $X_{1}+M_{X_{1}}$
+* $(X_{1}+M_{X_{1}})/SD_{X_{1}}$
+
+Solution
+========
+
+Answerlist
+----------
+* Correct
+* Incorrect
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-moderation-300-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Regression/Multiple linear regression/Moderation
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

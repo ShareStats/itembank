@@ -1,0 +1,30 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-ANCOVA-883-en-graph01.jpg", recursive = TRUE)
+```
+Question
+========
+The professor makes a scatterplot of the relationship between years and bullying, indicating the three educational categories with different colors. What characteristics/conditions should be present in this scatterplot?
+
+![](uu-ANCOVA-883-en-graph01.jpg)
+
+Answerlist
+----------
+* A linear relationship between years and bullying
+* For each color a linear relationship between years and bullying
+* A linear relationship between years and bullying with a normal distribution for each color (each education category)
+* A linear relationship between years and bullying and the regression rights of the three categories run parallel
+
+
+Solution
+========
+
+Meta-information
+================
+exname: uu-ANCOVA-883-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA
+exextra[Type]: Interpretating output, Creating graphs
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Reasoning

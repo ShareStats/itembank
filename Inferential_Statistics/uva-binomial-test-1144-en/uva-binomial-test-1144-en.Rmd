@@ -1,0 +1,35 @@
+Question
+========
+
+A pure coin is tossed 200 times. The random variable *X* is: the number of times head is on top. Is *X* a binomial variable and if so, what are *n* and *p*? (p.323, 8.32, knowledge binomial distribution)_____________________________.
+
+Answerlist
+----------
+
+* X is not a binomial variable.
+* X is a binomial variable, with n = 200 and p = ½.
+* X is a binomial variable, with n = 200 and p = 1/200.
+* X is a binomial variable, with n =1/2 and p = 200.
+
+Solution
+========
+
+Answerlist
+----------
+
+* X is not a binomial variable...: Incorrect
+* X is a binomial variable, with n = 200 and p = ½...: Correct
+* X is a binomial variable, with n = 200 and p = 1/200: Incorrect
+* X is a binomial variable, with n =1/2 and p = 200...: Incorrect
+
+Meta-information
+================
+exname: uva-binomial-test-1144-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Non-parametric Techniques/Binomial test
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

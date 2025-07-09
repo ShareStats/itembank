@@ -1,0 +1,53 @@
+Question
+========
+In een experiment kregen 20 willekeurig geselecteerde proefpersonen een training om hun wiskundevaardigheden te verbeteren. Hun prestaties werden gemeten voordat de training plaatsvond (meting 1) en daarna (meting 2) op een schaal van 1 tot 10. Een hogere score betekent betere prestaties. De resultaten worden hieronder weergegeven. Een onderzoeker wil onderzoeken of de training de score verhoogt en voert een eenzijdige test uit met alpha = 0.05.  
+  
+  
+
+<table> <tbody> <tr class="odd"> <td>N </td> <td>gemiddelde meting 1 (voor)</td> <td>gemiddelde meting 2 (achteraf)</td> <td>gemiddelde verschil</td> <td>standaardfout (se) gemiddeld verschil</td> </tr> <tr class="even"> <td>20</td> <td>5,75 </td> <td>6,35 </td> <td>0,60 </td> <td>0,24</td> </tr> </tbody> </table>
+
+  
+  
+De onderzoeker stelt dat dit twee onafhankelijke groepen zijn, dus een afhankelijke *t*-test nodig is. Leg uit waarom.
+
+Answerlist
+----------
+* Omdat de training in dit onderzoek waarschijnlijk een positieve invloed heeft op de prestaties.
+* Omdat de training in de populatie waarschijnlijk een positieve invloed heeft op de prestaties.
+* Omdat de onderzoeker twee metingen heeft gedaan bij dezelfde groep proefpersonen.
+* Omdat niet uitgesloten kan worden dat een significant resultaat in de steekproef te wijten is het gevolg is van toeval.
+
+Solution
+========
+
+Of de metingen afhankelijk of onafhankelijk zijn heeft niets te maken met of er wel of geen verband is tussen de X en de Y. de Y. De onderzoeker deed twee metingen **bij dezelfde groep proefpersonen. De metingen zijn NIET onafhankelijk (als iemand in het begin hoog scoort op wiskundevaardigheden). het begin hoog scoort op wiskundevaardigheden zal hij of zij ook hoog scoren bij de tweede meting, ongeacht de interventie), dus zijn de twee metingen niet onafhankelijk en DUS is een afhankelijke
+* -*test nodig.  
+  
+  
+Als je meer wilt weten over twee afhankelijke middelen bekijk dan dit
+[clip](https://www.youtube.com/watch?v=UyQuY-uo918&index=8&list=PLyLpEs0x9Bnl2e68nd7M6lecUqUNu2Sgn)
+
+Moeilijkheidsniveaus Gemakkelijk
+
+M&T Hypothese testen: gemiddelden Standaardwaarde
+
+M&T Modelselectie Standaardwaarde
+Answerlist
+----------
+* Onwaar
+* Onwaar
+* Waar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-paired samples-1130-nl
+extype: schoice
+exsolution: 0010
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/t-test/paired samples
+exextra[Type]: test choice
+exextra[Program]: NA
+exextra[Language]: Dutch
+exextra[Level]: statistical reasoning
+

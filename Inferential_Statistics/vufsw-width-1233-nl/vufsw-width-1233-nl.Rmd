@@ -1,0 +1,51 @@
+Question
+========
+Als je de steekproefomvang met een factor vier vergroot, zal de breedte van het betrouwbaarheidsinterval......
+
+Answerlist
+----------
+* Met een factor twee toenemen.
+* Met een factor 4 toenemen.
+* Verminderen met een factor twee.
+* Verminderen met een factor 4.
+
+Solution
+========
+
+Het antwoord: *verhogen met een factor twee *is **verkeerd**. Het is waar dat de factor 2 is, maar het vergroten van de steekproefgrootte vermindert de breedte van de betrouwbaarheidsintervallen omdat het de standaardfout verkleint. De standaardafwijking voor een bevolkingspercentage heeft de vierkantswortel van de steekproefgrootte in de noemer.  
+  
+Het antwoord: *verhogen met een factor 4* is **verkeerd**. Het vergroten van de steekproefgrootte vermindert de breedte van betrouwbaarheidsintervallen omdat het de standaardfout verkleint. Bovendien heeft de standaardfout voor een populatie percentage heeft de vierkantswortel van de steekproefomvang in de noemer. Daarom is het vergroten van de steekproefomvang met een factor 4 (dus vermenigvuldigen met 4) gelijk aan het vermenigvuldigen van de standaardfout. met 4) gelijk aan het vermenigvuldigen van de standaardfout met 1/2.  
+  
+Het antwoord: *met een factor twee verminderen* is **juist**. De standaard fout voor een populatiepercentage heeft de vierkantswortel van de steekproefgrootte in de noemer. Daarom is het verhogen van de steekproefomvang met een factor 4 (dus vermenigvuldigen met 4) gelijk aan het vermenigvuldigen van de standaardfout met 1/2. fout met 1/2. Het interval zal dus half zo breed zijn.  
+  
+Het antwoord: *verkleinen met een factor 4* is **verkeerd**. Het is waar dat het afneemt, maar niet met een factor 4. De standaardfout voor een populatiepercentage percentage heeft de vierkantswortel van de steekproefomvang in de noemer. Daarom is het vergroten van de steekproefgrootte met een factor 4 (dus vermenigvuldigen met met 4) is gelijk aan het vermenigvuldigen van de standaardfout met 1/2. Het interval half zo breed.  
+  
+Als je meer wilt weten over steekproefgrootten, bekijk dan dit
+[clip](https://www.youtube.com/watch?v=QHzMPzHQgEg&index=9&list=PLyLpEs0x9BnmPTE2RRRJW058Nf7R_2xQa).
+
+Taal Nederlands
+
+Moeilijkheidsniveaus Moeilijk
+
+M&T BIS Standaardwaarde
+
+M&T Verdelingen Standaardwaarde
+Answerlist
+----------
+* Onwaar
+* Onwaar
+* Waar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-width-1233-nl
+extype: schoice
+exsolution: 0010
+exshuffle: TRUE
+exsection: inferential statistics/confidence intervals/width
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

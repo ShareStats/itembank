@@ -1,0 +1,35 @@
+Question
+========
+
+In multiple regression, for the se of parameter $b_{j}$:
+
+$se = \frac{1}{\sqrt{1-R^{2}_{j}}}$x$\frac{s}{s_{xj}\sqrt{n-1}}$
+
+This shows that se is highest if the correlation between the predictors is ... is and the standard deviation on predictor j is ... . 
+Answerlist
+----------
+* Large, small
+* Large, large
+* Small, small
+* Small, large
+
+Solution
+========
+
+Answerlist
+----------
+* Correct
+* Incorrect
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-regression-012-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Regression, Inferential Statistics/Regression/Residuals
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

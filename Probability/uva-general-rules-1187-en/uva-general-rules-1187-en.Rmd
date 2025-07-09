@@ -1,0 +1,35 @@
+Question
+========
+
+Every morning, Daan rolls a clean die. If he throws a 1 or 2 then he goes to play soccer. If he throws a 3, 4, 5 or 6 then he goes running. Suppose the random variable is X: the number of days that Daan goes running. What is the probability distribution that out of the next five days he is going to run at least three of them?
+
+Answerlist
+----------
+
+* P(X=3) = 0.3275
+* P(X=4) = 0.3325
+* P(X≥3) = P(X=4)+P(X=5)=0.3325+0.1350
+* P(X ≥3) = P(X=3)+P(X=4)+P(X=5)=0.3275+0.3325+0.1350= 0.7950
+
+Solution
+========
+
+Answerlist
+----------
+
+* P(X=3) = 0.3275: Incorrect
+* P(X=4) = 0.3325: Incorrect
+* P(X≥3) = P(X=4)+P(X=5)=0.3325+0.1350: Incorrect
+* P(X ≥3) = P(X=3)+P(X=4)+P(X=5)=0.3275+0.3325+0.1350= 0.7950: Incorrect
+
+Meta-information
+================
+exname: uva-general-rules-1187-en
+extype: schoice
+exsolution: 0001
+exsection: Probability/Elementary Probability/General Rules
+exextra[Type]: Conceptual, Calculation
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

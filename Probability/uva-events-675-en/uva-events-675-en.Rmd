@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-events-675-en-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Event A = { 2 ≤ x ≤ 4}, and B = {x|x ≥ 3}.Looking at the graph below, what is the union of *A* and *B*?
+
+![](uva-events-675-en-graph01.png)
+
+Answerlist
+----------
+
+* {x|x ≤ 2}
+* {x|2 ≤ x ≤ 4}
+* {x|x ≥ 2}
+* {x|x > 4}
+
+Solution
+========
+
+Answerlist
+----------
+
+* {x|x ≤ 2}: Incorrect
+* {x|2 ≤ x ≤ 4}: Incorrect
+* {x|x ≥ 2}: Correct
+* {x|x > 4}: Incorrect
+
+Meta-information
+================
+exname: uva-events-675-en
+extype: schoice
+exsolution: 0010
+exsection: Probability/Elementary Probability/Events
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 1.865
+exextra[p-value]: 0.8066

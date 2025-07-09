@@ -1,0 +1,41 @@
+Question
+========
+
+Vase I contains nine red balls and one white ball. Vase II contains six red and four white balls. We repeat 20 times in a row the following experiment:
+
+1.  First, throw a pure die. 2.  If the number of eyes is divisible by three, randomly choose a ball from vase I. Otherwise, randomly pick a ball from vase II.
+
+After each repetition, the selected ball is returned to the vase from which it was taken. from which it was taken.Ê \ Which of the following statements is correct?
+
+Answerlist
+----------
+
+* The number of red balls chosen is binomially distributed with n=20 and p=0.90.
+* The number of red balls chosen is binomially distributed with n=20 and p=0.60.
+* The number of red balls chosen is binomially distributed with n=20 and p=0.75.
+* The number of red balls chosen is binomially distributed with n=20 and p=0.70.
+* The probability distribution of the number of red balls chosen is not a binomial distribution at all.
+
+Solution
+========
+
+Answerlist
+----------
+
+* The number of red balls chosen is binomially distributed with n=20 and p=0.90...: Incorrect
+* The number of red balls chosen is binomially distributed with n=20 and p=0.60...: Incorrect
+* The number of red balls chosen is binomially distributed with n=20 and p=0.75: Incorrect
+* The number of red balls chosen is binomially distributed with n=20 and p=0.70: Correct
+* The probability distribution of the number of red balls chosen is not a binomial distribution at all...: Incorrect
+
+Meta-information
+================
+exname: uva-binomial-733-en
+extype: schoice
+exsolution: 00010
+exsection: Distributions/Discrete/Binomial
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2.06
+exextra[p-value]: 0.5472

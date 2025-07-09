@@ -1,0 +1,47 @@
+Question
+========
+Het gemiddelde inkomen van een grote steekproef van studenten die allemaal bij een advocatenkantoor werken is 500 euro (per maand), met een standaardafwijking van 100 euro. advocatenkantoor werken is 500 euro (per maand), met een standaardafwijking van 100 euro. Het gemiddelde inkomen is normaal verdeeld. Wat is het aandeel van studenten met een inkomen hoger dan 450 euro per maand?
+
+Answerlist
+----------
+* 0.50
+* 0.56
+* 0.69
+* 0.31
+* 0.85
+
+Solution
+========
+
+z = (450-500)/100 = 0,500 (het is een halve sd van het gemiddelde). De Z-score Tabel toont voor z = 0,50 het cijfer 0,3085. Dit is de kans op een inkomen lager dan 450. Dus de kans op een inkomen hoger dan 450 euro per maand is 1-0,3085= 0,6915.  
+  
+Als je meer wilt weten over hoe je dit berekent, kijk dan hier
+[clip](https://www.youtube.com/watch?v=xdHDE_RD6_c&index=7&list=PLyLpEs0x9BnlQ9yc8ZJd6KDm2TGxMYbLV)
+
+Taal Nederlands
+
+Moeilijkheidsniveaus Gemiddeld
+
+M&T BIS Standaardwaarde
+
+M&T Verdelingen Standaardwaarde
+Answerlist
+----------
+* Onwaar
+* Onwaar
+* Waar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-proportion-1279-nl
+extype: schoice
+exsolution: 00100
+exshuffle: TRUE
+exsection: descriptive statistics/summary statistics/proportion
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

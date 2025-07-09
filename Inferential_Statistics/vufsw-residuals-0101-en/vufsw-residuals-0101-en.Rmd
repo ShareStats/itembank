@@ -1,0 +1,35 @@
+Question
+========
+A researcher examines the extent to which a country's level of prosperity can explain a country's strength of religiosity. "**Wealth**" (X) of a country is measured by the Human Development Index (HDI), and "**Religiosity**" (Y) was measured using a scale from 0 (not religious) to 10 (very religious). A regression analysis of data from 46 countries (n=46) yields the following model: Ŷ = 8.58 - 1.76x.  
+  
+Canada has an HDI score of 0.94. The observed religiosity score for this country was 8.00. What is the **residue** of this country (round this number to 2 decimal places). And what does this number mean?
+
+Answerlist
+----------
+* 1,07. The observed religiosity for Canada is 1.07 higher than the predicted score.
+* 1,07. The observed religiosity for Canada is 1.07 standard deviations higher than the mean score.
+* 6,93. The observed religiosity for Canada is 6.93 higher than the predicted score.
+* 6,93. The observed religiosity for Canada is 6.93 standard deviations higher than the mean score.
+
+Solution
+========
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-residuals-0101-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/regression/residuals
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

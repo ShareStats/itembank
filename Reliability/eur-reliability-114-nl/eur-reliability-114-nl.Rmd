@@ -1,0 +1,33 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(exams)
+library(knitr)
+```
+Question
+========
+De "Drie Minuten Test" (TMT) is een test om het technisch leesniveau te beoordelen. Kinderen moeten gedurende drie minuten zo veel mogelijk woorden nauwkeurig lezen. Een leerkracht uit groep 5 wil de toets, die gemaakt is voor kinderen uit groep 2, gebruiken om de leesvaardigheid van haar kinderen uit groep 5 te beoordelen. Cronbach's alpha gebaseerd op de groep 2 is .88 en de stenaarddeviatie van de toetsscores in groep 2 is 3.
+
+De stenaardafwijking van de waargenomen scores in groep 5 bleek 2,5 te zijn. Bereken de betrouwbaarheid van de TMT in klas 5 en neem aan dat de foutvariantie gelijk is voor de populaties van klas 2 en klas 5. Gebruik de volgende formule. Gebruik de volgende formule, maar houd er rekening mee dat je de formule misschien op de een of enere manier moet aanpassen:
+
+$r_{xx} = \frac{S^2_{X_t}}{S^2_{X_o}}$
+
+En
+
+$S^2_{X_o}= S^2_{X_t} + S^2_{X_e}$
+
+
+Solution
+========
+We kunnen de foutvariantie berekenen met behulp van: $r_{xx} = \frac{S^2_{X_t}}{S^2_{X_o}} = \frac{S^2_{X_0}-S^2_{X_t}}{S^2_{X_o}}$We kunnen de betrouwbaarheid (.88) en de variantie (3^2) van de scores van klas 2 invullen: $.88 = \frac{9-S^2_{X_t}}{9}$. Dan is de variantie van de fout: $.88 \times 9 - 9 = - s^2_{x_e}$dus $s^2_{x_e} = 1.08$ en $s_{x_e} = 1.04$. We kunnen deze foutvariantie gebruiken om de betrouwbaarheid in klas 5 te berekenen:$r_{xx} = \frac{S^2_{X_t}}{S^2_{X_o}} = \frac{2.5^2-1.08}{2.5^2} = \frac{5.17}{6.25}$ = .827.
+
+Meta-information
+================
+exname: eur-reliability-114-nl
+extype: num
+exsolution: .827
+extol: 0
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Calculate
+exextra[Program]: Calculator
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

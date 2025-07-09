@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-simple-linear-regression-642-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Characteristics X and Y of 8 individuals were measured. Suppose that Y is linearly dependent on X. Then the slope of the regression line of Y on X equals
+
+![](uva-simple-linear-regression-642-nl-graph01.png)
+
+Answerlist
+----------
+
+* 0.921
+* 0.896
+* 0.786
+* 1.042
+
+Solution
+========
+
+Answerlist
+----------
+
+* 0.921: Incorrect
+* 0.896: Correct
+* 0.786: Incorrect
+* 1.042: Incorrect
+
+Meta-information
+================
+exname: uva-simple-linear-regression-642-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Regression/Simple linear regression
+exextra[Type]: Calculation
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.95
+exextra[p-value]: 0.0108

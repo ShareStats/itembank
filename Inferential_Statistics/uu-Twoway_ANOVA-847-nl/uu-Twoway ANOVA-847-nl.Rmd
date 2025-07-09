@@ -1,0 +1,33 @@
+Question
+========
+Onderzoekers willen weten of mannen en vrouwen verschillen in hun waardering van een bepaalde reclamecampagne (gemeten op een schaal van 0-10). Daarnaast zijn de onderzoekers ook geïnteresseerd in het effect van opleidingsniveau (gemeten met: mbo of lager, hbo, wo), dat ook wordt meegenomen in de analyse.
+
+Welke analysetechniek is het meest geschikt voor dit onderzoek?
+
+Answerlist
+----------
+* Eenzijdige ANOVA
+* Eenzijdige ANCOVA
+* Twee-weg ANOVA
+* Twee-weg ANCOVA
+
+
+Solution
+========
+Afhankelijke variabele: waardering van een bepaalde reclamecampagne (intervalmeetniveau)
+
+Eerste onafhankelijke variabele: geslacht (verschil tussen mannen en vrouwen; meetniveau: nominaal)
+
+Tweede onafhankelijke variabele: opleidingsniveau (meetniveau: nominaal/ordinaal)
+
+Beide onafhankelijke variabelen zijn categorisch, dus de meest geschikte techniek hier is een tweezijdige ANOVA.
+
+Meta-information
+================
+exname: uu-Twoway ANOVA-847-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
+exextra[Type]: Test choice
+exextra[Language]: Dutch
+exextra[Level]: Statistical Reasoning

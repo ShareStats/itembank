@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-correlation-328-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+A researcher is interested in the correlation between two normally normally distributed variables X and Y and to that end draws a random sample of 20 individuals from her target population. From this she calculates the following quantities. The value of the Pearson correlation coefficient is equal to
+
+![](uva-correlation-328-nl-graph01.png)
+
+Answerlist
+----------
+
+* -0.687
+* -0.335
+* 0.0012
+* 0.687
+
+Solution
+========
+
+Answerlist
+----------
+
+-0.687: Correct
+-0.335: Incorrect
+* 0.0012: Incorrect
+* 0.687: Incorrect
+
+Meta-information
+================
+exname: uva-correlation-328-en
+extype: schoice
+exsolution: 1000
+exsection: Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation
+exextra[Type]: Calculation
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.727
+exextra[p-value]: 0.1666

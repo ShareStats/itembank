@@ -1,0 +1,38 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Multiple-linear-regression-807-nl-tabel.jpg", recursive = TRUE)
+```
+
+Question
+========
+  
+An educationalist wants to investigate whether prior knowledge of body parts (PREBODY) depends on residential environment (site) and general development (PEABODY). For residential environment, four categories are distinguished:
+
+Site 1 = city advantaged Site 2 = suburb Site 3 = city disadvantaged Site 4 = village
+
+Data from the Sesame Street survey was used. The output of the analysis (parameter estimates) is given.
+
+
+![](uu-Multiple-linear-regression-807-nl-tabel.jpg)
+
+What is the predicted score on PREBODY for a child living in a suburb and with a peabody score of 60? 
+Answerlist
+----------
+* 12.0
+* 14.5
+* 26.4
+* 62.5
+
+
+Solution
+========
+
+Meta-information
+================
+exname: uu-Multiple-linear-regression-807-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Regression/Multiple linear regression
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
