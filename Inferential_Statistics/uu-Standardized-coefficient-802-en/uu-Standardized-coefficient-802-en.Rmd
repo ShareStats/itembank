@@ -4,7 +4,7 @@ include_supplement("uu-Standardized-coefficient-802-tabel.jpg", recursive = TRUE
 
 Question
 ========
-Using data from a study of depression in young children (up to 13 years of age), an analysis examined the influence of: age of child (LFTKIND), sex of child (SEKSE), age of mother (AGE), and number of children in the family (CUSTOMER). The table below shows the regression coefficients of the four predictors for the dependent variable DEPRES.
+Using data from a study of depression in young children (up to 13 years of age), an analysis examined the influence of: age of child (AgeChild), sex of child (Gender), age of mother (AgeM), and number of children in the family (NumChild). The table below shows the regression coefficients of the four predictors for the dependent variable DEPRES.
 
 Which predictor (given the other three predictors) contributes the most to the prediction of the dependent variable DEPRES?
 
@@ -12,10 +12,10 @@ Which predictor (given the other three predictors) contributes the most to the p
 
 Answerlist
 ----------
-* LFTKIND
-* SEKSE
-* AGE
-* CHILD
+* AgeChild
+* Gender
+* AgeM
+* NumChild
 
 
 Solution
