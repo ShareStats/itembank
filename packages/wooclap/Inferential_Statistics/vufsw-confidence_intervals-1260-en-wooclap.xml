@@ -60,17 +60,7 @@ significant decrease in weight. Because the 0 is not in the CI</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The values of the interval are in the critical area, so we cannot reject the null hypothesis.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The values of the interval are <strong>not</strong> in the critical area, so we cannot reject the null hypothesis.
+In at least 95% of all possible samples, we will find an average <strong>increase</strong> in weight between 1.6 and 2.8.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -90,7 +80,17 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-In at least 95% of all possible samples, we will find an average <strong>increase</strong> in weight between 1.6 and 2.8.
+The values of the interval are <strong>not</strong> in the critical area, so we cannot reject the null hypothesis.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The values of the interval are in the critical area, so we cannot reject the null hypothesis.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

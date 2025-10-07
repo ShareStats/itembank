@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-ANOVA-826-en-moodle/Inferential Statistics/Parametric Techniques/ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-ANOVA-826-en_uu-ANOVA-826-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Suppose the entrance exam scores were coded as “failing,” “satisfactory,” or “good/excellent.” Now which analysis technique is best suited to see if the GPAs of U.S. high school students differ in these three groups?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Pearson correlation
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect. Admission exam scores are not of interval or ratio measurement level.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Analysis of variance
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is correct.GPA is the dependent variable, it is of interval measurement level, Entrance exam scores are the independent variable, they are of ordinal measurement level here. Comparing two or more groups on a variable of interval or Ratio measurement level is possible with analysis of variance.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Two-way analysis of variance
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect. There is only one independent variable, not two.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Chi-square test of Goodness of Fit
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect. A chi-square test is not appropriate with a dependent variable of interval measurement level with many different values.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

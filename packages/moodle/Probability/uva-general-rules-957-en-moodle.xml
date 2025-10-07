@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-general-rules-957-en-moodle/Probability/Elementary Probability/General Rules</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-general-rules-957-en_uva-general-rules-957-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A crime has been committed, and it is known that the criminal is part is part of a population of 6 million. Through research, the police know that only one person in a million has DNA that matches the DNA of the perpetrator. A suspect is found. Define the events<br />
+* <em>A</em> = the person’s DNA matches the offender’s DNA.
+* <em>B</em> = the person found is innocent.  Then what is the probability that the person found is innocent and his DNA matches that of the perpetrator?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1/6,000,000
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/6,000,000: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1/1,000,000
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/1,000,000: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+5/6,000,000
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+5/6,000,000: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5/1,000,000
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+5/1,000,000: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1/6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/6: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5/6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+5/6: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

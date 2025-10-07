@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-critical-value-122-en-moodle/Inferential Statistics/NHST/Significance level/Critical value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-critical-value-122-en_uva-critical-value-122-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>It examines how many people would answer yes when asked whether they agree with the age increase of the state pension from 65 to 67 years. The percentage answering “yes” is 60% from a sample of 240 people asked at random. The researchers want to know if the population percentage is greater than 30%. To this end, they set the null hypothesis <em>H<sub>0</sub></em>: <em>p<sub>0</sub></em> = 30%. From what percentage can the null hypothesis be rejected when a significance level is used of 2.5%?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.30
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.30: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.36
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.36: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.60
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.60: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

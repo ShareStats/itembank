@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-descriptive-106-nl-moodle/Descriptive statistics/Summary Statistics/Measures of Location/Mean, Descriptive statistics/Summary Statistics/Measures of Location/Median</text>
+</category>
+</question>
+
+
+<question type="shortanswer">
+<name>
+<text> Q1 : Descriptive-statistics_eur-descriptive-106-nl_eur-descriptive-106-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Vul in: “groter dan”, “kleiner dan” of “gelijk aan”: Als een variabele negatief scheef verdeeld is, is het gemiddelde …. de mediaan.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Wanneer een variabele negatief scheef verdeeld is, is het gemiddelde kleiner dan de mediaan. Wanneer een variabele negatief scheef verdeeld is, ligt de staart van de verdeling aan de linkerkant. Het gemiddelde, en niet de mediaan, wordt beïnvloed door deze kleine aantallen en is daarom kleiner dan de mediaan.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<usecase>0</usecase>
+<answer fraction="100" format="moodle_auto_format">
+<text>
+"kleiner dan"
+</text>
+</answer>
+</question>
+
+</quiz>

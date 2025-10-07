@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-208-nl-moodle/Inferential Statistics/Effect size/Cohen's d, Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-208-nl_eur-inferential_statistics-208-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een promovendus aan het instituut Psychologie onderzoekt het effect van geslacht bij videomodellen op de nauwkeurigheid bij een latere taak waarbij de deelnemers een soortgelijke taak moeten uitvoeren als in de video werd uitgelegd door een mannelijk of vrouwelijk model. Uit een metastudie leerde hij dat hij een hoofdeffect voor geslacht mag verwachten: zowel mannelijke als vrouwelijke studenten leren meer van mannelijke videomodellen dan van vrouwelijke videomodellen. De effectgrootte in deze metastudie was .80. Op basis van deze effectgrootte maakt de promovendus een powerberekening en besluit dat hij 18 deelnemers nodig heeft in elk van de twee condities.</p>
+<p>Hieronder zie je de beschrijvende statistieken die de promovendus uit SPSS heeft gehaald.</p>
+<table class="table_shade">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Group</th>
+<th style="text-align: left;">Mean</th>
+<th style="text-align: left;">SD</th>
+<th style="text-align: left;">n</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Male model</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">1.8</td>
+<td style="text-align: left;">18</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Female model</td>
+<td style="text-align: left;">20</td>
+<td style="text-align: left;">1.7</td>
+<td style="text-align: left;">18</td>
+</tr>
+</tbody>
+</table>
+<p>De betrouwbaarheid van de nauwkeurigheidsscores van de promovendus bleek .64 te zijn. Bereken de effectgrootte van de gegevens met behulp van deze beschrijvende gegevens van het onderzoek van de promovendus. Rond af op 2 decimalen.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De formule voor de effectgrootte is: <span class="math inline">\(d = \frac {x̄m - x̄f}{sp}\)</span>. Aangezien beide groepen uit 18 mensen bestaan, is de samengevoegde standaardafwijking gewoon het gemiddelde van de twee standaarddeviaties. De samengevoegde standaardafwijking is <span class="math inline">\(sp = \sqrt {\frac{1.8^2 + 1.7^2}{2}} = 1.75\)</span>. Dus de effectgrootte (Cohen’s d) is <span class="math inline">\(d = \frac{6.3 - 5.2}{1.75} = .629 = .63\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.63</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

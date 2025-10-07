@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-normal-1349-en-wooclap/Distributions/Continuous/Normal</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-normal-1349-en_uva-normal-1349-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Young men in a population have an average height of 170 cm and a standard deviation of 6.75 cm. Young women have a mean height of 160 cm and a standard deviation of 6.25 cm. Both distributions are approximately normal. A young man and a young woman are chosen at random. Which answer describes the sample distribution the difference in height between the chosen man and the chosen woman?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+This sample distribution is a normal distribution with a mean of 10 and a standard error of 0.50.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This sample distribution is a normal distribution with a mean of 10 and a standard error of 0.50: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+This sample distribution is a normal distribution with a mean of 10 and a standard error of 9.20.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This sample distribution is a normal distribution with a mean of 10 and a standard error of 9.20: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+This sample distribution is a normal distribution with a mean of 165 and a standard error of 13.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This sample distribution is a normal distribution with a mean of 165 and a standard error of 13: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+This sample distribution is a normal distribution with a mean of 101.9 and a standard error of 13.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This sample distribution is a normal distribution with a mean of 101.9 and a standard error of 13: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

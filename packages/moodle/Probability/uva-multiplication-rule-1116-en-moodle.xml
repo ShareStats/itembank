@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-multiplication-rule-1116-en-moodle/Probability/Elementary Probability/General Rules/Multiplication rule</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-multiplication-rule-1116-en_uva-multiplication-rule-1116-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A club organizes a raffle. Of the 40 members, 10 are close friends of the president. The president must draw two random names sequentially from a box as winners, and the chosen name is <strong>not</strong> put back. What is then the probability that two close friends of the chairman will win?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,250
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.250: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,058
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.058: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,063
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.063: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,192
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.192: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

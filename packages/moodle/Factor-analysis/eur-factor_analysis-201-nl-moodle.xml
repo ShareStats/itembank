@@ -59,7 +59,17 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De som van de eigenwaarden is nagenoeg hetzelfde met en zonder rotatie.
+Het heeft geen zin gehad om een rotatie uit te voeren, omdat het resultaat zonder en met rotatie nagenoeg hetzelfde is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De orthogonale en non-orthogonale rotaties verklaren nagenoeg dezelfde proportie variantie.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -79,17 +89,7 @@ Goed
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Het heeft geen zin gehad om een rotatie uit te voeren, omdat het resultaat zonder en met rotatie nagenoeg hetzelfde is.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Fout
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De orthogonale en non-orthogonale rotaties verklaren nagenoeg dezelfde proportie variantie.
+De som van de eigenwaarden is nagenoeg hetzelfde met en zonder rotatie.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

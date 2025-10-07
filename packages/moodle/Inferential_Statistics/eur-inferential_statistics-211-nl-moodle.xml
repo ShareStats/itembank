@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-211-nl-moodle/Inferential Statistics/Regression/Multiple linear regression/R squared change, Inferential Statistics/Regression/Simple linear regression, Inferential Statistics/Regression/R squared</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-211-nl_eur-inferential_statistics-211-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Om nieuw personeel te selecteren gebruikt het politiekorps een procedure waarbij sollicitanten beoordeeld worden op drie doorlopende schalen: stressbestendigheid, sociabiliteit en intelligentie. Om de validiteit van deze procedure te onderzoeken wordt een willekeurige steekproef van politieagenten beoordeeld op deze drie psychologische schalen. Daarnaast beoordeelt hun supervisor hun algehele functioneren op een schaal van 0 (slecht functioneren) tot 100 (uitstekend functioneren).</p>
+<p>Een onderzoeker wil weten of stressbestendigheid en sociabiliteit samen een significant deel van de variatie in het algemeen functioneren verklaren, na controle voor intelligentie. Welke analysetechniek is hiervoor het meest geschikt?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Hiërarchische regressieanalyse is het juiste antwoord. Je wilt weten wat het effect is van twee continue variabelen op het algeheel functioneren als je controleert voor een derde continue variabele. Van deze opties geeft alleen een hiërarchische regressie antwoord op deze vraag door middel van R-kwadraat verandering.</p>
+<p>Een meervoudige regressieanalyse zou alleen testen op een algemeen effect (verklaarde variantie) en zou niet controleren voor een specifieke variabele.</p>
+<p>Gemengde ANOVA is irrelevant omdat er geen mix is van factoren tussen en binnen de proefpersonen.</p>
+<p>Een ANCOVA is hier ook niet relevant. Je gebruikt een ANCOVA als je wilt kijken naar het effect van een categorische onafhankelijke variabele op een continue afhankelijke variabele, terwijl je controleert voor een andere continue variabele (covariaat) die covarieert met de afhankelijke variabele. In dit geval is er geen categorische onafhankelijke variabele.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Hiërarchische regressieanalyse
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Meervoudige regressieanalyse (methode: enter)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Gemengde ANOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+ANCOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

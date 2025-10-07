@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-distribution-1880-en-moodle/Distributions/Continuous/t-distribution</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-distribution-1880-en_uva-distribution-1880-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>From each of two normally distributed populations with equal variances a sample is drawn.______________. Sample 1: n = 20, mean = 58, sd = 8.9. Sample 2: n = 12, mean = 59, sd = 12.53. The pooled variance estimator takes the value 107.73. It is tested whether the population averages are equal. The corresponding test size follows, if the null hypothesis is TRUE,</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A T distribution with 32 degrees of freedom
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A T-distribution with 32 degrees of freedom: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+An F-division with 20 and 12 degrees of freedom
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+An F-division with 20 and 12 degrees of freedom: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+An F-division with 19 and 11 degrees of freedom
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+An F-division with 19 and 11 degrees of freedom: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+A T distribution with 30 degrees of freedom
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A T-division with 30 degrees of freedom: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

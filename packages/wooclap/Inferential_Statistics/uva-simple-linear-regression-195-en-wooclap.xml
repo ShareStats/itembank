@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-simple-linear-regression-195-en-wooclap/Inferential Statistics/Regression/Simple linear regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-simple-linear-regression-195-en_uva-simple-linear-regression-195-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A regression analysis examines how the number of credits that students obtain in a year (y) can be predicted from their average graduation grade (x<sub>1</sub>) and their sex (x<sub>2</sub>: x<sub>2</sub> = 0 for women and x<sub>2</sub>= 1 for men). The regression equation is ŷ = 30 + 2x<sub>1</sub> - 5x<sub>2</sub>. The predicted number of credits for a woman with an average final exam grade equal to 8 is</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+41
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+41: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+46
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+46: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+51
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+51: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

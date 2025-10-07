@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Critical-value-810-en-wooclap/Inferential Statistics/NHST/Significance level/Critical value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Critical-value-810-en_uu-Critical-value-810-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In a science quiz, 10 Utrecht and 10 Amsterdam students compete against each other. The Utrecht students score 7 points more than the Amsterdam students, and the pooled variance of the scores equals 45. Do the scores of the Utrecht and Amsterdam students differ significantly from each other in a 2-sided test with <span class="math inline">\(\alpha\)</span> = 5%?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No, because the test statistic is 1.04 and the critical limits are ± 2.101.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No, because the test statistic is 1.04 and the critical limits are ± 2.262.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Yes, because the test statistic is 2.33 and the critical limits are ± 2.101.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Yes, because the test statistic is 2.33 and the critical limits are ± 2.262.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

@@ -38,13 +38,10 @@
 }
 </style>
 <p>
-<p>College Hall is concerned that an active social life will interfere with students’ academic performance. To test this hypothesis, a researcher conducts regression analysis. Their dependent variable is students’ performance on the statistics exam (percentage of correct answers). Their independent variables are: number of hours studied per week, age in years, major (1) Humanities, 2) Science, 3) Social Science, or 4) Other), the personality trait conscientiousness (on a 7-point Likert scale), and the number of parties attended per week. After conducting a multiple regression analysis, the researcher is not sure which statistic to report to College Hall, in order to convey the relative importance of the number of parties attended per week as a predictor of exam performance. Can you help?</p>
+<p>Evaluate the following two statements about multiple regression analysis:</p>
+<p>I. The measurement level of the dependent variable should be at least nominal. II. Predictors of ratio measurement level are unsuitable for use in a multiple regression.</p>
 </p>]]></text>
 </questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-</p>]]></text>
-</generalfeedback>
 <penalty>0</penalty>
 <defaultgrade>1</defaultgrade>
 <shuffleanswers>false</shuffleanswers>
@@ -52,43 +49,23 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-B
+I is correct, II is correct.
 </p>]]></text>
-<feedback format="html">
+</answer>
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-This answer is incorrect.
+I is not correct, II is correct.
 </p>]]></text>
-</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is correct, II is not correct.
+</p>]]></text>
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Beta
+I is not correct, II is not correct.
 </p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-This answer is correct.
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-<span class="math inline">\(R^2\)</span>
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-This answer is incorrect.
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-p-value
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-This answer is incorrect.
-</p>]]></text>
-</feedback>
 </answer>
 </question>
 

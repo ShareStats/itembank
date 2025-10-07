@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Sample-mean-602-en-wooclap/Inferential Statistics/Sampling Distributions/Sample mean</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Sample-mean-602-en_uu-Sample-mean-602-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>For a sample size of n = 5 from a population with a mean <span class="math inline">\(\mu\)</span> and standard deviation <span class="math inline">\(M\)</span>, the distribution of sample means <span class="math inline">\(M\)</span> follows a normal distribution with mean <span class="math inline">\(\mu\)</span> and standard deviation $<span class="math inline">\(frac{sigma}{sqrt{n}}\)</span> . . .</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Regardless of the shape of the distribution of the variable in question.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+If the sample mean <span class="math inline">\(M\)</span> and the standard deviation <span class="math inline">\(s\)</span> are unbiased (unbiased).
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+If the sample is randomly drawn and representative of the population.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+If the variable of interest in the population is normally distributed.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

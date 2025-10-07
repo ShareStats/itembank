@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-measures-of-location-267-en-moodle/Descriptive statistics/Summary Statistics/Measures of Location</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-measures-of-location-267-en_uva-measures-of-location-267-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Two independent samples were drawn from two populations with as results:</p>
+<ul>
+<li>Sample 1: size = 16, mean = 42.0, standard deviation = 5.4</li>
+<li>Sample 2: size = 12, mean = 37.0, standard deviation = 5.9</li>
+</ul>
+<p>The two-sided 95% confidence interval for <span class="math inline">\(\mu_1\)</span>, the average of the first population, is equal to:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<a href="Incorrect">30.49, 53.51</a>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<a href="Incorrect">33.25, 40.75</a>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<a href="Correct">39.12, 44.88</a>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<a href="Incorrect">39.63, 44.37</a>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

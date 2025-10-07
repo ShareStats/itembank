@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-normal-1371-en-wooclap/Distributions/Continuous/Normal</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-normal-1371-en_uva-normal-1371-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>30,000 telephone calls from the ICT department have a distribution with a mean duration of 173.9 seconds and a standard deviation of 184.8 seconds. You take two random samples of 20 and 80 calls, respectively. Which sample has a smaller variability?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The sample of 20 has smaller variability.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The sample of 20 has smaller variability…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The sample of 80 has smaller variability.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The sample of 80 has a smaller variability…: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Both samples have the same variability.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Both samples have the same variability…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

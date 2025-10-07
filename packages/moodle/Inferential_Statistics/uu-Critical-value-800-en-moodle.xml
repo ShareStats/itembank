@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Critical-value-800-en-moodle/Inferential Statistics/NHST/Significance level/Critical value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Critical-value-800-en_uu-Critical-value-800-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A random sample of employees at a large hospital is asked to complete a questionnaire about the satisfaction of work and working conditions within the hospital. Satisfaction scores range from 1 (very dissatisfied) to 7 (very satisfied). A researcher from the planning office conducting the survey will investigate whether full-time and part-time employees show differences in levels of job satisfaction. There were 25 full-time employees and 30 part-timers in the sample. Since the distribution of satisfaction scores was very skewed, the researcher uses a Mann-Whitney U test. The value of the test size is 267. Are there significant differences between full-time and part-time employees at <span class="math inline">\(\alpha = .05\)</span>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+TRUE, because the test magnitude is less than the critical value.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Yes, because 267 is greater than the critical value.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Yes, because the p-value is less than .05.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+We cannot say that from the information given.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

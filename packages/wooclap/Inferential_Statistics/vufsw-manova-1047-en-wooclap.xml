@@ -55,7 +55,7 @@ sphericity is the correct answer as this is not an assumption of MANOVA</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Homogeneity of covariate matrices
+Multivariate normality
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -65,7 +65,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Independence of observations
+Homogeneity of covariate matrices
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -85,7 +85,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Multivariate normality
+Independence of observations
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-paired-samples-566-en-wooclap/Inferential Statistics/Parametric Techniques/t-test/Paired samples</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-paired-samples-566-en_uva-paired-samples-566-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>We measure one group of patients before and after a particular procedure. To test whether the population averages before and after surgery are equal to each other, we use a</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Pooled T-test
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Pooled T-test: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+CRD-ANOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+CRD-ANOVA: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Paired T-test
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Paired T-test: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+RCB-ANOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+RCB-ANOVA: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -53,7 +53,7 @@ hebben dan mannen. In dit onderzoek is “geslacht” …</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De afhankelijke variabele.
+Een controle variabele.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -63,7 +63,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Een controle variabele.
+Een confounding (‘verstorende’) variabele.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -83,7 +83,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Een confounding (‘verstorende’) variabele.
+De afhankelijke variabele.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

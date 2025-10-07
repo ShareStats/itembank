@@ -64,13 +64,13 @@ gemiddelde scores van de twee groepen significant afwijkt van
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-<strong>Tekst:</strong> een 95% betrouwbaarheidsinterval. <strong>Getal:</strong> 0.
+<strong>Tekst:</strong> een 95% betrouwbaarheidsinterval. <strong>Getal:</strong> 0,05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -84,13 +84,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-<strong>Tekst:</strong> een 95% betrouwbaarheidsinterval. <strong>Getal:</strong> 0,05.
+<strong>Tekst:</strong> een 95% betrouwbaarheidsinterval. <strong>Getal:</strong> 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

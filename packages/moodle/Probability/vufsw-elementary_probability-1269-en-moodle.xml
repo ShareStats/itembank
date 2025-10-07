@@ -61,7 +61,7 @@ breakfast.</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The number that gets a boy and <strong>not</strong> had breakfast / the number that gets a boy and had breakfast.
+The number that gets a boy and had breakfast / the number that <strong>not</strong> had breakfast.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -69,19 +69,9 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-The number that gets a boy and had breakfast / the number that had breakfast.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The number that gets a boy and had breakfast / the number that <strong>not</strong> had breakfast.
+The number that gets a boy and <strong>not</strong> had breakfast / the number that gets a boy and had breakfast.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -96,6 +86,16 @@ The number that gets a boy and had breakfast / the number that gets a boy receiv
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The number that gets a boy and had breakfast / the number that had breakfast.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

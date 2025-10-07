@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-normal-1333-en-wooclap/Distributions/Continuous/Normal</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-normal-1333-en_uva-normal-1333-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The distribution of the number of children per family in the U.S. has a mean of 0.9 and a standard deviation of 1.1. If you take a random sample of 20 families in the U.S., what is the probability that there are a total of 40 or fewer children in the sample? (z is normally distributed by default).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+P(z ≤ 1.5)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P(z ≤ 1.5): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+P(z ≤ 6.3)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P(z ≤ 6.3): Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+P(z ≥ 6.3)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P(z ≥ 6.3): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+P(z = 6.3)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P(z = 6.3): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+P(z ≤ 40)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P(z ≤ 40): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

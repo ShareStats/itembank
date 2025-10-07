@@ -72,6 +72,16 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+None of the above
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 The average grade of all students in this sample.
 </p>]]></text>
 <feedback format="html">
@@ -97,16 +107,6 @@ The average increase / decrease of the grade if a student studies one extra hour
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-None of the above
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-general-rules-1170-en-moodle/Probability/Elementary Probability/General Rules</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-general-rules-1170-en_uva-general-rules-1170-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>You bought two lottery tickets. The first X has a profit expectation of € 0.60 with a standard deviation of € 0.75 and the second Y has € 0.75 profit expectation with € 0.32 standard deviation. If you exclude the cost of the lots, what is your expectation value of the total profit and its standard deviation?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+ΜX+Y = 0.60; σX+Y = 1.07
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+ΜX+Y = 0.60; σX+Y = 1.07: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+ΜX+Y = 1.35; σX+Y = 1.07
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+ΜX+Y = 1.35; σX+Y = 1.07: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+ΜX+Y = 0.75; σX+Y = 1.07
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+ΜX+Y = 0.75; σX+Y = 1.07: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+ΜX+Y = 1.35; σX+Y = 0.53
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+ΜX+Y = 1.35; σX+Y = 0.53: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

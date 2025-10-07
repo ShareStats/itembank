@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-test-96-en-wooclap/Inferential Statistics/Parametric Techniques/t-test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-test-96-en_uva-test-96-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>To test the effect of oxytocin on reaction time, 25 subjects twice; once with oxytocin and once without. Each subject has to press the button when a clown appears on the screen. Then difference scores of the 25 subjects are calculated. The average of difference scores is 5 and the standard deviation is 10. The null hypothesis is that there is no difference in reaction time between having or not having oxytocin in the blood. There is no idea for the alternative hypothesis about the direction of the effect. This null hypothesis may</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Not be rejected at 0.01 but can be rejected at 0.02.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Not be rejected at 0.01 but be rejected at 0.02.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Not be rejected at 0.02 but be rejected at 0.05.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Not be rejected at 0.02 but be rejected at 0.05.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Not be rejected at 0.05 but be rejected at 0.10.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Not be rejected at 0.05 but be rejected at 0.10.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

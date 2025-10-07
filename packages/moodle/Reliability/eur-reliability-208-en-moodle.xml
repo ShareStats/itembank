@@ -85,16 +85,6 @@ Cronbach’s alpha then becomes: <span class="math inline">\(3 \div 2 \times 111
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-.72
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 .78
@@ -107,7 +97,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-.47
+.21
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -115,9 +105,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+.72
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-.21
+.47
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

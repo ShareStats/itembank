@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Exploratory-factor-analysis-800-en-wooclap/Factor analysis/Exploratory factor analysis</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Factor-analysis_uu-Exploratory-factor-analysis-800-en_uu-Exploratory-factor-analysis-800-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Exploratory factor analysis was conducted on ten items designed to assess interest in gossip and backbiting. The result of a principal component analysis with oblique (skewed) rotation is two statistically and substantively meaningful distinguishable factors, one for interest in gossip and one for interest in backbiting.</p>
+<p>Evaluate the following two statements.</p>
+<p>I. The maximum number of distinguishable factors is equal to 10. II. The Eigenvalues of the two factors are both greater than 1.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Thesis 1: The purpose of factor analysis is to reduce the number of dimensions. If 10 items are included in factor analysis, the maximum number of distinguishable factors is equal to that number. Thus, the statement is correct.</p>
+<p>Thesis 2: Since it is reported that two factors are statistically meaningful to distinguish, the Eigenvalues of both factors will be higher than 1.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+I is correct, II is correct
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Both statements are indeed correct.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is correct, II is not correct
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Theorem I is indeed correct. Look again at Theorem II.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is not correct, II is correct
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Theorem II is indeed correct. Look again at Theorem I.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is not right, II is not right
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Read the description again carefully. How many items are there? How many factors were found?
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

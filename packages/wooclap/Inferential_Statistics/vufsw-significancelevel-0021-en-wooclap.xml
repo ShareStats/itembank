@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-significancelevel-0021-en-wooclap/inferential statistics/nhst/significance level</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-significancelevel-0021-en_vufsw-significancelevel-0021-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher conducts a single regression analysis with “<strong>Income</strong>” (net monthly salary, in euros) as the dependent variable and variable “<strong>Age</strong>” (age in years) as the independent variable.</p>
+<p>It calculates a 95% confidence interval (<em>confidence interval</em>) of the slope. This interval turns out to be [0.02; 0.04].</p>
+<p>What can we conclude from this, if we test two-sidedly whether Age has a significant impact on Income? We use here a significance level of 5% (α = 0.05).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Language Dutch</p>
+<p>Levels of Difficulty Easy</p>
+<p>M&amp;T Basics of quantitative research Basics of quantitative research</p>
+<p>M&amp;T BIS Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Age does <strong>have</strong> a significant influence on Income, because the interval does <strong>not</strong> contain the number 0.05.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Age has <strong>no</strong> significant influence on Income, because the interval does <strong>not</strong> contain the number 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Age does <strong>have</strong> a significant influence on Income, because the interval does <strong>not</strong> contain the number 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Age has <strong>no</strong> significant influence on Income, because the interval does <strong>not</strong> contain the number 0.05.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

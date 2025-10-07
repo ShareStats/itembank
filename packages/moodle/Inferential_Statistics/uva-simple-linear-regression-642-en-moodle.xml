@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-simple-linear-regression-642-en-moodle/Inferential Statistics/Regression/Simple linear regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-simple-linear-regression-642-en_uva-simple-linear-regression-642-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Characteristics X and Y of 8 individuals were measured. Suppose that Y is linearly dependent on X. Then the slope of the regression line of Y on X equals</p>
+<p><img src="@@PLUGINFILE@@/uva-simple-linear-regression-642-nl-graph01.png" /></p>
+</p>]]></text>
+<file name="uva-simple-linear-regression-642-nl-graph01.png" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAeoAAAAuAQMAAADdrchvAAAABlBMVEUAAAAAAAClZ7nPAAAAAXRSTlMAQObYZgAAAgtJREFUSMftljFqG0EUQN+MPvZXEGZWpEhh0F+RwqXKLQzaFVuoFDmBjqAyqbQWhmwgkCuEnEQiFxlXbgVp0imFtMQSGLLYjYNftTzmMc38z8IrDVlLf0LZ0p8gLf3z5trSP28eWvoTrKU/IW/pT6hb+mPctp1/KuMtwMUFMPh9fg2MsiwDlhFwmzW43ecMmC8Wi8YDo+w6gxAAkgRQ9QEIZVkCZoAfGlCtAmB1XTceCKWVoOHiIyQpIOoNCLdlCQS7B//egHxlQKpfFAh2ub2MEG6tBEFssE1SwONzxtH2uTJxu31uPme5Lva5ornm42i3832ew5sC8LgKSOXqClBKcFMDzFXARD8c8korSCVcgUcqeFsADgeQymwGCFPwtQHBAUz0hwJCly6Qis7A0XGD7bAAqDowjoXUNeAZpTuZGqAOlutVt6+A50zOZBwL0Ro8HphMAIdUQNHt7m8x0GkOBA+w6vcDIAgCFNpVEM46h9yjD3LF5ofcHuZKryc9KDRRELoOyhLwhAq4SZL9sdzQumpy54dDA5S+qDTHNCQOsgwQ/RTBxRgjECw3zs8B8m9AZ7PZrIFgQ1HBxbsYIYxS32yUd0cTPs+bKb2pjvxEVf+++V8/D5+D3w/z5V2cH8ZtVx35+6/XvZZLyXgBLB7x8WmL2p62qPOXkM8e8d//LZ8/4tevP17/FX8AK/ZqYiLVEAIAAAAASUVORK5CYIKJUE5HDQoaCgAAAA1JSERSAAAB6gAAAC4BAwAAAN2tyG8AAAAGUExURQAAAAAAAKVnuc8AAAABdFJOUwBA5thmAAACC0lEQVRIx+2WMWobQRRA34w+9lcQZlakSGHQX5HCpcotDNoVW6gUOYGOoDKptBaGbCCQK4ScRCIXGVduBWnSKYW0xBIYstiNg1+1POYxzfzPwisNWUt/QtnSnyAt/fPm2tI/bx5a+hOspT8hb+lPqFv6Y9y2nX8q4y3AxQUw+H1+DYyyLAOWEXCbNbjd5wyYLxaLxgOj7DqDEACSBFD1AQhlWQJmgB8aUK0CYHVdNx4IpZWg4eIjJCkg6g0It2UJBLsH/96AfGVAql8UCHa5vYwQbq0EQWywTVLA43PG0fa5MnG7fW4+Z7ku9rmiuebjaLfzfZ7DmwLwuApI5eoKUEpwUwPMVcBEPxzySitIJVyBRyp4WwAOB5DKbAYIU/C1AcEBTPSHAkKXLpCKzsDRcYPtsACoOjCOhdQ14BmlO5kaoA6W61W3r4DnTM5kHAvRGjwemEwAh1RA0e3ubzHQaQ4ED7Dq9wMgCAIU2lUQzjqH3KMPcsXmh9we5kqvJz0oNFEQug7KEvCECrhJkv2x3NC6anLnh0MDlL6oNMc0JA6yDBD9FMHFGCMQLDfOzwHyb0Bns9msgWBDUcHFuxghjFLfbJR3RxM+z5spvamO/ERV/775Xz8Pn4PfD/PlXZwfxm1XHfn7r9e9lkvJeAEsHvHxaYvanrao85eQzx7x3/8tnz/i168/Xv8VfwAr9mpiItUQAgAAAABJRU5ErkJggg==</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.921
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.921: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.896
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.896: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.786
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.786: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.042
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1.042: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

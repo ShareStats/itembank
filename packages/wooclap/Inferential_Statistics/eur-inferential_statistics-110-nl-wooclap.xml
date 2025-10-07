@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-110-nl-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-110-nl_eur-inferential_statistics-110-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een onafhankelijk matenonderzoek met twee factoren A en B wordt een 2-factor ANOVA uitgevoerd. In de 2-factor ANOVA wordt de <span class="math inline">\(F_A\)</span> voor factor A heeft df = 2, 36 en de <span class="math inline">\(F_B\)</span> voor factor B heeft <em>df</em> = 3, 36. Wat is op basis van deze informatie de df voor de interactie AxB?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Het juiste antwoord is 6, 36</p>
+<h2 id="antwoordenlijst">Antwoordenlijst</h2>
+<ul>
+<li>Dit antwoord is onjuist</li>
+<li>Dit antwoord is onjuist</li>
+<li>Dit antwoord is onjuist</li>
+<li>Dit is het goede antwoord!</li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<em>df</em> = 6, 72
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<em>df</em> = 5, 72
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<em>df</em> = 5, 36
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<em>df</em> = 6, 36
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

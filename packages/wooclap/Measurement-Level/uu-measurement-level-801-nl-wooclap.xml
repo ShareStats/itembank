@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-measurement-level-801-nl-wooclap/Measurement Level</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Measurement-Level_uu-measurement-level-801-nl_uu-measurement-level-801-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Stel dat je geïnteresseerd bent of academische prestaties afhangen van hoeveel tijd een student doorbrengt in de campusbar. Academische prestaties worden gemeten aan de hand van het GPA van een student. De tijd die een student doorbrengt in de campusbar wordt gemeten in aantal uren per week.</p>
+<p>Wat is het meetniveau van academische prestaties?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>GPA wordt gemeten op intervalniveau. Het verschil in academische prestatie tussen 2,1 en 2,2 kan worden verondersteld hetzelfde te zijn als het verschil tussen 3,4 en 3,5.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nominaal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+De waarden zijn niet zomaar categorieën.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ordinaal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+De waarden hebben niet alleen volgorde.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Interval
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Juist
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ratio
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Betekent een GPA van 4 dat de academische prestaties twee keer zo hoog zijn als een GPA van 2?
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-independent-samples-means-101-en-wooclap/Inferential Statistics/Parametric Techniques/t-test/Independent samples means</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-independent-samples-means-101-en_uva-independent-samples-means-101-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A number of researchers feel that more exercise makes the volume of the brain area involved increases. To this end, they conduct a study and measure the volume of the brain area when subjects (1) had 3 hours of practice or (2) had 6 hours of practice for learning word pairs. The average brain area volume of 31 subjects at 3 hours of practice was 3.2 and the standard deviation was 3.8729; the mean volume of 31 subjects at 6 hours of practice was 5.2 with standard deviation 4. The null hypothesis that the researchers are tests is that there is no difference in the population averages between both groups. This null hypothesis is tested against the alternative hypothesis that the mean of the group that had practiced for 3 hours is smaller than that of the group that had practiced 6 hours. It is not assumed that the standard deviations of the respective populations are equal and testing is done with 60 degrees of freedom. The P-value associated with these data is</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.025
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.025: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.575
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.575: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.975
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.975: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

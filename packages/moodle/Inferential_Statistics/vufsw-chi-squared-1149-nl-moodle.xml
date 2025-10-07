@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-chi-squared-1149-nl-moodle/inferential statistics/nhst/test statistic/chi-squared</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-chi-squared-1149-nl_vufsw-chi-squared-1149-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een student aan de Vrije Universiteit Amsterdam deed onderzoek naar het gebruik van sociale media onder jongeren. Voor zijn scriptie verzamelde hij gegevens over het gebruik van Facebook van 224 studenten. In onderstaande tabel is het geslacht van de jongeren uitgezet tegen de vraag of ze een Facebook account hebben (werkelijk waargenomen aantallen).</p>
+<table class="tvcss_2 tvcss_3">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td class="tvcss_4">
+Facebook account<br />
+</td>
+<td class="tvcss_5">
+ja<br />
+</td>
+<td class="tvcss_6">
+nee<br />
+</td>
+<td class="tvcss_7">
+totaal<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+mannen<br />
+</td>
+<td class="tvcss_5">
+97<br />
+</td>
+<td class="tvcss_6">
+12<br />
+</td>
+<td class="tvcss_7">
+109<br />
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_4">
+vrouwen<br />
+</td>
+<td class="tvcss_5">
+106<br />
+</td>
+<td class="tvcss_6">
+9<br />
+</td>
+<td class="tvcss_7">
+115<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+totaal<br />
+</td>
+<td class="tvcss_5">
+203<br />
+</td>
+<td class="tvcss_6">
+21<br />
+</td>
+<td class="tvcss_7">
+224<br />
+</td>
+</tr>
+</tbody>
+</table>
+<p>De onderzoeker wil weten of vrouwelijke studenten vaker lid zijn van lid zijn van Facebook dan mannelijke studenten. Hij voert een Chi-kwadraat toets uit en krijgt een Chi-kwadraatwaarde van 0,85. Hij test met een significantieniveau (alpha) van 0,05. Wat is de juiste conclusie op basis van deze Chi-kwadraat test?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Het chi kwadraat is lager dan de kritische waarde (zie tabel).<br />
+Als je meer wilt weten over de chi kwadraattest, kijk dan hier
+<a href="https://www.youtube.com/watch?v=izw6vGctckA&amp;index=2&amp;list=PLyLpEs0x9BnkqWS0k674CckSeAeJ4A3W7">clip</a></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De bovenstaande gegevens geven te weinig informatie om tot een conclusie te komen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Vrouwelijke studenten zijn significant vaker lid van Facebook dan mannelijke studenten.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onjuist
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Vrouwelijke studenten zijn niet significant vaker lid van Facebook dan mannelijke studenten.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Voor de groep vrouwen is er een significant verband tussen geslacht en Facebooklidmaatschap, terwijl er voor de groep mannen geen significant verband is tussen deze twee variabelen. significant verband is tussen deze twee variabelen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

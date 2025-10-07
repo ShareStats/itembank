@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-sample-space-995-en-moodle/Probability/Elementary Probability/Sample Space</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-sample-space-995-en_uva-sample-space-995-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>One balanced die is rolled. We define the event <em>E</em> as the number of even eyes that come up. What then is the complement of <em>E</em>, if <span class="math inline">\(\bar{E}\)</span>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\bar{E}\)</span> = {the number of even eyes}
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\bar{E}\)</span> = {the number of even eyes}: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\bar{E}\)</span> = {the number of odd eyes}
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\bar{E}\)</span> = {the number of odd eyes}: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\bar{E}\)</span> = {the total eyes}
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\bar{E}\)</span> = {the total eyes}: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\bar{E}\)</span> = {0}
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\bar{E}\)</span> = {0}: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

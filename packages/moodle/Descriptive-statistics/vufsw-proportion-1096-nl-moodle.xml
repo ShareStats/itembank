@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-proportion-1096-nl-moodle/descriptive statistics/summary statistics/proportion</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_vufsw-proportion-1096-nl_vufsw-proportion-1096-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Het individuele gewicht van 500 mannen is normaal verdeeld met een gemiddelde van 78 kg en een standaardafwijking van 6 kg. Wat is het percentage mannen met een gewicht tussen 72 en 88 kg?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De empirische regel is een statistische regel die stelt dat voor een normale verdeling, bijna alle gegevens binnen drie standaardafwijkingen van het gemiddelde vallen. Uitgesplitst laat de empirische regel zien dat 68% valt binnen de eerste standaarddeviatie zal vallen, 95% binnen de eerste twee standaarddeviaties en 99,7% binnen de eerste twee standaarddeviaties. en 99,7% valt binnen de eerste drie standaarddeviaties van de verdeling. afwijkingen van het gemiddelde van de verdeling vallen.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+88.3%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+68.2%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+60.1%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+99.7%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+79.4%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

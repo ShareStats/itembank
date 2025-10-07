@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-t-statistic-1144-nl-moodle/inferential statistics/nhst/test statistic/t-statistic</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-t-statistic-1144-nl_vufsw-t-statistic-1144-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoeker vraagt 160 willekeurig gekozen mensen wat de ideale groepsgrootte (in aantal personen) is om als team aan een opdracht te werken. Het antwoord van antwoord van de respondenten is gemiddeld 6,3, met een standaardafwijking van 2.8. De onderzoeker test of dit gemiddelde significant afwijkt van een testgemiddelde van 8. Stel dat in plaats van 160 mensen, slechts 80 mensen zouden hebben deelgenomen aan het onderzoek, en dat het gemiddelde (6,3) zouden hebben deelgenomen aan het onderzoek, en dat het gemiddelde (6,3) en de standaard afwijking (2,8) hetzelfde zouden zijn. Wat betekent de afname van het aantal respondenten voor de berekende (waargenomen) t-waarde?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De absolute t-waarde is kleiner geworden.</p>
+<p>t=mean-mean(test)/se en de se=S/ √n Als n kleiner wordt, dan wordt de se hoger, dus wordt t kleiner.</p>
+<p>Als je meer wilt weten over deze t-test, kijk dan hier  
+<a href="https://www.youtube.com/watch?v=9V6L3Zu3PP0&amp;index=3&amp;list=PLyLpEs0x9BnkUdochj7JEC-2javLshojj">clip</a></p>
+<p>Taal Nederlands</p>
+<p>Moeilijkheidsniveaus Moeilijk</p>
+<p>M&amp;T BIS Standaardwaarde</p>
+<p>M&amp;T Hypothesetest: gemiddelden Standaardwaarde</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De absolute t-waarde is hoger geworden.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De t-waarde is onveranderd.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De absolute t-waarde is kleiner geworden.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Er ontbreken gegevens om de t-waarde te berekenen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

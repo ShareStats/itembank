@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-regression-1092-nl-moodle/inferential statistics/regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-regression-1092-nl_vufsw-regression-1092-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Bepaal of de volgende Stellingen waar of niet waar zijn.</p>
+<p>I. Eén van de kenmerken van een regressielijn is dat de som van de gekwadrateerde residuen zo klein mogelijk is.</p>
+<ol start="2" style="list-style-type: upper-roman">
+<li>Een positief residu in een regressiemodel betekent dat de voorspelde waarde van y hoger is dan de waargenomen waarde van y (de afhankelijke variabele).</li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Stelling I is waar en stelling II is onwaar.</p>
+<p>Als je dit wilt begrijpen bekijk dan dit
+<a href="https://www.youtube.com/watch?v=YeA97zVKnJE&amp;index=2&amp;list=PLyLpEs0x9BnmZFXpKpWgEUMmu1Fv-n_O9">clip</a>.</p>
+<p>Taal Engels</p>
+<p>Moeilijkheidsniveaus Moeilijk</p>
+<p>M&amp;T BIS Standaardwaarde</p>
+<p>M&amp;T Bivariate lineaire regressie Bivariate lineaire regressie</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Stelling I is onwaar en stelling II is waar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Stelling I is waar en stelling II is onwaar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Stellingen I en II zijn onwaar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Stellingen I en II zijn waar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onjuist
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

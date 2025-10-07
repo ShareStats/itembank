@@ -66,26 +66,6 @@ other.” is incorrect</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Uitspraak I is correct en uitspraak II is incorrect.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Beide uitspraken zijn incorrect.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Uitspraak I is incorrect en uitspraak II is correct.
@@ -99,6 +79,26 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Beide uitspraken zijn correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Uitspraak I is correct en uitspraak II is incorrect.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Beide uitspraken zijn incorrect.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

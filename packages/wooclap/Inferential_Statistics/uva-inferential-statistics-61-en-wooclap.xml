@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-inferential-statistics-61-en-wooclap/Inferential Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-inferential-statistics-61-en_uva-inferential-statistics-61-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher conducts an experiment in which he expects a difference in average performance on a given task between conditions. He tests his results using a t-test and finds a p-value that is less than the nominal significance level of .05. Why does this statistical result <strong>not</strong> mean that the research hypothesis is definitely true?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+A type I error may have been made.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+There may be a Type I error…: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A type II error may have been made.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A type II error may have been made…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+There may be a lack of “power.”
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+There may have been a lack of “power”…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

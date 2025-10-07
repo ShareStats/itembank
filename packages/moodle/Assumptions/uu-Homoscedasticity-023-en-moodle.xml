@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Homoscedasticity-023-en-moodle/Assumptions/Homoscedasticity</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Assumptions_uu-Homoscedasticity-023-en_uu-Homoscedasticity-023-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>One of the conditions of a regression analysis is about “homoscedasticity.” Which graph is best to use to check this condition?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Homoscedasticity means that the spread in residuals for each X value is approximately equal. In other words, that the dispersion in residuals for each predicted value is about the same. You can check this condition with a scatterplot where you put the standardized predicted scores on the X-axis, and the standardized residuals on the Y-axis.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A scatterplot with the predictors on the X-axis and nurse stress scores on the Y-axis
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A scatterplot with the residuals on the X-axis and nurse stress scores on the Y-axis
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A scatterplot with the residuals on the X axis and nurse stress scores on the Y axis
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+A scatterplot with standardized-predicted nurse stress scores on the X-axis and the standardized residuals on the Y-axis
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

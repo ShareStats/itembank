@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-squared-193-en-moodle/Inferential Statistics/NHST/Test statistic/Chi-squared</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-squared-193-en_uva-squared-193-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>—— —— —— —— —- x<sub>1</sub> x<sub>2</sub> x<sub>3</sub> y<sub>1</sub> 60 y<sub>2</sub> 40 30 30 40 —— —— —— —— —-</p>
+<p>In the above cross table, under the assumption of independence between x and y, the expected frequency of cell x<sub>2</sub>y<sub>1</sub> is equal to</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+12
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+12:Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+16
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+16: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+18
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+18: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

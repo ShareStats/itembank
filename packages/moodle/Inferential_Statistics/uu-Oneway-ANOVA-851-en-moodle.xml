@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Oneway-ANOVA-851-en-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Oneway-ANOVA-851-en_uu-Oneway-ANOVA-851-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Four education science students conduct a study for the bachelor’s thesis on the effects of concept mapping on learning performance of psychology students (N = 86). The study distinguishes three conditions:</p>
+<ol style="list-style-type: decimal">
+<li>Pure: Students receiving instruction in concept mapping. 2. Supportive: Students receiving instruction in creating the concept map, with part of the concept map already given. 3. Control: Students who do not receive instruction in creating the concept map.</li>
+</ol>
+<p>Four weeks after the psychology students read the chapter, they take a knowledge test (ten questions where each correct answer earns 1 point). Students in experimental conditions 1 and 2 are expected to score higher on average on the knowledge test than students in the control condition.</p>
+<p>The education science students analyze the data with an ANOVA. They note the following data from this in their report:
+<span class="math inline">\(F(2, 83) = 17.90\)</span>, <span class="math inline">\(p &lt; .001\)</span>, <span class="math inline">\(\eta^2 = 0.13\)</span>.</p>
+<p>Which of the following statements is correct based on the reported test result?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>This study compares 3 different conditions. Finding a significant difference between these groups (p &lt; .001), we do not yet know which of the 3 groups differ from each other. This requires a post hoc analysis.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The means of experimental conditions 1 and 2 are significantly higher than the mean in the control condition.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The effect of condition is significant but not relevant (less than 5% explained variance).
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The reported data may not be from this study.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Post hoc analysis is needed to determine whether in experimental conditions 1 and 2 the means are significantly higher than in the control condition.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

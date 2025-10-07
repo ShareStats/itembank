@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-normal-1352-en-wooclap/Distributions/Continuous/Normal</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-normal-1352-en_uva-normal-1352-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Caps of Coke bottles vary slightly in diameter. Suppose you take two random samples of 40 and 60 caps, respectively. Do they have the same distribution?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Yes, they have the same means and standard errors.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Yes, they have the same averages and standard errors…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No, the sample of 40 caps has a larger mean and standard error than the sample of 60.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+No, the sample of 40 caps has a larger mean and standard error than the sample of 60…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No, the sample of 60 caps has a larger mean and standard error than the sample of 40.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+No, the sample of 60 caps has a larger mean and standard error than the sample of 40: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No, they have different means and standard errors.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+No, they have different means and standard errors…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, they have the same means but different standard errors.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+No, they have the same means but different standard errors…: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

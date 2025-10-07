@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-t-test-1006-nl-wooclap/inferential statistics/parametric techniques/t-test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-t-test-1006-nl_vufsw-t-test-1006-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Wat is de significantietest voor het testen van een b-coëfficiënt (t-test)?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De significantietest voor de b-coëfficiënt test het volgende:</p>
+<ul>
+<li><em><sub></em>0<em></sub> : </em>b* = 0</li>
+<li><em><sub></em>a<em></sub> : </em>b* ≠ 0</li>
+</ul>
+<p>Taal Engels</p>
+<p>M&amp;T MVA Standaardwaarde</p>
+<p>M&amp;T Regressie assumpties Standaardwaarde</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het test de nulhypothese dat de coëfficiënt <strong>niet</strong> nul is in de populatie tegen de alternatieve hypothese dat de coëfficiënt in de populatie nul is
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Het toetst de nulhypothese dat, in de populatie, de coëfficiënt nul is nul is tegen de alternatieve hypothese dat de coëfficiënt in de populatie <strong>niet </strong>nul is
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het test of de P-waarde van de coëfficiënt gelijk is aan 0,05.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het toetst de nulhypothese dat in de populatie de coëfficiënt gelijk is aan dezelfde waarde als die gevonden voor de steekproef tegenover de alternatieve hypothese dat de coëfficiënt in de populatie <strong>niet</strong> gelijk is aan dezelfde waarde als die gevonden voor de steekproef
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

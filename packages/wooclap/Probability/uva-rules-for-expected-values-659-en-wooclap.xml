@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-rules-for-expected-values-659-en-wooclap/Probability/Elementary Probability/Random variables/Rules for expected values</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-rules-for-expected-values-659-en_uva-rules-for-expected-values-659-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>If <em>A</em> = {4,5,6,8} and <em>B</em> = {3,5,7,8}, what is the union of <em>A</em> and <em>B</em>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A ∪ B = ∅
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A ∪ B = ∅: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+A ∪ B = {3,4,5,6,7,8}
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A ∪ B = {3,4,5,6,7,8}: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A ∪ B = {3,4,5,6,8}
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A ∪ B = {3,4,5,6,8}: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A ∪ B = {4,5,6,7,8}
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A ∪ B = {4,5,6,7,8}: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

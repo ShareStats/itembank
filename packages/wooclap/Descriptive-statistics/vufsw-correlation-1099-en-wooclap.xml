@@ -53,13 +53,13 @@ z-scores)?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-can become either lower or higher depending on whether the association between X and Y is negative or positive.
+remains exactly the same.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -73,19 +73,9 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-remains exactly the same.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-becomes 1.00.
+can become either lower or higher depending on whether the association between X and Y is negative or positive.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -96,6 +86,16 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 can become either lower or higher depending on whether the difference between the means of X and Y is smaller or larger than 0.00.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+becomes 1.00.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

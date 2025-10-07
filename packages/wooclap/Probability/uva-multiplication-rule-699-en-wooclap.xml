@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-multiplication-rule-699-en-wooclap/Probability/Elementary Probability/General Rules/Multiplication rule</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-multiplication-rule-699-en_uva-multiplication-rule-699-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Suppose there are two players playing with four pure dice. They must take turns rolling these four dice at the same time. Player <em>A</em> gets a point if no 3 is rolled and player <em>B</em> gets a point if at least one of the four dice has one 3 on top. Is this a fair game for both players according to probability theory?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Yes, because both players have the same probability.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Yes, because both players have the same odds: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No, because player A has a greater chance than player B.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+No, because player A has a greater chance than player B.:Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, because player B has a greater chance than player A.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+No, because player B has a greater chance than player A.: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

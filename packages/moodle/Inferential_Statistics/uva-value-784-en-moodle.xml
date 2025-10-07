@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-value-784-en-moodle/Inferential Statistics/NHST/p-value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-value-784-en_uva-value-784-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A hypothesis test is conducted for a population proportion. The sample size was 60 and the sample proportion (estimated) was 0.33. For the hypothesis test, calculate the P-value under the null hypothesis which states that the population proportion equals 0.30. The alternative hypothesis is that the population proportion is greater than 0.30. Then the best description of the P value is that it is the probability</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+On the sample proportion or larger given that the population proportion is 0.30.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+On sample proportion or larger given that population proportion is 0.30: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+On the population proportion or larger given that the sample proportion is 0.33.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+On the population proportion or larger given that the sample proportion is 0.33.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+On the sample proportion or larger given that the population proportion is greater than 0.30.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+On the sample proportion or larger given that the population proportion is greater than 0.30…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

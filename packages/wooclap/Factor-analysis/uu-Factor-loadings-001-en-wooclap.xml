@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Factor-loadings-001-en-wooclap/Factor analysis/Principle component analysis, Factor analysis/Factor loadings</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Factor-analysis_uu-Factor-loadings-001-en_uu-Factor-loadings-001-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A factor analysis is performed on fifteen items designed to measure fear of St. Nicholas in children. Principal component analysis with oblique (skewed) rotation results in two statistically and substantively interesting dimensions. Factor A concerns fear of Sinterklaas and factor B concerns fear of Black Pete.</p>
+<p>Evaluate the following two statements on factor analysis.</p>
+<p>I. In general, factors with an Eigenvalue greater than 1 explain more test variance than an individual item. II. If an item (after rotation) has a high factor loading (<span class="math inline">\(|a| &gt; .40\)</span>) has on factor A, factor A is strongly related to factor B.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li><p>Tatement I:* Eigenvalue is calculated by: (1) For each item, how much variance of that item is explained by the factor (2) This is converted into a proportion (for example: .60 (=60%) of the item is explained by the factor) (3) The proportion of all items are added together to determine the Eigenvalue of a factor. Thus, each item has a variance of 1.00. When a factor has an Eigenvalue &gt;1.00, the factor explains more variance than an individual item.</p></li>
+<li><p>Tatement II:* This is incorrect. If an item (after rotation) has a high factor loading (<span class="math inline">\(|a| &gt; .40\)</span>) has on factor A, then this item is strongly related to the factor in question.</p></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is correct, II is correct.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+I is correct, II is incorrect.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is not correct, II is correct.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is not correct, II is not correct.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

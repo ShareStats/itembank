@@ -68,19 +68,19 @@ taak dan de ‘error prevention’ instructie</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Alleen uitspraak 1 klopt
+Uitspraak 1 en 2 kloppen allebei
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Geen van beide uitspraken klopt
+Alleen uitspraak 1 klopt
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -98,13 +98,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Uitspraak 1 en 2 kloppen allebei
+Geen van beide uitspraken klopt
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>

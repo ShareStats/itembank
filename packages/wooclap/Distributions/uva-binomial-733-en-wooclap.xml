@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-binomial-733-en-wooclap/Distributions/Discrete/Binomial</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-binomial-733-en_uva-binomial-733-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Vase I contains nine red balls and one white ball. Vase II contains six red and four white balls. We repeat 20 times in a row the following experiment:</p>
+<ol style="list-style-type: decimal">
+<li>First, throw a pure die. 2. If the number of eyes is divisible by three, randomly choose a ball from vase I. Otherwise, randomly pick a ball from vase II.</li>
+</ol>
+<p>After each repetition, the selected ball is returned to the vase from which it was taken. from which it was taken.Ê  Which of the following statements is correct?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The number of red balls chosen is binomially distributed with n=20 and p=0.90.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The number of red balls chosen is binomially distributed with n=20 and p=0.90…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The number of red balls chosen is binomially distributed with n=20 and p=0.60.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The number of red balls chosen is binomially distributed with n=20 and p=0.60…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The number of red balls chosen is binomially distributed with n=20 and p=0.75.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The number of red balls chosen is binomially distributed with n=20 and p=0.75: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The number of red balls chosen is binomially distributed with n=20 and p=0.70.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The number of red balls chosen is binomially distributed with n=20 and p=0.70: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The probability distribution of the number of red balls chosen is not a binomial distribution at all.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The probability distribution of the number of red balls chosen is not a binomial distribution at all…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

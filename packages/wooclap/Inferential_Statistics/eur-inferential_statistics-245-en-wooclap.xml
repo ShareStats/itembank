@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-245-en-wooclap/Inferential Statistics/Parametric Techniques/Cross tables</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-245-en_eur-inferential_statistics-245-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Feyenoord and Ajax fans often criticize each other’s teams. We will be looking at what team a person is a fan of [Fan, where Feyenoord = 0 and Ajax = 1], in what city a person lives [City, where Rotterdam = 1, Amsterdam = 2, Dordrecht = 3 and Haarlem = 4], the number of games played by the favourite team that they watched over the years (so the amount of games played by Feyenoord watched by a Feyenoord fan) [played_favourite] and to the amount of games played by the other team that someone watched over the years [played_other]. We also registered whose team became division champion in the last 4 years [Champion, where No championship = 0 and Championship = 1].</p>
+<p>It is investigated whether the probability of winning the championship [Champion=1] is the same for all cities [City]. If the null hypothesis were true, what would be the expected number of fans from Rotterdam [City=1] that saw their team win a championship [Champion=1]? Report the expected number (using 1 decimal).</p>
+<p><strong>Download</strong>: <a href="inferential_statistics-245-en-data.sav">SPSS file</a>, <a href="inferential_statistics-245-en-data.csv">CSV file</a></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The correct answer is 13.8</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>13.8</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

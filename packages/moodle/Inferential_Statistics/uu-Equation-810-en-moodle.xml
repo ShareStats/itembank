@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Equation-810-en-moodle/Inferential Statistics/Regression/Equation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Equation-810-en_uu-Equation-810-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher is interested in whether there is a relationship in elementary school between children’s popularity (X) and teachers’ interest in the children (Y). The following data from a sample of children attending elementary school are known: n = 12, <span class="math inline">\(\sum{XY}\)</span> = 710, <span class="math inline">\(\sum{X}\)</span> = 60, <span class="math inline">\(\sum{Y}\)</span> = 130, <span class="math inline">\(\sum{X^2}\)</span> = 375, <span class="math inline">\(\sum{Y^2}\)</span> = 1466</p>
+<p>What score on teacher interest (rounded to the nearest whole number) do you predict for someone with popularity score 7?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+11
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+12
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-general-rules-1164-en-wooclap/Probability/Elementary Probability/General Rules</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-general-rules-1164-en_uva-general-rules-1164-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Research indicates that the percentage of spam is about 65% of all e-mail is. Define the random variable X as: the number of spam messages in your e-mail box. Suppose you randomly choose two emails, which probability distribution of X below is correct?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+P(X=1) = 0.46; P(X=2) = 0.42
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P(X=1) = 0.46; P(X=2) = 0.42: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+P(X=0) = 0.12; P(X=1) = 0.46; P(X=2) = 0.42
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P(X=0) = 0.12; P(X=1) = 0.46; P(X=2) = 0.42: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+P(X=0) = 0.35; P(X=1) = 0.46; P(X=2) = 0.42
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P(X=0) = 0.35; P(X=1) = 0.46; P(X=2) = 0.42: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

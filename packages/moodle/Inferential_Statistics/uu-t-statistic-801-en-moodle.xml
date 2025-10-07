@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-t-statistic-801-en-moodle/Inferential Statistics/NHST/Test statistic/t-statistic</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-t-statistic-801-en_uu-t-statistic-801-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In research on twins, a distinction is often made between identical and twin twins. A questionnaire (with 5-point Likert scale) is used to examine social behavior of identical twins. Is there a difference between the oldest (first-born) twin and the youngest? Ten pairs of twins participate in this little study. The oldest twins had a mean test score of 3.6 and the youngest twins had a mean of 3.3, for a mean difference of MD = 0.3. The SS for the difference scores was 3.43.</p>
+<p>Is there a significant difference between the oldest and youngest twins at <span class="math inline">\(\alpha\)</span> = 0.10?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The difference between the oldest and youngest twins is not significant because t&lt;tcrit=1.883</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Yes, because t &gt; tcrit = 1.383
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This is incorrect.Do you have the right critical value?
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, because t &lt; tcritical = 1.883
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Right!
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No, because t &lt; tcritical = 1.383
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This is incorrect.Do you have the right critical value?
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Yes, because t &gt; tcritical = 1.883
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

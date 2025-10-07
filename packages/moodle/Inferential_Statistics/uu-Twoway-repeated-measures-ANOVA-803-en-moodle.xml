@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Twoway-repeated-measures-ANOVA-803-en-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Twoway repeated measures ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Twoway-repeated-measures-ANOVA-803-en_uu-Twoway-repeated-measures-ANOVA-803-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In the article by Kammers et al. (2010), a repeated measures analysis is done measuring the responses of 11 female students in different condition. It includes a 2 x 2 x 2 repeated measures anova. How many conditions are there per person in this analysis?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>In a repeated measures analysis, all participants participate in all different conditions. A 2 x 2 x 2 design means that there are three factors, each with two different values. For example: factor 1 = A or B, factor 2 = X or Y, and factor 3 = 1 or 2. A total of the following 8 combinations are then possible: AX1 AY1 BX1 BY1 AX2 AY2 BX2 BY2</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+8
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+16
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

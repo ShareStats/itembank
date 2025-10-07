@@ -83,6 +83,26 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+R<sup>2</sup> change = 0.051, F(1,537)=4.2537, P-value=0.0396
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+R<sup>2</sup> change = 0.051, F(1,537)=4.2537, P-value=0.396
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 R<sup>2</sup> change = -0.001, F(1,537)=4.2537, P-value=0.0396
@@ -100,26 +120,6 @@ R<sup>2</sup> change = -0.001, F(1,537)=4.2537, P-value=0.396
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-R<sup>2</sup> change = 0.051, F(1,537)=4.2537, P-value=0.396
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-R<sup>2</sup> change = 0.051, F(1,537)=4.2537, P-value=0.0396
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-uniform-644-en-wooclap/Distributions/Continuous/Uniform</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-uniform-644-en_uva-uniform-644-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>If a digit is randomly and evenly distributed among the numbers 0 through 9 then the probability distribution is represented by the following table:</p>
+<p>——– —— —— —— —— —— —— —— —— —— —— number 0 1 2 3 4 5 6 7 8 9 Odds 1/10 1/10 1/10 1/10 1/10 1/10 1/10 1/10 1/10 1/10 1/10 ——– —— —— —— —— —— —— —— —— —— ——</p>
+<p>We randomly choose a number from the set <em>S</em> = {0,1,2,3,4,5,6,7,8,9}. B is the event that the chosen number is five or greater. The probability of event B is then:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1/10
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/10: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1/9
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/9: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1/5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/5: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1/2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/2: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-ANOVA-828-en-moodle/Inferential Statistics/Parametric Techniques/ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-ANOVA-828-en_uu-ANOVA-828-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Suppose that master’s students, before beginning their master’s track, must take an entrance exam and the scores on it are coded as “insufficient,” “satisfactory,” or “good/excellent.” After the entrance exam, students can begin their master’s track.</p>
+<p>Which analysis technique is best suited to see if the grade point average in the master’s program differs among the three groups?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The dependent variable is “the grade point average in the master,” and this variable is continuous and of ratio (or interval) measurement level. There is one independent variable, namely entrance exam scores. This is categorical and of ordinal measurement level with 3 levels. Comparing two or more groups on a variable of interval or ratio measurement level is possible with analysis of variance (ANOVA).</p>
+<p>The remaining answers are incorrect because:
+- Option 2: There are three groups and not two.
+- Option 3: One <span class="math inline">\(\chi^2\)</span> test of independence is not appropriate with a dependent variable of interval measurement level with many different values.
+- Option 4: A <span class="math inline">\(\chi^2\)</span> key for goodness of fit is niet geschikt bij een afhankelijke variabele van interval meetniveau met veel verschillende waarden.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+ANOVA
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+T-test for independent samples
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\chi^2\)</span> test for independence.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\chi^2\)</span> key for goodness of fit
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

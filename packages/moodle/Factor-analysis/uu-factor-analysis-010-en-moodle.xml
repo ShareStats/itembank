@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-factor-analysis-010-en-moodle/Factor analysis</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Factor-analysis_uu-factor-analysis-010-en_uu-factor-analysis-010-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Hedonists turn into altruists when they have children of their own. An empirical study of this expectation requires the development of an altruism-hedonism measurement tool.</p>
+<p>Evaluate the following two statements on a factor analysis of a collection of items for the altruism-hedonism scale.</p>
+<p>I. Using the Eigenvalue greater than 1 criterion, select a set of factors based on a content criterion.</p>
+<ol start="2" style="list-style-type: upper-roman">
+<li>After rotation of factors, interpretation of the factors usually becomes considerably more difficult than before rotation.</li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Explanation:</p>
+<p>Theorem 1: The eigenvalue criterion is a statistical criterion. It looks at statistical data without considering the content of the items or an expected number of factors.</p>
+<p>Theorem 2: Rotation of the factors precisely aims to make the items load more strongly on the factors, which will make the interpretation of the factors (significantly) easier.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Pronunciation I and II are both correct.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Only pronunciation I is correct.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Only pronunciation II is correct.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Pronunciation I and II are both incorrect.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

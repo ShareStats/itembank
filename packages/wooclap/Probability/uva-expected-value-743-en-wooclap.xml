@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-expected-value-743-en-wooclap/Probability/Elementary Probability/Random variables/Expected value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-expected-value-743-en_uva-expected-value-743-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>At the company Tata Steel, a study was conducted on the efficiency of the production process in the field of mold making. The study revealed that the time required to create a blueprint (step 1) to make a mold in the long run varies with an expectation of 3 hours and a standard deviation of 0.7 hours. In addition, it has been shown that the actual fabrication (step 2) of a mold varies with an expectation of 7.5 hours and a standard deviation of 3.2 hours. Both steps in the manufacturing process (blueprint and fabrication) are independent of each other. Read the two situations below and choose then choose the correct answer.ÊÊ  I. Reducing the standard deviation of the blueprint from 0.75 to 0.5 leads to a reduction in the expected time of the entire manufacturing process (both blueprint and fabrication).™ II. If the two components in the manufacturing process did depend on each other, this will affect the expected time of the production process.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is correct, II is correct
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is true, II is true: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is true, II is false
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is true, II is false: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is incorrect, II is correct
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is incorrect, II is correct: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+I is incorrect, II is incorrect
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is incorrect, II is incorrect: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

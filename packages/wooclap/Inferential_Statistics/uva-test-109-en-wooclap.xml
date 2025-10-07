@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-test-109-en-wooclap/Inferential Statistics/Parametric Techniques/t-test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-test-109-en_uva-test-109-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Researchers are interested in the relationship between problem behavior at school (<em>y</em>) and problem behavior at the nursery (<em>x</em>) of children. After collecting data for 42 children, they calculate they calculate the regression line <em>y</em> = 2 + 3<em>x</em>. They do a test on the slope parameter to establish the relationship between <em>x</em> and <em>y</em>. The standard error of the slope parameter is 1.5 and the number of degrees of freedom with which to test is 40. The null hypothesis states that the slope parameter is 0. This null hypothesis is tested against the alternative hypothesis which states that the slope parameter does not equal 0. The null hypothesis can be</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Be rejected at significance level 0.10 but not at 0.05.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Are rejected at significance level 0.10 but not 0.05: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Be rejected at significance level 0.05 but not at 0.01.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Are rejected at significance level 0.05 but not at 0.01.:Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Be rejected at significance level 0.01.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Are rejected at significance level 0.01.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

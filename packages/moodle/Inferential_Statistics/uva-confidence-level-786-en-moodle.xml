@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-confidence-level-786-en-moodle/Inferential Statistics/Confidence Intervals/Confidence level</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-confidence-level-786-en_uva-confidence-level-786-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A study is looking at whether the new drug Koburol reduces symptoms reduces symptoms in people with psychosis. First, the drug is being tested on a small scale testing. If the results are positive, it will be tested on a larger group of individuals. The researcher will measure the presence of symptoms by having participants complete a questionnaire. Two months after the participants have started, the researcher will take the questionnaire again with the same subjects. The scores are shown in table below.</p>
+<p>———– —— —- Participant Before After 1 85 81 2 75 70 3 80 74 ———– —— —-</p>
+<p>The average of the difference scores (before – after) is <span class="math inline">\(\bar{x}_{d}\)</span>
+= 5 and the standard deviation of the difference scores S<sub>d</sub> = 0.82. Calculate the 95% confidence interval for the difference between the population averages of the participants before and after using Koburol._____________________.  The 95% confidence interval for the difference between the population averages is</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.47, 8.53
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1.47, 8.53: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2.98, 7.02
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2.98, 7.02: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.08, 5.92
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+4.08, 5.92: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Cronbach's-alpha-016-en-moodle/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_uu-Cronbach's-alpha-016-en_uu-Cronbach's-alpha-016-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In the Painters Career Project, for a (pilot) study of the mobility desires of painters, 20 items were administered to a random sample from the target population (<span class="math inline">\(n = 86\)</span>). The table below shows the item-rest correlations (<span class="math inline">\(r_{ir}\)</span>) of the 20 items.</p>
+<p><img src="uu-Cronbach&#39;s-alpha-016-en-tabel.jpg" />
+Evaluate the following two statements:</p>
+<p>I. By reversing ITEM13, Cronbach’s alpha will almost certainly be lower.
+II. By removing ITEM15, Cronbach’s alpha will almost certainly be lower.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Theorem I: Item13 shows a fairly high negative item residual correlation. If this item were to be pooled, this would result in the item residual correlation becoming positive. This benefits the reliability (Cronbach’s alpha) of the scale, after all, the items must be equally pooled to measure the Cronbach’s alpha. Thus, the Cronbach’s alpha will increase.</p>
+<p>Theorem II: Item15 shows a very low item residual correlation, the lowest of all the items. Removing this item will remove an item that has very low correlation with the remaining items. The internal consistency of the scale will increase when Item15 is removed, so Cronbach’s alpha will likely actually increase.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Utterance I and II are both correct.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Only pronunciation I is correct.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Only pronunciation II is correct.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Pronunciation I and II are both incorrect.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

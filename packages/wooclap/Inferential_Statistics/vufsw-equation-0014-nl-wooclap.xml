@@ -62,26 +62,6 @@ toetsen of …</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Het verschil tussen de waarde van <strong>b</strong><sub><strong>1</strong> </sub>en de waarde van <strong>b<sub></strong>2<strong></sub></strong> ****significant afwijkt van 0
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De waarde van <strong>X</strong><sub><strong>1</strong></sub>significant afwijkt van 0
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Het verschil tussen de waarde van <strong>X</strong><sub><strong>1</strong> </sub>en de waarde van <strong>b</strong><sub><strong>1</strong></sub> significant afwijkt van 0
 </p>]]></text>
 <feedback format="html">
@@ -97,6 +77,26 @@ De waarde van <strong>b</strong><sub><strong>1</strong> </sub>significant afwij
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De waarde van <strong>X</strong><sub><strong>1</strong></sub>significant afwijkt van 0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het verschil tussen de waarde van <strong>b</strong><sub><strong>1</strong> </sub>en de waarde van <strong>b<sub></strong>2<strong></sub></strong> ****significant afwijkt van 0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

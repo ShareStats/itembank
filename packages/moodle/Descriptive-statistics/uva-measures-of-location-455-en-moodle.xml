@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-measures-of-location-455-en-moodle/Descriptive statistics/Summary Statistics/Measures of Location</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-measures-of-location-455-en_uva-measures-of-location-455-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>We drew a random sample from a population, with the following 5 sample outcomes: 6, 9, 6, 11, 13. The 95% confidence interval for the population mean is equal to</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+&lt; 5.17 ; 12.83 &gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+&lt; 5.17 ; 12.83 &gt;: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+&lt; 5.46 ; 12.54 &gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+&lt; 5.46 ; 12.54 &gt;: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+&lt; 6.06 ; 11.94 &gt;&gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+&lt; 6.06 ; 11.94 &gt;&gt;: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+&lt; 6.30 ; 11.70 &gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+&lt; 6.30 ; 11.70 &gt;: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-correlation-1099-nl-moodle/descriptive statistics/summary statistics/bivariate statistics/correlation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_vufsw-correlation-1099-nl_vufsw-correlation-1099-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Wat gebeurt er met de <strong>correlatie </strong>tussen twee variabelen X en Y als we standaardiseren (met andere woorden: als we ze transformeren naar hun z-scores)?</p>
+<p>De correlatiecoëfficiënt …</p>
+<h2 id="antwoordenlijst">Antwoordenlijst</h2>
+<ul>
+<li>Blijft precies hetzelfde.</li>
+<li>Wordt 1,00.</li>
+<li>Wordt 0,00.</li>
+<li>Kan lager of hoger worden, afhankelijk van of de associatie tussen X en Y negatief of positief is.</li>
+<li>Kan lager of hoger worden afhankelijk van of het verschil tussen de gemiddelden van X en Y kleiner of groter is dan 0,00.</li>
+</ul>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+</question>
+
+</quiz>

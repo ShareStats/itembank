@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-variance-338-en-wooclap/Descriptive statistics/Summary Statistics/Measures of Spread/Variance</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-variance-338-en_uva-variance-338-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>We denote the weight of a person in pounds by the stochastic variable Y. In a given population, μ<sub>Y</sub> = 140 and σ<sup>2</sup><sub>Y</sub> = 900. We now want to represent the weights in kilograms and use the variable X for this purpose. In this population, expectation μ<sub>X</sub> and variance σ<sup>2</sup><sub>X</sub>:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+ΜX = 70 and σ2X = 450
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+ΜX = 70 and σ2X = 450: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+ΜX = 70 and σ2X = 225
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+ΜX = 70 and σ2X = 225: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+ΜX = 140 and σ2X = 225
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+ΜX = 140 and σ2X = 225: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+ΜX = 280 and σ2X = 3600
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+ΜX = 280 and σ2X = 3600: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

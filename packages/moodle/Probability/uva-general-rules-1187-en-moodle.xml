@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-general-rules-1187-en-moodle/Probability/Elementary Probability/General Rules</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-general-rules-1187-en_uva-general-rules-1187-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Every morning, Daan rolls a clean die. If he throws a 1 or 2 then he goes to play soccer. If he throws a 3, 4, 5 or 6 then he goes running. Suppose the random variable is X: the number of days that Daan goes running. What is the probability distribution that out of the next five days he is going to run at least three of them?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+P(X=3) = 0.3275
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P(X=3) = 0.3275: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+P(X=4) = 0.3325
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P(X=4) = 0.3325: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+P(X≥3) = P(X=4)+P(X=5)=0.3325+0.1350
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P(X≥3) = P(X=4)+P(X=5)=0.3325+0.1350: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+P(X ≥3) = P(X=3)+P(X=4)+P(X=5)=0.3275+0.3325+0.1350= 0.7950
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P(X ≥3) = P(X=3)+P(X=4)+P(X=5)=0.3275+0.3325+0.1350= 0.7950: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

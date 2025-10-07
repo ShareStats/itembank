@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-proportion-1279-nl-moodle/descriptive statistics/summary statistics/proportion</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_vufsw-proportion-1279-nl_vufsw-proportion-1279-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Het gemiddelde inkomen van een grote steekproef van studenten die allemaal bij een advocatenkantoor werken is 500 euro (per maand), met een standaardafwijking van 100 euro. advocatenkantoor werken is 500 euro (per maand), met een standaardafwijking van 100 euro. Het gemiddelde inkomen is normaal verdeeld. Wat is het aandeel van studenten met een inkomen hoger dan 450 euro per maand?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>z = (450-500)/100 = 0,500 (het is een halve sd van het gemiddelde). De Z-score Tabel toont voor z = 0,50 het cijfer 0,3085. Dit is de kans op een inkomen lager dan 450. Dus de kans op een inkomen hoger dan 450 euro per maand is 1-0,3085= 0,6915.</p>
+<p>Als je meer wilt weten over hoe je dit berekent, kijk dan hier
+<a href="https://www.youtube.com/watch?v=xdHDE_RD6_c&amp;index=7&amp;list=PLyLpEs0x9BnlQ9yc8ZJd6KDm2TGxMYbLV">clip</a></p>
+<p>Taal Nederlands</p>
+<p>Moeilijkheidsniveaus Gemiddeld</p>
+<p>M&amp;T BIS Standaardwaarde</p>
+<p>M&amp;T Verdelingen Standaardwaarde</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.31
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.69
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.85
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.50
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.56
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

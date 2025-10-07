@@ -50,19 +50,19 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Hoe dichter de correlatie de -1 of +1 benadert, hoe sterker het verband.
+Hoe dichter de correlatie de 0 benadert, hoe kleiner de <em>p</em>-waarde.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Hoe dichter de correlatie de 0 benadert, hoe kleiner de <em>p</em>-waarde.
+Hoe dichter de correlatie de 0 benadert, hoe sterker het verband.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -80,13 +80,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Hoe dichter de correlatie de 0 benadert, hoe sterker het verband.
+Hoe dichter de correlatie de -1 of +1 benadert, hoe sterker het verband.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-events-760-en-moodle/Probability/Elementary Probability/Events</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-events-760-en_uva-events-760-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p><span class="math inline">\(\begin{aligned} A &amp; = \left \{ x \mid x = 2k, k \in Z \right \}\\ B &amp; = \left \{ x \mid x = 2k + 1, k \in Z \right \}\\ C &amp; = \left \{ x \mid x = 2(k + 1), k \in Z \right \}\\ D &amp; = \left \{ x \mid x = 2k - 1, k \in Z \right \} \end{aligned}\)</span></p>
+<p>where Z is the set of all the integers (positive and negative) numbers, including 0. If each time two sets make a cross section then which one yields an empty set?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(A \cap B = \varnothing, A \cap C = \varnothing, C \cap B = \varnothing, C \cap D = \varnothing\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(A \cap B = \varnothing, A \cap C = \varnothing, C \cap B = \varnothing, C \cap D = \varnothing\)</span>: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(A \cap D = \varnothing, A \cap C = \varnothing, C \cap B = \varnothing, C \cap D = \varnothing\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(A \cap D = \varnothing, A \cap C = \varnothing, C \cap B = \varnothing, C \cap D = \varnothing\)</span>: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(A \cap B = \varnothing, A \cap C = \varnothing, B \cap D = \varnothing, C \cap B = \varnothing\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(A \cap B = \varnothing, A \cap C = \varnothing, B \cap D = \varnothing, C \cap B = \varnothing\)</span>: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(A \cap B = \varnothing, A \cap D = \varnothing, C \cap B = \varnothing, C \cap D = \varnothing\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(A \cap B = \varnothing, A \cap D = \varnothing, C \cap B = \varnothing, C \cap D = \varnothing\)</span>: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

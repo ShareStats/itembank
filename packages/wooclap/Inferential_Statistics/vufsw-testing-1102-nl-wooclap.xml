@@ -60,16 +60,6 @@ significant van elkaar verschillen. Waaruit valt dit af te leiden?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Het getal 0,95 ligt buiten het interval.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Het getal 0,00 ligt buiten het interval.
@@ -83,6 +73,16 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Het getal 0,05 ligt buiten het interval.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het getal 0,95 ligt buiten het interval.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

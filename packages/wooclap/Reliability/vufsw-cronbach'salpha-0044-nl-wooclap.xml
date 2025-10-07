@@ -60,16 +60,6 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Een item met een hoge positieve “Corrected item-total correlation” te verwijderen.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Een item met een waarde van 0,82 bij “Cronbach’s alpha if item deleted” te verwijderen.
@@ -77,6 +67,16 @@ Een item met een waarde van 0,82 bij “Cronbach’s alpha if item deleted” te
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Een item met een hoge positieve “Corrected item-total correlation” te verwijderen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-t-statistic-810-nl-wooclap/Inferential Statistics/Parametric Techniques/t-test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-t-statistic-810-nl_uu-t-statistic-810-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Onderzoek heeft aangetoond dat het verlies van zelfs maar één nacht slaap een significant effect kan hebben op de prestaties van complexe taken zoals het oplossen van problemen (Linde &amp; Bergstroem, 1992). Om dit fenomeen aan te tonen, kreeg een willekeurige steekproef van 25 mannelijke en vrouwelijke studenten een probleemoplossingstaak op een dag om 12 uur ’s middags en de volgende dag om 12 uur ’s middags. De studenten mochten tussen de twee tests niet slapen. Het probleemoplossend vermogen werd gemeten op een schaal van 1 tot 10.</p>
+<p>Welke statistische test moet de onderzoeker gebruiken?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Chi-kwadraat toets voor onafhankelijkheid
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Z-toets
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+T-toets voor onafhankelijke gemiddelden
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+T-Test voor afhankelijke gemiddelden
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is juist.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-moderation-0243-en-moodle/inferential statistics/regression/multiple linear regression/moderation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-moderation-0243-en_vufsw-moderation-0243-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Below is a regression equation of a moderation model. The dependent variable “<strong>PINC</strong>” is personal monthly income (net, in euros). “<strong>MAN</strong>” is a dummy variable (female = 0; male =1); “<strong>FULLTIME</strong>” is a dummy variable indicating whether a person works 32 hours or more (score 1) or less than 32 hours of paid work per week (score 0).</p>
+<p>PINC = 1381 + 644*MAN + 742*FULLTIME - 128*FULLTIME.</p>
+<p>Suppose we want to test whether the moderation effect (idem: interaction effect) of MAN on the relationship between FULLTIME and PINC is significant. What should we do then?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Language Dutch</p>
+<p>Levels of Difficulty Easy</p>
+<p>M&amp;T Basics of quantitative research Basics of quantitative research</p>
+<p>M&amp;T BIS Default value</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+We must then verify that the difference between the value 644 and the value -128 is significantly different from 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+We must then check whether the difference between the value 742 and the value 644 deviates significantly from 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+We must then verify that the difference between the value 742 and the value -128 is significantly different from 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+We should then check whether the value -128 is significantly different from 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+We must then check whether the value 742 is significantly different from 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

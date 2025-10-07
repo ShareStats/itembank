@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-109-nl-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/Oneway repeated measures ANOVA, Inferential Statistics/NHST/Power, Inferential Statistics/Parametric Techniques/ANOVA/ANOVA F-test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-109-nl_eur-inferential_statistics-109-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een ANOVA voor herhaalde metingen heeft meer kracht dan een ANOVA voor onafhankelijke groepen, omdat één variantiecomponent anders wordt berekend. Welke variantiecomponent is dit?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Individuele verschillen tussen deelnemers doen er minder toe bij herhaalde metingen. De score van elke deelnemer wordt op minimaal 2 verschillende momenten gemeten; het verschil tussen deze condities binnen deelnemers is wat relevant is. Een individu dat begint bij een 0 en eindigt bij een 2 (verschil van 2) heeft dezelfde verschilscore als iemand die begint bij een 5 en eindigt bij een 7.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De som van kwadraten
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De som van de kwadraten model
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De som van de kwadraten residueel
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit is het goede antwoord!
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Geen van bovenstaande
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

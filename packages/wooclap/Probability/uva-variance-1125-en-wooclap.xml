@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-variance-1125-en-wooclap/Probability/Elementary Probability/Random variables/Variance</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-variance-1125-en_uva-variance-1125-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A random variable X has the following probability distribution:_____________.<br />
+</p>
+<p>————– —— —— —— TRUE of X -2 0 2 Odds 0.25 0.50 0.25 ————– —— —— ——</p>
+<p> Then what is the standard deviation of X?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1,41
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1.41: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2,24
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2.24: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

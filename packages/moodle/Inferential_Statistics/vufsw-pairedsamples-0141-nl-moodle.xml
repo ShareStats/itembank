@@ -58,13 +58,13 @@ te toetsen dat de werknemers beter scoren op toets B dan op toets A? </p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Een Dependent t-test
+Een toets voor één proportie
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -80,7 +80,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Een toets voor één proportie
+Een Chi-kwadraat toets (Chi-squared test)
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -88,13 +88,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Een Chi-kwadraat toets (Chi-squared test)
+Een Dependent t-test
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

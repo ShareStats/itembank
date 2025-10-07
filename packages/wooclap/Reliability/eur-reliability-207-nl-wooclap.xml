@@ -44,11 +44,11 @@
 <generalfeedback format="html">
 <text><![CDATA[<p>
 <ul>
-<li>Cronbach’s alpha gives an underestimation of the reliability in the population, not an overestimation.</li>
-<li>When you calculate the maximum correlation you assume that the reliability of the other variable is 1, so the high reliability of the CITO test is not the correct answer.</li>
-<li>The variance in true scores on the CITO test being high is not the correct answer, because this would increase the reliability of the Cito test.</li>
+<li>Cronbach’s alpha geeft een onderschatting van de betrouwbaarheid in de populatie, geen overschatting.</li>
+<li>Wanneer je de maximale correlatie berekent, ga je ervan uit dat de betrouwbaarheid van de andere variabele 1 is, dus de hoge betrouwbaarheid van de CITO-test is niet het juiste antwoord.</li>
+<li>De variantie in werkelijke scores op de CITO-test die hoog is, is niet het juiste antwoord, omdat dit de betrouwbaarheid van de CITO-test zou verhogen.</li>
+<li>Dit laat ons met het antwoord over sample fluctuatie als enige juiste antwoord, omdat je mogelijk een “extreem” sample uit de populatie hebt getrokken met een hogere correlatie.</li>
 </ul>
-<p>This leaves us with the answer regarding sample fluctuation being the only correct answer, because you may have drawn an “extreme” sample from the population with a higher correlation.</p>
 </p>]]></text>
 </generalfeedback>
 <penalty>0</penalty>
@@ -59,6 +59,16 @@
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dit kan komen doordat de CITO toets een hoge betrouwbaarheid heeft.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dit kan komen doordat de true score variantie in de CITO scores hoog is.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -79,16 +89,6 @@ Goed
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dit kan komen doordat Cronbach’s alpha een overschatting geeft van de betrouwbaarheid in de populatie.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Fout
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dit kan komen doordat de true score variantie in de CITO scores hoog is.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

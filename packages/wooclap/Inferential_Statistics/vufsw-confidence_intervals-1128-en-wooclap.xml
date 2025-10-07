@@ -62,6 +62,16 @@ the assessments of the two groups differ significantly from each other</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The number 0.95 is outside the interval.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 The number 0.00 is outside the interval.
@@ -85,16 +95,6 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 The number 0.05 is outside the interval.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The number 0.95 is outside the interval.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

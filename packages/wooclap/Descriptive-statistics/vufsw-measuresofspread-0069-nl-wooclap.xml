@@ -59,26 +59,6 @@ Wanneer gebruik je welke formule? </p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De standaardfout (se) gebruik je bij voor <strong>steekproef</strong>verdeling en de exacte standaardfout (se<sub>0</sub>) voor de <strong>steekproeven</strong>verdeling.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De standaardfout (se) gebruik je bij een categorische variabele en de exacte standaardfout (se<sub>0</sub>) bij een kwantitatieve variabele.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 De standaardfout (se) gebruik je voor de alternatieve hypothese (H<sub>a</sub>) en de exacte standaardfout (se<sub>0</sub>) gebruik je voor de nulhypothese (H<sub>0</sub>).
 </p>]]></text>
 <feedback format="html">
@@ -97,6 +77,16 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De standaardfout (se) gebruik je bij een categorische variabele en de exacte standaardfout (se<sub>0</sub>) bij een kwantitatieve variabele.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 De standaardfout (se) gebruik je bij het berekenen van een betrouwbaarheidsinterval en de exacte standaardfout (se<sub>0</sub>) bij het toetsen van een hypothese.
@@ -104,6 +94,16 @@ De standaardfout (se) gebruik je bij het berekenen van een betrouwbaarheidsinter
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De standaardfout (se) gebruik je bij voor <strong>steekproef</strong>verdeling en de exacte standaardfout (se<sub>0</sub>) voor de <strong>steekproeven</strong>verdeling.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

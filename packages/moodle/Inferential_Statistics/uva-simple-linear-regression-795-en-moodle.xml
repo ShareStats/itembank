@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-simple-linear-regression-795-en-moodle/Inferential Statistics/Regression/Simple linear regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-simple-linear-regression-795-en_uva-simple-linear-regression-795-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Given is the table of correlations for three predictors <em>x</em><sub>1</sub>, <em>x</em><sub>2</sub> and <em>x</em><sub>3</sub>:</p>
+<p>——– ——– ——– ——– <em>x</em><sub>1</sub> <em>x</em><sub>2</sub> <em>x</em><sub>3</sub> <em>x</em><sub>1</sub> - <em>x</em><sub>2</sub> 0.72 - <em>x</em><sub>3</sub> 0.01 0.03 - ——– ——– ——– ——–</p>
+<p>The regression equation for the dependent variable <em>y</em> with only <em>x</em><sub>1</sub> and <em>x</em><sub>2</sub> is <span class="math inline">\(\hat{y} = 8.75 + 3.51x_{1} + 4.32x_{2}\)</span>
+Now suppose the model is calculated with <em>x</em><sub>3</sub> added. Then the coefficient</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Of x1 become much smaller and of x2 become much larger.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+From x1 become much smaller and from x2 become much larger…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+From x1 remain about the same and from x2 also.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+From x1 remain about the same and from x2 also…: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+From x1 remain about the same and from x2 become much smaller.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+From x1 remain about the same and for x2 become much smaller…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

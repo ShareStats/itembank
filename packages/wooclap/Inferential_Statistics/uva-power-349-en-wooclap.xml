@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-power-349-en-wooclap/Inferential Statistics/NHST/Power</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-power-349-en_uva-power-349-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Below are two statements about discernment (power):______. 1: With a larger sample size, discernment power increases increases. 2: With a smaller test risk, discernment power increases increases.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Both statements are correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Both statements are correct: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Statement 1 is correct, statement 2 is incorrect.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Statement 1 is correct, statement 2 is incorrect: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Statement 1 is incorrect, statement 2 is correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Utterance 1 is incorrect, utterance 2 is correct…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Both statements are incorrect.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Both statements are incorrect: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

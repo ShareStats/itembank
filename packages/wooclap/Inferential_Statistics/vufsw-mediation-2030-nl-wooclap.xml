@@ -57,9 +57,19 @@ en het schoolniveau van de kinderen (Y)?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.313
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-0.007
+0.288
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -79,21 +89,11 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-0.288
+0.007
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-0.313
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

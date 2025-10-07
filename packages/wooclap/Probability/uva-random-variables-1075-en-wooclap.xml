@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-random-variables-1075-en-wooclap/Probability/Elementary Probability/Random variables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-random-variables-1075-en_uva-random-variables-1075-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A book is randomly selected from a bookshelf. Which of the following characteristics of the book are continuous or discrete stochastic variables?</p>
+<p>I. Weight of the book (e.g., 2.3 pounds). II. Number of chapters in the book (e.g., 10 chapters). III. Width of the book (e.g., 8 inches). III. IV. The type of book (0 = hardback or 1 = paperback). IV. V. The number of typos in the book (e.g., 4 errors).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I, II and V are discrete stochastic variables.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I, II and V are discrete stochastic variables…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+I and III are continuous stochastic variables.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I and III are continuous stochastic variables…: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+II, IV and V are continuous stochastic variables.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+II, IV and V are continuous stochastic variables…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I, III and IV are continuous stochastic variables.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I, III and IV are continuous stochastic variables…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

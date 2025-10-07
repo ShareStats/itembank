@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-variance-370-en-wooclap/Descriptive statistics/Summary Statistics/Measures of Spread/Variance</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-variance-370-en_uva-variance-370-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Below is output from SPSS regarding a correlation analysis.</p>
+<p>—- ——————— ——- ——- X1 X2 X1 Pearson Correlation 1,000 .554 Sig.(2-tailed) .032 N 15 15 X2 Pearson Correlation .554 1,000 Sig.(2-tailed) .032 N 15 15 —- ——————— ——- ——-</p>
+<p>What is the percentage of total variation that Xl and X2 have in common?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.1%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.1%: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.2%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+3.2%: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+30.7%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+30.7%: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+55.4%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+55.4%: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

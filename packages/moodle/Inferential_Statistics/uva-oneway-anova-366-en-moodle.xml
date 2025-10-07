@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-oneway-anova-366-en-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-oneway-anova-366-en_uva-oneway-anova-366-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Below is a partial ANOVA table of a oneway ANOVA on three groups with 5 observations each.</p>
+<p>——————— ——- —- ——- —— Source of variation SS df MS F Between groups 40.80 2 20.40 5.81 Within groups Total 82.93 ——————— ——- —- ——- ——</p>
+<p>The value of MS(Within groups) in this ANOVA is equal to</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.24
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+3.24: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3.51
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+3.51: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.92
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+5.92: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+42.13
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+42.13: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

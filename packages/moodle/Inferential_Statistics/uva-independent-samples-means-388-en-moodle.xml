@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-independent-samples-means-388-en-moodle/Inferential Statistics/Parametric Techniques/t-test/Independent samples means</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-independent-samples-means-388-en_uva-independent-samples-means-388-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>To test the null hypothesis that two population averages are equal, we drew a sample from both populations, one sized of n = 10, the other of n = 8. The critical range of the two samples T-test for independent samples is then, at a two-sided risk of 5%, equal to</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+&lt; -2.1199, 2.1199 &gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+&lt; -2.1199, 2.1199 &gt;: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+&lt; -2.1009, 2.1009 &gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+&lt; -2.1009, 2.1009 &gt;: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+&lt; -∞,-2.1199] ∪ [2.1199, ∞ &gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+&lt; -∞,-2.1199] ∪ [2.1199, ∞ &gt;: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+&lt; -∞,-2.1009] ∪ [2.1009, ∞ &gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+&lt; -∞,-2.1009] ∪ [2.1009, ∞ &gt;: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

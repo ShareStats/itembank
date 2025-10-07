@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Mediation-808-en-wooclap/Inferential Statistics/Regression/Multiple linear regression/Mediation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Mediation-808-en_uu-Mediation-808-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In a study of influences on healing after major surgery, the following variables are involved: disease insight and IQ. In a mediator analysis examining whether the influence of IQ is through disease insight, the researcher finds the following relationships (expressed as regression coefficients):</p>
+<ol style="list-style-type: decimal">
+<li>b = .64 of IQ -&gt; healing. (2) b = .56 from IQ -&gt; disease insight. (3) b = .55 of disease insight -&gt; healing (where IQ is also included as a predictor in the model)</li>
+</ol>
+<p>The final analysis in this mediator analysis is a regression analysis with IQ and disease insight as predictors and healing as dependent variable….</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>To test mediation, we examine the four steps (see question 12). The final step is to see if the relationship between IQ and healing is still significant when controlling for disease insight?</p>
+<p>When there is mediation, the relationship between IQ and healing will be weaker when disease insight is also included in the analysis. So you would expect regression coefficient (1) to decrease.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Where you expect regression coefficient (1) to decrease.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Where you expect regression coefficient (2) to decrease.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Where you expect regression coefficient (3) to decrease.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Where you expect all three regression coefficients to decrease.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

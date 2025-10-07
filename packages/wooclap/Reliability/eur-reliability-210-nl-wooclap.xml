@@ -67,7 +67,7 @@ II. Omdat er een controle groep is, is hier geen sprake van regressie naar het g
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
-<p>Both statements are false If the reliability were 0, then you have only measurement error and in that case the scores on the pre-test could have been either higher, lower, or equal. Including a control group does not influence the presence of regression to the mean, but concerns the design of the study and whether causal conclusions may be drawn (see WE chapter 7).</p>
+<p>Beide uitspraken zijn onwaar. Als de betrouwbaarheid 0 zou zijn, dan heb je alleen meetfout en in dat geval zouden de scores op de pre-test hoger, lager of gelijk kunnen zijn. Het opnemen van een controlegroep beïnvloedt de aanwezigheid van regressie naar het gemiddelde niet, maar betreft het ontwerp van de studie en of er causale conclusies getrokken kunnen worden (zie WE hoofdstuk 7).</p>
 </p>]]></text>
 </generalfeedback>
 <penalty>0</penalty>
@@ -75,13 +75,13 @@ II. Omdat er een controle groep is, is hier geen sprake van regressie naar het g
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Stelling I is waar en stelling II is niet waar
+Stelling I en stelling II zijn beide niet waar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Fout
+Goed
 </p>]]></text>
 </feedback>
 </answer>
@@ -95,19 +95,19 @@ Fout
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Stelling I en stelling II zijn beide niet waar
+Stelling I en stelling II zijn beide waar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Goed
+Fout
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Stelling I en stelling II zijn beide waar
+Stelling I is waar en stelling II is niet waar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

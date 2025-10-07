@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-normal-1370-en-moodle/Distributions/Continuous/Normal</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-normal-1370-en_uva-normal-1370-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>30,000 telephone calls from the ICT department have a distribution with a mean duration of 173.9 seconds and a standard deviation of 184.8 seconds. You take a random sample of 80 calls. What then is the theoretical standard deviation?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.3 seconds
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2.3 seconds: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+20.7 seconds
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+20.7 seconds: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+40 seconds
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+40 seconds: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+184.8 seconds
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+184.8 seconds: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

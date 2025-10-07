@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-z-score-1176-nl-moodle/descriptive statistics/score interpretation/z-score</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_vufsw-z-score-1176-nl_vufsw-z-score-1176-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Stel dat de huidige Amerikaanse president beweert dat de Amerikaanse bevolking de huidige Amerikaanse president een gemiddelde goedkeuringsscore geeft van 7 (op een schaal van 1 tot 10).</p>
+<p>Een onderzoeker twijfelt aan deze bewering en houdt een willekeurige enquête onder 121 Amerikaanse respondenten. Uit deze steekproef blijkt dat de gemiddelde goedkeuringsscore 6,5 is (st.dev. = 1,8).</p>
+<p>Als we aannemen dat de claim van de president juist is (d.w.z. dat de gemiddelde goedkeuringsscore in de populatie 7 is), wat is dan de kans dat we deze steekproefstatistiek zouden vinden (dit steekproefgemiddelde van 6,5)<em>?</em> De kans* <em>is</em> …*</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>We moeten eerst de standaardfout berekenen: se = 0,1636.<br />
+Vervolgens moeten we de z-score voor onze steekproefstatistiek berekenen: z = (6.5 - 7) / 0.1636 = -3.06 Vervolgens kunnen we de P-waarde voor deze z-score vinden (zie tabel A). De P-waarde van z-score -3,06 = <strong>0,0011 </strong> Uitgedrukt in procenten: 0,0011 * 100% = 0,11%</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.87%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.96%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.06%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.05%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.11%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

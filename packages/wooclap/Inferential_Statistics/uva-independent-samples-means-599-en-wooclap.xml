@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-independent-samples-means-599-en-wooclap/Inferential Statistics/Parametric Techniques/t-test/Independent samples means</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-independent-samples-means-599-en_uva-independent-samples-means-599-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>From each of two normally distributed populations with equal variances a sample is drawn.______________. Sample 1: n = 18, mean = 38, sd = 5.43 Sample 2: n = 13, mean = 46, sd = 9.04. The pooled variance estimator takes the value 51.10. It is tested whether the population averages are equal. The value of the corresponding testing quantity is then</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.665
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1,665: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.772
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2,772: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3.075
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+3,075: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.361
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.361: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

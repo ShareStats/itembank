@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Twoway-repeated-measures-ANOVA-805-en-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Twoway repeated measures ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Twoway-repeated-measures-ANOVA-805-en_uu-Twoway-repeated-measures-ANOVA-805-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Imagine the following: someone examines the effect of a child’s attractiveness and gender on judgments about that child in terms of personality and intelligence. Male teachers are shown four photographs to give their first impression of that child. The randomly presented photos are of an attractive boy, an unattractive boy, an attractive girl and an unattractive girl. The teachers assign a value for the child’s friendliness and they estimate intelligence.</p>
+<p>How would you describe the design of this study?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2x2 mixed factorial
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2x4 between subjects factorial
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2x2 repeated measures factorial
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2x4 PxE factorial
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

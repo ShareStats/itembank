@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Twoway-ANOVA-830-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Twoway-ANOVA-830-nl_uu-Twoway-ANOVA-830-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoeker onderzoekt de effectiviteit van een nieuw medicijn tegen obsessieve compulsieve stoornis. Ze wijst de proefpersonen willekeurig toe aan een van de drie experimentele condities: placebo, lage dosis medicijn, hoge dosis medicijn. Het volgende resultaat werd gevonden voor het hoofdeffect van de experimentele groep: F(2, 27) = 0.67.</p>
+<p>Welke van de volgende twee Stellingen is waar:</p>
+<p>I. De binnengroepvariantie is groter dan de tussengroepvariantie II. De variantie tussen groepen is groter dan de variantie binnen groepen. III. De F-test is niet significant IV. Er is een post-hoc test nodig om te bepalen welke groepen significant van elkaar verschillen.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Stellingen I en II zijn juist.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Stelling I en stelling III zijn juist
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Stelling I en opgave IV zijn juist
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Stelling II en stelling IV zijn juist
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

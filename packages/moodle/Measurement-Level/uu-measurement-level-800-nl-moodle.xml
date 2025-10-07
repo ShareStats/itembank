@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-measurement-level-800-nl-moodle/Measurement Level</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Measurement-Level_uu-measurement-level-800-nl_uu-measurement-level-800-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een vragenlijst beschrijven begeleiders verschillende gedachten die tieners met verschillende frequenties kunnen hebben. Voorbeelden zijn ‘ik wou dat ik eruit zag als dat model uit het tijdschrift’, ‘ik wou dat ik voor altijd kon verdwijnen’, of ‘ik wil nooit meer naar buiten in het openbaar’. De tieners wordt gevraagd aan te geven hoe vaak ze deze gedachten ervaren, variërend van 0 = nooit, tot 8 = een paar keer per week, 9 = een keer per dag, en 10 = meerdere keren per dag. Uiteindelijk berekenen de begeleiders een totaalscore door de antwoorden op alle stellingen te combineren. Welke schaal wordt beschreven?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Samengestelde schaal.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Semantisch differentiaal.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Differentiële schaal.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Cumulatieve schaal.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

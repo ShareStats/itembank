@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-mean-546-en-moodle/Descriptive statistics/Summary Statistics/Measures of Location/Mean</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-mean-546-en_uva-mean-546-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>We take a sample of 7 individuals from a large population and measure their body temperature in degrees Celsius, with the results being 37.6, 37.1, 38.0, 37.5, 36.9, 37.1, 37.3. The median of the sample is equal to</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+37.1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+37.1: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+37.2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+37.2: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+37.3
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+37.3: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+37.39
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+37.39: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

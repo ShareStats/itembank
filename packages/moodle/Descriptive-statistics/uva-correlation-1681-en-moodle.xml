@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-correlation-1681-en-moodle/Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-correlation-1681-en_uva-correlation-1681-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The following is an indication of 5 individuals as to how they are ranked in terms of authoritarian behavior and social status:‗. Authoritarian behavior: 4, 1, 2, 5, 3. Social status: 4, 3, 1, 5, 2. The value of the Spearman correlation coefficient here is</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+-0.7
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.7: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.4: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.5: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.7
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.7: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

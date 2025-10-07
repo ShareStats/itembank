@@ -97,7 +97,7 @@ the reference category (control group = 0, experimental group = 1).</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-EVALUATION = 3.60 + 3.40 * GROUP
+EVALUATION = 3.40 – 3.60 * GROUP
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -107,7 +107,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-EVALUATION= 3.20 + 0.40 * GROUP
+EVALUATION = 0.20 + 3.40 * GROUP
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -127,7 +127,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-EVALUATION = 3.40 – 3.60 * GROUP
+EVALUATION = 3.60 + 3.40 * GROUP
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -147,7 +147,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-EVALUATION = 0.20 + 3.40 * GROUP
+EVALUATION= 3.20 + 0.40 * GROUP
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

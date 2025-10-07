@@ -57,6 +57,16 @@ tentamencijfer 8,0 heeft gehaald?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1,9
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 0,4
@@ -64,16 +74,6 @@ tentamencijfer 8,0 heeft gehaald?</p>
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-1,0
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>
@@ -99,7 +99,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-1,9
+1,0
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

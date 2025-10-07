@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-reliability-006-en-wooclap/Reliability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_uu-reliability-006-en_uu-reliability-006-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A new test should measure in parents of school-age children the motivation to actively participate in school activities. A pilot study is being conducted on the practical usability and psychometric quality of the test with 40 Likert items. The test turns out to be too long; a considerable proportion of the participants fill in a randomly chosen number at the end of the test.</p>
+<p>As a result, in this pilot study, the estimation of the reliability of the test scores…</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The last items are not necessarily answered incorrectly (the “right” answer may be entered “accidentally”). However, these items will not be consistent with each other or the other items. Reliability measures the consistency of responses to the items. Since the last items were not answered consistently, the reliability of the test scores will be underestimated.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+…remains the same. With a length of 40 questions, the reliability of the test scores will not be affected.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+…is overestimated because the last items are not completed truthfully.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+…is underestimated because the answers to the last items are not correlated.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+We cannot know this based on this information.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

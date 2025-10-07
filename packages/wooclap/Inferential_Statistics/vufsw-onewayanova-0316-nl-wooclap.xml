@@ -55,7 +55,7 @@ vergeleken in de set van contrasten.</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-1 vs. (1, 2, 3) 2 vs. (1, 2, 3)
+1 vs. 3 2 vs. 3
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -75,7 +75,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-1 vs. 3 2 vs. 3
+1 vs. 2 2 vs. 3
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -85,7 +85,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-1 vs. 2 2 vs. 3
+1 vs. (1, 2, 3) 2 vs. (1, 2, 3)
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

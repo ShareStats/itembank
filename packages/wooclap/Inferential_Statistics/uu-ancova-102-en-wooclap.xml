@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-ancova-102-en-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-ancova-102-en_uu-ancova-102-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The Skepsis Foundation casts a critical eye on extraordinary claims, pseudoscientific theories, dubious therapies and paranormal beliefs. In this context, an experiment was conducted on the degree of skepticism of academics when evaluating research findings. Respondents were randomly assigned to three sources of information:</p>
+<p>1 = newspaper science supplement, 2 = peer reviewed scientific journal, 3 = popular scientific journal.</p>
+<p>In addition to this experimental condition, the variable SEKSE and the variable AGE (in years) were also included in the analysis.</p>
+<p>Suppose none of the necessary assumptions were violated, which analysis technique is most appropriate for analyzing the relationships between the independent variables and the dependent variable?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Explanation: The dependent variable is respondents’ ratings of the items. How this was measured is not made clear. However, all response categories indicate a variable of minimal interval measurement level. The independent variable in this study is the type of information source (nominal measurement level, 3 categories). In addition, it is obvious to control for SEKSE (nominal, 2 categories) and AGE (in years, i.e., ratio measurement level). Nominal covariates were not considered in this course, so SEKSE is included as an independent variable. This brings the total to two independent variables, one covariate and one dependent variable. This yields a two-way ANCOVA as the appropriate analysis technique.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Two-way ANOVA
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Two-way ANCOVA
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Three-way ANCOVA
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Three-way ANOVA
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

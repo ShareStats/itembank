@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-summarystatistics-009-en-moodle/Descriptive statistics/Summary Statistics, Descriptive statistics/Summary Statistics/Measures of Location/Median, Descriptive statistics/Summary Statistics/Measures of Spread/Interquartile Range, Descriptive statistics/Data representation/Graphs/Boxplot</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_vufgb-summarystatistics-009-en_vufgb-summarystatistics-009-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Given is the boxplot below.</p>
+<p>Complete the corresponding statements.</p>
+<p>The middle observation is … and the interquartile range is … .</p>
+<p><img src="@@PLUGINFILE@@/vufgb-summarystatistics-009-nl-boxplot01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-summarystatistics-009-nl-boxplot01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5 and 5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+4 and 5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5 and 9
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4 and 9
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

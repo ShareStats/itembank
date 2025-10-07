@@ -69,6 +69,16 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De kans is 0,06% dat we deze gemiddelde verschilscore observeren (of een nog groter verschil) indien de <em>nulhypothese</em> waar is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De kans is 0,06% dat de <em>nulhypothese</em> waar is.
@@ -86,16 +96,6 @@ De kans is 0,06% dat de <em>alternatieve hypothese</em> waar is.
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De kans is 0,06% dat we deze gemiddelde verschilscore observeren (of een nog groter verschil) indien de <em>nulhypothese</em> waar is.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

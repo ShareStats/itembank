@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Critical-value-808-en-wooclap/Inferential Statistics/NHST/Significance level/Critical value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Critical-value-808-en_uu-Critical-value-808-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher wants to compare the political orientation of first-year and fourth-year students. A sample of 10 freshmen and 10 fourth-year students are administered a questionnaire on which a score can be obtained from 0 (very progressive) to 100 (very conservative). Freshmen score an average of 62 with a squared SS = 4800, and fourth-year students score an average of 41 with a squared SS = 4200. Based on a two-sided test with <span class="math inline">\(\alpha\)</span> = 5% conclude that the political orientation of first- and fourth-year students is significantly different?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, because the test statistic is 2.1 and the critical limits are <span class="math inline">\(\pm\)</span> 2.101.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Yes, because the test statistic is 2.2 and the critical limits are <span class="math inline">\(\pm\)</span> 1.96.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Yes, because the test statistic is 2.2 and the critical limits are <span class="math inline">\(\pm\)</span> 1.734.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Yes, because the test statistic is 2.1 and the critical limits are <span class="math inline">\(\pm\)</span> 2.086.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-pvalue-0231-en-wooclap/inferential statistics/nhst/p-value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-pvalue-0231-en_vufsw-pvalue-0231-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>What are we testing when we look at the p-value of a b-coefficient in a linear regression model?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Assuming that the <strong>alternative</strong> hypothesis (H<sub>a</sub>) is true is true in the <strong>population</strong>, how (un)likely is it to have this observed t-value (or an even more extreme t-value)? If it is very unlikely, then we reject the null hypothesis.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Assuming that the <strong>zero hypothesis</strong> (H<sub>0</sub>) is TRUE in the <strong>sample</strong>, how (un)likely is it to be this observed t-value (or an even more extreme t-value)? If it is highly unlikely, then we reject the null hypothesis.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Assuming that the <strong>alternative</strong> hypothesis (H<sub>a</sub>) is true is true in the <strong>sample</strong>, how (un)likely is it to have this observed t-value (or an even more extreme t-value)? If it is very unlikely, then we reject the null hypothesis.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Assuming that the <strong>zero hypothesis</strong> (H<sub>0</sub>) is TRUE in the <strong>population</strong>, how (un)probable is it to obtain this observed t value (or an even more extreme t value)? If it is highly unlikely, then we reject the null hypothesis.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

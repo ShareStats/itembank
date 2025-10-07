@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-zscore-1084-nl-moodle/descriptive statistics/score interpretation/z-score</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_vufsw-zscore-1084-nl_vufsw-zscore-1084-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>De volgende vraag gaat over het Glastonbury Festival in Engeland, waar de fysieke hygiëne van bezoekers werd gemeten op een schaal van 0 tot 4. Zie tabel 1 hieronder.</p>
+<p>Tabel 1: Beschrijvende statistieken van de fysieke hygiëne van bezoekers Glastonbury Festival.</p>
+<table class="tvcss_2 tvcss_3">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td class="tvcss_4">
+<strong><br /> </strong>
+</td>
+<td class="tvcss_5">
+<strong>Hygiene (Dag 1 van Glastonbury Festival)</strong><br />
+</td>
+<td class="tvcss_6">
+<strong>Hygiene (Dag 2 van Glastonbury Festival)</strong><br />
+</td>
+<td>
+<strong>Hygiene (Dag 3 van Glastonbury Festival)<br /> </strong>
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+<strong>N<br /> </strong>
+</td>
+<td class="tvcss_5">
+810<strong><br /> </strong>
+</td>
+<td class="tvcss_6">
+810<strong><br /> </strong>
+</td>
+<td>
+810
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_4">
+<strong>Missing<br /> </strong>
+</td>
+<td class="tvcss_5">
+0<strong><br /> </strong>
+</td>
+<td class="tvcss_6">
+0<strong><br /> </strong>
+</td>
+<td>
+0<strong><br /> </strong>
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+<strong>Mean<br /> </strong>
+</td>
+<td class="tvcss_5">
+1.77<strong><br /> </strong>
+</td>
+<td class="tvcss_6">
+0.96<strong><br /> </strong>
+</td>
+<td>
+0,98<strong><br /> </strong>
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_4">
+<strong>Median<br /> </strong>
+</td>
+<td class="tvcss_5">
+1.79<strong><br /> </strong>
+</td>
+<td class="tvcss_6">
+0.79<strong><br /> </strong>
+</td>
+<td>
+0,76<strong><br /> </strong>
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+<strong>Std. Afwijking<br /> </strong>
+</td>
+<td class="tvcss_5">
+0.69<strong><br /> </strong>
+</td>
+<td class="tvcss_6">
+0.72<strong><br /> </strong>
+</td>
+<td>
+0.71<strong><br /> </strong>
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_4">
+<strong>Percentiel 25<br /> </strong>
+</td>
+<td class="tvcss_5">
+1.31<strong><br /> </strong>
+</td>
+<td class="tvcss_6">
+0.41<strong><br /> </strong>
+</td>
+<td>
+0,44<strong><br /> </strong>
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+<strong><strong>Percentiel 50</strong><br /> </strong>
+</td>
+<td class="tvcss_5">
+1.79<strong><br /> </strong>
+</td>
+<td class="tvcss_6">
+0.79<strong><br /> </strong>
+</td>
+<td>
+0,76<strong><br /> </strong>
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_4">
+<strong><strong>Percentiel 75</strong><br /> </strong>
+</td>
+<td class="tvcss_5">
+2.23<strong><br /> </strong>
+</td>
+<td class="tvcss_6">
+1.35<strong><br /> </strong>
+</td>
+<td>
+1.55<strong><br /> </strong>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Stel dat een van de bezoekers een lichamelijke hygiënescore van 0,88 heeft op dag drie. Wat is zijn/haar gestandaardiseerde score (z-score)?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De formule is: z = (waarneming - gemiddelde) / standaardafwijking Dus z = (0,88 - 0,98) / 0,71 = -0,14</p>
+<p>Taal Engels</p>
+<p>Moeilijkheidsniveaus Gemiddeld</p>
+<p>M&amp;T BIS Standaardwaarde</p>
+<p>M&amp;T Beschrijvende statistiek Standaardwaarde</p>
+<p>M&amp;T Verdelingen Standaardwaarde</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+-0.28
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+-0.14
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+-3.38
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+-1.24
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+-4.01
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

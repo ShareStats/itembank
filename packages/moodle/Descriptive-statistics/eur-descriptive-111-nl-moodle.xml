@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-descriptive-111-nl-moodle/Descriptive statistics/Summary Statistics/Measures of Spread/Standard Deviation</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Descriptive-statistics_eur-descriptive-111-nl_eur-descriptive-111-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Op het examen van cursus 2.8 gaven 189 studenten een juist antwoord op de vraag “Wat is het populatiegemiddelde van het trekken van een kop van een munt?”. 71 studenten gaven een fout antwoord.</p>
+<p>Wat is de standaardafwijking van de gemiddelde score van een kop?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De standaardafwijking van het tekenen van een hoofd is <span class="math inline">\(\sqrt{.5 \times .5} = .5\)</span> (de vierkantswortel van de variantie nemen).</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.5</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

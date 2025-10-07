@@ -51,16 +51,6 @@ slopes’ veroorzaken?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Het effect van de covariaat verschilt significant tussen de verschillende experimentele groepen
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De variantie van de covariaat verschilt tussen de experimentele groepen
@@ -78,6 +68,16 @@ De residuen zijn niet normaal verdeeld
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Het effect van de covariaat verschilt significant tussen de verschillende experimentele groepen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

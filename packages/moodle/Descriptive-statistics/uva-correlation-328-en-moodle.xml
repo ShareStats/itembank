@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-correlation-328-en-moodle/Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-correlation-328-en_uva-correlation-328-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher is interested in the correlation between two normally normally distributed variables X and Y and to that end draws a random sample of 20 individuals from her target population. From this she calculates the following quantities. The value of the Pearson correlation coefficient is equal to</p>
+<p><img src="@@PLUGINFILE@@/uva-correlation-328-nl-graph01.png" /></p>
+</p>]]></text>
+<file name="uva-correlation-328-nl-graph01.png" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+-0.687
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.687: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+-0.335
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.335: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.0012
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.0012: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.687
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.687: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

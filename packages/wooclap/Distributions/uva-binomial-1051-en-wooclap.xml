@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-binomial-1051-en-wooclap/Distributions/Discrete/Binomial</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Distributions_uva-binomial-1051-en_uva-binomial-1051-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Five pure coins are thrown up at the same time. Set the chance variable <em>X</em> = the number of heads that come up. Then what is the probability of <em>X</em> ≥ 1? Round to four decimal places.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The correct answer is: 0.9688</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.9688</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

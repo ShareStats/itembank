@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-correlation-0132-nl-wooclap/descriptive statistics/summary statistics/bivariate statistics/correlation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-correlation-0132-nl_vufsw-correlation-0132-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Wat gebeurt er met de correlatie van twee variabelen (X en Y) als we beide variabelen standaardiseren (d.w.z. omzetten in z-scores)?</p>
+<p>De correlatiecoëfficiënt …</p>
+<h2 id="antwoordenlijst">Antwoordenlijst</h2>
+<ul>
+<li>Blijft precies hetzelfde.</li>
+<li>Zal precies 1,00 zijn.</li>
+<li>Precies 0,00 zal zijn</li>
+<li>Kan toenemen of afnemen, afhankelijk van of de relatie tussen X en Y positief of negatief is.</li>
+</ul>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+</question>
+
+</quiz>

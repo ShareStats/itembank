@@ -63,6 +63,16 @@ Bivariate linear regression</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+R<sup>2</sup> assumes values between -1 and 1.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 R<sup>2</sup> does <strong>not</strong> measure the strength of the relationship between X and Y.
 </p>]]></text>
 <feedback format="html">
@@ -88,16 +98,6 @@ R<sup>2</sup> measures the percentage of variance in Y that is explained by X.
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-R<sup>2</sup> assumes values between -1 and 1.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

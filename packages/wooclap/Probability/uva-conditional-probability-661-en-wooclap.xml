@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-conditional-probability-661-en-wooclap/Probability/Elementary Probability/Conditional probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-conditional-probability-661-en_uva-conditional-probability-661-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Flip two pure coins independently. We call the following two events <em>A</em> and <em>B</em>:）.<br />
+* <em>A</em> = <em>Coint on the first toss</em>.
+* <em>B</em> = <em>Both rolls give the same outcome</em>.  What then is the probability P(B)?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+P (B|A) = 0.125
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P (B|A) = 0.125: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+P (B|A) = 0.25
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P (B|A) = 0,25: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+P (B|A) = 0.50
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P (B|A) = 0.50: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+P (B|A) = 1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+P (B|A) = 1: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-testing-1125-nl-wooclap/inferential statistics/confidence intervals/testing</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-testing-1125-nl_vufsw-testing-1125-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoeker trekt een steekproef van 50 Nederlandse burgers en onderzoekt of het vertrouwen van Nederlanders in de politiek hoger is dan het Europese gemiddelde, waarvan we een betrouwbare populatiewaarde hebben op basis van eerdere studies.</p>
+<p>Het steekproefgemiddelde is 6,38 (op een schaal van 0-10) en de standaardafwijking is 1,55. Het Europese gemiddelde is 6,0. Test, met alfa = 0,05, of het vertrouwen van Nederlanders in de politiek hoger is dan het Europese gemiddelde. Wat is de conclusie?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Je kunt de H<sub>a</sub>-hypothese niet verwerpen, je kunt alleen de H<sub>0</sub> hypothese verwerpen.<br />
+Om hypothesetests uit te voeren, moet je je onderzoekshypothese uitdrukken als een nulhypothese en een alternatieve hypothese. De nul hypothese en alternatieve hypothese zijn stellingen over de verschillen of effecten die optreden in de populatie. Je zult je steekproef om te testen welke verklaring (de nulhypothese of alternatieve hypothese) het meest waarschijnlijk is (hoewel je technisch gezien het bewijs toetst tegen de nulhypothese). Je kunt de H<sub>0 </sub>hypothese verwerpen.</p>
+<p>De H<sub>0</sub>hypothese in dit voorbeeld stelt dat het gemiddelde vertrouwen van Nederlanders in de politiek 6,38 is. De H<sub>a</sub> hypothese is dat het gemiddelde hoger is dan 6,38.</p>
+<p>se=1,55/(wortel 50)=0,22<br />
+t= (6.38-6.00)/0.22=1.73<br />
+De t-kritische waarde (zie tabel) voor een éénstaartstoets (df=50) is 1,68. Er is dus voldoende bewijs om H<sub>0</sub> te verwerpen.<br />
+Als je meer wilt leren over hypothesetests, kijk dan naar deze <a href="https://www.youtube.com/watch?v=1xwNztgZ7Ho&amp;list=PLyLpEs0x9BnkUdochj7JEC-2javLshojj&amp;index=1">clip</a>.</p>
+<p>Als je meer wilt weten over de statistische test van het gemiddelde bekijk dit
+<a href="https://www.youtube.com/watch?v=9V6L3Zu3PP0&amp;index=3&amp;list=PLyLpEs0x9BnkUdochj7JEC-2javLshojj">clip</a>.</p>
+<p>Taal Nederlands</p>
+<p>Moeilijkheidsniveaus Moeilijk</p>
+<p>M&amp;T Hypothese testen: verhoudingen Standaardwaarde</p>
+<p>M&amp;T Multivariate analyse Standaardwaarde</p>
+<p>M&amp;T Multivariate Analyse CW Standaardwaarde</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Er is genoeg bewijs om H<sub>a.</sub> te verwerpen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Er is genoeg bewijs om H<sub>0</sub> te verwerpen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Er is <em>niet</em> genoeg bewijs om H<sub>0</sub> te verwerpen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Er is <em>niet</em> genoeg bewijs om H<sub>a.</sub> te verwerpen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

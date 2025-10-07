@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-factor-analysis-015-en-moodle/Factor analysis</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Factor-analysis_uu-factor-analysis-015-en_uu-factor-analysis-015-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In the study The Boundless Youth, a questionnaire was administered to a random sample of over 500 young people between the ages of 12 and 25. The following eight personality characteristics were operationalized: narcissism, materialism, social involvement, hedonism, self-centeredness, altruism, self-reliance, and last but not least, crazy-in-your-head.</p>
+<p>Over the test scores, the researchers plan to conduct an exploratory higher-order factor analysis (PAF) with orthogonal rotation. The researchers request a consultation with an expert in factor analysis. They submit the following two statements to the expert.</p>
+<p>I. The Eigenvalue of a factor is the percentage of variance in test scores explained by that factor. II. No correlation between factors (axes) is possible after orthogonal rotation.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I and II are correct
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Only I is correct
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Only II is correct
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I and II are incorrect
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

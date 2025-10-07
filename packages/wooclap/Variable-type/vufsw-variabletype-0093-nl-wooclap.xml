@@ -63,6 +63,16 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De onafhankelijke variabelen zijn de studenten (N=60) en de afhankelijke variabele is het effect van UREN op CIJFER.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 De onafhankelijke variabele is UREN en de afhankelijke variabele is CIJFER.
@@ -75,7 +85,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De onafhankelijke variabelen zijn de studenten (N=60) en de afhankelijke variabele is het effect van UREN op CIJFER.
+De onafhankelijke variabele is de constante en de afhankelijke variabele is de B-coëfficiënt (<em>slope</em>).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -86,16 +96,6 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De onafhankelijke variabele is 2,80 en de afhankelijke variabele is 0,30.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De onafhankelijke variabele is de constante en de afhankelijke variabele is de B-coëfficiënt (<em>slope</em>).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

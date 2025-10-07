@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Independent-samples-means-602-nl-moodle/Inferential Statistics/Parametric Techniques/t-test/Independent samples means</text>
+</category>
+</question>
+
+
+<question type="shortanswer">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Independent-samples-means-602-nl_uu-Independent-samples-means-602-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Acht mannen die zich aanmeldden voor de universiteit van Cambridge hadden een steekproefgemiddelde en variantie op College Board-tests van respectievelijk 1050 en 2500. De respectievelijke cijfers voor negen vrouwen waren 1075 en 3600. Test met een significantieniveau van .05 of vrouwen het op deze toetsen beter deden dan mannen. Gebruik de vijf stappen van hypothesetests.</p>
+<h2 id="antwoordenlijst">Antwoordenlijst</h2>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol style="list-style-type: decimal">
+<li><span class="math inline">\(H_0: \mu_f = \mu_m\)</span> en <span class="math inline">\(H_{A}: \mu_f &gt; \mu_m\)</span></li>
+<li><ol style="list-style-type: lower-alpha">
+<li><span class="math inline">\(S^2_{male} = 2500\)</span> : $S^2_{female} =3600 $</li>
+<li><span class="math inline">\(S^2_{pooled} = \frac {(8-1)2500 + (9-1)3600}{8+9-2} =3086.7\)</span></li>
+<li><span class="math inline">\(S^2_{m1} = \frac {3086.7}{8}= 385.8375;S^2_{m2} = \frac {3086.7}{9}= 342.9667\)</span></li>
+<li><span class="math inline">\(S^2_{difference}= S^2_{m1} + S^2_{m2} =728.8042\)</span></li>
+<li><span class="math inline">\(S^2_{difference}= \sqrt{728.8042} = 26.99637\)</span></li>
+</ol></li>
+<li><span class="math inline">\(\alpha=.05\)</span>, <span class="math inline">\(df_{Total} = 8+9-2=15\)</span>afsnijding <span class="math inline">\(=-1.753\)</span></li>
+<li><span class="math inline">\(t= \frac {1050-1075}{\sqrt {3086.7 (1/8 + 1/9)} } = -0.9261 \approx -0.93\)</span></li>
+<li>Weiger niet <span class="math inline">\(H_0\)</span>. De scores van vrouwen waren niet hoger dan die van mannen.</li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<usecase>0</usecase>
+<answer fraction="100" format="moodle_auto_format">
+<text>
+na
+</text>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-sample-space-732-en-moodle/Probability/Elementary Probability/Sample Space</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-sample-space-732-en_uva-sample-space-732-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>You work in a department of 21 people. In a box there are 21 envelopes. Twenty of them contain a 100 euro book voucher. The twenty-first envelope is empty. The twenty-one people go into a line. The first person in line receives a randomly selected envelope. For the second person, from the remaining envelopes one is randomly chosen, et cetera. Of course, you want to have the smallest possible chance of receiving the empty envelope.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+It’s best to get to the front of the line then.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+You’d best get to the front of the line then…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+It is best to go to the back of the queue.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+It’s best to go to the back of the line then…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+It is best to stand in the middle of the queue (i.e. eleventh place).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+It is best to stand in the middle of the queue (i.e. eleventh place): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+It makes no difference at all which place you stand.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+It doesn’t matter at all which place you stand…: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

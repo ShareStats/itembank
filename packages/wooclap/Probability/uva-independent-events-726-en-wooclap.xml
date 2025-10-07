@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-independent-events-726-en-wooclap/Probability/Elementary Probability/General Rules/Independent events</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-independent-events-726-en_uva-independent-events-726-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A Dutch couple is randomly chosen. Both the husband and wife will be asked the following question “Are you satisfied with your marriage? Each person answers with either”yes” or “no. A is the event that the man answers”yes. B is the event that the wife answers “yes. Care is taken to ensure that both spouses are not aware of the other’s answer. This is done by asking both persons the question at the same time in two different rooms.â  On substantive grounds</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+We can be virtually assured that A and B are independent events .
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+We can be virtually assured that A and B are independent events .:Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+We can be virtually assured that A and B are dependent events .
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+We can be virtually assured that A and B are dependent events .: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nothing can be said about whether A and B will be independent events or not .
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+There is nothing to be said about whether A and B will be independent events or not ..: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

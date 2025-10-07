@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-uniform-712-en-wooclap/Distributions/Continuous/Uniform</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-uniform-712-en_uva-uniform-712-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A generator of random numbers in a computer will spread its outcomes spread evenly over the entire interval from 0 to 1 when we make it generate a long series of numbers. We call this a so-called <em>uniform distribution</em>. A generator of random numbers produces a number <em>X</em> that lies in an interval between 0 and 0.4 or in an interval between 0.7 and 1, what is the probability of P(<em>X</em> ≤ 0.4 or <em>X</em> &gt; 0,7)?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,4: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,7
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,7: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,3
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.3: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1,1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1.1: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

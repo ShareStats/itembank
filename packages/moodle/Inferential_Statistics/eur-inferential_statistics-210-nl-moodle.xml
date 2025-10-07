@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-210-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Oneway repeated measures ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-210-nl_eur-inferential_statistics-210-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een psycholoog voert een onderzoek uit om het effect van rationele emotietherapie (RET) te testen. Hij neemt een aselecte steekproef van patiënten op, die wekelijkse therapiesessies ondergaan gedurende een periode van een jaar. De uitkomstvariabele is het niveau van ervaren angstklachten in de week voorafgaand aan elke meting. De uitkomstvariabele (het niveau van de ervaren klachten in de afgelopen week) wordt gemeten aan het begin van het jaar, na een jaar therapie en twee jaar na de laatste therapiesessie.</p>
+<p>Wat is de beste term om de opzet van deze studie te beschrijven?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Het correcte antwoord hier is within-subjects design. Factorial designs verwijzen naar designs met twee of meer onafhankelijke variabelen, terwijl we hier maar één onafhankelijke variabele hebben (tijd). Bovendien delen we mensen niet in verschillende groepen in, noch vergelijken we verschillende groepen mensen, wat betekent dat zowel een between-subjects design als een mixed-design niet passen.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Factorieel ontwerp
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onjuist
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tussen-onderwerp-ontwerp
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Gemengd ontwerp
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Ontwerp binnen de proefpersonen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

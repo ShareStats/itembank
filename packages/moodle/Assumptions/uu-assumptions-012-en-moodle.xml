@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-assumptions-012-en-moodle/Assumptions</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Assumptions_uu-assumptions-012-en_uu-assumptions-012-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Which of the following statements about multiple linear regression analysis is/are correct?</p>
+<p>I. Violating the assumption of homoscedasticity, some scores on an independent variable deviate significantly from the overall trend (outliers). II. Scatterplots can be used to assess by eye whether the assumption of linear relationships between variables is violated.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Theorem I is incorrect The assumption of homoscedasticity implies that the distribution of residuals per X value is equal. When this assumption is violated, the distribution of residuals is not the same for all scores on the independent variable.</p>
+<p>Theorem II is correct Using a scatterplot, we can judge by eye whether there is a linear relationship between X and Y.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Both are correct
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is correct, II is not correct
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+I is not correct, II is correct
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is not correct, II is not correct
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

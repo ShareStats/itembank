@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Test-for-correlation-800-en-wooclap/Inferential Statistics/Parametric Techniques/t-test/Test for correlation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Test-for-correlation-800-en_uu-Test-for-correlation-800-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A researcher administered questionnaires to 25 randomly selected employees of a company. The questionnaires measure feelings of worry, stress level, and other social-emotional aspects, among others. The researcher wants to test whether the correlation between worry and stress is significant among <span class="math inline">\(\alpha=.01\)</span> and wants a <span class="math inline">\(t\)</span>-test. TRUE is the minimum value of the correlation it must find so that the <span class="math inline">\(t\)</span>-test will yield significant results?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>When using a correlation table, we can look up the critical value. This involves a simple (Pearson) correlation, and a two-sided test. We should then look for at <span class="math inline">\(df=n-2=25-2=23\)</span> and at <span class="math inline">\(\alpha=.01\)</span>. The correct critical value is then: <span class="math inline">\(r=.505\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+.505
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+.487
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Zoekand at <span class="math inline">\(df=25\)</span> delivers: <span class="math inline">\(r=.487\)</span>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+.396
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Zoekand at <span class="math inline">\(\alpha=.05\)</span> delivers: <span class="math inline">\(r=.396\)</span>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+.462
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Eenzijdige waarde delivers: <span class="math inline">\(r=.462\)</span>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

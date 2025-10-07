@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-correlation-164-en-moodle/Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-correlation-164-en_uva-correlation-164-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Suppose the variables <em>x</em> and <em>y</em> are related by correlation <em>r</em>. If a value of <em>x</em> lies two standard deviations from its mean, then the predicted value for <em>y</em> lies <em>r</em> times the same number of standard deviations of <em>y</em>. This is an example of</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+‘multiple regression’
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+‘multiple regression’: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+‘regression toward the mean’
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+‘regression toward the mean’: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Simpson’s paradox
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+‘Simpson’s paradox’: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

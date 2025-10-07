@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-multiplication-rule-682-en-moodle/Probability/Elementary Probability/General Rules/Multiplication rule</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-multiplication-rule-682-en_uva-multiplication-rule-682-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Women make up an increasing proportion of start-up entrepreneurs, according to CBS, in 2009 35% of the total number of start-ups were female. Of them, 70% manage to set up a profitable business set up. About 60% of female startup entrepreneurs work without employees. We define these events<br />
+* <em>A</em> = {female startups}
+* <em>B</em> = {startups with a profitable business}
+* <em>C</em> = {starters without employees}.  Then what is the probability that a startup is a woman, has a profitable business and also works without staff?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,15
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.15: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,21
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.21: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,25
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.25: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,35
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.35: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,42
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.42: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

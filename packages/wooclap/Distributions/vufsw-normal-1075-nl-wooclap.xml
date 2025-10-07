@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-normal-1075-nl-wooclap/distributions/continuous/normal</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_vufsw-normal-1075-nl_vufsw-normal-1075-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoek naar de tijd die jongeren besteden aan sociale media (gemeten gemeten in minuten per dag) is uitgevoerd met behulp van een willekeurige steekproef (N=300). In deze steekproef is het gemiddelde gelijk aan 192 minuten per dag en de standaard afwijking 30 minuten per dag.</p>
+<p>De variabele in kwestie volgt een normale verdeling. Volgens de Empirische Regel, kunnen we zeggen dat ongeveer…</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Taal Engels</p>
+<p>Moeilijkheidsniveaus Gemiddeld</p>
+<p>M&amp;T BIS Standaardwaarde</p>
+<p>M&amp;T Beschrijvende statistiek Standaardwaarde</p>
+<p>M&amp;T Normale verdeling Standaardwaarde</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+95% van de waarnemingen ligt tussen 182 en 200.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+68% van de waarnemingen ligt tussen 188 en 196.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+95% van de waarnemingen ligt tussen 170 en 214.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+68% van de waarnemingen ligt tussen 162 en 222.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

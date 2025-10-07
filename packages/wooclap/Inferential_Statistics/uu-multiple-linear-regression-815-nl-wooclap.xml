@@ -38,9 +38,13 @@
 }
 </style>
 <p>
-<p>Een onderzoeker bij sociale wetenschappen fietst elke dag 20 kilometer naar haar werk. Ze meet een half jaar lang de tijd die ze erover doet om op haar werk te komen en merkt dat daar nogal wat variatie in zit. Ze denkt dat ze haar dagelijkse aankomsttijd kan voorspellen door de temperatuur in graden te meten, de windkracht te bepalen en de windrichting (mee of tegen) te bepalen. Welke analyse kiest de onderzoeker?</p>
+<p>Wat is de nulhypothese die wordt getest door de F-toets voor de algemene significantie van een meervoudig lineair regressiemodel?</p>
 </p>]]></text>
 </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
 <penalty>0</penalty>
 <defaultgrade>1</defaultgrade>
 <shuffleanswers>false</shuffleanswers>
@@ -48,23 +52,43 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-ANOVA voor herhaalde metingen
+H0:<span class="math inline">\(\beta\)</span> = 0
 </p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist.
+</p>]]></text>
+</feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-ANCOVA
+H0:b = 0
 </p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+H0:F = 0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist.
+</p>]]></text>
+</feedback>
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Multiple regressieanalyse met een dummy
+H0:$$2 = 0
 </p>]]></text>
-</answer>
-<answer fraction="0" format="html">
+<feedback format="html">
 <text><![CDATA[<p>
-Tweeweg ANOVA
+Dit antwoord is juist.
 </p>]]></text>
+</feedback>
 </answer>
 </question>
 

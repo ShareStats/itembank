@@ -38,34 +38,57 @@
 }
 </style>
 <p>
-<p>Een onderzoeker wil weten wat het effect is van het aantal uren VRIJE TIJD per week op het gevoel van GELUK van studenten (vragenlijst met schaal van 0-20). De onderzoeker heeft echter ook reden om te verwachten dat STUDIERESULTATEN (onvoldoende, voldoende) een invloed kan hebben op deze relatie.</p>
-<p>Op welke manier kan de onderzoeker het beste analyseren of de relatie tussen aantal vrije uren per week en geluksgevoel gemodereerd wordt door studieresultaten?</p>
+<p>In een steekproef van UCU-studenten wilt u onderzoeken of het persoonlijkheidskenmerk “extraversie” het aantal off-campus vrienden van een student voorspelt. U vreest echter dat uw resultaten beïnvloed kunnen worden door het feit dat Nederlandse studenten gemiddeld meer off-campus vrienden hebben dan internationale studenten. Hoe kun je dit probleem het beste aanpakken?</p>
 </p>]]></text>
 </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
 <penalty>0</penalty>
 <defaultgrade>1</defaultgrade>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Multipele regressieanalyse met als predictoren VRIJE TIJD, STUDIERESULTATEN en de interactieterm STUDIERESULTATEN×GELUK.
-</p>]]></text>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Multipele regressieanalyse met als predictoren VRIJE TIJD, STUDIERESULTATEN en de interactieterm STUDIERESULTATEN×VRIJE TIJD.
+Gebruik meervoudige regressie, controleer voor de etniciteit van een student (Internationaal vs Nederlands)
 </p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is juist.
+</p>]]></text>
+</feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Hiërarchische regressieanalyse waar in model 1 GELUK wordt opgenomen als predictor en in model 2 STUDIERESULTATEN als predictor wordt toegevoegd.
+Gebruik multiple regressie, controleer voor het aantal vrienden dat een student heeft
 </p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist.
+</p>]]></text>
+</feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Hiërarchische regressieanalyse waar in model 1 VRIJE TIJD wordt opgenomen als predictor en in model 2 STUDIERESULTATEN als predictor.
+Gebruik multiple regressie, inclusief een interactie tussen de etniciteit van een student (Internationaal vs Nederlands) en het aantal vrienden.
 </p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De steekproeven zijn niet vergelijkbaar; voer aparte analyses uit voor Nederlandse en internationale studenten.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist.
+</p>]]></text>
+</feedback>
 </answer>
 </question>
 

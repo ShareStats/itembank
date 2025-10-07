@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-mode-469-en-wooclap/Descriptive statistics/Summary Statistics/Measures of Location/Mode</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-mode-469-en_uva-mode-469-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The table below plots the church affiliation of a sample of 1,000 individuals plotted.</p>
+<p>——————— —— ——————— ———— Church affiliation Code Absolute frequency Percentage None 0 372 37 Roman Catholic 1 337 34 Dutch reformed 2 169 17 Reformed 3 80 8 Other 4 52 5 ——————— —— ——————— ————</p>
+<p>What center dimensions are/is meaningful to calculate here?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Mean, mode and median
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Mean, mode and median: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Mode and median
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Mode and median: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Median only
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Only median: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Mode only
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Only mode: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

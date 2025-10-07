@@ -101,7 +101,7 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The alpha
+None of the above answers.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -109,19 +109,9 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-The <em>t</em>-value.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-None of the above answers.
+The alpha
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -136,6 +126,16 @@ The <em>t</em>-value and the alpha
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The <em>t</em>-value.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

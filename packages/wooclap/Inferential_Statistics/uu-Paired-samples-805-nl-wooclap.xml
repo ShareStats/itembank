@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Paired-samples-805-nl-wooclap/Inferential Statistics/Parametric Techniques/t-test/Paired samples</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Paired-samples-805-nl_uu-Paired-samples-805-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een brillenfabrikant wil graag weten of mensen een computerscherm sneller kunnen lezen met een bril met speciaal gecoate glazen dan met een bril met gewone (ongecoate) glazen. Twintig mensen wordt gevraagd 15 minuten lang een computerscherm te lezen met gecoate brillenglazen; op een andere dag wordt dezelfde 20 mensen gevraagd 15 minuten lang een computerscherm te lezen met brillenglazen zonder coating. Het aantal pagina’s dat elke deelnemer in elke conditie heeft gelezen, werd verzameld.</p>
+<p>Welke statistische test moet de onderzoeker gebruiken?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+T Test voor onafhankelijke gemiddelden
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+T Test voor een enkele steekproef
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+T Test voor afhankelijke gemiddelden
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Chi-kwadraat toets voor onafhankelijkheid
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

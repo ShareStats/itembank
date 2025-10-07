@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-random-variables-341-en-moodle/Probability/Elementary Probability/Random variables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-random-variables-341-en_uva-random-variables-341-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>It was determined of 200 people whether they were left- or right-handed, and how well they are artistically developed (good, moderate, poor). The results are shown in the cross tabulation below.</p>
+<p>————– ————————- ——- ——– Artistic development Good Moderate Poor Right-handed 42 72 56 Left-handed 18 8 4 ————– ————————- ——- ——–</p>
+<p>What is P(Right-handed moderately developed)?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.36
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.36: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.42
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.42: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.89
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.89: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.9
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.9: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-reliability-117-nl-moodle/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Reliability_eur-reliability-117-nl_eur-reliability-117-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een psychometrist die bij CITO werkt, wil de criteriumvaliditeit van een dyslexietest evalueren. De betrouwbaarheid van de test <span class="math inline">\(R_{xx}\)</span> is al onderzocht en bleek .70 te zijn. De maatstaf is het oordeel van een schoolpsycholoog dat behoorlijk, hoewel niet perfect, betrouwbaar is: $R_{yy} = $ .80. De waargenomen correlatie tussen de test en het criterium bleek .6 te zijn. De psychometrist twijfelt of ze de aangepaste correlatie moet berekenen en welke variabele ze moet aanpassen; de test, het criterium of beide.</p>
+<p>Bereken de aangepaste correlatie door te corrigeren voor de test, het criterium of beide. Wat zou de correlatie zijn als één (of beide) van deze elementen perfect betrouwbaar zou zijn? Schrijf het antwoord op (3 decimalen).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p><span class="math inline">\(r_{xy-adjusted} = \frac{.6}{\sqrt{.8}} = .671\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.671</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-descriptive-statistics-435-en-wooclap/Descriptive statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-descriptive-statistics-435-en_uva-descriptive-statistics-435-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The length of time it took for a number of doctoral students to complete their doctoral research was determined. The results are shown in the following table:</p>
+<p>————————— — —- —- —- — — Duration of doctoral research 3 4 5 6 7 8 Number (<strong>in percent</strong>) 2 24 42 22 8 2 ————————— — —- —- —- — —</p>
+<p>When given that 37 doctoral students took longer than 4 years to complete years, how many people in total were in this study?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+100
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+100: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+50
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+50: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+74
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+74: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Not to be determined
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Undeterminable: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

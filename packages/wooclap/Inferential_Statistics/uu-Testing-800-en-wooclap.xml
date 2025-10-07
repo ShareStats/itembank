@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Testing-800-en-wooclap/Inferential Statistics/Confidence Intervals/Testing</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Testing-800-en_uu-Testing-800-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In a study of reading speed of nine children, a pretest is taken noting the time it takes the child to read a given piece of text; after a period of reading instruction, a parallel test is taken. The mean reading time on the pretest is 63 seconds, the mean reading time on the ntest is 58 seconds, and the standard deviation (standard deviation) of the difference scores is 6. Using a confidence interval, test whether the mean reading time on the follow-up test differs from the mean reading time on the pretest (<span class="math inline">\(\alpha = .01\)</span>). What is the conclusion?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The result is significant, because the confidence interval includes 0.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The result is not significant because the confidence interval does not include 0.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The result is significant because the confidence interval does not include 0.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The result is not significant because the confidence interval includes 0.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

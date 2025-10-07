@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-squared-1454-en-wooclap/Inferential Statistics/NHST/Test statistic/Chi-squared</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-squared-1454-en_uva-squared-1454-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Given is the following frequency table.</p>
+<p>——- ———– ————- Sports car Family car Male 44 0 Woman 4 48 ——- ———– ————-</p>
+<p>What is the expected cell frequency of a Man with Sports Car under the assumption of independence from the null hypothesis?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+22
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+22: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+24
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+24: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+26
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+26: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

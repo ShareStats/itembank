@@ -61,7 +61,7 @@ Standaardwaarde</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-has always one between-subjects variable and at least one within-subjects variable.
+has at least two within-subjects variables and no between-subjects variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -71,7 +71,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-has at least two within-subjects variables and no between-subjects variable
+has at least two between-subjects variables and no within-subjects variable
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -91,7 +91,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-has at least two between-subjects variables and no within-subjects variable
+has always one between-subjects variable and at least one within-subjects variable.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

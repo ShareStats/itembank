@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Twoway-ANOVA-867-en-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Twoway-ANOVA-867-en_uu-Twoway-ANOVA-867-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A 2006 study was conducted on feelings of regret regarding relationships and differences in those feelings between men and women. The experimental group consisted of 40 women and 29 men, mean age 19 years (sd = 1.18). Each participant completed a questionnaire according to the following instructions:</p>
+<p>Looking back on your relationship is there anything you really regret a lot? Something you wish you had done differently. TRUE something you would have liked to do or not done.</p>
+<p>Teun and Gijs have to do a little research for their statistics course. After reading an article about the research on regrets, they did a similar research themselves. Together they made a list of potentially embarrassing or uncomfortable situations that occur in relationships (answering the question “Am I too fat?” with “Yes,” going to the sauna together, etc.). Forty fellow students are asked to participate in this study: 20 female students and 20 male students. They are asked to indicate how much they regret the situations described (TRUE where 0 means “no regret” and 10 means “very much regret”). Half of the women and half of the men are asked to answer the questions about a romantic relationship (a steady boyfriend or girlfriend), and the other half are asked to do so about a friendly relationship (a close friend or girlfriend).</p>
+<p>In the original 2006 survey, the main effect for gender was significant (p =.01). What conclusions can Gijs and Teun draw from the original survey?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+They now know the probability that H0 is possibly TRUE (p = .01).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+They know that H1 is proven; there is a sex difference for the things a person feels regret about within relationships.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+They now know that repeating the experiment will find another significant result in 99% of cases.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is incorrect.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+None of the above statements is correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is correct.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-equation-1937-en-wooclap/Inferential Statistics/Regression/Equation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-equation-1937-en_uva-equation-1937-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>We have a regression equation <span class="math inline">\(\hat{y} = 4 + 3x_{1} + 10x_{2} + 6x_{3}\)</span> We check for <em>x</em><sub>2</sub> and <em>x</em><sub>3</sub>. What is the decrease in predicted <em>y</em> if we go from 9 to 0 for <em>x</em><sub>1</sub>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+9: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+27
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+27: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+54
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+54: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

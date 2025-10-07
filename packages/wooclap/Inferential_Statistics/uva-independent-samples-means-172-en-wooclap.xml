@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-independent-samples-means-172-en-wooclap/Inferential Statistics/Parametric Techniques/t-test/Independent samples means</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-independent-samples-means-172-en_uva-independent-samples-means-172-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In a study of juvenile delinquency in the United States within the African-American population, a random sample is drawn of 56 subjects from the group of youth with single mothers and of 52 subjects from the group of youth with both biological parents. Delinquency is measured by four dichotomous (binary) questions: (i) have you been in contact with the police, (ii) have you ever been arrested been, (iii) have you ever been arraigned in court, and (iv) have you been been in jail. Each subject’s score was the number of questions to which yes answers had been given. The mean score was 1.2 with standard deviation 1.5 for adolescents with single mothers, and a mean of 2.7 and standard deviation 1.5 for youth from a family with both biological parents. The researchers are interested in whether the population mean of youth from single mothers is different from that of youth with both biological parents. The researchers assume that the standard deviation is the same in both populations and arrive at <em>standard error</em> 0.538 for the difference in means and degrees of freedom 100. The null hypothesis that the two population averages are equal can be</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Not be rejected at 0.001 but can be rejected at 0.002.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Not be rejected at 0.001 but be rejected at 0.002: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Not be rejected at 0.002 but be rejected at 0.010.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Not be rejected at 0.002 but be rejected at 0.010…: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Not be rejected at 0.010 but be rejected at 0.025.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Not be rejected at 0.010 but be rejected at 0.025…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

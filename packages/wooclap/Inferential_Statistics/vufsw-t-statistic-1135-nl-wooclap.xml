@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-t-statistic-1135-nl-wooclap/inferential statistics/nhst/rest statistic/t-statistic</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-t-statistic-1135-nl_vufsw-t-statistic-1135-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoeker nam een willekeurige steekproef van 50 mannen en 52 vrouwen en en vroeg onder andere naar het aantal uren dat de respondenten per week op internet internet per week. De nulhypothese H<sub>0</sub> is dat er geen verschil is tussen mannen en vrouwen. geen verschil is tussen mannen en vrouwen; de alternatieve hypothese H<sub>a</sub> van de onderzoeker is dat het gemiddelde aantal uren per week wel verschilt tussen mannen en vrouwen. Dit wordt getest met alpha = 0.01. Hieronder staat (een deel van) de resultaten.</p>
+<tabel>
+<tbody>
+<tr class="odd">
+<td>
+gemiddeld verschil
+</td>
+<td>
+standaardafwijking van het gemiddelde verschil
+</td>
+<td>
+Vrijheidsgraden
+</td>
+</tr>
+<tr class="even">
+<td>
+0,535
+</td>
+<td>
+0,954
+</td>
+<td>
+100
+</td>
+</tr>
+</tbody>
+</table>
+<p>Stel dat het gemiddelde aantal uren onder de mannen in de steekproef veel hoger zou zijn geweest. Welke grootheid (of grootheden) verandert (veranderen) als gevolg van het hogere gemiddelde van de mannen?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De alfa is een hoeveelheid die je zelf bepaalt voor het testen. De <em>t</em> waarde kan worden berekend met het gemiddelde verschil gedeeld door de standaardfout. Als het gemiddelde van de mannen hoger is, zal het gemiddelde verschil ook hoger zijn, dus de <em>t</em> waarde ook hoger.</p>
+<p>Als je meer wilt weten over het berekenen van t-tests, kijk dan hier
+<a href="https://www.youtube.com/watch?v=A1lLo-np0KU&amp;index=6&amp;list=PLyLpEs0x9Bnl2e68nd7M6lecUqUNu2Sgn">clip</a></p>
+<p>Taal Nederlands</p>
+<p>Moeilijkheidsniveaus Gemiddeld</p>
+<p>M&amp;T BIS Standaardwaarde</p>
+<p>M&amp;T Hypothesetest: gemiddelden Standaardwaarde</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De <em>t</em>-waarde.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De <em>t</em>-waarde en de alpha
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Geen van bovenstaande antwoorden.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De alfa
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -64,13 +64,13 @@ regressie-analyse of voor het uitvoeren van een Chi-kwadraattoets
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Een enkelvoudige regressie-analyse, want je kunt hiermee niet alleen de statistische significantie van het verband toetsen, maar ook de praktische significantie nagaan.
+Een Chi-kwadraattoets, want de variabele stemvoorkeur is een categorische variabele met meerdere categorieën zonder rangordening.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -84,19 +84,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Een Chi-kwadraattoets, want de variabele stemvoorkeur is een categorische variabele met meerdere categorieën zonder rangordening.
+Een Chi-kwadraattoets, want we moeten in dit geval de <em>confounding</em> (‘verstorende’) variabelen juist wel constant houden.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Een Chi-kwadraattoets, want we moeten in dit geval de <em>confounding</em> (‘verstorende’) variabelen juist wel constant houden.
+Een enkelvoudige regressie-analyse, want je kunt hiermee niet alleen de statistische significantie van het verband toetsen, maar ook de praktische significantie nagaan.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

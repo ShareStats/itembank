@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-uniform-1318-en-moodle/Distributions/Continuous/Uniform</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-uniform-1318-en_uva-uniform-1318-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Suppose the continuous stochastic variable X is: any value between 0 and 2. The density curve of X is shown below._____________. What is the probability that X is less than 1?</p>
+<p><img src="@@PLUGINFILE@@/uva-uniform-1318-en-graph01.png" /></p>
+</p>]]></text>
+<file name="uva-uniform-1318-en-graph01.png" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.1: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.5: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

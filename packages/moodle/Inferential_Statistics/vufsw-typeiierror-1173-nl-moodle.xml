@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-typeiierror-1173-nl-moodle/inferential statistics/nhst/statistical errors/type II error</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-typeiierror-1173-nl_vufsw-typeiierror-1173-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoeker is geïnteresseerd in het verschil in studieresultaten tussen studenten die optimistisch zijn versus studenten die pessimistisch zijn. Stel dat de onderzoeker <strong>geen</strong> significant verschil vindt tussen de twee groepen studenten, terwijl er in de populatie wel een verschil bestaat. wel bestaat.</p>
+<p>Wat is er aan de hand?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Er is een type II-fout gemaakt.<br />
+Bij statistische hypothesetests is een type I-fout de verwerping van een ware nulhypothese (ook bekend als een “fout-positieve” bevinding), terwijl een type II-fout het niet verwerpen van een valse nulhypothese is (ook bekend als een “fout-negatieve” bevinding). ook wel een “fout-negatieve” bevinding genoemd).<br />
+Eenvoudiger gezegd, een type I fout is ten onrechte het bestaan van iets afleiden dat er niet is, terwijl een type II fout het niet verwerpen van een valse nulhypothese is. iets dat er niet is, terwijl een type II-fout het ten onrechte afleiden is van de afwezigheid van iets dat er wel is.</p>
+<p>M&amp;T Basisprincipes van kwantitatief onderzoek Grondbeginselen van kwantitatief onderzoek</p>
+<p>M&amp;T Hypothesetest: gemiddelden Standaardwaarde</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De nulhypothese is terecht verworpen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Er is een Type I fout gemaakt.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De nulhypothese is terecht aangenomen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Er is een Type II fout gemaakt.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

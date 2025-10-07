@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-events-999-en-moodle/Probability/Elementary Probability/Events</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-events-999-en_uva-events-999-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Roll a pure die once. We define the events <em>A</em> and <em>B</em> as follows:______________.<br />
+* <em>A</em>: the number of eyes is greater than 4,‖.
+* <em>B</em>: the number of eyes is divisible by three.  What then is the union of <em>A</em> and <em>B</em>, or <em>A</em> ∪ <em>B</em>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A ∪ B = {6}
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A ∪ B = {6}: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A ∪ B = {5,6}
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A ∪ B = {5,6}: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+A ∪ B = {3,5,6}
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A ∪ B = {3,5,6}: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A ∪ B = {1,2,3,4,5,6}
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A ∪ B = {1,2,3,4,5,6}: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

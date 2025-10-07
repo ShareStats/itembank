@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-reliability-114-nl-moodle/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Reliability_eur-reliability-114-nl_eur-reliability-114-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>De “Drie Minuten Test” (TMT) is een test om het technisch leesniveau te beoordelen. Kinderen moeten gedurende drie minuten zo veel mogelijk woorden nauwkeurig lezen. Een leerkracht uit groep 5 wil de toets, die gemaakt is voor kinderen uit groep 2, gebruiken om de leesvaardigheid van haar kinderen uit groep 5 te beoordelen. Cronbach’s alpha gebaseerd op de groep 2 is .88 en de stenaarddeviatie van de toetsscores in groep 2 is 3.</p>
+<p>De stenaardafwijking van de waargenomen scores in groep 5 bleek 2,5 te zijn. Bereken de betrouwbaarheid van de TMT in klas 5 en neem aan dat de foutvariantie gelijk is voor de populaties van klas 2 en klas 5. Gebruik de volgende formule. Gebruik de volgende formule, maar houd er rekening mee dat je de formule misschien op de een of enere manier moet aanpassen:</p>
+<p><span class="math inline">\(r_{xx} = \frac{S^2_{X_t}}{S^2_{X_o}}\)</span></p>
+<p>En</p>
+<p><span class="math inline">\(S^2_{X_o}= S^2_{X_t} + S^2_{X_e}\)</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>We kunnen de foutvariantie berekenen met behulp van: <span class="math inline">\(r_{xx} = \frac{S^2_{X_t}}{S^2_{X_o}} = \frac{S^2_{X_0}-S^2_{X_t}}{S^2_{X_o}}\)</span>We kunnen de betrouwbaarheid (.88) en de variantie (3^2) van de scores van klas 2 invullen: <span class="math inline">\(.88 = \frac{9-S^2_{X_t}}{9}\)</span>. Dan is de variantie van de fout: <span class="math inline">\(.88 \times 9 - 9 = - s^2_{x_e}\)</span>dus <span class="math inline">\(s^2_{x_e} = 1.08\)</span> en <span class="math inline">\(s_{x_e} = 1.04\)</span>. We kunnen deze foutvariantie gebruiken om de betrouwbaarheid in klas 5 te berekenen:<span class="math inline">\(r_{xx} = \frac{S^2_{X_t}}{S^2_{X_o}} = \frac{2.5^2-1.08}{2.5^2} = \frac{5.17}{6.25}\)</span> = .827.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.827</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

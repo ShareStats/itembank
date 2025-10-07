@@ -68,21 +68,11 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-We are going to make a Type II error. The chance of this error is always unknown.
+We are going to make a Type I error. The chance of this error is always unkown.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-We are going to make a Type I error. The probability of this error is 5%
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>
@@ -98,11 +88,21 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-We are going to make a Type I error. The chance of this error is always unkown.
+We are going to make a Type II error. The chance of this error is always unknown.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+We are going to make a Type I error. The probability of this error is 5%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

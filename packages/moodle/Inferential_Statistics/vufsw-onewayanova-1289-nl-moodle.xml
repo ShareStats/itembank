@@ -67,7 +67,7 @@ tussen kledingstijl en de toegeschreven ‘academic performance’?</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Nee, er is in dit onderzoek niet gecontroleerd voor mogelijke confounding variabelen
+Nee, er is in dit onderzoek niet gecontroleerd voor mogelijke confounding en mediating variabelen
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -85,16 +85,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nee, er is in dit onderzoek niet gecontroleerd voor mogelijke confounding en mediating variabelen
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Ja, de resultaten kunnen in dit onderzoek causaal geïnterpreteerd worden
@@ -102,6 +92,16 @@ Ja, de resultaten kunnen in dit onderzoek causaal geïnterpreteerd worden
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nee, er is in dit onderzoek niet gecontroleerd voor mogelijke confounding variabelen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

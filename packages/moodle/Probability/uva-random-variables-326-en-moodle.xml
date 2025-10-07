@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-random-variables-326-en-moodle/Probability/Elementary Probability/Random variables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-random-variables-326-en_uva-random-variables-326-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A sample of 200 people are asked for a prediction of the outcome of the European Cup soccer match Netherlands-Germany (win for the Netherlands, draw, loss for the Netherlands). The gender gender of the respondent is also noted. The results are shown in cross tabulation below:</p>
+<p>——- ——- ———— ——— —– Win Draw Draw Loss Male 40 30 50 120 Woman 40 10 30 80 80 40 80 200 ——- ——- ———— ——— —–</p>
+<p>In this sample were 120 men and 80 women; 80 of them predicted a win for the Dutch national team, 40 a draw and 80 loss. If gender and prediction were independent, how many men predicting a win would you expect based on these numbers?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+24
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+24:Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+40
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+40: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+48
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+48: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+60
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+60: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

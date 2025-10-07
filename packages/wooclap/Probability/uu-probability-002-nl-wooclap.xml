@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-probability-002-nl-wooclap/Probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uu-probability-002-nl_uu-probability-002-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Je voert een onderzoek uit in een ziekenhuis met 300 verpleegkundigen, 50 technische medewerkers en 150 artsen. Elk van deze 500 personen heeft één vermelding in de telefoongids van het ziekenhuis. Stel dat je het telefoonboek opensnijdt en er willekeurig één uit haalt om contact mee op te nemen. Hoe groot is de kans dat het een technisch personeelslid is?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(1\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist. Niet alle lijsten zijn van technisch personeel.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(0.01\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(0.10\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is juist. <span class="math inline">\(P(T)=\frac{50}{500}=0.10\)</span>.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(10\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist. Een kans kan niet groter zijn dan 1.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

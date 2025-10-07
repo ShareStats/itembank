@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-212-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-212-nl_eur-inferential_statistics-212-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoeker wil nagaan of het aantal eenheden alcoholische drank per gelegenheid een negatieve invloed heeft op het aantal maanden dat een student nodig heeft om zijn masterdiploma in psychologie te behalen, wanneer hij controleert voor intelligentie (IQ).</p>
+<p>Hij vraagt een willekeurige steekproef (N = 100) van pas afgestudeerde psychologen naar hun alcoholgebruik tijdens hun masteropleiding. Op basis van deze informatie deelt hij de proefpersonen in als niet-drinkers, matige drinkers of zware drinkers. Bovendien werd voor elke proefpersoon de duur van de studie en het IQ bepaald.</p>
+<p>Welk type data-analyse is in theorie het meest geschikt voor bovenstaand onderzoek?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Het juiste antwoord is ANCOVA. Je gebruikt een ANCOVA als je wilt kijken naar het effect van een categorische onafhankelijke variabele (type drinker) op een continue afhankelijke variabele (alcoholgebruik), terwijl je controleert voor een andere continue variabele/covariaat (intelligentie) die covarieert met de afhankelijke variabele. Daarom is dit de meest geschikte analyse voor dit onderzoek.</p>
+<p>Tweeweg factorial anova is onjuist, omdat er maar één onafhankelijke variabele is (type drinker). De onderzoeker wil alleen controleren voor IQ.</p>
+<p>Aangezien deze studie groepen vergelijkt, zijn zowel drieweg gemengde ANOVA als herhaalde maatregelen ANOVA niet zinvol, omdat ze ook een vorm van een intra-subjects element vereisen.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Tweezijdige factoriële ANOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onjuist
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Thee-weg gemengde ANOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onjuist
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+ANCOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Herhaalde maatregelen ANOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-mediation-024-en-wooclap/Inferential Statistics/Regression/Multiple linear regression/Mediation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-mediation-024-en_vufgb-mediation-024-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The table below shows some of the results of a mediation model. Calculate the standard error (<span class="math inline">\(SE_{ab}\)</span>) that accompanies the Sobel test for mediation.</p>
+<p><img src="@@PLUGINFILE@@/vufgb-mediation-024-nl-table01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-mediation-024-nl-table01.jpg" encoding="base64">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QNxyr127pnzE8BwMODEYoujPLddMMFx78Xsh+lWrVpWoqCh9lK69bsWR4PrDs6Xw7NkzlUCGUykhiY1dt9z379+romHkyJHKCgdiB0FDRQkgklZuuWaC4doLa3Q8B6aQZsscf++Drr3uIkEE1zCS3LNnjz5CSOJi1y1327ZtkipVKmUhZYDbeUxcecPTLddMMFx7AWx+unTpojYW9wVde91N0FoKZsFFNYAEgkEeIaHCKk/tuuXCHBWuvebnwyAVHmTe8HTLNROoa+/r16+VY6+Z6OhotRrB16oGuva6A0cthfgIbvfu3eXt27dqNhWzqlh3SEgoscpTu265EDv0b8eNG6fmIm7fvq16sYMGDfLrlutJoK69MInEcjBMimHiDs7YrVq1il2VQNde9+JIcP2BvtHcuXPVukU077FYHH1cQtwEbt1xO+/PLdcAwoVJJ6yhRT93+PDhSvj8ueV6EqhrL7hw4YJaLZExY0YlvhBuYx0uXXuTHkERXEKINXTtJSAoLQVC3ICb85SuvZGFo5YCBZckBdyep74muhKKUP8+8hdHgksIIcQ5FFxCCAkR8RJcrKnl4ODg4Ij/8AYrXEIICREUXEIICREUXEIICREUXEIICREUXEIICQki/wNEhwm2/x3p3QAAAABJRU5ErkJggg==</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.25
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.30
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.31
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.40
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

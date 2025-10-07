@@ -9,7 +9,7 @@
 </question>
 
 
-<question type="multichoice">
+<question type="shortanswer">
 <name>
 <text> Q1 : Inferential_Statistics_uu-Hypothesis-800-nl_uu-Hypothesis-800-nl </text>
 </name>
@@ -38,33 +38,26 @@
 }
 </style>
 <p>
-<p>Welke conclusie mag je trekken als uit een hypothesetest blijkt dat het effect van een interventie statistisch significant is?</p>
+<p>Een eenvoudige aselecte steekproef van 100 postmedewerkers wordt gebruikt om te testen of de gemiddelde tijd dat postmedewerkers voor de post hebben gewerkt is veranderd ten opzichte van de waarde van 7,5 jaar die 20 jaar geleden werd geregistreerd. Het gemiddelde van de steekproef was M = 7 jaar met een standaardafwijking van SD = 2 jaar. Neem aan dat de verdeling van de tijd dat de werknemers voor de post hebben gewerkt ongeveer normaal is. Gebruik de 5 stappen van het hypothesetestproces om bovenstaande vraag te beantwoorden. Zorg ervoor dat je de antwoorden op alle 5 stappen duidelijk aangeeft.</p>
 </p>]]></text>
 </questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Stap 1 (1 punt) Twee populaties: postmedewerkers dit jaar en postmedewerkers 20 jaar geleden.
+<span class="math inline">\(H_{0}\)</span>: <span class="math inline">\(\mu\)</span> = 7.5 <span class="math inline">\(H_{R}\)</span>: <span class="math inline">\(\mu\)</span> <span class="math inline">\(\neq\)</span> 7.5</p>
+<p>Stap 2 (0,5 punten) De vergelijkingsverdeling is een t-verdeling. Het aantal vrijheidsgraden is 99. SM = 2 / <span class="math inline">\(\sqrt{100}\)</span> = 0.2</p>
+<p>Stap 3 (0,5 punten) Kritische t-waarde (df = 99; <span class="math inline">\(\alpha\)</span> = .10) is ±1,660 (opgezocht bij df =100) Kritische t-waarde (df = 99; <span class="math inline">\(\alpha\)</span> = .05) is ±1,984 (opgezocht bij df =100) Kritische t-waarde (df = 99; <span class="math inline">\(\alpha\)</span> = .01) is ±2,626 (opgezocht bij df =100)</p>
+<p>Stap 4 (1 punt) Steekproef t-waarde is (7-7,5) / 0,2 = -2,5</p>
+<p>Stap 5 (1 punt) Voor <span class="math inline">\(\alpha\)</span> = .01, moet je de nulhypothese niet verwerpen. Dit betekent dat de gemiddelde tijd dat postmedewerkers voor de post werken niet is veranderd. Voor <span class="math inline">\(\alpha\)</span> = .05 en = .10 moet je de nulhypothese verwerpen. Dit betekent dat de gemiddelde tijd dat postmedewerkers bij de post werken is veranderd</p>
+</p>]]></text>
+</generalfeedback>
 <penalty>0</penalty>
 <defaultgrade>1</defaultgrade>
-<shuffleanswers>false</shuffleanswers>
-<single>true</single>
-<answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De interventie heeft effect.
-</p>]]></text>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De interventie heeft met 95% zekerheid effect.
-</p>]]></text>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Het is onwaarschijnlijk dat de interventie geen effect heeft.
-</p>]]></text>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Antwoorden a, b en c zijn correct.
-</p>]]></text>
+<usecase>0</usecase>
+<answer fraction="100" format="moodle_auto_format">
+<text>
+NA
+</text>
 </answer>
 </question>
 

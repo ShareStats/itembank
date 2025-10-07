@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-209-nl-moodle/Inferential Statistics/Effect size/Cohen's d, Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-209-nl_eur-inferential_statistics-209-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een experiment van een promovendus heeft een betrouwbaarheid van .64 en een ware score effectgrootte van .8. Bereken de verwachte effectgrootte met de formule: <span class="math inline">\(d_{Xo} = d_{Xt} \times \sqrt{r_{xx}}\)</span>. Rond af op 2 decimalen.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Gegeven de bovenstaande formule, de ware score effectgrootte (.8) en de betrouwbaarheid (.64), is de verwachte effectgrootte <span class="math inline">\(d_{Xo} = .8 \sqrt{.64} = .64\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.64</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

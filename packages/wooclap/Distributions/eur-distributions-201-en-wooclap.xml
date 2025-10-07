@@ -53,17 +53,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-To be able to calculate percentile scores.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-To create norm groups.
+To compare testscores with respect to the mean.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -83,7 +73,17 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-To compare testscores with respect to the mean.
+To create norm groups.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+To be able to calculate percentile scores.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

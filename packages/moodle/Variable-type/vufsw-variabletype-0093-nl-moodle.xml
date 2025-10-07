@@ -65,6 +65,16 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+De onafhankelijke variabele is de constante en de afhankelijke variabele is de B-coëfficiënt (<em>slope</em>).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 De onafhankelijke variabele is 2,80 en de afhankelijke variabele is 0,30.
 </p>]]></text>
 <feedback format="html">
@@ -80,16 +90,6 @@ De onafhankelijke variabele is UREN en de afhankelijke variabele is CIJFER.
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De onafhankelijke variabele is de constante en de afhankelijke variabele is de B-coëfficiënt (<em>slope</em>).
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

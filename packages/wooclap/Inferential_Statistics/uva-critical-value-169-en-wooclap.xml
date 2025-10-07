@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-critical-value-169-en-wooclap/Inferential Statistics/NHST/Significance level/Critical value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-critical-value-169-en_uva-critical-value-169-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>When the null hypothesis at a significance level of 0.05 can be rejected, is</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The probability 0.05 that the null hypothesis is TRUE
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The probability 0.05 that the null hypothesis is TRUE: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The probability 0.95 that the alternative hypothesis is TRUE
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The probability 0.95 that the alternative hypothesis is TRUE: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The P value less than or equal to 0.05
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The P-value less than or equal to 0.05: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

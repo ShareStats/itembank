@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-probability-115-en-wooclap/Probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-probability-115-en_uva-probability-115-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>One predicts the number of ecs that applied algebra students achieve in their first year (response variable <em>y</em>) based on their final mathematics exam grade (exploratory variable <em>x</em>). The predicted score for someone with <em>x</em> = 4 equals 30, and that for someone with <em>x</em> = 10 equals 40. What is the predicted score for someone with <em>x</em> = 7?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+34
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+34: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+35
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+35: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+36
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+36: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

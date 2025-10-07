@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-anovaftest-014-en-moodle/Inferential Statistics/Parametric Techniques/ANOVA/ANOVA F-test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-anovaftest-014-en_vufgb-anovaftest-014-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A clinical psychologist compares stress symptoms between three groups (control, cognitive therapy, psychoanalytic therapy) in 60 subjects using a one-factor ANOVA (“One-way ANOVA”).</p>
+<p>Below is a table of sum of squares (‘Sum of Squares’). Calculate the <em>F</em> value.</p>
+<p><img src="@@PLUGINFILE@@/vufgb-anovaftest-014-nl-table01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-anovaftest-014-nl-table01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.65
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+7.82
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.95
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.27
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

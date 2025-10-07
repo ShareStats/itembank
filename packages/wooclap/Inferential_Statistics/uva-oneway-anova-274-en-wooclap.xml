@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-oneway-anova-274-en-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-oneway-anova-274-en_uva-oneway-anova-274-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Below is the (incomplete) ANOVA table of a CRD-ANOVA (Completely Randomized Design ANOVA), which was performed on data that were collected from 16 individuals divided into 4 groups.</p>
+<p>————— —– —- —- —– Source of variation SS df MS F Among groups 8.0 Within groups 60 12 Total 180 ————— —– —- —- —–</p>
+<p>For testing H<sub>0</sub>: μ<sub>1</sub> = μ<sub>2</sub> = μ<sub>3</sub> = μ<sub>4</sub> against H<sub>1</sub>: not all population averages are equal the F value from the ANOVA table is compared with the critical value from the F-distribution. At a risk of 5%, the conclusion should be</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Critical value is 3.13, reject H0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Critical value is 3.13, reject H0…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Critical value is 3.49, do not reject H0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Critical value is 3.49, do not reject H0…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Critical value is 3.49, reject H0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Critical value is 3.49, reject H0…: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Critical value is 8.74, do not reject H0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Critical value is 8.74, do not reject H0…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

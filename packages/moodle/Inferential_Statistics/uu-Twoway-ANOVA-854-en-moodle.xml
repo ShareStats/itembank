@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Twoway-ANOVA-854-en-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Twoway-ANOVA-854-en_uu-Twoway-ANOVA-854-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A group of researchers looks at the effect of gender and whether or not a smiley-face is applied on accounts and average tip percentage. The researchers suggest including the following sentence in the research paper:</p>
+<p>The study finds that there are no significant differences in average tip percentages between accounts with a smiley face and those without a smiley face, F = 2, p = .135.</p>
+<p>Are the researchers correct to report this? Why or why not?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Yes, because the p-value is greater than 0.05 and then no difference is present and it is not important to look further
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Yes, because the interaction effect results are significant and so there are no differences between the waiters and waitresses
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No, because the F value is equal to 2, and that is almost equal to 1 and then we cannot draw reliable conclusions about whether or not there are differences between the accounts with and the accounts without smiley-face
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, because she has to look at the interaction effect first, and it turns out that there are differences between the accounts with a smiley-face and those without, but only within the two gender groups
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

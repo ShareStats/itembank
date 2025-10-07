@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-nominal-768-en-moodle/Measurement Level/Nominal</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Measurement-Level_uva-nominal-768-en_uva-nominal-768-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>One study examines whether brain activity can be used to can predict what the subject has seen. Brain activity is measured with functional magnetic resonance imaging (fMRI) and provides data lying in the interval [-30, 30], and the subject sees houses or faces. Now, (i) brain activity is a discrete variable and (ii) what the subjects see (houses or faces) is a categorical variable.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<ol style="list-style-type: lower-roman">
+<li>is correct and (ii) is incorrect.</li>
+</ol>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<ol style="list-style-type: lower-roman">
+<li>is correct and (ii) is incorrect: Incorrect</li>
+</ol>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<ol style="list-style-type: lower-roman">
+<li>is incorrect and (ii) is correct.</li>
+</ol>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<ol style="list-style-type: lower-roman">
+<li>is incorrect and (ii) is correct: Correct</li>
+</ol>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<ol style="list-style-type: lower-roman">
+<li>and (ii) are both incorrect.</li>
+</ol>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<ol style="list-style-type: lower-roman">
+<li>and (ii) are both incorrect…: Incorrect</li>
+</ol>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

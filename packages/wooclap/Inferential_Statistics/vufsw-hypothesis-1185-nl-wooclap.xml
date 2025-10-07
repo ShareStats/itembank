@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-hypothesis-1185-nl-wooclap/inferential statistics/nhst/hypothesis</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-hypothesis-1185-nl_vufsw-hypothesis-1185-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een politicus denkt dat in een nieuw referendum over de Brexit 53% van de Britten voor handhaving in de EU zou stemmen.</p>
+<p>Een onderzoeker betwijfelt of deze assumptie waar is en denkt dat dit percentage lager is. Hij trekt een willekeurige steekproef van respondenten (n=202) om dit te dit te onderzoeken. In deze steekproef antwoordt 51% van de respondenten dat ze in een nieuw referendum over de Brexit, ze zouden stemmen voor het blijven in de EU.</p>
+<p>Wat is de kans om zo’n percentage (of extremer) te krijgen, als we aannemen dat de assumptie van de politicus waar is?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Vals.</p>
+<p>We moeten eerst de z-score berekenen voor onze steekproefwaarneming.</p>
+<p>se = sqrt [ (0,53 * 0,47) / 202] = 0,035 z = (0,51 - 0,53) / 0,035 = -0,57 Vervolgens kan de P-waarde voor deze z-score worden gevonden in Tabel A. P = 0,2843</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+28.4%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.71%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+19.78%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.22%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.7%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

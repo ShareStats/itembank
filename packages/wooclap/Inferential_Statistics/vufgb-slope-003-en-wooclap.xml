@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-slope-003-en-wooclap/Inferential Statistics/Regression/Slope</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-slope-003-en_vufgb-slope-003-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In a multiple regression model, two predictors (<span class="math inline">\(x_{1}\)</span> and <span class="math inline">\(x_{2}\)</span>) and the interaction between <span class="math inline">\(x_{1}\)</span> and <span class="math inline">\(x_{2}\)</span> included (<span class="math inline">\(x_{1}*x_{2}\)</span>). What is, after centering the predictors <span class="math inline">\(x_{1}\)</span> and <span class="math inline">\(x_{2}\)</span>, the correct interpretation of the regression coefficient (<span class="math inline">\(b_{1}\)</span>) associated with the first predictor?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The estimated relationship between <span class="math inline">\(x_{1}\)</span> and y given <span class="math inline">\(x_{2} = 0\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The approximate relationship between <span class="math inline">\(x_{1}\)</span> and y given an average score on <span class="math inline">\(x_{2}\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The estimated relationship between <span class="math inline">\(x_{1}\)</span> and y given that <span class="math inline">\(x_{2}\)</span> remains constant
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The approximate relationship between <span class="math inline">\(x_{1}\)</span> and y given a constant of 0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

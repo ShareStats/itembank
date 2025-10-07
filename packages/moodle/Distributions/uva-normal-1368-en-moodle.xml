@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-normal-1368-en-moodle/Distributions/Continuous/Normal</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-normal-1368-en_uva-normal-1368-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>88% of boys in high schools had a side job during the summer. For girls at the same schools, the percentage is 82%. A researcher takes two random samples: one among boys and the other among girls. Each sample contains 500 students. What then is approximate distribution of the proportion of girls with jobs?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+It is a normal distribution with a mean of 0.18 and standard error of 0.017.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+It is a normal distribution with a mean of 0.18 and standard error of 0.017…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+It is a normal distribution with a mean of 0.82 and standard error of 1.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+It is a normal distribution with a mean of 0.82 and standard error of 1.:Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+It is a normal distribution with a mean of 0.82 and standard error of 0.017.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+It is a normal distribution with a mean of 0.82 and standard error of 0.017…: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+It is a normal distribution with a mean of 0.88 and standard error of 0.017.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+It is a normal distribution with a mean of 0.88 and standard error of 0.017…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

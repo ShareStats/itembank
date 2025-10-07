@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-paired-samples-396-en-moodle/Inferential Statistics/Parametric Techniques/t-test/Paired samples</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-paired-samples-396-en_uva-paired-samples-396-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The heart rate before and 15 minutes after prolonged strenuous exercise was measured, with the results being:</p>
+<p>————— —- —- —- —- —- Person 1 2 3 4 5 Heart rate before 70 65 81 57 74 Heart rate a 75 64 86 59 79 ————— —- —- —- —- —-</p>
+<p>We want to test whether the difference between the average heart rate after and before exercise is equal to 0, using a paired T test. The value of the test variable T is equal to</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.5: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.19
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1.19: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2.67
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2.67: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3.2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+3.2: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

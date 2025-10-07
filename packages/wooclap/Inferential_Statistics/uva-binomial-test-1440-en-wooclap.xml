@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-binomial-test-1440-en-wooclap/Inferential Statistics/Non-parametric Techniques/Binomial test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-binomial-test-1440-en_uva-binomial-test-1440-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The null hypothesis is tested which states that the proportion is 0.6 against the alternative which states that the proportion is greater than 0.6. The significance level used is 0.025. The sample size is 100 and it is assumed that according to the central limit theorem the <em>sampling distribution</em> is approximately normally distributed. From what proportion can the null hypothesis be rejected?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.0291
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.0291: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.696
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.696: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.76
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.76: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

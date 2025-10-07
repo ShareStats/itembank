@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-variabletype-1091-nl-wooclap/variable type</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Variable-type_vufsw-variabletype-1091-nl_vufsw-variabletype-1091-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een docent wil weten of de gemiddelde examencijfers van twee verschillende klassen van elkaar verschillen omdat ze onderwijs volgden op een verschillende manier hebben gevolgd. De ene groep kreeg interactief onderwijs, de andere niet. De twee klassen worden aangeduid met de variabele ‘Interactieve klas’ (ja / nee). In dit geval:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De variabele ‘Interactieve klas’ is de onafhankelijke variabele en het gemiddelde examencijfer is de afhankelijke variabele.</p>
+<p>Taal Engels</p>
+<p>Moeilijkheidsniveaus Gemakkelijk</p>
+<p>M&amp;T BIS Standaardwaarde</p>
+<p>M&amp;T Bivariate lineaire regressie Bivariate lineaire regressie</p>
+<p>M&amp;T Multivariate lineaire regressie Standaardwaarde</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De variabele ‘Interactieve klas’ is de onafhankelijke variabele en het gemiddelde examencijfer is de afhankelijke variabele.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het gemiddelde examencijfer is de onafhankelijke variabele en het aantal studenten in de interactieve klas is de afhankelijke variabele.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het aantal studenten in de interactieve klas is de onafhankelijke variabele en het gemiddelde examencijfer is de afhankelijke variabele. variabele en het gemiddelde examencijfer is de afhankelijke variabele.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het gemiddelde examencijfer is de onafhankelijke variabele en de variabele interactieve klas’ de afhankelijke variabele.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

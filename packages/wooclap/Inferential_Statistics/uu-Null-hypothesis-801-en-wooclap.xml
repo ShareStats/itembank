@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Null-hypothesis-801-en-wooclap/Inferential Statistics/NHST/Hypothesis/Null hypothesis</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Null-hypothesis-801-en_uu-Null-hypothesis-801-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>An occupational and organizational psychologist is interested in the relationship between the degree of attachment to the company (interval scale) and the number of days of illness in a year. In a random sample of 30 employees, she finds a correlation of <span class="math inline">\(r = .37\)</span>.</p>
+<p>What is the null hypothesis when the presence of a correlation is tested?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>A hypothesis is a statement about the value in the population (<span class="math inline">\(\rho\)</span>). A null hypothesis always states that there is no correlation: (<span class="math inline">\(\rho=0\)</span>).</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(H_0: r = 0\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A hypothesis is a statement about the value in the population and not in the sample.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(H_0: r &gt; 0\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A hypothesis is a statement about the value in the population and not in the sample.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(H_0: \rho = 0\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This is the correct null hypothesis.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(H_0: \rho &gt; 0\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A null hypothesis always states that there is no correlation.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

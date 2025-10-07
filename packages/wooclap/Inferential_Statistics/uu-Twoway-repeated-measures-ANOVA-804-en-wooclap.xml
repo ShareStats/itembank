@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Twoway-repeated-measures-ANOVA-804-en-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/Twoway repeated measures ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Twoway-repeated-measures-ANOVA-804-en_uu-Twoway-repeated-measures-ANOVA-804-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Research is conducted to determine whether individuals have different reaction times at different parts of the day, and whether alcohol consumption affects this. The reaction time of all individuals is therefore measured in four different situations: at the end of the afternoon when they have not consumed alcohol, at the end of the afternoon when they have consumed a glass of alcohol, at the end of the evening when they have not consumed alcohol, and at the end of the evening when they have consumed a glass of alcohol.</p>
+<p>What is or are the within-subject factor(s) in this study?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Response time.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Daypart.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alcohol consumption/no alcohol consumption.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Both part of the day and yes/no alcohol consumption.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

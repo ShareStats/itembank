@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-assumptions-012-nl-moodle/Assumptions</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Assumptions_uu-assumptions-012-nl_uu-assumptions-012-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Welke van onderstaande uitspraken over multipele lineaire regressieanalyse is/zijn juist?</p>
+<p>I. Bij schending van de aanname van homoscedasticiteit wijken enkele scores op een onafhankelijke variabele sterk af van de algemene trend (outliers).
+II. Met spreidingsdiagrammen kan men op het oog beoordelen of de aanname van lineaire relaties tussen de variabelen wordt geschonden.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Stelling I is niet juist
+De aanname van homoscedasticiteit houdt in dat de spreiding van residuen per X-waarde gelijk is. Bij schending van deze aanname is de spreiding van residuen niet voor alle scores op de onafhankelijke variabele gelijk.</p>
+<p>Stelling II is juist
+Met behulp van een spreidingsdiagram kunnen we op het oog beoordelen of er sprake is van een lineaire relatie tussen X en Y.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Beide zijn juist
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is juist, II is niet juist
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+I is niet juist, II is juist
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is niet juist, II is niet juist
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

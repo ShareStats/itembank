@@ -63,16 +63,6 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-de scores van elk item hercodeert naar het standaard bereik, zodat alle scores tussen het minimum van -1,00 en maximum van +1,00 komen te liggen.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 de scores van elk item hercodeert zonder de outliers, zodat 95% van de scores maximaal 2 standaardeviaties van het gemiddelde verwijderd is.
 </p>]]></text>
 <feedback format="html">
@@ -83,7 +73,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-de scores van elk item transformeert naar de gemiddelde correlatie met alle andere items, zodat de score de afstand tot de standaarddeviatie weergeeft.
+de scores van elk item hercodeert naar het standaard bereik, zodat alle scores tussen het minimum van -1,00 en maximum van +1,00 komen te liggen.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -98,6 +88,16 @@ de scores van elk item transformeert naar z-scores, zodat de score de afstand to
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+de scores van elk item transformeert naar de gemiddelde correlatie met alle andere items, zodat de score de afstand tot de standaarddeviatie weergeeft.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

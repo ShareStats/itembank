@@ -84,13 +84,13 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Donny heeft <strong>0,538</strong><em>minder</em> vertrouwen in de politie dan Klaas Jan. En Dušan heeft <strong>1,144</strong> (0,538 + 0,606) <em>minder</em> vertrouwen in de politie dan Hakim.
+Donny heeft <strong>0,606</strong><em>minder</em> vertrouwen in de politie dan Klaas Jan. En Dušan heeft <strong>1,144</strong> (0,538 + 0,606) <em>minder</em> vertrouwen in de politie dan Hakim.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -106,7 +106,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Donny heeft <strong>0,606</strong><em>minder</em> vertrouwen in de politie dan Klaas Jan. En Dušan heeft <strong>1,144</strong> (0,538 + 0,606) <em>minder</em> vertrouwen in de politie dan Hakim.
+Donny heeft <strong>1,144</strong> (0,606 + 0,538) <em>minder</em> vertrouwen in de politie dan Klaas Jan. En Dušan heeft <strong>0,606</strong><em>minder</em> vertrouwen in de politie dan Hakim.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -114,13 +114,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Donny heeft <strong>1,144</strong> (0,606 + 0,538) <em>minder</em> vertrouwen in de politie dan Klaas Jan. En Dušan heeft <strong>0,606</strong><em>minder</em> vertrouwen in de politie dan Hakim.
+Donny heeft <strong>0,538</strong><em>minder</em> vertrouwen in de politie dan Klaas Jan. En Dušan heeft <strong>1,144</strong> (0,538 + 0,606) <em>minder</em> vertrouwen in de politie dan Hakim.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-mean-581-en-moodle/Descriptive statistics/Summary Statistics/Measures of Location/Mean</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-mean-581-en_uva-mean-581-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Given is the following frequency table:</p>
+<p>————— ————– ————- class limits class center frequencies [14,16&gt; 15 4 [16,18&gt; 17 6 [18,20&gt; 19 8 [20,22&gt; 21 3 [22,24&gt; 23 9 [24,26&gt; 25 1 [26,28&gt; 27 10 ————— ————– ————-</p>
+<p>Which class does the median fall into?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+[18,20&gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+[18,20&gt;: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+[20,22&gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+[20,22&gt;: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+[22,24&gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+[22,24&gt;: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+[26,28&gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+[26,28&gt;: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

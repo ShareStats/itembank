@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-chi-squared-1166-nl-moodle/inferential statistics/nhst/test statistic/chi-squared</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-chi-squared-1166-nl_vufsw-chi-squared-1166-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Gegeven is de volgende kruistabel met internationale gegevens over een groep studenten: het land waarin iemand woont in de rijen en ervaring met cannabisgebruik in de kolommen. De waarden in de cellen zijn de werkelijk waargenomen frequenties (zie onderstaande tabel).</p>
+<table class="tvcss_2 tvcss_3">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td class="tvcss_4">
+Ooit Cannabis gebruikt? <br />
+</td>
+<td class="tvcss_5">
+ja<br />
+</td>
+<td class="tvcss_6">
+nee<br />
+</td>
+<td class="tvcss_7">
+totaal<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+Nederland<br />
+</td>
+<td class="tvcss_5">
+36<br />
+</td>
+<td class="tvcss_6">
+114<br />
+</td>
+<td class="tvcss_7">
+150<br />
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_4">
+Frankrijk<br />
+</td>
+<td class="tvcss_5">
+56<br />
+</td>
+<td class="tvcss_6">
+104<br />
+</td>
+<td class="tvcss_7">
+160<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+Duitsland<br />
+</td>
+<td class="tvcss_5">
+40<br />
+</td>
+<td class="tvcss_6">
+118<br />
+</td>
+<td class="tvcss_7">
+158<br />
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_4">
+Italië<br />
+</td>
+<td class="tvcss_5">
+49<br />
+</td>
+<td class="tvcss_6">
+103<br />
+</td>
+<td class="tvcss_7">
+152<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+Totaal<br />
+</td>
+<td class="tvcss_5">
+181<br />
+</td>
+<td class="tvcss_6">
+439<br />
+</td>
+<td class="tvcss_7">
+620<br />
+</td>
+</tr>
+</tbody>
+</table>
+<p>Welke van de volgende stellingen is/zijn waar?</p>
+<p>I. Het aantal Franse scholieren dat ooit cannabis heeft gebruikt is groter dan de verwachte waarde voor de onafhankelijkheid tussen land en cannabisgebruik.</p>
+<ol start="2" style="list-style-type: upper-roman">
+<li>Het aantal geobserveerde Nederlandse studenten dat ooit cannabis heeft gebruikt is groter dan het verwachte aantal onafhankelijk tussen land en cannabisgebruik.</li>
+</ol>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>betreffende I: totaal 181/620=0,29, dus 29% totaal ja.<br />
+Voor Frankrijk zou dit 0,29=160=46,7 zijn.<br />
+Dus 56 (geteld) is meer dan verwacht. Dus I is waar Wat betreft II: voor Nederland 0,29*150=43,5 te verwachten als land en cannabisgebruik onafhankelijk is.<br />
+Dus 36 is minder dan verwacht.<br />
+Dus II is niet waar.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alleen Stelling II is waar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Geen van beide stellingen is juist.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Alleen Stelling I is waar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Beide stellingen zijn waar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

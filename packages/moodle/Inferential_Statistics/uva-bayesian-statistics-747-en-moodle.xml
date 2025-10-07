@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-bayesian-statistics-747-en-moodle/Inferential Statistics/Bayesian Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-bayesian-statistics-747-en_uva-bayesian-statistics-747-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>These days, adult television viewers seem increasingly reluctant to to watch informative programs. Adult television viewers can be divided into three age categories: 18-35 (48%), 36-60 (35%) and 61 and older (17%). Of the television viewers in the age group 18-35, 48% watch at least 5x a week of informative programs. For TV viewers in the age categories 36-60 and 61 and older, the percentages who watch informative programs watch 51% and 58%, respectively._____________________________. What percentage of viewers who watch at least 5x a week of watch informational programming fall into the 36-60 age group?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,167
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.167: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,352
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.352: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,380
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.380: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,452
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.452: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

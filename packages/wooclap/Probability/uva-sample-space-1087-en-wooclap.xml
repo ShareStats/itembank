@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-sample-space-1087-en-wooclap/Probability/Elementary Probability/Sample Space</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-sample-space-1087-en_uva-sample-space-1087-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A college student wants to send a bouquet to her mother for Mother’s Day. She can buy two of the following four types of roses: Blue Bell, Yellow Success, Sahara, and Aphrodite. We assume that all outcomes are equally likely. Then what is the probability that this student will choose Sahara and Aphrodite?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+S
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+S:Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+J
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+J: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1/6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/6: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1/8
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/8: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

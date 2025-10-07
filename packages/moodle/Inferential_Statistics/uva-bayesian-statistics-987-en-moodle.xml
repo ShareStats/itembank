@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-bayesian-statistics-987-en-moodle/Inferential Statistics/Bayesian Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-bayesian-statistics-987-en_uva-bayesian-statistics-987-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A company <em>A</em> owns three factories, namely <em>A</em><sub>1</sub>, <em>A</em><sub>2</sub> and <em>A</em><sub>3</sub>, TRUE where razors of the same type are made. During a given period, factory <em>A</em><sub>1</sub> made 2000 shavers, of which 200 were defective, factory <em>A</em><sub>2</sub> made 5000 devices during that period, of which 300 were defective, and <em>A</em><sub>3</sub> made 3000 devices, including 150 defective ones. Together they made 10,000 appliances during this period. A inspector randomly chooses a shaver from the total production. How high is the probability that this device is defective (<em>D</em>)?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,015
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.015: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,02
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.02: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,03
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.03: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,065
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.065: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

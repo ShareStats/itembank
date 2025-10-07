@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-multiplication-rule-935-en-moodle/Probability/Elementary Probability/General Rules/Multiplication rule</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-multiplication-rule-935-en_uva-multiplication-rule-935-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Suppose a class contains 40 students. 15% of them are left-handed. 50% of them prefer to write with a pencil. Do we define the event <em>A</em>: the left-handed students of this class and the event <em>B</em>: the students who use a pencil. We assume that <em>A</em> and <em>B</em> are independent of each other. What is the probability if the teacher chooses one student at random, that he or she is a left-hander and also wants to use a pencil use?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,075
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.075: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,150
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.150: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,500
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.500: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,650
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,650: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

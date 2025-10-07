@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-t-statistic-1265-nl-wooclap/inferential statistics/nhst/test statistic/t-statistic</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-t-statistic-1265-nl_vufsw-t-statistic-1265-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Van 190 willekeurig geselecteerde secretaresses werd bijgehouden hoe snel ze typen (X, in woorden per minuut) en hoe snel ze lezen (Y, in woorden per minuut). De regressieresultaten staan hieronder. Welke conclusie kunnen we trekken op basis van de resultaten?</p>
+<p>De regressieformule is Y= 290,21 + 3,50x R-kwadraat = 0,12 190 - 2 = 188 vrijheidsgraden</p>
+<tabel>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td class="tvcss_2">
+<br />
+</td>
+<td class="tvcss_3">
+Regressiecoëfficiënt
+</td>
+<td class="tvcss_4">
+SE
+</td>
+<td>
+t
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_2">
+Constante
+</td>
+<td class="tvcss_3">
+290.21
+</td>
+<td class="tvcss_4">
+215.41
+</td>
+<td>
+1.35
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_2">
+vastheid typen
+</td>
+<td class="tvcss_3">
+3.50
+</td>
+<td class="tvcss_4">
+3.52
+</td>
+<td>
+0,99
+</td>
+</tr>
+</tbody>
+</table>
+<p>Hieronder staan twee Stellingen over deze resultaten. Welke stelling(en) is/zijn zijn juist?</p>
+<p>I. Op basis van deze steekproef heeft de typesnelheid van een secretaresse geen significante invloed op hoe snel ze kan lezen (bij een significantie niveau van .05).<br />
+II. Een secretaresse typt gemiddeld met een snelheid van 3,50 woorden per minuut.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De t-waarde is lager dan de kritische waarde, dus niet significant, dus I is waar. En we hebben geen informatie over de gemiddelde snelheid, dus II onwaar. .</p>
+<p>M&amp;T Bivariate lineaire regressie Bivariate lineaire regressie</p>
+<p>M&amp;T Multivariate lineaire regressie Standaardwaarde</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Stelling II is juist.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Beide Stellingen zijn juist.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Stelling I is juist.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Geen van de Stellingen is juist.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

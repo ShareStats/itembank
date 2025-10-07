@@ -67,7 +67,7 @@ deviations of the distribution’s average.</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-95% van de steekproefgemiddelden ligt tussen 1.30 en 2.54
+95% van de standaarddeviaties ligt tussen 0.28 en 0.34.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -95,16 +95,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-95% van de standaarddeviaties ligt tussen 0.28 en 0.34.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 95% van de observaties ligt tussen 1.30 en 2.54.
@@ -112,6 +102,16 @@ False
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+95% van de steekproefgemiddelden ligt tussen 1.30 en 2.54
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-one-sample-mean-866-en-moodle/Inferential Statistics/Parametric Techniques/t-test/One sample mean</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-one-sample-mean-866-en_uva-one-sample-mean-866-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>One wants to test the hypothesis that the average IQ of Utrecht politicians is 110, against the alternative that the average is higher. In a random sample of 30 politicians from Utrecht, the mean IQ is calculated to be 118 with a standard deviation of 15. the mean IQ is 118 with a standard deviation of 15. It is assumed that IQ is normally distributed. The null hypothesis can now be rejected at a significance level of</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.005
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.005: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.01 but not from 0.005
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.01 but not from 0.005: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.025 but not from 0.01
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.025 but not from 0.01: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

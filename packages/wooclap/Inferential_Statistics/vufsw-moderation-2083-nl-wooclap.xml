@@ -62,13 +62,13 @@ vmbo-b leerlingen</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Alleen 1 is waar
+Alleen 2 is waar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -84,7 +84,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Alleen 2 is waar
+Zowel 1 als 2 zijn waar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -92,13 +92,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Zowel 1 als 2 zijn waar
+Alleen 1 is waar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-binomial-205-en-moodle/Distributions/Discrete/Binomial</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-binomial-205-en_uva-binomial-205-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In roulette, suppose a bet is always placed on black and 30 spins of the the roulette wheel is spun. The number of times the ball lands on black (a success) is the probability variable B and it is binomially distributed with probability of success p = 0.47 on each spin of the roulette wheel. Based on the central limit theorem, it can be stated that</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The number of successes approaches infinity.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The number of successes approaches infinity: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The variable B is approximately normally distributed.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The variable B is approximately normally distributed…: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The expectation value of B is 1.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The expectation value of B is 1…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

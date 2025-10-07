@@ -59,6 +59,16 @@ op te nemen? <em>NB: de geboortejaren lopen uiteen van 1983 t/m 1987</em></p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Ja, het is noodzakelijk want het is een categorische variabele: je moet dan 5 dummy-variabelen opnemen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Nee, het is niet noodzakelijk, alleen als je niet-lineaire verbanden wilt onderzoeken. Het mag wel: je moet dan 5 dummy-variabelen opnemen
 </p>]]></text>
 <feedback format="html">
@@ -84,16 +94,6 @@ Nee, het is niet noodzakelijk, alleen als je niet-lineaire verbanden wilt onderz
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ja, het is noodzakelijk want het is een categorische variabele: je moet dan 5 dummy-variabelen opnemen
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

@@ -53,7 +53,7 @@ van de onderstaande uitspraken over de T-waarde is juist?</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De T-waarde is de Beta/SE (standard error): hoeveel SE ligt de Beta van 0 af.
+De T-waarde is de vergelijking tussen de waarden van de onafhankelijke variabelen. Bij <em>p</em> &lt; .05 is deze significant.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -71,6 +71,16 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De T-waarde is de Beta/SE (standard error): hoeveel SE ligt de Beta van 0 af.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 De T-waarde is de B/SE (standard error): hoeveel SE ligt de B van 0 af.
@@ -78,16 +88,6 @@ De T-waarde is de B/SE (standard error): hoeveel SE ligt de B van 0 af.
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De T-waarde is de vergelijking tussen de waarden van de onafhankelijke variabelen. Bij <em>p</em> &lt; .05 is deze significant.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

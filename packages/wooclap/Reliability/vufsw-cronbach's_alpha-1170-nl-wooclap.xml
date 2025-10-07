@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-cronbach's_alpha-1170-nl-wooclap/reliability/analysis/cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_vufsw-cronbach's_alpha-1170-nl_vufsw-cronbach's_alpha-1170-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>We onderzoeken enquêtegegevens van een steekproef van 239 respondenten. De volgende correlatiematrix (Pearson correlatiecoëfficiënt) van drie vragen van een schaal wordt weergegeven.</p>
+<table class="table_shade">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td class="tvcss_2">
+<br />
+</td>
+<td class="tvcss_3">
+Item1
+</td>
+<td class="tvcss_4">
+Item2
+</td>
+<td class="tvcss_4">
+Item3
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_2">
+Item1<br />
+</td>
+<td class="tvcss_3">
+1<br />
+</td>
+<td class="tvcss_4">
+<br />
+</td>
+<td class="tvcss_4">
+<br />
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_2">
+Item2
+</td>
+<td class="tvcss_3">
+.312
+</td>
+<td class="tvcss_4">
+1
+</td>
+<td class="tvcss_4">
+<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_2">
+Item3
+</td>
+<td class="tvcss_3">
+.357
+</td>
+<td class="tvcss_4">
+.451
+</td>
+<td class="tvcss_4">
+1
+</td>
+</tr>
+</tbody>
+</table>
+<p>De gegevens laten ook zien dat de gemiddelde correlatie tussen de drie items 0,373 is. Ga ervan uit dat de varianties van de drie items gelijk zijn. Hoe hoog is Cronbach’s alpha?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Je kunt het berekenen met: (3*0,373)/(1+(2*0,373))=0,641<br />
+Cronbach’s alpha kan worden uitgedrukt als een functie van het aantal
+testitems en de gemiddelde intercorrelatie tussen de items. Hieronder
+tonen we de formule voor de gestandaardiseerde Cronbach’s alpha:</p>
+<p><img src="vufsw-cronbach&#39;s_alpha-1170-nl.png" /></p>
+<p>Hier is <strong>k</strong> gelijk aan het aantal items, en r-bar is de gemiddelde
+inter-item correlatie tussen de items.
+Uit deze formule blijkt dat als je het aantal items verhoogt, je
+Cronbach’s alpha verhoogt. Bovendien, als de gemiddelde inter-item
+correlatie laag is, zal alpha laag zijn. Naarmate de gemiddelde inter-item
+correlatie toeneemt, zal Cronbach’s alpha ook toenemen (terwijl het aantal
+items constant blijft).</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.877
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.728
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.801
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.641
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.942
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

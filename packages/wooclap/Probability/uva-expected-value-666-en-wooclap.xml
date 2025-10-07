@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-expected-value-666-en-wooclap/Probability/Elementary Probability/Random variables/Expected value</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Probability_uva-expected-value-666-en_uva-expected-value-666-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>You do a survey on birth weight. You make a distinction between boys and girls and for that you have the following data (in kg) of the children selected by random sampling)from from all babies born last year.</p>
+<p>——— —— —— —— —— —— —— —— Boys 2.63 2.81 2.95 2.99 3.08 3.18 Girls 1.91 2.59 2.81 2.86 2.95 2.99 3.04 ——— —— —— —— —— —— —— ——</p>
+<ul>
+<li>Ource: statistics for secondary education – Hasselt University  What is the standard deviation of the boys’ birth weight? Round to three decimal places.</li>
+</ul>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The correct answer is: 0.196</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.196</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

@@ -65,16 +65,6 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-hoeveel de waarde van Y verandert, uitgedrukt op een schaal die loopt van 0 t/m 1, wanneer X toeneemt van 0 naar 1.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 wat de gemiddelde waarde is van Y, wanneer X de waarde 0 heeft.
 </p>]]></text>
 <feedback format="html">
@@ -100,6 +90,16 @@ hoeveel de waarde van Y verandert, uitgedrukt in standaardeviaties van Y, wannee
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+hoeveel de waarde van Y verandert, uitgedrukt op een schaal die loopt van 0 t/m 1, wanneer X toeneemt van 0 naar 1.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

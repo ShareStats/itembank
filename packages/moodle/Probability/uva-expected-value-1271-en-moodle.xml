@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-expected-value-1271-en-moodle/Probability/Elementary Probability/Random variables/Expected value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-expected-value-1271-en_uva-expected-value-1271-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Out of every 100 people, 10 will be randomly chosen who will each win a €5 gift certificate. What then is the standard deviation of the amount won amount for one person?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+€ 0,50
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+€ 0,50: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+€ 1,50
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+€ 1,50: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+€ 2,25
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+€ 2,25: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+€ 2,50
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+€ 2,50: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+€ 4,50
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+€ 4,50: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

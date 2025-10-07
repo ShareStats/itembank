@@ -62,17 +62,7 @@ populatie.</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-[1] = -0.0134 [2] = 0.0036 [3] = onvoldoende
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-[1] = 0.0036 [2] = 0.0196 [3] = voldoende
+[1] = -0.0134 [2] = 0.0081 [3] = onvoldoende
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -90,6 +80,16 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+[1] = -0.0134 [2] = 0.0196 [3] = onvoldoende
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 [1] = 0.0081 [2] = 0.0196 [3] = voldoende
@@ -102,7 +102,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-[1] = -0.0134 [2] = 0.0081 [3] = onvoldoende
+[1] = -0.0134 [2] = 0.0036 [3] = onvoldoende
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -110,13 +110,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-[1] = -0.0134 [2] = 0.0196 [3] = onvoldoende
+[1] = 0.0036 [2] = 0.0196 [3] = voldoende
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>

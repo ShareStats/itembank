@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-confidence-level-860-en-wooclap/Inferential Statistics/Confidence Intervals/Confidence level</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-confidence-level-860-en_uva-confidence-level-860-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>It examines how many people would answer yes when asked whether they ever feel depressed. The percentage who answered with “yes. answers is 28% from a sample of 350 randomly asked people. The researchers want to know if the percentage is greater than 20%. To that end they set the null hypothesis at H<sub>0</sub>: <em>p</em><sub>0</sub> = 20%. From what percentage can the null hypothesis be rejected when a significance level is used of 2.5%?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+24%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+24%: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+29%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+29%: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+31%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+31%: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

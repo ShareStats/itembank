@@ -38,14 +38,9 @@
 }
 </style>
 <p>
-<p>We analyseren of de prestaties van scholieren verschillen tussen 3
-vakken: literatuur, essay writing en wiskunde (ze staan in deze volgorde
-in de dataset). Daarnaast onderzoeken wij of de eventuele verschillen
-tussen de 3 vakken variëren tussen mannelijke en vrouwelijke scholieren.
-Daarom gebruiken wij een Mixed Design ANOVA. De output van deze analyse
-staat hieronder. “<strong>Female</strong>” is gecodeerd als 0: man, 1: vrouw.<br />
-Is de assumptie van de homogeniteit van de varianties geschonden (zie
-onderstaande output)?</p>
+<p>We analyseren of de prestaties van leerlingen verschillen tussen drie vakken: literatuur, essay schrijven en wiskunde (ze staan in deze volgorde in de dataset). Daarnaast onderzoeken we of er verschillen zijn tussen de drie vakken tussen mannelijke en vrouwelijke scholieren. Daarom gebruiken we een gemengde ANOVA-ontwerp.
+De output van deze analyse wordt hieronder weergegeven. “<strong>Vrouw</strong>” is gecodeerd als 0: man, 1: vrouw.
+Is de aanname van homogeniteit van varianties geschonden (zie output hieronder)?</p>
 <p><img src="@@PLUGINFILE@@/Capture.gif" />
 <img src="@@PLUGINFILE@@/Capture1.gif" /></p>
 </p>]]></text>
@@ -63,17 +58,7 @@ onderstaande output)?</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Ja, bij reading score
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ja, bij math score
+Nee, voor geen enkel vak.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -83,7 +68,7 @@ False
 </answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Ja, bij writing score
+Ja, voor schrijfvaardigheid
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -93,7 +78,17 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Nee, bij geen enkel vak.
+Ja, voor rekenen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ja, voor leesvaardigheid
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

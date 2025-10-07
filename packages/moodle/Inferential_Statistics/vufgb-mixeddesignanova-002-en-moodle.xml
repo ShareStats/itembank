@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-mixeddesignanova-002-en-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Mixed design ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-mixeddesignanova-002-en_vufgb-mixeddesignanova-002-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Two linear mixed models for repeated measurements are compared. These are a model with a <em>fixed effect</em> for time and a model with a <em>random effect</em> for time. The <em>-2LogLikelihood</em> for the model with <em>fixed effect</em> is 259, and for the model with <em>random effect</em> is 262. Perform a <em>likelihood-ratio</em> test with the following objective: test whether the <em>random effect</em> for time is significant.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<em>z</em> = 3, <em>p</em> &lt; .05.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<em>z</em> = 9, <em>p</em> &lt; .05.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(χ^2\)</span>(<em>df</em> = 1) = 3, <em>p</em> &gt; .05.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(χ^2\)</span>(<em>df</em> = 1) = 9, <em>p</em> &lt; .05.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

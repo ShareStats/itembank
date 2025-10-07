@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-normal-approximation-to-binomial-1068-en-wooclap/Distributions/Discrete/Normal approximation to Binomial</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-normal-approximation-to-binomial-1068-en_uva-normal-approximation-to-binomial-1068-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A politician is convinced that at least 50% of her constituents believe that a child has the right to live with either parent. But the latest poll of 500 voters in her district shows that slightly less than half, only 240 or 48%, support this position supports. If indeed 50% of these voters in her district share this opinion, what is the probability that of a random sample of 500 voters 240 or fewer hold this view?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,19
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.19: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,48
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.48: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,50
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.50: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,89
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.89: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

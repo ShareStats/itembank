@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-onewayanova-304-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA, Inferential Statistics/Regression/Sum of squares, Inferential Statistics/Regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-onewayanova-304-nl_vufgb-onewayanova-304-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>De SS-binnen in een eenzijdige ANOVA en de SS-residueel in een bivariate regressieanalyse vertegenwoordigen beide:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Variantie in Y niet verklaard door X.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Juist
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Variantie in Y verklaard door X.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onjuist
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Totale variantie in Y.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onjuist
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Verklaarde variantie in Y als deel van de totale variantie in Y.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onjuist
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

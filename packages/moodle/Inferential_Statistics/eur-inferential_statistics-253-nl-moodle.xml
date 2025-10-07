@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-253-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-253-nl_eur-inferential_statistics-253-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Je hoort heel vaak dat mensen uit grote gezinnen socialer zijn dan mensen die bijvoorbeeld enig kind waren. Een onderzoeker die zelf enig kind was vindt dit onzin. Nu besluit hij in zijn eentje een onderzoek te doen dat aantoont dat de stelling niet waar is. Hij trekt daarvoor een steekproef uit de Nederlandse bevolking en neemt bij de deelnemers een vragenlijst af om hun mate van socialiteit te bepalen. Daarnaast stelt hij vast of een deelnemer man [Geslacht = 0] of vrouw [Geslacht = 1] is, en of de deelnemer enig kind is [Gezin = 1], 1 of 2 broers/zussen heeft [Gezin = 2], of meer dan 2 broers/zussen heeft [Gezin = 3].</p>
+<p>Toets of er verschil zit tussen de drie soorten gezinnen [Gezin] in gemiddelde socialiteit [socialiteit]. Geef de F-waarde. (3 decimalen)</p>
+<p><strong>Download</strong>: <a href="eur-inferential_statistics-53-nl-data.sav">SPSS file</a>, <a href="@@PLUGINFILE@@/eur-inferential_statistics-253-nl-data.csv">CSV file</a></p>
+</p>]]></text>
+<file name="eur-inferential_statistics-253-nl-data.csv" encoding="base64">77u/Z2V6aW47Z2VzbGFjaHQ7c29jaWFsaXRlaXQNCjE7MTszDQoxOzE7Mw0KMjswOzMNCjE7MTsyMA0KMzswOzcNCjE7MDs1DQoyOzE7MTgNCjI7MTsyDQoxOzE7MTYNCjE7MDsxMA0KMzsxOzQNCjE7MTsxMg0KMTswOzUNCjM7MDs2DQoxOzA7Nw0KMjsxOzkNCjM7MDsxDQoxOzE7MTcNCjI7MTsxMQ0KMzsxOzINCjM7MDs4DQoyOzE7MTMNCjM7MTs4DQozOzE7Ng0KMzsxOzUNCjI7MTsxNA0KMTswOzEzDQoxOzA7Nw0KMTswOzMNCjM7MDs3DQoxOzE7MTENCjE7MTsxMQ0KMjsxOzE1DQozOzE7MTUNCjM7MTsxMw0KMTsxOzEzDQozOzE7OQ0KMzsxOzE3DQoyOzE7OQ0KMTswOzcNCjI7MDszDQozOzE7NA0KMTsxOzIwDQoyOzE7NQ0KMTsxOzEwDQoxOzE7MTkNCjM7MTs3DQoyOzE7MTINCjM7MTsxMg0KMzswOzEyDQoxOzA7MTANCjM7MDsxNA0KMjswOzEwDQozOzA7Ng0KMzswOzExDQoxOzE7MTQNCjE7MTsyMA0KMjsxOzE2DQozOzE7MjANCjM7MTsxMA0KMzsxOzE3DQoyOzA7MTINCjE7MDsxOA0KMTswOzgNCjM7MDs4DQoyOzA7Mg0KMzswOzE3DQoxOzE7MjANCjE7MTsyMA0KMTsxOzExDQoxOzE7MjANCjI7MTsxNA0KMzsxOzE4DQoxOzE7MTkNCjM7MTsxNQ0KMjsxOzE3DQoxOzE7MTkNCjI7MDsxNw0KMjswOzEwDQozOzA7MTUNCjM7MTs4DQoxOzE7NQ0KMjsxOzkNCjE7MTsxOQ0KMTsxOzQNCjI7MTsxNA0KMzsxOzEwDQoxOzA7MTINCjM7MDsxOQ0KMTsxOzE4DQoyOzE7Ng0KMzsxOzEzDQoxOzE7MTcNCjE7MTsxNA0KMjsxOzE5DQozOzE7MTUNCjM7MDs4DQoxOzA7MTgNCjM7MDs4DQozOzE7NA0KMTsxOzEzDQoyOzE7NA0KMjsxOzE2DQoyOzA7OA0KMzswOzE3DQoxOzA7MTYNCjE7MDs3DQoyOzE7MTQNCjI7MTsxNg0KMjsxOzgNCjI7MTsxMg0KMzswOzEwDQoxOzA7MTENCjI7MDszDQoxOzA7MTQNCjI7MDs2DQozOzA7OA0KMTsxOzIwDQoyOzE7MTQNCjI7MTsxOQ0KMzsxOzE0DQozOzE7MTQNCjE7MDs2DQozOzA7Ng0KMzsxOzE4DQoyOzE7MTENCjI7MTsxNg0KMjswOzEyDQozOzA7MTINCjI7MDsxNA0KMjswOzE4DQoxOzE7MTINCjE7MTs2DQozOzE7MTINCjM7MTsxNg0KMjswOzcNCjE7MDsxMw0KMzswOzE1DQoyOzA7MA0KMjswOzEzDQozOzA7MTUNCjE7MDs2DQozOzE7MTINCjM7MTsxMA0KMjsxOzEyDQoxOzA7Nw0KMTswOzEwDQozOzA7MTMNCjM7MDsxNA0KMzswOzE0DQoxOzE7MTENCjI7MTsxNA0KMjsxOzEyDQozOzA7IA0KMjswOzkNCjI7MDsxMA0KMzswOzIwDQoyOzA7OA0KMTswOzEyDQozOzA7MTENCjM7MDsyMA0KMTsxOzIwDQoyOzE7MTQNCjM7MTsxOA0KMzswOzYNCjI7MDsyMA0KMzswOzExDQozOzE7MjANCjM7MDsxNg0KMzswOzE4DQoxOzE7MTYNCjE7MTsxOQ0KMjswOyANCjE7MDsxMg0KMzswOzExDQogOzA7MTMNCjE7MDsxNg0KMzswOzYNCjI7MDs0DQoyOzA7MTINCjE7MDs4DQoxOzA7Nw0KMjswOzE3DQoyOzA7MTYNCjE7MDsxMg0KMjswOzcNCjI7MDsxNg0KMTswOzMNCjI7MDs4DQozOzA7NA0KMTswOzE5DQoxOyA7MTkNCjE7IDs4DQoxOzE7MTUNCjE7MDsxMQ0KMjsgOzE1DQozOzE7MTUNCjE7MDs3DQoyOzE7OQ0KMzswOzENCg==</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Het correcte antwoord is 0.951.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.951</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

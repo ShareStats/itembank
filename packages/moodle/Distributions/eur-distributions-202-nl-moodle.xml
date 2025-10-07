@@ -56,13 +56,13 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Stelling 1 is niet waar en stelling 2 is waar
+Stelling 1 is waar en stelling 2 is niet waar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Goed
+Fout
 </p>]]></text>
 </feedback>
 </answer>
@@ -78,7 +78,7 @@ Fout
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Stelling 1 is waar en stelling 2 is niet waar
+Stelling 1 en stelling 2 zijn beiden niet waar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -86,13 +86,13 @@ Fout
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Stelling 1 en stelling 2 zijn beiden niet waar
+Stelling 1 is niet waar en stelling 2 is waar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Fout
+Goed
 </p>]]></text>
 </feedback>
 </answer>

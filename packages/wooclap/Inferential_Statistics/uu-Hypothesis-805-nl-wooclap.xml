@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Hypothesis-805-nl-wooclap/Inferential Statistics/NHST/Hypothesis</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Hypothesis-805-nl_uu-Hypothesis-805-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Isa wil de prijzen van appartementen in twee naburige steden vergelijken met een significantieniveau van 5%. Ze neemt een willekeurige steekproef van 12 appartementen in stad A en berekent de gemiddelde prijs van deze appartementen (M = 850, SD = 85). Ze herhaalt dit voor 15 appartementen in stad B (M = 825, SD = 75). Zij μA de werkelijke gemiddelde prijs van appartementen in stad A en μB de gemiddelde prijs in stad B.</p>
+<p>Wat zouden de hypothesen voor dit probleem zijn?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+H0: μA = μB versus HR: μA &lt; μB
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+H0: μA = μB versus HR: μA &gt; μB
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+H0: μA = μB versus HR: μA ≠ μB
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is juist.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dit kan niet bepaald worden zonder verdere informatie.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

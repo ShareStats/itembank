@@ -54,7 +54,7 @@ omschrijving van deze kolom?</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De Cronbach’s alpha tussen de indicatoren indien je de betreffende indicator zou standaardiseren.
+De Cronbach’s alpha tussen de indicatoren indien je de betreffende indicator zou ompolen.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -72,16 +72,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De Cronbach’s alpha tussen de indicatoren indien je de betreffende indicator zou ompolen.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 De Cronbach’s alpha tussen de indicatoren die resteert indien je de betreffende indicator uit de schaal zou verwijderen.
@@ -89,6 +79,16 @@ De Cronbach’s alpha tussen de indicatoren die resteert indien je de betreffend
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De Cronbach’s alpha tussen de indicatoren indien je de betreffende indicator zou standaardiseren.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-simplelinearregression-004-en-wooclap/Inferential Statistics/Regression/Simple linear regression, Descriptive statistics/Data representation/Graphs</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-simplelinearregression-004-en_vufgb-simplelinearregression-004-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>From a linear model, the assumption of homoscedasticity is verified by the following picture.</p>
+<p><img src="@@PLUGINFILE@@/vufgb-simplelinearregression-004-nl-graph01.jpg" /></p>
+<p>What type of linear model does this picture belong to?</p>
+</p>]]></text>
+<file name="vufgb-simplelinearregression-004-nl-graph01.jpg" encoding="base64">iVBORw0KGgoAAAANSUhEUgAAAbgAAAEcCAYAAAC1R6FLAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAA8XSURBVHhe7d1fbJXnfcBx3+ciV7nY0mzrWq0i3Zaqa6dK0bJUnRY0CglE8TY54AakkCVSOhQ7SRnDCFuJCzYiCAspdQBFOqghAZRQKnUJDVY1M6RoCqvCHzEZJC6MtItzkYtzwcVvPs6pYp/Q/XnOe3hfnvP5SK/q93WuTpG/53nf53nevgCADAkcAFkSOACyJHAAZEngAMiSwAGQJYEDIEsCB0CWBA6ALAkcAFkSOACyJHAAZEngAMiSwAGQJYEDIEsCB0CWBA6ALN2+wJ0di3VH5hd+mI2xvr4YO/vZ5bLcvHkzGo1G6wyA3HQ/cAth61sIWt/O2daFz8zuXLjWvP5ELZrZu93efPPNWL9+fesMgNx0N3DNuLWF7Quu12JdM3S3eVQncAB5u20juM9uT37uiyO4+ag9MRb/Sw4LI3AAebttz+Dmj6yr1DM4gQPI2+2bZFIxAgeQN4EDIEsCB0CWBA6q4NP5mLs6H1ZmQnFKCtzr8Vdfei7Ot87KIHBUxvxs7N81HceOTsfEm/8e9Zut60BHBA5K1vh1LaZ/Ob/ww1ycev1YzBnGQSEEDsrWmI/TBydiYtdE1M6Wsa8P5EngAMiSSSYAZKmEwNnJBIDuK20E520CAHRT+bcovU0AgC6o0AjO2wQAKI5ncABkqfxblCUROIC8CRwAWRI4ALIkcABkSeCgCrwuBwoncFA2r8uBrhA4KJnX5UB3CByUzetyoCsEDoAsCRwAWRI4ALIkcABkSeAAyJLA0RkLlIGKEjjSNRcoj03GganJGLdAGagYgSNZ48MdMbB5Mo7VxmPTxon4+NPWLwAqQOBI1vhoKoZeHImJV7bG8Mtv2IEDqBSBI50dOIAKEzgAsiRwAGRJ4ADIksABkCWBgyqwYB4KJ3BQNm/0hq4QOCiZN3oX6GY95q/MRd1nyAKBg7JZT1iM5heEfRMxfbwW+/cciwt21ul5AgfkoT4btUMzcfnSxThXm47T11vX6VkCB+ShcTEOPtMf/RsGov+p1+JcvXWdniVwdMbsP6qiOYJbnKTTiAtHjeAQuNYZScz+o1IaMffzhX+LuyZi//EL/j0icKQz+w+oMoEjXXP234GR2PqjkThs9h9QMQJHOrcoi+NZZjGsg2MJgSOZW5QF8UWhGNbB0UbgSGeBciF8USiIWZS0ETg649Za53xRKIhZlCwncKRza604vihA4QSOZG6tFaT5RWFsMg5MTca4LwpQGIEjnVtrhWh8uCMGNk/Gsdp4bNo4ER+bHAGFEDgoWeOjqRh6cSQmXtkawy+/YSQMBRE4OuPZUeeMhItjHRxLCBzpTDKhSqyDo43AkWxxksmp8zF36VycMMmEslkHRxuBI921k/F8f38MPtkfA9vfN4KjZI2YO7kvRl7aGrvfsg4OgWudkcIyASrFLUraCBzpTI6gStyipI3A0RmzKKkMW3WxnMCRzixKoMIEjmSewQFVJnCk8wwOqDCBAyBLAkdnTDIBKkrgSGeSCVVjL0qWEDiSmWRCpTT/He4djcmpvbF7l4XeCFzrjCQmmVAlN96J4fVbYt/bh2Pb4LNx6FLrOj1L4IA81M/E3qHtMTo+HtuGRuPdq63r9CyBAzJhJxOWEzgAsiRwQD4a1+L8BzNxrd46p6cJHJCH+kzsWLcy+p9eH2tXD8fPbrSu07MEDsjD5Vfi+w8OxI9/+pN45i+/Gy+eaV2nZwkckIf6v8Q/P746Vv7Nqlj56PNx5D9b1+lZAgdkohFzJ/fFyEtbY/dbZlEicK0z4I7X3Mlk30RMH6/F/j12MkHgWmfAHa8+G7XFPVEbceHodJy+3rpOzxI4IBNuUbKcwAF5cIuSNgJHZ7wPrhg+x841b1EemonLly7GuZpblAhc64wk3gdXDJ9jMRoX4+Az/dG/YSD6n3otztnNpOcJHMm8D64YPseCGMHRRuBI531wxfA5FsMIjjYCB1XgGVznLBOgjcBB2TyDK4j3wbGcwEHJPIMr0M16zF+Zi7rPkAUCB2XzDK4Y1sHRRuCAPHgGRxuBAzLhGRzLCRyQD8/gWELgoAosE+hc8xnc3tGYnNobu3d5BofAtc6gRM1lAmOTcWBqMsYtE0h3450YXr8l9r19OLYNPhuHLrWu07MEjs4YeXSs8eGOGNi4Iw7s/af4wcaJ+NjII039TOwd2h6j4+OxbWg03r3auk7PEjjSGXkUovGLofjew2ti8O9XxcPfHxG4ZCaZsJzAkczIoxiNj6Zi6B9fiK3DP4wtL79hoTcUROBItjjy+Iu/jsfXfC8eMvJId+1kPN/fH4NP9sfA9veNPKAgAkeypbfWvitwyWzVBd0hcCRbvLX24khMvLI1ht1aS2erLugKgSNd8w/zgZHY+qOROOwPM1AxAkc6r3kBKkzgSObZEZVjqy6WEDjSeXZElXhdzp3v7Fj0PVGLov6aCByQB6/LuePN7hyL2pGFo6D/7wQOyISdTO5o12uxbufs5/9bAIEDoHSzO/ti7Gzzp/moPbGukFFcSYGbjbG+vuhbdowtXL19BI5KsWk1FK6EwDXr/JtSL/F/fLj4ySeffOF477334vjx47f83W87Xn311VizZs0tf+dw3NZj5khse2FnvLZnZwy/+k7823/c4r9xOO6A48qVK62/1P9/n4/gFjR7UMBtyhICtzB6u2XImuH7n0dxs7Ozcf/993/huOeee+Kuu+665e9+23HvvffG3XfffcvfORy381jxlXvjd3//j+L+FV+N3/udL8VXV9z6v3M4qn6sXLmy9dc6wZKoLYtdB+64EVxR3KKkMuwIAwtag5zmJJOCWuAZHJTNjjCwaP7IuoW4LRxHivmiV1LgyidwVMXijjCnzsfcpXNxwo4w9LLm6K2vmBmUTQIHZfM+uOLYquvOVuDtySaBozOmt3fMnp4FsVXXna05D6OvmMklvyFwpPPsqBj29CxGc6uuQzNx+dLFOFezVRcC1zojhWdHVErjYhx8+rFYs/bRWLvhtThXb12nZwkc6Tw7okpuvBPD67fEvrcPx7bBZ+PQpdZ1epbAkcyzIyqlfib2Dm2P0fHx2DY0Gu9ebV2nZwkc6SxQplK8TYDlBI50JpkAFSZwJHOLEqgygSOdW5RUjYXeLCFwpHOLkiqx0Js2Akcy6+AKZEeYzlnoTRuBI11zHdyaR2LlI4/EE9bBpWuOhMcm48DUZIwbCadrLvR+pj/6NwxE/1MWeiNwrTNSNI5tim9/pz+Gn388/vyhLfErf1CSND7cEQObJ+NYbTw2bZyIj91aS2MERxuBI1n9rR/EI49tiGc3/W2sWflczAhcksZHUzH04khMvLI1hl9+w63eVEZwtBE40v3r9njgvvviK1++L/7goR/HNX+Y09hsuRjNEdziLd5GXDhqBIfAtc5IUT/xXAy+ejrmzp+IbeuHjeA6YZJJARoxd3JfjLy0NXa/ZScTBK51RpLLb8a6bz8Q3/rmA/Hgxrf8QUlluUUxLBOgjcCRzDKBYvgcC+IWJW0EjnRel1OM5ue4bk08vnZN/J3PsQM2W2Y5gSOZvSiLsbhMYMNQjG7/Yay3TAAKI3CkM/uvEI2fDsTXvvz1+M6frYg//MbT1hNCQQQOSlZ/fVWs+JOH4/FVD8Yf/2l/nPqv1i+AjggclKzxs3+Ib37t6/Gtb6yI+x98wS1KKIjA0RnrtzpmJxPoDoEjnfVbxfAsE7pC4EhmFmWBjIShcAJHOiOPYhgJQ1cIHJ0x8uiYkXCBbtZj/spc1H2GLBA40hl5FMNIuBjNLwh7R2Nyam/s3mUvSgSudUYKIw8q5cY7Mbx+S+x7+3BsG3w2Dl1qXadnCRzpjDyK41Zv5+pnYu/Q9hgdH49tQ6Px7tXWdXqWwEHZmrd6xybjwNRkjLvV2wGbLbOcwEHJFjdb3jwZx2rjsclmy1AYgYOS2ckEukPgoGyeZUJXCBwAWRI4qIIb52PmV+fDq+A6ZKE3SwgcnTG9vXPnX4/+VYMxvGUwVm8+Etd8mGma6zH3TcT08Vrs32OhNwLXOiOJnUwKUT/xXAzuOb/ww0zsWD8cM4ZxaeqzUTs0E5cvXYxztek4fb11nZ4lcCRb3Mnk1PmYu3QuTtjJJF39fExsXB2rV62O536yEDrSNC7Gwc2Pxeq1j8baDa/FOV8Uep7Ake7ayXi+vz8Gn+yPge3vG8FRLlt10UbgSGYvSirFVl20ETjSWb9Fpdiqi+UEjs6YRQlUlMCRzixKoMIEjmSewQFVJnCk8wwOqDCBAyBLAgdAlgQOgCwJHABZEjgAsiRwAGRJ4OiMnUyoEi88ZQmBI52dTKgSLzyljcCRzE4mVErzhaeLX7QacWHhS5cXniJwpLOTSXHc6i2AtwmwnMBB2dzqha4QOCiZW70FMsmEJQQOyuZWbzFMMqGNwAF5MMmENgIHZMIkE5YTOACyJHAAZEng6Iz1W0BFCRzprN+iaiwTYAmBI5n1W1SKZQK0ETjSWb9FlVgmQBuBAzJhmQDLCRwAWRI4ALIkcFAFlltA4QQOyma5BXSFwEHJLLeA7hA4KJvlFtAVAgdAlgQOgCwJHABZEjgAsiRwAGRJ4KAKLPSGwgkclM1Cb+gKgYOSWegN3SFwUDYLvaErBA6ALAkcAFkSOACyJHAAZEngAMiSwAGQJYEDIEsCB0CWBA7Ix816zF+Zi7rdYFggcEAemlud7ZuI6eO12L/nWFz4tHWdniVwQB7qs1Fb3Ky6EReOTsfp663r9CyBAzLRiLmfTy/u6bn/+AVvZUDgAMiTwAGQJYEDIEsCB0CWBA6ALAkcAFkSOACyJHAAZEngAMiSwAGQJYEDIEsCB0CWBA6ALAkcAFkSOKiCT+dj7up8eBE1FEfgoGzzs7F/13QcOzodE4sv7GxdBzoicFCyxq9rMf3L+YUf5uLU68dizjAOCiFwULbGfJw+OLH4Jura2YXQAYUQOACyJHAAZEngAMiSwAGQJYEDIEsCB0CWejZwly9fjg8++KB1BkBuejZwAORN4ADIksABkCWBAyBLAgdAlgQOgCwJHABZEjgAsiRwAGRJ4ADIksABkCWBAyBLAgdAlgQOgCwJHABZEjgAsiRwAGRJ4ADIksABkCWBAyBLAgdAlgQOgCwJHABZEjgAsiRwAGRJ4ADIksABkKGI/wbLIhVz0dkcjwAAAABJRU5ErkJggg==</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Anova
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ancova
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Linear regression
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Linear regression with quadratic effect
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

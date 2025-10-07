@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Descriptives-014-en-moodle/Reliability/Descriptives</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_uu-Descriptives-014-en_uu-Descriptives-014-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>For passing the theory driving exam, some learning styles are more successful than others. In research on the influence of learning styles on exam results, a separate test has been developed for each learning style. Two test developers talk to each other about the meaning of measurement error <span class="math inline">\(E\)</span> within classical test theory.</p>
+<p>Evaluate the following two statements:</p>
+<p>I. The measurement error E of a test does not correlate (<span class="math inline">\(r_{ET} = 0\)</span>) with the true score <span class="math inline">\(T\)</span>.
+II. Between the measurement errors <span class="math inline">\(E\)</span> of the tests for the different learning styles is not consistent.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Theorem 1: According to classical test theory, measurement error is <span class="math inline">\(E\)</span> independent of the true score <span class="math inline">\(T\)</span>, because <span class="math inline">\(E\)</span> is an accidental and unsystematic measurement error.</p>
+<p>Theorem 2: Measurement error <span class="math inline">\(E\)</span> is accidental and unsystematic; there is no consistency among them.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Pronunciation I and II are both correct.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Only pronunciation I is correct.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Only pronunciation II is correct.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Pronunciation I and II are both incorrect.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

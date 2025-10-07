@@ -79,6 +79,16 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+One sample t-test
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Dependent t-test
 </p>]]></text>
 <feedback format="html">
@@ -89,7 +99,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-One sample t-test
+Chi-sqare test
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -104,16 +114,6 @@ Independent t-test
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Chi-sqare test
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

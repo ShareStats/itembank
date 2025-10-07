@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-expected-value-739-en-moodle/Probability/Elementary Probability/Random variables/Expected value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-expected-value-739-en_uva-expected-value-739-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The Belgian state lottery operates at the end of each year with lottery tickets on which six-digit numbers are listed. So one can choose a number that lies between 000000 and 999999. The winning lottery ticket earns the winner €; 750,000. The probability of drawing a winning lottery ticket, when purchasing one lottery ticket, is 0.000001. The probability distribution for X (= the amount of money one received) is as follows:</p>
+<p>———– ———- ———– Price <em>X</em> €0 €750,000 Chance 0.999999 0.000001 ———– ———- ———–</p>
+<p>A lottery ticket costs €;2.50 this year. How many euros does the Belgian State in the long run per lottery ticket? Choose from the options below.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+€ 0,75
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+€ 0.75: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+€ 1,25
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+€ 1,25: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+€ 1,75
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+€ 1,75: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+€ 1,95
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+€ 1.95: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-113-nl-moodle/Inferential Statistics/Parametric Techniques/Correlations/Pearson</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-113-nl_eur-inferential_statistics-113-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>We voorspellen Y uit X1 met behulp van lineaire regressieanalyse. De Pearson correlatie tussen X1 en Y is r = 0,40 en <span class="math inline">\(s_Y^2\)</span> = 100. Als we een tweede variabele, X2, toevoegen aan het regressiemodel krijgen we <span class="math inline">\(R^2\)</span> = 0.25. Hoeveel extra variantie wordt verklaard door de toevoeging van X2 vergeleken met het regressiemodel met alleen X1?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,15 of 15%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,09 of 9%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit is het juiste antwoord! De verklaarde variantie in Y op basis van X1 alleen is gelijk aan <span class="math inline">\(0.40^2\)</span> = 0,16 of 16%. Wanneer X2 aan het model wordt toegevoegd, is het totale aandeel verklaarde variantie gelijk aan 0,25 van 25%; de toename is 0,25 - 0,16 = 0,09 of 9%.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,40 of 40%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,25 of 25%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

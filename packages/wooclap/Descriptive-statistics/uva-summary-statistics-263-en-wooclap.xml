@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-summary-statistics-263-en-wooclap/Descriptive statistics/Summary Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-summary-statistics-263-en_uva-summary-statistics-263-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A record was kept of how many cigarettes from 60 individuals for one month they smoke (rounded) daily. The results are shown in the frequency table</p>
+<p>———— —- — — — — — — —- —- —- —- —- ——– Cigarettes 0 1 2 3 4 5 7 10 12 15 20 30 Total Frequency 36 4 3 3 4 2 1 2 1 2 1 1 1 60 ———— —- — — — — — — —- —- —- —- —- ——–</p>
+<p>The relative frequency of the value 5 is equal to:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.033
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.033: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.867
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.867: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+52
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+52: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

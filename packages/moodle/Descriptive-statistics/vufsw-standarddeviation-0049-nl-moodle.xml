@@ -64,13 +64,13 @@ cijfers?<br />
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-In het bijles-programma “<em>Enhance</em>”, want de standaarddeviatie is daar groter.
+In het bijles-programma “<em>Enhance</em>”, want de standaarddevatie ligt daarbij dichter bij de gemiddelde score.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -94,13 +94,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-In het bijles-programma “<em>Enhance</em>”, want de standaarddevatie ligt daarbij dichter bij de gemiddelde score.
+In het bijles-programma “<em>Enhance</em>”, want de standaarddeviatie is daar groter.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

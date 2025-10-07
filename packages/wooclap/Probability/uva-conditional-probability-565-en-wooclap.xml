@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-conditional-probability-565-en-wooclap/Probability/Elementary Probability/Conditional probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-conditional-probability-565-en_uva-conditional-probability-565-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The following cross tabulation includes data from 100 individuals for two variables A and B. We randomly draw someone from among the 100 individuals.</p>
+<p>——- ——- ——- ——- A = 1 A = 2 A = 3 B = 1 19 20 23 B = 2 18 2 18 ——- ——- ——- ——-</p>
+<p>For this person, P(B = 1 | A = 2) is equal to</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.09
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.09: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.2: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.54
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.54: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.91
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.91: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

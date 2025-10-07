@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-oneway-anova-636-en-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-oneway-anova-636-en_uva-oneway-anova-636-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Below is part of an ANOVA table belonging to a CRD ANOVA with 5 groups and 3 measurements per group.</p>
+<p>————— —- —- —- — — Source of variation df SS MS F P Among groups 4 48 Within groups 10 15 Total 14 63 ————— —- —- —- — —</p>
+<p>Suppose one wants to test each of the 5 groups in pairs against each other; here are 10 keys. For this one uses bilateral keys with Bonferroni correction, with a <strong>total</strong> risk of (here) 10%. What is then the critical value of such a T-test?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3.169
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+3.169: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.764
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2,764: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.604
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+4,604: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2.576
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2,576: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

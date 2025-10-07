@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-value-47-en-wooclap/Inferential Statistics/NHST/p-value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-value-47-en_uva-value-47-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In a two-sided test on the difference between two averages and an alternative hypothesis that states that the difference is unequal to 0, a P-value of 0.10 means that</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The probability that the null hypothesis is TRUE given the difference in averages found is 0.10.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The probability that the null hypothesis is TRUE given the difference in averages found is 0.10: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The probability that the result found or more extreme given the null hypothesis is 0.10.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The probability of the result found or more extreme given the null hypothesis is 0.10: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The probability that the alternative hypothesis is TRUE given the difference in averages found is 0.10.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The probability that the alternative hypothesis is TRUE given the difference in averages found is 0.10: Incorrect Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

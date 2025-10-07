@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-power-845-en-moodle/Inferential Statistics/NHST/Power</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-power-845-en_uu-power-845-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>We are interested in evaluating the effect of a natural product on reducing blood pressure. This is done by comparing the mean reduction in blood pressure of a treatment (natural product) group and a placebo group using a two-sample t test. The standard deviations are approximately the same, so the researchers will use an independent samples t test, and based on previous work the researchers are able to specify a common sample standard deviation. The researchers have specified <span class="math inline">\(\mu_{1}\)</span> - $<span class="math inline">\(mu_{2}\)</span> = 7 as an alternative they would like to be able to detect with a significance level of 1%. Sample sizes of 50 in each group are selected and found to have a power of 80%. If the researchers now decide they are interested in the alternative <span class="math inline">\(\mu_{1}\)</span> - <span class="math inline">\(\mu_{2}\)</span> = 5 instead, how would the power of the study for this alternative compare to the previous one?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+It would be greater than 80%.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+It would be less than 80%.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+It could be either less than or greater than 80%, depending on whether the natural product is effective.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+It could be either less than or greater than 80%, depending on the standard deviation.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-inferential-statistics-137-en-moodle/Inferential Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-inferential-statistics-137-en_uva-inferential-statistics-137-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The population of Amsterdam psychology students consists of 80% of women. For a study, I draw a <em>simple random sample</em> of n = 100 individuals from the population. The normal distribution which is a good approximation of the probability distribution of the probability variable “Number of women in the sample” then has</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Μ = 0 and σ = 1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Μ = 0 and σ = 1: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Μ = 80 and σ = 4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Μ = 80 and σ = 4: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Μ = 80 and σ = 16
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Μ = 80 and σ = 16: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -63,21 +63,11 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De gemiddelde spreiding van de standaarddeviatie.
+De gemiddelde voorspellingsfout.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De standaarddeviatie van een steekproevenverdeling.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>
@@ -103,11 +93,21 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De gemiddelde voorspellingsfout.
+De gemiddelde spreiding van de standaarddeviatie.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De standaarddeviatie van een steekproevenverdeling.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

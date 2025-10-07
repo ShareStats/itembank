@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-coefficientttest-001-en-moodle/Inferential Statistics/Regression/Coefficient t-test, Inferential Statistics/Regression/Multiple linear regression, Inferential Statistics/Regression/Confidence interval</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-coefficientttest-001-en_vufgb-coefficientttest-001-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>We discuss a linear regression analysis with two predictors. The number of subjects is 12. Calculate the number of degrees of freedom and determine the critical <em>t</em> value needed to establish a 95% confidence interval for a regression coefficient in this model.</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<em>df</em> = 9; <em>t</em> = 2.262.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<em>df</em> = 9; <em>t</em> = 1.833.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<em>df</em> = 10; <em>t</em> = 2.228.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<em>df</em> = 10; <em>t</em> = 1.812.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

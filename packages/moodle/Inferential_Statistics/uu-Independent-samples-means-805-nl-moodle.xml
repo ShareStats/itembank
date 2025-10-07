@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Independent-samples-means-805-nl-moodle/Inferential Statistics/Parametric Techniques/t-test/Independent samples means</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Independent-samples-means-805-nl_uu-Independent-samples-means-805-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Vijfentwintig vrouwen tussen 70 en 80 jaar werden willekeurig geselecteerd uit de algemene populatie van vrouwen van hun leeftijd om deel te nemen aan een speciaal programma om hun kennis over dementie te vergroten. Na de cursus hadden de vrouwen een gemiddelde kennisscore van 25. De gemiddelde kennis voor de algemene populatie van vrouwen in deze leeftijdsgroep is 22, met een standaardafwijking van 4. Neem aan dat de gemiddelde kennis over dementie in de populatie normaal verdeeld is. Gebruik het significantieniveau .05. De onderzoeker gebruikt de volgende onderzoeksvraag: Vergroot het speciale programma de kennis van vrouwen over dementie?</p>
+<p>Ondersteunt dit onderzoek het idee dat de cursus de kennis over dementie vergroot?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nee, want het resultaat is statistisch significant.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nee, want het resultaat is niet statistisch significant.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Ja, want het resultaat is statistisch significant.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ja, want het resultaat is niet statistisch significant.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-random-variables-431-en-wooclap/Probability/Elementary Probability/Random variables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-random-variables-431-en_uva-random-variables-431-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In 80 newborns, it was determined whether they had a low birth weight (&lt; 2500 g.) and what the mother’s age was (under 20 or not). The results were as follows: Of the 20 mothers under 20 years of age 8 had a low birth weight baby, of the 60 mothers aged 20 years and older, 16 had a low birth weight baby. We randomly choose one of the 80 children. Suppose the child has a low birth weight. The probability that the mother is 20 years or older is</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.4: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.27
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.27: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.75
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.75: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.67
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.67: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

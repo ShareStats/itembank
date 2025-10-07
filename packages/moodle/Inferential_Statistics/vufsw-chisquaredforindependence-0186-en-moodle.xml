@@ -57,21 +57,11 @@ Which statistical test would then be most suitable?</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-A test of a 95% confidence interval.
+A Dependent Samples T-test.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-A Chi-kwadraat toets (Chi-squared test).
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>
@@ -87,11 +77,21 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-A Dependent Samples T-test.
+A test of a 95% confidence interval.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+A Chi-kwadraat toets (Chi-squared test).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

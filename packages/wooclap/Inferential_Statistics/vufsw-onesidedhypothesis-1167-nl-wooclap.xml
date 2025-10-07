@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-onesidedhypothesis-1167-nl-wooclap/inferential statistics/nhst/hypothesis/one sided hypothesis</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-onesidedhypothesis-1167-nl_vufsw-onesidedhypothesis-1167-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoeker wil testen of het percentage Nederlandse studenten dat ooit cannabis heeft gebruikt hoger is dan 20%. De alternatieve hypothese van de onderzoeker luidt daarom als volgt: H<sub>a</sub>: π &gt; 0,20. Het waargenomen aandeel in de genoemde steekproef (n = 150) is 0,24.</p>
+<p>De onderzoeker hanteert een significantieniveau van 5% (alpha = 0,05).</p>
+<p>Wordt de nulhypothese H0 in dit onderzoek verworpen?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Het echte antwoord is: Nee, want er is niet genoeg empirisch bewijs om aan te nemen dat het percentage Nederlandse leerlingen dat ooit cannabis heeft gebruikt hoger is dan 0,20.</p>
+<p>De alternatieve hypothese is dat het gemiddelde hoger is dan 0,2 en we vonden een aandeel van 0,24. Echter, Bereken de standaardfout (se) van de steekproefverdeling. se = sqrt[ P * ( 1 - P ) / n ]. waarbij P de veronderstelde waarde is van het populatieaandeel in de nulhypothese en n de veronderstelde waarde van het populatieaandeel in de nulhypothese. hypothese en n de steekproefgrootte is.</p>
+<p>Voor dit voorbeeld: σ = sqrt[ P  ( 1 - P ) / n ] = sqrt (0.2)(0.8)/150=0.033 De teststatistiek is een z-score (z) gedefinieerd door de volgende vergelijking: z
+= (p - P) / se waarbij P de veronderstelde waarde is van het aandeel van de populatie in de nulhypothese hypothese, p het steekproefaandeel is en se de standaardafwijking van de steekproefverdeling.<br />
+z = (0.24-0.20)/0.033=1.22 De kritieke waarde (met één staart) is 1,64.</p>
+<p>Omdat 1,22 kleiner is dan 1,64 is er niet genoeg bewijs.</p>
+<p>Taal Nederlands</p>
+<p>Moeilijkheidsniveaus Gemiddeld</p>
+<p>M&amp;T BIS Standaardwaarde</p>
+<p>M&amp;T Hypothesetest: verhoudingen Standaardwaarde</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ja, want er is voldoende empirisch bewijs om aan te nemen dat het aandeel Nederlandse studenten dat ooit cannabis heeft gebruikt hoger is dan 0.20.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nee, want er is voldoende empirisch bewijs om aan te nemen dat het aandeel Nederlandse scholieren dat ooit cannabis heeft gebruikt hoger is dan 0.20.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ja, want er is onvoldoende empirisch bewijs om aan te nemen dat het aandeel Nederlandse scholieren dat ooit cannabis heeft gebruikt hoger is dan 0.20.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Nee, want er is onvoldoende empirisch bewijs om aan te nemen dat het aandeel Nederlandse scholieren dat ooit cannabis heeft gebruikt hoger is dan 0,20.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

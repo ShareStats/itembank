@@ -52,7 +52,17 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Bij een dichotome variabele ligt altijd 50% van de waarnemingen boven het gemiddelde en 50% onder het gemiddelde.
+Hoewel een dichotome variabele eigenlijk nominaal is, zit er toch altijd een vaste rangordening in van laag (0) naar hoog (1).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Een dichotome variabele bestaat altijd maar uit één categorie.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -72,17 +82,7 @@ Correct
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Een dichotome variabele bestaat altijd maar uit één categorie.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Incorrect
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Hoewel een dichotome variabele eigenlijk nominaal is, zit er toch altijd een vaste rangordening in van laag (0) naar hoog (1).
+Bij een dichotome variabele ligt altijd 50% van de waarnemingen boven het gemiddelde en 50% onder het gemiddelde.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

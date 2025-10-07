@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-addition-rule-654-en-moodle/Probability/Elementary Probability/General Rules/Addition rule</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Probability_uva-addition-rule-654-en_uva-addition-rule-654-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Carla invests 30% of her funds in government bonds and 70% in a fund of common stocks. The return on an investment over a given period is the percentage change in price during this period. If <em>X</em> is the annual return of the government bonds is and <em>Y</em> is the annual return on stocks, then the return on the entire equity portfolio is <em>R</em> = 0.3<em>X</em> + 0.7<em>Y</em>.‖  From a data set (dataset) of the yield in its stock portfolio over the period from 1995 to 2010, you see below data on the expectation values, the standard deviations, and on the correlations between <em>X</em> and <em>Y</em>.  Based on this data, we have:</p>
+<p>———————————————- —————- —————– X= annual government bond yield <em>μ<sub>X</sub></em> = 4.5% <em>σ<sub>X</sub></em> = 3.9% <em>Y</em> = annual return on equities <em>μ<sub>X</sub></em> = 14.2% <em>σ<sub>X</sub></em> = 18.2% Correlation between <em>X</em> and <em>Y</em> -0.12 ———————————————- —————- —————–</p>
+<p>What is the expected rate of return (<em>μ<sub>R</sub></em>) for Carla, expressed in percent?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The correct answer is: 0.113</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.113</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

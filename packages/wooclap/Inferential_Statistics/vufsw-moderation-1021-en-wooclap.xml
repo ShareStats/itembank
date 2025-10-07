@@ -54,16 +54,6 @@ values of a third variable ” is correct.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Not statistically significant.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Different for the different values of a third variable.
@@ -76,7 +66,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Equal to 0.
+Not statistically significant.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -87,6 +77,16 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 The same for different values of the moderator.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Equal to 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

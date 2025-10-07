@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-elementary-probability-1060-en-moodle/Probability/Elementary Probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-elementary-probability-1060-en_uva-elementary-probability-1060-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Suppose you live in a city where 125,000 households have a telephone and a research firm randomly selects 1,000 of these households for a telephone survey. What is then the probability that your household will be chosen?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1/125
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/125: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1/1000
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/1000: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1/124.000
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/124,000: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1/125.000
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/125,000: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1/126.000
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/126,000: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

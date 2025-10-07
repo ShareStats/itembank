@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-general-rules-1180-en-moodle/Probability/Elementary Probability/General Rules</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-general-rules-1180-en_uva-general-rules-1180-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The sum of the probabilities in a binomial distribution must equal 1. To show that this is TRUE, we first take <em>q</em> = 1- <em>p</em> so that <em>q</em> + <em>p</em> = 1. Below is a table showing a binomial distribution with <em>n</em> = 1 observation, and its sum is 1. What will the probability distribution be if <em>n</em> = 2, and the probability of success is <em>p</em>?<br />
+</p>
+<p>—————— —— Number of successes Chance 0 <em>q</em> 1 <em>p</em> —————— ——</p>
+<p>     A:<br />
+</p>
+<p>—————— ——— Number of successes Chance 0 <em>q</em> 1 <em>q - p</em> 2 <em>p</em> —————— ———</p>
+<p>      B:<br />
+</p>
+<p>—————— —— Number of successes Chance 0 <em>q</em> 1 <em>qp</em> 2 <em>p</em> —————— ——</p>
+<p>      C:<br />
+</p>
+<p>—————— —— Number of successes Chance 0 <em>q</em> 1 <em>p</em> 2 <em>p</em> —————— ——</p>
+<p>      D:<br />
+</p>
+<p>—————— ———– Number of successes Chance 0 <em>q</em> 1 <em>p</em> 2 <em>1- q- p</em> —————— ———–</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+B
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+B: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+C
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+C: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+D
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+D: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

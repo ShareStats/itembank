@@ -81,13 +81,13 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-de waarde van de constante van model 2 iets toegenomen is in vergelijking met model 1: de waarde neemt toe van 7,213 naar 7,399.
+de sterkte van het effect van “Migratieachtergrond” in model 2 iets afgenomen is in vergelijking met model 1: de sterkte neemt af van -0,784 naar -0,705.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -111,13 +111,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-de sterkte van het effect van “Migratieachtergrond” in model 2 iets afgenomen is in vergelijking met model 1: de sterkte neemt af van -0,784 naar -0,705.
+de waarde van de constante van model 2 iets toegenomen is in vergelijking met model 1: de waarde neemt toe van 7,213 naar 7,399.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>

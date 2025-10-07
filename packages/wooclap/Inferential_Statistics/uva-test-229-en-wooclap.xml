@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-test-229-en-wooclap/Inferential Statistics/Parametric Techniques/t-test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-test-229-en_uva-test-229-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In a random sample of n = 20 observations, one finds a Spearman rank correlation between the variables X and Y a Spearman rank correlation equal to 0.47. The null hypothesis of no correlation can then be rejected in favor of the alternative hypothesis that there is a positive correlation at</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Α = 0.01
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Α = 0.01: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Α = 0.05 but not at α = 0.01
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Α = 0.05 but not at α = 0.01: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Α = 0.10 but not at α = 0.05
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Α = 0.10 but not at α = 0.05: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -55,13 +55,13 @@ and σ is the standard deviation</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-(44-46.1340)/1.66179
+(44-46.1340)/2.762
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -77,7 +77,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-(44-46.1340)/2.762
+(46.1340-44)/1.66179
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -85,13 +85,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-(46.1340-44)/1.66179
+(44-46.1340)/1.66179
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-normal-1379-en-wooclap/Distributions/Continuous/Normal</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-normal-1379-en_uva-normal-1379-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The distribution of water requirements (in liters) during a flight from Amsterdam to New York has an average of 3 liters per passenger and a variation of 1.6. Suppose you take a random flight with 250 passengers, what is the distribution of this sample?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+It is normally distributed with a mean of 1.5 and standard deviation of 0.08.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+It is normally distributed with a mean of 1.5 and standard deviation of 0.08…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+It is normally distributed with a mean of 3 and standard deviation of 0.08.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+It is normally distributed with a mean of 3 and standard deviation of 0.08…: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+It is normally distributed with a mean of 3 and standard deviation of 1.27.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+It is normally distributed with a mean of 3 and standard deviation of 1.27.: Incorrect Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+It is normally distributed with a mean of 3 and standard deviation of 1.6.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+It is normally distributed with a mean of 3 and standard deviation of 1.6: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

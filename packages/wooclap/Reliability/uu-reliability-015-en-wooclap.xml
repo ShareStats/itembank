@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-reliability-015-en-wooclap/Reliability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_uu-reliability-015-en_uu-reliability-015-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The Media &amp; Entertainment Management (MEM) program at Inholland University of Applied Sciences was rated very weak by the Education Inspectorate in 2011. In response to this reporting, research is being conducted into student satisfaction with this program. An experimental test version consists of 20 equivalent items. The reliability rxx’ of this test is .85. For the real study, the researcher must shorten the test by removing five items.</p>
+<p>The estimated reliability of the scores of the shortened test (r ̂VVV’) is then:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Explanation: The formula for the extension factor is v - <span class="math inline">\(\frac {k&#39;}{k}\)</span> where k’is the number of questions on the new test (here 20-5=15 questions) and k is the number of questions on the original test (here:20). Filling in gives v= <span class="math inline">\(\frac {15}{20}= 0.75\)</span></p>
+<p>The formula for the reliability of the extended test is $r_{xx’} =  =  =  = 0.809 $</p>
+<p>Thus, the correct answer is Option C.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Lower than .65
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Between .65 and .75
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Between .75 and .85
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Higher than .85
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

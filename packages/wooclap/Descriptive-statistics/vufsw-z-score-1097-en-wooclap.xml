@@ -67,19 +67,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-In Germany, because the z-score of the offered salary is higher in Germany than in the US.
+In the US, because the z-score of the offered salary is higher in the US than in Germany
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-In the US, because the z-score of the offered salary is higher in the US than in Germany
+In Germany, because the correlation coefficient of the offered salary is higher in Germany than in the US
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -97,13 +97,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-In Germany, because the correlation coefficient of the offered salary is higher in Germany than in the US
+In Germany, because the z-score of the offered salary is higher in Germany than in the US.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

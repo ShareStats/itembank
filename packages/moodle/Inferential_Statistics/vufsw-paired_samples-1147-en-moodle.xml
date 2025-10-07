@@ -102,13 +102,13 @@ standard error (se) of the mean difference      
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Yes, because: the absolute observed t-value &gt; the critical t-value.
+Yes, because: the absolute observed t-value &lt; the critical t-value.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -122,13 +122,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Yes, because: the absolute observed t-value &lt; the critical t-value.
+Yes, because: the absolute observed t-value &gt; the critical t-value.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

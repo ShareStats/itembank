@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-reliability-005-en-wooclap/Reliability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_uu-reliability-005-en_uu-reliability-005-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In an experiment on sensitivity to environmental noise when performing cognitive tasks, participants are given ten tasks. The reliability rXX’ of this test (calculated over the composite score of the ten tasks) is .60. A researcher decides to expand it by five equivalent tasks.</p>
+<p>The estimated reliability of the extended test (rvv’) is then:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>We first determine the extension factor:</p>
+<p><span class="math inline">\(v= \frac {k&#39;}{k} = \frac {Nieuwe aantal items} {Oorspronkelijk aantal items} = \frac {15}{10} = 1.50\)</span></p>
+<p>We know that the original reliability of the test was .60. Using the SPearman Brown formula, we calculate the estimated reliability of the extension test:</p>
+<p>$r_{vv’} =  {1 + (v-1)r{oo’}} =  {1+ (1.50-1) * 0.60} =  = 0.69 $</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Rvv’ is less than or equal to 0.60
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Rvv’ is greater than 0.60 but less than or equal to 0.70
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Rvv’ is greater than 0.70 but less than or equal to 0.80
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Rvv’ is greater than 0.80
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

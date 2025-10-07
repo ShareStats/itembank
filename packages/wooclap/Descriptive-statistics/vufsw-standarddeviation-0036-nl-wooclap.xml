@@ -52,9 +52,19 @@ variabiliteit?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Het bereik (de <em>range</em>) kijkt alleen naar de uiteinden van de verdeling, en de standaarddeviatie is gebaseerd op alle observaties.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Het bereik (de <em>range</em>) kijkt niet naar de uiteinden van de verdeling, maar de standaarddeviatie wel.
+Het bereik (de <em>range</em>) kijkt alleen naar het midden van de verdeling, en de standaarddeviatie naar de volledige verdeling.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -72,19 +82,9 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Het bereik (de <em>range</em>) kijkt alleen naar de uiteinden van de verdeling, en de standaarddeviatie is gebaseerd op alle observaties.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Het bereik (de <em>range</em>) kijkt alleen naar het midden van de verdeling, en de standaarddeviatie naar de volledige verdeling.
+Het bereik (de <em>range</em>) kijkt niet naar de uiteinden van de verdeling, maar de standaarddeviatie wel.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

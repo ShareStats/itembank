@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-width-1233-nl-wooclap/inferential statistics/confidence intervals/width</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-width-1233-nl_vufsw-width-1233-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Als je de steekproefomvang met een factor vier vergroot, zal de breedte van het betrouwbaarheidsinterval……</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Het antwoord: <em>verhogen met een factor twee </em>is <strong>verkeerd</strong>. Het is waar dat de factor 2 is, maar het vergroten van de steekproefgrootte vermindert de breedte van de betrouwbaarheidsintervallen omdat het de standaardfout verkleint. De standaardafwijking voor een bevolkingspercentage heeft de vierkantswortel van de steekproefgrootte in de noemer.</p>
+<p>Het antwoord: <em>verhogen met een factor 4</em> is <strong>verkeerd</strong>. Het vergroten van de steekproefgrootte vermindert de breedte van betrouwbaarheidsintervallen omdat het de standaardfout verkleint. Bovendien heeft de standaardfout voor een populatie percentage heeft de vierkantswortel van de steekproefomvang in de noemer. Daarom is het vergroten van de steekproefomvang met een factor 4 (dus vermenigvuldigen met 4) gelijk aan het vermenigvuldigen van de standaardfout. met 4) gelijk aan het vermenigvuldigen van de standaardfout met 1/2.</p>
+<p>Het antwoord: <em>met een factor twee verminderen</em> is <strong>juist</strong>. De standaard fout voor een populatiepercentage heeft de vierkantswortel van de steekproefgrootte in de noemer. Daarom is het verhogen van de steekproefomvang met een factor 4 (dus vermenigvuldigen met 4) gelijk aan het vermenigvuldigen van de standaardfout met 1/2. fout met 1/2. Het interval zal dus half zo breed zijn.</p>
+<p>Het antwoord: <em>verkleinen met een factor 4</em> is <strong>verkeerd</strong>. Het is waar dat het afneemt, maar niet met een factor 4. De standaardfout voor een populatiepercentage percentage heeft de vierkantswortel van de steekproefomvang in de noemer. Daarom is het vergroten van de steekproefgrootte met een factor 4 (dus vermenigvuldigen met met 4) is gelijk aan het vermenigvuldigen van de standaardfout met 1/2. Het interval half zo breed.</p>
+<p>Als je meer wilt weten over steekproefgrootten, bekijk dan dit
+<a href="https://www.youtube.com/watch?v=QHzMPzHQgEg&amp;index=9&amp;list=PLyLpEs0x9BnmPTE2RRRJW058Nf7R_2xQa">clip</a>.</p>
+<p>Taal Nederlands</p>
+<p>Moeilijkheidsniveaus Moeilijk</p>
+<p>M&amp;T BIS Standaardwaarde</p>
+<p>M&amp;T Verdelingen Standaardwaarde</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Met een factor 4 toenemen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Verminderen met een factor 4.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Met een factor twee toenemen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Verminderen met een factor twee.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

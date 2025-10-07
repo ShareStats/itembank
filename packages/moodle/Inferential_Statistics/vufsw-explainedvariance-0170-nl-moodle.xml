@@ -58,16 +58,6 @@ decimaal) </p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-2,4%
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 7,2%
@@ -90,11 +80,21 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-0,2%
+1,6%
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2,4%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -110,7 +110,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-1,6%
+0,2%
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

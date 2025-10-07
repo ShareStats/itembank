@@ -55,19 +55,19 @@ geslacht. Welke statistische toets is dan het meest geschikt?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Een Chi-kwadraat toets (Chi-squared test).
+Een Dependent Samples T-test.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Een Dependent Samples T-test.
+Een Independent Samples T-test.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -85,13 +85,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Een Independent Samples T-test.
+Een Chi-kwadraat toets (Chi-squared test).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

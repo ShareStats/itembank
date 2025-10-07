@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-multiplication-rule-936-en-wooclap/Probability/Elementary Probability/General Rules/Multiplication rule</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-multiplication-rule-936-en_uva-multiplication-rule-936-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In 1998, a survey of American adolescents 18 published. 22.8% of the boys and 5.2% of the girls went to the casino at least gone to the casino at least once a week in the past year. Overall, the population in the USA consists of 50.9% boys and 49.1% girls. Do we define:‖  Event <em>A</em> = the chosen person is a boy. Event <em>B</em> = the chosen person is a weekly gambler.â  Then what is the probability of randomly choosing someone who is a boy and also gambled weekly in the past year?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,116
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.116: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,228
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.228: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,281
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.281: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,026
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.026: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

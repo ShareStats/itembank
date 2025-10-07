@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-217-nl-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA, Inferential Statistics/NHST/p-value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-217-nl_eur-inferential_statistics-217-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>De onderstaande figuur is een interactiegrafiek die het resultaat is van een factorial ANOVA met twee tussen-subject factoren, A en B, elk met twee condities en N = 40.</p>
+<p><img src="factorial_anova.png" /></p>
+<p>Welk van de drie effecten in de factorial ANOVA zou zeker NIET significant zijn?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Het hoofdeffect van een onafhankelijke variabele verwijst naar het totale effect van deze variabele op de afhankelijke variabele, ongeacht het niveau van de andere onafhankelijke variabele. Uit de grafiek kun je zien dat er geen verschil is in gemiddelden tussen A1 en A2. Dit gemiddelde lijkt hetzelfde te zijn voor beide condities (je kunt dit voor elke conditie van A zien door het midden te nemen tussen de lijnen B1 en B2; het punt dat je vindt voor A1 ligt op dezelfde hoogte als het punt voor A2). Er is dus geen hoofdeffect van A, want in dit geval zou je een verschil verwachten tussen de gemiddelden van A1 en A2. Hetzelfde geldt ook voor B1 en B2. Er is dus ook geen hoofdeffect van B.</p>
+<p>Je zou echter wel een interactie verwachten, aangezien de lijnen elkaar zo netjes kruisen.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het hoofdeffect van A, we zijn niet zeker van het hoofdeffect van B
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onjuist
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Het hoofdeffect van A én het hoofdeffect van B
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het interactie-effect A*B
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+B en c zijn beide juist
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

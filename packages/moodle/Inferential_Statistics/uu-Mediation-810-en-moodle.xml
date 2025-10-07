@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Mediation-810-en-moodle/Inferential Statistics/Regression/Multiple linear regression/Mediation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Mediation-810-en_uu-Mediation-810-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A study is conducted to investigate whether the relationship between an attitude and a person’s behavior is mediated by action orientation. The following data are reported:</p>
+<p>Prediction behavior by attitude: B = 0.90, p = .04 Prediction action orientation by attitude: B = 0.98, p = .01 Prediction behavior by attitude after including behavioral orientation in the analysis: B = 0.90, p = .04</p>
+<p>Which statement is correct?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The relationship between attitude and behavior is moderated by behavioral orientation.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The relationship between attitude and behavior is fully mediated by behavioral orientation.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The relationship between attitude and behavior is partially mediated by behavioral orientation.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The relationship between attitude and behavior is not mediated by behavioral orientation.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

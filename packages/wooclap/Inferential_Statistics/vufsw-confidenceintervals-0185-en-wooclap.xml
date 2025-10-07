@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-confidenceintervals-0185-en-wooclap/inferential statistics/confidence intervals</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-confidenceintervals-0185-en_vufsw-confidenceintervals-0185-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The following is a small excerpt from a research report on the level of employee satisfaction at a large organization. There is one text and one number omitted from this research report.</p>
+<p>The level of job satisfaction was measured through 8 questions. Each of these questions had the following five response options: completely agree disagree (1), disagree (2), don’t agree, don’t disagree (3), agree (4), completely agree (5). A scale was constructed by taking per respondent calculating the mean score on these 8 items.</p>
+<p>The data from our sample showed that the level of satisfaction with the current job of workers with a permanent contract was significantly different from workers with temporary contracts. The calculation of
+* In effect shows that the difference between the mean scores of the two groups differs significantly from
+* [—Getal–]**.</p>
+<p>What is the correct text and number?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<strong>Text:</strong> a 95% confidence interval. <strong>Getal:</strong> 0.05.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<strong>Text:</strong> the 5% significance level. <strong>Getal:</strong> 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<strong>Text:</strong> a 95% confidence interval. <strong>Getal:</strong> 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<strong>Text:</strong> the 5% significance level. <strong>Getal:</strong> 0.05.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

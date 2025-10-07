@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Cronbach's-alpha-008-en-wooclap/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_uu-Cronbach's-alpha-008-en_uu-Cronbach's-alpha-008-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The SPSS output below of the reliability analysis for the Negative Fear of Failure scale is based on data from the Performance Motivation Test for Children (PMTK).</p>
+<p><img src="uu-Cronbach&#39;s-alpha-008-en-tabel.jpg" /></p>
+<p>Suppose you need to shorten the test, which of the four items listed is first eligible to be removed from the scale?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Item 14
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+By removing item 14, Cronbach’s Alpha would get lower. Is that what you want?
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Item 11
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+By removing item 11, Cronbach’s Alpha would get lower. Is that what you want?
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Item 2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+By removing item 2, Cronbach’s Alpha would get lower. Is that what you want?
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+None of these items
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Good
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

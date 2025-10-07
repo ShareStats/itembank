@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-expected-value-658-en-wooclap/Probability/Elementary Probability/Random variables/Expected value</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Probability_uva-expected-value-658-en_uva-expected-value-658-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In korfball, shot percentage is tracked for each player. If John has a shot percentage of 25%, he scores on one out of every four goal attempts. John has two goal attempts. Below is a table, <em>X</em> is chance variable and the number of hits <em>X</em> on these two goal attempts can take the values 0, 1 or 2.</p>
+<p>—— —— —— —— <em>X</em> 0 1 2 probability 0.56 0.38 0.06 —— —— —— ——</p>
+<p>What is the expected score on two goal attempts? Round to two decimal places.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The correct answer is: 0.5</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.5</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

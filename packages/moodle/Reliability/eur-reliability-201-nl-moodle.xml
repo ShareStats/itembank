@@ -43,7 +43,7 @@
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
-<p>Relatively many easy items means that the test is relatively easy that is suited for people with low ability: it discriminates well between low ability scores. Since high ability people will give correct answers to most of the easy questions the test does not discriminate well between high ability level. So the test is more reliable for low ability than for high ability level.</p>
+<p>Relatief veel gemakkelijke items betekent dat de test relatief gemakkelijk is en geschikt voor mensen met een laag vermogen: het discrimineert goed tussen lage vermogensscores. Aangezien mensen met een hoog vermogen de meeste gemakkelijke vragen correct zullen beantwoorden, discrimineert de test minder goed tussen hoge vermogensniveaus. Dus de test is betrouwbaarder voor laag vermogen dan voor hoog vermogen.</p>
 </p>]]></text>
 </generalfeedback>
 <penalty>0</penalty>
@@ -51,13 +51,13 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-De betrouwbaarheid van de test is lager in een populatie bestaande uit mensen die een relatief lage vaardigheid hebben dan in een populatie bestaande uit mensen die een relatief hoge vaardigheid hebben.
+De betrouwbaarheid van de test is hoger in een populatie met mensen die een relatief lage vaardigheid hebben dan in een populatie bestaande uit mensen die een relatief hoge vaardigheid hebben.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Fout
+Goed
 </p>]]></text>
 </feedback>
 </answer>
@@ -81,13 +81,13 @@ Fout
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-De betrouwbaarheid van de test is hoger in een populatie met mensen die een relatief lage vaardigheid hebben dan in een populatie bestaande uit mensen die een relatief hoge vaardigheid hebben.
+De betrouwbaarheid van de test is lager in een populatie bestaande uit mensen die een relatief lage vaardigheid hebben dan in een populatie bestaande uit mensen die een relatief hoge vaardigheid hebben.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Goed
+Fout
 </p>]]></text>
 </feedback>
 </answer>

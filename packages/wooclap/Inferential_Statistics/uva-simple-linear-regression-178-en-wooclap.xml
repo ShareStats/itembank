@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-simple-linear-regression-178-en-wooclap/Inferential Statistics/Regression/Simple linear regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-simple-linear-regression-178-en_uva-simple-linear-regression-178-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>We have the regression equation <em>ŷ</em> = 4 + 2<em>x</em><sub>1</sub> + 5<em>x</em><sub>2</sub> + 9<em>x</em><sub>3</sub>. We check for <em>x</em><sub>2</sub> and <em>x</em><sub>3</sub>. Now we want to know what the increase in predicted <em>y</em> is if we go from 5 to 10 for <em>x</em><sub>1</sub>.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+5: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+10
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+10: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+20
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+20: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-chi-squared-1132-nl-moodle/inferential statistics/nhst/test statistic/chi-squared</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-chi-squared-1132-nl_vufsw-chi-squared-1132-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoek onder de leden van een grote vakbondsorganisatie naar de relatie tussen hun mate van betrokkenheid (laag, midden, hoog) bij de vakbond en hun deelname aan een staking (ja, nee) levert de volgende gegevens op:</p>
+<table class="table_shade">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroep>
+<tbody>
+<tr class="odd">
+<td>
+<br />
+</td>
+<td>
+<em>Betrokkenheid</em>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr class="even">
+<td>
+<br />
+</td>
+<td>
+laag
+</td>
+<td>
+midden
+</td>
+<td>
+hoog
+</td>
+<td>
+totaal
+</td>
+</tr>
+<tr class="odd">
+<td>
+<em>deelname staking</em>
+</td>
+<td>
+<br />
+</td>
+<td>
+<br />
+</td>
+<td>
+<br />
+</td>
+<td>
+<br />
+</td>
+</tr>
+<tr class="even">
+<td>
+ja
+</td>
+<td>
+30
+</td>
+<td>
+25
+</td>
+<td>
+70
+</td>
+<td>
+125
+</td>
+</tr>
+<tr class="odd">
+<td>
+nee
+</td>
+<td>
+70
+</td>
+<td>
+25
+</td>
+<td>
+30
+</td>
+<td>
+125
+</td>
+</tr>
+<tr class="even">
+<td>
+totaal
+</td>
+<td>
+100
+</td>
+<td>
+50
+</td>
+<td>
+100
+</td>
+<td>
+250
+</td>
+</tr>
+</tbody>
+</table>
+<p>Bereken de waarde van Chi-kwadraat op de gegevens in bovenstaande tabel.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Gebruik de <em>chi</em> kwadraatformule:</p>
+<ul>
+<li>Hi* kwadraat; <em>Χ</em><sup>2</sup> = (20)<sup>2</sup>/50 + (20)<sup>2</sup>/50 + 0 + 0 + (20)<sup>2</sup>/50 + (20)<sup>2</sup>/50 =32 Als je meer wilt weten over de <em>chi</em> kwadraattest en vrijheidsgraden vrijheid bekijk dit
+<a href="https://www.youtube.com/watch?v=izw6vGctckA&amp;index=2&amp;list=PLyLpEs0x9BnkqWS0k674CckSeAeJ4A3W7">clip</a></li>
+</ul>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+32
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6.4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+80
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-standardizedcoefficient-301-nl-moodle/Inferential Statistics/Regression/Stenardized coefficient</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-standardizedcoefficient-301-nl_vufgb-standardizedcoefficient-301-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Voor een bepaald onderzoek is bekend dat de steekproefgemiddelden van <span class="math inline">\(X\)</span> en <span class="math inline">\(Y\)</span> zijn respectievelijk <span class="math inline">\(20\)</span> en <span class="math inline">\(9,01\)</span>, met <span class="math inline">\(s_{x} = 2,45\)</span> en <span class="math inline">\(s_{y} = 1,00\)</span> en de geschatte regressievergelijking <span class="math inline">\(Y&#39; = 4,61+0,22X\)</span>. Wat is de correlatie tussen <span class="math inline">\(X\)</span> en <span class="math inline">\(Y\)</span>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(0.22\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onjuist
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(0.54\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Juist
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(-0.22\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onjuist
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(-0.54\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onjuist
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

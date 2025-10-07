@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-One-sample-mean-800-nl-wooclap/Inferential Statistics/Parametric Techniques/t-test/One sample mean</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-One-sample-mean-800-nl_uu-One-sample-mean-800-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoeker wil onderzoeken of UCU-studenten verschillen van Nederlandse universiteitsstudenten in het algemeen wat betreft de mate van academische stress die zij ervaren (gemeten op een schaal van 0 tot 100). De onderzoeker weet dat de gemiddelde stressscore onder studenten in Nederland 59 is. Voor haar studie heeft de onderzoeker gegevens verzameld van een willekeurige steekproef van 36 UCU-studenten. Het gemiddelde van de academische stressscore in de steekproef was 62 en de geschatte populatievariantie (S2) was 100.</p>
+<p>Welke van de volgende tests moet de onderzoeker gebruiken om haar onderzoeksvraag te beantwoorden?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De Z-test
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De t-toets voor één steekproef
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De t-test voor onafhankelijke gemiddelden
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De Chi-kwadraat toets voor onafhankelijkheid
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

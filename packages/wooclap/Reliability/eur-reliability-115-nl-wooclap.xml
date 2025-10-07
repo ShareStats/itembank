@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-reliability-115-nl-wooclap/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Reliability_eur-reliability-115-nl_eur-reliability-115-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een test die assertiviteit meet, wordt zowel voor als na een assertiviteitstraining afgenomen. De variantie in de pre-test is 8 en de betrouwbaarheid is .75. De posttest heeft een variantie van 7 en de betrouwbaarheid is .80. De correlatie tussen de scores van de pre- en posttest is .65. Bereken de betrouwbaarheid van de verschilscores.</p>
+<p><span class="math inline">\(R_d = \frac{S^2_{Xo} \times R_{XX} + S^2_{Yo} \times R_{YY}-2\times r_{XoYo}\times\ S_{Xo} \times S_{Yo}}{S^2_{XO} + S^2_{YO} - 2\times r_{XoYo}\times\ S_{Xo} \times S_{Yo}}\)</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Om de betrouwbaarheid van de verschilscores te berekenen, moeten we de eerder genoemde formule gebruiken:
+<span class="math inline">\(R_d = \frac{8 \times .75+7\times.80-2\times.65\times\sqrt{8\times7}}{8+7-2\times.65\times \sqrt{8\times7}} = \frac{1.87}{5.27} = .355\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.355</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

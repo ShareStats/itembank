@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-simple-linear-regression-802-en-moodle/Inferential Statistics/Regression/Simple linear regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-simple-linear-regression-802-en_uva-simple-linear-regression-802-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>ANOVA is a multiple regression with a quantitative dependent variable and categorical (indicator) variables. The null hypothesis of a one-way (one factor) three-level ANOVA is that the averages of all three groups (populations) are equal. In the multiple regression represents the null hypothesis that the plane through the averages of the three groups is horizontal. The null hypothesis of the multiple regression which is equivalent to that of ANOVA is</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+H0: β1 = β2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+H0: β1 = β2: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+H0: β1 = β2 = 0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+H0: β1 = β2 = 0: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+H0: β1 = β2 = α
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+H0: β1 = β2 = α: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

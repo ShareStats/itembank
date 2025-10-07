@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-equation-1090-nl-wooclap/inferential statistics/regression/equation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-equation-1090-nl_vufsw-equation-1090-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>De tabel hieronder toont de gegevens van 9 studenten met betrekking tot hun examencijfer (Y), gemeten op een schaal van 0 tot 100, en afwezigheid bij colleges (X), gemeten in het aantal gemiste colleges. De formule die hoort bij de regressielijn is Y= 96.14+ 2.75*X. Wat is het geschatte tentamencijfer cijfer van een student die geen colleges heeft gemist en daarom 0 op afwezigheid?</p>
+<tabel>
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+</colgroep>
+<tbody>
+<tr class="odd">
+<td class="tvcss_2">
+X
+</td>
+<td class="tvcss_3">
+<br />
+</td>
+<td class="tvcss_4">
+0
+</td>
+<td class="tvcss_4">
+3
+</td>
+<td class="tvcss_4">
+6
+</td>
+<td class="tvcss_4">
+4
+</td>
+<td class="tvcss_4">
+9
+</td>
+<td class="tvcss_4">
+2
+</td>
+<td class="tvcss_4">
+15
+</td>
+<td class="tvcss_4">
+8
+</td>
+<td class="tvcss_4">
+5
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_2">
+Y
+</td>
+<td class="tvcss_3">
+<br />
+</td>
+<td class="tvcss_4">
+98
+</td>
+<td class="tvcss_4">
+86
+</td>
+<td class="tvcss_4">
+80
+</td>
+<td class="tvcss_4">
+82
+</td>
+<td class="tvcss_4">
+71
+</td>
+<td class="tvcss_4">
+92
+</td>
+<td class="tvcss_4">
+55
+</td>
+<td class="tvcss_4">
+76
+</td>
+<td class="tvcss_4">
+82
+</td>
+</tr>
+</tbody>
+</table>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De formule: Y= 96,14+ 2,75*X : als X 0 is dan Y=96,14</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+96,14
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2,75
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+96
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

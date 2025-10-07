@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-119-nl-wooclap/Inferential Statistics/Parametric Techniques/ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-119-nl_eur-inferential_statistics-119-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Lees de volgende Stellingen:
+* Telling I:* Over het algemeen hebben ontwerpen tussen proefpersonen meer deelnemers nodig dan ontwerpen binnen proefpersonen.</p>
+<ul>
+<li>Telling II:* Een experimenteel design met één factor (d.w.z. met één onafhankelijke variabele) moet minstens twee condities bevatten.</li>
+</ul>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Within-subjects designs vereisen minder deelnemers dan between-subjects designs, omdat verschillen tussen individuen er minder toe doen in het eerste design. Bovendien, als we maar één onafhankelijke variabele hebben, moet deze uit minstens 2 condities bestaan die met elkaar vergeleken worden.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Beide stellingen zijn waar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit is het juiste antwoord!
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is waar, II is onwaar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is onwaar, I is waar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Beide zijn onwaar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Dit antwoord is onjuist
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

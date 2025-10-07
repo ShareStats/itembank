@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Continuous-variable-001-en-wooclap/Variable type/Continuous variable</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Variable-type_uu-Continuous-variable-001-en_uu-Continuous-variable-001-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Which of the following variables is not a continuous variable?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The time required to solve a sum.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Time is a continuous variable. 3.5 minutes or 6.93 seconds are possible values.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Temperature.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Temperature is a continuous variable. It could be 13.5 degrees outside or the oven could be 181.7 degrees hot.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Weight.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Weight is a continuous variable. A person could weigh 71.7 pounds or you could have 145.6 grams of sugar left in the bag.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Number of children per family.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This answer is correct. We are counting the number of children. This is a discrete variable.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

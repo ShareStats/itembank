@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-variance-600-en-wooclap/Descriptive statistics/Summary Statistics/Measures of Spread/Variance</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uu-variance-600-en_uu-variance-600-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In a population of 5 individuals with an extremely rare disease, the age at which the disease first manifested itself was measured. The table below shows the deviation scores for age for these 5 individuals. What is the variance of the distribution of age in this population?</p>
+<p><img src="@@PLUGINFILE@@/uu-variance-600-en-tabel.jpg" /></p>
+</p>]]></text>
+<file name="uu-variance-600-en-tabel.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+It cannot be determined without giving the mean µ of the distribution.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+You can: the deviation scores are in the table.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+No, that’s not correct unfortunately.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+5.5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+No, that’s not right unfortunately.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The correct answer is 6.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

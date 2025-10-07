@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-inferential-statistics-58-en-moodle/Inferential Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-inferential-statistics-58-en_uva-inferential-statistics-58-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A multiple regression analysis is performed with three <em>explanatory variables</em>. It is collectively examined whether with the three variables the regression has a significant effect on the prediction. To that end the null hypothesis is established which states that H<sub>0</sub>: β<sub>1</sub> = β<sub>2</sub> = β<sub>3</sub>
+= 0. The alternative hypothesis, which states the opposite of the null hypothesis, states that</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+All slopes (βs) are unequal to 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+All slopes (βs) are unequal to 0: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+At least one slope (β) is unequal to 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+At least one slope (β) is unequal to 0: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+All slopes (βs) are different.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+All slopes (β’s) are different…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

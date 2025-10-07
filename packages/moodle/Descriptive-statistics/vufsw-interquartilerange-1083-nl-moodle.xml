@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-interquartilerange-1083-nl-moodle/descriptive statistics/summary statistics/measures of spread/interquartile range/ boxplot</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_vufsw-interquartilerange-1083-nl_vufsw-interquartilerange-1083-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een nieuwsgierige onderzoeker vroeg een steekproef van studenten in een online vragenlijst naar hun schoenmaat. De boxplot hieronder toont de antwoorden.<br />
+Wat was (ongeveer) het interkwartielbereik op basis van de boxplot?</p>
+<p><img src="@@PLUGINFILE@@/1580470436317.png" /></p>
+</p>]]></text>
+<file name="1580470436317.png" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Het is 3: van 39 - 42 De <strong>interkwartielafstand</strong> is een maat voor waar de middelste vijftig<a href="https://www.statisticshowto.datasciencecentral.com/middle-fifty/"></a> is in een gegevensreeks. Waar een bereik<a href="https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/statistics-definitions/range-statistics/"> </a>is een maatstaf voor waar het begin en het einde in een verzameling liggen, <strong>een Het interkwartielbereik geeft aan waar het grootste deel van de waarden ligt. Daarom heeft het de voorkeur boven veel andere maten van spreiding<a href="https://www.statisticshowto.datasciencecentral.com/measures-of-spread/"></a> (d.w.z. het gemiddelde van mediaan)<a href="https://www.statisticshowto.datasciencecentral.com/average/"></a><a href="https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/statistics-definitions/median-formula/"></a> bij het rapporteren van zaken als schoolprestaties of SAT-scores. De interkwartielbereikformule is het eerste kwartiel afgetrokken van het derde kwartiel:
+* IQR = Q<sub>3</sub> - Q<sub>1</sub>.</strong></p>
+<p>Taal Engels</p>
+<p>Moeilijkheidsniveaus Gemakkelijk</p>
+<p>M&amp;T Grondbeginselen van kwantitatief onderzoek Grondbeginselen van kwantitatief onderzoek</p>
+<p>M&amp;T BIS Standaardwaarde</p>
+<p>M&amp;T Beschrijvende statistiek Standaardwaarde</p>
+<p>M&amp;T Verdelingen Standaardwaarde</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1 schoenmaat
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2 schoenmaten
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8 schoenmaten
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4 schoenmaten
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3 schoenmaten
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -70,13 +70,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-R<sup>2</sup> = 0 indien het regressiemodel geen enkele voorspellingsfout (‘prediction error’) maakt.
+De waarde van R<sup>2 </sup>kan nooit kleiner zijn dan 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -90,13 +90,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-De waarde van R<sup>2 </sup>kan nooit kleiner zijn dan 0.
+R<sup>2</sup> = 0 indien het regressiemodel geen enkele voorspellingsfout (‘prediction error’) maakt.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>

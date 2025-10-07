@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-central-limit-theorem-873-en-wooclap/Distributions/Limit Theorems/Central Limit Theorem</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-central-limit-theorem-873-en_uva-central-limit-theorem-873-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>When the population distribution of a variable is skewed to the right, the <em>sampling distribution</em> of the mean of this variable in a large sample will approximate a</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Have a binomial distribution.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Have binomial distribution..: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Have normal distribution.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Have normal distribution: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Have distribution that is also skewed to the right.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Have distribution that is also skewed to the right:: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Have distribution with two peaks (bimodal).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Have distribution with two peaks (bimodal)…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-220-nl-wooclap/Inferential Statistics/NHST/p-value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-220-nl_eur-inferential_statistics-220-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een herhaald metingen design met angst als uitkomstvariabele en de variabele stimulus (neutraal, afbeelding van spin, echte spin) als ws-factor, zijn post-hoc tests uitgevoerd voor het significante hoofdeffect van stimulus.</p>
+<p>Het gemiddelde verschil tussen neutrale en echte spinnen is 3,5. De post-hoc test voor dit verschil in SPSS resulteert in t(7) = -4,78, p = .002 (tweezijdig). Wat betekent deze p-waarde?</p>
+<p>De bovenstaande p-waarde geeft aan dat de kans op het vinden van:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De p-waarde vertegenwoordigt de waarschijnlijkheid dat het gevonden steekproefresultaat (in dit geval een verschil tussen de groepen van 3,5 punten) of extremer is als de nulhypothese waar zou zijn.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Een gemiddeld populatieverschil tussen neutrale en echte spinnen van 0 is .002 of extremer.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Een gemiddeld steekproefverschil tussen neutrale en echte spinnen van plus of min 3,5 is .002.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Een gemiddeld steekproefverschil tussen neutrale en echte spinnen van plus of min 3,5 of extremer wanneer het populatieverschil gelijk is aan 0 is .002.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Een gemiddeld steekproefverschil tussen neutrale en echte spinnen dat significant is in de populatie wanneer het populatieverschil gelijk is aan 0 is .002 of extremer.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-207-nl-moodle/Inferential Statistics/Parametric Techniques/Correlations/Pearson, Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-207-nl_eur-inferential_statistics-207-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoeker onderzoekt de relatie tussen depressie en slaapproblemen aan de hand van een steekproef van 55 deelnemers. De betrouwbaarheid van de depressieschaal is hoog, Rxx=.82. Slaapproblemen zijn echter moeilijker te meten en de betrouwbaarheid van deze schaal is Ryy=.62.</p>
+<p>Bereken de maximaal mogelijke correlatie die de onderzoeker kan verwachten tussen depressie en slaapproblemen. Rond af op twee decimalen.</p>
+<p>Gebruik de formule: <span class="math inline">\(r_{XoYo} = r_{XtYt} \times \sqrt {R_{XX}R_{YY}}\)</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De maximale correlatie die kan worden verkregen is de vierkantswortel van het product van de twee betrouwbaarheden maal 1 (de true score correlatie). De maximale correlatie is dus: <span class="math inline">\(rmax_{XoYo} = 1 \sqrt{R_{xx}R_{yy}} = \sqrt {.82 \times .62} = .71\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.71</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

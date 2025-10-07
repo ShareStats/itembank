@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Width-801-en-wooclap/Inferential Statistics/Confidence Intervals/Width</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Width-801-en_uu-Width-801-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A psychologist examined the effect of chronic alcohol abuse on memory. In this experiment, a standardized test was used. Higher scores on the test indicate better memory. Scores on this test for the general population form a normal distribution with <span class="math inline">\(\mu = 50\)</span> and <span class="math inline">\(\sigma = 8\)</span>. A sample of 22 alcohol abusers has a mean score of <span class="math inline">\(M = 47\)</span>. The level of significance is 5%.</p>
+<p>What is the 95% confidence interval for the mean memory score for alcohol abusers?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+47.19 to 52.81
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+46.66 to 53.34
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+44.19 to 49.81
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+43.66 to 50.34
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

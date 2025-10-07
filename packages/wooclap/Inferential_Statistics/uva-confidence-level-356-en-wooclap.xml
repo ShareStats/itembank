@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-confidence-level-356-en-wooclap/Inferential Statistics/Confidence Intervals/Confidence level</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-confidence-level-356-en_uva-confidence-level-356-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>From a normally distributed population with expectation μ, a sample is drawn. Using this, H<sub>0</sub>: μ = 20 is tested (with α = 5%) and a 95% confidence interval for μ established. Which of the following two statements are TRUE? 1: If H<sub>0</sub> is rejected, the value 20 is in the confidence interval.Ê 2: The sample mean is always in the confidence interval.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Assertions 1 and 2 are both correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Assertions 1 and 2 are both correct: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Assertion 1 is true, assertion 2 is false.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Assertion 1 is correct, assertion 2 is incorrect: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Assertion 1 is false, assertion 2 is true.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Assertion 1 is incorrect, assertion 2 is correct: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Assertions 1 and 2 are both false.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Assertions 1 and 2 are both incorrect: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

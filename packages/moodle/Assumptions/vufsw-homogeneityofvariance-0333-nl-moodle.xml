@@ -52,16 +52,6 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Homogeniteit van de varianties van de verschilscores
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Spericiteit
 </p>]]></text>
 <feedback format="html">
@@ -72,7 +62,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Homogeniteit van covariance matrices
+Homogeniteit van de varianties van de verschilscores
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -87,6 +77,16 @@ De homogeniteit van varianties
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Homogeniteit van covariance matrices
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

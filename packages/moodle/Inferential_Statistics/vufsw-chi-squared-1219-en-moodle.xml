@@ -126,26 +126,6 @@ the table. What is the correct conclusion with α = 0.05?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-There is a statistical association between income and satisfaction, because the observed <em>X</em><sup>2</sup> is smaller than the critical <em>X</em><sup>2</sup>.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-There is no statistical association between income and satisfaction, because the observed <em>X</em><sup>2</sup> is smaller than the critical <em>X</em><sup>2</sup>.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 There is a statistical association between income and satisfaction, because the observed <em>X</em><sup>2</sup> is greater than the critical <em>X</em><sup>2</sup>.
@@ -159,6 +139,26 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 There is no statistical association between income and satisfaction, because the observed <em>X</em><sup>2</sup> is greater than the critical <em>X</em><sup>2</sup>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+There is a statistical association between income and satisfaction, because the observed <em>X</em><sup>2</sup> is smaller than the critical <em>X</em><sup>2</sup>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+There is no statistical association between income and satisfaction, because the observed <em>X</em><sup>2</sup> is smaller than the critical <em>X</em><sup>2</sup>.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

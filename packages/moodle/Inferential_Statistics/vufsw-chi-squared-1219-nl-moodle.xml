@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-chi-squared-1219-nl-moodle/inferential statistics/nhst/test statistic/chi-squared</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-chi-squared-1219-nl_vufsw-chi-squared-1219-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Beschouw de volgende contingentietabel met de variabele inkomen in de rijen en de variabele werktevredenheid in de kolommen. De waarden in de cellen zijn de waargenomen frequenties. De waarden tussen haakjes zijn de verwachte frequenties.</p>
+<table class="tvcss_2 tvcss_3 tvcss_4">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td class="tvcss_5">
+<br />
+</td>
+<td class="tvcss_6">
+<br />
+</td>
+<td colspan="2" class="tvcss_7 tvcss_8">
+<em>Beroepstevredenheid</em><br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_5">
+<br />
+</td>
+<td class="tvcss_6">
+<br />
+</td>
+<td class="tvcss_9">
+Ontevreden
+</td>
+<td class="tvcss_10">
+Tevreden
+</td>
+</tr>
+<tr class="odd">
+<td rowspan="3" class="tvcss_5 tvcss_11">
+<em>Inkomen</em><br />
+</td>
+<td class="tvcss_6">
+Naar beneden modaal
+</td>
+<td class="tvcss_9">
+20 (15)
+</td>
+<td class="tvcss_10">
+10 (15)
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_6">
+Modal
+</td>
+<td class="tvcss_9">
+20 (20)
+</td>
+<td class="tvcss_10">
+20 (20)
+</td>
+</tr>
+<tr class="odd">
+<td class="tvcss_6">
+Boven modaal
+</td>
+<td class="tvcss_9">
+10 (15)
+</td>
+<td class="tvcss_10">
+20 (15)
+</td>
+</tr>
+</tbody>
+</table>
+<p>Voer een Chi-kwadraattest (<em>X</em><sup>2</sup>) uit voor de gegevens in de tabel. Wat is de juiste conclusie met α = 0,05?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Er is geen statistisch verband tussen inkomen en tevredenheid, omdat de geobserveerde <em>X</em><sup>2</sup> kleiner is dan de kritische <em>X</em><sup>2</sup>. <em>X</em><sup>2</sup>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Er is geen statistisch verband tussen inkomen en tevredenheid, omdat de geobserveerde <em>X</em><sup>2</sup> groter is dan de kritische <em>X</em><sup>2</sup>. <em>X</em><sup>2</sup>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Er is een statistisch verband tussen inkomen en tevredenheid, omdat de geobserveerde <em>X</em><sup>2</sup> kleiner is dan de kritieke <em>X</em><sup>2</sup>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Er is een statistisch verband tussen inkomen en tevredenheid, omdat de geobserveerde <em>X</em><sup>2</sup> groter is dan de kritische <em>X</em><sup>2</sup>. <em>X</em><sup>2</sup>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

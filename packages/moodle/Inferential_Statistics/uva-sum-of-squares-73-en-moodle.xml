@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-sum-of-squares-73-en-moodle/Inferential Statistics/Regression/Sum of squares</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-sum-of-squares-73-en_uva-sum-of-squares-73-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In an ANOVA, the difference in averages can be described in terms of regression. Suppose a one-way ANOVA (one factor) with three groups is converted into a regression with the following coding:</p>
+<p>——- ——– ——– ——————— ——————- group <em>x</em><sub>1</sub> <em>x</em><sub>2</sub> averages interpretation <em>β</em> 1 1 0 <em>μ</em><sub>1</sub> = α + <em>β</em><sub>1</sub> 2 0 1 <em>μ</em><sub>2</sub> = α + <em>β</em><sub>2</sub> 3 0 0 <em>μ</em><sub>3</sub> = α ——- ——– ——– ——————— ——————-</p>
+<p>The interpretation of <em>β</em><sub>3</sub> is clear, which is α.The interpretation of the other two coefficients is as follows:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Β1 = μ1 - μ2 and β2 = μ1 - μ3.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Β1 = μ1 - μ2 and β2 = μ1 - μ3…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Β1 = μ1 - μ3 and β2 = μ2 - μ3.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Β1 = μ1 - μ3 and β2 = μ2 - μ3…: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Β1 = μ2 - μ3 and β2 = μ1 - μ3.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Β1 = μ2 - μ3 and β2 = μ1 - μ3…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

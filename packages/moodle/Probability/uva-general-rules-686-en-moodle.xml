@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-general-rules-686-en-moodle/Probability/Elementary Probability/General Rules</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Probability_uva-general-rules-686-en_uva-general-rules-686-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Girls and boys choose different fields of study in high school. Boys are much more likely to choose directions such as woodworking, construction and electronics, while girls mostly choose subjects such as nursing and beauty care. The table below shows the numbers of students who chose different subjects:</p>
+<p>|Woodworking|Construction|Electronics|Nursing|Beauty care|Total|. |-|-|-|-|-|-|-| |Meisjes|34|16|57|311|324|742| |Jongens|124|345|231|28|8|736| |Totaal|158|361|288|339|332|1478|</p>
+<p>What is the probability that a randomly selected student is a boy? Round to three decimal places.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The correct answer is 0.497.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>0.497</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

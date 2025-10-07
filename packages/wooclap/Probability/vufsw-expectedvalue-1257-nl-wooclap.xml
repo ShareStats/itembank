@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-expectedvalue-1257-nl-wooclap/probability/elementary probability/random variables/expected value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_vufsw-expectedvalue-1257-nl_vufsw-expectedvalue-1257-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoeker is benieuwd hoe vaak mensen sporten gedurende een week en interviewt 100 mensen. Hij vindt de volgende resultaten.<br />
+Wat is de verwachte waarde van het aantal dagen dat mensen sporten per week op basis van deze steekproef?</p>
+<table class="fr-alternate-rows tvcss_2 tvcss_3">
+<colgroup>
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+</colgroep>
+<tbody>
+<tr class="odd">
+<td class="tvcss_4">
+<strong>Sporten<br /> (hoeveel dagen?)</strong><br />
+</td>
+<td class="tvcss_5">
+0<br />
+</td>
+<td class="tvcss_6">
+1<br />
+</td>
+<td class="tvcss_7">
+2<br />
+</td>
+<td class="tvcss_8">
+3<br />
+</td>
+<td class="tvcss_8">
+4<br />
+</td>
+<td class="tvcss_8">
+5<br />
+</td>
+<td class="tvcss_8">
+6<br />
+</td>
+<td class="tvcss_9">
+7<br />
+</td>
+</tr>
+<tr class="even">
+<td class="tvcss_4">
+<strong>P(y)<br /> </strong>
+</td>
+<td class="tvcss_5">
+0.70<strong><br /> </strong>
+</td>
+<td class="tvcss_6">
+0.10<strong><br /> </strong>
+</td>
+<td class="tvcss_7">
+0.08<br />
+</td>
+<td class="tvcss_8">
+0.05<strong><br /> </strong>
+</td>
+<td class="tvcss_8">
+0.01<strong><br /> </strong>
+</td>
+<td class="tvcss_8">
+0.01<br />
+</td>
+<td class="tvcss_8">
+0.03
+</td>
+<td class="tvcss_9">
+0.02<strong><br /> </strong>
+</td>
+</tr>
+</tbody>
+</table>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Het is 0,82.</p>
+<p>Je kunt dit berekenen door: 0*0,7+1*0,1+2*0,08+3*0,05 etc.</p>
+<p>Taal Nederlands</p>
+<p>Moeilijkheidsniveaus Gemiddeld</p>
+<p>M&amp;T Grondbeginselen van kwantitatief onderzoek Grondbeginselen van kwantitatief onderzoek</p>
+<p>M&amp;T BIS Standaardwaarde</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.14
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.82
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.70
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.00
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.24
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

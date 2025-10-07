@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Split-half-019-en-wooclap/Reliability/Analysis/Split half</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Reliability_uu-Split-half-019-en_uu-Split-half-019-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>We all know people we call “lucky people. Those can do whatever they want and they are always successful. On the other hand, we know the”unlucky ones. No matter what they undertake, it always goes wrong, never does anything decent come about.</p>
+<p>In a pilot to develop a “luck or bad luck” scale, 17 statements (with five ordered response categories: 1 = totally agree to 5 = totally disagree) were presented to a random sample of 129 adults. The split-half method was used to estimate the reliability of the scale scores.</p>
+<p>A disadvantage of estimating reliability using the split-half method is that the result:</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Gives an overestimate of the reliability coefficient.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Gives a non-valid estimate of the reliability coefficient.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Can only be used as an estimate for dichotomous items.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Depends on the composition of the two halves.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

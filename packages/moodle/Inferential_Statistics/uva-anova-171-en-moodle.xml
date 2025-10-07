@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-anova-171-en-moodle/Inferential Statistics/Parametric Techniques/ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-anova-171-en_uva-anova-171-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>To investigate the effects of three different drugs, a a study is set up. To this end, the investigator establishes three confidence intervals for the possible comparison of the three drugs. For all comparisons at a minimum of 95%. This is an example of</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+‘multiple comparison’
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+‘multiple comparison’: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+’multiple correlation
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+‘multiple correlation’: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+’multiple regression
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+‘multiple regression’: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

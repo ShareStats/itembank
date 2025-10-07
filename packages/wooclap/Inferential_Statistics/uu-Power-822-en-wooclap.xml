@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Power-822-en-wooclap/Inferential Statistics/NHST/Power</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Power-822-en_uu-Power-822-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A smoke detector should give a clear signal if there is smoke in the room, and of course remain silent if there is no smoke. We consider the absence of smoke as the null hypothesis. Which situation corresponds to the power as we discussed around testing?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>A: This is a type II error: the alternative hypothesis is correct (there is smoke), but the smoke detector does not signal. B: This is a correct decision with respect to H0; the power is the probability of a correct decision with respect to H1. C: This is a type I error: the null hypothesis is correct (there is no smoke), but the smoke detector gives a signal. D: Power is a correct decision with respect to H1: there is smoke and the smoke detector gives a signal.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The probability that the smoke detector gives no signal when there is smoke
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This is a type II error: the alternative hypothesis is correct (there is smoke), but the smoke detector does not give a signal.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The probability that the smoke detector gives no signal when there is no smoke.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This is a correct decision with respect to H0; the power is the probability of a correct decision with respect to H1.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The probability that the smoke detector gives a signal when there is no smoke.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This is a type I error: the null hypothesis is correct (there is no smoke), but the smoke detector gives a signal.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The probability that the smoke detector gives a signal when there is smoke.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Power is a correct decision with respect to H1: there is smoke and the smoke detector gives a signal.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

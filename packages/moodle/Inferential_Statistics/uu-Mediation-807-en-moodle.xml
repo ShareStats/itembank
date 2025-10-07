@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Mediation-807-en-moodle/Inferential Statistics/Regression/Multiple linear regression/Mediation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Mediation-807-en_uu-Mediation-807-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A study of conflict resolution (Y) in adolescents measures extraversion (X) and examines the level of aggression (M). It is examined whether M is a mediator. One does two steps:</p>
+<ol style="list-style-type: decimal">
+<li>regression with Y as dependent and X as independent variable. (2) regression with M as dependent and X as independent variable.</li>
+</ol>
+<p>Assuming significant results in steps (1) and (2), what is the next step?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>To test mediation, we examine the following four steps: 1. Is there a significant relationship between X and Y? 2. Is there a significant relationship between X and M? 3. Is there a significant relationship between M and Y, when controlling for M? 4. Is the relationship between X and Y still significant, when controlling for M?</p>
+<p>Steps 1 and 2 have been undertaken. The next step is to do a regression analysis with X and M as independent variables and Y as dependent. The results of this analysis can be used for both Step 3 and Step 4.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Regression with Y and M as independent variables and X as dependent.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Regression with X and Y as independent variables and M as dependent.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Regression with X and M as independent variables and Y as dependent.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Regression with Y as independent variable and X as dependent.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

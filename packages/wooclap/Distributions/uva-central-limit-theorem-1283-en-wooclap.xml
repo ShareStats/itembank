@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-central-limit-theorem-1283-en-wooclap/Distributions/Limit Theorems/Central Limit Theorem</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-central-limit-theorem-1283-en_uva-central-limit-theorem-1283-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>To fix a microwave oven you need time X. The distribution of the random variable X has a mean of 1 hour with a standard deviation of 1 hour. Your company has 80 such microwaves. What then is the probability that the average repair job takes longer than 50 minutes?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,06
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.06: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,80
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.80: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,83
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.83: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,94
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.94: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

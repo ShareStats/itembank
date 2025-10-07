@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-ancova-103-en-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-ancova-103-en_uu-ancova-103-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Marco, a culinary specialist from Utrecht, would like to give a good advice for the customers of his magazine about the price/quality ratio of various restaurants in Utrecht based on the year 2014. To this end, he has had 40 restaurants rated by his readers and has collected data on a number of indicators: price for a 3-course menu (in whole euros), quality score of the menu according to readers (1-10) and quality score for the service according to readers (1-10). He himself assigned his own final rating to these restaurants (variable = final score (1-10)). He is building a regression model to predict the final score using the price and the two readers’ ratings. He is very curious how far the predicted scores will deviate from his own judgment.</p>
+<p>Marco decides to visit the three highest scoring restaurants from his dataset with three groups of colleagues who independently assign an expert judgment to their assigned restaurant. In doing so, Marco wants to test whether the average ratings differ significantly from one another. In doing so, for fairness, he wants to factor into the analysis the fact that the restaurants differ in price. What technique should Marco use to analyze this data?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Regression analysis
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+ANOVA for repeated measures
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+ANCOVA
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Two-way ANOVA
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

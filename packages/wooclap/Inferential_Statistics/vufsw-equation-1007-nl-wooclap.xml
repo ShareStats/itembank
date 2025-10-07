@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-equation-1007-nl-wooclap/inferential statistics/regression/equation</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-equation-1007-nl_vufsw-equation-1007-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een onderzoeker legt een verband tussen het aantal uren oefenen en het vermogen om een specifieke vaardigheid (bijv. duiken, armstand duik, highboardduik) met behulp van een lineair regressiemodel: hoe meer je oefent, hoe beter de prestatie van de duik.</p>
+<p>De voorspelde score in een duikwedstrijd berekenen als ze 250 uur training hebben verzameld. Neem aan dat de* helling van uren training training =* .1016 op duikprestaties en de <em>constante</em> = 22,5 in de regressievergelijking. *Gebruik slechts één decimaal!</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>De regressievergelijking is: Duikscore = 22,5 + 0,1016*uren opleiding Als je uren vervangt door 250: (duikscore = 22.5 + 0.1016 * 250), bereik je de uitkomst 47,9</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>47.9</text>
+<tolerance>0</tolerance>
+</answer>
+</question>
+
+</quiz>

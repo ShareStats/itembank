@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-binomial-723-en-moodle/Distributions/Discrete/Binomial</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-binomial-723-en_uva-binomial-723-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Peter is a basketball player who over the course of the season is successful with 80% of his free throws to success. During a crucial game, he misses for a moment of his 12 free throws. Is such a performance bad for Peter? We assume that seven throws are independent of each other. (Use table of binomial distribution allowed.)</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Yes, because he has a 50% chance of missing.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Yes, because he has a 50% chance of mis-throwing: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Yes, because he has an 80% chance of misthrowing.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Yes, because he has an 80% chance of mis-throwing: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+No, because the probability of seven or more failed throws is 0.0039.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+No, because the probability of seven or more failed throws is 0.0039: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-elementary-probability-1166-en-wooclap/Probability/Elementary Probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-elementary-probability-1166-en_uva-elementary-probability-1166-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A ticket in a lottery has an expected profit of € 1.601 with a standard deviation of €3.040. Suppose you get four different lottery tickets receive, what is your expected total profit and its standard deviation thereof?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The expected total profit is €1.601 and the standard deviation is 3.040.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The expected total profit is €1.601 and the standard deviation is 3.040.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The expected total profit is €6.040 and the standard deviation is 6.080.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The expected total profit is € 6.040 and the standard deviation is 6.080…: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The expected total profit is €4 and the standard deviation is 6.080.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The expected total profit is €4 and the standard deviation is 6.080.: Incorrect Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The expected total profit is €6.404 and the standard deviation is 12.16.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The expected total profit is €6.404 and the standard deviation is 12.16.: Incorrect Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

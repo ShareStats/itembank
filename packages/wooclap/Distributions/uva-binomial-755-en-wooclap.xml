@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-binomial-755-en-wooclap/Distributions/Discrete/Binomial</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-binomial-755-en_uva-binomial-755-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Genetics teaches that children inherit genes from their parents. If both parents carry the genes O and A for blood type, each child has a chance of 0.25 to inherit two O genes to become blood type O. The number of children with blood type O among five offspring of these parents is the number of successes <em>X</em> in five independent attempts. Suppose that chance variable <em>X</em> the number of successes with blood type O, so X has the values as 0, 1, TRUE. , 5 and the <em>Binomial</em> (5, 0.25)-distribution. Then what is the probability that <em>X</em> = 2?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,0010
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.0010: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,0146
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.0146: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,0879
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.0879: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,2373
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.2373: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,2637
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.2637: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,3955
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.3955: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

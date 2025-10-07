@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-rsquared-020-en-moodle/Inferential Statistics/Regression/R squared, Inferential Statistics/Regression/Multiple linear regression, Inferential Statistics/Parametric Techniques/ANOVA, Inferential Statistics/Regression/Sum of squares</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufgb-rsquared-020-en_vufgb-rsquared-020-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A multiple regression analysis is performed in SPSS. Below is the incomplete ANOVA table.</p>
+<p>Calculate the <em>R</em>-squared (<span class="math inline">\(R^{2}\)</span>) of the model.</p>
+<p><img src="@@PLUGINFILE@@/vufgb-rsquared-020-nl-table01.jpg" /></p>
+</p>]]></text>
+<file name="vufgb-rsquared-020-nl-table01.jpg" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>The formula for the <span class="math inline">\(R^{2}\)</span> is $<span class="math inline">\(frac{(TSS-SSE)}{TSS}\)</span>. The <span class="math inline">\(TSS = 600\)</span>. The <span class="math inline">\(SSE = MSE ˜times df = 10 ˜times 20 = 200\)</span>.</p>
+<p>The <span class="math inline">\(R^{2}\)</span> is then <span class="math inline">\(\frac{(600-200)}{600} = \frac{400}{600} = 0.67\)</span>. Note that the 400 in the numerator corresponds to the Regression Sum of Squares, which can also be captioned by <span class="math inline">\(250 \times 1+150 \times 1\)</span> calculate.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.33
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.50
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.60
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.67
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-signed-rank-test-177-en-moodle/Inferential Statistics/Non-parametric Techniques/Signed Rank test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-signed-rank-test-177-en_uva-signed-rank-test-177-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In a small company with six employees, each week we track which of the two teams (A and B) earns the most. Using the Wilcoxon test to see which team is better than the other. The difference between team A and team B is: A - B = 3. It follows for the ranks of the teams it follows that</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A had (1, 2, 6) and B had (3, 4, 5).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A had (1, 2, 6) and B had (3, 4, 5)…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A had (1, 2, 3) and B had (4, 5, 6).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A had (1, 2, 3) and B had (4, 5, 6)…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+A had (4, 5, 6) and B had (1, 2, 3).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A had (4, 5, 6) and B had (1, 2, 3)…: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

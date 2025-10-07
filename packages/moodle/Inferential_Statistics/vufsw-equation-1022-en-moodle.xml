@@ -65,6 +65,16 @@ positive.</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+When the athlete’s attitude is positive there is a positive non-significant relationship between hours of training and sports performance.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 When the athlete’s attitude is positive there is a negative non-significant relationship between hours of training and sports performance.
 </p>]]></text>
 <feedback format="html">
@@ -75,7 +85,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-When the athlete’s attitude is positive there is a positive non-significant relationship between hours of training and sports performance.
+When the athlete’s attitude is positive there is a negative significant relationship between hours of training and sports performance.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -90,16 +100,6 @@ When the athlete’s attitude is positive there is a positive significant relati
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-When the athlete’s attitude is positive there is a negative significant relationship between hours of training and sports performance.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

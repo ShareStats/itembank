@@ -53,7 +53,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The required reliability depends on the variation in the anxiety scores of the children.
+The reliability has to be a bit higher than for testing individuals
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -61,19 +61,9 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-The reliability is allowed to be a bit lower than for testing individuals.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The reliability has to be a bit higher than for testing individuals
+The required reliability depends on the variation in the anxiety scores of the children.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -88,6 +78,16 @@ The reliability has to be about the same as the reliability required for testing
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The reliability is allowed to be a bit lower than for testing individuals.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

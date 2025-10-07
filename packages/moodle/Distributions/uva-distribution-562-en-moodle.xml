@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-distribution-562-en-moodle/Distributions/Continuous/t-distribution</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-distribution-562-en_uva-distribution-562-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>From a randomly drawn sample of 5 women, the (normally distributed) weight (in kg.) was measured:‖ 55, 70, 61, 58, 66 We want to test H<sub>0</sub>: μ=60. The test size to be used follows a</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Standard normal distribution
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Standard normal distribution: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+T-distribution with 3 degrees of freedom
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+T-distribution with 3 degrees of freedom: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+T-distribution with 4 degrees of freedom
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+T-distribution with 4 degrees of freedom: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+T-distribution with 5 degrees of freedom
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+T-division with 5 degrees of freedom: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

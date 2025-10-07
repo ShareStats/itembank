@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-binomial-test-1536-en-wooclap/Inferential Statistics/Non-parametric Techniques/Binomial test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-binomial-test-1536-en_uva-binomial-test-1536-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Suppose it is given that for a given patient population, the hemoglobin (Hb) level is normally distributed with μ = 9.7 and σ = 1.1. We randomly draw one person from this population. How high should the Hb of this person be at most to belong to the lowest 20% of the population? belong?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.4439
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+8.4439: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+8.7742
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+8.7742: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.2171
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+9.2171: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+9.557
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+9.557: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

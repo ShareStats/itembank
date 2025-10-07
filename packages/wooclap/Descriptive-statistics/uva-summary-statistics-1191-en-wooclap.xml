@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-summary-statistics-1191-en-wooclap/Descriptive statistics/Summary Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-summary-statistics-1191-en_uva-summary-statistics-1191-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>According to the World Bank, about 35% of all people in Uganda in 1999 had less than €1 a day to spend. Suppose you repeatedly take a sample of 100 Ugandans and you count the number of people who had day had less than €1 to spend. What is then the mean and the standard deviation of this distribution?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Mean 0.35, standard deviation 0.2275
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Mean 0.35, standard deviation 0.2275: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Mean 35, standard deviation 0.2275
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Mean 35, standard deviation 0.2275: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Mean 35, standard deviation 0.4770
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Mean 35, standard deviation 0.4770: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Mean 35, standard deviation 4.7697
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Mean 35, standard deviation 4.7697: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Mean 35, standard deviation 22.75
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Average 35, standard deviation 22.75: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

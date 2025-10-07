@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-elementary-probability-1173-en-wooclap/Probability/Elementary Probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-elementary-probability-1173-en_uva-elementary-probability-1173-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>About 10% of people in the Netherlands aged 17 to 23 years are early school leavers. If you randomly choose five people from this age group then random variable X: the number of early school leavers. What then is the probability distribution of X?  A:<br />
+</p>
+<p>—— ——– ——– ——– ——– ——– X<em>i</em> 0 1 2 3 4 Odds 0.5905 0.3280 0.0729 0.0081 0.0004 —— ——– ——– ——– ——– ——–</p>
+<p> B:<br />
+</p>
+<p>—— ——– ——– ——– ——– ——– X<em>i</em> 1 2 3 4 5 Odds 0.3280 0.0729 0.0081 0.0004 0.0001 —— ——– ——– ——– ——– ——–</p>
+<p> C:<br />
+</p>
+<p>—— ——– ——– ——– ——– ——– ——– X<em>i</em> 0 1 2 3 4 5 Odds 0.0001 0.0004 0.0081 0.0729 0.3280 0.5905 —— ——– ——– ——– ——– ——– ——–</p>
+$\verb#      \ D:\#$
+<p>—— ——– ——– ——– ——– ——– ——– X<em>i</em> 0 1 2 3 4 5 Odds 0.5905 0.3280 0.0729 0.0081 0.0004 0.0001 —— ——– ——– ——– ——– ——– ——–</p>
+<p> E:<br />
+</p>
+<p>—— ——– ——– ——– ——– ——– ——– X<em>i</em> 1 2 3 4 5 6 Odds 0.5905 0.3280 0.0729 0.0081 0.0004 0.0001 —— ——– ——– ——– ——– ——– ——–</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+B
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+B: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+C
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+C: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+D
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+D: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+E
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+E: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

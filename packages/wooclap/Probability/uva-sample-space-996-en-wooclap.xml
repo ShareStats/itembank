@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-sample-space-996-en-wooclap/Probability/Elementary Probability/Sample Space</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-sample-space-996-en_uva-sample-space-996-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Suppose you drill a hole and then measure it. We define the event <em>A</em> if the diameter of the hole is larger than 2.3 cm and smaller than 2.5 cm. What then is the complement event of <em>A</em>, if
+<span class="math inline">\(\bar{A}\)</span>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\bar{A}\)</span> = {the diameter of the hole is less than 2.3 cm}
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\bar{A}\)</span> = {the diameter of the hole is less than 2.3 cm}: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\bar{A}\)</span> = {the diameter of the hole is greater than 2.5 cm}
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\bar{A}\)</span> = {the diameter of the hole is greater than 2.5 cm}: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\bar{A}\)</span> = {the diameter of the hole is greater than 4.8 cm}
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\bar{A}\)</span> = {the diameter of the hole is greater than 4.8 cm}: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\bar{A}\)</span> = {the diameter of the hole is less than 2.3 cm or greater than 2.5 cm}
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\bar{A}\)</span> = {the diameter of the hole is less than 2.3 cm or greater than 2.5 cm}: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

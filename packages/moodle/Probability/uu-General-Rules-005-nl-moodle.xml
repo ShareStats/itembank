@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-General-Rules-005-nl-moodle/Probability/Elementary Probability/General Rules</text>
+</category>
+</question>
+
+
+<question type="shortanswer">
+<name>
+<text> Q1 : Probability_uu-General-Rules-005-nl_uu-General-Rules-005-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Vijf leerlingen voeren vijf verschillende experimenten uit. Elk van de vijf experimenten heeft vijf mogelijke uitkomsten, aangeduid door <span class="math inline">\(A, B, C, D,\)</span> en <span class="math inline">\(E\)</span>. Er zijn geen enere uitkomsten mogelijk. Laat <span class="math inline">\(P(A), P(B), P(C), P(D),\)</span> en <span class="math inline">\(P(E)\)</span> de waarschijnlijkheid weergeven waarmee deze uitkomsten worden waargenomen. Op basis van hun gegevens schatten de leerlingen deze kansen als volgt:</p>
+<p>Student 1: <span class="math inline">\(P(A)=0.15, P(B)=0.25, P(C)=0.13, P(D)=0.37, P(E)=0.10\)</span></p>
+<p>Student 2: <span class="math inline">\(P(A)=0.21, P(B)=0.26, P(C)=0.54, P(D)=0.02, P(E)=0.04\)</span></p>
+<p>Student 3: <span class="math inline">\(P(A)=0.23, P(B)=0.47, P(C)=0.19, P(D)=0.05, P(E)=0.06\)</span></p>
+<p>Student 4: <span class="math inline">\(P(A)=0.10, P(B)=0.30, P(C)=0.10, P(D)=0.60, P(E)=-0.10\)</span></p>
+<p>Student 5: <span class="math inline">\(P(A)=0.17, P(B)=0.23, P(C)=0.15, P(D)=0.45, P(E)=0.03\)</span></p>
+<p>Welke van de leerlingen heeft zeker een rekenfout gemaakt? Leg uit waarom je denkt dat ze een fout hebben gemaakt. Meerdere antwoorden zijn mogelijk.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Student 2: De som van de kansen is groter dan 1.</p>
+<p>Student 4: Een kans kan niet negatief zijn.</p>
+<p>Student 5: De som van de kansen is groter dan 1.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<usecase>0</usecase>
+<answer fraction="100" format="moodle_auto_format">
+<text>
+2, 4 en 5
+</text>
+</answer>
+</question>
+
+</quiz>

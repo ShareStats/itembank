@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-expected-value-1135-en-wooclap/Probability/Elementary Probability/Random variables/Expected value</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-expected-value-1135-en_uva-expected-value-1135-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The probability of winning €10 in a gambling game is 0.3 and the probability of losing €1 is 0.7. What is the expected amount a player will win or lose per gamble if he plays the gambling game for an extended period of time?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<ul>
+<li>€0.90 (loss)</li>
+</ul>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li>€0.90 (loss): Incorrect</li>
+</ul>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+€ 2.30 (profit)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+€ 2.30 (profit): Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+€ 10 (profit)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+€ 10 (profit): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<ul>
+<li>€ 10 (loss)</li>
+</ul>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<ul>
+<li>€ 10 (loss): Incorrect</li>
+</ul>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -61,6 +61,16 @@ significantieniveau van 5% (α = .05).</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+We vinden <strong>geen</strong> empirisch bewijs voor de stelling dat het medicijn een verlagend effect heeft gehad, want de geobserveerde absolute t-waarde is <strong>kleiner </strong>dan de kritieke t-waarde.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 We vinden empirisch bewijs voor de stelling dat het medicijn een verlagend effect heeft gehad, want de geobserveerde absolute t-waarde is <strong>groter</strong> dan de kritieke t-waarde.
@@ -68,16 +78,6 @@ We vinden empirisch bewijs voor de stelling dat het medicijn een verlagend effec
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-We vinden <strong>geen</strong> empirisch bewijs voor de stelling dat het medicijn een verlagend effect heeft gehad, want de geobserveerde absolute t-waarde is <strong>groter</strong> dan de kritieke t-waarde.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>
@@ -93,7 +93,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-We vinden <strong>geen</strong> empirisch bewijs voor de stelling dat het medicijn een verlagend effect heeft gehad, want de geobserveerde absolute t-waarde is <strong>kleiner </strong>dan de kritieke t-waarde.
+We vinden <strong>geen</strong> empirisch bewijs voor de stelling dat het medicijn een verlagend effect heeft gehad, want de geobserveerde absolute t-waarde is <strong>groter</strong> dan de kritieke t-waarde.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

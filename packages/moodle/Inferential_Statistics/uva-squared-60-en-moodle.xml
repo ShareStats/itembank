@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-squared-60-en-moodle/Inferential Statistics/NHST/Test statistic/Chi-squared</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-squared-60-en_uva-squared-60-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Two researchers perform a chi-square test for independence on a dataset for a 2-by-2 table. They obtain a P-value that is is less than 0.05. The researchers use a significance level of 0.05 and so they reject the null hypothesis. A disagreement now arises about the conclusion. The first researcher claims that with this result the conclusion must be that the two variables are independent, while the second researcher claims that the variables are actually dependent.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The first researcher is right and the second is wrong.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The first researcher is right and the second is wrong: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The first investigator is wrong and the second is right.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The first investigator is wrong and the second is right: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Both researchers are wrong.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Both investigators are wrong…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -74,16 +74,6 @@ de eerste regressieanalyse</strong> concluderen dat….</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De t-waarde -4.045 buiten het de grenzen van het betrouwbaarheidsinterval ligt, en dat er daarom waarschijnlijk een negatief effect van ‘fameduc’ in de populatie zal zijn
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 De geschatte b (-.026) deel uitmaakt van het betrouwbaarheidsinterval, en dat er daarom waarschijnlijk een negatief effect van ‘fameduc’ in de populatie zal zijn
 </p>]]></text>
 <feedback format="html">
@@ -109,6 +99,16 @@ De populatiewaarde niet 0 zal zijn, en dat er daarom waarschijnlijk een negatief
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De t-waarde -4.045 buiten het de grenzen van het betrouwbaarheidsinterval ligt, en dat er daarom waarschijnlijk een negatief effect van ‘fameduc’ in de populatie zal zijn
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

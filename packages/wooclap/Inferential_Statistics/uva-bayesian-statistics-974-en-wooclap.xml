@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-bayesian-statistics-974-en-wooclap/Inferential Statistics/Bayesian Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-bayesian-statistics-974-en_uva-bayesian-statistics-974-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Suppose it is known that 0.1 of Dutch women have disease <em>D</em>. There is a test to detect this disease. That test is not always reliable: in 0.05 of the cases in which the person concerned has the disease the test gives the result as healthy. And 0.05 of the women who are not sick get a positive result that they are sick. Marja has taken such a test. What are the chances of her getting a positive result get?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,001
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.001: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,019
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,019: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,051
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.051: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,958
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.958: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -105,10 +105,10 @@
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
-<p>The sum of the variances is 18.5. The reliability of the test is <span class="math inline">\(12 \div 11 \times (1-18.5 \div 52.2)=.706\)</span>.
-Spearman-Brown formula can be used to calculate the lengthening factor n. 
-This n is: <span class="math inline">\(.23 \div .14=1.662\)</span>.
-When we product this value with 12, this is 19.9. This means that 8 items have to be added.</p>
+<p>De som van de varianties is 18,5. De betrouwbaarheid van de test is <span class="math inline">\(12 \div 11 \times (1-18.5 \div 52.2)=.706\)</span>.
+De Spearman-Brown formule kan worden gebruikt om de verlengingsfactor n te berekenen.
+Deze n is: <span class="math inline">\(.23 \div .14=1.662\)</span>.
+Wanneer we deze waarde vermenigvuldigen met 12, krijgen we 19,9. Dit betekent dat er 8 items toegevoegd moeten worden.</p>
 </p>]]></text>
 </generalfeedback>
 <penalty>0</penalty>
@@ -118,7 +118,7 @@ When we product this value with 12, this is 19.9. This means that 8 items have t
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-19
+8
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -128,7 +128,17 @@ Incorrect
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-8
+20
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+19
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -143,16 +153,6 @@ Incorrect
 <feedback format="html">
 <text><![CDATA[<p>
 Correct
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-20
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Incorrect
 </p>]]></text>
 </feedback>
 </answer>

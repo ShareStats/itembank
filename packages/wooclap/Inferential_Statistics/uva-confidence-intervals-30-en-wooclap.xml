@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-confidence-intervals-30-en-wooclap/Inferential Statistics/Confidence Intervals</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-confidence-intervals-30-en_uva-confidence-intervals-30-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Before conducting a study, the researcher figures out that they must first must determine how many subjects are needed for a <em>margin of error</em> of m = 0.04 at a <em>confidence interval</em> of 95%, i.e., for <em>z</em>
+= 1.96, for proportion <em>p</em>. The proportion is estimated to be 0.20. The minimum number of subjects required for a <em>margin of error</em> less than or equal to 0.04 is</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+385
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+385: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+196
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+196: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+110
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+110: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

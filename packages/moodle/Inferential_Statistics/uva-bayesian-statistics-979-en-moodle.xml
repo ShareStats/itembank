@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-bayesian-statistics-979-en-moodle/Inferential Statistics/Bayesian Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-bayesian-statistics-979-en_uva-bayesian-statistics-979-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In the population, 2 in 100 people suffer from the disease <em>F</em>. Researchers are designing a test that can detect the disease. But this test is not 100% foolproof. The probability of a negative result when the disease is absent is 0.9 and a positive result when present is 0.7. Suppose the events:Ê<br />
+* <em>A</em>: someone who has disease <em>F</em>,‖
+* <em>B</em>: the test with a positive result.  Then what is the probability that the person being tested has the disease <em>F</em>, given that there is a positive result?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,014
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.014: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,098
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.098: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,125
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.125: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,800
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.800: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

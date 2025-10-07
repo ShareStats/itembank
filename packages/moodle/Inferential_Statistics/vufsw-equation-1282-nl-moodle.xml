@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufsw-equation-1282-nl-moodle/inferential statistics/regression/equation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_vufsw-equation-1282-nl_vufsw-equation-1282-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een student die werkt aan zijn MSc thesis gebruikt een proefopzet om te testen of mensen die naar een negatief nieuwsbericht keken een lagere beoordeling van het imago van een bepaald bedrijf geven dan mensen die een neutraal nieuws keken. De evaluatie wordt gemeten op een schaal van 1 (extreem negatief) tot 5 (extreem positief). negatief) tot 5 (extreem positief).</p>
+<p>De gegevens geven de volgende resultaten:</p>
+<table class="table_shade">
+<tbody>
+<tr class="odd">
+<td>
+<strong>Experimentele groep (groep 1)</strong>
+</td>
+<td>
+<strong>Controlegroep (groep 2)</strong>
+</td>
+</tr>
+<tr class="even">
+<td>
+n = 60
+</td>
+<td>
+n = 60
+</td>
+</tr>
+<tr class="odd">
+<td>
+Gemiddelde = 3,40
+</td>
+<td>
+Gemiddelde = 3,60
+</td>
+</tr>
+<tr class="even">
+<td>
+SD = 0,60
+</td>
+<td>
+SD = 0,60
+</td>
+</tr>
+</tbody>
+</table>
+<p>Zet de bovenstaande gegevens om in een regressievergelijking. De afhankelijke variabele (Y) is de evaluatie van de afbeelding (EVALUATIE) en de afhankelijke variabele (X) is de groep (GROUP), waarbij de controlegroep de referentiecategorie is (controlegroep = 0, experimentele groep = 1).</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+EVALUATIE = 3,40 - 0,20 * GROEP
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+EVALUATIE= 3,20 + 0,40 GROEP
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onjuist
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+EVALUATIE = 3,40 - 3,60 * GROEP
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+EVALUATIE = 3,60 - 0,20 GROEP
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+EVALUATIE = 3,60 + 3,40 GROEP
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+EVALUATIE = 0,20 + 3,40 GROEP
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

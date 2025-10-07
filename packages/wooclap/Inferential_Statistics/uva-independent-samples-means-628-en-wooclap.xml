@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-independent-samples-means-628-en-wooclap/Inferential Statistics/Parametric Techniques/t-test/Independent samples means</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-independent-samples-means-628-en_uva-independent-samples-means-628-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>We want to test the hypothesis H<sub>0</sub>: μ<sub>1</sub>= μ<sub>2</sub> against the one-sided alternative H<sub>1</sub>:μ<sub>1</sub> &lt; μ<sub>2</sub> with risk α = 0.05, using a pooled T-test. To this end, we draw two samples, both of size 10, from the corresponding populations. The limit of the critical area is then</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+-2.1009
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+-2.1009: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+-2.086
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+-2.086: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+-1.7341
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1.7341: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+-1.7247
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1.7247: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

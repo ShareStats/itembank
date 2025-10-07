@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-normal-approximation-to-binomial-1127-en-wooclap/Distributions/Discrete/Normal approximation to Binomial</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Distributions_uva-normal-approximation-to-binomial-1127-en_uva-normal-approximation-to-binomial-1127-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Right after the vacations you hear that you have to take a true-false test with 30 questions must take. Suppose you have to pass 70% (or 21 questions) of all the questions and you haven’t been able to prepare at all. What is the probability that you will give the correct answer on 70% or more of all the questions if you guess all the answers? (Students should use the table of Standard Normal Probabilities.)</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,03
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.03: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,30
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.30: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,70
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.70: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,97
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.97: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Width-804-en-wooclap/Inferential Statistics/Confidence Intervals/Width</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Width-804-en_uu-Width-804-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Using data from a randomly drawn sample of fifteen children aged 3 to 5 years, the following regression equation was constructed:</p>
+<p><span class="math inline">\(Y = 0.75 + 0.75X\)</span></p>
+<p><span class="math inline">\(X =\)</span> age in years; <span class="math inline">\(Y =\)</span> The number of correctly completed Piaget’s experiments on the concept of shape constancy.</p>
+<p>The total number of completed trials equals 6.</p>
+<p>Furthermore, given is: <span class="math inline">\(M_X = 3\)</span>; <span class="math inline">\(s_X = 2\)</span>; <span class="math inline">\(s.e. = 0.75\)</span>.</p>
+<p>If one wants to estimate his y score with 95% confidence for a 4-year-old child, the width of the estimation interval is equal to:</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1.50
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+2.94
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.15
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+8.00
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

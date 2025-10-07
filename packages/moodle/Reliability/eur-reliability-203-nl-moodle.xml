@@ -43,7 +43,7 @@
 </questiontext>
 <generalfeedback format="html">
 <text><![CDATA[<p>
-<p>Because the reliability of an average does depend both on the reliability and the sample size the reliability of a test that is used to compare group averages is allowed to be a bit lower. The sample size compensates for the lower test reliability rendering the average still reliable.</p>
+<p>Omdat de betrouwbaarheid van een gemiddelde zowel afhankelijk is van de betrouwbaarheid als van de steekproefgrootte, mag de betrouwbaarheid van een test die wordt gebruikt om groepsgemiddelden te vergelijken iets lager zijn. De steekproefgrootte compenseert voor de lagere testbetrouwbaarheid, waardoor het gemiddelde nog steeds betrouwbaar is.</p>
 </p>]]></text>
 </generalfeedback>
 <penalty>0</penalty>
@@ -54,6 +54,16 @@
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Die moet hoger zijn dan bij toetsing van individuen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De vereiste betrouwbaarheid hangt af van de spreiding in de angstscores van de kinderen
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -78,16 +88,6 @@ Die mag iets lager zijn dan bij toetsing van individuen.
 <feedback format="html">
 <text><![CDATA[<p>
 Goed
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De vereiste betrouwbaarheid hangt af van de spreiding in de angstscores van de kinderen
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Fout
 </p>]]></text>
 </feedback>
 </answer>

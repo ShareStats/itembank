@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-conditional-probability-693-en-moodle/Probability/Elementary Probability/Conditional probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-conditional-probability-693-en_uva-conditional-probability-693-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Below is a table showing the number of people who committed suicide committed suicide in 2008.</p>
+<p>————— ——– ——— ——– Men Women Total With firearm 12,381 1,559 13,940 Other 9,042 2,300 11,342 Total 21,423 3,859 25,282 ————— ——– ——— ——–</p>
+<p>So what is the probability that you will randomly choose a female suicide bomber choose one who also used a firearm?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,06
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.06: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,15
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.15: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,27
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.27: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,40
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.40: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-oneway-anova-330-en-wooclap/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-oneway-anova-330-en_uva-oneway-anova-330-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Below is an ANOVA (incomplete) table, belonging to linear regression of a dependent variable on an explanatory variable.</p>
+<p>————– —- —- —- — Variation source SS df MS F Regression 54 Residual 90 9 ————– —- —- —- —</p>
+<p>The value of the test quantity F, the critical value and the conclusion (for testing with a risk of α = 0.05) must then be</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+F = 5.4, critical value = 5.12, significant
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+F = 5.4, critical value = 5.12, significant: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+F = 2.7, critical value = 4.26, not significant
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+F = 2.7, critical value = 4.26, not significant: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+F = 5.4, critical value = 10.56, not significant
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+F = 5.4, critical value = 10.56, not significant: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+F = 0.6, critical value = 4.96, not significant
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+F = 0.6, critical value = 4.96, not significant: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

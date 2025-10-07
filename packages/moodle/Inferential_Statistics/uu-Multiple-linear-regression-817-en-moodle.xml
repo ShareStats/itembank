@@ -38,57 +38,34 @@
 }
 </style>
 <p>
-<p>In a sample of UCU students, you want to investigate whether the personality trait “extraversion” predicts the number of off-campus friends a student has. However, you are concerned that your results might be influenced by the fact that Dutch students might have more off-campus friends than international students, on average. How could you best address this problem?</p>
+<p>A researcher wants to know the effect of the number of hours of FREE TIME per week on students’ sense of HELLOW (questionnaire with scale of 0-20). However, the researcher also has reason to expect that STUDY RESULTS (insufficient, sufficient) may have an impact on this relationship.</p>
+<p>In what way can the researcher best analyze whether the relationship between number of free hours per week and feeling of happiness is moderated by study results?</p>
 </p>]]></text>
 </questiontext>
-<generalfeedback format="html">
-<text><![CDATA[<p>
-</p>]]></text>
-</generalfeedback>
 <penalty>0</penalty>
 <defaultgrade>1</defaultgrade>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Multiple regression analysis using as predictors FREE TIME, STUDY RESULTS and the interaction term STUDY RESULTS×BELIEF.
+</p>]]></text>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
-Use multiple regression, controlling for the ethnicity of a student (International vs Dutch)
+Multiple regression analysis using as predictors FREE TIME, STUDY RESULTS and the interaction term STUDY RESULTS×FREE TIME.
 </p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-This answer is correct.
-</p>]]></text>
-</feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Use multiple regression, controlling for the number of friends a student has
+Hierarchical regression analysis where in model 1 TRUE is included as a predictor and in model 2 STUDY RESULTS is added as a predictor.
 </p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-This answer is incorrect.
-</p>]]></text>
-</feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Use multiple regression, including an interaction between ethnicity of a student (International vs Dutch) and number of friends
+Hierarchical regression analysis where in model 1 FREE TIME is included as a predictor and in model 2 STUDY RESULTS is added as a predictor.
 </p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-This answer is incorrect.
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The samples are not comparable; conduct separate analyses for Dutch and international students
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-This answer is incorrect.
-</p>]]></text>
-</feedback>
 </answer>
 </question>
 

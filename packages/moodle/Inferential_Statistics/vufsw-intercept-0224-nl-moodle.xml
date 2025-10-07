@@ -66,13 +66,13 @@ interpreteren?<br />
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Het intercept = 61. Dit is de voorspelde mentale gezondheid als de baan van de persoon 0 scoort op psychologische eisen, 0 scoort op gebrek aan controle over de baan en 0 scoort op gebrek aan sociale ondersteuning.
+Het intercept = (61-13-9-3=) 36. Dit is de voorspelde mentale gezondheid als de baan van de persoon 0 scoort op psychologische eisen, 0 scoort op gebrek aan controle over de baan en 0 scoort op gebrek aan sociale ondersteuning.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -96,13 +96,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Het intercept = (61-13-9-3=) 36. Dit is de voorspelde mentale gezondheid als de baan van de persoon 0 scoort op psychologische eisen, 0 scoort op gebrek aan controle over de baan en 0 scoort op gebrek aan sociale ondersteuning.
+Het intercept = 61. Dit is de voorspelde mentale gezondheid als de baan van de persoon 0 scoort op psychologische eisen, 0 scoort op gebrek aan controle over de baan en 0 scoort op gebrek aan sociale ondersteuning.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

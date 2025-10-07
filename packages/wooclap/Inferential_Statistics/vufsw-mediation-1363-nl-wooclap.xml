@@ -74,16 +74,6 @@ houden?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nee, dat is niet nodig, ‘famtv’ is een confounding variabele voor de relatie tussen ‘fameduc’ en ‘tvwatching’
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Nee, dat is niet nodig, ‘famtv’ is een mediërende variabele voor de relatie tussen ‘fameduc’ en ‘tvwatching’
@@ -96,7 +86,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Ja, dat is noodzakelijk, ‘famtv’ is een mediërende variabele voor de relatie tussen ‘fameduc’ en ‘tvwatching’
+Ja, dat is noodzakelijk, ‘famtv’ is een confounding variabele voor de relatie tussen ‘fameduc’ en ‘tvwatching’
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -106,7 +96,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Ja, dat is noodzakelijk, ‘famtv’ is een confounding variabele voor de relatie tussen ‘fameduc’ en ‘tvwatching’
+Nee, dat is niet nodig, ‘famtv’ is een confounding variabele voor de relatie tussen ‘fameduc’ en ‘tvwatching’
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Ja, dat is noodzakelijk, ‘famtv’ is een mediërende variabele voor de relatie tussen ‘fameduc’ en ‘tvwatching’
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

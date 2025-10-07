@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-219-nl-wooclap/Inferential Statistics/Regression/Equation, Inferential Statistics/Regression/Dummies, Inferential Statistics/Regression/Simple linear regression</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-219-nl_eur-inferential_statistics-219-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een psycholoog voert een ANCOVA uit met de afhankelijke variabele Y, de intersubjectfactor ‘groep’ (1, 2, 3) en de covariaat X met een gemiddelde van 110. Dit resulteert in de volgende SPSS-uitvoer:</p>
+<table class="table_shade">
+<thead>
+<tr class="header">
+<th style="text-align: left;">B</th>
+<th style="text-align: left;">Std.Error</th>
+<th style="text-align: left;">t</th>
+<th style="text-align: left;">Sig</th>
+<th style="text-align: left;">LowerboundCI</th>
+<th style="text-align: left;">UpperboundCI</th>
+<th style="text-align: left;">Partial_Eta</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">22.961</td>
+<td style="text-align: left;">6.313</td>
+<td style="text-align: left;">3.637</td>
+<td style="text-align: left;">0.001</td>
+<td style="text-align: left;">9.984</td>
+<td style="text-align: left;">35.939</td>
+<td style="text-align: left;">0.337</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">1.139</td>
+<td style="text-align: left;">0.282</td>
+<td style="text-align: left;">4.031</td>
+<td style="text-align: left;">0.000</td>
+<td style="text-align: left;">0.558</td>
+<td style="text-align: left;">1.719</td>
+<td style="text-align: left;">0.385</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">0.191</td>
+<td style="text-align: left;">1.878</td>
+<td style="text-align: left;">0.102</td>
+<td style="text-align: left;">.920</td>
+<td style="text-align: left;">-3.669</td>
+<td style="text-align: left;">4.051</td>
+<td style="text-align: left;">0.000</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">5.008</td>
+<td style="text-align: left;">1.831</td>
+<td style="text-align: left;">2.735</td>
+<td style="text-align: left;">0.011</td>
+<td style="text-align: left;">1.244</td>
+<td style="text-align: left;">8.773</td>
+<td style="text-align: left;">0.223</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">0(a)</td>
+<td style="text-align: left;">…</td>
+<td style="text-align: left;">…</td>
+<td style="text-align: left;">…</td>
+<td style="text-align: left;">…</td>
+<td style="text-align: left;">…</td>
+<td style="text-align: left;">…</td>
+</tr>
+</tbody>
+</table>
+<p>Wat kan uit bovenstaande tabel worden afgeleid over het aangepaste gemiddelde van groep 3?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Het aangepast gemiddelde is het gemiddelde van een groep wanneer de covariabele zijn gemiddelde waarde heeft. Met andere woorden, het is het gemiddelde van een groep gecorrigeerd voor het covariaat. De B-waarden in de tabel geven het verschil weer tussen het aangepaste gemiddelde van de relevante groep en het aangepaste gemiddelde van de referentiegroep.</p>
+<p>Je kunt het aangepaste gemiddelde van groep 3 krijgen door de regressieformule uit te schrijven en voor elk van de andere groepen (of de dummy’s) een 0 in te voeren. Voor de covariate vult u de gemiddelde waarde in (in dit geval 110). Dit zie je bij antwoord B.</p>
+<p>Gegevens voor groep 3 ontbreken, omdat zij de referentiegroep zijn. Verder geeft de B-waarde voor groep 1 inderdaad het verschil weer tussen groep 1 en de referentiegroep (in dit geval groep 3), maar de tabel laat zien dat dit verschil niet significant is (p = .920).</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het verschilt statistisch niet van 0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Het is gelijk aan 22,961 + 1,139 × 110
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het is significant lager dan het aangepaste gemiddelde van groep 1
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Er kan niets worden afgeleid over het aangepaste gemiddelde van groep 3, omdat dit de referentiegroep is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

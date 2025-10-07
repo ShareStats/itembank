@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-inferential-statistics-42-en-wooclap/Inferential Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-inferential-statistics-42-en_uva-inferential-statistics-42-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A number of researchers are interested in decisions based on rational grounds. To this end, they set up a study with two groups who have to choose between two cars (car A and car B): one group of 100 subjects in which one has to decide which car to choose according to of five details (price, color, size, air-conditioning and power steering), and one group of 100 subjects in which one must decide which car they choose based on two data (price and color). In the first group, a proportion of 0.25 chose car A chose and in the second group a proportion of 0.30 chose car A chose. The researchers’ question is whether it matters how much data are given for the choice of car. Tested is the null hypothesis that it does not matter against the alternative hypothesis that the difference in proportions is greater or less than zero. The P-value of this test is</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.0215
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.0215: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.4296
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.4296: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.7852
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.7852: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-variance-1079-en-wooclap/Probability/Elementary Probability/Random variables/Variance</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-variance-1079-en_uva-variance-1079-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>If you roll a dice, the outcome will be 1, 2, 3, 4, 5 or 6. Below is a probability distribution for the sum of two dice that were rolled. Calculate the mean and variance from this distribution:‖<br />
+</p>
+<p>————————— —— —— —— —— —— —— —— —— —— —— —— Sum of two dice 2 3 4 5 6 7 8 9 10 11 12 Odds 1/36 2/36 3/36 4/36 5/36 6/36 5/36 4/36 3/36 2/36 1/36 ————————— —— —— —— —— —— —— —— —— —— —— ——</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Μ = 3.5 and σ2 = 2.917.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Μ = 3.5 and σ2 = 2.917…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Μ = 3.5 and σ2 = 5.834.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Μ = 3.5 and σ2 = 5.834…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Μ = 7 and σ2 = 2.917.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Μ = 7 and σ2 = 2.917…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Μ = 7 and σ2 = 5.834.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Μ = 7 and σ2 = 5.834…: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

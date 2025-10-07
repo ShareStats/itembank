@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-variance-1094-en-wooclap/Probability/Elementary Probability/Random variables/Variance</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-variance-1094-en_uva-variance-1094-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>You have 1,000 euros and a plan to invest your money. In the following table you will find the possible net profits in a year and the probability of these profits.â  Plan</p>
+<p>————- —— Net profit Chance € 20 0,3 € 10 0,2 € 4 0,5 ————- ——</p>
+<p> What is the variance of this plan?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+€ 0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0 €: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+€ 18
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+€ 18: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+€ 30
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+€ 30: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+€ 48
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+€ 48: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

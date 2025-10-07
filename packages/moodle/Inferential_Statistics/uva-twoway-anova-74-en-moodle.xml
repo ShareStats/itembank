@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-twoway-anova-74-en-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-twoway-anova-74-en_uva-twoway-anova-74-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The null hypothesis for the interaction of an ANOVA with two factors A and B with two level averages each (A1, A2 and B1, B2), states that at level A1 the difference in averages between B1 and B2 is equal to the difference in averages between B1 and B2 at A2. This means that I. the differences between the levels of B1 and B2 are the same at A1 and at A2. II. the averages at B1 and B2 are the same at A1 as at A2.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+I is TRUE and II is false.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is TRUE and II is false: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I is false and II is true.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I is false and II is true: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Both are false.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Both are false: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

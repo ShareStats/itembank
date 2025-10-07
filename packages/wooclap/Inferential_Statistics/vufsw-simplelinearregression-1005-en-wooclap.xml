@@ -66,6 +66,16 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+As news exposure increases by 1 minute, depression increases by 7.241 units.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 The average depression when the variable news equals its mean
 </p>]]></text>
 <feedback format="html">
@@ -91,16 +101,6 @@ The average depression is 7.241 when news exposure is zero
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-As news exposure increases by 1 minute, depression increases by 7.241 units.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

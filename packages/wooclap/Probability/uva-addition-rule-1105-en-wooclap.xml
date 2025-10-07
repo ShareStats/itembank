@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-addition-rule-1105-en-wooclap/Probability/Elementary Probability/General Rules/Addition rule</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-addition-rule-1105-en_uva-addition-rule-1105-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Jody is taking three courses: English, History and Mathematics. Assume the probability that she will get an 8 in each course at the end of the semester:‖  P(grade 8 on the English exam) = 0.70. P(grade 8 on the History exam) = 0.60. P(grade 8 on the math exam) = 0.50.  The events are independent of each other. Then what is the probability that Jody will get an 8 for only one subject?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,06
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.06: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,29
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.29: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,40
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.40: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,80
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.80: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

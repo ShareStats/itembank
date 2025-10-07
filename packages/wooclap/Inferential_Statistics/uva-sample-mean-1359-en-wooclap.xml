@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-sample-mean-1359-en-wooclap/Inferential Statistics/Sampling Distributions/Sample mean</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-sample-mean-1359-en_uva-sample-mean-1359-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Below is a table showing the number of moons for each planet in our solar system. You are given three different randomly chosen planets of which you have to make a description of the moons of those three planets are to make a description of. What then is the minimum and maximum of the number of moons you have to describe?<br />
+</p>
+<p>———– ————– planet number of moons Mercury 0 Venus 0 Earth 1 Mars 2 Jupiter 63 Saturn 56 Uranus 27 Neptune 13 ———– ————–</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The smallest number is 0 and the largest is 63.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The smallest number is 0 and the largest is 63…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The smallest number is 1 and the largest is 63.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The smallest number is 1 and the largest is 63…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The smallest number is 1 and the largest is 146.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The smallest number is 1 and the largest is 146…: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The smallest number is 1 and the largest is 162.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The smallest number is 1 and the largest is 162.:Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-signed-rank-test-914-en-moodle/Inferential Statistics/Non-parametric Techniques/Signed Rank test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-signed-rank-test-914-en_uva-signed-rank-test-914-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Using a Wilcoxon test, two groups (A and B) are compared. There are three participants in each group and it is examined at which group got the most questions right. The scores are ranked (1 through 6). The difference between group A and group B is: A - B = -1. A possible ranking of the participants in the two groups is</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Order of rank of group A is (4, 5, 6) and of group B (1, 2, 3)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Rank order of group A is (4, 5, 6) and of group B is (1, 2, 3): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Order of group A is (1, 2, 3) and of group B (4, 5, 6)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Rank of group A is (1, 2, 3) and of group B (4, 5, 6): Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Ranking order of group A is (1, 2, 6) and of group B (3, 4, 5)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Rank of group A is (1, 2, 6) and of group B (3, 4, 5): Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-random-variables-1073-en-wooclap/Probability/Elementary Probability/Random variables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-random-variables-1073-en_uva-random-variables-1073-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Suppose the probability distribution of X = the number of jobs per student at a university in the past year is as follows:_____________.<br />
+</p>
+<p>—————— —— —— —— —— —— Number of jobs <em>X</em> 0 1 2 3 4 Odds 0.14 0.37 0.29 0.15 0.05 —————— —— —— —— —— ——</p>
+<p> <br />
+</p>
+<p>What then is the probability that, choosing a random student, this student had two or fewer jobs during the past year, such as P(X ≤ 2)?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,14
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.14: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,29
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.29: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,37
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.37: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,80
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.80: Correct
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

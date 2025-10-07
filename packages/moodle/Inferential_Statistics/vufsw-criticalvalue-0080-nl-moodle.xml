@@ -66,13 +66,13 @@ Nederlands</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-De kritieke t-waarde is 1,96. Deze kritieke t-waarde verandert als het verschil tussen de twee gemiddelden groter zou zijn dan 0,05.
+De kritieke t-waarde is 1,96. Deze kritieke t-waarde verandert als we een eenzijdige toets zouden uitvoeren.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -83,16 +83,6 @@ De kritieke t-waarde is 0,34. Deze kritieke t-waarde verandert als de standaardf
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De kritieke t-waarde is 1,96. Deze kritieke t-waarde verandert als we een eenzijdige toets zouden uitvoeren.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>
@@ -108,7 +98,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De kritieke t-waarde is 0,34. Deze kritieke t-waarde verandert als we een eenzijdige toets zouden uitvoeren.
+De kritieke t-waarde is 1,96. Deze kritieke t-waarde verandert als de standaardfout (SE) van het verschil tussen de twee gemiddelden kleiner zou zijn dan 0,05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -118,7 +108,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De kritieke t-waarde is 1,96. Deze kritieke t-waarde verandert als de standaardfout (SE) van het verschil tussen de twee gemiddelden kleiner zou zijn dan 0,05.
+De kritieke t-waarde is 1,96. Deze kritieke t-waarde verandert als het verschil tussen de twee gemiddelden groter zou zijn dan 0,05.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De kritieke t-waarde is 0,34. Deze kritieke t-waarde verandert als we een eenzijdige toets zouden uitvoeren.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-intercept-836-en-wooclap/Inferential Statistics/Regression/Intercept</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-intercept-836-en_uva-intercept-836-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In a regression analysis with the variables y and x, if the directional coefficient b = 1, then (i) the correlation between y and x equals r = 1 and (ii) the intercept equals a = 0.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<ol style="list-style-type: lower-roman">
+<li>is true and (ii) is false.</li>
+</ol>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<ol style="list-style-type: lower-roman">
+<li>is correct and (ii) is incorrect: Incorrect</li>
+</ol>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<ol style="list-style-type: lower-roman">
+<li>is incorrect and (ii) is correct.</li>
+</ol>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<ol style="list-style-type: lower-roman">
+<li>is incorrect and (ii) is true…: Incorrect</li>
+</ol>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<ol style="list-style-type: lower-roman">
+<li>and (ii) are both incorrect.</li>
+</ol>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<ol style="list-style-type: lower-roman">
+<li>and (ii) are both incorrect: Correct</li>
+</ol>
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

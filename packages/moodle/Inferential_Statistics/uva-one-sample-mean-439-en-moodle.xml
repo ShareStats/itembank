@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-one-sample-mean-439-en-moodle/Inferential Statistics/Parametric Techniques/t-test/One sample mean</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-one-sample-mean-439-en_uva-one-sample-mean-439-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The value of a variable X was measured in 6 subjects with the following results: 20, 27, 18, 24, 15, 22. When we use a one-sample T test the null hypothesis that μ = 24, at a two-sided risk of 5%, the conclusion should be:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The result is not significant, H0 is not rejected
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The result is not significant, H0 is not rejected: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The result is significant, H0 is not rejected
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The result is significant, H0 is not rejected: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The result is not significant, H0 is rejected
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The result is not significant, H0 is rejected: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The result is significant, H0 is rejected
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+The result is significant, H0 is rejected: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

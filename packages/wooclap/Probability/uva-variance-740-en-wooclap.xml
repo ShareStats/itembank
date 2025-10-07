@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-variance-740-en-wooclap/Probability/Elementary Probability/Random variables/Variance</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-variance-740-en_uva-variance-740-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>MIT typically selects a few students each year who are eligible eligible for a prestigious award. Because very strict selection, each year the number of chosen students who qualify eligible for the award. The distribution of X, the number of selected students eligible each year, is as following:</p>
+<p>—————— —— —— —— —— —— —— —— —— Number of students 0 1 2 3 4 5 6 7 Chance 0.01 0.11 0.18 0.25 0.23 0.11 0.07 0.04 —————— —— —— —— —— —— —— —— ——</p>
+<p>What is the expected value and standard deviation of X?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+ΜX = 2.24 and σX = 1.57
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+ΜX = 2.24 and σX = 1.57: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+ΜX = 2.78 and σX = 1.69
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+ΜX = 2.78 and σX = 1.69: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+ΜX = 3.39 and σX = 1.57
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+ΜX = 3.39 and σX = 1.57: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+ΜX = 3.39 and σX = 1.86
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+ΜX = 3.39 and σX = 1.86: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

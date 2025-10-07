@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-elementary-probability-1195-en-wooclap/Probability/Elementary Probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-elementary-probability-1195-en_uva-elementary-probability-1195-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Every year <em>Forbes Magazine</em> publishes a list of the most earning deceased celebrities. In 2008, the top six and their annual earnings:*</p>
+<ol style="list-style-type: decimal">
+<li>Elvis Presley, __.$ 52 miljoen</li>
+<li>Charles M. Schulz, $ 33 million 3. Heath Ledger, eds.$ 20 miljoen</li>
+<li>Albert Einstein, $ 18 million 5. Aaron Spelling, eds.$ 15 miljoen</li>
+<li>Dr. Seuss (Theodor Geisel), $ 12 million. *Source: www.forbes.com</li>
+</ol>
+<p>Your office will have the opportunity to represent two of these celebrities. represent. The two will be chosen at random. You will be paid 10% of their earnings paid. What is the probability that you will be will be paid?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1/15
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/15: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+5/15
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+5/15: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+6/15
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+6/15: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7/85
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+7/85: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

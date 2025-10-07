@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-assumptions-201-nl-moodle/Assumptions/Sphericity/Mauchly's test, Inferential Statistics/Parametric Techniques/ANOVA/Oneway repeated measures ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Assumptions_eur-assumptions-201-nl_eur-assumptions-201-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In een eenzijdige ANOVA met herhaalde maatregelen moet een onderzoeker onder andere de assumptie van sfericiteit testen. Overweeg de volgende stellingen over de sfericiteitsaanname en beantwoord de daaropvolgende vraag.</p>
+<ol style="list-style-type: decimal">
+<li><p>Deze assumptie is niet van toepassing als de within-subjects factor slechts twee niveaus heeft.</p></li>
+<li><p>Als deze assumptie ernstig geschonden wordt, kan een onderzoeker een multivariate test met herhaalde metingen (MANOVA) gebruiken als alternatief voor de ongecorrigeerde F-test. multivariate test (MANOVA) gebruiken als alternatief voor de ongecorrigeerde F-test.</p></li>
+</ol>
+<p>Welke Stelling is waar?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Bewering 1 is waar omdat sfericiteit kijkt of de varianties van de verschilscores verschillen. In het geval van 2 niveaus is er maar één verschilscore, dus deze assumptie is niet van toepassing.</p>
+<p>Bewering 2 is ook waar omdat je herhaalde maten kunt uitvoeren met een MANOVA, maar de assumptie van sfericiteit is niet nodig in deze analyse.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Beide stellingen zijn waar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alleen stelling 1 is waar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alleen stelling 2 is waar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Beide stellingen zijn onwaar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

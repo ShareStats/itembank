@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-random-variables-449-en-wooclap/Probability/Elementary Probability/Random variables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-random-variables-449-en_uva-random-variables-449-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Of 100 individuals, systolic blood pressure (SB) was measured and classified into three classes: 1 = low, 2 = medium and 3 = high. Also, the physical activity behavior (AG) was measured and classified into three classes classified: 1 = rarely, 2 = sometimes, 3 = regularly. The results are shown in cross tabulation below:</p>
+<p>————- ——– ——– ——– frequencies SB = 1 SB = 2 SB = 3 AG = 1 4 12 14 AG = 2 13 25 12 AG = 3 8 8 4 ————- ——– ——– ——–</p>
+<p>For these 100 people, what is the size of P(SB =3 AG = 3)?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.04
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.04: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.13
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.13: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.2: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.46
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.46: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

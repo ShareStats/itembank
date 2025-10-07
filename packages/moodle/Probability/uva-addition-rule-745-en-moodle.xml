@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-addition-rule-745-en-moodle/Probability/Elementary Probability/General Rules/Addition rule</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-addition-rule-745-en_uva-addition-rule-745-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Two cognitive behavioral therapists give the same treatment to similar patients. Annually, behavioral therapist X treats 250 patients, 10 of whom do not recover from their mental state. Behaviorist Y, on the other hand, sees 375 patients annually of whom 30 do not recover. Suppose that at the end of a year, a non cured patient is selected at random. What is then the probability that this non cured patient has been under the treatment of therapist X?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+1/4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+1/4:Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3/8
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+3/8: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2/5
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+2/5: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+3/4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+3/4: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

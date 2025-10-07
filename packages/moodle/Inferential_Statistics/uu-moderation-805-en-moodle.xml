@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-moderation-805-en-moodle/Inferential Statistics/Regression/Multiple linear regression/Moderation</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-moderation-805-en_uu-moderation-805-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A certain drug used in patients with psychosis is known to have curative effects in some people and not at all in others. Doctors want to know what characteristics of patients can explain these different effects so that they no longer prescribe the drug pointlessly. To do this, they need to look for:</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>A moderator influences the relationship between X and Y. This study examines whether the relationship between medication use (X) and psychosis (Y) depends on certain characteristics of people, that is, whether certain characteristics of people influence the relationship between medication use and psychosis. These characteristics are then moderators. Examples of these characteristics are age or gender.</p>
+<p>Mediation involves a mechanism that explains the relationship between two variables. Clinicians do not necessarily have to look for the mechanism that explains how the drug works, as long as they find out what characteristics of people are a prerequisite for the drug to work. Nor are the researchers looking for dependent variables. They already have a dependent variable: (degree of) psychosis. The answer “Moderator and mediator variables,” is also counted correctly, because there is no harm in looking for mediator variables as well, as long as the moderator is found. In this particular case, it might even help to discover mediator variables, because they can give insight into which moderator variables play a role.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dependent variables
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Moderator variables
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Mediator variables
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Moderator and mediator variables
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/vufgb-scatterplot-002-en-moodle/Descriptive statistics/Data representation/Graphs/Scatterplot</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_vufgb-scatterplot-002-en_vufgb-scatterplot-002-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Given is the point cloud below (<em>scatterplot</em>).</p>
+<p><img src="@@PLUGINFILE@@/vufgb-scatterplot-002-nl.png" /></p>
+<p>Which conclusion is correct?</p>
+</p>]]></text>
+<file name="vufgb-scatterplot-002-nl.png" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+He relationship between the variables is <strong>negative</strong>. The <em>SSE</em> is <strong>0</strong>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The relationship between the variables is <strong>negative</strong>. The <em>SSE</em> is <strong>1</strong>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The relationship between the variables is <strong>positive</strong>. The <em>SSE</em> is <strong>0</strong>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The relationship between the variables is <strong>positive</strong>. The <em>SSE</em> is <strong>1</strong>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

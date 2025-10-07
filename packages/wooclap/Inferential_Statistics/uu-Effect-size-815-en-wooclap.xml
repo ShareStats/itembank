@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Effect-size-815-en-wooclap/Inferential Statistics/Effect size</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Effect-size-815-en_uu-Effect-size-815-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A study of the relationship between location of deployment (Iraq or Afghanistan) and depression of soldiers primarily examines only whether soldiers became depressed, yes or no. A <span class="math inline">\(\chi^2\)</span>-test is performed and the variables were found, in a sample of 60 soldiers, not to be independent: <span class="math inline">\(\chi^2(1, n = 60) = 5.88\)</span>, <span class="math inline">\(p = .015\)</span>. What is the value of the effect size that should be reported here?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Location is a dichotomous variable (Iraq/Afghanistan), as is depression (yes/no). To calculate the effect size in this case, the phi coefficient can be calculated:</p>
+<p><span class="math inline">\(\phi= \sqrt{\frac{\chi^2}{n}} = \sqrt{\frac {5.88}{60}} =0.313\)</span></p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(0.015\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(.015\)</span> is <span class="math inline">\(p\)</span>-value and not the effect size.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(0.098\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Thist answer (<span class="math inline">\(.098\)</span>) forgot to root.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(0.313\)</span>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+<span class="math inline">\(\phi= \sqrt{\frac{\chi^2}{n}} = \sqrt{\frac {5.88}{60}} =0.313\)</span>
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+This cannot be determined because the cross table is not given.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This can indeed be determined. Location is a dichotomous variable (Iraq/Afghanistan), as is depression (yes/no). To calculate the effect size in this case, the phi coefficient can be calculated.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

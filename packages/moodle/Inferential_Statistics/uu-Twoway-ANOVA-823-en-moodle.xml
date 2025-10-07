@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Twoway-ANOVA-823-en-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-Twoway-ANOVA-823-en_uu-Twoway-ANOVA-823-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Research shows that deaf children of deaf parents perform better linguistically and socially. They also score higher academically than deaf children of hearing parents. Researchers K.L. Hamminga, S. de Vries and J.C. Walsen investigated among 79 deaf children whether this was also the case for motor development. Moreover, a distinction was made between deaf children who attended a regular school and deaf children who attended special (deaf) education. The subjects were drawn at random from the population of deaf children (6 to 18 years of age) in the Netherlands, and tested for motor development. This was done by means of a dozen tests such as running, hopping, jumping, catching, etc., which were recorded with a camera. A certain criterion was set for each act for each age, based on standard norms. When watching the videos, each child was given a point when he or she met the criterion for a particular act, and thus could score a minimum of 0 and a maximum of 12 points. The researchers conducted a two-way ANOVA.</p>
+<p>Which variables in this study are the independent variables?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Deafness of parents, motor development of child
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Deafness of parents, school type of child
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Deafness of child, school type of child
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Deafness of child, motor development of child
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

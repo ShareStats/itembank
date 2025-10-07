@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-test-123-en-wooclap/Inferential Statistics/Parametric Techniques/t-test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-test-123-en_uva-test-123-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In a study of the difference between having or not having a time limit in solving problems, 28 subjects are examined. Each subject completes both a set of (similar) problems with and without a time limit. The score on the test is approximately normally distributed. Then difference scores are calculated with mean 3.21 and variance 2.53. The null hypothesis is that there is no difference between having or not having a time limit, and the alternative hypothesis that there is a difference. There is no good idea about which way the effect goes. When tested, the null hypothesis</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Be rejected at 1%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Are rejected at 1%: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Not be rejected at 1% but be rejected at 5%.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Not be rejected at 1% but be rejected at 5%…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Not be rejected at 5% but be rejected at 10%.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Not be rejected at 5% but be rejected at 10%…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Not be rejected at 10% but be rejected at 20%.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Not be rejected at 10% but be rejected at 20%…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

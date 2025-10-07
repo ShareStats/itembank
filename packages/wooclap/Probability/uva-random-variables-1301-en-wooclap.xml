@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-random-variables-1301-en-wooclap/Probability/Elementary Probability/Random variables</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-random-variables-1301-en_uva-random-variables-1301-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Which random variable <em>X</em> is a discrete variable?  I A soccer team plays 12 games in a given season. Suppose <em>X</em> is the number of games that this team won.Ê II A woman buys a lottery ticket every week in which the probability of winning of 1 euro is 1/10. Suppose <em>X</em> is her winnings after one year.Ê. III A student waits for a bus to pass by every ten minutes. Suppose <em>X</em> is the number of minutes he waits at the bus stop.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+I and II are discrete variables.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I and II are discrete variables…: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+I and III are discrete variables.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+I and III are discrete variables…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+II and III are discrete variables.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+II and III are discrete variables…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+All of them are discrete variables.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+They are all discrete variables…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+None of them are discrete variables.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+None of them are discrete variables…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

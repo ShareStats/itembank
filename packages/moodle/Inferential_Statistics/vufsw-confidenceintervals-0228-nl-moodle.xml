@@ -57,26 +57,6 @@ Het effect van / de effecten van … </p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Geslacht (SEX) en opleiding (EDUCYRS), want de 95% betrouwbaarheidsintervallen van deze variabelen bevatten de waarde 0,05.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Geslacht (SEX) en leeftijd (AGE), want de 95% betrouwbaarheidsintervallen van deze variabelen bevatten de waarde 0.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Opleiding (EDUCYRS) en Leeftijd (AGE), want de 95% betrouwbaarheidsintervallen van deze variabele bevatten <strong>niet</strong> de waarde 0,05.
 </p>]]></text>
 <feedback format="html">
@@ -92,6 +72,26 @@ Opleiding (EDUCYRS), want het 95% betrouwbaarheidsinterval van deze variabele be
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Geslacht (SEX) en opleiding (EDUCYRS), want de 95% betrouwbaarheidsintervallen van deze variabelen bevatten de waarde 0,05.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Geslacht (SEX) en leeftijd (AGE), want de 95% betrouwbaarheidsintervallen van deze variabelen bevatten de waarde 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

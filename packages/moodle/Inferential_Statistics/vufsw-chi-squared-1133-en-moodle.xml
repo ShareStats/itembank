@@ -173,16 +173,6 @@ are 100 degrees of freedom)</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-5.99
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 1.96
@@ -195,7 +185,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-124.3
+3.84
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -203,9 +193,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+5.99
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-3.84
+124.3
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

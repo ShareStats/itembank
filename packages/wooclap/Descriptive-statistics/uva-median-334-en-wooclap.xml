@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-median-334-en-wooclap/Descriptive statistics/Summary Statistics/Measures of Location/Median</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-median-334-en_uva-median-334-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The adjacent chart shows the age (in months) of 40 babies at which their first tooth broke through. Which of the following statements concerning median and mean is correct?</p>
+<p><img src="@@PLUGINFILE@@/uva-median-334-en-graph01.gif" /></p>
+</p>]]></text>
+<file name="uva-median-334-en-graph01.gif" encoding="base64">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</file>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Median is smaller than mean
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Median is smaller than mean: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Median and mean are equal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Median and mean are equal: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Median is greater than mean
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Median is greater than mean: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Median and mean are not comparable here
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Median and mean are not comparable here: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

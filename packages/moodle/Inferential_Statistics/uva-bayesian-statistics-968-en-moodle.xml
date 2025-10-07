@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-bayesian-statistics-968-en-moodle/Inferential Statistics/Bayesian Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-bayesian-statistics-968-en_uva-bayesian-statistics-968-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Suppose it is known that a 0.001 proportion of Dutch women have disease <em>D</em>. There is a test to detect this disease. That test is not always reliable: in 0.05 of the cases in which the person has the disease, the test gives the result Òno disease = negative result’. 0.95 of such patients are detected with a positive result. Furthermore, a person who does not have the disease gets a negative result in 0.95 of the cases. What is the probability if you randomly choose a woman, that she has the disease <em>D</em>, given that her test has a positive test result?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,001
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.001: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,019
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,019: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,051
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.051: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,958
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.958: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

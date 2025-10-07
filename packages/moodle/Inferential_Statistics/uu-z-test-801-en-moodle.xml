@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-z-test-801-en-moodle/Inferential Statistics/Parametric Techniques/z-test</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uu-z-test-801-en_uu-z-test-801-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>The number of violent crimes in the Netherlands is normally distributed with an average <span class="math inline">\(\mu = 2.6\)</span> per day and a standard deviation <span class="math inline">\(\sigma = 0.5\)</span>. One researcher hypothesized that violent crime rates increase in hot weather. In a sample of 25 warm days, an average of 2.8 violent crimes per day is found. The researcher performs a one-sided z-test. At what significance level <span class="math inline">\(\alpha\)</span> Is the null hypothesis rejected?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The <span class="math inline">\(H_0\)</span> is rejected at <span class="math inline">\(\alpha\)</span> = 5%, but not at <span class="math inline">\(\alpha\)</span> = 1%.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The <span class="math inline">\(H_0\)</span> is rejected at <span class="math inline">\(\alpha\)</span> = 1%, but not at <span class="math inline">\(\alpha\)</span> = 5%.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The <span class="math inline">\(H_0\)</span> becomes both at <span class="math inline">\(\alpha\)</span> = 5% as at <span class="math inline">\(\alpha\)</span> = 1% rejected.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The <span class="math inline">\(H_0\)</span> is rejected neither at <span class="math inline">\(\alpha\)</span> = 5% nor at <span class="math inline">\(\alpha\)</span> = 1% rejected.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

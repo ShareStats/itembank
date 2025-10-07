@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-inferential_statistics-214-nl-moodle/Inferential Statistics/Regression/Multiple linear regression/R squared change, Inferential Statistics/Regression/R squared</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_eur-inferential_statistics-214-nl_eur-inferential_statistics-214-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In SPSS wordt een hiërarchische regressieanalyse uitgevoerd om Y te voorspellen uit X1 (blok 1) en X2 (blok 2). Het onderstaande Venn-diagram geeft voor deze analyse aan wat de bijdrage is van elke voorspeller aan de verklaarde variantie in Y.</p>
+<div class="float">
+<img src="Venn%20Diagram.PNG" alt="Figure 1 : Venn Diagram" />
+<div class="figcaption">Figure 1 : Venn Diagram</div>
+</div>
+<p>Welk deel in het Venn-diagram geeft de R2-verandering voor X2 (blok 2) aan?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Het juiste antwoord is 3. De verandering in R-kwadraat heeft te maken met de extra variantie die je zou kunnen verklaren als je X2 zou meenemen (bovenop X1). In het Venn-diagram kan dit worden gezien als de unieke variantie in Y die wordt verklaard door X2 (of stuk 3).</p>
+<p>(1+2+3) is onjuist, omdat dit stuk de R-kwadraat (verklaarde variantie) van het hele model weergeeft (dat wil zeggen, wanneer je zowel X1 als X2 meerekent om Y te voorspellen). (2+3) is onjuist, dit stuk zou de R-kwadraat (verklaarde variantie) zijn als je alleen X2 meerekent om Y te voorspellen. (2) is onjuist. Dit is de variantie in Y die gedeeld wordt door zowel X1 als X2 (zonder de unieke bijdragen van X1 en X2).</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1 + 2 + 3
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onjuist
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2 + 3
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+2
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+3
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

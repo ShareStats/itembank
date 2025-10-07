@@ -63,7 +63,7 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Independent t-test
+Chi-square test
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -73,7 +73,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Chi-square test
+Bivariate regression
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Independent t-test
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -88,16 +98,6 @@ One-sample t-test
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Bivariate regression
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

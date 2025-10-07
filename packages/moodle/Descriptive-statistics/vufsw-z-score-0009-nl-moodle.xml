@@ -50,23 +50,13 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Hoeveel eenheden een waarneming boven of onder de waarde 0 ligt, uitgedrukt in een schaal die loopt van -1 tot +1.
+Hoeveel eenheden een waarneming boven of onder het gemiddelde ligt, uitgedrukt in standaarddeviatie eenheden.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Hoeveel eenheden een waarneming boven of onder de standaarddeviatie ligt, uitgedrukt in een schaal die loopt van -1,96 tot +1,96.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -90,13 +80,23 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Hoeveel eenheden een waarneming boven of onder het gemiddelde ligt, uitgedrukt in standaarddeviatie eenheden.
+Hoeveel eenheden een waarneming boven of onder de standaarddeviatie ligt, uitgedrukt in een schaal die loopt van -1,96 tot +1,96.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Hoeveel eenheden een waarneming boven of onder de waarde 0 ligt, uitgedrukt in een schaal die loopt van -1 tot +1.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

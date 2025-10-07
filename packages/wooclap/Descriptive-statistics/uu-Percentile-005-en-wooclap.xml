@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Percentile-005-en-wooclap/Descriptive statistics/Score interpretation/Percentile</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uu-Percentile-005-en_uu-Percentile-005-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In teacher Bos’ statistics study group, the number of pens students have in their pencil cases is counted. The frequency table of the distribution of this variable is shown below.</p>
+<p><img src="@@PLUGINFILE@@/uu-Percentile-005-nl-tabel.png" />
+What percentage of students have more than 3 pens?</p>
+</p>]]></text>
+<file name="uu-Percentile-005-nl-tabel.png" encoding="base64">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</file>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+92%
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+25%
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+50%
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+75%
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

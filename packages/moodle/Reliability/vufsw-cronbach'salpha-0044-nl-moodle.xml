@@ -60,26 +60,6 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Een item met een hoge positieve “Corrected item-total correlation” te verwijderen.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Als kritieke grens een z-score van 1,96 te gebruiken, in plaats van 2.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Een item met een waarde van 0,82 bij “Cronbach’s alpha if item deleted” te verwijderen.
@@ -93,6 +73,26 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Extra respondenten in het onderzoek mee te nemen (N te vergroten).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Een item met een hoge positieve “Corrected item-total correlation” te verwijderen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Als kritieke grens een z-score van 1,96 te gebruiken, in plaats van 2.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

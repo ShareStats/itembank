@@ -137,16 +137,6 @@ number. r = row and c = column.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Yes, because the observed chi-square is smaller than the critical chi-square. .
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Yes, because the observed chi-squared is larger than the critical chi-squared.
@@ -154,6 +144,16 @@ Yes, because the observed chi-squared is larger than the critical chi-squared.
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Yes, because the observed chi-square is smaller than the critical chi-square. .
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

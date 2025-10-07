@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Linearity-104-en-moodle/Assumptions/Linearity</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Assumptions_uu-Linearity-104-en_uu-Linearity-104-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Which of the following conditions must be satisfied for a single regression analysis in which the score on Y is predicted from the score on X?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>In a regression analysis, it is important that there is a linear relationship between X and Y. This is because it is a linear regression analysis. If there is no linear relationship, you cannot simply run this regression.
+The answer ‘the variable Y must be measured at least at ratio measurement level’ is not correct, because X and/or Y may also be measured at interval measurement level.
+The answer ‘X must be approximately normally distributed’ is not correct, because X need not be normally distributed, as long as the combination of X and Y is.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The relationship between X and Y must be linear
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Right!
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The variable Y must be measured at least at ratio measurement level
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+X must be approximately normally distributed
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+All three conditions must be met
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+This is incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

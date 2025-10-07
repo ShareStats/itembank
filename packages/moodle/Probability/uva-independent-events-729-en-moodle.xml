@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-independent-events-729-en-moodle/Probability/Elementary Probability/General Rules/Independent events</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-independent-events-729-en_uva-independent-events-729-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>A and B are two events in a chance experiment. The following probabilities are given: P(A) = 0.30, P(B) = 0.40, P(A or B) = 0.58. Which of the following statements is correct?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+A and B are independent.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A and B are independent..: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A and B are dependent (i.e., not independent).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A and B are dependent (i.e.: not independent)…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Based on the given probabilities, it cannot be concluded with certainty whether A and B are independent or not.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Based on the given probabilities, it cannot be concluded with certainty whether A and B are independent or not…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

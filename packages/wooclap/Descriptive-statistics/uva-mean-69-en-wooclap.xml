@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-mean-69-en-wooclap/Descriptive statistics/Summary Statistics/Measures of Location/Mean</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-mean-69-en_uva-mean-69-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>In research with 6 subjects, the Wilcoxon test on the difference in mean rank orders. The subjects were randomly assigned to one of two conditions. Two observers indicated with numbers from 0 to 10 the extent to which "restless person” applied to the subjects, where 0 “very calm person” and 10 means “very agitated person.” The observers did not know not which condition each of the subjects was in. The data from observer 1 are as follows:______________________. group 1: 6, 2, 3 Group 2: 4, 5, 1. The data from observer 2 are as follows. group 1: 10, 6, 7 Group 2: 8, 9, 4. Rankings are made of the dates for each of the observers, where a high rank is assigned to a high score (10 gets rank 1, etc.). It then follows that the average rank orders</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Are equal for both observers.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Be the same for both observers…: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Of observer 1 are larger than that of observer 2.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Of observer 1 are larger than those of observer 2.:Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Of observer 1 are smaller than that of observer 2.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Of observer 1 are smaller than that of observer 2.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-oneway-anova-275-en-moodle/Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-oneway-anova-275-en_uva-oneway-anova-275-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Below is the (incomplete) ANOVA table of a CRD-ANOVA (Completely Randomized Design ANOVA), which was performed on data that were collected from 16 individuals divided into 4 groups.</p>
+<p>————— —– —- —- —– Source of variation SS df MS F Among groups 8.0 Within groups 60 12 Total 180 ————— —– —- —- —–</p>
+<p>When we have compared the population averages pairwise using. the LSD test, and we want to apply a Bonferroni correction, then the risk per test is obtained by the total risk</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dividing by 4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Divide by 4: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Multiply by 4
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Multiply by 4: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Divide by 6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Divide by 6: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Multiply by 6
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Multiply by 6: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

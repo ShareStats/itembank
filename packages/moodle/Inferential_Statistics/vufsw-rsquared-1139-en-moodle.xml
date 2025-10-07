@@ -63,7 +63,7 @@ Bivariate linear regression</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-R<sup>2</sup> assumes values between -1 and 1.
+R<sup>2</sup> depends on the chosen measurement units.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -83,7 +83,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-R<sup>2</sup> depends on the chosen measurement units.
+R<sup>2</sup> does <strong>not</strong> measure the strength of the relationship between X and Y.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -93,7 +93,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-R<sup>2</sup> does <strong>not</strong> measure the strength of the relationship between X and Y.
+R<sup>2</sup> assumes values between -1 and 1.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

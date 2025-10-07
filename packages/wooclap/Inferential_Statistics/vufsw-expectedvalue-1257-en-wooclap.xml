@@ -136,16 +136,6 @@ per week on the basis of this sample?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-0.82
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 0.24
@@ -153,6 +143,16 @@ True
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.82
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -168,7 +168,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-1.00
+0.14
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -178,7 +178,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-0.14
+1.00
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-independent-events-700-en-moodle/Probability/Elementary Probability/General Rules/Independent events</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-independent-events-700-en_uva-independent-events-700-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Which two events below are <em>independent</em> of each other?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Suppose event X is blood type AB in the United States and Y is blood type AB in China.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Suppose event X is the blood type AB in the United States and Y is the blood type AB in China…: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Event A is the age of any person and B is whether or not that person has successfully completed college.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Event A is the age of a random person and B is whether or not that person has successfully completed college: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Take a shuffled deck of cards and draw a clover card as Event A and then draw another clover card as Event B.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Take a shuffled deck of cards and draw a clover card as event A and then draw another clover card as event B.: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A = {all numbers from 0 to 1}; B = {0}.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+A = {all numbers from 0 to 1}; B = {0}…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

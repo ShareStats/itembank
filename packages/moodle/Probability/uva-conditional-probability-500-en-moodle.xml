@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-conditional-probability-500-en-moodle/Probability/Elementary Probability/Conditional probability</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Probability_uva-conditional-probability-500-en_uva-conditional-probability-500-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Below is a cross tabulation of 80 workers’ gender and the number of working hours per week (rounded to whole hours) are given.</p>
+<p>——- ———– ————- ————- ———– &lt; 18 hours 18 - 32 hours 33 - 36 hours &gt; 36 hours male 1 7 14 8 woman 6 18 21 5 ——- ———– ————- ————- ———–</p>
+<p>The probability that a person randomly drawn from these workers is female is female and/or works less than 18 hours is</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+7.5%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+7.5%: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+51%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+51%: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+63.75%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+63.75%: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+71.25%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+71.25%: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-inferential-statistics-92-en-moodle/Inferential Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-inferential-statistics-92-en_uva-inferential-statistics-92-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Research on the effect of drug A on schizophrenic patients yields a positive correlation between the dose (x) of drug A and how well the patient feels (y). The test on the slope parameter indicates that the relationship is significant. The researchers note that there are three different age groups of patients: 21-25, 26-30 and 31-35 years. The researchers conduct a separate regression analysis. It then turns out that for each of these three groups, there is a negative correlation between the dose of drug A and how well the patient feels. This is an example of</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Regression to the mean.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Regression to the mean..: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Simpson’s paradox.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Simpson’s paradox: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Bivariate correlation.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Bivariate correlation…: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

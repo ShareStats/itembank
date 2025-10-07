@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/eur-reliability-118-nl-moodle/Reliability/Analysis/Cronbach's alpha</text>
+</category>
+</question>
+
+
+<question type="shortanswer">
+<name>
+<text> Q1 : Reliability_eur-reliability-118-nl_eur-reliability-118-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een psychometrist die bij CITO werkt, wil de criteriumvaliditeit van een dyslexietest evalueren. De betrouwbaarheid van de test <span class="math inline">\(R_xx\)</span> is al onderzocht en bleek .70 te zijn. De maatstaf is het oordeel van een schoolpsycholoog dat behoorlijk, hoewel niet perfect, betrouwbaar is: $R_yy = $ .80. De waargenomen correlatie tussen de test en het criterium bleek .6 te zijn. De psychometrist twijfelt of ze de aangepaste correlatie moet berekenen en welke variabele ze moet aanpassen; de test, het criterium of beide. Haar wordt geadviseerd de gecorrigeerde correlatie te berekenen. Geef een argument waarom aanpassen in dit geval een opgeblazen indruk kan geven van de werkelijke criteriumvaliditeit.</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Aanpassen kan een opgeblazen indruk geven van de echte criteriumvaliditeit omdat het onrealistisch is dat dyslexie foutloos (perfect betrouwbaar) gemeten kan worden.</p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<usecase>0</usecase>
+<answer fraction="100" format="moodle_auto_format">
+<text>
+""
+</text>
+</answer>
+</question>
+
+</quiz>

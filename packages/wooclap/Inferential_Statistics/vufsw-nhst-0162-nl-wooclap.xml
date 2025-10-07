@@ -71,13 +71,13 @@ is <strong>_______________ [Tekst 2].</strong></p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-<strong>Tekst 1:</strong> 0,113. <strong>Tekst 2:</strong> 0,013.
+<strong>Tekst 1:</strong> 2,495. <strong>Tekst 2:</strong> 0,013.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -93,7 +93,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-<strong>Tekst 1:</strong> 2,495. <strong>Tekst 2:</strong> 0,013.
+<strong>Tekst 1:</strong> 2,495. <strong>Tekst 2:</strong> 0,045
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -101,13 +101,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-<strong>Tekst 1:</strong> 2,495. <strong>Tekst 2:</strong> 0,045
+<strong>Tekst 1:</strong> 0,113. <strong>Tekst 2:</strong> 0,013.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

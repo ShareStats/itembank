@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uu-Kolmogorov-Smirnov-801-nl-moodle/Assumptions/Normality/Kolmogorov-Smirnov</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Assumptions_uu-Kolmogorov-Smirnov-801-nl_uu-Kolmogorov-Smirnov-801-nl </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Een vriend van je weet dat je een cursus statistiek volgt en wil je iets vragen over zijn scriptie. Hij gebruikt meervoudige lineaire regressie en berekent de Kolmogorov-Smirnov test. De test geeft een p-waarde van <span class="math inline">\(.054\)</span> en je vriend weet niet zeker of hij de assumptie van homoscedasticiteit heeft geschonden. Welk advies moet je je vriend geven als <span class="math inline">\(\alpha =.05\)</span> wordt gebruikt?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Homoscedasticiteit wordt gehandhaafd omdat de p-waarde groter is dan .05.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Homoscedasticiteit wordt geschonden omdat de p-waarde groter is dan .05.
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Er is enig bewijs dat homoscedasticiteit mogelijk wordt geschonden, maar het is belangrijk om de steekproefgrootte te kennen voordat een definitieve conclusie wordt getrokken.
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Je kunt je vriend niet helpen omdat deze test niet ingaat op de assumptie van homoscedasticiteit.
+</p>]]></text>
+</answer>
+</question>
+
+</quiz>

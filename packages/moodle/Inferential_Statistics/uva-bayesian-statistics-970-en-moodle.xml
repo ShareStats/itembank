@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-bayesian-statistics-970-en-moodle/Inferential Statistics/Bayesian Statistics</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Inferential_Statistics_uva-bayesian-statistics-970-en_uva-bayesian-statistics-970-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Suppose it is known that a proportion of 0.002 of Dutch women have disease <em>D</em>. There is a test to detect this disease. That test is not always reliable: in 0.04 of the cases in which the affected person has the disease, the test gives the result of no disease. 0.96 of those affected are detected with a positive result. Further : 0.96 of those who do not have the disease get a negative (no disease) result. Marja is told that she has a positive test result.</p>
+<p>Set the events:</p>
+<ul>
+<li><em>D</em> = The disease <em>D</em>,</li>
+<li><em>P</em> = The positive test result.</li>
+</ul>
+<p>Then what is the probability P(<em>D</em> and <em>P</em>)?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0,0019
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0,0019: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,0008
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.0008: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,0399
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.0399: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0,9581
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+0.9581: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

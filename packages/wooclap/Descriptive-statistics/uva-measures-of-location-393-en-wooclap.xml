@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/uva-measures-of-location-393-en-wooclap/Descriptive statistics/Summary Statistics/Measures of Location</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q1 : Descriptive-statistics_uva-measures-of-location-393-en_uva-measures-of-location-393-en </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[
+<style type="text/css" rel="stylesheet">
+/* tables with alternating shading */
+.table_shade {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #FFFFFF;
+    background-color: #FFFFFF;
+}
+.table_shade th {
+    border:1px solid #FFFFFF;
+    background: #D5D5D5;
+}
+.table_shade td {
+    border:1px solid #FFFFFF;
+}
+.table_shade .odd {
+    background: #EEEEEE;
+}
+.table_shade .even {
+    background: #FBFBFB;
+}
+</style>
+<p>
+<p>Given the following sample outcomes: 4.5, 3.9, 4.6, 4.1, 4.4. The 95% confidence interval for the population mean μ is equal to</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+&lt; 3.90 ; 4.70 &gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+&lt; 3.90 ; 4.70 &gt;: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+&lt; 3.94 ; 4.66 &gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+&lt; 3.94 ; 4.66 &gt;: Correct
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+&lt; 3.96 ; 4.64 &gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+&lt; 3.96 ; 4.64 &gt;: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+&lt; 4.04 ; 4.56 &gt;
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+&lt; 4.04 ; 4.56 &gt;: Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>
