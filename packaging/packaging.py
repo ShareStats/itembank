@@ -10,22 +10,26 @@ from .item import Item
 BASEFOLDER = "."
 PACK_FOLDER = "packages/"
 HTML_FOLDER = "docs/"
-PLATTFORMS = ("qti", "tv", "canvas", "ans", "wooclap")
+SUPPORTED_PLATFORMS = ("qti", "tv", "canvas", "ans", "wooclap", "moodle")
 EXCLUDE_FOLDER = ("scripts", "packaging", "packages", "build", "docs")
 FILE_TBL = "files.tsv"
 
 def all_items():
     return item_list(subfolder(BASEFOLDER, EXCLUDE_FOLDER))
 
-def file_table(formats, only_changed=True):
+def file_table(formats=None, only_changed=True):
     """Make table with source and destination files that changed to prepare
-    compilation. If only_changed=False, returns all files.
+    compilation. If only_changed=False, returns all files. If no format is specified
+    all supported platforms and html is generated.
 
     * generate instruction file that is read by tarballs and compile.R
     * the function also creates the required folder structure for the packages
     """
 
-    if not isinstance(formats, (list, tuple)):
+    if formats is None:
+        # default: all platforms
+        formats = ("html",) + SUPPORTED_PLATFORMS
+    elif not isinstance(formats, (list, tuple)):
         formats = (formats, )
 
     html_folder = Path(HTML_FOLDER)
@@ -47,7 +51,7 @@ def file_table(formats, only_changed=True):
     fl.write('"format"\t"file"\t"name"\t"dir"\n')
     for frmt in formats:
         for item in all_items():
-            if frmt in PLATTFORMS:
+            if frmt in SUPPORTED_PLATFORMS:
                 pack_name = item.name + "-" + frmt
                 fld = pkg_folder.joinpath(frmt, item.path.parent)
                 pkg_path = fld.joinpath(pack_name + ".zip")
@@ -95,7 +99,7 @@ def save_fingerprints(filename="fingerprints.json"):
 
 def tarballs():
 
-    exclude_files = [f"-{x}.zip" for x in PLATTFORMS] + [".html"] # platform zip file and html file
+    exclude_files = [f"-{x}.zip" for x in SUPPORTED_PLATFORMS] + [".html"] # platform zip file and html file
     pkg_folder = Path(PACK_FOLDER)
     tz = ZoneInfo('Europe/Amsterdam')
     log_folder = pkg_folder.joinpath("log")

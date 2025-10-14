@@ -21,6 +21,9 @@ compile_rmd <- function(fmt, file, name, dir) {
   } else if (fmt == "wooclap") {
     exams::exams2wooclap(
       file = file, name = name, dir = dir, edir = edir)
+  } else if (fmt == "moodle") {
+    exams::exams2moodle(
+      file = file, name = name, dir = dir, edir = edir)
   } else if (fmt == "canvas") {
     exams::exams2canvas(
       file = file, name = name, dir = dir, edir = edir)
