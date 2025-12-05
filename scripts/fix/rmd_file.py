@@ -3,7 +3,6 @@ import re
 from collections import OrderedDict
 from os import path
 from pathlib import Path
-import chardet
 
 
 class MetaInfo():
@@ -82,6 +81,9 @@ class RmdFile(object):
         self.content = []
 
     def guess_encoding(self):
+        """function requires the library chardet"""
+        import chardet
+
         if self.file_path.is_file():
             with open(self.file_path, "rb") as fl:
                 return chardet.detect(fl.read())
