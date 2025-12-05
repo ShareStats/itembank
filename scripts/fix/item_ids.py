@@ -3,9 +3,10 @@ import uuid
 from . import rmd_file
 
 ID_FIELD = "exextra[ID]"
+ID_LENGTH = 5
 
 def new_id():
-    return uuid.uuid4().hex[:8]
+    return uuid.uuid4().hex[:ID_LENGTH]
 
 def read_ids() -> dict[str, str | None]:
     file_list = rmd_file.get_filelist(".", ignore_error=True)
