@@ -1,6 +1,7 @@
 from scripts.fix.item_ids import add_missing_ids, check_duplicate_ids, read_ids
 
 if __name__ == "__main__":
+    print("Checking missing IDs")
     ids = read_ids()
     if add_missing_ids(ids, testrun=True):
         resp = input("\n\nShall I create missing IDs for these files (yes/no)? ")
@@ -10,5 +11,5 @@ if __name__ == "__main__":
         else:
             print("Nothing done!")
 
-    print("\nChecking duplicates")
+    print("Checking duplicate IDs")
     check_duplicate_ids(ids)
