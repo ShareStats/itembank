@@ -1,9 +1,30 @@
+import atexit
 import uuid
 
 from . import rmd_file
 
 ID_FIELD = "exextra[ID]"
 ID_LENGTH = 5
+
+class Logger:
+
+    def __init__(self, logfile: str):
+        if len(logfile) > 3:
+            self.fl = open(logfile, "a", encoding="utf-8")
+        else:
+            self.fl = None
+
+    def log(self, message: str):
+        print(message)
+        if self.fl is not None:
+            self.fl.write(message + "\n")
+
+    def close(self):
+        if self.fl is not None:
+            self.fl.close()
+
+log = Logger("") # file name or "" to disable logging
+atexit.register(log.close)
 
 def new_id():
     return uuid.uuid4().hex[:ID_LENGTH]
@@ -15,7 +36,7 @@ def read_ids() -> dict[str, str | None]:
         rmd = rmd_file.RmdFile(file_path)
         rmd.parse()
         if file_path in ids:
-            print("DUPLICATE FILE PATH???", file_path)
+            print("DUPLICATE FILE PATH??? " + file_path)
         try:
             ids[file_path] = rmd.meta_info.parameter[ID_FIELD]
         except KeyError:
@@ -30,7 +51,7 @@ def check_duplicate_ids(id_dict:dict):
         if id_ is None:
             continue
         if id_ in check_dict:
-            print(f"[Duplicate ID] {id_} {fl} and {check_dict[id_]}")
+            log.log(f"[Duplicate ID] {id_} {fl} and {check_dict[id_]}")
             duplicates_occured = True
         else:
             check_dict[id_] = fl
@@ -57,7 +78,7 @@ def add_missing_ids(id_dict:dict, testrun:bool = True):
     changes_required = False
     for file_path in no_id_files:
         if testrun:
-            print(f"[ID missing] {file_path}")
+            log.log(f"[ID missing] {file_path}")
             changes_required = True
         else:
             rmd = rmd_file.RmdFile(file_path)
@@ -65,7 +86,7 @@ def add_missing_ids(id_dict:dict, testrun:bool = True):
             new_unique_id = new_id()
             while new_unique_id in existing_ids:
                 new_unique_id = new_id()
-            print(f"[new ID] {new_unique_id} to {file_path}")
+            log.log(f"[new ID] {new_unique_id} to {file_path}")
+            existing_ids.add(new_unique_id)
             write_file_and_add_id(file_path, rmd.content, new_unique_id)
-
     return changes_required
