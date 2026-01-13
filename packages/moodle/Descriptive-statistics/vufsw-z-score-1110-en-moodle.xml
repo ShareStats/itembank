@@ -55,17 +55,7 @@ standard deviation 1.66179.</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Larger than 1 (&gt;1).
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-between -1 and 0.
+between 0 and 1.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -85,7 +75,17 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-between 0 and 1.
+between -1 and 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Larger than 1 (&gt;1).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

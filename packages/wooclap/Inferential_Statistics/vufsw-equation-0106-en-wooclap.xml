@@ -50,19 +50,9 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-This is the constant, this is the value of Y if X<sub>1 </sub>is equal to 0.<sub> </sub>
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-This is the alpha, this value belongs to a certain t-statistic and we have to look up in a table.
+This is the value of the alternative hypothesis (H<sub>a</sub>), this value is calculated by SPSS from the sample data.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -72,7 +62,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-This is the value of the alternative hypothesis (H<sub>a</sub>), this value is calculated by SPSS from the sample data.
+This is the significance level, this value is determined by the researcher. and is usually 0.05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -90,9 +80,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+This is the constant, this is the value of Y if X<sub>1 </sub>is equal to 0.<sub> </sub>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-This is the significance level, this value is determined by the researcher. and is usually 0.05.
+This is the alpha, this value belongs to a certain t-statistic and we have to look up in a table.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

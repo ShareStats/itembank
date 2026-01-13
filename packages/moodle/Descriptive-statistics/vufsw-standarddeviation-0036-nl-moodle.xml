@@ -54,7 +54,7 @@ variabiliteit?</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Het bereik (de <em>range</em>) kijkt alleen naar het midden van de verdeling, en de standaarddeviatie naar de volledige verdeling.
+Het bereik (de <em>range</em>) drukt de variabiliteit uit op een niet-gestandaardiseerde manier, terwijl de standaarddeviatie is gebaseerd op z-scores.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -74,7 +74,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Het bereik (de <em>range</em>) kijkt niet naar de uiteinden van de verdeling, maar de standaarddeviatie wel.
+Het bereik (de <em>range</em>) kijkt alleen naar het midden van de verdeling, en de standaarddeviatie naar de volledige verdeling.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -84,7 +84,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Het bereik (de <em>range</em>) drukt de variabiliteit uit op een niet-gestandaardiseerde manier, terwijl de standaarddeviatie is gebaseerd op z-scores.
+Het bereik (de <em>range</em>) kijkt niet naar de uiteinden van de verdeling, maar de standaarddeviatie wel.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -52,16 +52,6 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-The conditional standard deviation of y (s<sub>res</sub>) for each value of x is identical (constant variance).
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 The explained variance (R<sup>2</sup>) and the marginal variance are always are identical to each other (homogeneity).
@@ -74,7 +64,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The relationship between the dependent and independent variable is causal (causality).
+The standardized slope (Beta) and correlation coefficient (<em>r</em>) are always are the same size at any value of x (linearity).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -82,9 +72,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The conditional standard deviation of y (s<sub>res</sub>) for each value of x is identical (constant variance).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The standardized slope (Beta) and correlation coefficient (<em>r</em>) are always are the same size at any value of x (linearity).
+The relationship between the dependent and independent variable is causal (causality).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

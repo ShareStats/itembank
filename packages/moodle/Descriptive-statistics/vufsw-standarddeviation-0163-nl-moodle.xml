@@ -56,9 +56,19 @@ kun je dit afleiden?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De standaarddeviatie is hoger bij de mannen, want de scores liggen bij deze groep verder verwijderd van het gemiddelde van deze groep.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De standaarddeviatie is hoger bij de mannen, want de middelste score (mediaan) van de mannen is veel hoger dan de middelste score (mediaan) van de vrouwen.
+De standaarddeviatie is hoger bij de vrouwen, want de scores liggen bij deze groep verder verwijderd van het gemiddelde van deze groep.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -78,7 +88,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De standaarddeviatie is hoger bij de mannen, want de gemiddelde score van de mannen is veel hoger dan de gemiddelde score van de vrouwen.
+De standaarddeviatie is hoger bij de mannen, want de middelste score (mediaan) van de mannen is veel hoger dan de middelste score (mediaan) van de vrouwen.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -86,19 +96,9 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De standaarddeviatie is hoger bij de mannen, want de scores liggen bij deze groep verder verwijderd van het gemiddelde van deze groep.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De standaarddeviatie is hoger bij de vrouwen, want de scores liggen bij deze groep verder verwijderd van het gemiddelde van deze groep.
+De standaarddeviatie is hoger bij de mannen, want de gemiddelde score van de mannen is veel hoger dan de gemiddelde score van de vrouwen.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

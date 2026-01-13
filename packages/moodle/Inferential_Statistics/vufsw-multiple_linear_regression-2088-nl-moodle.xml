@@ -79,16 +79,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-1 en 2 zijn beide onwaar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Zowel 1 als 2 zijn waar
@@ -102,6 +92,16 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Alleen 1 is waar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+1 en 2 zijn beide onwaar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

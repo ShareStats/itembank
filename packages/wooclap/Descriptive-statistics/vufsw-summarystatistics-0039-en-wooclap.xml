@@ -50,13 +50,13 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-The mean of a Standard Normal distribution is always 0.00 and the standard deviation is always 1.96.
+The Standard Error (SE) for both a proportion and a mean is dependent on the sample size.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -72,7 +72,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-For the Standard Normal Distribution, 10% of the observations must be score at least 1.96 times the standard deviation higher than the mean value.
+The mean of a Standard Normal distribution is always 0.00 and the standard deviation is always 1.96.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -80,13 +80,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-The Standard Error (SE) for both a proportion and a mean is dependent on the sample size.
+For the Standard Normal Distribution, 10% of the observations must be score at least 1.96 times the standard deviation higher than the mean value.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>

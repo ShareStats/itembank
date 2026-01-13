@@ -56,17 +56,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Both 1 and 2 are TRUE
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Only 2 is TRUE
+Both 1 and 2 are false
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -86,7 +76,17 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Both 1 and 2 are false
+Only 2 is TRUE
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Both 1 and 2 are TRUE
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -53,6 +53,16 @@ The effect of / the effects of … </p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Gender (SEX) and age (AGE), because the 95% confidence intervals of these variables contain the value 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Education (EDUCYRS), because the 95% confidence interval of this variable does <strong>not</strong> contain the value 0.
@@ -65,27 +75,17 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Education (EDUCYRS) and Age (AGE), because the 95% confidence intervals of this variable do <strong>not</strong> contain the value 0.05.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Gender (SEX) and age (AGE), because the 95% confidence intervals of these variables contain the value 0.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Gender (SEX) and education (EDUCYRS), because the 95% confidence intervals of these variables contain the value 0.05.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Education (EDUCYRS) and Age (AGE), because the 95% confidence intervals of this variable do <strong>not</strong> contain the value 0.05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

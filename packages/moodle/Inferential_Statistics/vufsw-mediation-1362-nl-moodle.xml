@@ -72,6 +72,16 @@ de eerste regressieanalyse</strong> concluderen dat….</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De populatiewaarde niet 0 zal zijn, en dat er daarom waarschijnlijk een negatief effect van ‘fameduc’ in de populatie zal zijn
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De geschatte b (-.026) deel uitmaakt van het betrouwbaarheidsinterval, en dat er daarom waarschijnlijk een negatief effect van ‘fameduc’ in de populatie zal zijn
@@ -89,16 +99,6 @@ De populatiewaarde ook 0 kan zijn, en dat er daarom onvoldoende aanwijzingen zij
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De populatiewaarde niet 0 zal zijn, en dat er daarom waarschijnlijk een negatief effect van ‘fameduc’ in de populatie zal zijn
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

@@ -52,26 +52,6 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Omdat de malingering vooral leidt tot systematische variantie, zal de betrouwbaarheid positief beïnvloed worden. De validiteit wordt echter negatief beïnvloed.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Goed
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Omdat de malingering vooral leidt tot niet-systematische variantie, zal de betrouwbaarheid negatief beïnvloed worden. De validiteit wordt ook negatief beïnvloed.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Fout
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Omdat de malingering vooral leidt tot systematische variantie, zal de betrouwbaarheid negatief beïnvloed worden. De validiteit wordt ook negatief beïnvloed.
@@ -89,6 +69,26 @@ Omdat de malingering vooral leidt tot niet-systematische variantie, zal de betro
 <feedback format="html">
 <text><![CDATA[<p>
 Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Omdat de malingering vooral leidt tot niet-systematische variantie, zal de betrouwbaarheid negatief beïnvloed worden. De validiteit wordt ook negatief beïnvloed.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Omdat de malingering vooral leidt tot systematische variantie, zal de betrouwbaarheid positief beïnvloed worden. De validiteit wordt echter negatief beïnvloed.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Goed
 </p>]]></text>
 </feedback>
 </answer>

@@ -118,6 +118,16 @@ Wanneer we deze waarde vermenigvuldigen met 12, krijgen we 19,9. Dit betekent da
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+19
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 8
 </p>]]></text>
 <feedback format="html">
@@ -129,16 +139,6 @@ Incorrect
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 20
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Incorrect
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-19
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

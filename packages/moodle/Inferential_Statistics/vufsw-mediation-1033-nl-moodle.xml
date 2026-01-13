@@ -68,7 +68,7 @@ exist is not necessary</em>” is the correct answer</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Baron and Kenny vertrouwen te veel op de statistische significantie van <em>c </em>en <em>c’</em>
+De voorwaarde dat er een totaal effect <em>c</em> zou moeten bestaan is niet nodig
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -86,16 +86,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De voorwaarde dat er een totaal effect <em>c</em> zou moeten bestaan is niet nodig
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 De voorwaarde dat er een indirect effect <em>ab</em> zou moeten bestaan is niet nodig
@@ -103,6 +93,16 @@ De voorwaarde dat er een indirect effect <em>ab</em> zou moeten bestaan is niet 
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Baron and Kenny vertrouwen te veel op de statistische significantie van <em>c </em>en <em>c’</em>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

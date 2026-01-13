@@ -56,6 +56,16 @@ In addition, the bootstrap is better than the Sobel test because the Sobel test 
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Ecause the bootstrap method is based on testing the indirect effect <em>αb</em> and not the difference between the total effect <em>c</em> and the the direct effect <em>c’ </em>and because with the bootstrap method the indirect effect is <strong>always </strong>equal to both <em>αb</em> and <em>c</em> - <em>c’</em>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Ecause with the bootstrap method the indirect effect is <strong>always </strong>equal to both <em>αb</em> and <em>c</em> - <em>c’ </em>and because the bootstrap method is reliable is reliable even with small samples
 </p>]]></text>
 <feedback format="html">
@@ -77,16 +87,6 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Ecause the bootstrap method is based on testing the indirect effect <em>αb</em> and not the difference between the total effect <em>c</em> and the the direct effect <em>c’ </em>and because the bootstrap method is reliable even with large samples
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Ecause the bootstrap method is based on testing the indirect effect <em>αb</em> and not the difference between the total effect <em>c</em> and the the direct effect <em>c’ </em>and because with the bootstrap method the indirect effect is <strong>always </strong>equal to both <em>αb</em> and <em>c</em> - <em>c’</em>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

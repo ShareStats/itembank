@@ -59,6 +59,16 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+The value of the standard deviation is much smaller than 1.96.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 The value of the mean is more than 2 times the value of the standard deviation.
 </p>]]></text>
 <feedback format="html">
@@ -80,16 +90,6 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 The value of the standard deviation is much closer to the minimum score than to the maximum score.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The value of the standard deviation is much smaller than 1.96.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

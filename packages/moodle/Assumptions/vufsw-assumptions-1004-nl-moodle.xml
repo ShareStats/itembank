@@ -59,19 +59,19 @@ De assumptie van normaliteit verwijst naar de normaliteit van de residuen en nie
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-De assumptie van normaliteit van de residuen omdat in de P-P plot de P(Z&gt;z) van de verdeling van onze data niet afwijkt van de theoretische normale verdeling
+De assumptie van homoscedasticiteit omdat de variantie van de residuen niet lijkt te variëren voor de verschillende voorspelde waarden
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Waar
+Onwaar
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De assumptie van homoscedasticiteit omdat de variantie van de residuen niet lijkt te variëren voor de verschillende voorspelde waarden
+De assumptie van normaliteit van de afhankelijke variabele omdat in de P-P plot de P(Z&gt;z) van de verdeling van onze gegevens niet afwijkt van de theoretische normale verdeling
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -89,13 +89,13 @@ Onwaar
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-De assumptie van normaliteit van de afhankelijke variabele omdat in de P-P plot de P(Z&gt;z) van de verdeling van onze gegevens niet afwijkt van de theoretische normale verdeling
+De assumptie van normaliteit van de residuen omdat in de P-P plot de P(Z&gt;z) van de verdeling van onze data niet afwijkt van de theoretische normale verdeling
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Onwaar
+Waar
 </p>]]></text>
 </feedback>
 </answer>

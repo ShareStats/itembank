@@ -52,27 +52,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The non-orthogonal contrasts of a one-way ANOVA
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 A series of one-way ANOVAs testing a common research question
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-A series of post-hoc tests without Bonferoni correction of a between factor with more than 2 categories in a Mixed-Design ANOVA
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -87,6 +67,26 @@ The approximate F-test for Pillai’s trace in MANOVA
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A series of post-hoc tests without Bonferoni correction of a between factor with more than 2 categories in a Mixed-Design ANOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The non-orthogonal contrasts of a one-way ANOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

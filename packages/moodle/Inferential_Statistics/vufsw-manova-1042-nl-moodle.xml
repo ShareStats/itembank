@@ -57,9 +57,19 @@ explain with this model. So, again there is no need for a MANOVA.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Gematigd gecorreleerd moeten zijn.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Zeer sterk gecorreleerd moeten zijn.
+Perfect gecorreleerd moeten zijn.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -77,19 +87,9 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Gematigd gecorreleerd moeten zijn.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Perfect gecorreleerd moeten zijn.
+Zeer sterk gecorreleerd moeten zijn.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

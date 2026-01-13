@@ -70,13 +70,13 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Nulhypothese (H<sub>0</sub>): <em>ß</em> = 0. Alternatieve hypothese: <em>ß</em> &lt; 0.
+Nulhypothese (H<sub>0</sub>): <em>ß</em> = 0. Alternatieve hypothese (H<sub>a</sub>): <em>ß ≠ 0.</em>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -90,19 +90,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Nulhypothese (H<sub>0</sub>): <em>ß</em> ≠ 0. Alternatieve hypothese (H<sub>a</sub>): <em>ß</em> = 0.
+Nulhypothese (H<sub>0</sub>): <em>ß</em> = 0. Alternatieve hypothese: <em>ß</em> &lt; 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Nulhypothese (H<sub>0</sub>): <em>ß</em> = 0. Alternatieve hypothese (H<sub>a</sub>): <em>ß ≠ 0.</em>
+Nulhypothese (H<sub>0</sub>): <em>ß</em> ≠ 0. Alternatieve hypothese (H<sub>a</sub>): <em>ß</em> = 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

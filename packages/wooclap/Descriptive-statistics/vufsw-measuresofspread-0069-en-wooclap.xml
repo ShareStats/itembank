@@ -56,17 +56,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The standard error (se) you use for <strong>sample</strong> distribution and the exact standard error (se<sub>0</sub>) for the <strong>sample</strong> distribution.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-You use the standard error (se) for the alternative hypothesis (H<sub>a</sub>) and the exact standard error (se<sub>0</sub>) use for the null hypothesis (H<sub>0</sub>).
+You use the standard error (se) when calculating a t-distribution and the exact standard error (se<sub>0</sub>) is used in the Standard Normal Distribution (the z-distribution).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -86,7 +76,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-You use the standard error (se) when calculating a t-distribution and the exact standard error (se<sub>0</sub>) is used in the Standard Normal Distribution (the z-distribution).
+You use the standard error (se) for a categorical variable and the exact standard error (se<sub>0</sub>) in the case of a quantitative variable.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -96,7 +86,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-You use the standard error (se) for a categorical variable and the exact standard error (se<sub>0</sub>) in the case of a quantitative variable.
+You use the standard error (se) for the alternative hypothesis (H<sub>a</sub>) and the exact standard error (se<sub>0</sub>) use for the null hypothesis (H<sub>0</sub>).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The standard error (se) you use for <strong>sample</strong> distribution and the exact standard error (se<sub>0</sub>) for the <strong>sample</strong> distribution.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

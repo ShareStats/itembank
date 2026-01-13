@@ -53,7 +53,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-construct bias
+internal bias
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -71,16 +71,6 @@ Fout
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-internal bias
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Fout
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 slope bias
@@ -88,6 +78,16 @@ slope bias
 <feedback format="html">
 <text><![CDATA[<p>
 Goed
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+construct bias
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
 </p>]]></text>
 </feedback>
 </answer>

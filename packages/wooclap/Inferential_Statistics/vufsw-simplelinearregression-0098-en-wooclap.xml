@@ -57,27 +57,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-E assume that the number of HOURS will affect CIJFER, <em>but not the other way around</em>.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Hat is, we expect the influence of HOURS on CIFFER to be will be <em>positive</em>.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-E expect the effect to be true for <em>all</em> students in our sample.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -92,6 +72,26 @@ Hat means we expect the influence of HOURS on CIFFER to be <em>the same</em> for
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+E assume that the number of HOURS will affect CIJFER, <em>but not the other way around</em>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+E expect the effect to be true for <em>all</em> students in our sample.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

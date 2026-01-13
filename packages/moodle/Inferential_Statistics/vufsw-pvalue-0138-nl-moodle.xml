@@ -79,6 +79,16 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<strong>Nee</strong>, leeftijdscategorie heeft <em>geen</em> significante invloed, omdat de <strong>P-waarde</strong> kleiner is dan 0,05.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 <strong>Ja</strong>, leeftijdscategorie heeft een significante invloed, omdat de <strong>P-waarde</strong> kleiner is dan 0,05.
@@ -92,16 +102,6 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 <strong>Ja</strong>, leeftijdscategorie heeft een significante invloed, omdat de <strong>t-waarde</strong> groter is dan 0,05.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-<strong>Nee</strong>, leeftijdscategorie heeft <em>geen</em> significante invloed, omdat de <strong>P-waarde</strong> kleiner is dan 0,05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -73,6 +73,16 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+We gebruiken een kritieke <strong>t-waarde</strong>. Dat is bij deze toetsing 2.36.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 We gebruiken een kritieke <strong>z-score</strong>. Dat is bij deze toetsing 2.33.
@@ -85,27 +95,17 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-We gebruiken een kritieke <strong>z-score</strong>. Dat is bij deze toetsing 1.28.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-We gebruiken een kritieke <strong>t-waarde</strong>. Dat is bij deze toetsing 2.36.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 We gebruiken een kritieke <strong>t-waarde</strong>. Dat is bij deze toetsing 3.17.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+We gebruiken een kritieke <strong>z-score</strong>. Dat is bij deze toetsing 1.28.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -55,13 +55,13 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-R<sup>2</sup> = 1 if the regression model has no prediction error (‘prediction error’).
+R<sup>2</sup> = 0 if there is no correlation between all the independent variables in the regression model.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -75,13 +75,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-R<sup>2</sup> = 0 if there is no correlation between all the independent variables in the regression model.
+R<sup>2</sup> = 1 if the regression model has no prediction error (‘prediction error’).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

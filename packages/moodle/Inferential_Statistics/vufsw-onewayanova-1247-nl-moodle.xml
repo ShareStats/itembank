@@ -57,26 +57,6 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-5.1%
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Waar
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-4.2%
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dit kan niet worden berekend op basis van bovenstaande output.
@@ -94,6 +74,26 @@ Onwaar
 <feedback format="html">
 <text><![CDATA[<p>
 Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4.2%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+5.1%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
 </p>]]></text>
 </feedback>
 </answer>

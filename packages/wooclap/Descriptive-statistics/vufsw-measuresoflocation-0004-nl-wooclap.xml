@@ -60,16 +60,6 @@ centrummaten zullen veranderen door deze wijziging?</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Alleen de modus zal veranderen.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Zowel de modus, de mediaan, als het gemiddelde zullen veranderen.
 </p>]]></text>
 <feedback format="html">
@@ -101,6 +91,16 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Alleen de mediaan zal veranderen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alleen de modus zal veranderen.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -79,9 +79,19 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Deze zal dalen, omdat deze onafhankelijke variabele een significante invloed heeft op Y.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Deze zal stijgen, omdat het aantal onafhankelijke variabelen in het model afneemt.
+Deze zal stijgen, omdat deze onafhankelijke variabele een negatieve invloed heeft op Y.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -91,7 +101,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Deze zal gelijk blijven, omdat het meetniveau van de afhankelijke variabele (Y) in het model hierdoor <em>niet</em> beïnvloed wordt.
+Deze zal stijgen, omdat het aantal onafhankelijke variabelen in het model afneemt.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -111,21 +121,11 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Deze zal stijgen, omdat deze onafhankelijke variabele een negatieve invloed heeft op Y.
+Deze zal gelijk blijven, omdat het meetniveau van de afhankelijke variabele (Y) in het model hierdoor <em>niet</em> beïnvloed wordt.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Deze zal dalen, omdat deze onafhankelijke variabele een significante invloed heeft op Y.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

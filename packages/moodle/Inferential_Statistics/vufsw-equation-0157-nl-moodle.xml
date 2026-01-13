@@ -66,7 +66,7 @@ groepen als volgt is:</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-BEOORDELING = 3,40 – 0,20 * EXPGROEP
+BEOORDELING = 0,20 + 3,40 * EXPGROEP
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -84,16 +84,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-BEOORDELING = 3,60 – 0,20 * EXPGROEP
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 BEOORDELING = 3,60 + 3,40 * EXPGROEP
@@ -106,7 +96,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-BEOORDELING = 0,20 + 3,40 * EXPGROEP
+BEOORDELING = 3,40 – 0,20 * EXPGROEP
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -121,6 +111,16 @@ BEOORDELING = 3,20 + 0,40 * EXPGROEP
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+BEOORDELING = 3,60 – 0,20 * EXPGROEP
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

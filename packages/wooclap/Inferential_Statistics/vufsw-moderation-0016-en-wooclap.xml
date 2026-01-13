@@ -66,7 +66,17 @@ Thus II is not true.</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-To what extent does the value of cause variable X depend on the direction and strength of the effect of variable Z on consequence variable Y?
+To what extent does the effect of a cause variable X on consequence variable Y through the mediating variable Z?
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+What is the direction and strength of the effect of cause variable X on variable Z, controlled for the effect of Z on consequence variable Y?
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -86,17 +96,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-What is the direction and strength of the effect of cause variable X on variable Z, controlled for the effect of Z on consequence variable Y?
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-To what extent does the effect of a cause variable X on consequence variable Y through the mediating variable Z?
+To what extent does the value of cause variable X depend on the direction and strength of the effect of variable Z on consequence variable Y?
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

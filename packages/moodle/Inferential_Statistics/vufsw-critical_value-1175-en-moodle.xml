@@ -54,7 +54,7 @@ hypothesis. What is the best way of doing so?</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-We run a one-sided test with an alpha of 1%.
+We run a two-sided test with an alpha of 5%.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -64,7 +64,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-We run a two-sided test with an alpha of 5%.
+We run a one-sided test with an alpha of 5%.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+We run a one-sided test with an alpha of 1%.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -79,16 +89,6 @@ We run a two-sided test with an alpha of 1%.
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-We run a one-sided test with an alpha of 5%.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

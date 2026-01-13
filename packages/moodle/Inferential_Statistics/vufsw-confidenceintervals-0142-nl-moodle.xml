@@ -71,29 +71,9 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Nee, want het getal 0,00 ligt binnen het interval.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Nee, want het getal 0,025 ligt binnen het interval.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nee, want het getal 0,05 ligt binnen het interval.
+Ja, want het getal 0,025 ligt binnen het interval.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -111,9 +91,29 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Nee, want het getal 0,00 ligt binnen het interval.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Ja, want het getal 0,025 ligt binnen het interval.
+Nee, want het getal 0,05 ligt binnen het interval.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Nee, want het getal 0,025 ligt binnen het interval.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -60,6 +60,16 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The T-value is the B/SE (standard error): how much SE is the B away from 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 The T-value is the comparison between the values of the independent variables. At <em>p</em> &lt; .05 it is significant.
@@ -77,16 +87,6 @@ The T-value is the Beta/SE (standard error): how much SE is the Beta away from 0
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-The T-value is the B/SE (standard error): how much SE is the B away from 0.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

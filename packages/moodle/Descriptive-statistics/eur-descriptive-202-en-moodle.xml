@@ -126,18 +126,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-<ol style="list-style-type: upper-roman">
-<li>6, (II) missing, (III) 8, (IV) 9</li>
-</ol>
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 <ol style="list-style-type: upper-roman">
@@ -147,6 +135,18 @@ False
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<ol style="list-style-type: upper-roman">
+<li>6, (II) missing, (III) 8, (IV) 9</li>
+</ol>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

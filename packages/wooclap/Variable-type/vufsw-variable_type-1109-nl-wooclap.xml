@@ -51,13 +51,13 @@ hebben dan mannen. In dit onderzoek is “geslacht” …</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Een controle variabele.
+De onafhankelijke variabele.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -71,19 +71,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-De onafhankelijke variabele.
+De afhankelijke variabele.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De afhankelijke variabele.
+Een controle variabele.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

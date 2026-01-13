@@ -68,16 +68,6 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-We must then check whether the difference between the value 742 and the value 644 deviates significantly from 0.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 We must then verify that the difference between the value 742 and the value -128 is significantly different from 0.
 </p>]]></text>
 <feedback format="html">
@@ -99,6 +89,16 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 We must then check whether the value 742 is significantly different from 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+We must then check whether the difference between the value 742 and the value 644 deviates significantly from 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

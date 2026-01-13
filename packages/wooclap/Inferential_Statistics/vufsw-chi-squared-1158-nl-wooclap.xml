@@ -55,6 +55,16 @@ Als je meer wilt weten over de chi kwadraattest, bekijk dan dit
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Onafhankelijke t-toets
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Chi-kwadraat toets
@@ -67,7 +77,7 @@ Waar
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Onafhankelijke t-toets
+Eén steekproef t-test
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -78,16 +88,6 @@ Onwaar
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Meervoudige regressie
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Eén steekproef t-test
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

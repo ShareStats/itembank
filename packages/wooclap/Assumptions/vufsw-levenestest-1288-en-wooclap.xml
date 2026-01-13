@@ -55,16 +55,6 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No, I deduce that from <em>F</em>(2,113) = .474, <em>p</em> = .624
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Yes, I infer that from <em>F</em>(2,113) = 1.292, <em>p</em> = .279
 </p>]]></text>
 <feedback format="html">
@@ -76,6 +66,16 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 No, I infer that from <em>F</em>(2,113) = 1.292, <em>p</em> = .279
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No, I deduce that from <em>F</em>(2,113) = .474, <em>p</em> = .624
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

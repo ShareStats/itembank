@@ -58,17 +58,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Recodes each item’s scores to the standard range so that all scores fall between the minimum of -1.00 and maximum of +1.00. lie.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Transforms the scores of each item to the average correlation with all other items, so that the score’s distance from the standard deviation represents.
+Recodes the scores of each item without the outliers so that 95% of the scores are at most 2 standard deviations away from the mean.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -88,7 +78,17 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Recodes the scores of each item without the outliers so that 95% of the scores are at most 2 standard deviations away from the mean.
+Transforms the scores of each item to the average correlation with all other items, so that the score’s distance from the standard deviation represents.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Recodes each item’s scores to the standard range so that all scores fall between the minimum of -1.00 and maximum of +1.00. lie.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

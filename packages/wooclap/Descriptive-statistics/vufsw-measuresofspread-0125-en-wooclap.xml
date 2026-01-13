@@ -51,19 +51,19 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-The mean spread of the standard deviation.
+The standard deviation of a sampling distribution.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The standardized prediction error.
+The mean spread of the standard deviation.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -81,13 +81,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-The standard deviation of a sampling distribution.
+The mean prediction error.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -103,7 +103,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The mean prediction error.
+The standardized prediction error.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

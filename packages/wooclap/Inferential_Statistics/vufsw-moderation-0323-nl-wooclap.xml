@@ -55,27 +55,17 @@ gebruiken?</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Lineaire regressie, om het mediatie effect van geslacht te toetsen
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Lineaire regressie die toetst of geslacht een spurious variabele is
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Lineaire regressie, om het mediatie effect van het aantal zorguren te toetsen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Lineaire regressie, om het mediatie effect van geslacht te toetsen
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -90,6 +80,16 @@ Lineaire regressie, om het moderatie effect van geslacht te toetsen
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Lineaire regressie die toetst of geslacht een spurious variabele is
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

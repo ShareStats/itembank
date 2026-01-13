@@ -51,6 +51,16 @@ regression slopes’?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The residuals are not normally distributed
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 The effect of the covariate differs significantly between the different experimental groups
@@ -63,27 +73,17 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The variance of the covariate varies between the experimental groups
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The residuals are not normally distributed
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Participants were not randomly assigned to the experimental groups
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The variance of the covariate varies between the experimental groups
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

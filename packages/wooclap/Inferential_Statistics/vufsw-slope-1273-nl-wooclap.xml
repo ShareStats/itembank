@@ -53,6 +53,16 @@ Y = a + b<sub>1</sub> * X<sub>1 </sub> Wat betekent “b” in deze vergelijking
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Dit is de helling en vertegenwoordigt de voorspelde Y als X<sub>1 </sub> gelijk is aan 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Dit is de helling en heeft de waarde 0 als X<sub>1 </sub> geen effect heeft op Y heeft.
 </p>]]></text>
 <feedback format="html">
@@ -68,16 +78,6 @@ Dit is de helling en geeft de voorspelde verandering in Y weer als X<sub>1 </sub
 <feedback format="html">
 <text><![CDATA[<p>
 Waar
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dit is de helling en vertegenwoordigt de voorspelde Y als X<sub>1 </sub> gelijk is aan 0.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
 </p>]]></text>
 </feedback>
 </answer>

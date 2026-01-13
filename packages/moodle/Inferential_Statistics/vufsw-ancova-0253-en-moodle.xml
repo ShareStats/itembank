@@ -64,6 +64,16 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+[1]                1 vs. (2,3) [2]                2 vs. 3
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 [1]                3 vs. (2,1) [2]                2 vs. 1
 </p>]]></text>
 <feedback format="html">
@@ -79,16 +89,6 @@ False
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-[1]                1 vs. (2,3) [2]                2 vs. 3
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

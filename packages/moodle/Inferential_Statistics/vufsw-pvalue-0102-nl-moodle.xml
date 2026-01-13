@@ -82,16 +82,6 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-<strong>Nee</strong>, leeftijdscategorie heeft <em>geen</em> significante invloed, omdat de <strong>t-waarde</strong> groter is dan 0,05.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 <strong>Ja</strong>, leeftijdscategorie heeft een significante invloed, omdat de <strong>t-waarde</strong> groter is dan 0,05.
 </p>]]></text>
 <feedback format="html">
@@ -102,7 +92,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-<strong>Ja</strong>, leeftijdscategorie heeft een significante invloed, omdat de <strong>Beta</strong> (gestandaardiseerde b-coëfficient) groter is dan 0,05.
+<strong>Nee</strong>, leeftijdscategorie heeft <em>geen</em> significante invloed, omdat de <strong>t-waarde</strong> groter is dan 0,05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -112,7 +102,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-<strong>Nee</strong>, leeftijdscategorie heeft <em>geen</em> significante invloed, omdat de <strong>Beta</strong> (gestandaardiseerde b-coëfficient) groter is dan 0,05.
+<strong>Ja</strong>, leeftijdscategorie heeft een significante invloed, omdat de <strong>Beta</strong> (gestandaardiseerde b-coëfficient) groter is dan 0,05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -137,6 +127,16 @@ False
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<strong>Nee</strong>, leeftijdscategorie heeft <em>geen</em> significante invloed, omdat de <strong>Beta</strong> (gestandaardiseerde b-coëfficient) groter is dan 0,05.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

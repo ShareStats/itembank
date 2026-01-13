@@ -53,6 +53,26 @@ In Germany, she can get a job where she earns a salary of 4,000 euros. The avera
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+In the United States. The correlation coefficient of the offered salary is higher in the United States than in Germany.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+In the Germany. The correlation coefficient of the offered salary is higher in the Germany than in the United States.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 In the Germany. The z-score of the offered salary is higher in Germany than in the United States.
@@ -85,27 +105,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-In the United States. The correlation coefficient of the offered salary is higher in the United States than in Germany.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 In the Germany. The standard error (<em>standard error</em>) of the offered salary is higher in the Germany than in the United States.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-In the Germany. The correlation coefficient of the offered salary is higher in the Germany than in the United States.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

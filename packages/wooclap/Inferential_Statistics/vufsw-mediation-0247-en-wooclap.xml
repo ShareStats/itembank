@@ -56,17 +56,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The total effect is <strong>not</strong> significant.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The direct effect is significant.
+The overall effect is significant.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -86,7 +76,17 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The overall effect is significant.
+The total effect is <strong>not</strong> significant.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The direct effect is significant.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

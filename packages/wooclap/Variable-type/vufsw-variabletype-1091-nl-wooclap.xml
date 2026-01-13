@@ -56,16 +56,6 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De variabele ‘Interactieve klas’ is de onafhankelijke variabele en het gemiddelde examencijfer is de afhankelijke variabele.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Waar
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Het gemiddelde examencijfer is de onafhankelijke variabele en het aantal studenten in de interactieve klas is de afhankelijke variabele.
@@ -93,6 +83,16 @@ Het gemiddelde examencijfer is de onafhankelijke variabele en de variabele inter
 <feedback format="html">
 <text><![CDATA[<p>
 Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De variabele ‘Interactieve klas’ is de onafhankelijke variabele en het gemiddelde examencijfer is de afhankelijke variabele.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
 </p>]]></text>
 </feedback>
 </answer>

@@ -69,6 +69,16 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+It tests the null hypothesis that, in the population, the coefficient is zero against the alternative hypothesis that the coefficient in the population is <strong>not </strong>zero
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 It tests the null hypothesis that the coefficient is <strong>not </strong>zero in the population against the alternative hypothesis that the coefficient in the population is zero
@@ -86,16 +96,6 @@ It tests the null hypothesis that, in the population, the coefficient equals the
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-It tests the null hypothesis that, in the population, the coefficient is zero against the alternative hypothesis that the coefficient in the population is <strong>not </strong>zero
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

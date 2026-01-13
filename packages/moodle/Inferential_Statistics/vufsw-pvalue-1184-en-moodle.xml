@@ -58,7 +58,7 @@ This means that there is a 3.01% probability that …</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-the z-score is between -1.88 and 1.88.
+the z-score is between -1.88 and 0.00.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -68,7 +68,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-the z-score is between -1.88 and 0.00.
+the z-score is -1.88 or higher.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+the z-score is between -1.96 and -1.88.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -88,17 +98,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-the z-score is between -1.96 and -1.88.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-the z-score is -1.88 or higher.
+the z-score is between -1.88 and 1.88.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

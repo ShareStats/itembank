@@ -70,16 +70,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Box’s test
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 None of the other answers is correct
@@ -93,6 +83,16 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Levene’s test
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Box’s test
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

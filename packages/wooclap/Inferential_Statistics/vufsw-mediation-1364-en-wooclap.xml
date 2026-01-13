@@ -60,27 +60,7 @@ Below are the results of two regression analyses.</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The constant .465 indicates the predicted score on ‘tvwatching’ for respondents with a mean score on parental education and a mean score on the degree of television watching by parents previously earlier
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 The constant .465 indicates the lowest score on “TVwatching,” where the education of the parents and the degree of television watching by the parents were previously held constant
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The constant .465 indicates the effect of parental education on ‘TVwatching’ for respondents whose parents used to watch the least watched television (0)
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -95,6 +75,26 @@ The constant .465 indicates the predicted score on ‘tvwatching’ for responde
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The constant .465 indicates the effect of parental education on ‘TVwatching’ for respondents whose parents used to watch the least watched television (0)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The constant .465 indicates the predicted score on ‘tvwatching’ for respondents with a mean score on parental education and a mean score on the degree of television watching by parents previously earlier
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

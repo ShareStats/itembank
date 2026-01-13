@@ -81,7 +81,7 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Deze zal stijgen, omdat het aantal onafhankelijke variabelen in het model afneemt.
+Deze zal gelijk blijven, omdat de verklaarde variantie <em>niet</em> afhankelijk is van het aantal onafhankelijke variabelen in het model.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -91,7 +91,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Deze zal gelijk blijven, omdat de verklaarde variantie <em>niet</em> afhankelijk is van het aantal onafhankelijke variabelen in het model.
+Deze zal stijgen, omdat deze onafhankelijke variabele een negatieve invloed heeft op Y.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -121,7 +121,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Deze zal stijgen, omdat deze onafhankelijke variabele een negatieve invloed heeft op Y.
+Deze zal stijgen, omdat het aantal onafhankelijke variabelen in het model afneemt.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

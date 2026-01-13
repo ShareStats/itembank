@@ -57,19 +57,9 @@ averages.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-<em>( x̄<sub>1</sub> - x̄<sub>2 </sub></em> <em>) ± t ( se )</em>
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
- (<em> x̄<sub>d</sub> ) ± t ( se )</em>
+<em>p̂</em> <em> ± t ( se )</em>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -89,11 +79,21 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-<em>p̂</em> <em> ± t ( se )</em>
+ (<em> x̄<sub>d</sub> ) ± t ( se )</em>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<em>( x̄<sub>1</sub> - x̄<sub>2 </sub></em> <em>) ± t ( se )</em>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

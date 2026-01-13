@@ -60,6 +60,16 @@ Standaardwaarde</p>
 <shuffleanswers>false</shuffleanswers>
 <single>false</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+None of the other answers is correct
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="-50" format="html">
 <text><![CDATA[<p>
 only include a mixture of within-group and repeated-measures variables.
@@ -77,16 +87,6 @@ require at least four independent variables.
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="50" format="html">
-<text><![CDATA[<p>
-None of the other answers is correct
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

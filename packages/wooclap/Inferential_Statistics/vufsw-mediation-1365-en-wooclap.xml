@@ -58,13 +58,13 @@ Below are the results of two regression analyses.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-When ‘fameduc’ is held constant, the difference in ‘tvwatching’ between the young adults whose parents watched the least and most watched television .218
+Only for young adults whose parents had the lowest level of education (0) is the difference in “tvwatching” between those whose parents least and most watched television .218
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -80,7 +80,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Only for young adults whose parents had the lowest level of education (0) is the difference in “tvwatching” between those whose parents least and most watched television .218
+When ‘fameduc’ is held constant, for every hour that the parents used to watch more television the degree of television watching of the young adult increases by .218
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -88,13 +88,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-When ‘fameduc’ is held constant, for every hour that the parents used to watch more television the degree of television watching of the young adult increases by .218
+When ‘fameduc’ is held constant, the difference in ‘tvwatching’ between the young adults whose parents watched the least and most watched television .218
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

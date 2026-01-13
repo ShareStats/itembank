@@ -60,7 +60,17 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Het toetst de nulhypothese dat in de populatie de coëfficiënt gelijk is aan dezelfde waarde als die gevonden voor de steekproef tegenover de alternatieve hypothese dat de coëfficiënt in de populatie <strong>niet</strong> gelijk is aan dezelfde waarde als die gevonden voor de steekproef
+Het test de nulhypothese dat de coëfficiënt <strong>niet</strong> nul is in de populatie tegen de alternatieve hypothese dat de coëfficiënt in de populatie nul is
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het test of de P-waarde van de coëfficiënt gelijk is aan 0,05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -80,17 +90,7 @@ Waar
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Het test of de P-waarde van de coëfficiënt gelijk is aan 0,05.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Het test de nulhypothese dat de coëfficiënt <strong>niet</strong> nul is in de populatie tegen de alternatieve hypothese dat de coëfficiënt in de populatie nul is
+Het toetst de nulhypothese dat in de populatie de coëfficiënt gelijk is aan dezelfde waarde als die gevonden voor de steekproef tegenover de alternatieve hypothese dat de coëfficiënt in de populatie <strong>niet</strong> gelijk is aan dezelfde waarde als die gevonden voor de steekproef
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

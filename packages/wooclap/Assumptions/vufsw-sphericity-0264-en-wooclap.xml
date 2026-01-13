@@ -54,16 +54,6 @@ In MANOVA, the variances of the residuals of each dependent variable and the cov
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Sphericity
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Homogeneity of variances and sphericity
@@ -76,7 +66,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Homogeneity of variances
+Homogeneity of covariance matrices
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -84,9 +74,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Sphericity
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Homogeneity of covariance matrices
+Homogeneity of variances
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -55,7 +55,7 @@ F-test to…</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-None of the above.
+Test which of the variables has the strongest effect on the occupational prestige.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -65,7 +65,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Test which of the variables has the strongest effect on the occupational prestige.
+Find the percentage of variance in occupational prestige that is explained by the 3 independent variables.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+None of the above.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -80,16 +90,6 @@ Test if the independent variables together have an effect on occupational presti
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Find the percentage of variance in occupational prestige that is explained by the 3 independent variables.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

@@ -50,6 +50,16 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+It is the distribution of population parameters (<em>population parameters</em>), such as population proportions or population averages.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 It is the distribution of a sample statistic (<em>sample statistic</em>), such as sample proportion or sample mean.
@@ -63,16 +73,6 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 T is the distribution of variation within a given sample (<em>sample variability</em>), such as the standard deviations of the sample.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-It is the distribution of population parameters (<em>population parameters</em>), such as population proportions or population averages.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -66,16 +66,6 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-If the predicted score on the ‘baseline’ quality of life, Base|Qol, of someone still on the waiting list who scores 0 on the ‘Post’ quality of life.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 If the lowest score on Post_Qol appearing in the data where held constant on the ‘baseline’ quality of life and on ‘surgery’
 </p>]]></text>
 <feedback format="html">
@@ -87,6 +77,16 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 As the lowest score on Postthat appears in the data
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+If the predicted score on the ‘baseline’ quality of life, Base|Qol, of someone still on the waiting list who scores 0 on the ‘Post’ quality of life.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

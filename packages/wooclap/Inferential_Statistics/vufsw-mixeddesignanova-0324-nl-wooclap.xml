@@ -77,16 +77,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Lineaire regressie met de schaal van spijbelen als afhankelijke variabele, de participatie aan het programma als onafhankelijke variabele
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Mixed Design ANOVA met de schaal van motivatie als afhankelijke variabele en met de participatie aan het programma als <em>within variable</em> en alle andere gemeten kenmerken als <em>between variables</em>
@@ -94,6 +84,16 @@ Mixed Design ANOVA met de schaal van motivatie als afhankelijke variabele en met
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Lineaire regressie met de schaal van spijbelen als afhankelijke variabele, de participatie aan het programma als onafhankelijke variabele
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

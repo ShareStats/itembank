@@ -82,6 +82,16 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Yes, because there is not enough empirical evidence to assume that the proportion of Dutch pupils who have ever used cannabis is higher than 0.20.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 No, because there is not enough empirical evidence to assume that the proportion of Dutch school students who ever used cannabis is higher than 0.20.
@@ -94,27 +104,17 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No, because there is sufficient empirical evidence to assume that the proportion of Dutch students who have ever used cannabis is higher than 0.20.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Yes, because there is not enough empirical evidence to assume that the proportion of Dutch pupils who have ever used cannabis is higher than 0.20.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Yes, because there is sufficient empirical evidence to assume that the proportion of Dutch students who have ever used cannabis is higher than 0.20.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No, because there is sufficient empirical evidence to assume that the proportion of Dutch students who have ever used cannabis is higher than 0.20.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

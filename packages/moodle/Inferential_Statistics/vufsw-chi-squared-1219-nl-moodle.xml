@@ -124,6 +124,16 @@ Boven modaal
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Er is geen statistisch verband tussen inkomen en tevredenheid, omdat de geobserveerde <em>X</em><sup>2</sup> groter is dan de kritische <em>X</em><sup>2</sup>. <em>X</em><sup>2</sup>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Er is geen statistisch verband tussen inkomen en tevredenheid, omdat de geobserveerde <em>X</em><sup>2</sup> kleiner is dan de kritische <em>X</em><sup>2</sup>. <em>X</em><sup>2</sup>.
 </p>]]></text>
 <feedback format="html">
@@ -134,7 +144,7 @@ Onwaar
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Er is geen statistisch verband tussen inkomen en tevredenheid, omdat de geobserveerde <em>X</em><sup>2</sup> groter is dan de kritische <em>X</em><sup>2</sup>. <em>X</em><sup>2</sup>.
+Er is een statistisch verband tussen inkomen en tevredenheid, omdat de geobserveerde <em>X</em><sup>2</sup> groter is dan de kritische <em>X</em><sup>2</sup>. <em>X</em><sup>2</sup>.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -149,16 +159,6 @@ Er is een statistisch verband tussen inkomen en tevredenheid, omdat de geobserve
 <feedback format="html">
 <text><![CDATA[<p>
 Waar
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Er is een statistisch verband tussen inkomen en tevredenheid, omdat de geobserveerde <em>X</em><sup>2</sup> groter is dan de kritische <em>X</em><sup>2</sup>. <em>X</em><sup>2</sup>.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
 </p>]]></text>
 </feedback>
 </answer>

@@ -83,7 +83,7 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-As perceived control increases by one standard deviation, burnout increases by 0.541 units controlling for the other variables. Therefore, the higher the perceived control is, the higher burnout becomes. The effect is statistically significant.
+As perceived control increases by one standard deviation, burnout increases by 0.541 standard deviations controlling for the other variables. Therefore, the lower perceived control is the lower burnout becomes. The effect is statistically significant.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -91,19 +91,9 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-As perceived control increases by one standard deviation, burnout increases by 0.541 standard deviations controlling for the other variables. Therefore, the lower the perceived control is, the higher burnout becomes. The effect is statistically significant.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-As perceived control increases by one standard deviation, burnout increases by 0.541 standard deviations controlling for the other variables. Therefore, the lower perceived control is the lower burnout becomes. The effect is statistically significant.
+As perceived control increases by one standard deviation, burnout increases by 0.541 units controlling for the other variables. Therefore, the higher the perceived control is, the higher burnout becomes. The effect is statistically significant.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -118,6 +108,16 @@ As perceived control increases by one unit, burnout increases by 0.541 units con
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+As perceived control increases by one standard deviation, burnout increases by 0.541 standard deviations controlling for the other variables. Therefore, the lower the perceived control is, the higher burnout becomes. The effect is statistically significant.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

@@ -66,7 +66,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-There is a 73% probability that we observe this difference between young and old people (or an even <strong>smaller</strong> difference), if the <strong>alternative</strong> hypothesis is TRUE.
+The probability is 73% that we observe this difference between young and old people (or an even <strong>greater </strong>difference), if the <strong>alternative</strong> hypothesis is TRUE.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+There is a 73% probability that we observe this difference between young and old people (or an even <strong>smaller</strong> or an even <strong>greater</strong> difference), if the <strong>alternative</strong> hypothesis is TRUE.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -86,7 +96,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-There is a 73% probability that we observe this difference between young and old people (or an even <strong>smaller</strong> or an even <strong>greater</strong> difference), if the <strong>alternative</strong> hypothesis is TRUE.
+There is a 73% probability that we observe this difference between young and old people (or an even <strong>smaller</strong> difference), if the <strong>alternative</strong> hypothesis is TRUE.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -101,16 +111,6 @@ There is a 73% chance that we observe this difference between young and old peop
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The probability is 73% that we observe this difference between young and old people (or an even <strong>greater </strong>difference), if the <strong>alternative</strong> hypothesis is TRUE.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

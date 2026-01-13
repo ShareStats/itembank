@@ -54,26 +54,6 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Practical significance is about the strength of an effect, statistical significance is about the certainty with which you can say that the null hypothesis (H<sub>0</sub>: no effect exists in the population) is not plausible.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Practical significance is calculated based on the standard deviation, statistical significance is calculated based on the standard error (SE).
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 You use practical significance when testing significance based on the t-distribution, statistical significance when testing of significance based on the z-distribution.
@@ -91,6 +71,26 @@ Practical significance is what you use with small samples (sample size is 100 or
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Practical significance is calculated based on the standard deviation, statistical significance is calculated based on the standard error (SE).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Practical significance is about the strength of an effect, statistical significance is about the certainty with which you can say that the null hypothesis (H<sub>0</sub>: no effect exists in the population) is not plausible.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

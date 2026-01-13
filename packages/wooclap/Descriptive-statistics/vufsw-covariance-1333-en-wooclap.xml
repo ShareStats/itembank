@@ -54,19 +54,9 @@ in number of books read per month?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Only the covariance changes
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Only the correlation changes
+Both covariance and correlation change
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -84,9 +74,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Only the covariance changes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Both covariance and correlation change
+Only the correlation changes
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

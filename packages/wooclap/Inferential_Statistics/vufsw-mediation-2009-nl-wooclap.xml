@@ -68,7 +68,7 @@ antwoordcategorieën; dit kunnen afrondingsfouten zijn.</em></p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-0.598
+0.838
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -78,7 +78,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-0.838
+0.402
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.598
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -93,16 +103,6 @@ False
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-0.402
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

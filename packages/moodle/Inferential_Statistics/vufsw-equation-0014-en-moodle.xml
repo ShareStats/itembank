@@ -57,27 +57,17 @@ Suppose you want to know whether <strong>X</strong><sub><strong>1</strong> </sub
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The difference between the value of <strong>b</strong><sub><strong>1</strong> </sub>and the value of <strong>b<sub></strong>2<strong></sub></strong> ****significantly differs from 0
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The value of <strong>X</strong><sub><strong>1</strong></sub>significantly differs from 0
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 The difference between the value of <strong>X</strong><sub><strong>1</strong> </sub>and the value of <strong>b</strong><sub><strong>1</strong></sub> significantly deviates from 0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The difference between the value of <strong>b</strong><sub><strong>1</strong> </sub>and the value of <strong>b<sub></strong>2<strong></sub></strong> ****significantly differs from 0
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -92,6 +82,16 @@ The value of <strong>b</strong><sub><strong>1</strong> </sub>significantly diffe
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The value of <strong>X</strong><sub><strong>1</strong></sub>significantly differs from 0
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

@@ -56,6 +56,16 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Als de blootstelling aan nieuws met 1 minuut toeneemt, neemt de depressie toe met 7,241 eenheden.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 De gemiddelde depressie is 7,241 wanneer de blootstelling aan nieuws nul is.
@@ -68,7 +78,7 @@ Waar
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Als de blootstelling aan nieuws met 1 minuut toeneemt, neemt de depressie toe met 7,241 eenheden.
+De gemiddelde depressie wanneer de variabele nieuws gelijk is aan het gemiddelde.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -79,16 +89,6 @@ Onwaar
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De gemiddelde depressie is 7,241 wanneer de blootstelling aan nieuws met 1 eenheid toeneemt.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De gemiddelde depressie wanneer de variabele nieuws gelijk is aan het gemiddelde.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

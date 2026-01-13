@@ -73,16 +73,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The variance ratio is about 2.6, smaller than 3, therefore we cannot assume equal ‘within-group’ variance between groups
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 The variance ratio is about 2.6, smaller than 3, therefore we can assume equal ‘within-group’ variance between the groups
@@ -96,6 +86,16 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 The variance ratio is about 1.6, smaller than 3, therefore we can assume equal ‘within-group’ variance between the groups
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The variance ratio is about 2.6, smaller than 3, therefore we cannot assume equal ‘within-group’ variance between groups
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

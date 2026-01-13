@@ -56,16 +56,6 @@ effect van “Education” (Opleidingsniveau) op “Family Income”
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-[0,47; 0,67]
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 [0,36; 0,78]
@@ -78,7 +68,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-[0,15; 0,99]
+[0,52; 0,62]
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -86,9 +76,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+[0,47; 0,67]
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-[0,52; 0,62]
+[0,15; 0,99]
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

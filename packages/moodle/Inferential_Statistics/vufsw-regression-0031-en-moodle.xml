@@ -71,6 +71,16 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+<strong>Text 1:</strong> 0.029. <strong>Text 2:</strong> from -1 through +1.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 <strong>Text 1:</strong> 0.258. <strong>Text 2:</strong> from -1 through +1.
 </p>]]></text>
 <feedback format="html">
@@ -86,16 +96,6 @@ False
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-<strong>Text 1:</strong> 0.029. <strong>Text 2:</strong> from -1 through +1.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

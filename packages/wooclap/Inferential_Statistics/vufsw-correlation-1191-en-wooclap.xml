@@ -50,6 +50,16 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The closer the correlation approaches 0, the stronger the correlation.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 The closer the correlation approaches -1 or +1, the stronger the correlation.
@@ -57,16 +67,6 @@ The closer the correlation approaches -1 or +1, the stronger the correlation.
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The closer the correlation approaches 0, the smaller the <em>p</em> value.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>
@@ -82,7 +82,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The closer the correlation approaches 0, the stronger the correlation.
+The closer the correlation approaches 0, the smaller the <em>p</em> value.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

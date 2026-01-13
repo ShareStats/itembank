@@ -71,16 +71,6 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Praktische significantie gebruik je bij kleine steekproeven (steekproefgrootte is 100 of kleiner), statistische significantie gebruikt je bij grote steekproeven (n &gt; 100).
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Praktische significantie wordt berekend op basis de standaarddeviatie, statistische significantie wordt berekend op basis van de standaardfout (SE).
 </p>]]></text>
 <feedback format="html">
@@ -96,6 +86,16 @@ Praktische significantie gaat over de sterkte van een effect, statistische signi
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Praktische significantie gebruik je bij kleine steekproeven (steekproefgrootte is 100 of kleiner), statistische significantie gebruikt je bij grote steekproeven (n &gt; 100).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

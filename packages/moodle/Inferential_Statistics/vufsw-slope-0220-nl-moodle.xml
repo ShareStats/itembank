@@ -62,6 +62,16 @@ weergeeft van geslacht op de mate van interesse in politiek
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Vrouwen scoren 0,114 punt lager op interesse in politiek dan mannen, gecontroleerd voor de andere variabelen in het model.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Het aandeel mannen dat interesse heeft in politiek ligt 11,4 procent punt lager dan het aandeel vrouwen dat interesse heeft in politiek, gecontroleerd voor de andere variabelen in het model.
@@ -79,16 +89,6 @@ Mannen scoren 0,114 punt lager op interesse in politiek dan vrouwen, gecontrolee
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Vrouwen scoren 0,114 punt lager op interesse in politiek dan mannen, gecontroleerd voor de andere variabelen in het model.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

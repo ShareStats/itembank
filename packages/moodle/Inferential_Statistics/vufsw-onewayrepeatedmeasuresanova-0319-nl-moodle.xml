@@ -55,6 +55,16 @@ voetbalwedstrijd en 3 maanden na het bijwonen van de voetbalwedstrijd.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Mixed-design ANOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 One-way Repeated Measures ANOVA
@@ -62,16 +72,6 @@ One-way Repeated Measures ANOVA
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Regressie met een moderatie-effect (interactie)
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>
@@ -87,7 +87,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Mixed-design ANOVA
+Regressie met een moderatie-effect (interactie)
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

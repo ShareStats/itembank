@@ -67,23 +67,13 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-We moeten dan nagaan of de waarde 742 significant afwijkt van 0.
+We moeten dan nagaan of de waarde -128 significant afwijkt van 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-We moeten dan nagaan of het verschil tussen de waarde 742 en de waarde 644 significant afwijkt van 0.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -97,19 +87,29 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-We moeten dan nagaan of de waarde -128 significant afwijkt van 0.
+We moeten dan nagaan of de waarde 742 significant afwijkt van 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 We moeten dan nagaan of het verschil tussen de waarde 742 en de waarde -128 significant afwijkt van 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+We moeten dan nagaan of het verschil tussen de waarde 742 en de waarde 644 significant afwijkt van 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

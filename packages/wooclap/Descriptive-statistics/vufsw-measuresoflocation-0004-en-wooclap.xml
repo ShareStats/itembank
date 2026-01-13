@@ -54,9 +54,29 @@ He calculates three center measures (mode, median, and mean age).</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Only the mean will change.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Only the mode will change.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The mode and the mean will change.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -76,16 +96,6 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Both the mode, median, and mean will change.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 The median and mean will change.
 </p>]]></text>
 <feedback format="html">
@@ -96,21 +106,11 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The mode and the mean will change.
+Both the mode, median, and mean will change.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Only the mean will change.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

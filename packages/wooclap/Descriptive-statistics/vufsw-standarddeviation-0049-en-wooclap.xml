@@ -56,16 +56,6 @@ The table below shows: Students who received tutoring program “<em>Boost</em>�
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-In the tutoring program “<em>Enhance</em>”, because the standard deviation there is larger.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 In the tutoring program “<em>Boost</em>”, because the standard deviation there is smaller.
@@ -83,6 +73,16 @@ In the tutoring program “<em>Enhance</em>”, because the standard deviation i
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+In the tutoring program “<em>Enhance</em>”, because the standard deviation there is larger.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

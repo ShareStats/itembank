@@ -74,13 +74,13 @@ varianties voldaan?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-De variance ratio is ongeveer 2.6, kleiner dan 3, daarom kunnen we uitgaan van een gelijke ‘within-group’ variantie tussen de groepen
+De variance ratio is ongeveer 1.6, kleiner dan 3, daarom kunnen we niet uitgaan van een gelijke ‘within-group’ variantie tussen de groepen
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -94,19 +94,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-De variance ratio is ongeveer 2.6, kleiner dan 3, daarom kunnen we niet uitgaan van een gelijke ‘within-group’ variantie tussen de groepen
+De variance ratio is ongeveer 2.6, kleiner dan 3, daarom kunnen we uitgaan van een gelijke ‘within-group’ variantie tussen de groepen
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De variance ratio is ongeveer 1.6, kleiner dan 3, daarom kunnen we niet uitgaan van een gelijke ‘within-group’ variantie tussen de groepen
+De variance ratio is ongeveer 2.6, kleiner dan 3, daarom kunnen we niet uitgaan van een gelijke ‘within-group’ variantie tussen de groepen
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

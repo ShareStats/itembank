@@ -62,16 +62,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The standardized slope (Beta) and correlation coefficient (<em>r</em>) are always are the same size at any value of x (linearity).
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 The conditional standard deviation of y (s<sub>res</sub>) for each value of x is identical (constant variance).
@@ -79,6 +69,16 @@ The conditional standard deviation of y (s<sub>res</sub>) for each value of x is
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The standardized slope (Beta) and correlation coefficient (<em>r</em>) are always are the same size at any value of x (linearity).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

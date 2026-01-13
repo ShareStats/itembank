@@ -58,7 +58,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The critical t-value is 0.34. This critical t value changes if the standard error (SE) of the difference between the two averages would be smaller would be less than 0.05.
+The critical t value is 0.34. This critical t-value changes if the difference between the two averages would be greater than 0.05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -78,16 +78,6 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The critical t-value is 0.34. This critical t-value changes if we were to perform would perform a one-sided test.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 The critical t value is 1.96. This critical t-value changes if the difference between the two averages would be greater than 0.05.
 </p>]]></text>
 <feedback format="html">
@@ -98,7 +88,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The critical t value is 0.34. This critical t-value changes if the difference between the two averages would be greater than 0.05.
+The critical t-value is 1.96. This critical t-value changes if the standard error (SE) of the difference between the two averages would be smaller would be less than 0.05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -108,7 +98,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The critical t-value is 1.96. This critical t-value changes if the standard error (SE) of the difference between the two averages would be smaller would be less than 0.05.
+The critical t-value is 0.34. This critical t-value changes if we were to perform would perform a one-sided test.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The critical t-value is 0.34. This critical t value changes if the standard error (SE) of the difference between the two averages would be smaller would be less than 0.05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

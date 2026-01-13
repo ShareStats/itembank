@@ -51,16 +51,6 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-slope bias
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Goed
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 construct bias
@@ -73,7 +63,7 @@ Fout
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-intercept bias
+internal bias
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -81,9 +71,19 @@ Fout
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+slope bias
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Goed
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-internal bias
+intercept bias
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

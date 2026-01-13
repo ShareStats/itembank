@@ -50,19 +50,19 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-This is the alpha, this value belongs to a certain t-statistic and we have to look up in a table.
+This is the constant, this is the value of Y if X<sub>1 </sub>is equal to 0.<sub> </sub>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-This is the intercept, this value is 0 if X<sub>1 </sub> has no effect on Y.<sub> </sub>
+This is the alpha, this value belongs to a certain t-statistic and we have to look up in a table.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -80,13 +80,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-This is the constant, this is the value of Y if X<sub>1 </sub>is equal to 0.<sub> </sub>
+This is the intercept, this value is 0 if X<sub>1 </sub> has no effect on Y.<sub> </sub>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>

@@ -63,16 +63,6 @@ relative to the smallest ‘within-group’ variance.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The variance ratio is about 1.6, smaller than 3, therefore we can assume equal ‘within-group’ variance between the groups
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 The variance ratio is about 2.6, smaller than 3, therefore we can assume equal ‘within-group’ variance between the groups
@@ -80,6 +70,16 @@ The variance ratio is about 2.6, smaller than 3, therefore we can assume equal �
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The variance ratio is about 2.6, smaller than 3, therefore we cannot assume equal ‘within-group’ variance between groups
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -95,7 +95,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The variance ratio is about 2.6, smaller than 3, therefore we cannot assume equal ‘within-group’ variance between groups
+The variance ratio is about 1.6, smaller than 3, therefore we can assume equal ‘within-group’ variance between the groups
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -57,7 +57,7 @@ samples</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dit item kunnen we het beste <strong>standaardiseren</strong>, omdat de z-score van item5 zodoende een hoge positieve Item-Total Correlatie zal hebben.
+Dit item kunnen we het beste uit de schaal <strong>verwijderen</strong>, omdat de Item-Total Correlatie een hoge negatieve waarde heeft.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -67,7 +67,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dit item kunnen we het beste uit de schaal <strong>verwijderen</strong>, omdat de Item-Total Correlatie een hoge negatieve waarde heeft.
+Dit item kunnen we het beste uit de schaal <strong>verwijderen</strong>, omdat de waarde bij “Cronbach’s Alpha if Item Deleted” hoger is dan 0,80.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dit item kunnen we het beste <strong>standaardiseren</strong>, omdat de z-score van item5 zodoende een hoge positieve Item-Total Correlatie zal hebben.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -82,16 +92,6 @@ Dit item kunnen we het beste <strong>ompolen</strong> (hercoderen), omdat de Ite
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dit item kunnen we het beste uit de schaal <strong>verwijderen</strong>, omdat de waarde bij “Cronbach’s Alpha if Item Deleted” hoger is dan 0,80.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

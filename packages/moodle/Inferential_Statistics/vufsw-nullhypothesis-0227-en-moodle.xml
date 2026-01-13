@@ -53,16 +53,6 @@ What is the <strong>zero hypothesis</strong> in this testing, and what do we con
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-H<sub>0</sub>: all βs are 0. We reject the null hypothesis <strong>not</strong> because the p-value is smaller than 0,05.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 H<sub>0</sub>: all βs are 0. We reject the null hypothesis because the p-value is less than 0.05.
@@ -86,6 +76,16 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 H<sub>0</sub>: The explained variance (R<sup>2</sup>) = 1. We reject the null hypothesis because the p-value is smaller than 0.05.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+H<sub>0</sub>: all βs are 0. We reject the null hypothesis <strong>not</strong> because the p-value is smaller than 0,05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

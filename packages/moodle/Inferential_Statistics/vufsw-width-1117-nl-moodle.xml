@@ -50,6 +50,16 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Twee keer zo klein.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Het dubbele.
@@ -62,7 +72,7 @@ Waar
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Twee keer zo klein.
+4 keer zo klein.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -73,16 +83,6 @@ Onwaar
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 4 keer zoveel.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-4 keer zo klein.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

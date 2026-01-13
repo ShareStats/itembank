@@ -62,7 +62,7 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De waarde van R<sup>2 </sup>ligt altijd tussen -1 en 1.
+R<sup>2</sup> = 1 indien de B-coëfficiënten van alle onafhankelijke variabelen in het regressiemodel de waarde 0 hebben.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -72,7 +72,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-R<sup>2</sup> = 1 indien de B-coëfficiënten van alle onafhankelijke variabelen in het regressiemodel de waarde 0 hebben.
+De waarde van R<sup>2 </sup>ligt altijd tussen -1 en 1.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

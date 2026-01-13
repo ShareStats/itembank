@@ -58,21 +58,11 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De SD is het aantal waarnemingen dat 68% van de verdeling omvat.
+De SD drukt uit hoeveel procent van de analyse-eenheden van het gemiddelde afwijken.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De SD is de gemiddelde afwijking van het gemiddelde.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>
@@ -88,11 +78,21 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De SD drukt uit hoeveel procent van de analyse-eenheden van het gemiddelde afwijken.
+De SD is het aantal waarnemingen dat 68% van de verdeling omvat.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De SD is de gemiddelde afwijking van het gemiddelde.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

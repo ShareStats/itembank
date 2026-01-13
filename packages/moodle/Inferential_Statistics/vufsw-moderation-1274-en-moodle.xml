@@ -71,26 +71,6 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Children with strict parents had more music exams than the children who did not have strict parents. This relationship was stronger for children who practiced little, compared with children who practiced a lot.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Children with strict parents received more music exams than the children who did not have strict parents. This relationship was stronger for children who exercised a lot, compared with children who did not exercise very much.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 The more a child exercised, the more music exams the child made. This relationship was stronger for the children who had strict parents compared to the children who did not have strict parents.
@@ -103,7 +83,27 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Children with strict parents had more music exams than the children who did not have strict parents. This relationship was stronger for children who practiced little, compared with children who practiced a lot.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 The more a child exercised, the more music exams the child made. This relationship was stronger for the children who did not have strict parents, compared to the children who had severe parents.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Children with strict parents received more music exams than the children who did not have strict parents. This relationship was stronger for children who exercised a lot, compared with children who did not exercise very much.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

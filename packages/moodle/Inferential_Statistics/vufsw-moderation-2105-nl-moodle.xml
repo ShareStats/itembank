@@ -73,7 +73,7 @@ activiteit van de moeder</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Zowel 1 als 2 zijn waar
+Alleen 1 is waar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -81,19 +81,9 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Alleen 2 is waar
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Alleen 1 is waar
+Zowel 1 als 2 zijn waar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -108,6 +98,16 @@ False
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Alleen 2 is waar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

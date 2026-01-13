@@ -163,16 +163,6 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Neither age (X<sub>1</sub>) nor gender (X<sub>2</sub>).
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Age (X<sub>1</sub>).
 </p>]]></text>
 <feedback format="html">
@@ -188,6 +178,16 @@ Gender (X<sub>2</sub>).
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Neither age (X<sub>1</sub>) nor gender (X<sub>2</sub>).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

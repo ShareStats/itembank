@@ -70,16 +70,6 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-There is a difference in the average amount of litter between the Netherlands and Germany.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 There is no difference in the average amount of litter between the Netherlands and Germany.
@@ -103,6 +93,16 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 The average amount of litter in both the Netherlands and Germany is 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+There is a difference in the average amount of litter between the Netherlands and Germany.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

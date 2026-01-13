@@ -54,19 +54,19 @@ The violation of the assumptions of linearity and no influential observations af
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-The coefficients are reliable, but the significance tests are not reliable.
+The coefficients are not reliable, but the significance tests are reliable.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The coefficients are not reliable, but the significance tests are reliable.
+Are both the coefficients and the significance tests reliable.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -84,13 +84,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Are both the coefficients and the significance tests reliable.
+The coefficients are reliable, but the significance tests are not reliable.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

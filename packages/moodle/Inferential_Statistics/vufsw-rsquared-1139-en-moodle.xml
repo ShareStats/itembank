@@ -71,16 +71,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-R<sup>2</sup> measures the percentage of variance in Y that is explained by X.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 R<sup>2</sup> does <strong>not</strong> measure the strength of the relationship between X and Y.
@@ -98,6 +88,16 @@ R<sup>2</sup> assumes values between -1 and 1.
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+R<sup>2</sup> measures the percentage of variance in Y that is explained by X.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

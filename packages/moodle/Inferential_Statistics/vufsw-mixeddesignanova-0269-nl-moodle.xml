@@ -69,16 +69,6 @@ speelt geen rol in dit onderzoek.</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-One-way ANOVA met de meting van criminaliteit (voor en na de gevangenisstraf) als afhankelijke variabele en het moment van de meting als afhankelijke variabele
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 MANOVA met de 2 metingen van criminaliteit (voor en na de gevangenisstraf) als afhankelijke variabelen en geslacht als covariaat.
 </p>]]></text>
 <feedback format="html">
@@ -94,6 +84,16 @@ Mixed Design ANOVA met de schaal van criminaliteit als afhankelijke variabele, h
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+One-way ANOVA met de meting van criminaliteit (voor en na de gevangenisstraf) als afhankelijke variabele en het moment van de meting als afhankelijke variabele
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

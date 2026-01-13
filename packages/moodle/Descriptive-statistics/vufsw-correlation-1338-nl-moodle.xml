@@ -61,7 +61,7 @@ kies het juiste antwoord.</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Geen van beide stellingen is correct
+Alleen stelling 2 is correct
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -79,16 +79,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Alleen stelling 2 is correct
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Alleen stelling 1 is correct
@@ -96,6 +86,16 @@ Alleen stelling 1 is correct
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Geen van beide stellingen is correct
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

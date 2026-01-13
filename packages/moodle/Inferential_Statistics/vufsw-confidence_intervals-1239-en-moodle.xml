@@ -57,7 +57,7 @@ according to the 95% confidence interval.</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-contains 0.
+may contain or <strong>not</strong> contain 0 (we are not sure).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -77,7 +77,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-may contain or <strong>not</strong> contain 0 (we are not sure).
+contains 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

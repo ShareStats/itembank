@@ -67,16 +67,6 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-When the absolute t value found is less than the absolute critical t value.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 When the found t value is 0.
 </p>]]></text>
 <feedback format="html">
@@ -88,6 +78,16 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 When the critical t value is 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+When the absolute t value found is less than the absolute critical t value.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

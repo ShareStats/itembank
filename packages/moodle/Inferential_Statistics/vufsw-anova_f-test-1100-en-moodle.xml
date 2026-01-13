@@ -69,16 +69,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The mean of empathy differs significantly from the mean of gender.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 The regression model with gender does significantly better in explaining the variance in empathy than a model without explanatory variables.
@@ -92,6 +82,16 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 The Regression Sum of Squares is positive and statistically significant.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The mean of empathy differs significantly from the mean of gender.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

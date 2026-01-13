@@ -71,16 +71,6 @@ regressieanalyse</strong>?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De constante .465 geeft de voorspelde score op ‘tvwatching’ aan voor respondenten met een gemiddelde score op de opleiding van de ouders en een gemiddelde score op de mate van televisie kijken door de ouders vroeger
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 De constante .465 geeft de voorspelde score op ‘tvwatching’ aan, voor respondenten van wie de ouders het laagst zijn opgeleid (0) en vroeger het minst televisie keken (0)
@@ -88,6 +78,16 @@ De constante .465 geeft de voorspelde score op ‘tvwatching’ aan, voor respon
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De constante .465 geeft de laagste score op ‘tvwatching’ aan, waarbij de opleiding van de ouders en de mate van televisie kijken door de ouders vroeger constant zijn gehouden
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -103,7 +103,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De constante .465 geeft de laagste score op ‘tvwatching’ aan, waarbij de opleiding van de ouders en de mate van televisie kijken door de ouders vroeger constant zijn gehouden
+De constante .465 geeft de voorspelde score op ‘tvwatching’ aan voor respondenten met een gemiddelde score op de opleiding van de ouders en een gemiddelde score op de mate van televisie kijken door de ouders vroeger
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

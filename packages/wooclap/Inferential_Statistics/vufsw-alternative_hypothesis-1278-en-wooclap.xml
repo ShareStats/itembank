@@ -66,7 +66,17 @@ The researcher uses a significance level of 5% (alpha = 0.05).</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-H<sub>a</sub>: <em>p</em><sub>0 </sub>&lt; 0.25.
+H<sub>a</sub>: <em>p</em><sub>0 </sub>≠ 0.25.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+H<sub>a</sub>: <em>p</em><sub>0 </sub>= 0.25.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -86,17 +96,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-H<sub>a</sub>: <em>p</em><sub>0 </sub>≠ 0.25.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-H<sub>a</sub>: <em>p</em><sub>0 </sub>= 0.25.
+H<sub>a</sub>: <em>p</em><sub>0 </sub>&lt; 0.25.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

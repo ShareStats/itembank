@@ -61,16 +61,6 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Stelling I is onwaar en stelling II is waar.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Stelling I is waar en stelling II is onwaar.
@@ -84,6 +74,16 @@ Waar
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Stellingen I en II zijn onwaar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Stelling I is onwaar en stelling II is waar.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

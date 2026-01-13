@@ -60,7 +60,17 @@ Below are the results of two regression analyses.</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The population value can also be 0, and therefore there is insufficient evidence that there will be a negative effect of “fameduc” in the population will be
+The t-value -4.045 is outside the limits of the confidence interval, and that therefore there is likely to be a negative effect of ‘fameduc’ in the population
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The estimated b (-.026) is part of the confidence interval, and that therefore there is likely to be a negative effect of ‘fameduc’ in the population will be
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -80,17 +90,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The t-value -4.045 is outside the limits of the confidence interval, and that therefore there is likely to be a negative effect of ‘fameduc’ in the population
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The estimated b (-.026) is part of the confidence interval, and that therefore there is likely to be a negative effect of ‘fameduc’ in the population will be
+The population value can also be 0, and therefore there is insufficient evidence that there will be a negative effect of “fameduc” in the population will be
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

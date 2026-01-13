@@ -55,16 +55,6 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-The value of R<sup>2</sup> can never be less than 0.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 R<sup>2</sup> = 1 if the B coefficients of all the independent variables in the regression model have the value 0.
@@ -77,7 +67,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-R<sup>2</sup> = 0 if there is no correlation between all the independent variables in the regression model.
+R<sup>2</sup> = 0 if the regression model has no prediction error (‘prediction error’).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -85,9 +75,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The value of R<sup>2</sup> can never be less than 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-R<sup>2</sup> = 0 if the regression model has no prediction error (‘prediction error’).
+R<sup>2</sup> = 0 if there is no correlation between all the independent variables in the regression model.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

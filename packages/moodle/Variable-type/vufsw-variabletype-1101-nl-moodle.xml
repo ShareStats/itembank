@@ -52,7 +52,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Geslacht.
+Nationaliteit.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -60,19 +60,9 @@ Onwaar
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Hoogste opleidingsniveau van de nakomelingen.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Waar
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Nationaliteit.
+Geslacht.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -87,6 +77,16 @@ Inkomen van de ouders.
 <feedback format="html">
 <text><![CDATA[<p>
 Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Hoogste opleidingsniveau van de nakomelingen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
 </p>]]></text>
 </feedback>
 </answer>

@@ -69,7 +69,7 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The null hypothesis is rightly assumed.
+A Type I error is made.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -89,7 +89,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The null hypothesis has rightly been rejected.
+The null hypothesis is rightly assumed.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -99,7 +99,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-A Type I error is made.
+The null hypothesis has rightly been rejected.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

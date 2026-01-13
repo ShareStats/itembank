@@ -72,6 +72,16 @@ en ‘baseline’ kwaliteit van leven aan het model toegevoegd
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Als de voorspelde score op Post_Qol van een iemand die nog op de wachtlijst staat en die een 0 scoort op de ‘baseline’ kwaliteit van leven
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Als de voorspelde score op de ‘baseline’ kwaliteit van leven, Base_Qol, van iemand die nog op de wachtlijst staat en die een 0 scoort op de ‘Post_Qol’ kwaliteit van leven
@@ -99,16 +109,6 @@ Als de laagste score op Post_Qol die in de data voorkomt
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Als de voorspelde score op Post_Qol van een iemand die nog op de wachtlijst staat en die een 0 scoort op de ‘baseline’ kwaliteit van leven
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

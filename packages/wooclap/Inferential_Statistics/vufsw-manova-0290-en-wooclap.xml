@@ -64,6 +64,16 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+(df) 1, 198
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 (df) 1, 196
 </p>]]></text>
 <feedback format="html">
@@ -74,7 +84,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-(df) 1, 198
+(df) 3, 198
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -89,16 +99,6 @@ False
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-(df) 3, 198
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

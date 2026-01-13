@@ -56,6 +56,16 @@ factoren?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+4,1%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 60,5%
@@ -63,16 +73,6 @@ factoren?</p>
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-66,8%
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>
@@ -88,7 +88,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-4,1%
+66,8%
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

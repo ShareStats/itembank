@@ -51,26 +51,6 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Mixed Design ANOVA with the scale of motivation as the dependent variable and with participation in the program as the <em>within variable</em> and all other measured characteristics as <em>between variables</em>
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Linear regression with the scale of truancy as the dependent variable, participation in the program as the independent variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Linear regression truancy as dependent variable, participation to the program as the independent variable and all other measured characteristics as control variables
@@ -88,6 +68,26 @@ One-way ANOVA with truancy as the dependent variable and participation in the pr
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Linear regression with the scale of truancy as the dependent variable, participation in the program as the independent variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Mixed Design ANOVA with the scale of motivation as the dependent variable and with participation in the program as the <em>within variable</em> and all other measured characteristics as <em>between variables</em>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

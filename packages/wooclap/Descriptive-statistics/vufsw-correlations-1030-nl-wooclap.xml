@@ -60,9 +60,19 @@ this.<br />
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Spurious correlatie met misdaadcijfer als afhankelijke variabele, bevolkingsomvang als spurious variabele en aantal politieagenten als onafhankelijke variabele
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Spurious correlatie met aantal politieagenten als afhankelijke variabele, bevolkingsomvang als spurious variabele en misdaadcijfer als onafhankelijke variabele
+Mediatie met aantal politieagenten als afhankelijke variabele, bevolkingsomvang als spurious variabele en misdaadcijfer als onafhankelijke variabele
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -80,19 +90,9 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Spurious correlatie met misdaadcijfer als afhankelijke variabele, bevolkingsomvang als spurious variabele en aantal politieagenten als onafhankelijke variabele
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Mediatie met aantal politieagenten als afhankelijke variabele, bevolkingsomvang als spurious variabele en misdaadcijfer als onafhankelijke variabele
+Spurious correlatie met aantal politieagenten als afhankelijke variabele, bevolkingsomvang als spurious variabele en misdaadcijfer als onafhankelijke variabele
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

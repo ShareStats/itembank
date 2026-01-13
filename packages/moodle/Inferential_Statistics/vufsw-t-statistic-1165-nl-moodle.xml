@@ -56,6 +56,26 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Als de absolute t-waarde groter is dan de absolute kritische t waarde.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Wanneer de gevonden t-waarde 0 is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Wanneer de kritische t-waarde 0 is.
@@ -73,26 +93,6 @@ Wanneer de gevonden absolute t-waarde kleiner is dan de absolute kritische t waa
 <feedback format="html">
 <text><![CDATA[<p>
 Onwaar
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Wanneer de gevonden t-waarde 0 is.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Als de absolute t-waarde groter is dan de absolute kritische t waarde.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Waar
 </p>]]></text>
 </feedback>
 </answer>

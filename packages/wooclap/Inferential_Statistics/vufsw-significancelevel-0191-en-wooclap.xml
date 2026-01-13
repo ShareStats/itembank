@@ -56,27 +56,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-You use practical significance when testing significance based on the t-distribution, statistical significance when testing of significance based on the z-distribution.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Practical significance is calculated based on the standard deviation, statistical significance is calculated based on the standard error (SE).
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Practical significance is what you use with small samples (sample size is 100 or smaller), statistical significance you use with large samples (n &gt; 100).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -91,6 +71,26 @@ Practical significance is about the strength of an effect, statistical significa
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+You use practical significance when testing significance based on the t-distribution, statistical significance when testing of significance based on the z-distribution.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Practical significance is what you use with small samples (sample size is 100 or smaller), statistical significance you use with large samples (n &gt; 100).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

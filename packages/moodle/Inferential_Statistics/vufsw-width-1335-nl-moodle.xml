@@ -56,16 +56,6 @@ en de latere attitude tegenover lezen. Via bootstrapping is het 95%
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Voor 95% kun je er op vertrouwen dat de populatiewaarde tussen .230 en .385 ligt.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Als we aannemen dat deze steekproef tot de 95% van de steekproeven behoort die de populatiewaarde bevat, is de correlatie in de populatie tussen .230 en .385.
@@ -89,6 +79,16 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Er is 95% kans dat de populatiewaarde in het interval tussen .230 en .385 ligt.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Voor 95% kun je er op vertrouwen dat de populatiewaarde tussen .230 en .385 ligt.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

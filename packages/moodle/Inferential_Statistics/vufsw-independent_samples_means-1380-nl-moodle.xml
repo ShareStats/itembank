@@ -57,13 +57,13 @@ cultuurparticipatie (culact: 0-100) loopt van laag naar hoog.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Samenwonenden gemiddeld cultureel actiever zijn dan alleenstaanden, maar dat het verschil niet significant is
+Alleenstaanden gemiddeld cultureel actiever zijn dan samenwonenden en dat het verschil significant is
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -77,19 +77,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Alleenstaanden gemiddeld cultureel actiever zijn dan samenwonenden en dat het verschil significant is
+Samenwonenden gemiddeld cultureel actiever zijn dan alleenstaanden en dat het verschil significant is
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Samenwonenden gemiddeld cultureel actiever zijn dan alleenstaanden en dat het verschil significant is
+Samenwonenden gemiddeld cultureel actiever zijn dan alleenstaanden, maar dat het verschil niet significant is
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

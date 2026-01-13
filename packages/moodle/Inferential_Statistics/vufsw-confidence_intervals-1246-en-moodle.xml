@@ -64,7 +64,17 @@ matches of both clubs does not differ significantly from each other..</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The critical t-value for a two-tailed test with alpha = 0.05 and df = 30 (16 + 16 - 2) is 2.042. This number is outside the interval.
+The number 0.05 is within the interval.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The number 0.95 is outside the interval.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -84,17 +94,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The number 0.95 is outside the interval.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The number 0.05 is within the interval.
+The critical t-value for a two-tailed test with alpha = 0.05 and df = 30 (16 + 16 - 2) is 2.042. This number is outside the interval.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

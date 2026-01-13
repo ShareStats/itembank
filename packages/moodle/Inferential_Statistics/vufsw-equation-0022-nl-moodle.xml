@@ -55,13 +55,13 @@ en<sub> </sub>“<em>β</em><sub>1</sub>” in deze formules?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
- “<em>b</em><sub>1</sub>” staat voor het geobserveerde effect van X<sub>1</sub> op Y in de steekproef, en “<em>β</em><sub>1</sub>” staat voor het effect van X<sub>1</sub> op Y in de gehele populatie.
+“<em>b</em><sub>1</sub>” staat voor het volledige effect van X<sub>1</sub> op Y, en “<em>β</em><sub>1</sub>” staat voor het partiële effect van X<sub>1</sub> op Y.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -85,13 +85,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-“<em>b</em><sub>1</sub>” staat voor het volledige effect van X<sub>1</sub> op Y, en “<em>β</em><sub>1</sub>” staat voor het partiële effect van X<sub>1</sub> op Y.
+ “<em>b</em><sub>1</sub>” staat voor het geobserveerde effect van X<sub>1</sub> op Y in de steekproef, en “<em>β</em><sub>1</sub>” staat voor het effect van X<sub>1</sub> op Y in de gehele populatie.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

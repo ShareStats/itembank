@@ -55,16 +55,6 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-28.4%
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Waar
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 1.71%
@@ -72,6 +62,16 @@ Waar
 <feedback format="html">
 <text><![CDATA[<p>
 Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+28.4%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
 </p>]]></text>
 </feedback>
 </answer>

@@ -52,17 +52,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Hoeveel eenheden een waarneming boven of onder de standaarddeviatie ligt, uitgedrukt in een schaal die loopt van 0 tot 1.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Hoeveel eenheden een waarneming boven of onder de waarde 0 ligt, uitgedrukt in een schaal die loopt van -1 tot +1.
+Hoeveel eenheden een waarneming boven of onder de standaarddeviatie ligt, uitgedrukt in een schaal die loopt van -1,96 tot +1,96.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -73,6 +63,16 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Hoeveel eenheden een waarneming boven of onder het gemiddelde ligt, uitgedrukt in een schaal die loopt van -1,96 tot +1,96.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Hoeveel eenheden een waarneming boven of onder de waarde 0 ligt, uitgedrukt in een schaal die loopt van -1 tot +1.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -92,7 +92,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Hoeveel eenheden een waarneming boven of onder de standaarddeviatie ligt, uitgedrukt in een schaal die loopt van -1,96 tot +1,96.
+Hoeveel eenheden een waarneming boven of onder de standaarddeviatie ligt, uitgedrukt in een schaal die loopt van 0 tot 1.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

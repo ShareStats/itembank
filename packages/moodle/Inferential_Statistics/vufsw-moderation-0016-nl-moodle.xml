@@ -73,6 +73,16 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+In hoeverre hangt de waarde van oorzaakvariabele X af van de richting en sterkte van het effect van variabele Z op de gevolgvariabele Y?
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 In hoeverre hangt de richting en sterkte van het effect van een oorzaakvariabele X op gevolgvariabele Y af van de waarde van variabele Z?
@@ -80,16 +90,6 @@ In hoeverre hangt de richting en sterkte van het effect van een oorzaakvariabele
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Wat is de richting en sterkte van het effect van oorzaakvariabele X op variabele Z, gecontroleerd voor het effect van Z op gevolgvariabele Y?
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>
@@ -105,7 +105,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-In hoeverre hangt de waarde van oorzaakvariabele X af van de richting en sterkte van het effect van variabele Z op de gevolgvariabele Y?
+Wat is de richting en sterkte van het effect van oorzaakvariabele X op variabele Z, gecontroleerd voor het effect van Z op gevolgvariabele Y?
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

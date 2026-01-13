@@ -64,16 +64,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The drug has no effect in reality (in the population), but the study shows that the observed difference between the pre- and post-measurement is <strong>not</strong> significant.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 The drug has no effect in reality (in the population), but the study shows that the observed difference between the before- and post-measurement <strong>well</strong> significant.
@@ -87,6 +77,16 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 The drug has an effect in reality (in the entire population), but the study shows that the observed difference between the pre- and post-measurement <strong>well</strong> significant.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The drug has no effect in reality (in the population), but the study shows that the observed difference between the pre- and post-measurement is <strong>not</strong> significant.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

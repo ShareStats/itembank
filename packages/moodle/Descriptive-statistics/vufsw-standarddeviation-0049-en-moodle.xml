@@ -76,16 +76,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-In the tutoring program “<em>Boost</em>”, because the standard deviation there is smaller.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 In the tutoring program “<em>Enhance</em>”, because the standard deviation there is larger.
@@ -93,6 +83,16 @@ In the tutoring program “<em>Enhance</em>”, because the standard deviation t
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+In the tutoring program “<em>Boost</em>”, because the standard deviation there is smaller.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

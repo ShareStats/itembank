@@ -60,6 +60,16 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The range (the <em>range</em>) only looks at the ends of the distribution, and the standard deviation is based on all observations.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 He range (the <em>range</em>) does not look at the ends of the distribution, but the standard deviation does.
@@ -77,16 +87,6 @@ The range (the <em>range</em>) expresses variability in a non-standardized way, 
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-The range (the <em>range</em>) only looks at the ends of the distribution, and the standard deviation is based on all observations.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

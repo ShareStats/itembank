@@ -56,13 +56,13 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Onafhankelijkheid van fouten
+Multicollineariteit
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Waar
+Onwaar
 </p>]]></text>
 </feedback>
 </answer>
@@ -78,7 +78,7 @@ Onwaar
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Multicollineariteit
+Homoscedasticiteit
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -86,13 +86,13 @@ Onwaar
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Homoscedasticiteit
+Onafhankelijkheid van fouten
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Onwaar
+Waar
 </p>]]></text>
 </feedback>
 </answer>

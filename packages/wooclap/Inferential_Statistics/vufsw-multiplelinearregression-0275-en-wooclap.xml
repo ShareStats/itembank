@@ -51,16 +51,6 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The linear relation between X<sub>2</sub>and Y
-</p>]]></text>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The variance of Y explained by X<sub>2 </sub>
-</p>]]></text>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 The linear relation between X<sub>2 </sub>and Y, given X<sub>1</sub>
@@ -69,6 +59,16 @@ The linear relation between X<sub>2 </sub>and Y, given X<sub>1</sub>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 The linear relationship between X<sub>2</sub> and X<sub>1</sub>, given Y
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The linear relation between X<sub>2</sub>and Y
+</p>]]></text>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The variance of Y explained by X<sub>2 </sub>
 </p>]]></text>
 </answer>
 </question>

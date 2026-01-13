@@ -104,17 +104,7 @@ standard error (se) of the mean difference      
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Yes, because: the absolute observed t-value &lt; the critical t-value.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-No, because : the absolute observed t-value &lt; the critical t-value.
+No, because : the absolute observed t-value &gt; the critical t-value.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -134,7 +124,17 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-No, because : the absolute observed t-value &gt; the critical t-value.
+Yes, because: the absolute observed t-value &lt; the critical t-value.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+No, because : the absolute observed t-value &lt; the critical t-value.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -84,13 +84,13 @@ effect of attitude on performance is 0.112.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-The mean score in performance in a specific skill equals 1.23 if hours of training and attitude equal its mean values.
+The effect of hours training on the performance of a specific skill is lower for higher scores of attitude than for lower scores of attitude.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -114,13 +114,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-The effect of hours training on the performance of a specific skill is lower for higher scores of attitude than for lower scores of attitude.
+The mean score in performance in a specific skill equals 1.23 if hours of training and attitude equal its mean values.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>

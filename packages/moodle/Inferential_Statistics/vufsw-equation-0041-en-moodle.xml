@@ -69,16 +69,6 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Y = 3,763 – 0,003 * X
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Y = 3,762 + 0,085 * X
 </p>]]></text>
 <feedback format="html">
@@ -99,7 +89,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Y = 0,085 + 0,001 * X
+Y = 3,763 – 0,003 * X
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -114,6 +104,16 @@ Y = 3,762 – 0,002 * X
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Y = 0,085 + 0,001 * X
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

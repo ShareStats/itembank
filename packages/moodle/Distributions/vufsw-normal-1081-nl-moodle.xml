@@ -61,16 +61,6 @@ Bij een normaal verdeelde variabele is 2,5% van de waarnemingen minstens ten min
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Stelling I en stelling II zijn onjuist.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Stelling I is onjuist en stelling II is juist.
@@ -83,7 +73,7 @@ Waar
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Stelling I is juist en stelling II is onjuist.
+Stelling I en stelling II zijn onjuist.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -94,6 +84,16 @@ Onwaar
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Stelling I en stelling II zijn juist.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Stelling I is juist en stelling II is onjuist.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

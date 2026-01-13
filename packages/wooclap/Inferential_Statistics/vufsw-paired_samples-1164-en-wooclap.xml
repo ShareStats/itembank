@@ -66,7 +66,7 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The weight is not measured on a ratio scale.
+The researcher’s hypothesis is that the product is effective, so that the degree of weight reduction and the use of the product are not independent of each other.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -84,6 +84,16 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The weight is not measured on a ratio scale.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 The two samples that are compared are the same persons, so they are not independent of each other.
@@ -91,16 +101,6 @@ The two samples that are compared are the same persons, so they are not independ
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The researcher’s hypothesis is that the product is effective, so that the degree of weight reduction and the use of the product are not independent of each other.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

@@ -56,6 +56,16 @@ Eenvoudiger gezegd, een type I fout is ten onrechte het bestaan van iets afleide
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Er is een Type I fout gemaakt.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Er is een Type II fout gemaakt.
@@ -68,27 +78,17 @@ Waar
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De nulhypothese is terecht verworpen.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Er is een Type I fout gemaakt.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 De nulhypothese is terecht aangenomen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De nulhypothese is terecht verworpen.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

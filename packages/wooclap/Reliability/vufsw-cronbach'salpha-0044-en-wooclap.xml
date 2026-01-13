@@ -56,21 +56,11 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Using a z-score of 1.96 as the critical limit, instead of 2.
+To remove an item with a high positive “Corrected item-total correlation.” remove.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-To remove an item with a value of 0.82 at “Cronbach’s alpha if item deleted.” delete.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>
@@ -86,11 +76,21 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-To remove an item with a high positive “Corrected item-total correlation.” remove.
+Using a z-score of 1.96 as the critical limit, instead of 2.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+To remove an item with a value of 0.82 at “Cronbach’s alpha if item deleted.” delete.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

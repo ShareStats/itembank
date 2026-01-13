@@ -70,16 +70,6 @@ een juice met weinig likes.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De intentie om de juice te kopen groter is wanneer de juice veel ‘likes’ heeft dan wanneer de juice weinig ‘likes’ heeft; het verschil is niet significant
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De intentie om de juice te kopen groter is wanneer de juice veel ‘likes’ heeft dan wanneer de juice weinig ‘likes’ heeft; het verschil is significant
@@ -87,6 +77,16 @@ De intentie om de juice te kopen groter is wanneer de juice veel ‘likes’ hee
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De intentie om de juice te kopen groter is wanneer de juice veel ‘likes’ heeft dan wanneer de juice weinig ‘likes’ heeft; het verschil is niet significant
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

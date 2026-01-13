@@ -63,17 +63,7 @@ religieuze personen met verschillende religies.<br />
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-H1: alle tien groepen wijken van elkaar af in de gemiddelde ‘happiness’
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-H1: degenen met een religie wijken af in gemiddelde ‘happiness’ van degenen zonder religie
+H1: alle tien groepen hebben dezelfde gemiddelde ‘happiness’
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -93,7 +83,17 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-H1: alle tien groepen hebben dezelfde gemiddelde ‘happiness’
+H1: degenen met een religie wijken af in gemiddelde ‘happiness’ van degenen zonder religie
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+H1: alle tien groepen wijken van elkaar af in de gemiddelde ‘happiness’
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

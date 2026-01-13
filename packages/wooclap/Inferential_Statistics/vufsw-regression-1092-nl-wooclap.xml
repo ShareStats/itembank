@@ -63,7 +63,17 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Stelling I is onwaar en stelling II is waar.
+Stellingen I en II zijn waar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onjuist
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Stellingen I en II zijn onwaar.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -83,17 +93,7 @@ Waar
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Stellingen I en II zijn waar.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onjuist
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Stellingen I en II zijn onwaar.
+Stelling I is onwaar en stelling II is waar.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

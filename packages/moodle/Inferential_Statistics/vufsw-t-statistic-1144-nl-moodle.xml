@@ -58,13 +58,13 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-De absolute t-waarde is hoger geworden.
+De absolute t-waarde is kleiner geworden.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Onwaar
+Waar
 </p>]]></text>
 </feedback>
 </answer>
@@ -78,19 +78,19 @@ Onwaar
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-De absolute t-waarde is kleiner geworden.
+Er ontbreken gegevens om de t-waarde te berekenen.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Waar
+Onwaar
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Er ontbreken gegevens om de t-waarde te berekenen.
+De absolute t-waarde is hoger geworden.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

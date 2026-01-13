@@ -63,16 +63,6 @@ about the population likely?<br />
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-both statements are
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 statement 1 is; statement 2 is not
@@ -96,6 +86,16 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 neither of these statements
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+both statements are
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

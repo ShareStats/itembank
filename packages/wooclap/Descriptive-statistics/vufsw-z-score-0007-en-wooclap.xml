@@ -54,26 +54,6 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Brenda has a higher score than Andrew. Brenda’s z-score is lower than 2.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Andrew has a higher score than Brenda. Andrew’s z-score is higher than 2.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Brenda has a higher score than Andrew. Brenda’s z-score is higher than 2.
@@ -87,6 +67,26 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Andrew has a higher score than Brenda. Andrew’s z-score is lower than 2.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Brenda has a higher score than Andrew. Brenda’s z-score is lower than 2.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Andrew has a higher score than Brenda. Andrew’s z-score is higher than 2.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

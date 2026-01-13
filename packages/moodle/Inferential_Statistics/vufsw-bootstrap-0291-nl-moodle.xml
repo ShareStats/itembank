@@ -87,16 +87,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Omdat de bootstrap methode gebaseerd is op de toetsing van het indirecte effect <em>αb</em> en niet het verschil tussen het totale effect <em>c</em> en het het directe effect <em>c’ </em>en omdat de bootstrap methode betrouwbaar is ook bij kleine steekproeven
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Omdat de bootstrap methode gebaseerd is op de toetsing van het indirecte effect <em>αb</em> en niet het verschil tussen het totale effect <em>c</em> en het het directe effect <em>c’ </em>en omdat met de bootstrap methode is het indirecte effect <strong>altijd </strong>gelijk aan zowel <em>αb</em> als <em>c</em> - <em>c’</em>
@@ -104,6 +94,16 @@ Omdat de bootstrap methode gebaseerd is op de toetsing van het indirecte effect 
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Omdat de bootstrap methode gebaseerd is op de toetsing van het indirecte effect <em>αb</em> en niet het verschil tussen het totale effect <em>c</em> en het het directe effect <em>c’ </em>en omdat de bootstrap methode betrouwbaar is ook bij kleine steekproeven
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

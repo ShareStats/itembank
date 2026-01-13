@@ -59,6 +59,16 @@ op te nemen?</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Nee, het is niet noodzakelijk, alleen als je niet-lineaire verbanden wilt onderzoeken. Het mag wel: je moet dan 5 dummy-variabelen opnemen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Ja, het is noodzakelijk want het is een nominale categorische variabele: je moet dan 5 dummy-variabelen opnemen
 </p>]]></text>
 <feedback format="html">
@@ -80,16 +90,6 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Nee, het is niet noodzakelijk, alleen als je niet-lineaire verbanden wilt onderzoeken. Het mag wel: je moet dan 4 dummy-variabelen opnemen
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Nee, het is niet noodzakelijk, alleen als je niet-lineaire verbanden wilt onderzoeken. Het mag wel: je moet dan 5 dummy-variabelen opnemen
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

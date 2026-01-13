@@ -71,16 +71,6 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The number that gets a boy and <strong>not</strong> had breakfast / the number that gets a boy and had breakfast.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 The number that gets a boy and had breakfast / the number that gets a boy receives and <strong>not</strong> had breakfast.
 </p>]]></text>
 <feedback format="html">
@@ -96,6 +86,16 @@ The number that gets a boy and had breakfast / the number that had breakfast.
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The number that gets a boy and <strong>not</strong> had breakfast / the number that gets a boy and had breakfast.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

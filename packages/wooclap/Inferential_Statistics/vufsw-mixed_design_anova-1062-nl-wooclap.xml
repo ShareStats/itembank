@@ -75,13 +75,13 @@ Standaardwaarde</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-De interactie tussen de leeftijd van de bestuurder en de type van distraction is significant, <em>F</em>(2,36) = 45.95, <em>p</em> &lt; .001. Dit effect geeft aan dat ratings van rijnaukeurigheid verschillen tussen de twee leeftijdsgroepen.
+Het hoofdeffect van distraction is significant, <em>F</em> (2, 36) = 45.95,  <em>p &lt;</em> .001.  Dit effect geeft aan dat ratings van rijnauwkeurigheid verschillen tussen de drie types van distraction
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -95,19 +95,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Het hoofdeffect van distraction is significant, <em>F</em> (2, 36) = 45.95,  <em>p &lt;</em> .001.  Dit effect geeft aan dat ratings van rijnauwkeurigheid verschillen tussen de drie types van distraction
+Het hoofdeffect van distraction is significant, <em>F</em>(1.681, 30.257) = 45.95, <em>p &lt;</em> .001. Dit effect geeft aan dat ratings van rijnauwkeurigheid verschillen tussen de drie types van distraction.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Het hoofdeffect van distraction is significant, <em>F</em>(1.681, 30.257) = 45.95, <em>p &lt;</em> .001. Dit effect geeft aan dat ratings van rijnauwkeurigheid verschillen tussen de drie types van distraction.
+De interactie tussen de leeftijd van de bestuurder en de type van distraction is significant, <em>F</em>(2,36) = 45.95, <em>p</em> &lt; .001. Dit effect geeft aan dat ratings van rijnaukeurigheid verschillen tussen de twee leeftijdsgroepen.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

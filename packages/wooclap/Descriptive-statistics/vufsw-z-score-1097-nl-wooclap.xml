@@ -55,7 +55,7 @@ salary in the US equals $3.300 en de standaardafwijking is $800. Hij kan ook een
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-In Duitsland, omdat de correlatiecoëfficiënt van het aangeboden salaris hoger is in Duitsland dan in de VS
+In Duitsland, omdat de standaardfout van het aangeboden salaris hoger is in Duitsland hoger is dan in de VS
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -65,7 +65,7 @@ Onwaar
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-In Duitsland, omdat de standaardfout van het aangeboden salaris hoger is in Duitsland hoger is dan in de VS
+In Duitsland, omdat de correlatiecoëfficiënt van het aangeboden salaris hoger is in Duitsland dan in de VS
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -85,21 +85,21 @@ Waar
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-In de VS, omdat de correlatiecoëfficiënt van het aangeboden salaris hoger is in de VS dan in Duitsland
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Fout
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 In de VS, omdat de z-score van het geboden salaris hoger is in de VS dan in Duitsland
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+In de VS, omdat de correlatiecoëfficiënt van het aangeboden salaris hoger is in de VS dan in Duitsland
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
 </p>]]></text>
 </feedback>
 </answer>

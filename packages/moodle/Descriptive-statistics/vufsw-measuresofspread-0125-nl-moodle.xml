@@ -53,26 +53,6 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De foutenkans van een bepaalde nulhypothese.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De gemiddelde voorspellingsfout.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 De gestandaardiseerde foutenkans bij een Standaard Normale Verdeling (z-verdeling).
 </p>]]></text>
 <feedback format="html">
@@ -83,7 +63,27 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De gestandaardiseerde voorspellingsfout.
+De foutenkans van een bepaalde nulhypothese.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De standaarddeviatie van een steekproevenverdeling.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De gemiddelde voorspellingsfout.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -101,13 +101,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-De standaarddeviatie van een steekproevenverdeling.
+De gestandaardiseerde voorspellingsfout.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>

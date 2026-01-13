@@ -59,6 +59,26 @@ salary in the country)? And how can you conclude this?</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+In Germany, because the correlation coefficient of the offered salary is higher in Germany than in the US
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+In the US, because the standard error of the offered salary is higher in the US than in Germany
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 In the US, because the correlation coeffecient of the offered salary is higher in the US than in Germany
 </p>]]></text>
 <feedback format="html">
@@ -70,16 +90,6 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 In the US, because the z-score of the offered salary is higher in the US than in Germany
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-In Germany, because the correlation coefficient of the offered salary is higher in Germany than in the US
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -104,16 +114,6 @@ In Germany, because the z-score of the offered salary is higher in Germany than 
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-In the US, because the standard error of the offered salary is higher in the US than in Germany
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

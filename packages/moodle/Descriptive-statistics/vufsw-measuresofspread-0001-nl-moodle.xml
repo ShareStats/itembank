@@ -72,13 +72,13 @@ Standaardwaarde</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-De waarde van het gemiddelde is meer dan 2 keer zo groot als de waarde van de standaarddeviatie.
+De waarde van het gemiddelde is veel kleiner dan de modus.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -104,7 +104,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De waarde van de standaarddeviatie is veel kleiner dan het gemiddelde.
+De waarde van het gemiddelde is meer dan 2 keer zo groot als de waarde van de standaarddeviatie.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -112,13 +112,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-De waarde van het gemiddelde is veel kleiner dan de modus.
+De waarde van de standaarddeviatie is veel kleiner dan het gemiddelde.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>

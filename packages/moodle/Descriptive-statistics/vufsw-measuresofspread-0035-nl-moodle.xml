@@ -68,16 +68,6 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De SE(b) geeft aan wat de geschatte waarde van Y (studieprestaties) is, indien X (tv kijken) de waarde 0 aanneemt.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 De SE(b) geeft aan hoe groot de spreiding is van het geschatte effect van tv kijken (X) op studieprestaties (Y), indien we meerdere steekproeven zouden nemen.
@@ -90,7 +80,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De SE(b) geeft aan wat het geschatte effect van tv kijken (X) op studieprestaties (Y) is, indien we een standaardcorrectie toepassen voor de systematische meetfouten van de variabelen X en Y.
+De SE(b) geeft aan in hoeverre het gehanteerde significantieniveau afwijkt van het geschatte effect van tv kijken (X) op studieprestaties (Y).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -100,7 +90,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De SE(b) geeft aan in hoeverre het gehanteerde significantieniveau afwijkt van het geschatte effect van tv kijken (X) op studieprestaties (Y).
+De SE(b) geeft aan wat de geschatte waarde van Y (studieprestaties) is, indien X (tv kijken) de waarde 0 aanneemt.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De SE(b) geeft aan wat het geschatte effect van tv kijken (X) op studieprestaties (Y) is, indien we een standaardcorrectie toepassen voor de systematische meetfouten van de variabelen X en Y.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

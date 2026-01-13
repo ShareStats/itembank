@@ -52,16 +52,6 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-With a 95% confidence interval, the sample value is always in the “critical range” of 5%.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 For the Standard Normal Distribution, 10% of the observations must be score at least 1.96 times the standard deviation higher than the mean value.
 </p>]]></text>
 <feedback format="html">
@@ -77,6 +67,16 @@ The Standard Error (SE) for both a proportion and a mean is dependent on the sam
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+With a 95% confidence interval, the sample value is always in the “critical range” of 5%.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

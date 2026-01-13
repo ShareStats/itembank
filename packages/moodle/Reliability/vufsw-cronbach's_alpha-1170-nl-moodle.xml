@@ -129,16 +129,6 @@ items constant blijft).</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-0.801
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 0.641
@@ -151,7 +141,17 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-0.728
+0.801
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.942
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -171,7 +171,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-0.942
+0.728
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

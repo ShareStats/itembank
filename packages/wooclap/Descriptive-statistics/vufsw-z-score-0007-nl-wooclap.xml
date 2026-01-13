@@ -76,16 +76,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Brenda heeft een hogere score dan Andrew. Brenda’s z-score is hoger dan 2.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Andrew heeft een hogere score dan Brenda. Andrews z-score is hoger dan 2.
@@ -93,6 +83,16 @@ Andrew heeft een hogere score dan Brenda. Andrews z-score is hoger dan 2.
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Brenda heeft een hogere score dan Andrew. Brenda’s z-score is hoger dan 2.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

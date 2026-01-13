@@ -68,13 +68,13 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Bij mannen heeft tv kijken een significante <em>negatieve </em>invloed op iemands studieprestaties, bij vrouwen heeft tv kijken een significante <em>positieve</em> invloed op iemands studieprestaties.
+Bij mannen heeft tv kijken een significante negatieve invloed op iemands studieprestaties, bij vrouwen heeft tv kijken <em>geen</em> significante invloed op iemands studieprestaties.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -88,19 +88,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Bij mannen heeft tv kijken een significante negatieve invloed op iemands studieprestaties, bij vrouwen heeft tv kijken <em>geen</em> significante invloed op iemands studieprestaties.
+Bij zowel mannen als vrouwen heeft tv kijken een significante positieve invloed op iemands studieprestaties.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Bij zowel mannen als vrouwen heeft tv kijken een significante positieve invloed op iemands studieprestaties.
+Bij mannen heeft tv kijken een significante <em>negatieve </em>invloed op iemands studieprestaties, bij vrouwen heeft tv kijken een significante <em>positieve</em> invloed op iemands studieprestaties.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

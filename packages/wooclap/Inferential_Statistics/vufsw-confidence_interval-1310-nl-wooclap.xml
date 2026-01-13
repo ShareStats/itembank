@@ -75,16 +75,6 @@ kunnen we uit het 95% betrouwbaarheidsinterval van ‘FAMEDUC’ in <strong>mode
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De t-waarde 4.785 buiten het de grenzen van het betrouwbaarheidsinterval ligt, en dat er daarom waarschijnlijk een positief effect van ‘FAMEDUC’ in de populatie zal zijn
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 De geschatte b (.031) deel uitmaakt van het betrouwbaarheidsinterval, en dat er daarom waarschijnlijk een positief effect van ‘FAMEDUC’ in de populatie zal zijn
 </p>]]></text>
 <feedback format="html">
@@ -95,7 +85,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De populatiewaarde ook 0 kan zijn, en dat er daarom onvoldoende aanwijzingen zijn dat er een positief effect van ‘FAMEDUC’ in de populatie zal zijn
+De t-waarde 4.785 buiten het de grenzen van het betrouwbaarheidsinterval ligt, en dat er daarom waarschijnlijk een positief effect van ‘FAMEDUC’ in de populatie zal zijn
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -110,6 +100,16 @@ De populatiewaarde niet 0 zal zijn, en dat er daarom waarschijnlijk een positief
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De populatiewaarde ook 0 kan zijn, en dat er daarom onvoldoende aanwijzingen zijn dat er een positief effect van ‘FAMEDUC’ in de populatie zal zijn
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

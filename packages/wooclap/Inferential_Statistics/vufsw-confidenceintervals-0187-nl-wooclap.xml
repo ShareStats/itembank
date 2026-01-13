@@ -50,16 +50,6 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Bij een 95% betrouwbaarheidsinterval ligt de geschatte steekproefwaarde altijd in het “kritieke gebied” van 5%.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Bij een 95% betrouwbaarheidsinterval ligt de puntschatter (<em>point estimate</em>) altijd in het midden van het interval.
@@ -67,6 +57,16 @@ Bij een 95% betrouwbaarheidsinterval ligt de puntschatter (<em>point estimate</e
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Bij een 95% betrouwbaarheidsinterval voor een proportie zal de populatieparameter nooit kleiner zijn dan 5%.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -82,7 +82,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Bij een 95% betrouwbaarheidsinterval voor een proportie zal de populatieparameter nooit kleiner zijn dan 5%.
+Bij een 95% betrouwbaarheidsinterval ligt de geschatte steekproefwaarde altijd in het “kritieke gebied” van 5%.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

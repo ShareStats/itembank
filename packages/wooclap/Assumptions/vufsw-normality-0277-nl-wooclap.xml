@@ -64,6 +64,16 @@ afspiegeling van de relatie), maar niet voor significantietoetsen.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+zijn de coëfficiënten betrouwbaar, maar de significantietoetsen niet betrouwbaar.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 zijn de coëfficiënten niet betrouwbaar, maar de significantietoetsen wel betrouwbaar.
@@ -81,16 +91,6 @@ zijn zowel de coëfficiënten als de significantietoetsen betrouwbaar.
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-zijn de coëfficiënten betrouwbaar, maar de significantietoetsen niet betrouwbaar.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

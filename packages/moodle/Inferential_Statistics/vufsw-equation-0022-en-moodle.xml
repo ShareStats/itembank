@@ -55,16 +55,6 @@ What is the difference between “<em>b</em><sub>1</sub>” and<sub> </sub>“<e
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-“<em>b</em><sub>1</sub>” represents the full effect of X<sub>1</sub> on Y, and “<em>β</em><sub>1</sub>” represents the partial effect of X<sub>1</sub> on Y.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 <em>b</em><sub>1</sub>” represents the observed effect of X<sub>1</sub> on Y in the sample, and “<em>β</em><sub>1</sub>” represents the effect of X<sub>1</sub> on Y in the entire population.
@@ -88,6 +78,16 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 <em>b</em><sub>1</sub>” represents the uncontrolled effect of X<sub>1</sub> on Y, and “<em>β</em><sub>1</sub>” represents the effect of X<sub>1</sub> on Y after controlling for the effect of the other independent variables.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+“<em>b</em><sub>1</sub>” represents the full effect of X<sub>1</sub> on Y, and “<em>β</em><sub>1</sub>” represents the partial effect of X<sub>1</sub> on Y.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -54,9 +54,14 @@ R<sup>2</sup></p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De lineaire relatie tussen X<sub>2 </sub>en Y, gegeven X<sub>1</sub>
+</p>]]></text>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De lineaire relatie tussen X<sub>2 </sub>en Y
+De lineaire relatie tussen  X<sub>2</sub> en X<sub>1</sub>, gegeven  Y
 </p>]]></text>
 </answer>
 <answer fraction="0" format="html">
@@ -66,12 +71,7 @@ De variantie van Y die verklaard wordt door  X<sub>2 </sub>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De lineaire relatie tussen  X<sub>2</sub> en X<sub>1</sub>, gegeven  Y
-</p>]]></text>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De lineaire relatie tussen X<sub>2 </sub>en Y, gegeven X<sub>1</sub>
+De lineaire relatie tussen X<sub>2 </sub>en Y
 </p>]]></text>
 </answer>
 </question>

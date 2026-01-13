@@ -65,16 +65,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-[1] = 0.0036 [2] = 0.0081 "3” = adequate
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 [1] = -0.0134 [2] = 0.0196 "3” = insufficient
@@ -97,7 +87,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-[1] = 0.0081 [2] = 0.0196 \3” = adequate
+[1] = -0.0134 [2] = 0.0081 "3” = insufficient
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -107,7 +97,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-[1] = -0.0134 [2] = 0.0081 "3” = insufficient
+[1] = 0.0036 [2] = 0.0081 "3” = adequate
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+[1] = 0.0081 [2] = 0.0196 \3” = adequate
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -53,19 +53,19 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-The mode has the lowest score (lowest number of hours) of the three magnitudes.
+The mean’s score is lower (number of hours is lower) than the score of the mode.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The mean’s score is lower (number of hours is lower) than the score of the mode.
+Both the median and the mean have lower scores (a lower number of hours) than the mode.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -83,13 +83,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Both the median and the mean have lower scores (a lower number of hours) than the mode.
+The mode has the lowest score (lowest number of hours) of the three magnitudes.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

@@ -52,16 +52,6 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The closer the correlation approaches 0, the smaller the <em>p</em> value.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 The closer the correlation approaches 0, the stronger the correlation.
 </p>]]></text>
 <feedback format="html">
@@ -83,6 +73,16 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 The closer the correlation approaches -1 or +1, the greater the <em>p</em> value.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The closer the correlation approaches 0, the smaller the <em>p</em> value.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

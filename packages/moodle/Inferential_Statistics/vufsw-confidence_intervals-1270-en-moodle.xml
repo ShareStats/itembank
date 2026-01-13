@@ -56,16 +56,6 @@ between the population means is between -0.08 and 0.15.</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The probability is 0.05 that a significant difference between the population means is between -0.08 and 0.15.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 The probability is 0.95 that a significant difference between the population means is between -0.08 and 0.15.
 </p>]]></text>
 <feedback format="html">
@@ -87,6 +77,16 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 We have 5% certainty that the true difference between the population means is between -0.08 and 0.15.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The probability is 0.05 that a significant difference between the population means is between -0.08 and 0.15.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

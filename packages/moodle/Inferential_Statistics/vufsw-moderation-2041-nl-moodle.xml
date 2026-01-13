@@ -58,6 +58,16 @@ berekend als lft15 * pmcul).</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+38.190
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 52.818
@@ -65,16 +75,6 @@ berekend als lft15 * pmcul).</p>
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-48.746
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>
@@ -90,7 +90,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-38.190
+48.746
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

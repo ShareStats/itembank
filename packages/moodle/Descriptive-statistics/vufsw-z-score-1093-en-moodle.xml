@@ -50,6 +50,16 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+It depends on the measuring unit of X
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 It is independent of the measuring unit of X
@@ -62,7 +72,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-It depends on the measuring unit of X
+It is always a positive number
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -73,16 +83,6 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 It varies between -1.96 and 1.96
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-It is always a positive number
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

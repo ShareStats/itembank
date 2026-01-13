@@ -57,6 +57,16 @@ View the standard error (“<em>Std. Error</em>”) of the b coefficient of “W
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The SE(b) indicates the estimated effect of watching TV (X) on study performance (Y) is, if we apply a standard correction for the systematic measurement errors of variables X and Y.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 The SE(b) indicates the dispersion of the estimated effect of watching TV (X) on study performance (Y), if we were to take multiple samples.
@@ -69,27 +79,17 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The SE(b) indicates the estimated value of Y (study performance), if X (TV watching) takes the value 0.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The SE(b) indicates the estimated effect of watching TV (X) on study performance (Y) is, if we apply a standard correction for the systematic measurement errors of variables X and Y.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 The SE(b) indicates the extent to which the significance level used differs from the estimated effect of watching TV (X) on study performance (Y).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The SE(b) indicates the estimated value of Y (study performance), if X (TV watching) takes the value 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

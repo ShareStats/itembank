@@ -53,7 +53,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-rnd(60*mean.40(item1 to item60))
+rnd(60*mean.60(item1 to item60)
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -73,7 +73,7 @@ Fout
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-rnd(60*mean.60(item1 to item60)
+rnd(60*mean.40(item1 to item60))
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -53,6 +53,16 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Becomes exactly 0.00.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Becomes exactly 1.00.
 </p>]]></text>
 <feedback format="html">
@@ -63,7 +73,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Becomes exactly 0.00.
+Can become either higher or lower; this depends on whether the difference between the averages of X and Y is greater or less than 0.00.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -84,16 +94,6 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Can become either higher or lower; it depends on whether the relationship between X and Y is positive or negative.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Can become either higher or lower; this depends on whether the difference between the averages of X and Y is greater or less than 0.00.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

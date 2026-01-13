@@ -51,16 +51,6 @@ should he use to decide which items to remove from the scale?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The Cronbach’s alpha when removing an item
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 The corrected item correlations
@@ -84,6 +74,16 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 The squared multiple correlation
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The Cronbach’s alpha when removing an item
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

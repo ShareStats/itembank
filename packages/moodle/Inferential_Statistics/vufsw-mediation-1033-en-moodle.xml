@@ -68,21 +68,11 @@ exist is not necessary</em>” is the correct answer</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Baron and Kenny suggest the testing of the significance of <em>a </em>and <em>b</em>. However, mediation is assessed by the significance of the indirect effect <em>ab</em> which is not the same as testing of the significance of <em>a </em>and <em>b </em>separately.
+The condition that a total effect <em>c</em> should exist is not necessary
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-The condition that an indirect effect <em>ab</em> should exist is not necessary
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>
@@ -98,11 +88,21 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The condition that a total effect <em>c</em> should exist is not necessary
+Baron and Kenny suggest the testing of the significance of <em>a </em>and <em>b</em>. However, mediation is assessed by the significance of the indirect effect <em>ab</em> which is not the same as testing of the significance of <em>a </em>and <em>b </em>separately.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The condition that an indirect effect <em>ab</em> should exist is not necessary
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

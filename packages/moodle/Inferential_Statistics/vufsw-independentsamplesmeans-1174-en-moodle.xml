@@ -75,7 +75,7 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-We can reject the null hypothesis, since the absolute observed t-value is less than the critical t-value.
+We can not reject the null hypothesis, since the absolute observed t-value is greater than the critical t-value.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -85,7 +85,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-We can not reject the null hypothesis, since the absolute observed t-value is less than the critical t-value.
+We can reject the null hypothesis, since the absolute observed t-value is less than the critical t-value.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -105,7 +105,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-We can not reject the null hypothesis, since the absolute observed t-value is greater than the critical t-value.
+We can not reject the null hypothesis, since the absolute observed t-value is less than the critical t-value.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -56,13 +56,13 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Age has <strong>no</strong> significant influence on Income, because the interval contains <strong>well</strong> the number 0.
+Age has <strong>no</strong> significant influence on Income, because the interval contains <strong>well</strong> the number 0.05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -76,19 +76,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Age does <strong>well</strong> significantly affect Income, because the interval does <strong>well</strong> contain the number 0.
+Age has <strong>no</strong> significant influence on Income, because the interval contains <strong>well</strong> the number 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Age has <strong>no</strong> significant influence on Income, because the interval contains <strong>well</strong> the number 0.05.
+Age does <strong>well</strong> significantly affect Income, because the interval does <strong>well</strong> contain the number 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
