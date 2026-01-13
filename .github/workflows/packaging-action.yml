@@ -43,10 +43,10 @@ jobs:
             any::xml2
             any::dplyr
             any::readr
+            any::exams
 
-      - name: Install Exams developer version
-        run: Rscript -e 'install.packages("exams", repos = "http://R-Forge.R-project.org", dependencies = TRUE, type = "source")'
-
+#      - name: Install Exams developer version
+#        run: Rscript -e 'install.packages("exams", repos = "http://R-Forge.R-project.org", dependencies = TRUE, type = "source")'
 
       - name: Set up git
         run: |
