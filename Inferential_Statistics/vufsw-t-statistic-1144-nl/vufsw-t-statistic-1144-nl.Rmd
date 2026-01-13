@@ -1,0 +1,47 @@
+Question
+========
+Een onderzoeker vraagt 160 willekeurig gekozen mensen wat de ideale groepsgrootte (in aantal personen) is om als team aan een opdracht te werken. Het antwoord van antwoord van de respondenten is gemiddeld 6,3, met een standaardafwijking van 2.8. De onderzoeker test of dit gemiddelde significant afwijkt van een testgemiddelde van 8.  Stel dat in plaats van 160 mensen, slechts 80 mensen zouden hebben deelgenomen aan het onderzoek, en dat het gemiddelde (6,3) zouden hebben deelgenomen aan het onderzoek, en dat het gemiddelde (6,3) en de standaard afwijking (2,8) hetzelfde zouden zijn. Wat betekent de afname van het aantal respondenten voor de berekende (waargenomen) t-waarde?
+
+Answerlist
+----------
+* De t-waarde is onveranderd.
+* De absolute t-waarde is kleiner geworden.
+* De absolute t-waarde is hoger geworden.
+* Er ontbreken gegevens om de t-waarde te berekenen.
+
+Solution
+========
+
+De absolute t-waarde is kleiner geworden.  
+  
+t=mean-mean(test)/se en de se=S/ √n  Als n kleiner wordt, dan wordt de se hoger, dus wordt t kleiner.  
+  
+Als je meer wilt weten over deze t-test, kijk dan hier  
+[clip](https://www.youtube.com/watch?v=9V6L3Zu3PP0&index=3&list=PLyLpEs0x9BnkUdochj7JEC-2javLshojj)
+
+Taal Nederlands
+
+Moeilijkheidsniveaus Moeilijk
+
+M&T BIS Standaardwaarde
+
+M&T Hypothesetest: gemiddelden Standaardwaarde
+Answerlist
+----------
+* Onwaar
+* Waar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-t-statistic-1144-nl
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: inferential statistics/nhst/test statistic/t-statistic
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: Dutch
+exextra[Level]: statistical reasoning
+

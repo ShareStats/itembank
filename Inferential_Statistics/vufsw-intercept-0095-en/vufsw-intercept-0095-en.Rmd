@@ -1,0 +1,55 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Screen__Shot__2020-04-30__at__15.09.34.png", recursive = TRUE)
+```
+
+Question
+========
+A researcher conducts a single regression analysis with the degree of trust in the police (variable: "**Police Report Rate**") as the dependent variable and the dummy variable "**Migrant background**" as the independent variable.  
+What is the intercept (the constant) in this model? And what is the significance of this number?   
+  
+![](Screen__Shot__2020-04-30__at__15.09.34.png)
+
+Answerlist
+----------
+* The intercept is ,065. This is the average degree of trust in the police of people *without* a migration background.
+* The intercept is ,065. This is the average degree of trust in the police of people *with* a migration background.
+* The intercept is 7.213. This is the average degree of trust in the police of people *without* a migration background.
+* He intercept is 7.213. This is the average degree of trust in the police of people *with* a migration background.
+* The intercept is ,083. This is the average degree of trust in the police of people *without* a migration background.
+* The intercept is ,083. This is the average degree of trust in the police of people *with* a migration background.
+* The intercept is -.784. This is the average degree of trust in the police of people *without* a migration background.
+* The intercept is -.784. This is the average degree of trust in the police of people *with* a migration background.
+
+Solution
+========
+
+Language Dutch
+
+Levels of Difficulty Easy
+
+M&T Basics of quantitative research Basics of quantitative research
+
+M&T BIS Default value
+Answerlist
+----------
+* False
+* False
+* True
+* False
+* False
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-intercept-0095-en
+extype: schoice
+exsolution: 00100000
+exshuffle: TRUE
+exsection: inferential statistics/regression/intercept
+exextra[Type]: interpretating output
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(exams)
+library(knitr)
+```
+Question
+========
+Een psychometrist die bij CITO werkt, wil de criteriumvaliditeit van een dyslexietest evalueren. De betrouwbaarheid van de test $R_{xx}$ is al onderzocht en bleek .70 te zijn. De maatstaf is het oordeel van een schoolpsycholoog dat behoorlijk, hoewel niet perfect, betrouwbaar is: $R_{yy} = $ .80. De waargenomen correlatie tussen de test en het criterium bleek .6 te zijn. De psychometrist twijfelt of ze de aangepaste correlatie moet berekenen en welke variabele ze moet aanpassen; de test, het criterium of beide.
+
+Bereken de aangepaste correlatie door te corrigeren voor de test, het criterium of beide. Wat zou de correlatie zijn als één (of beide) van deze elementen perfect betrouwbaar zou zijn? Schrijf het antwoord op (3 decimalen).
+
+
+Solution
+========
+$r_{xy-adjusted} = \frac{.6}{\sqrt{.8}} = .671$
+
+Meta-information
+================
+exname: eur-reliability-117-nl
+extype: num
+exsolution: .671
+extol: 0
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Calculate
+exextra[Program]: Calculator
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

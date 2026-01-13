@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-221-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-221-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+What is the average grade for the exam "introduction in economics" (variable: introduction_economics) for the students who got a failing grade (score lower than 5.5) on the exam of macro_economics (variable macro_economy) and who had a score of 1 on proposition 2 (variable: statement2)? Write your answer in the answer box (with 3 decimal places).
+
+* Download**: [SPSS file](eur-descriptive-221-en-data.sav), [CSV file](eur-descriptive-221-en-data.csv)
+
+
+Solution
+========
+The correct answer is 3,599.
+
+Meta-information
+================
+exname: eur-descriptive-221-en
+extype: num
+exsolution: 3.599
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

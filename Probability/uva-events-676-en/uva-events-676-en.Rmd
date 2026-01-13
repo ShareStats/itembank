@@ -1,0 +1,43 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-events-676-en-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Event A = { 2 ≤ x ≤ 4}, and B = {x|x ≥ 3}.Looking at the graph below, What then is the intersection of *A* and *B*?
+
+![](uva-events-676-en-graph01.png)
+
+Answerlist
+----------
+
+* {x|x ≤ 2}
+* {x|2 ≤ x ≤ 4}
+* {x|3 ≤ x ≤ 4}
+* {x|x ≥ 2}
+* {x|x > 4}
+
+Solution
+========
+
+Answerlist
+----------
+
+* {x|x ≤ 2}: Incorrect
+* {x|2 ≤ x ≤ 4}: Incorrect
+* {x|3 ≤ x ≤ 4}: Correct
+* {x|x ≥ 2}: Incorrect
+* {x|x > 4}: Incorrect
+
+Meta-information
+================
+exname: uva-events-676-en
+extype: schoice
+exsolution: 00100
+exsection: Probability/Elementary Probability/Events
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: -2.314
+exextra[p-value]: 0.9654

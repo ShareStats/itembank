@@ -1,0 +1,27 @@
+Question
+========
+In the regression Y = b<sub>0</sub> + b<sub>1</sub>X<sub>1 </sub>+ b<sub>2</sub>X<sub>2</sub>, what is the interpretation of b<sub>2</sub> ?
+
+Answerlist
+----------
+* The linear relation between X<sub>2</sub>and Y
+* The linear relation between X<sub>2 </sub>and Y, given X<sub>1</sub>
+* The linear relationship between X<sub>2</sub> and X<sub>1</sub>, given Y
+* The variance of Y explained by X<sub>2 </sub>
+
+Solution
+========
+
+The regression coefficients measure partial relationships between the Xs and the Y and unexplained variance. The measure of explained variance is the R<sup>2</sup>
+
+Meta-information
+================
+exname: vufsw-multiplelinearregression-0275-en
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression
+exextra[Type]: conceptual
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

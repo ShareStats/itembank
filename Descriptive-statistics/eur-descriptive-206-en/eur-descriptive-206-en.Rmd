@@ -1,0 +1,29 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-206-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-206-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Sort the answers to proposition 2 (variable: proposition2) in descending order (from high to low) and the grades on the introductory sociology exam (variable: introduction_sociology) in ascending order (from low to high). Write the grade on the mathematics exam (variable: mathematics) of the 50th person in the answer box (with 3 decimal places).
+
+n.b. If in your file the variable names are in the first row, you need the 51st row.
+
+* Download**: [SPSS file](eur-descriptive-206-en-data.sav), [CSV file](eur-descriptive-206-en-data.csv)
+
+
+Solution
+========
+The correct answer is 5,537.
+
+Meta-information
+================
+exname: eur-descriptive-206-en
+extype: num
+exsolution: 5.537
+extol: 0
+exsection: Variable type/Discrete variable
+exextra[Type]: Case
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

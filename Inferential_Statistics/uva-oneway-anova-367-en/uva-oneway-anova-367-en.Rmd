@@ -1,0 +1,39 @@
+Question
+========
+
+Below is a partial ANOVA table of a oneway ANOVA on three groups with 5 observations each.
+
+  --------------------- ------- ---- ------- ------ Source of variation SS df MS F Between groups 40.80 2 20.40 5.81 Within groups Total 82.93 --------------------- ------- ---- ------- ------
+
+When testing, with α =5%, what is the critical value of H~0~: μ~l~ = μ~2~ = μ~3~ and what is the conclusion?
+
+Answerlist
+----------
+
+* Critical value = 3.74, reject H0
+* Critical value = 3.89, reject H0
+* Critical value = 3.89, do not reject H0
+* Critical value = 19.41, do not reject H0
+
+Solution
+========
+
+Answerlist
+----------
+
+* Critical value = 3.74, reject H0: Incorrect
+* Critical value = 3.89, reject H0: Correct
+* Critical value = 3.89, do not reject H0: Incorrect
+* Critical value = 19.41, do not reject H0: Incorrect
+
+Meta-information
+================
+exname: uva-oneway-anova-367-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.02
+exextra[p-value]: 0.1109

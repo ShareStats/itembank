@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-equation-507-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+The equation of the regression equation reads
+
+![](uva-equation-507-nl-graph01.png)
+
+Answerlist
+----------
+
+* A = 0.452 + 1.984 x V
+* A = 1.984 + 0.452 x V
+* V = 0.452 + 1.984 x A
+* V = 1.984 + 0.452 x V
+
+Solution
+========
+
+Answerlist
+----------
+
+* A = 0.452 + 1.984 x V: Correct
+* A = 1.984 + 0.452 x V: Incorrect
+* V = 0.452 + 1.984 x A: Incorrect
+* V = 1.984 + 0.452 x V: Incorrect
+
+Meta-information
+================
+exname: uva-equation-507-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Regression/Equation
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.606
+exextra[p-value]: 0.0144

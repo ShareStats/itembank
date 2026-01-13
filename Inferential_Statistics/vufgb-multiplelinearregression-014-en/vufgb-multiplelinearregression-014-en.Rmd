@@ -1,0 +1,34 @@
+Question
+========
+  
+Agresti and Finlay (2009) recommend that in a multiple regression model that incorporates an interaction between quantitative predictors, the predictors should be centered. Why?
+
+Not centering leads to: 
+Answerlist
+----------
+* Less variance explained by the model.
+* A lower t value for the interaction effect.
+* An artificial quadratic effect in the model.
+* Overlap in explained variance by predictors.
+
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Correct
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-multiplelinearregression-014-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Regression/Multiple linear regression
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

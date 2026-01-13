@@ -1,0 +1,20 @@
+Question
+========
+Two linear mixed models for repeated measurements are compared. These are a model with a *fixed effect* for time and a model with a *random effect* for time. The *-2LogLikelihood* for the model with *fixed effect* is 259, and for the model with *random effect* is 262. Perform a *likelihood-ratio* test with the following objective: test whether the *random effect* for time is significant.
+
+Answerlist
+----------
+* *z* = 3, *p* < .05.
+* *z* = 9, *p* < .05.
+* $χ^2$(*df* = 1) = 3, *p* > .05.
+* $χ^2$(*df* = 1) = 9, *p* < .05.
+
+Meta-information
+================
+exname: vufgb-mixeddesignanova-002-en
+extype: schoice
+exsolution: 0010
+exsection:Inferential Statistics/Parametric Techniques/ANOVA/Mixed design ANOVA
+exextra[Type]: Calculation, Test choice
+exextra[Language]: Dutch
+exextra[Level]: Statistical Thinking

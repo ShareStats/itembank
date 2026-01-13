@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-249-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-249-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Wat is het gemiddelde cijfer voor vak 1.3 (variabele: course1_3) voor mannelijke studenten [gender = 1] die bij hun ouders wonen? Schrijf het antwoord op in het antwoordvak (met 4 cijfers achter de komma).
+
+* Download**: [SPSS file](eur-descriptive-249-en-data.sav), [CSV file](eur-descriptive-249-en-data.csv)
+
+
+Solution
+========
+Het juiste antwoord is 4,7075.
+
+Meta-information
+================
+exname: eur-descriptive-249-nl
+extype: num
+exsolution: 4.7075
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

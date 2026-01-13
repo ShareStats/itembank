@@ -1,0 +1,43 @@
+Question
+========
+Wat is de significantietest voor het testen van een b-coëfficiënt (t-test)?
+
+Answerlist
+----------
+* Het toetst de nulhypothese dat, in de populatie, de coëfficiënt nul is nul is tegen de alternatieve hypothese dat de coëfficiënt in de populatie **niet **nul is
+* Het toetst de nulhypothese dat in de populatie de coëfficiënt gelijk is aan dezelfde waarde als die gevonden voor de steekproef tegenover de alternatieve hypothese dat de coëfficiënt in de populatie **niet** gelijk is aan dezelfde waarde als die gevonden voor de steekproef
+* Het test de nulhypothese dat de coëfficiënt **niet** nul is in de populatie tegen de alternatieve hypothese dat de coëfficiënt in de populatie nul is
+* Het test of de P-waarde van de coëfficiënt gelijk is aan 0,05.
+
+Solution
+========
+
+De significantietest voor de b-coëfficiënt test het volgende:  
+  
+* *<sub>*0*</sub> : *b* = 0
+* *<sub>*a*</sub> : *b* ≠ 0
+
+Taal Engels
+
+M&T MVA Standaardwaarde
+
+M&T Regressie assumpties Standaardwaarde
+Answerlist
+----------
+* Waar
+* Onwaar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-t-test-1006-nl
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/t-test
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

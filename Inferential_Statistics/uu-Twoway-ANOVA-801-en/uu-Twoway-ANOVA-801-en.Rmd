@@ -1,0 +1,40 @@
+Question
+========
+  
+Prof. J. Richardson does research on everyday behavior. One of the things being studied is how long and how often people with pet dogs actually walk their dogs. Prof. Richardson thinks that the length of walks may well be related to age, because older people are home more than somewhat less old people who have to work all day. He decides to operationalize age as being retired or not. He also looks at location, determining whether people live near a park/outlying area (nice for walking) or not (downtown, for example).
+
+To compare the average length of walks by age and location, what analysis technique should he use here?
+
+  
+Answerlist
+----------
+* Regression analysis
+* Point biserial correlation
+* Two-way ANOVA
+* One-way ANOVA
+
+Solution
+========
+
+There are three variables in this story: 1) age (retired/not retired), dichotomous, thus nominal level of measurement 2) location (near a park/not near a park), dichotomous, thus nominal measurement level 3) Length of walks (meters or km, for example), ratio, measurement level
+
+The point here is to compare average lengths between age and location groups, then the two-way ANOVA is most appropriate. This is because there are two factors (age and location) and one dependent variable (length of walk)
+
+A one-way ANOVA is not possible because then you only have 1 factor. In a regression, you also only have 2 variables, plus both variables must be of minimum interval measurement level. A point-biserial correlation is also not possible because you also only have 2 variables; 1 dichotomous, the other minimum interval measurement level. There is no such thing here.
+
+Answerlist
+----------
+* This answer is incorrect.
+* This answer is incorrect.
+* This answer is correct.
+* This answer is incorrect.
+
+Meta-information
+================
+exname: uu-Twoway-ANOVA-801-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
+exextra[Type]: Test choice
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

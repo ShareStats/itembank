@@ -1,0 +1,49 @@
+Question
+========
+Stel dat een docent wil testen of het gemiddelde aantal dagen dat studenten per week aan statistiek besteden hoger is dan 3 dagen.  
+Welk type toets kan hij dan het beste gebruiken?
+
+Answerlist
+----------
+* T-test met één steekproef
+* Onafhankelijke t-toets
+* Chi-kwadraat toets
+* Eenvoudige regressie
+
+Solution
+========
+
+Het is een éénstalen t-test, omdat **De **éénstalen t-test** wordt vaak gebruikt om **het volgende **te testen:**
+
+1.  Statistisch verschil tussen een **steekproef** gemiddelde en een bekende of of veronderstelde waarde van het gemiddelde in de populatie. 2.  Statistisch verschil tussen het **steekproef** gemiddelde en het **sample** midpoint van de **test** variabele.
+
+De **onafhankelijke t-test** is een inferentiële statistische **test** die bepaalt of er een statistisch significant verschil is tussen de gemiddelden in twee niet-gerelateerde groepen.  
+  
+ **Gebruik** de **chi**-**square toets** voor onafhankelijkheid om te bepalen of er een significant verband is tussen twee categorische variabelen.  
+  
+Gebruik een eenvoudige regressie (http://statisticsbyjim.com/glossary/regression-analysis/) om de relaties tussen een onafhankelijke variabele en een afhankelijke variabele.
+
+Moeilijkheidsniveaus Gemakkelijk
+
+M&T Hypothese testen: gemiddelden Standaardwaarde
+
+M&T Modelselectie Standaardwaarde
+Answerlist
+----------
+* Waar
+* Onwaar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-one sample mean-1242-nl
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/t-test/one sample mean
+exextra[Type]: test choice
+exextra[Program]: NA
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

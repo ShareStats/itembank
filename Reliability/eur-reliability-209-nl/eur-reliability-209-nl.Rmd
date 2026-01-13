@@ -10,7 +10,7 @@ Bekend zijn de item varianties van 12 items die een test voor faalangst vormen. 
 ```{r, echo=FALSE}
 library(knitr)
 library(exams)
-Items <- 1:6
+Items <- 1:12
 Variance <- c(1.50, 2.10, 1.20, 0.80, 1.00, 1.30, 2.10, 2.20, 2.50, 0.90, 1.20, 1.70)
 table <- cbind(Items, Variance)
 kable(table)
@@ -34,24 +34,24 @@ Answerlist
 
 Solution
 ========
-The sum of the variances is 18.5. The reliability of the test is $12 \div 11 \times (1-18.5 \div 52.2)=.706$. 
-Spearman-Brown formula can be used to calculate the lengthening factor n. 
-This n is: $.23 \div .14=1.662$. 
-When we product this value with 12, this is 19.9. This means that 8 items have to be added.
+De som van de varianties is 18,5. De betrouwbaarheid van de test is $12 \div 11 \times (1-18.5 \div 52.2)=.706$. 
+De Spearman-Brown formule kan worden gebruikt om de verlengingsfactor n te berekenen.
+Deze n is: $.23 \div .14=1.662$. 
+Wanneer we deze waarde vermenigvuldigen met 12, krijgen we 19,9. Dit betekent dat er 8 items toegevoegd moeten worden.
 
 Answerlist
 ----------
-* Fout
-* Goed
-* Fout
-* Fout
+* Incorrect
+* Incorrect
+* Correct
+* Incorrect
 
 
 Meta-information
 ================
 exname: eur-reliability-209-nl
 extype: schoice
-exsolution: 0100
+exsolution: 0010
 exsection: Reliability/Analysis/Cronbach's alpha
 exextra[Type]: Calculate
 exextra[Program]: Calculator

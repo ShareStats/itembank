@@ -1,0 +1,31 @@
+Question
+========
+
+The following logistic regression equation shows the relationship between age in months (*X*) and the probability that a baby can walk loose (*Y*): $P(Y = 1) = \frac{e^{-15+1*X}}{1+e^{-15+1*X}}$. Calculate the probability that a baby can walk loose when he/she is 14 months old. 
+Answerlist
+----------
+* 0.27
+* 0.37
+* 0.63
+* 0.73
+
+Solution
+========
+
+Answerlist
+----------
+* Correct
+* Incorrect
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-odds-009-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Regression/Logistic regression/Odds
+exextra[Type]: Calculation
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Thinking

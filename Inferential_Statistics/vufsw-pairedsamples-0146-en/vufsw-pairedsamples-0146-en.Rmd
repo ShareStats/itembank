@@ -1,0 +1,45 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("1643019321492.png", recursive = TRUE)
+```
+
+Question
+========
+VU medical school is conducting a study on the effectiveness of a drug that should lead to lower blood pressure. For this purpose, the blood pressure *before* the use of the drug is compared with the blood pressure *after* the drug has been used for three weeks by the subjects studied.  
+  
+Below are the results.  
+  
+The researcher's one-sided hypothesis is that mean blood pressure decreased significantly. She uses a significance level of 5% (α = .05).  
+  
+What is the conclusion?  
+  
+![](1643019321492.png)
+
+Answerlist
+----------
+* We find empirical evidence for the proposition that the drug had a lowering effect, because the observed absolute t value is **greater** than the critical t-value.
+* We find empirical evidence for the proposition that the drug had a lowering effect, because the observed absolute t value is **smaller** than the critical t-value.
+* We find **no** empirical evidence for the proposition that the drug had had a lowering effect, because the observed absolute t value is **greater** than the critical t value.
+* We find **no** empirical evidence for the proposition that the drug had had a lowering effect, because the observed absolute t-value is **smaller**than the critical t-value.
+
+Solution
+========
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-pairedsamples-0146-en
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/t test/paired samples
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: English
+exextra[Level]: statistical thinking
+

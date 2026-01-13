@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-241-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-241-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Calculate the number of students who scored lower or equal to a 3.9 for 3 out of 7 exams (variables: course1 to course7). Write your answer in the answer box (no decimal places).
+
+* Download**: [SPSS file](eur-descriptive-241-en-data.sav), [CSV file](eur-descriptive-241-en-data.csv)
+
+
+Solution
+========
+The correct answer is 124.
+
+Meta-information
+================
+exname: eur-descriptive-241-en
+extype: num
+exsolution: 124
+extol: 0
+exsection: Descriptive statistics/Score interpretation/Percentile, Descriptive statistics/Summary Statistics/Proportion
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

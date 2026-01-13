@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-228-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-228-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+What is the value associated with the 90th percentile for the final mathematics exam (variable: mathematics)? Write your answer in the answer box (using 3 decimal places).
+
+* Download**: [SPSS file](eur-descriptive-228-en-data.sav), [CSV file](eur-descriptive-228-en-data.csv)
+
+
+Solution
+========
+The correct answer is 7,729.
+
+Meta-information
+================
+exname: eur-descriptive-228-en
+extype: num
+exsolution: 7.729
+extol: 0
+exsection: Descriptive statistics/Score interpretation/Percentile
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

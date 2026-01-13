@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-oneway-anova-318-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Below is SPSS output of a Randomized Complete Block ANOVA with TIME as the dependent variable, TREATMNT as the treatment variable and BLOCK as the block variable. In the output, the LSD test was used to test which treatment groups were significantly different from each other. When tested would be done with Bonferroni correction, which groups would be differ significantly?
+
+![](uva-oneway-anova-318-nl-graph01.png)
+
+Answerlist
+----------
+
+* None of the groups differ significantly from each other.
+* Only group 3 and 4 differ significantly from each other.
+* Group 1 with 3, 2 with 4 and 3 with 4 are significantly different from each other.
+* All groups differ significantly from each other except 2 with 3.
+
+Solution
+========
+
+Answerlist
+----------
+
+* None of the groups differ significantly from each other: Correct
+* Only group 3 and 4 differ significantly from each other: Incorrect
+* Group 1 with 3, 2 with 4 and 3 with 4 are significantly different from each other: Incorrect
+* All groups differ significantly from each other except 2 with 3: Incorrect
+
+Meta-information
+================
+exname: uva-oneway-anova-318-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Interpreting output
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.367
+exextra[p-value]: 0.231

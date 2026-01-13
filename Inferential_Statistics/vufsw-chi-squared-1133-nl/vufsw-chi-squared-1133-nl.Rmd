@@ -1,0 +1,42 @@
+Question
+========
+Een onderzoek onder de leden van een grote vakbondsorganisatie naar de relatie tussen hun mate van betrokkenheid (laag, midden, hoog) bij de vakbond en hun deelname aan een staking (ja, nee) levert de volgende gegevens op:  
+  
+
+<table> <colgroup> <col style="width: 20%" /> <col style="width: 20%" /> <col style="width: 20%" /> <col style="width: 20%" /> <col style="width: 20%" /> </colgroep> <tbody> <tr class="odd"> <td><br /> </td> <td><em>betrokkenheid</em></td> <td></td> <td></td> <td></td> </tr> <tr class="even"> <td><br /> </td> <td>laag</td> <td>midden</td> <td> hoog</td> <td> totaal</td> </tr> <tr class="odd"> <td><em>deelname aan staking</em></td> <td><br /> </td> <td><br /> </td> <td><br /> </td> <td><br /> </td> </tr> <tr class="even"> <td>ja </td> <td>30 </td> <td>25</td> <td> 70</td> <td> 125</td> </tr> <tr class="odd"> <td>nee</td> <td>70</td> <td>25</td> <td>30</td> <td> 125</td> </tr> <tr class="even"> <td>totaal</td> <td>100</td> <td>50</td> <td>100</td> <td>250</td> </tr> </tbody> </table>
+
+  
+Wat is de kritieke *chi* kwadraatwaarde in deze test met een significantieniveau niveau alpha= 0,05?
+
+Answerlist
+----------
+* 1.96
+* 3.84
+* 5.99
+* 124.3
+
+Solution
+========
+
+De vrijheidsgraden (df) is 2 en alpha=0,05, dus de kritische waarde van het *chi* kwadraat is 5,99 (zie tabel) (1,96 is de kritische waarde van de *t* verdeling met meer dan 100 vrijheidsgraden. )  
+(3,84 is de kritische waarde van de *chi* kwadraatverdeling als er slechts één vrijheidsgraad is) (124,3 is de kritische waarde van de vierkantsverdeling *chi* als er 100 vrijheidsgraden zijn)
+
+Answerlist
+----------
+* Onwaar
+* Onwaar
+* Waar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-chi-squared-1133-nl
+extype: schoice
+exsolution: 0010
+exshuffle: TRUE
+exsection: inferential statistics/nhst/test statistic/chi-squared
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

@@ -9,12 +9,9 @@ als:
 Answerlist
 ----------
 
-* P(0,67
-* P(- 0,67 > z 1)
-* P(z
-* P(z
-* P(0,67
-* P(z
+* P(0,67)
+* P(-0,67 > z > 1)
+* P(-0,67 < z < 1)
 
 Solution
 ========
@@ -22,18 +19,15 @@ Solution
 Answerlist
 ----------
 
-* P(0,67: Incorrect
-* P(- 0,67 > z 1): Incorrect
-* P(z: Correct
-* P(z: Correct
-* P(0,67: Incorrect
-* P(z: Correct
+* P(0,67) Incorrect
+* P(-0,67 > z > 1) Incorrect
+* P(-0,67 < z < 1) Correct
 
 Meta-information
 ================
 exname: uva-normal-1346-nl
 extype: schoice
-exsolution: 000100
+exsolution: 001
 exsection: Distributions/Continuous/Normal
 exextra[Type]: Conceptual
 exextra[Language]: Dutch

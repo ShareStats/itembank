@@ -12,6 +12,7 @@ Below you can find the output of a factor analysis on 8 items measuring mutuism,
 
 ```{r, echo=FALSE}
 library(knitr)
+
 Factor <- 1:8
 Total <- c(2.2, 1.8, 1.1, 0.9, 0.8, "...", 0.3, 0.3)
 table <- cbind(Factor, Total)

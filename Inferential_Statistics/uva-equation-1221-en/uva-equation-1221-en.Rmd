@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-equation-1221-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Variables X and Y were measured in 50 individuals. The results were put into a scatterplot accompanied by the regression line of Y on X.\ The equation of the regression line is equal to:
+
+![](uva-equation-1221-nl-graph01.png)
+
+Answerlist
+----------
+
+* Y = 2 + 1.4 * X
+* X = 2 + 1.2 * Y
+* X = 3 + 1.4 * Y
+* Y = 3 + 1.2 * X
+
+Solution
+========
+
+Answerlist
+----------
+
+* Y = 2 + 1.4 * X: Incorrect
+* X = 2 + 1.2 Y: Incorrect
+* X = 3 + 1.4 * Y: Incorrect
+* Y = 3 + 1.2 * X: Correct
+
+Meta-information
+================
+exname: uva-equation-1221-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Regression/Equation
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: -0.415
+exextra[p-value]: 0.9366

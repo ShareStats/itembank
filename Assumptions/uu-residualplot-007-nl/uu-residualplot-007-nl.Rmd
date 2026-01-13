@@ -2,30 +2,25 @@
 include_supplement("uu-residualplot-007-nl-tabel.jpg", recursive = TRUE)
 ```
 
-
-
 Question
 ========
-Zie onderstaande figuur. Deze figuur wordt in de eerste plaats gemaakt om te onderzoeken of er sprake is van 
-
+Zie onderstaande afbeelding. Deze afbeelding is voornamelijk gemaakt om de aanwezigheid van ... te controleren.
 ![](uu-residualplot-007-nl-tabel.jpg)
 
 Answerlist
 ----------
-* Niet-normaal verdeelde errors
+* Niet-normaal verdeelde fouten
 * Multicollineariteit
-* Outliers
+* Uitschieters
 * Heteroscedasticiteit
 
 
 Solution
 ========
 
-
-
 Meta-information
 ================
-exname: uu-residualplot-007-nl.Rmd
+exname: uu-residualplot-007-nl
 extype: schoice
 exsolution: 0001
 exsection: Assumptions/Homoscedasticity/Residual plot

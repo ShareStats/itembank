@@ -13,10 +13,9 @@ Answerlist
 * Statement 1 is false and statement 2 is true
 * Statement 1 and statement 2 are both false
 
-
 Solution
 ========
-Statement 1 is false: after standardization, the scores have the same distribution as the raw scores, which is not necessarily normal. 
+Statement 1 is false: after standardization, the scores have the same distribution as the raw scores, which is not necessarily normal.
 
 Statement 2 is correct: when scores are normalized, you have to perform a non-linear transformation in order to change the distribution of the raw scores (make them more normally distributed).
 
@@ -34,8 +33,9 @@ exname: eur-distributions-202-en
 extype: schoice
 exsolution: 0010
 exsection: Distributions/Continuous/Normal
+exextra[ID]: 76a8f
 exextra[Type]: Conceptual
-exextra[Program]: 
+exextra[Program]:
 exextra[Language]: English
 exextra[Level]: Statistical Literacy
 exshuffle: TRUE

@@ -1,0 +1,53 @@
+Question
+========
+De volgende vraag gaat over het Glastonbury Festival in Engeland, waar de fysieke hygiëne van bezoekers werd gemeten op een schaal van 0 tot 4. Zie tabel 1 hieronder.  
+  
+Tabel 1: Beschrijvende statistieken van de fysieke hygiëne van bezoekers Glastonbury Festival.  
+
+<table class="tvcss_2 tvcss_3"> <colgroup> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> </colgroup> <tbody> <tr class="odd"> <td class="tvcss_4"><strong><br /> </strong></td> <td class="tvcss_5"><strong>Hygiene (Dag 1 van Glastonbury Festival)</strong><br /> </td> <td class="tvcss_6"><strong>Hygiene (Dag 2 van Glastonbury Festival)</strong><br /> </td> <td><strong>Hygiene (Dag 3 van Glastonbury Festival)<br /> </strong></td> </tr> <tr class="even"> <td class="tvcss_4"><strong>N<br /> </strong></td> <td class="tvcss_5">810<strong><br /> </strong></td> <td class="tvcss_6">810<strong><br /> </strong></td> <td>810</td> </tr> <tr class="odd"> <td class="tvcss_4"><strong>Missing<br /> </strong></td> <td class="tvcss_5">0<strong><br /> </strong></td> <td class="tvcss_6">0<strong><br /> </strong></td> <td>0<strong><br /> </strong></td> </tr> <tr class="even"> <td class="tvcss_4"><strong>Mean<br /> </strong></td> <td class="tvcss_5">1.77<strong><br /> </strong></td> <td class="tvcss_6">0.96<strong><br /> </strong></td> <td>0,98<strong><br /> </strong></td> </tr> <tr class="odd"> <td class="tvcss_4"><strong>Median<br /> </strong></td> <td class="tvcss_5">1.79<strong><br /> </strong></td> <td class="tvcss_6">0.79<strong><br /> </strong></td> <td>0,76<strong><br /> </strong></td> </tr> <tr class="even"> <td class="tvcss_4"><strong>Std. Afwijking<br /> </strong></td> <td class="tvcss_5">0.69<strong><br /> </strong></td> <td class="tvcss_6">0.72<strong><br /> </strong></td> <td>0.71<strong><br /> </strong></td> </tr> <tr class="odd"> <td class="tvcss_4"><strong>Percentiel 25<br /> </strong></td> <td class="tvcss_5">1.31<strong><br /> </strong></td> <td class="tvcss_6">0.41<strong><br /> </strong></td> <td>0,44<strong><br /> </strong></td> </tr> <tr class="even"> <td class="tvcss_4"><strong><strong>Percentiel 50</strong><br /> </strong></td> <td class="tvcss_5">1.79<strong><br /> </strong></td> <td class="tvcss_6">0.79<strong><br /> </strong></td> <td>0,76<strong><br /> </strong></td> </tr> <tr class="odd"> <td class="tvcss_4"><strong><strong>Percentiel 75</strong><br /> </strong></td> <td class="tvcss_5">2.23<strong><br /> </strong></td> <td class="tvcss_6">1.35<strong><br /> </strong></td> <td>1.55<strong><br /> </strong></td> </tr> </tbody> </table>
+
+  
+Stel dat een van de bezoekers een lichamelijke hygiënescore van 0,88 heeft op dag drie. Wat is zijn/haar gestandaardiseerde score (z-score)?
+
+Answerlist
+----------
+* -0.14
+* -0.28
+* -3.38
+* -4.01
+* -1.24
+
+Solution
+========
+
+De formule is: z = (waarneming - gemiddelde) / standaardafwijking  Dus z = (0,88 - 0,98) / 0,71 = -0,14
+
+Taal Engels
+
+Moeilijkheidsniveaus Gemiddeld
+
+M&T BIS Standaardwaarde
+
+M&T Beschrijvende statistiek Standaardwaarde
+
+M&T Verdelingen Standaardwaarde
+Answerlist
+----------
+* Waar
+* Onwaar
+* Onwaar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-zscore-1084-nl
+extype: schoice
+exsolution: 10000
+exshuffle: TRUE
+exsection: descriptive statistics/score interpretation/z-score
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

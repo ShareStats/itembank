@@ -1,0 +1,39 @@
+Question
+========
+A teacher is interested in how the number of hours that students have studied ("**HOURS**") on the score on a particular test ("**SCORE**"). He conducts a regression analysis with these two variables, using data from a sample of 160 students.  
+  
+This leads to the following linear model: SCORE = 2.30 + 0.80 \* HOURS.  
+  
+The teacher wants to determine whether UREN has a positive influence on SCORE. He tests two-way with a 5% significance level (α = 0.05). What should the teacher test in this case?
+
+Answerlist
+----------
+* He should check whether the value 0.80 is significantly different from 0.00.
+* He should check whether the value 0.80 is significantly different from 0.05.
+* He must verify that the value 0.80 is significantly different from 0.025.
+* He must verify that the value 0.80 is significantly smaller than 0.95.
+* He must verify that the value 0.80 is significantly smaller than 1.96.
+
+Solution
+========
+
+Answerlist
+----------
+* False
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-criticalvalue-0152-en
+extype: schoice
+exsolution: 01000
+exshuffle: TRUE
+exsection: inferential statistics/nhst/significance level/critical value
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical reasoning
+

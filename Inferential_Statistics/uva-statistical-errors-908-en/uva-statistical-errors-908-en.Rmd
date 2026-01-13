@@ -1,0 +1,33 @@
+Question
+========
+
+Suppose a researcher has four averages for which she wants to calculate multiple comparison Tukey confidence intervals wants to calculate. There are four averages a total of six possible differences between averages and therefore six confidence intervals. For comparison, the researcher also calculates comparison also calculates the ordinary 95% confidence intervals. Two of these ordinary 95% confidence intervals are (4, 8) and (13, 17). What are now possible Tukey 95% confidence intervals that correspond to the above two ordinary confidence intervals?
+
+Answerlist
+----------
+
+* (3.5, 8.5) and (12.5, 17.5)
+* (4.5, 7.5) and (13.5, 16.5)
+* (4, 7) and (12, 18)
+
+Solution
+========
+
+Answerlist
+----------
+
+* (3.5, 8.5) and (12.5, 17.5): Correct
+* (4.5, 7.5) and (13.5, 16.5): Incorrect
+* (4, 7) and (12, 18): Incorrect
+
+Meta-information
+================
+exname: uva-statistical-errors-908-en
+extype: schoice
+exsolution: 100
+exsection: Inferential Statistics/NHST/Statistical errors
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2.047
+exextra[p-value]: 0.5544

@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-404-en-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-404-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een onderzoeker van het instituut voor psychologie doet onderzoek naar alcoholmisbruik onder adolescenten. De onderzoeker ontwierp 34 stellingen waar de adolescenten het mee eens of oneens kunnen zijn op een vierpuntsschaal (1 = helemaal mee eens; 2 = enigszins mee eens; 3 = enigszins mee oneens; 4 = helemaal mee oneens). Een voorbeeld van een stelling is: Als ik me eenzaam voel, drink ik graag een alcoholische drank. De antwoorden van 312 meisjes (0) en jongens (1) op de 34 stellingen zitten in de dataset. Ook IQ-scores, schaalscores en de hoeveelheid alcoholgebruik (1 = heel vaak; 2 = vaak; 3 = soms; 4 = nooit) zijn in de dataset opgenomen.
+
+De onderzoeker denkt dat er een verschil is in schaalscore tussen adolescenten die a) heel vaak, b) vaak, c) soms en d) nooit drinken (variabele [alcohol_gebruik]). Voer een Anova uit om het verschil in alcoholgebruik tussen deze vier groepen te onderzoeken. Wat is de effectgrootte (partiële eta kwadraat) van dit effect? (3 decimalen)
+
+Open de dataset hieronder om deze vraag te beantwoorden:
+
+* Download** [SPSS file](eur-inferential_statistics-404-en-data.sav), [CSV file](eur-inferential_statistics-404-en-data.csv)
+
+
+Solution
+========
+De effectgrootte (partiële eta kwadraat) van het effect van alcoholgebruik op de schaalscore is 0,411 (voer een ANOVA uit met behulp van General Linear Model: Univariate en vraag om schattingen van de effectgrootte).
+
+Meta-information
+================
+exname: eur-inferential_statistics-404-nl
+extype: num
+exsolution: 0.411
+extol: 0
+exsection: Inferential Statistics/Effect size/Eta squared, Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Interpreting output, Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

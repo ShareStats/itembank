@@ -1,0 +1,29 @@
+Question
+========
+A psychologist conducts an experiment with 100 volunteers. Factor A indicates whether or not the participant received a calming drink. Factor B indicates what color light was shining in the room the participant was in while taking a concentration test: plain white (control situation), yellow, blue or purple. To determine whether there are significant differences between the mean scores in the different test conditions, the psychologist conducts a two-way analysis of variance. All F-tests result in significant results.
+
+For which factor(s) should the psychologist do another post hoc test?
+
+Answerlist
+----------
+* Factor A only
+* Factor B only
+* Both factor A and factor B
+* Neither factor
+
+
+Solution
+========
+Factor A has only two levels: ``well a drink'' and ``no drink''. If the result is significant, we know that the two groups are significantly different from each other. A post hoc test makes no sense here.
+
+Factor B has 4 levels: white, yellow, blue and purple. If here the result is significant, all we know is that not all groups score equally to each other. But which ones differ significantly from each other we don't yet know. So a post hoc test is needed here to determine which groups differ significantly from each other.
+
+Meta-information
+================
+exname: uu-Post-hoc test-808-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Post-hoc test
+exextra[Type]: Case
+exextra[Language]: English
+exextra[Level]: Statistical Reasoning

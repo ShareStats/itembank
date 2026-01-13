@@ -6,7 +6,7 @@ This repository contains all the [ShareStats](https://www.sharestats.nl) items.
 
 ---
 
-To start the github action to compile new .rmd items to html, qti and testvision, add a new version tag.
+To start the github action to compile new .rmd items to html, QTI, Testvision and Canvas, add a new version tag.
 
 ```{bash}
 git tag v0.x

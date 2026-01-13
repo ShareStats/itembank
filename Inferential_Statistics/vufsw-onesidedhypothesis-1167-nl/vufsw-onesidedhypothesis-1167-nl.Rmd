@@ -1,0 +1,54 @@
+Question
+========
+Een onderzoeker wil testen of het percentage Nederlandse studenten dat ooit cannabis heeft gebruikt hoger is dan 20%. De alternatieve hypothese van de onderzoeker luidt daarom als volgt: H<sub>a</sub>: π &gt; 0,20. Het waargenomen aandeel in de genoemde steekproef (n = 150) is 0,24.  
+  
+De onderzoeker hanteert een significantieniveau van 5% (alpha = 0,05).  
+  
+Wordt de nulhypothese H0 in dit onderzoek verworpen?
+
+Answerlist
+----------
+* Ja, want er is voldoende empirisch bewijs om aan te nemen dat het aandeel Nederlandse studenten dat ooit cannabis heeft gebruikt hoger is dan 0.20.
+* Ja, want er is onvoldoende empirisch bewijs om aan te nemen dat het aandeel Nederlandse scholieren dat ooit cannabis heeft gebruikt hoger is dan 0.20.
+* Nee, want er is voldoende empirisch bewijs om aan te nemen dat het aandeel Nederlandse scholieren dat ooit cannabis heeft gebruikt hoger is dan 0.20.
+* Nee, want er is onvoldoende empirisch bewijs om aan te nemen dat het aandeel Nederlandse scholieren dat ooit cannabis heeft gebruikt hoger is dan 0,20.
+
+Solution
+========
+
+Het echte antwoord is: Nee, want er is niet genoeg empirisch bewijs om aan te nemen dat het percentage Nederlandse leerlingen dat ooit cannabis heeft gebruikt hoger is dan 0,20.  
+  
+De alternatieve hypothese is dat het gemiddelde hoger is dan 0,2 en we vonden een aandeel van 0,24. Echter,  Bereken de standaardfout (se) van de steekproefverdeling. se = sqrt[ P \* ( 1 - P ) / n \]. waarbij P de veronderstelde waarde is van het populatieaandeel in de nulhypothese en n de veronderstelde waarde van het populatieaandeel in de nulhypothese. hypothese en n de steekproefgrootte is.  
+  
+Voor dit voorbeeld: σ = sqrt[ P \ ( 1 - P ) / n \] = sqrt (0.2)(0.8)/150=0.033  De teststatistiek is een z-score (z) gedefinieerd door de volgende vergelijking: z
+= (p - P) / se waarbij P de veronderstelde waarde is van het aandeel van de populatie in de nulhypothese hypothese, p het steekproefaandeel is en se de standaardafwijking van de steekproefverdeling.  
+z = (0.24-0.20)/0.033=1.22  De kritieke waarde (met één staart) is 1,64.  
+  
+Omdat 1,22 kleiner is dan 1,64 is er niet genoeg bewijs.
+
+Taal Nederlands
+
+Moeilijkheidsniveaus Gemiddeld
+
+M&T BIS Standaardwaarde
+
+M&T Hypothesetest: verhoudingen Standaardwaarde
+Answerlist
+----------
+* Onwaar
+* Onwaar
+* Onwaar
+* Waar
+
+Meta-information
+================
+exname: vufsw-onesidedhypothesis-1167-nl
+extype: schoice
+exsolution: 0001
+exshuffle: TRUE
+exsection: inferential statistics/nhst/hypothesis/one sided hypothesis
+exextra[Type]: calculation
+exextra[Program]: calculator
+exextra[Language]: Dutch
+exextra[Level]: statistical thinking
+

@@ -1,0 +1,40 @@
+Question
+========
+
+$\begin{aligned} A & = \left \{ x \mid x = 2k, k \in Z \right
+\}\\ B & = \left \{ x \mid x = 2k + 1, k \in Z \right \}\\ C
+& = \left \{ x \mid x = 2(k + 1), k \in Z \right \}\\ D & =
+\left \{ x \mid x = 2k - 1, k \in Z \right \} \end{aligned}$
+
+where Z is the set of all the integers (positive and negative) numbers, including 0. If each time two sets make a cross section then which one yields an empty set?
+
+Answerlist
+----------
+
+* $A \cap B = \varnothing, A \cap C = \varnothing, C \cap B = \varnothing, C \cap D = \varnothing$
+* $A \cap D = \varnothing, A \cap C = \varnothing, C \cap B = \varnothing, C \cap D = \varnothing$
+* $A \cap B = \varnothing, A \cap C = \varnothing, B \cap D = \varnothing, C \cap B = \varnothing$
+* $A \cap B = \varnothing, A \cap D = \varnothing, C \cap B = \varnothing, C \cap D = \varnothing$
+
+Solution
+========
+
+Answerlist
+----------
+
+* $A \cap B = \varnothing, A \cap C = \varnothing, C \cap B = \varnothing, C \cap D = \varnothing$: Correct
+* $A \cap D = \varnothing, A \cap C = \varnothing, C \cap B = \varnothing, C \cap D = \varnothing$: Incorrect
+* $A \cap B = \varnothing, A \cap C = \varnothing, B \cap D = \varnothing, C \cap B = \varnothing$: Incorrect
+* $A \cap B = \varnothing, A \cap D = \varnothing, C \cap B = \varnothing, C \cap D = \varnothing$: Incorrect
+
+Meta-information
+================
+exname: uva-events-760-en
+extype: schoice
+exsolution: 1000
+exsection: Probability/Elementary Probability/Events
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2.598
+exextra[p-value]: 0.4549

@@ -1,0 +1,35 @@
+Question
+========
+
+Pim measured depressive symptoms in his subjects every week for four weeks. Half of the subjects were offered treatment for four weeks, the other half were not. Pim wanted to use a repeated measures ANOVA to test whether the effect of time on depressive symptoms was different in people who participated in treatment compared with those who did not receive treatment.
+
+What kind of variable is Time in the repeated measures ANOVA? 
+Answerlist
+----------
+* Error variable
+* Mixed variable
+* Within-Subjects Factor
+* Between-Subjects Factor
+
+Solution
+========
+
+In repeated measures ANOVA, a distinction is made between Within-Subjects Factors and Between-Subjects Factors. Within-Subjects Factors are variables that are measured repeatedly within the same individuals, and thus may vary in value within the same individual. Between-Subjects Factors are variables that are not measured repeatedly. Values do not vary within individuals but do vary between individuals. Thus, time is an Within-Subjects Factor.
+
+Answerlist
+----------
+* Incorrect
+* Incorrect
+* Correct
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-onewayrepeatedmeasuresanova-022-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway repeated measures ANOVA
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

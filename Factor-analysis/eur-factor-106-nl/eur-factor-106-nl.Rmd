@@ -1,0 +1,25 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+
+Question
+========
+In de sociale wetenschappen zijn onderzoekers geïnteresseerd in concepten die niet direct zichtbaar zijn. Na het uitvoeren van een factoranalyse om het aantal dimensies te extraheren, is het gebruikelijk om een rotatie uit te voeren. Over het algemeen besluit de onderzoeker om een orthogonale (varimax) of niet-orthogonale (oblique) rotatie uit te voeren om de geëxtraheerde dimensies te interpreteren. Waarom wordt in de meeste onderzoeken in de sociale wetenschappen de voorkeur gegeven aan een niet-orthogonale (schuine) rotatie boven een orthogonale (varimax) rotatie?
+
+
+Solution
+========
+De meeste theorieën in de sociale wetenschappen hebben betrekking op verwante constructen; daarom zullen de factoren die deze constructen meten gecorreleerd zijn. Een varimaxrotatie zou de factoren echter ongecorreleerd maken, waardoor hun betekenis zou veranderen. De beste optie is dus een schuine rotatie, omdat deze het mogelijk maakt dat factoren zowel gecorreleerd als ongecorreleerd aan elkaar zijn, in plaats van ze te dwingen volledig ongecorreleerd te zijn.
+
+Meta-information
+================
+exname: eur-factor-106-nl
+extype: string
+exsolution: ""
+extol: 
+exsection: Factor analysis/Rotations, Factor analysis/Exploratory factor analysis
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Reasoning

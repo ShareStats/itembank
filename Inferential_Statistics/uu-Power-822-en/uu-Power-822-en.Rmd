@@ -1,0 +1,36 @@
+Question
+========
+A smoke detector should give a clear signal if there is smoke in the room, and of course remain silent if there is no smoke. We consider the absence of smoke as the null hypothesis. Which situation corresponds to the power as we discussed around testing?  
+
+
+Answerlist
+----------
+* The probability that the smoke detector gives no signal when there is smoke
+* The probability that the smoke detector gives no signal when there is no smoke.
+* The probability that the smoke detector gives a signal when there is no smoke.
+* The probability that the smoke detector gives a signal when there is smoke.
+
+
+Solution
+========
+  
+A: This is a type II error: the alternative hypothesis is correct (there is smoke), but the smoke detector does not signal. B: This is a correct decision with respect to H0; the power is the probability of a correct decision with respect to H1. C: This is a type I error: the null hypothesis is correct (there is no smoke), but the smoke detector gives a signal. D: Power is a correct decision with respect to H1: there is smoke and the smoke detector gives a signal.
+
+
+Answerlist
+----------
+* This is a type II error: the alternative hypothesis is correct (there is smoke), but the smoke detector does not give a signal.
+* This is a correct decision with respect to H0; the power is the probability of a correct decision with respect to H1.
+* This is a type I error: the null hypothesis is correct (there is no smoke), but the smoke detector gives a signal.
+* Power is a correct decision with respect to H1: there is smoke and the smoke detector gives a signal.
+
+Meta-information
+================
+exname: uu-Power-822-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/NHST/Power
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

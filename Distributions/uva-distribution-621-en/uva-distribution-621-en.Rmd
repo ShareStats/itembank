@@ -1,0 +1,37 @@
+Question
+========
+
+A variable A is normally distributed according to N(μ,σ^²^). We draw a sample of size *n* from this distribution, with mean
+$\bar{x}$ and sd s. Then it follows that the quantity $\frac{\bar{A}-\mu
+}{\frac{s}{\sqrt{n}}}$ the following distribution:
+
+Answerlist
+----------
+
+* N(0,1), the standard normal distribution
+* T[n], the T-distribution with n degrees of freedom
+* T[n-1], the T-distribution with n-1 degrees of freedom
+* N(μ,σ²), the normal distribution with mean μ and variance σ²
+
+Solution
+========
+
+Answerlist
+----------
+
+* N(0,1), the standard normal distribution: Incorrect
+* T[n], the T distribution with n degrees of freedom: Incorrect
+* T[n-1], the T distribution with n-1 degrees of freedom: Correct
+* N(μ,σ²), the normal distribution with mean μ and variance σ²: Incorrect
+
+Meta-information
+================
+exname: uva-distribution-621-en
+extype: schoice
+exsolution: 0010
+exsection: Distributions/Continuous/t-distribution
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2.081
+exextra[p-value]: 0.5415

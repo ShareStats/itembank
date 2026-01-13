@@ -1,0 +1,33 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-percentile-800-nl-tabel.jpg", recursive = TRUE)
+```
+
+Question
+========
+  
+What score $X$ corresponds to the 25th percentile? 
+
+![](uu-percentile-800-nl-tabel.jpg)
+  
+Answerlist
+----------
+* $X = 0.5$
+* $X = 1.0$	
+* $X = 1.5$
+* $X = 2$
+
+
+Solution
+========
+  
+For the 25th percentile at 12 observations, we look for the value in between the third and fourth values. In this case, those are 1 and 2.
+
+Meta-information
+================
+exname: uu-percentile-800-en
+extype: schoice
+exsolution: 0010
+exsection: Descriptive statistics/Score interpretation/Percentile
+exextra[Type]: Interpretating output
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

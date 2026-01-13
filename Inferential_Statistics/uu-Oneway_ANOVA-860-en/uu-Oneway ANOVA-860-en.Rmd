@@ -1,0 +1,33 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Oneway-ANOVA-860-nl-graph01.jpg", recursive = TRUE)
+```
+Question
+========
+A researcher hypothesized that 12-year-olds can perform single (single) tasks better than multiple (multiple) tasks. For this experiment, 30 children were divided equally and at random between the two conditions. In the single condition, they had to tick off errors in a text. In the multiple condition, they were asked the same question but were given a brief different task periodically unannounced. Testing was done at the 5% level. The ANOVA table below gives the results of this experiment:
+
+
+![](uu-Oneway-ANOVA-860-nl-graph01.jpg)
+
+This shows that:
+
+Answerlist
+----------
+* The research hypothesis should not be accepted because $F_{obt}$ < $F_{crit}$.
+* The research hypothesis should not be accepted because $F_{obt}$ > $F_{crit}$.
+* The research hypothesis must be accepted because $F_{obt}$ > $F_{crit}$.
+* The research hypothesis must be accepted because $F_{obt}$ < $F_{crit}$.
+
+
+Solution
+========
+
+Meta-information
+================
+exname: uu-Oneway ANOVA-860-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Interpretating output, Calculation
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

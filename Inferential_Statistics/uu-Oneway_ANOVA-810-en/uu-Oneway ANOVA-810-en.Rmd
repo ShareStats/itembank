@@ -1,0 +1,29 @@
+Question
+========
+Since August 2014, elementary school have had a "duty of care." This means that the school must find an appropriate place if a child needs extra support. There are three possibilities:
+- an offer at the own school (the school of registration);
+- An offer at another regular school;
+- an offer at a school for (secondary) special education. The principal at "De Regenboog" elementary school is troubled by such a care pupil and is looking for a solution. He considers all three of the above possibilities. He has 30 principals from other elementary schools assign a score from 0 to 10 on the desirability of the three solutions (10 principals per solution). Suppose the principal wants to test whether the solutions differ significantly from each other in desirability, what test does he need?
+
+  
+Answerlist
+----------
+* One-way ANOVA
+* Two-way ANOVA
+* $\chi^2$ Goodness of Fit
+* $\chi^2$ test for independence
+
+Solution
+========
+Each solution is rated separately by 10 independent directors. Thus, for each of the three solutions, we have 10 scores. We compare the mean scores (=dependent variable) across the three solutions (=groups, independent variable). By definition, this is a one-way ANOVA.
+
+Meta-information
+================
+exname: uu-Oneway ANOVA-810-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Case
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

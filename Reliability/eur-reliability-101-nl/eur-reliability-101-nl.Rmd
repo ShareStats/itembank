@@ -1,0 +1,35 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+Question
+========
+Hieronder vind je de waargenomen scores op twee parallelle vormen van een depressieschaal bestaande uit 8 items gescoord op een 5-punts Likertschaal.
+
+```{r, echo=FALSE}
+library(knitr)
+Participant <- 1:6
+Form1 <- c(17,21,14,28,32,24)
+Form2 <- c(19,23,11,24,34,21)
+table <- cbind(Participant, Form1, Form2)
+kable(table)
+```
+
+Bereken de betrouwbaarheid van de depressieschaal met behulp van de alternatieve betrouwbaarheidsschatting.
+
+
+Solution
+========
+De betrouwbaarheid van de depressieschaal kan worden geschat door de correlatie tussen de twee alternatieve vormen te berekenen. De correlatie is: $r_{F1,F2}$ = $\frac{38.67}{\sqrt{37.89 \times 46.67}} = .920$
+
+Meta-information
+================
+exname: eur-reliability-101-nl
+extype: num
+exsolution: .920
+extol: 0
+exsection: Reliability/Analysis/Parallel forms
+exextra[Type]: Calculation
+exextra[Program]: Calculator
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

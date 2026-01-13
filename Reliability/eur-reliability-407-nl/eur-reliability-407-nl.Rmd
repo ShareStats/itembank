@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-reliability-407-nl-data.sav", recursive = TRUE)
+include_supplement("eur-reliability-407-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een onderzoeker van het instituut voor psychologie doet onderzoek naar alcoholmisbruik onder adolescenten. De onderzoeker ontwierp 34 stellingen waar de adolescenten het mee eens of oneens kunnen zijn op een vierpuntsschaal (1 = helemaal mee eens; 2 = enigszins mee eens; 3 = enigszins mee oneens; 4 = helemaal mee oneens). Een voorbeeld van een stelling is: Als ik me eenzaam voel, drink ik graag een alcoholische drank. De antwoorden van 312 meisjes (0) en jongens (1) op de 34 stellingen staan in de dataset.
+
+Wat is de split-half betrouwbaarheid van Spearman-Brown? (3 decimalen)
+
+Open de dataset hieronder om deze vraag te beantwoorden:
+
+* Download** [SPSS file](eur-reliability-407-nl-data.sav), [CSV file](eur-reliability-407-nl-data.csv)
+
+
+Solution
+========
+De Spearman-Brown split-half betrouwbaarheid is 0,629.
+
+Meta-information
+================
+exname: eur-reliability-407-nl
+extype: num
+exsolution: 0.629
+extol: 0
+exsection: Reliability/Analysis/Split half
+exextra[Type]: Interpreting output, Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

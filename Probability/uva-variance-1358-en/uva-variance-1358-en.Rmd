@@ -1,0 +1,39 @@
+Question
+========
+
+A population contains five numbers: 2, 3, 6, 8 and 11. Suppose you select 2 numbers at random (with return) from this population, then there are 25 possibilities. These possibilities are shown below:Ê \
+
+  -------- -------- -------- -------- --------- (2,2) (2,3) (2,6) (2,8) (2,11) (3,2) (3,3) (3,6) (3,8) (3,11) (6,2) (6,3) (6,6) (6,8) (6,11) (8,2) (8,3) (8,6) (8,8) (8,11) (11,2) (11,3) (11,6) (11,8) (11,11) -------- -------- -------- -------- ---------
+
+\ What then is the expected standard deviation for the sample averages?
+
+Answerlist
+----------
+
+* 2,32
+* 5,40
+* 6
+* 25
+
+Solution
+========
+
+Answerlist
+----------
+
+* 2.32: Correct
+* 5.40: Incorrect
+* 6: Incorrect
+* 25: Incorrect
+
+Meta-information
+================
+exname: uva-variance-1358-en
+extype: schoice
+exsolution: 1000
+exsection: Probability/Elementary Probability/Random variables/Variance
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

@@ -1,0 +1,45 @@
+Question
+========
+30 werknemers van een multinational vulden twee keer een vragenlijst in, waarin onder andere werd geregistreerd hoeveel tijd (gemeten in aantal minuten per week) werknemers besteedden aan verschillende activiteiten, zoals het bijwonen van vergaderingen en het beantwoorden van e-mails. De eerste meting vond een maand voorafgaand aan een cursus 'effectief vergaderen', en de tweede meting twee maanden na afloop van deze cursus. Een onderzoeker verwacht dat de cursus effect heeft gehad en dat medewerkers na de cursus minder tijd besteden aan vergaderingen na de cursus. Stel dat onderstaande resultaten zijn gevonden. De hypothese wordt getest met een significantieniveau van 5% (alpha = 0,05).  
+  
+
+<table class="tvcss_2 tvcss_3"> <tbody> <tr class="odd"> <td class="tvcss_4">N</td> <td class="tvcss_5">gemiddelde tijd (meting 1)</td> <td class="tvcss_6">gemiddelde tijd (meting 2)</td> <td class="tvcss_7">gemiddeld verschil </td> <td class="tvcss_8">standaardfout (se) van het gemiddelde verschil </td> </tr> <tr class="even"> <td class="tvcss_4">30</td> <td class="tvcss_5">56,2 minuten per week</td> <td class="tvcss_6">51.9 minuten per week </td> <td class="tvcss_7">4.3</td> <td class="tvcss_8">2.2</td> </tr> </tbody> </table>
+
+  
+Is de nulhypothese H<sub>0</sub> verworpen?
+
+Answerlist
+----------
+* Ja, want: de absolute waargenomen t-waarde &gt; de kritische t-waarde.
+* Nee, want: de absolute waargenomen t-waarde &gt; de kritische t-waarde.
+* Ja, want: de absolute waargenomen t-waarde &lt; de kritische t-waarde.
+* Nee, want : de absolute waargenomen t-waarde &lt; de kritische t-waarde.
+
+Solution
+========
+
+De t-waarde wordt berekend door t = (mean1 -mean2) / se = 1,95.  
+  
+In tabel B is de kritische waarde; df = 29; alpha = 0,05; eenzijdig, dus t = 1.70.  
+  
+Dus waargenomen t-waarde &gt; kritieke t-waarde.
+
+Answerlist
+----------
+* Waar
+* Onwaar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-paired samples-1147-nl
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/t-test/paired samples
+exextra[Type]: performing analysis
+exextra[Program]: calculator
+exextra[Language]: Dutch
+exextra[Level]: statistical thinking
+

@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Post-hoc-test-811-nl-graph01.jpg", recursive = TRUE)
+```
+Question
+========
+A study of reading comprehension compares three research conditions: 1) "text on paper," 2) "text on iPad," and 3) "text and animations on iPad." After reading the text, students take a test that determines how well they understood the text. The researchers used a one-way ANOVA to determine that the mean scores on the test differed for the three study conditions, F(2, 97) = 14.63, p < .001, $\eta^2$ = .23.
+
+Which conclusion is warranted based on the output below?
+
+![](uu-Post-hoc-test-811-nl-graph01.jpg)
+
+Answerlist
+----------
+* Students in the "Text on iPad" condition scored significantly higher on the test than students in the "Text and animations on iPad" condition.
+* Students in the condition "Text on iPad" score significantly lower on the test than students in the other two conditions.
+* Students in the "Text on iPad" and "Text and animations on iPad" conditions both score significantly higher on the test than students in the "Text on paper" condition.
+* Students in the "Text and animations on iPad" condition score significantly higher on the test than students in the other two conditions.
+
+
+Solution
+========
+
+Meta-information
+================
+exname: uu-Post-hoc test-811-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Post-hoc test
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Reasoning

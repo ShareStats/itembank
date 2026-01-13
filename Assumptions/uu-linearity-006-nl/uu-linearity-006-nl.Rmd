@@ -5,10 +5,11 @@ include_supplement("uu-linearity-006-nl-tabel.jpg", recursive = TRUE)
 
 Question
 ========
-De onderstaande figuur is afkomstig uit een onderzoek onder MBO-studenten naar de invloed van de begeleiding van de praktijkopleiders op ontwikkeling van de zelfstandigheid van de studenten. De samenhang tussen de hoeveelheid begeleiding (X-as) en de ontwikkeling van zelfstandigheid (Y-as) is weergegeven in een spreidingsdiagram.
+De onderstaande figuur is afkomstig uit een onderzoek onder MBO-studenten naar de invloed van de begeleiding door praktijkdocenten op de ontwikkeling van de zelfstandigheid van studenten. De relatie tussen de hoeveelheid begeleiding (X-as) en de ontwikkeling van zelfstandigheid (Y-as) wordt weergegeven in een spreidingsdiagram.
 
-Wanneer je dit spreidingsdiagram als uitgangspunt neemt, welke assumptie is dan bij analyse van de lineaire regressie van begeleiding op zelfstandigheid duidelijk geschonden?
+Als we dit spreidingsdiagram als uitgangspunt nemen, welke aanname wordt dan duidelijk geschonden bij het analyseren van de lineaire regressie van begeleiding op zelfeffectiviteit?
 
+Vertaald met DeepL.com (gratis versie)
 ![](uu-linearity-006-nl-tabel.jpg)
 
 Answerlist
@@ -16,21 +17,19 @@ Answerlist
 * Homoscedasticiteit
 * Lineariteit
 * Multicollineariteit
-* Interval meetniveau van de afhankelijke variabele
+* Intervalmeetniveau van de afhankelijke variabele
 
 
 Solution
 ========
 
-
-
 Meta-information
 ================
-exname: uu-linearity-006-nl.Rmd
+exname: uu-linearity-006-nl
 extype: schoice
 exsolution: 0100
 exsection: Assumptions/Linearity
 exextra[Type]: Interpreting graph
 exextra[Program]: SPSS
-exextra[Language]: Dutch
+exextra[Language]: English
 exextra[Level]: Statistical Literacy

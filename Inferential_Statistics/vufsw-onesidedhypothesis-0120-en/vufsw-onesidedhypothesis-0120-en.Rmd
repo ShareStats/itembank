@@ -1,0 +1,49 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Screen__Shot__2020-04-22__at__14.08.43.png", recursive = TRUE)
+```
+
+Question
+========
+One survey included the following question on the extent to which a person has confidence in the police. This variable is called "**Police**".  
+The researcher expects that people with a migration background have less trust the police than people without a migration background and wants a single regression analysis to find out if this is so. She uses the dummy variable "**Migration background" **as** **independent variable and tests one-way with α = 0.05 (alpha =5%).  
+  
+What is the appropriate **zero hypothesis** and **alternative hypothesis** that belongs to this one-sided testing?  
+  
+![](Screen__Shot__2020-04-22__at__14.08.43.png)
+
+Answerlist
+----------
+* Zero hypothesis (H<sub>0</sub>): *ß* ≠ 0. Alternative hypothesis (H<sub>a</sub>): *ß* = 0.
+* Zero hypothesis (H<sub>0</sub>): *ß* = 0. Alternative hypothesis: *ß* &lt; 0.
+* Null hypothesis (H<sub>0</sub>): *ß* = 0. Alternative hypothesis (H<sub>a</sub>): *ß ≠ 0.*
+* Zero hypothesis (H<sub>0</sub>): *ß* &gt; 0. Alternative hypothesis (H<sub>a</sub>): *ß ≠ 0.*
+
+Solution
+========
+
+Language Dutch
+
+Levels of Difficulty Easy
+
+M&T Basics of quantitative research Basics of quantitative research
+
+M&T BIS Default value
+Answerlist
+----------
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-onesidedhypothesis-0120-en
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: inferential statistics/nhst/hypothesis/one sided hypothesis
+exextra[Type]: test choice
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

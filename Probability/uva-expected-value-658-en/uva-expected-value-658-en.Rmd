@@ -1,0 +1,25 @@
+Question
+========
+
+In korfball, shot percentage is tracked for each player. If John has a shot percentage of 25%, he scores on one out of every four goal attempts. John has two goal attempts. Below is a table, *X* is chance variable and the number of hits *X* on these two goal attempts can take the values 0, 1 or 2.
+
+  ------ ------ ------ ------ *X* 0 1 2 probability 0.56 0.38 0.06 ------ ------ ------ ------
+
+What is the expected score on two goal attempts? Round to two decimal places.
+
+Solution
+========
+
+The correct answer is: 0.5
+
+Meta-information
+================
+exname: uva-expected-value-658-en
+extype: num
+exsolution: 0.5
+exsection: Probability/Elementary Probability/Random variables/Expected value
+exextra[Type]: Calculation
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.859
+exextra[p-value]: 0.0119

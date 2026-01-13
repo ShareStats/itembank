@@ -1,0 +1,49 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+
+Question
+========
+In het volgende onderzoek willen we weten hoe 100 "PvdA"+"VVD" stemmers denken over de partij waar ze op dit moment op gestemd hebben.
+
+Bereken de Chi-kwadraat.
+
+```{r, echo = FALSE}
+Positive <- c(10, 20)
+Negative <- c(30, 40)
+table <- rbind(Positive, Negative)
+colnames(table) <- c("PvdA", "VVD")
+kable(table, caption = "Voted")
+```
+
+Answerlist
+----------
+* $\chi^2 = 1.14$
+* $\chi^2 = 0.86$
+* $\chi^2 = 0.79$
+* $\chi^2 = 0.68$
+
+
+Solution
+========
+The correct answer is 0.79.
+
+Answerlist
+----------
+* This answer is incorrect
+* This answer is incorrect
+* This is the correct answer!
+* This answer is incorrect
+
+Meta-information
+================
+exname: eur-inferential_statistics-116-nl
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/NHST/Test statistic/Chi-squared
+exextra[Type]: Calculation
+exextra[Program]: Calculator
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exshuffle: FALSE

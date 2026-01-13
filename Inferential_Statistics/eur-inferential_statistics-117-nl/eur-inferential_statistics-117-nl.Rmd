@@ -1,0 +1,45 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(exams)
+library(knitr)
+```
+
+Question
+========
+In een willekeurige steekproef van 60 huishoudens uit Stad 1 versieren 45 huishoudens hun huis tijdens de feestdagen. In een aselecte steekproef van 50 huishoudens uit de nabijgelegen stad 2 versieren 40 huishoudens hun huis. We willen het verschil in het percentage huishoudens dat hun huis versiert schatten met een 95% betrouwbaarheidsinterval. Wat is de standaardfout van de grote steekproef voor het verschil in steekproefproporties?
+
+Answerlist
+----------
+* 0.040
+* 0.0795
+* 0.0802
+* 0.1125
+
+
+Solution
+========
+Het juiste antwoord is 0,0975
+
+Answerlist
+----------
+* Dit antwoord is onjuist
+* Dit is het goede antwoord!
+* Dit antwoord is onjuist
+* Dit antwoord is onjuist
+
+Meta-information
+================
+exname: eur-inferential_statistics-117-nl
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/z-test/Two proportions, Inferential Statistics/Confidence Intervals/Confidence level
+exextra[Type]: Calculate
+exextra[Program]: Calculator
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
+exshuffle: FALSE

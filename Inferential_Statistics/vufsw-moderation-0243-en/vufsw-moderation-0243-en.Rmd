@@ -1,0 +1,46 @@
+Question
+========
+Below is a regression equation of a moderation model. The dependent variable "**PINC**" is personal monthly income (net, in euros). "**MAN**" is a dummy variable (female = 0; male =1); "**FULLTIME**" is a dummy variable indicating whether a person works 32 hours or more (score 1) or less than 32 hours of paid work per week (score 0).  
+  
+PINC = 1381 + 644\*MAN + 742\*FULLTIME - 128\*FULLTIME.  
+  
+Suppose we want to test whether the moderation effect (idem: interaction effect) of MAN on the relationship between FULLTIME and PINC is significant. What should we do then?
+
+Answerlist
+----------
+* We should then check whether the value -128 is significantly different from 0.
+* We must then check whether the value 742 is significantly different from 0.
+* We must then check whether the difference between the value 742 and the value 644 deviates significantly from 0.
+* We must then verify that the difference between the value 742 and the value -128 is significantly different from 0.
+* We must then verify that the difference between the value 644 and the value -128 is significantly different from 0.
+
+Solution
+========
+
+Language Dutch
+
+Levels of Difficulty Easy
+
+M&T Basics of quantitative research Basics of quantitative research
+
+M&T BIS Default value
+Answerlist
+----------
+* True
+* False
+* False
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-moderation-0243-en
+extype: schoice
+exsolution: 10000
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression/moderation
+exextra[Type]: performing analysis
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

@@ -1,0 +1,39 @@
+Question
+========
+
+50 Patients are randomly nursed on one of two types of mattresses, and after three days they are assessed for signs of pressure ulcers. (bedsores):
+
+  --------------- ------------------- ------------------------- frequency some pressure ulcers (D) no pressure ulcers (not D) mattress type I 8 12 mattress type II 10 20 --------------- ------------------- -------------------------
+
+We want to know whether pressure ulcer formation is (in)dependent on the mattress type used. mattress type. Indicate which of the following reasoning is correct.
+
+Answerlist
+----------
+
+* Dependent, because P(D ∩ I) ≠ 0
+* Dependent, because P(D | I) ≠ P(D)
+* Independent, because P(D | I) = P(I)
+* Independent, because P(D ∪ I) = P(D) + P(I) - P(D ∩ I)
+
+Solution
+========
+
+Answerlist
+----------
+
+* Dependent, because P(D ∩ I) ≠ 0: Incorrect
+* Dependent, because P(D | I) ≠ P(D): Correct
+* Independent, because P(D | I) = P(I): Incorrect
+* Independent, because P(D ∪ I) = P(D) + P(I) - P(D ∩ I): Incorrect
+
+Meta-information
+================
+exname: uva-independent-events-406-en
+extype: schoice
+exsolution: 0100
+exsection: Probability/Elementary Probability/General Rules/Independent events
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.001
+exextra[p-value]: 0.3027

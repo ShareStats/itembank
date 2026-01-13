@@ -1,0 +1,39 @@
+Question
+========
+
+Below is part of an ANOVA table belonging to a CRD ANOVA with 5 groups and 3 measurements per group.
+
+  --------------- ---- ---- ---- --- --- Source of variation df SS MS F P Among groups 4 48 Within groups 10 15 Total 14 63 --------------- ---- ---- ---- --- ---
+
+Suppose one wants to test each of the 5 groups in pairs against each other; here are 10 keys. For this one uses bilateral keys with Bonferroni correction, with a **total** risk of (here) 10%. What is then the critical value of such a T-test?
+
+Answerlist
+----------
+
+* 3.169
+* 2.764
+* 4.604
+* 2.576
+
+Solution
+========
+
+Answerlist
+----------
+
+* 3.169: Correct
+* 2,764: Incorrect
+* 4,604: Incorrect
+* 2,576: Incorrect
+
+Meta-information
+================
+exname: uva-oneway-anova-636-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Calculation
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.308
+exextra[p-value]: 0.0686

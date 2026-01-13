@@ -1,0 +1,39 @@
+Question
+========
+
+Below is an incomplete ANOVA table, belonging to a Randomized Complete Block ANOVA.
+
+  -------------- ---- ---- ------ ------ Source of variation SS df MS F Group 3 39.0 8.67 Block 2 22.5 5.00 Error 6 4.5 Total 11 -------------- ---- ---- ------ ------
+
+We want to test the null hypothesis that there is no group effect, with 5% risk. The test result is
+
+Answerlist
+----------
+
+* Significant, reject H0
+* Significant, do not reject H0
+* Not significant, reject H0
+* Not significant, do not reject H0
+
+Solution
+========
+
+Answerlist
+----------
+
+* Significant, reject H0: Correct
+* Significant, do not reject H0: Incorrect
+* Not significant, reject H0: Incorrect
+* Not significant, reject H0: Incorrect
+
+Meta-information
+================
+exname: uva-oneway-anova-542-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.381
+exextra[p-value]: 0.0335

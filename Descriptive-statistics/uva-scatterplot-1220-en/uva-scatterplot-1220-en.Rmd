@@ -1,0 +1,37 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-scatterplot-1220-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Two nurses (vpk1 and vpk2) measure 41 patients' heart rates in close each other's heart rates. The results are shown in the attached scatterplot, accompanied by a 45-degree line through the origin.Ê When a point is below the line it means:
+
+![](uva-scatterplot-1220-nl-graph01.png)
+
+Answerlist
+----------
+
+* Vpk1 measured a higher value than vpk2
+* Vpk1 measured a lower value than vpk2
+
+Solution
+========
+
+Answerlist
+----------
+
+* Vpk1 has measured a higher value than vpk2: Correct
+* Vpk1 measured a lower value than vpk2: Incorrect
+
+Meta-information
+================
+exname: uva-scatterplot-1220-en
+extype: schoice
+exsolution: 10
+exsection: Descriptive statistics/Data representation/Graphs/Scatterplot
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4
+exextra[p-value]: 0.115

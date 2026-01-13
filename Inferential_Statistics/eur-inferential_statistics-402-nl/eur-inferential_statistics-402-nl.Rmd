@@ -1,0 +1,31 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-402-en-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-402-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Een kennistest over alcohol bevat 20 items en wordt afgenomen bij 202 middelbare scholieren. De variabele [totaalscore] geeft de totale juiste scores. Geslacht (0 = vrouw; 1 = man) en alcoholgebruik (0 = heel vaak; 1 = vaak; 2 = soms; 3 = nooit) zijn ook opgenomen in de dataset.
+
+Een onderzoeker denkt dat er een verschil is in totaalscore tussen studenten die a) heel vaak, b) vaak, c) soms en d) nooit drinken (variabele [alcohol_gebruik]). Voer een Anova uit om het verschil in alcoholgebruik tussen deze groepen studenten te onderzoeken. Wat is de effectgrootte (partiële eta kwadraat) van dit effect? (3 decimalen)
+
+Open de dataset hieronder om deze vraag te beantwoorden:
+
+* Download** [SPSS file](eur-inferential_statistics-402-en-data.sav), [CSV file](eur-inferential_statistics-402-en-data.csv)
+
+
+Solution
+========
+De effectgrootte (partiële eta kwadraat) van het effect van alcoholgebruik op de totaalscore is 0,007 (voer een ANOVA uit met behulp van General Linear Model: Univariate en vraag om schattingen van de effectgrootte).
+
+Meta-information
+================
+exname: eur-inferential_statistics-402-nl
+extype: num
+exsolution: 0.007
+extol: 0
+exsection: Inferential Statistics/Effect size/Eta squared, Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Interpreting output, Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

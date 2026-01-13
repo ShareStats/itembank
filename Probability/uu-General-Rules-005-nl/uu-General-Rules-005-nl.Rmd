@@ -1,0 +1,33 @@
+Question
+========
+  
+Vijf leerlingen voeren vijf verschillende experimenten uit. Elk van de vijf experimenten heeft vijf mogelijke uitkomsten, aangeduid door $A, B, C, D,$ en $E$. Er zijn geen enere uitkomsten mogelijk. Laat $P(A), P(B), P(C), P(D),$ en $P(E)$ de waarschijnlijkheid weergeven waarmee deze uitkomsten worden waargenomen. Op basis van hun gegevens schatten de leerlingen deze kansen als volgt:
+
+Student 1: $P(A)=0.15, P(B)=0.25, P(C)=0.13, P(D)=0.37, P(E)=0.10$
+
+Student 2: $P(A)=0.21, P(B)=0.26, P(C)=0.54, P(D)=0.02, P(E)=0.04$
+
+Student 3: $P(A)=0.23, P(B)=0.47, P(C)=0.19, P(D)=0.05, P(E)=0.06$
+
+Student 4: $P(A)=0.10, P(B)=0.30, P(C)=0.10, P(D)=0.60, P(E)=-0.10$
+
+Student 5: $P(A)=0.17, P(B)=0.23, P(C)=0.15, P(D)=0.45, P(E)=0.03$
+
+Welke van de leerlingen heeft zeker een rekenfout gemaakt? Leg uit waarom je denkt dat ze een fout hebben gemaakt. Meerdere antwoorden zijn mogelijk. 
+
+Solution
+========
+Student 2: De som van de kansen is groter dan 1.
+
+Student 4: Een kans kan niet negatief zijn.
+
+Student 5: De som van de kansen is groter dan 1.
+
+Meta-information
+================
+exname: uu-General-Rules-005-en.Rmd
+extype: string
+exsolution: 2, 4 en 5
+exsection: Probability/Elementary Probability/General Rules
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

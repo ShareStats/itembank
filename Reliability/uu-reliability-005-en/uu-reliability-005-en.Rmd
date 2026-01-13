@@ -1,0 +1,35 @@
+Question
+========
+  
+In an experiment on sensitivity to environmental noise when performing cognitive tasks, participants are given ten tasks. The reliability rXX' of this test (calculated over the composite score of the ten tasks) is .60. A researcher decides to expand it by five equivalent tasks.
+
+The estimated reliability of the extended test (rvv') is then:
+
+
+Answerlist
+----------
+* Rvv' is less than or equal to 0.60
+* Rvv' is greater than 0.60 but less than or equal to 0.70
+* Rvv' is greater than 0.70 but less than or equal to 0.80
+* Rvv' is greater than 0.80
+
+Solution
+========
+  
+We first determine the extension factor:
+
+$v= \frac {k'}{k} = \frac {Nieuwe aantal items} {Oorspronkelijk aantal items} = \frac {15}{10} = 1.50$
+
+We know that the original reliability of the test was .60. Using the SPearman Brown formula, we calculate the estimated reliability of the extension test:
+
+$r_{vv'} = \frac {v * r_{oo'}} {1 + (v-1)r{oo'}} = \frac {1.50 * 0.60}  {1+ (1.50-1) * 0.60} = \frac {0.90}{1.30} = 0.69 $
+
+Meta-information
+================
+exname: uu-reliability-005-en
+extype: schoice
+exsolution: 0100
+exsection: Reliability
+exextra[Type]: Calculation
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

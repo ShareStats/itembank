@@ -1,0 +1,29 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-128-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-128-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Open het SPSS-bestand.
+
+Een onderzoeker wil de 7-puntsschaal voor Stelling 2 (variabele Stelling2) hercoderen naar een 5-puntsschaal: de antwoordopties 1 en 2 worden samengevoegd tot categorie 2 en de antwoordopties 6 en 7 worden samengevoegd tot categorie 6. De andere opties blijven hetzelfde, d.w.z. 3 = 3, 4 = 4 en 5 = 5. Bereken het gemiddelde examencijfer voor vak 1.3 (variabele vak1_3) voor studenten in de nieuwe categorie 6 van opgave 2. Rond je antwoord af op 5 decimalen.
+
+* Download**: [SPSS file](eur-descriptive-128-en-data.sav), [CSV file](eur-descriptive-128-en-data.csv)
+
+
+Solution
+========
+Het gemiddelde eindexamencijfer voor vak 1.3 voor studenten in de nieuwe categorie 6 van opgave 2 is 4,63364.
+
+Meta-information
+================
+exname: eur-descriptive-128-nl
+extype: num
+exsolution: 4.63364
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Location/Mean
+exextra[Type]: Calculation, Data manipulation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

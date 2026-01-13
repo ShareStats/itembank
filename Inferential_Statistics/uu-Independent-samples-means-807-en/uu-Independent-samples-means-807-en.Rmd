@@ -1,0 +1,30 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-ANOVA-800-nl-tabel.jpg", recursive = TRUE)
+```
+
+Question
+========
+  
+The alternative hypothesis drawn up by a researcher reads H1: $\mu$1 $$neq$ $\mu$2. It shall decide on a $\alpha$ = 5% to use and she calculates tobt = 1.97 with df = 9. What should she report ?
+
+  
+Answerlist
+----------
+* The results are significant with $\alpha$ = .05, tested one way.
+* Results are significant with $\alpha$ = .01, two-sided test.
+* Results are not significant.  
+* Results are not significant when tested two-sided, but are significant when tested one-sided.
+
+
+Solution
+========
+
+Meta-information
+================
+exname: uu-Independent-samples-means-807-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/t-test/Independent samples means
+exextra[Type]: Case
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

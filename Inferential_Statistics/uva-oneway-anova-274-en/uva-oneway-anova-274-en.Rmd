@@ -1,0 +1,39 @@
+Question
+========
+
+Below is the (incomplete) ANOVA table of a CRD-ANOVA (Completely Randomized Design ANOVA), which was performed on data that were collected from 16 individuals divided into 4 groups.
+
+  --------------- ----- ---- ---- ----- Source of variation SS df MS F Among groups 8.0 Within groups 60 12 Total 180 --------------- ----- ---- ---- -----
+
+For testing H~0~: μ~1~ = μ~2~ = μ~3~ = μ~4~ against H~1~: not all population averages are equal the F value from the ANOVA table is compared with the critical value from the F-distribution. At a risk of 5%, the conclusion should be
+
+Answerlist
+----------
+
+* Critical value is 3.13, reject H0.
+* Critical value is 3.49, do not reject H0.
+* Critical value is 3.49, reject H0.
+* Critical value is 8.74, do not reject H0.
+
+Solution
+========
+
+Answerlist
+----------
+
+* Critical value is 3.13, reject H0...: Incorrect
+* Critical value is 3.49, do not reject H0...: Incorrect
+* Critical value is 3.49, reject H0...: Correct
+* Critical value is 8.74, do not reject H0...: Incorrect
+
+Meta-information
+================
+exname: uva-oneway-anova-274-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 4.268
+exextra[p-value]: 0.0732

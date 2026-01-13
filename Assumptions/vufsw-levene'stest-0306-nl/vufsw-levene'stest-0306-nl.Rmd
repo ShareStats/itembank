@@ -1,40 +1,26 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("Capture.gif")
-include_supplement("Capture1.gif")
+include_supplement("Capture.gif", recursive = TRUE)
+include_supplement("Capture1.gif", recursive = TRUE)
 ```
 
 Question
 ========
-We analyseren of de prestaties van scholieren verschillen tussen 3
-vakken: literatuur, essay writing en wiskunde (ze staan in deze volgorde
-in de dataset). Daarnaast onderzoeken wij of de eventuele verschillen
-tussen de 3 vakken variëren tussen mannelijke en vrouwelijke scholieren.
-Daarom gebruiken wij een Mixed Design ANOVA. De output van deze analyse
-staat hieronder. "**Female**" is gecodeerd als 0: man, 1: vrouw.  
-Is de assumptie van de homogeniteit van de varianties geschonden (zie
-onderstaande output)? 
+We analyseren of de prestaties van leerlingen verschillen tussen drie vakken: literatuur, essay schrijven en wiskunde (ze staan in deze volgorde in de dataset). Daarnaast onderzoeken we of er verschillen zijn tussen de drie vakken tussen mannelijke en vrouwelijke scholieren. Daarom gebruiken we een gemengde ANOVA-ontwerp. 
+De output van deze analyse wordt hieronder weergegeven. “**Vrouw**” is gecodeerd als 0: man, 1: vrouw.
+Is de aanname van homogeniteit van varianties geschonden (zie output hieronder)?
   
 ![](Capture.gif)
 ![](Capture1.gif)
 
 Answerlist
 ----------
-* Ja, bij writing score
-* Ja, bij reading score
-* Ja, bij math score
-* Nee, bij geen enkel vak.
+* Ja, voor schrijfvaardigheid
+* Ja, voor leesvaardigheid
+* Ja, voor rekenen
+* Nee, voor geen enkel vak.
 
 Solution
 ========
-
-
-
-
-
-
-
-
-
 
 Answerlist
 ----------

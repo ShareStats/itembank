@@ -1,0 +1,39 @@
+Question
+========
+
+Below is the (incomplete) ANOVA table of a CRD-ANOVA (Completely Randomized Design ANOVA), which was performed on data that were collected from 16 individuals divided into 4 groups.
+
+  --------------- ----- ---- ---- ----- Source of variation SS df MS F Among groups 8.0 Within groups 60 12 Total 180 --------------- ----- ---- ---- -----
+
+When we have compared the population averages pairwise using. the LSD test, and we want to apply a Bonferroni correction, then the risk per test is obtained by the total risk
+
+Answerlist
+----------
+
+* Dividing by 4
+* Multiply by 4
+* Divide by 6
+* Multiply by 6
+
+Solution
+========
+
+Answerlist
+----------
+
+* Divide by 4: Incorrect
+* Multiply by 4: Incorrect
+* Divide by 6: Correct
+* Multiply by 6: Incorrect
+
+Meta-information
+================
+exname: uva-oneway-anova-275-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 3.848
+exextra[p-value]: 0.148

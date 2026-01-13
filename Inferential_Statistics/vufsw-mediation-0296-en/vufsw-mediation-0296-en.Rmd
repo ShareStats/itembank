@@ -1,0 +1,43 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("mediation.png", recursive = TRUE)
+```
+
+Question
+========
+Look at the mediation model below. What reflects the effect of the mediator on the dependent variable?  
+  
+![](mediation.png)
+
+Answerlist
+----------
+* *c*
+* *c'*
+* *a*
+* *b*
+* B*
+
+Solution
+========
+
+In a mediation model with this notation: c: total effect c': direct effect αb: indirect effect α: effect of independent on the mediator b: effect of mediator on dependent
+
+Answerlist
+----------
+* False
+* False
+* False
+* True
+* False
+
+Meta-information
+================
+exname: vufsw-mediation-0296-en
+extype: schoice
+exsolution: 00010
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression/mediation
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

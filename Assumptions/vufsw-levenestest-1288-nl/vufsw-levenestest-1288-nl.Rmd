@@ -1,45 +1,24 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("Untitled.png")
+include_supplement("Untitled.png", recursive = TRUE)
 ```
 
 Question
 ========
-In een onderzoek van studenten Communicatiewetenschap (Van Dun,
-Emanuels, Visser en De Wilde, 2011) kregen respondenten een foto van een
-meisje voorgelegd die preppy, bohemian of stoer gekleed was (variabele:
-subculture, 1 preppy; 2 bohemian; 3 stoer (‘cool’)). De respondenten,
-random verdeeld over de drie condities, moesten de populariteit van het
-meisje beoordelen. De afhankelijke variabele is de populariteit in zin
-van ‘social preference ‘ met items als “Met dit meisje …. “zou ik willen
-omgaan”, en …. “zou ik vrienden mee willen zijn” (variabele: sp, schaal
-1-5, een hogere score betekent dat het meisje populairder is). De
-hypothese is dat de kledingstijl leidt tot verschillende beoordelingen
-van de populariteit van het meisje. Hieronder staan enkele resultaten
-van een ANOVA. 
+In een onderzoek door studenten Communicatiewetenschappen (Van Dun, Emanuels, Visser en De Wilde, 2011) kregen de respondenten een foto te zien van een meisje dat gekleed was in preppy, bohemien of cool (variabele: subcultuur, 1 preppy; 2 bohemien; 3 cool (‘cool’)). De respondenten, die willekeurig aan de drie condities waren toegewezen, moesten de populariteit van het meisje beoordelen. De afhankelijke variabele is populariteit in termen van ‘sociale voorkeur’ met items als “Met dit meisje ... zou ik graag omgaan” en ... “zou ik vrienden willen zijn” (variabele: sp, schaal 1-5, een hogere score betekent dat het meisje populairder is). De hypothese is dat kledingstijl leidt tot verschillende beoordelingen van de populariteit van het meisje. Hieronder staan enkele resultaten van een ANOVA.
 
 ![](Untitled.png)
 
-Is volgens de betreffende toets aan de assumptie van gelijke varianties
-in de groepen voldaan? Uit welk getal leid je dat af?
+Volgens de betreffende test, wordt de aanname van gelijke varianties in de groepen vervuld? Uit welk getal leidt u dat af?
 
 Answerlist
 ----------
-* Ja, dat leid ik af uit *F*(2,113) = .474, *p* = .624
-* Nee, dat leid ik af uit *F*(2,113) = .474, *p* = .624
-* Ja, dat leid ik af uit *F*(2,113) = 1.292, *p* = .279
-* Nee, dat leid ik af uit *F*(2,113) = 1.292, *p* = .279
+* Ja, dat leid ik af uit *F*(2,113) = 0,474, *p* = 0,624
+* Nee, dat leid ik af uit *F*(2,113) = 0,474, *p* = 0,624
+* Ja, dat leid ik af uit *F*(2,113) = 1,292, *p* = 0,279
+* Nee, dat leid ik af uit *F*(2,113) = 1,292, *p* = 0,279
 
 Solution
 ========
-
-
-
-
-
-
-
-
-
 
 Answerlist
 ----------

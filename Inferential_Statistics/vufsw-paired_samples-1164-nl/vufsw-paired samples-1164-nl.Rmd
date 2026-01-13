@@ -1,0 +1,43 @@
+Question
+========
+De medische faculteit van de VU voert een onderzoek uit naar de effectiviteit van een product dat moet leiden tot gewichtsvermindering. Hiervoor wordt het gewicht (in kilo's) voor het gebruik van het product vergeleken met het gewicht in een groep van 20 personen nadat het product drie weken is gebruikt door de onderzochte personen. weken door de onderzochte personen.  
+  
+Waarom zou de onafhankelijke t-toets **niet** gebruikt moeten worden voor deze analyse?
+
+Answerlist
+----------
+* Het gewicht wordt niet gemeten op een ratio-schaal.
+* De hypothese van de onderzoeker is dat het product effectief is, dus dat de mate van gewichtsvermindering en het gebruik van het product niet onafhankelijk van elkaar zijn.
+* De twee steekproeven die vergeleken worden zijn dezelfde personen, dus ze zijn niet onafhankelijk zijn van elkaar.
+* De twee monsters die vergeleken worden, worden gemeten door dezelfde faculteit, dus zijn ze niet onafhankelijk van elkaar.
+
+Solution
+========
+
+Omdat het dezelfde mensen zijn, is de steekproef niet onafhankelijk.  
+De twee steekproeven die vergeleken worden zijn dezelfde personen, dus ze zijn niet onafhankelijk van elkaar.
+
+Moeilijkheidsniveaus Gemakkelijk
+
+M&T Hypothese testen: gemiddelden Standaardwaarde
+
+M&T Modelselectie Standaardwaarde
+Answerlist
+----------
+* Onwaar
+* Onwaar
+* Waar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-paired samples-1164-nl
+extype: schoice
+exsolution: 0010
+exshuffle: TRUE
+exsection: inferential statistics/parametric techniques/t-test/paired samples
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: Dutch
+exextra[Level]: statistical reasoning
+

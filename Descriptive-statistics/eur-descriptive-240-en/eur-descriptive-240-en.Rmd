@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-240-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-240-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+What is the variance of scores on the final French exam (variable: French). Write your answer in the answer box (using 3 decimal places).
+
+* Download**: [SPSS file](eur-descriptive-240-en-data.sav), [CSV file](eur-descriptive-240-en-data.csv)
+
+
+Solution
+========
+The correct answer is 6,224.
+
+Meta-information
+================
+exname: eur-descriptive-240-en
+extype: num
+exsolution: 6.224
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Measures of Spread/Variance
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

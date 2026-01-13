@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Oneway-ANOVA-879-nl-tabel.jpg", recursive = TRUE)
+```
+
+Question
+========
+  
+From a study, the result is presented in the ANOVA table below
+
+![](uu-Oneway-ANOVA-879-nl-tabel.jpg)
+
+This shows that: 
+Answerlist
+----------
+* The result found is not significant at 5% because $F_{obt}$ < $F_{crit}$.
+* The result found is not significant at 5% because $F_{obt}$ > $F_{crit}$
+* The result found is significant at 5% because $F_{obt}$ > $F_{crit}$.
+* The result found is significant at 5% because $F_{obt}$ < $F_{crit}$.
+
+
+Solution
+========
+
+Meta-information
+================
+exname: uu-Oneway ANOVA-879-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Oneway ANOVA
+exextra[Type]: Interpretating graph
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

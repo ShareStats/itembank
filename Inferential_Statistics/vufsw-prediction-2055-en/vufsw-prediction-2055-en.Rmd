@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("Schermafbeelding__2019-01-30__om__14.25.40.png", recursive = TRUE)
+```
+
+Question
+========
+![](Schermafbeelding__2019-01-30__om__14.25.40.png)
+  
+In the above analysis, the dependent variable is attitude toward culture (1-4, higher score = more positive attitude). The independent variables are school level (in dummies, vmbo-b is the reference category) and mothers' cultural participation (continuous scale 0-1, 0= least active, 1 = most active).  
+  
+How large is the difference in attitude predicted by model 2 between a vmbot - and a vmbo-b student ?
+
+Answerlist
+----------
+* 2.801
+* 2.489
+* .371
+* .059
+
+Solution
+========
+
+Answerlist
+----------
+* False
+* False
+* False
+* True
+
+Meta-information
+================
+exname: vufsw-prediction-2055-en
+extype: schoice
+exsolution: 0001
+exshuffle: TRUE
+exsection: inferential statistics/regression/prediction
+exextra[Type]: interpreting output
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical literacy
+

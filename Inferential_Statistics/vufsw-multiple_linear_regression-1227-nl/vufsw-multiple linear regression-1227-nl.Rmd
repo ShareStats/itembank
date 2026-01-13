@@ -1,0 +1,40 @@
+Question
+========
+Gegeven is de volgende onvolledige uitvoer. Beroepsprestige is de afhankelijke variabele, en leeftijd in jaren, opleiding in aantal jaren van de respondent, de vader en de moeder zijn de onafhankelijke variabelen.  
+   
+  
+
+<table class="fr-alternate-rows tvcss_2 tvcss_3" style="width:100%;"> <colgroup> <col style="width: 14%" /> <col style="width: 14%" /> <col style="width: 14%" /> <col style="width: 14%" /> <col style="width: 14%" /> <col style="width: 14%" /> <col style="width: 14%" /> </colgroep> <tbody> <tr class="odd"> <td colspan="7" class="tvcss_4 tvcss_5"><strong>Coefficients</strong><sup><strong>a</strong></sup><br /> </td> </tr> <tr class="even"> <td colspan="2" rowspan="2" class="tvcss_6"><br /> <br /> Model<br /> </td> <td colspan="2" class="tvcss_7 tvcss_5">Gestandaardiseerde Coëfficiënten<br /> </td> <td class="tvcss_8 tvcss_5">Genormaliseerde coëfficiënten<br /> </td> <td rowspan="2" class="tvcss_9 tvcss_5"><br /> <br /> t<br /> </td> <td rowspan="2" class="tvcss_10 tvcss_5"><br /> <br /> Sig.<br /> </td> </tr> <tr class="odd"> <td class="tvcss_11 tvcss_5">B<br /> </td> <td class="tvcss_12 tvcss_5">Std. fout<br /> </td> <td class="tvcss_13 tvcss_5">Beta<br /> </td> </tr> <tr class="even"> <td rowspan="5" class="tvcss_14 tvcss_15">1<br /> </td> <td class="tvcss_16">(Constant)<br /> </td> <td class="tvcss_11 tvcss_5">4.339<br /> </td> <td class="tvcss_12 tvcss_5">1.839<br /> </td> <td class="tvcss_13 tvcss_5"><br /> </td> <td class="tvcss_17 tvcss_5">2.359<br /> </td> <td class="tvcss_18 tvcss_5">.018<br /> </td> </tr> <tr class="odd"> <td class="tvcss_16">leeftijd op dag van interview<br /> </td> <td class="tvcss_11 tvcss_5">.085<br /> </td> <td class="tvcss_12 tvcss_5">.021<br /> </td> <td class="tvcss_13 tvcss_5">.056<br /> </td> <td class="tvcss_17"><br /> </td> <td class="tvcss_18"><br /> </td> </tr> <tr class="even"> <td class="tvcss_16">edu bereikt onderwijsniveau (jaren)<br /> </td> <td class="tvcss_11 tvcss_5">2.709<br /> </td> <td class="tvcss_12 tvcss_5">.070<br /> </td> <td class="tvcss_13 tvcss_5">.610<br /> </td> <td class="tvcss_17"><br /> </td> <td class="tvcss_18"><br /> </td> </tr> <tr class="odd"> <td class="tvcss_16">eduf opleidingsniveau vader<br /> </td> <td class="tvcss_11 tvcss_5">.446<br /> </td> <td class="tvcss_12 tvcss_5">.090<br /> </td> <td class="tvcss_13 tvcss_5">.085<br /> </td> <td class="tvcss_17"><br /> </td> <td class="tvcss_18"><br /> </td> </tr> <tr class="even"> <td class="tvcss_16">edum opleidingsniveau moeder<br /> </td> <td class="tvcss_11 tvcss_5">.018<br /> </td> <td class="tvcss_12 tvcss_5">.141<br /> </td> <td class="tvcss_13 tvcss_5">.002<br /> </td> <td class="tvcss_17"><br /> </td> <td class="tvcss_18"><br /> </td> </tr> <tr class="odd"> <td colspan="7" class="tvcss_4">a. Afhankelijke variabele: occpre beroepsprestige (hoogste)<br /> </td> </tr> </tbody> </tabel>
+
+   
+Welke van de vier onafhankelijke variabelen heeft een statistisch significant effect op beroepsprestige?
+
+Answerlist
+----------
+* Leeftijd, opleiding respondent en opleiding vader.
+* Leeftijd, opleiding respondent en opleiding moeder.
+* Leeftijd, opleiding respondent, opleiding vader, en opleiding moeder.
+* Leeftijd en opleiding respondent.
+
+Solution
+========
+
+Answerlist
+----------
+* Waar
+* Onwaar
+* Onwaar
+* Onwaar
+
+Meta-information
+================
+exname: vufsw-multiple linear regression-1227-nl
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
+exsection: inferential statistics/regression/multiple linear regression
+exextra[Type]: performing analysis
+exextra[Program]: calculator
+exextra[Language]: Dutch
+exextra[Level]: statistical literacy
+

@@ -1,0 +1,35 @@
+Question
+========
+
+A couple wants to have two children, which outcome space below is correct? We define the events J as a boy and M as a girl.
+
+Answerlist
+----------
+
+* S = {YY, MJ, JM}
+* S = {YY, MM, YY, MJ, MJ}
+* S = {MM, JJ, MJ, JM}
+* S = {JJ, MM, MJ, MJ, JM}
+
+Solution
+========
+
+Answerlist
+----------
+
+* S = {YY, MJ, JM}: Incorrect
+* S = {YY, MM, YY, MJ}: Incorrect
+* S = {MM, YY, MJ, JM}: Correct
+* S = {JJJ, MM, MJ, MJ, JM}: Incorrect
+
+Meta-information
+================
+exname: uva-sample-space-989-en
+extype: schoice
+exsolution: 0010
+exsection: Probability/Elementary Probability/Sample Space
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: -3.055
+exextra[p-value]: 0.9758

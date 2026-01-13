@@ -1,0 +1,35 @@
+Question
+========
+
+Two events A and B are independent if holds
+
+Answerlist
+----------
+
+* P (A ∪ B) = P (A) + P (B)
+* P (A ∪ B) = P (A) + P (B) - P (A ∩ B)
+* P (A ∩ B) = P (A) P (B)
+* P (A | B) = P (B | A)
+
+Solution
+========
+
+Answerlist
+----------
+
+* P (A ∪ B) = P (A) + P (B): Incorrect
+* P (A ∪ B) = P (A) + P (B) - P (A ∩ B): Incorrect
+* P (A ∩ B) = P (A) P (B): Correct
+* P (A | B) = P (B | A): Incorrect
+
+Meta-information
+================
+exname: uva-multiplication-rule-639-en
+extype: schoice
+exsolution: 0010
+exsection: Probability/Elementary Probability/General Rules/Multiplication rule
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2
+exextra[p-value]: 0.5905

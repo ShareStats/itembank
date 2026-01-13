@@ -1,0 +1,26 @@
+Question
+========
+Reported is F(2, 20) = 5.80. What do we know about the exceedance probability (p-value) of this test? The excess probability is...
+
+Answerlist
+----------
+* More than 10%
+* Between 5 and 10%
+* Between 1 and 5%
+* Less than 1%
+
+
+Solution
+========
+The critical F value at $\alpha$ = 0.01 is equal to 5.85. The critical F value at $\alpha$ = 0.05 is equal to 3.49. Thus, the p-value will be between 0.01 and 0.05.
+
+Meta-information
+================
+exname: uu-anova-1395-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA
+exextra[Type]: Conceptual
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Reasoning

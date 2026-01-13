@@ -1,0 +1,34 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-ancova-117-nl-tabel.jpg", recursive = TRUE)
+```
+
+Question
+========
+A researcher is interested in differences in the heart rates of people in fearful situations. For this purpose, he distinguishes two groups: people with a phobia and people without a phobia. The researcher wants to perform a covariance analysis controlling for heart rate at rest (heart rate_rest). Beforehand, he checks whether or not the assumption of homogeneous regression has been violated. The SPSS output of this analysis is shown below.
+
+Is the assumption of homogeneous regression ($\alpha$ = .05 = 10%) and can the researcher continue to perform an ANCOVA?
+
+
+![](uu-ancova-117-nl-tabel.jpg)
+
+Answerlist
+----------
+* The assumption is met, because p < .10, so an ANCOVA cannot be performed.
+* The assumption is met, because p = .22, so an ANCOVA can be performed.
+* The assumption is violated, because p < .10, so an ANCOVA can be performed.
+* The assumption is violated, because p = .22, so an ANCOVA cannot be performed.
+
+
+Solution
+========
+
+Meta-information
+================
+exname: uu-ancova-117-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA
+exextra[Type]: Interpreting output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

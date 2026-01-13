@@ -1,5 +1,5 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("uu-Cronbachs-alpha-012-nl-tabel.jpg", recursive = TRUE)
+include_supplement("uu-Cronbach's-alpha-012-nl-tabel.jpg", recursive = TRUE)
 ```
 
 
@@ -7,9 +7,9 @@ include_supplement("uu-Cronbachs-alpha-012-nl-tabel.jpg", recursive = TRUE)
 Question
 ========
   
-Prof. A. James is bezig met het analysereen van een enquête. Een van de schalen heeft 8 vragen. Als zij een betrouwbaarheidsanalyse uitvoert vindt zij een Cronbach’s alpha van 0.455. Hieronder staat deel van de SPSS output. 
+Prof. A. James is bezig met het analyseren van een enquête. Een van de schalen heeft 8 vragen. Als zij een betrouwbaarheidsanalyse uitvoert vindt zij een Cronbach’s alpha van $0.455$. Hieronder staat deel van de SPSS output. 
 
-![](uu-Cronbachs-alpha-012-nl-tabel.jpg)
+![](uu-Cronbach's-alpha-012-nl-tabel.jpg)
   
 Welk item zou Prof. A. James als eerste moeten verwijderen?
 
@@ -22,21 +22,15 @@ Answerlist
 
 Solution
 ========
-  
-
-
-Answerlist
-----------
-
 
 
 Meta-information
 ================
-exname: uu-Cronbach's-alpha-012-nl.Rmd
+exname: uu-Cronbach's-alpha-012-nl
 extype: schoice
 exsolution: 1000
 exsection: Reliability/Analysis/Cronbach's alpha
-exextra[Type]: Interpreting output
+exextra[Type]: Interpretating output
 exextra[Program]: SPSS
 exextra[Language]: Dutch
 exextra[Level]: Statistical Literacy

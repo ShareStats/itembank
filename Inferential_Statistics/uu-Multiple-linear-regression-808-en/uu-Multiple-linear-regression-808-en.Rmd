@@ -1,0 +1,39 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Multiple-linear-regression-808-nl-tabel.jpg", recursive = TRUE)
+```
+
+
+Question
+========
+  
+An educationalist wants to investigate whether prior knowledge of body parts (PREBODY) depends on residential environment (site) and general development (PEABODY). For residential environment, four categories are distinguished:
+
+Site 1 = city advantaged Site 2 = suburb Site 3 = city disadvantaged Site 4 = village
+
+Data from the Sesame Street survey was used. The output of the analysis (parameter estimates) is given.
+
+
+![](uu-Multiple-linear-regression-808-nl-tabel.jpg)
+
+Which of the following conclusions is the only one correct? 
+Answerlist
+----------
+* If PEABODY rises one point then the predicted score on PREBODY changes 11.9 points.
+* The difference between the city favored category and the intercept of the reference category is 11.9 points.
+* The average prediction error for the four categories of the variable SITE is equal to 11.9 points.
+* The intercept of the comparison of reference group is equal to 11.9 points.
+
+
+Solution
+========
+
+Meta-information
+================
+exname: uu-Multiple-linear-regression-808-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Regression/Multiple linear regression
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,48 @@
+Question
+========
+
+Een medewerker van de plaatselijke bibliotheek beweert dat de boeken in de bibliotheek gemiddeld meer dan 20 jaar oud zijn. Om deze bewering te testen neemt een student een willekeurige steekproef van 30 boeken en noteert voor elk boek de publicatiedatum. In deze steekproef is de gemiddelde leeftijd van de boeken 23,8 jaar en de variantie (s2) 67,5.
+
+Gebruik de vijf stappen van hypothesetests om de onderzoeksvraag te beantwoorden: Zijn de boeken in de bibliotheek gemiddeld ouder dan 20 jaar?
+
+Gebruik het significantieniveau .01.
+
+
+Solution
+========
+
+Stap 1 Hypothesen Hr: μ = 20 H0: μ >20 (0,5 punten)
+
+Stap 2 Vergelijkende verdeling Sm = √67,5/30 = 1,5 (0,5 punten)
+
+Stap 3 Cutoff α =.01; eenzijdig tkritisch = 2,462 (0,5 punten)
+
+Stap 4 score van de steekproef t = 23,8-20/1,5 = 2,53 (0,5 punt)
+
+Stap 5 Verwerpen? 2,53>2,462, dus verwerp H0. Dit betekent dat in de populatie de boeken gemiddeld waarschijnlijk ouder zijn dan 20 jaar. (1 punt)
+
+Meta-information
+================
+exname: uu-t-test-800-nl
+extype: string
+exsolution: "Stap 1 Hypotheses
+Hr: μ = 20
+H0: μ >20 (0.5 points)
+
+Step 2 Comparison Distribution
+Sm = √67.5/30 = 1.5 (0.5 points)
+
+Step 3 Cutoff
+α =.01; one-tailed
+tcritical = 2.462 (0.5 points)
+
+Step 4 sample’s score
+t = 23.8-20/1.5 = 2.53 (0.5 points)
+
+Step 5 Reject?
+2.53>2.462, so reject H0.
+This means that in the population, on average, the books are probably more than 20 years old. (1 point)"
+exsection: Inferential Statistics/Parametric Techniques/t-test
+exextra[Type]: Case
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

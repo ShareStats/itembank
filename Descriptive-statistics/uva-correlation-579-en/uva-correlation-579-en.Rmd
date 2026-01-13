@@ -1,0 +1,49 @@
+Question
+========
+
+Calculate the Pearson correlation coefficient, if given
+
+* Mean of X: 0.5
+* Average of Y: 0.5
+* Standard deviation of X: 0.2
+* Standard deviation of Y: 0.25
+* Covariance between X and Y: 0.039
+
+Answerlist
+----------
+
+* -0.57
+* -0.36
+* 0.78
+* 1
+
+Solution
+========
+
+To calculate the Pearson correlation coefficient, we need not only the means and standard deviations of the two variables, but also the covariance between them. Here is the formula we will use:
+
+$r = \frac{\text{cov}(X, Y)}{\sigma_X \sigma_Y}$
+
+in which:
+- $r$ the Pearson correlation coefficient is.
+- $\text{cov}(X, Y)$ the covariance between $X$ and $Y$ is.
+- $$sigma_X$ is the standard deviation of $X$ is.
+- $$sigma_Y$ the standard deviation of $Y$ is.
+
+Answerlist
+----------
+
+-0.57: Incorrect
+-0.36: Incorrect
+* 0.78: Correct
+* 1: Incorrect
+
+Meta-information
+================
+exname: uva-correlation-579-en
+extype: schoice
+exsolution: 0010
+exsection: Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation
+exextra[Type]: Calculation
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,60 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Cronbachs-alpha-003-en-tabel.jpg", recursive = TRUE)
+```
+
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Cronbachs-alpha-003-en-tabel2.jpg", recursive = TRUE)
+```
+
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Cronbachs-alpha-003-en-tabel3.jpg", recursive = TRUE)
+```
+
+Question
+========
+  
+A group of researchers want to develop an instrument that measures how traumatized children are after experiencing a car accident. Based on existing trauma literature, they created items belonging to one of the following scales: re-experiencing, avoidance, arousal, and sleep problems. Because the children themselves are too traumatized, they are taking their 36 items from 314 parents.  Because the researchers expect four subscales, they conduct a factor analysis with 4 factors. Part of the SPSS output is below.
+
+![](uu-Cronbachs-alpha-003-en-tabel.jpg)
+![](uu-Cronbachs-alpha-003-en-tabel2.jpg)
+
+One of the researchers, Rolf, is specifically interested in the sleep problems parents observe in these children. For this reason, he creates a scale for sleep problems consisting of 6 items. When Rolf performs a reliability analysis, he finds a Cronbach's alpha of 0.725. Below is part of the SPSS output. 
+
+![](uu-Cronbachs-alpha-003-en-tabel3.jpg)
+
+Based on this data, Rolf decides not to remove items from this scale. He gives two arguments for this:
+
+I. Removing items creates the danger of affecting content validity. 
+II. Because the scale consists of only 6 items, the scale with all 6 items will be more reliable than a scale with only 5 or even only 4 items.
+
+  
+Answerlist
+----------
+* Only statement I is correct
+* Only statement II is correct
+* Both statements are correct
+* Neither statement is correct
+
+Solution
+========
+  
+Both statements are correct.
+
+Answerlist
+----------
+* Statement I is indeed correct. But so is statement II.
+* Utterance II is indeed correct. But so is statement I.
+* Both statements are indeed correct.
+* Both statements are correct.
+
+Meta-information
+================
+exname: uu-Cronbachs-alpha-003-en
+extype: schoice
+exsolution: 0010
+exsection: Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Interpreting output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+

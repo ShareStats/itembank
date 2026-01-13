@@ -1,0 +1,29 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-descriptive-129-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-129-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+Open het SPSS-bestand.
+
+Welk percentage van de mannelijke leerlingen (geslacht = 1) had het middelbare schoolprofiel "economie en maatschappij" (profiel = 2)? Rond je antwoord af op 1 decimaal.
+
+* Download**: [SPSS file](eur-descriptive-129-en-data.sav), [CSV file](eur-descriptive-129-en-data.csv)
+
+
+Solution
+========
+Van de mannelijke leerlingen had 32,9% het middelbare schoolprofiel "economie en maatschappij".
+
+Meta-information
+================
+exname: eur-descriptive-129-nl
+extype: num
+exsolution: 32.9
+extol: 0
+exsection: Descriptive statistics/Summary Statistics/Proportion
+exextra[Type]: Calculation
+exextra[Program]: SPSS
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

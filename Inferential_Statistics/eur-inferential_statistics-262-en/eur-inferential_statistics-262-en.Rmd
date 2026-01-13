@@ -1,0 +1,27 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-262-nl-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-262-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+A teacher wonders whether the mean grade for macroeconomics (variable: macro_economics) for students living away from home [Residential = 0] differs from the mean for students living at home [Residential = 1]. Perform the analysis and provide the p-value of the Levene's Test (with 3 decimal places).
+
+* Download**: [SPSS file](eur-inferential_statistics-262-nl-data.sav), [CSV file](eur-inferential_statistics-262-nl-data.csv)
+
+
+Solution
+========
+The correct answer is 0.277
+
+Meta-information
+================
+exname: eur-inferential_statistics-262-en
+extype: num
+exsolution: 0.277
+extol: 0
+exsection: Inferential Statistics/NHST/p-value, Inferential Statistics/Parametric Techniques/t-test/Independent samples means, Assumptions/Homogeneity of variance/Levene's test
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

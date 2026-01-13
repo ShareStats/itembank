@@ -1,0 +1,42 @@
+Question
+========
+An instructor is interested in how the number of hours that students have studied ("**HOURS**") on the examination grade ("**GRADE**"). He conducts a regression analysis with these two variables, using data from a sample of 60 students.  
+  
+Given is the following linear model for this relationship: DIGIT = 2.80 + 0.30 ________* HOURS.  
+  
+In a regression, we assume a ***linear*** relationship between X and Y. What does this assumption of linearity imply for the above model?
+
+Answerlist
+----------
+* E assume that the number of HOURS will affect CIJFER, *but not the other way around*.
+* Hat means we expect the influence of HOURS on CIFFER to be *the same* for any comparable increase in the number of HOURS will be *the same*.
+* Hat is, we expect the influence of HOURS on CIFFER to be will be *positive*.
+* E expect the effect to be true for *all* students in our sample.
+
+Solution
+========
+
+Language Dutch
+
+M&T Basics of quantitative research Basics of quantitative research
+
+M&T BIS Default value
+Answerlist
+----------
+* False
+* True
+* False
+* False
+
+Meta-information
+================
+exname: vufsw-simplelinearregression-0098-en
+extype: schoice
+exsolution: 0100
+exshuffle: TRUE
+exsection: inferential statistics/regression/simple linear regression
+exextra[Type]: conceptual
+exextra[Program]: NA
+exextra[Language]: English
+exextra[Level]: statistical reasoning
+

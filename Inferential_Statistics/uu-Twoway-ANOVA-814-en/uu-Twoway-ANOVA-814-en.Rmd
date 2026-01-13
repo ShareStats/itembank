@@ -1,0 +1,41 @@
+Question
+========
+  
+The following is claimed about two-way analysis of variance:
+
+I. Both independent variables must be of at least interval measurement level. II. If there is significant interaction between the independent variables, there must also be at least one significant main effect.
+
+Which of these statements is/are correct?
+
+
+  
+Answerlist
+----------
+* Only I
+* II only
+* I and II
+* Neither I nor II
+
+Solution
+========
+  
+In an ANOVA, the independent variables (or factors) are always group/categorical variables. These are precisely of nominal or ordinal level of measurement. These two levels of measurement are precisely lower than interval. There are situations where the main effects are not significant, but the interaction effect is.
+
+
+Answerlist
+----------
+* This answer is incorrect.
+* This answer is incorrect.
+* This answer is incorrect.
+* This answer is correct.
+
+Meta-information
+================
+exname: uu-Twoway-ANOVA-814-en
+extype: schoice
+exsolution: 0001
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway ANOVA
+exextra[Type]: Case, Conceptual, Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

@@ -11,14 +11,22 @@ compile_rmd <- function(fmt, file, name, dir) {
     exams:::browse_exercise(file = file, name = name, dir = dir, edir = edir)
   } else if (fmt == "qti") {
     exams::exams2qti21(
-      file = file, name = name, dir = dir, edir = edir,
-      schoice = list(enumerate = FALSE)
-    )
+      file = file, name = name, dir = dir, edir = edir)
   } else if (fmt == "tv") {
     exams::exams2testvision(
-      file = file, name = name, dir = dir, edir = edir,
-      schoice = list(enumerate = FALSE)
-    )
+      file = file, name = name, dir = dir, edir = edir)
+  } else if (fmt == "ans") {
+    exams::exams2ans(
+      file = file, name = name, dir = dir, edir = edir)
+  } else if (fmt == "wooclap") {
+    exams::exams2wooclap(
+      file = file, name = name, dir = dir, edir = edir)
+  } else if (fmt == "moodle") {
+    exams::exams2moodle(
+      file = file, name = name, dir = dir, edir = edir)
+  } else if (fmt == "canvas") {
+    exams::exams2canvas(
+      file = file, name = name, dir = dir, edir = edir)
   }
   return(feedback)
 }
@@ -39,7 +47,6 @@ cat(paste0("[R ERROR LOG: ", date(), "]"), file = error_fl,
 cat(paste0("[R WARNING LOG: ", date(), "]"), file = warn_fl,
                       sep = "\n",  append = TRUE)
 cat(paste0("[R LOG: ", date(), "]"), file = norm_fl, sep = "\n",  append = TRUE)
-
 
 for (i in 1:nrow(tbl)) {
   fmt <- tbl[i, "format"]

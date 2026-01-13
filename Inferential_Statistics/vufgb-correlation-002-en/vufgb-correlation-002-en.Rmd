@@ -1,0 +1,37 @@
+Question
+========
+
+In a sample, a correlation of 0.64 is found between two variables *x* and *y*. The standard deviation of *x* is 24, and the standard deviation of *y* is 18.
+
+Calculate the regression coefficient *b*. 
+Answerlist
+----------
+* 0.48
+* 0.55
+* 0.64
+* 0.85
+
+Solution
+========
+
+Use the formula on the formula sheet for correlation (Chapter 9).
+
+Filling it in gives $0.64 = \frac{24}{18 \times b}$. Describe gives $b = 0.64 \times \frac{18}{24} = 0.48$.
+
+Answerlist
+----------
+* Correct
+* Incorrect
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-correlation-002-en
+extype: schoice
+exsolution: 1000
+exsection: Inferential Statistics/Sampling Distributions/Correlation
+exextra[Type]: Calculation
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Thinking

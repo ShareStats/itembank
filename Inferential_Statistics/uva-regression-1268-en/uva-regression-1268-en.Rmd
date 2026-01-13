@@ -1,0 +1,41 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uva-regression-1268-nl-graph01.png", recursive = TRUE)
+```
+
+Question
+========
+
+Of a number of children, age was determined in months, and height in centimeters. The data are plotted in the attached scatterplot. The equation of the regression line is: height is 65 + 0.64 __________. age. The value 65 from the regression equation is called:
+
+![](uva-regression-1268-nl-graph01.png)
+
+Answerlist
+----------
+
+* Regression coefficient
+* Coefficient of determination
+* Intercept or axis cutoff
+* Correlation coefficient
+
+Solution
+========
+
+Answerlist
+----------
+
+* Regression coefficient: Incorrect
+* Coefficient of determination: Incorrect
+* Intercept or axis cut-off: Correct
+* Correlation coefficient: Incorrect
+
+Meta-information
+================
+exname: uva-regression-1268-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Regression
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: 2.022
+exextra[p-value]: 0.573

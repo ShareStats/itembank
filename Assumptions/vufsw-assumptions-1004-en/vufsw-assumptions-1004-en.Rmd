@@ -1,6 +1,6 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("ppplot.png")
-include_supplement("residuals.png")
+include_supplement("ppplot.png", recursive = TRUE)
+include_supplement("residuals.png", recursive = TRUE)
 ```
 
 Question

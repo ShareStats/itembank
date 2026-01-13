@@ -1,0 +1,37 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("vufgb-mediation-012-nl-figure01.jpg", recursive = TRUE)
+```
+
+Question
+========
+
+In the figure below, the Y-axis shows the bivariate correlation between Y and $X_{1}$. The X axis shows the partial correlation between Y and $X_{1}$, controlled for $X_{2}$. The dot in the figure represents this correlation for a specific data set. What multivariate relationship is involved here?
+
+![](vufgb-mediation-012-en-figure01.jpg) 
+Answerlist
+----------
+* Suppressor effect
+* Full mediation
+* Partial confounding
+* No relationship between Y and $X_{1}$
+
+Solution
+========
+
+Answerlist
+----------
+* Incorrect
+* Correct
+* Incorrect
+* Incorrect
+
+Meta-information
+================
+exname: vufgb-mediation-012-en
+extype: schoice
+exsolution: 0100
+exsection: Inferential Statistics/Regression/Multiple linear regression/Mediation, Descriptive statistics/Summary Statistics/Bivariate statistics/Correlation
+exextra[Type]: Interpreting graph
+exextra[Program]: 
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,32 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-factor-analysis-027-nl-tabel.jpg", recursive = TRUE)
+```
+
+Question
+========
+  
+Matthijs administered a questionnaire on depression to 100 respondents. He measured depression using 15 items, but he suspects that subscales might be present. He is testing this with a factor analysis. Part of the SPSS output is below. 
+
+![](uu-factor-analysis-027-nl-tabel.jpg)
+
+Would you reduce the number of factors based on the information in the output? 
+Answerlist
+----------
+* Yes, because only 1 item loads very high on factor 3 and the kink in the screeplot is above 2
+* Yes, because the factors have negative loadings and the Eigenvalues are small
+* No, because the explained variance with three factors is good and the pattern matrix shows 3 factors
+* No, because the interfactor correlations are too small to start reducing
+
+Solution
+========
+
+Meta-information
+================
+exname: uu-factor-analysis-027-en
+extype: schoice
+exsolution: 1000
+exsection: Factor analysis
+exextra[Type]: Interpreting output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

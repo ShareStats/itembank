@@ -1,0 +1,39 @@
+Question
+========
+
+Een factoranalyse wordt uitgevoerd op vijftien items die bij kinderen de angst voor Sinterklaas moeten meten. De hoofdcomponentenanalyse met oblique (scheve) rotatie resulteert in twee statistische en inhoudelijke interessante dimensies. Factor A betreft de angst voor Sinterklaas en factor B de angst voor Zwarte Piet. 
+
+Beoordeel de volgende twee uitspraken over factoranalyse.
+
+I.	In het algemeen geldt dat factoren met een eigenwaarde groter dan 1 meer testvariantie verklaren dan een afzonderlijk item.
+II.	Als een item (na de rotatie) een hoge factorlading ($|a| > .40$) heeft op factor A, hangt factor A sterk samen met factor B.
+
+Answerlist
+----------
+* I is juist, II is juist.
+* I is juist, II is niet juist.
+* I is niet juist, II is juist.
+* I is niet juist, II is niet juist.
+
+
+Solution
+========
+
+*Stelling I:* De eigenwaarde wordt berekend door:
+(1) Per item wordt gekeken hoeveel variantie van dat item verklaard wordt door de factor
+(2)	Dit wordt omgezet in een proportie (bijvoorbeeld: .60 (=60%) van het item wordt verklaard door de factor)
+(3)	De proportie van alle items worden bij elkaar opgeteld om de eigenwaarde van een factor te bepalen.
+Elk item heeft dus een variantie van 1.00. Wanneer een factor een eigenwaarde >1.00 heeft, verklaart de factor meer variantie dan een afzonderlijk item.
+
+*Stelling II:* Dit is niet juist. Als een item (na de rotatie) een hoge factorlading ($|a| > .40$) heeft op factor A, dan hangt dit item sterk samen met de betreffende factor. 
+
+
+Meta-information
+================
+exname: uu-Factor-loadings-001-nl
+extype: schoice
+exsolution: 0100
+exsection: Factor analysis/Principle component analysis, Factor analysis/Factor loadings
+exextra[Type]: Case, Conceptual
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

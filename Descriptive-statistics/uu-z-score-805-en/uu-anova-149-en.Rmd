@@ -1,0 +1,29 @@
+Question
+========
+In a study on explanations for school choice of students leaving elementary school, 200 (randomly drawn) parents were surveyed. The questionnaire includes questions on religion (two categories), ethnic background (three categories) and socioeconomic status (three categories). The questionnaire also includes 25 questions on the importance parents attach to different characteristics of the secondary school. The questions make it possible to determine parents' demandingness (1 = not demanding to 10 = very demanding).
+
+The research question is: Do parents, typified by religious, ethnic and socioeconomic status, differ in the degree of demandingness?
+
+Assuming none of the necessary assumptions are violated, which statistical analysis is most appropriate for answering the research question?
+
+Answerlist
+----------
+* One-way ANOVA
+* Two-way ANCOVA
+* Three way ANOVA
+* Four-way ANCOVA
+
+
+Solution
+========
+The dependent variable in this study is the degree of Requirement. This is measured by a questionnaire of 25 questions (on TRUE what parents value in terms of characteristics of the secondary school). There are also three independent variables: religion (group variable, 2 categories), ethnic background (group variable, 3 categories) and socioeconomic status (group variable, 3 categories). No other variables were mentioned. The method of analysis most appropriate is a Multivariate ANOVA, or specifically: a Three-way ANOVA.
+
+Meta-information
+================
+exname: uu-anova-149-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA
+exextra[Type]: Test Choice
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

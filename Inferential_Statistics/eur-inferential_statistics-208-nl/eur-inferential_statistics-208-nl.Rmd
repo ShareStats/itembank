@@ -1,0 +1,40 @@
+```{r, echo = FALSE, results = "hide"}
+#Load package
+library(knitr)
+```
+
+
+Question
+========
+Een promovendus aan het instituut Psychologie onderzoekt het effect van geslacht bij videomodellen op de nauwkeurigheid bij een latere taak waarbij de deelnemers een soortgelijke taak moeten uitvoeren als in de video werd uitgelegd door een mannelijk of vrouwelijk model. Uit een metastudie leerde hij dat hij een hoofdeffect voor geslacht mag verwachten: zowel mannelijke als vrouwelijke studenten leren meer van mannelijke videomodellen dan van vrouwelijke videomodellen. De effectgrootte in deze metastudie was .80. Op basis van deze effectgrootte maakt de promovendus een powerberekening en besluit dat hij 18 deelnemers nodig heeft in elk van de twee condities.
+
+Hieronder zie je de beschrijvende statistieken die de promovendus uit SPSS heeft gehaald.
+
+```{r, echo=FALSE}
+library(knitr)
+Group <- c("Male model", "Female model")
+Mean <- c(20, 20)
+SD <- c(1.8, 1.7)
+n <- c(18, 18)
+table <- cbind(Group, Mean, SD, n)
+kable(table)
+```
+
+De betrouwbaarheid van de nauwkeurigheidsscores van de promovendus bleek .64 te zijn. Bereken de effectgrootte van de gegevens met behulp van deze beschrijvende gegevens van het onderzoek van de promovendus. Rond af op 2 decimalen.
+
+
+Solution
+========
+De formule voor de effectgrootte is: $d = \frac {x̄m - x̄f}{sp}$. Aangezien beide groepen uit 18 mensen bestaan, is de samengevoegde standaardafwijking gewoon het gemiddelde van de twee standaarddeviaties. De samengevoegde standaardafwijking is $sp = \sqrt {\frac{1.8^2 + 1.7^2}{2}} = 1.75$. Dus de effectgrootte (Cohen's d) is $d = \frac{6.3 - 5.2}{1.75} = .629 = .63$
+
+Meta-information
+================
+exname: eur-inferential_statistics-208-nl
+extype: num
+exsolution: 0.63
+extol: 0
+exsection: Inferential Statistics/Effect size/Cohen's d, Reliability/Analysis/Cronbach's alpha
+exextra[Type]: Calculate
+exextra[Program]: Calculator
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy

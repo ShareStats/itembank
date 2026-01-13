@@ -1,0 +1,29 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-inferential_statistics-231-en-data.sav", recursive = TRUE)
+include_supplement("eur-inferential_statistics-231-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+A question that has puzzled researchers for years is.....do you really sleep worse after watching a horror movie? To answer this question once and for all, a researcher at EUR drew a sample from all visitors to a Horror-film festival (Slasher-fest) in Rotterdam.  The participants had to indicate the length of the movie they had watched at the festival, and how many hours they had slept the night after the festival. The researcher also administered a questionnaire to the participants measuring their "degree of anxiety," and recorded whether a person was male [Gender = 0] or female [Gender = 1].
+
+Investigate the extent to which you can predict the number of hours of sleep [HourSleep] a person has had based on the number of minutes of movie [MinutenFilm] that person has watched. What is the value of the test statistic for the entire model, where you predict the number of hours of sleep [HourSleep] by the number of minutes of movie [MinutenFilm]? (3 decimal places)
+
+* Download**: [SPSS file](eur-inferential_statistics-231-en-data.sav), [CSV file](eur-inferential_statistics-231-en-data.csv)
+
+
+Solution
+========
+The correct answer is 0.933.
+
+Meta-information
+================
+exname: eur-inferential_statistics-231-en
+extype: num
+exsolution: 0.933
+extol: 0
+exsection: Inferential Statistics/Regression/Simple linear regression
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

@@ -1,0 +1,45 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("uu-Descriptive-statistics-607-en-data.sav", recursive = TRUE)
+include_supplement("uu-Descriptive-statistics-607-en-data.csv", recursive = TRUE)
+```
+
+Question
+========
+
+* Download**: [SPSS file](uu-Descriptive-statistics-607-en-data.sav), [CSV file](uu-Descriptive-statistics-607-en-data.csv)
+
+Open the data file.
+
+Answer the following questions.
+
+* Answer each question with all decimals listed in the output.**
+
+Answerlist
+----------
+* The number of respondents whose score on recognizing shapes is known is....
+* The standard deviation of recognizing animals is...
+* The maximum score obtained on recognizing colors is...
+* The mode of recognizing words is...
+
+Solution
+========
+
+Answerlist
+----------
+* Answer: 192
+* Answer: 15.08422
+* Answer: 19.00
+* Answer: 19.00
+
+Meta-information
+================
+exname: uu-Descriptive-statistics-607-nl.-en
+extype: cloze
+exclozetype: num|num|num|num
+exsolution: 192|15.08422|19.00|19.00
+extol: 0
+exsection: Descriptive statistics
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS, JASP
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

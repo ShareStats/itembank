@@ -1,0 +1,27 @@
+Question
+========
+  
+In the article by Kammers et al. (2010), a repeated measures analysis is done measuring the responses of 11 female students in different condition. It includes a 2 x 2 x 2 repeated measures anova. How many conditions are there per person in this analysis?
+
+  
+Answerlist
+----------
+* 2
+* 4
+* 8
+* 16
+
+Solution
+========
+In a repeated measures analysis, all participants participate in all different conditions. A 2 x 2 x 2 design means that there are three factors, each with two different values. For example: factor 1 = A or B, factor 2 = X or Y, and factor 3 = 1 or 2. A total of the following 8 combinations are then possible: AX1 AY1 BX1 BY1 AX2 AY2 BX2 BY2
+
+Meta-information
+================
+exname: uu-Twoway-repeated-measures-ANOVA-803-en
+extype: schoice
+exsolution: 0010
+exsection: Inferential Statistics/Parametric Techniques/ANOVA/Twoway repeated measures ANOVA
+exextra[Type]: Interpretating output
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy

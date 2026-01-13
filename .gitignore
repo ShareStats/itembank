@@ -2,8 +2,10 @@
 .Rhistory
 .RData
 .Ruserdata
+.Rproj
 
 .vscode/
+.venv/
 
 __pycache__/
 
@@ -15,7 +17,7 @@ packages/
 docs/
 
 *.py[cod]
-*.csv
+
+file_extensions.xlsx
 
 AVOIDERROR
-scripts/.Rapp.history

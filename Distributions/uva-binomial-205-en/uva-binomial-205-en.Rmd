@@ -1,0 +1,33 @@
+Question
+========
+
+In roulette, suppose a bet is always placed on black and 30 spins of the the roulette wheel is spun. The number of times the ball lands on black (a success) is the probability variable B and it is binomially distributed with probability of success p = 0.47 on each spin of the roulette wheel. Based on the central limit theorem, it can be stated that
+
+Answerlist
+----------
+
+* The number of successes approaches infinity.
+* The variable B is approximately normally distributed.
+* The expectation value of B is 1.
+
+Solution
+========
+
+Answerlist
+----------
+
+* The number of successes approaches infinity: Incorrect
+* The variable B is approximately normally distributed...: Correct
+* The expectation value of B is 1...: Incorrect
+
+Meta-information
+================
+exname: uva-binomial-205-en
+extype: schoice
+exsolution: 010
+exsection: Distributions/Discrete/Binomial
+exextra[Type]: Conceptual
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
+exextra[IRT-Difficulty]: -1.411
+exextra[p-value]: 0.9536

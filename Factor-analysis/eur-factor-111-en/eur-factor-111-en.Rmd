@@ -1,0 +1,34 @@
+```{r, echo = FALSE, results = "hide"}
+include_supplement("eur-factor-111-nl-data.sav", recursive = TRUE)
+include_supplement("eur-factor-111-nl-data.csv", recursive = TRUE)
+```
+
+Question
+========
+* Ork for psychologists and educators.*
+
+A scientist is investigating factors that may explain why career opportunities for psychologists and educators are sometimes low. From theoretical insights about career opportunities, the researcher has the idea that several dimensions can be distinguished that have something to do with career opportunities. She has devised 34 statements on which respondents can indicate whether they agree with a statement on a 4-point scale (1. completely agree; 2. somewhat agree; 3. not so much agree; 4. not at all agree). An example of a statement is, "I completed a relevant internship during my education." The questionnaire was administered to 312 graduates. Participants' responses to the 34 statements are shown in the data file.
+
+Open the data file.
+
+Perform a factor analysis with principal axis factoring, extracting 4 factors and performing a varimax rotation. By which factor is item 1 best explained? (note factor number)
+
+
+* Download**: [SPSS file](eur-factor-111-nl-data.sav), [CSV file](eur-factor-111-nl-data.csv)
+
+
+Solution
+========
+Factor 2. In the rotated solution, the loading of item 1 is highest on factor 2, which is .950. The square of a factor loading is the percentage of variance explained by that factor of the item. Factor 2 explains the most variance of item 1 in this solution.
+
+Meta-information
+================
+exname: eur-factor-111-en
+extype: num
+exsolution: 2
+extol: 0
+exsection: Factor analysis/Pattern matrix
+exextra[Type]: Performing analysis
+exextra[Program]: SPSS
+exextra[Language]: English
+exextra[Level]: Statistical Literacy
