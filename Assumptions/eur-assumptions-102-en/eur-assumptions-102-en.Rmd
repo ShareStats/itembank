@@ -17,13 +17,13 @@ Conduct an analysis to determine whether the regression lines for the relation b
 
 Solution
 ========
-The p-value is .872. The correct analysis is ANCOVA where you test the two main effects of condition and French + their interaction (condition*French). The F-value for the interaction effect is 0.138, the p-value is .872.
+The p-value is 0.872. The correct analysis is ANCOVA where you test the two main effects of condition and French + their interaction (condition*French). The F-value for the interaction effect is 0.138, the p-value is 0.872.
 
 Meta-information
 ================
 exname: eur-assumptions-102-en
 extype: num
-exsolution: .872
+exsolution: 0.872
 extol: 0
 exsection: Assumptions/Homogeneity of variance/Levene's test, Inferential Statistics/NHST/p-value
 exextra[ID]: 89e29
