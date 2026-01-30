@@ -50,6 +50,16 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+At a 95% confidence interval, the margin of error (<em>margin of error</em>) is is always somewhere between 0% and 5%.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 For a 95% confidence interval, the point estimator (<em>point estimate</em>) will always be in the middle of the interval.
@@ -62,27 +72,17 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-With a 95% confidence interval for a proportion, the population parameter will never be less than 5%.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-At a 95% confidence interval, the margin of error (<em>margin of error</em>) is is always somewhere between 0% and 5%.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 At a 95% confidence interval, the estimated sample value is is always in the “critical range” of 5%.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+With a 95% confidence interval for a proportion, the population parameter will never be less than 5%.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

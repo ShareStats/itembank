@@ -54,7 +54,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Mixed Design ANOVA with the scale of delinquency as the dependent variable and with the time of measurement (before or after the imprisonment) as <em>within variable</em> and gender as <em>between variable</em>.
+MANOVA with the 2 measures of crime (before and after the imprisonment) as the dependent variables and gender as the covariate.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -84,7 +84,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-MANOVA with the 2 measures of crime (before and after the imprisonment) as the dependent variables and gender as the covariate.
+Mixed Design ANOVA with the scale of delinquency as the dependent variable and with the time of measurement (before or after the imprisonment) as <em>within variable</em> and gender as <em>between variable</em>.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

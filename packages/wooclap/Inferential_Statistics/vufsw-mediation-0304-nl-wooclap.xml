@@ -58,6 +58,16 @@ juist getoets worden/ welke methode gebruik je liever niet? </p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Sobel toets
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Baron en Kennedy
@@ -71,16 +81,6 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Bootstrap
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Sobel toets
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -55,7 +55,7 @@ The student aims to describe the relationship between study orientation and use 
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-A bar chart (<em>bar chart</em>), because study direction is a discrete quantitative variable.
+A bar chart (<em>bar chart</em>), because study direction is a continuous quantitative variable.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -65,7 +65,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-A histogram, because study direction is a discrete quantitative variable. is.
+A histogram, because study direction is a categorical variable.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -85,17 +85,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-A histogram, because study direction is a categorical variable.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-A bar chart (<em>bar chart</em>), because study direction is a continuous quantitative variable.
+A bar chart (<em>bar chart</em>), because study direction is a discrete quantitative variable.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -106,6 +96,16 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 A histogram, because study direction is a continuous quantitative variable. is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+A histogram, because study direction is a discrete quantitative variable. is.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

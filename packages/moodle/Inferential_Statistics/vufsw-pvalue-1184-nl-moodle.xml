@@ -61,6 +61,16 @@ Onwaar
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De z-score ligt tussen -1,88 en 1,88.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 De z-score is -1.88 of lager.
@@ -73,7 +83,7 @@ Waar
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De z-score ligt tussen -1,88 en 1,88.
+De z-score tussen -1,88 en 0,00 ligt.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -84,16 +94,6 @@ Onwaar
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De z-score ligt tussen -1,96 en -1,88.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De z-score tussen -1,88 en 0,00 ligt.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

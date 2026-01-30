@@ -66,13 +66,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-If we assume that this sample is among the 95% of samples that contain the population value, the correlation in the population is between .230 and .385.
+There is a 95% chance that the population value in the interval is between .230 and .385.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -86,13 +86,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-There is a 95% chance that the population value in the interval is between .230 and .385.
+If we assume that this sample is among the 95% of samples that contain the population value, the correlation in the population is between .230 and .385.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

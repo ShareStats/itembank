@@ -57,16 +57,6 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De drie factoren zijn nauwelijks gecorreleerd.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Goed
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De orthogonale en non-orthogonale rotaties verklaren nagenoeg dezelfde proportie variantie.
@@ -74,6 +64,16 @@ De orthogonale en non-orthogonale rotaties verklaren nagenoeg dezelfde proportie
 <feedback format="html">
 <text><![CDATA[<p>
 Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De drie factoren zijn nauwelijks gecorreleerd.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Goed
 </p>]]></text>
 </feedback>
 </answer>

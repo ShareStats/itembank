@@ -241,7 +241,7 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
--4.01
+-1.24
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -251,7 +251,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
--1.24
+-3.38
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+-4.01
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -266,16 +276,6 @@ False
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
--3.38
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

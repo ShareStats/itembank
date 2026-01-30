@@ -57,13 +57,13 @@ We conduct a two-sided test with α = 0.05 (alpha =5%). As for can we conclude b
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Among men, watching TV has a significant negative influence on one’s study performance, in women watching TV has <em>no</em> significant influence on one’s study performance.
+Among men, watching TV has a significant <em>negative </em>influence on one’s study performance, among women, watching TV has a significant <em>positive</em> influence on one’s study performance.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -87,13 +87,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Among men, watching TV has a significant <em>negative </em>influence on one’s study performance, among women, watching TV has a significant <em>positive</em> influence on one’s study performance.
+Among men, watching TV has a significant negative influence on one’s study performance, in women watching TV has <em>no</em> significant influence on one’s study performance.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

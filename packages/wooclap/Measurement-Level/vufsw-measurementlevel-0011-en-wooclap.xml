@@ -52,13 +52,13 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Nominal
+Ordinal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Correct
+Incorrect
 </p>]]></text>
 </feedback>
 </answer>
@@ -72,19 +72,19 @@ Incorrect
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Interval or Ratio
+Nominal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Incorrect
+Correct
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Ordinal
+Interval or Ratio
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

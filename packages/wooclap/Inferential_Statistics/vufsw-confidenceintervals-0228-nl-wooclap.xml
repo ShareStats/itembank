@@ -55,13 +55,13 @@ Het effect van / de effecten van … </p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Opleiding (EDUCYRS), want het 95% betrouwbaarheidsinterval van deze variabele bevat <strong>niet</strong> de waarde 0.
+Geslacht (SEX) en opleiding (EDUCYRS), want de 95% betrouwbaarheidsintervallen van deze variabelen bevatten de waarde 0,05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -77,7 +77,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Geslacht (SEX) en opleiding (EDUCYRS), want de 95% betrouwbaarheidsintervallen van deze variabelen bevatten de waarde 0,05.
+Geslacht (SEX) en leeftijd (AGE), want de 95% betrouwbaarheidsintervallen van deze variabelen bevatten de waarde 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -85,13 +85,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Geslacht (SEX) en leeftijd (AGE), want de 95% betrouwbaarheidsintervallen van deze variabelen bevatten de waarde 0.
+Opleiding (EDUCYRS), want het 95% betrouwbaarheidsinterval van deze variabele bevat <strong>niet</strong> de waarde 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

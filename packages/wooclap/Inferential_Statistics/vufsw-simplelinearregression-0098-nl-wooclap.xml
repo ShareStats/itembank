@@ -64,6 +64,16 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+We verwachten dat het effect opgaat voor <em>alle</em> studenten in onze steekproef.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Dat houdt in dat we verwachten dat de invloed van UREN op CIJFER bij elke vergelijkbare toename van het aantal UREN <em>hetzelfde</em> zal zijn.
@@ -76,27 +86,17 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-We gaan ervan uit dat het aantal UREN een invloed zal hebben op CIJFER, <em>maar niet andersom</em>.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-We verwachten dat het effect opgaat voor <em>alle</em> studenten in onze steekproef.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Dat houdt in dat we verwachten dat de invloed van UREN op CIJFER <em>positief</em> zal zijn.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+We gaan ervan uit dat het aantal UREN een invloed zal hebben op CIJFER, <em>maar niet andersom</em>.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -60,6 +60,16 @@ Incorrect
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Although a dichotomous variable is actually nominal, you can still meaningfully average it.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Although a dichotomous variable is actually nominal, there is always a fixed ranking in it from low (0) to high (1).
@@ -77,16 +87,6 @@ A dichotomous variable always consists of only one category.
 <feedback format="html">
 <text><![CDATA[<p>
 Incorrect
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Although a dichotomous variable is actually nominal, you can still meaningfully average it.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Correct
 </p>]]></text>
 </feedback>
 </answer>

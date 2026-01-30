@@ -236,11 +236,21 @@ workers score better in test B than in test A?</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-A chi-squared test
+A one-sample t-test for the mean
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+A dependent t-test
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -256,7 +266,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-A one-sample t-test for the mean
+A chi-squared test
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -271,16 +281,6 @@ A test for a proportion
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-A dependent t-test
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

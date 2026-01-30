@@ -52,13 +52,13 @@ X-as kan gebruikt worden om de assumptie te checken dat…</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-De relatie tussen de afhankelijke en onafhankelijke variabele lineair is.
+De gestandaardiseerde slope (Beta) en correlatiecoëfficiënt altijd gelijk zijn aan elkaar.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -82,13 +82,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-De gestandaardiseerde slope (Beta) en correlatiecoëfficiënt altijd gelijk zijn aan elkaar.
+De relatie tussen de afhankelijke en onafhankelijke variabele lineair is.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

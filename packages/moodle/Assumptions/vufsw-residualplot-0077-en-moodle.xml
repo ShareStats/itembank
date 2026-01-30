@@ -54,7 +54,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The explained variance (R<sup>2</sup>) and the marginal variance are always are identical to each other (homogeneity).
+The relationship between the dependent and independent variable is causal (causality).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -72,6 +72,16 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The explained variance (R<sup>2</sup>) and the marginal variance are always are identical to each other (homogeneity).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 The conditional standard deviation of y (s<sub>res</sub>) for each value of x is identical (constant variance).
@@ -79,16 +89,6 @@ The conditional standard deviation of y (s<sub>res</sub>) for each value of x is
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The relationship between the dependent and independent variable is causal (causality).
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

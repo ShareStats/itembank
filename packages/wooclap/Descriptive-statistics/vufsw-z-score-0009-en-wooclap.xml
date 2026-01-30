@@ -60,16 +60,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-How many units an observation is above or below the mean, expressed in standard deviation units.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 How many units an observation is above or below the value 0, expressed on a scale ranging from -1 to +1.
@@ -87,6 +77,16 @@ How many units an observation is above or below the standard deviation is, expre
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+How many units an observation is above or below the mean, expressed in standard deviation units.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

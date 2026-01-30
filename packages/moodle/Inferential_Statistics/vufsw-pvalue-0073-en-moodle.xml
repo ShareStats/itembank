@@ -66,6 +66,16 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+The probability is 73% that we observe this difference between young and old people (or an even <strong>smaller</strong> or an even <strong>greater</strong> difference), if the <strong>zero</strong> hypothesis is TRUE.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 The probability is 73% that we observe this difference between young and old people (or an even <strong>greater </strong>difference), if the <strong>alternative</strong> hypothesis is TRUE.
 </p>]]></text>
 <feedback format="html">
@@ -84,16 +94,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-There is a 73% chance that we observe this difference between young and old people (or an even <strong>greater </strong>difference), if the <strong>zero</strong> hypothesis is TRUE.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 There is a 73% probability that we observe this difference between young and old people (or an even <strong>smaller</strong> or an even <strong>greater</strong> difference), if the <strong>alternative</strong> hypothesis is TRUE.
@@ -104,13 +104,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-The probability is 73% that we observe this difference between young and old people (or an even <strong>smaller</strong> or an even <strong>greater</strong> difference), if the <strong>zero</strong> hypothesis is TRUE.
+There is a 73% chance that we observe this difference between young and old people (or an even <strong>greater </strong>difference), if the <strong>zero</strong> hypothesis is TRUE.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

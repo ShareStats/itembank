@@ -65,16 +65,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Dit item kunnen we het beste ongewijzigd in de schaal <strong>behouden</strong>, omdat de waarde bij “Cronbach’s Alpha if Item Deleted” lager is dan 0,843.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Dit item kunnen we het beste uit de schaal <strong>verwijderen</strong>, omdat de waarde bij “Cronbach’s Alpha if Item Deleted” lager is dan 0,80.
@@ -82,6 +72,16 @@ Dit item kunnen we het beste uit de schaal <strong>verwijderen</strong>, omdat d
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Dit item kunnen we het beste ongewijzigd in de schaal <strong>behouden</strong>, omdat de waarde bij “Cronbach’s Alpha if Item Deleted” lager is dan 0,843.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

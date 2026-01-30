@@ -54,6 +54,16 @@ Theorem II is also correct because if you replace X with 0 then the equation Y=b
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Both statements are not correct
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Both statements are correct
@@ -61,16 +71,6 @@ Both statements are correct
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Theorem I. is correct and theorem II. is not correct
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>
@@ -86,7 +86,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Both statements are not correct
+Theorem I. is correct and theorem II. is not correct
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

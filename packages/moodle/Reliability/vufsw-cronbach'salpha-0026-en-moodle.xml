@@ -52,19 +52,9 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-This item is best <strong>ompolled</strong> (recoded), because the Item-Total Correlation has a high negative value.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-We can best <strong>standardize</strong> this item, because the z-score of item5 will thus have a high positive Item-Total Correlation.
+This item is best <strong>removed</strong> from the scale because the Item-Total Correlation has a high negative value.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -74,7 +64,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-It is best to <strong>remove</strong> this item from the scale, because the value at “Cronbach’s Alpha if Item Deleted” is higher than 0.80.
+We can best <strong>standardize</strong> this item, because the z-score of item5 will thus have a high positive Item-Total Correlation.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -92,9 +82,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+This item is best <strong>ompolled</strong> (recoded), because the Item-Total Correlation has a high negative value.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-This item is best <strong>removed</strong> from the scale because the Item-Total Correlation has a high negative value.
+It is best to <strong>remove</strong> this item from the scale, because the value at “Cronbach’s Alpha if Item Deleted” is higher than 0.80.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -59,7 +59,7 @@ How can we calculate the <strong>indirect effect</strong>?</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-C<strong>’</strong> + b
+C<strong>’</strong> * b
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -79,7 +79,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-C<strong>’</strong> * b
+C + c<strong>’</strong>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -89,7 +89,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-C + c<strong>’</strong>
+C<strong>’</strong> + b
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -56,7 +56,17 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Pareduc endogenous; cned endogenous
+Pareduc endogenous; cned exogenous
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Pareduc exogenous; cned exogenous
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -76,17 +86,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Pareduc exogenous; cned exogenous
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Pareduc endogenous; cned exogenous
+Pareduc endogenous; cned endogenous
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

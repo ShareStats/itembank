@@ -55,7 +55,29 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+<ul>
+<li>and <em>b</em></li>
+</ul>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 <em>c’</em>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<em>b</em>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -75,7 +97,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-<em>b</em>
+<em>c</em>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -95,9 +117,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-<ul>
-<li>and <em>b</em></li>
-</ul>
+<em>a</em>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -110,26 +130,6 @@ False
 <ul>
 <li>and <em>c’</em></li>
 </ul>
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-<em>c</em>
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-<em>a</em>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

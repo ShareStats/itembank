@@ -74,16 +74,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The indirect effect is the effect of X on Y controlled for the effect of mediator (mediating variable) on Y.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 The indirect effect is the effect of X on Y that proceeds through the mediator (mediating variable).
@@ -97,6 +87,16 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 The indirect effect is the effect of mediator (mediating variable) on Y, controlled for the effect of X on Y.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The indirect effect is the effect of X on Y controlled for the effect of mediator (mediating variable) on Y.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

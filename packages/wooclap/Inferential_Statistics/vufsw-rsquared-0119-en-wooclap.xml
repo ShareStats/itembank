@@ -56,16 +56,6 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The squared Regression Sum of Squares.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 The squared prediction error (“prediction error”).
 </p>]]></text>
 <feedback format="html">
@@ -76,7 +66,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The squared residuals.
+The squared Regression Sum of Squares.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -97,6 +87,16 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 The correlation between all B coefficients in the regression model.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The squared residuals.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

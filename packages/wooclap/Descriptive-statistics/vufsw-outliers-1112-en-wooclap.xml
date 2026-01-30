@@ -51,6 +51,16 @@ sample is …</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The median.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 The mean.
@@ -64,16 +74,6 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 The correct answer is not given because it depends on the type of the distribution..
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The median.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

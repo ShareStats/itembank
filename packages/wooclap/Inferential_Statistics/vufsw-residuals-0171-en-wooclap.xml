@@ -55,13 +55,13 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-The residual
+The error rate
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -87,6 +87,16 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+The *prediction interval
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 The intercept
 </p>]]></text>
 <feedback format="html">
@@ -95,23 +105,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-The error rate
+The residual
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The *prediction interval
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

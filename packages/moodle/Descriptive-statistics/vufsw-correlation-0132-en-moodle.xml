@@ -51,6 +51,16 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Stays exactly the same.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Becomes exactly 0.00.
@@ -73,7 +83,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Can become either higher or lower; this depends on whether the difference between the averages of X and Y is greater or less than 0.00.
+Can become either higher or lower; it depends on whether the relationship between X and Y is positive or negative.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -81,19 +91,9 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Stays exactly the same.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Can become either higher or lower; it depends on whether the relationship between X and Y is positive or negative.
+Can become either higher or lower; this depends on whether the difference between the averages of X and Y is greater or less than 0.00.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -54,16 +54,6 @@ om de assumptie te checken dat…</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De conditionele standaard deviatie van y (s<sub>res</sub>) voor elke waarde van x identiek is (constante variantie).
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De gestandaardiseerde slope (Beta) en correlatiecoëfficiënt (<em>r</em>) altijd even groot zijn bij elke waarde van x (lineariteit).
@@ -76,7 +66,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De verklaarde variantie (R<sup>2</sup>) en de marginale variantie altijd identiek zijn aan elkaar (homogeniteit).
+De relatie tussen de afhankelijke en onafhankelijke variabele causaal is (causaliteit).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -84,9 +74,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De conditionele standaard deviatie van y (s<sub>res</sub>) voor elke waarde van x identiek is (constante variantie).
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De relatie tussen de afhankelijke en onafhankelijke variabele causaal is (causaliteit).
+De verklaarde variantie (R<sup>2</sup>) en de marginale variantie altijd identiek zijn aan elkaar (homogeniteit).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

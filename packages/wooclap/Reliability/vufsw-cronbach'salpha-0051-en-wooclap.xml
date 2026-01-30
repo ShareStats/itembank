@@ -50,16 +50,6 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-The Cronbach’s alpha between indicators remaining if you were to remove the indicator in question were to remove it from the scale.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 The Cronbach’s alpha between indicators if you were to remove from the scale the indicator removes all scores that are more than 2 standard deviations from the mean.
@@ -77,6 +67,16 @@ The Cronbach’s alpha between the indicators if you were to standardize the rel
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The Cronbach’s alpha between indicators remaining if you were to remove the indicator in question were to remove it from the scale.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

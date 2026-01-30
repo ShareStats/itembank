@@ -75,7 +75,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Gender (SEX) and education (EDUCYRS), because the 95% confidence intervals of these variables contain the value 0.05.
+Education (EDUCYRS) and Age (AGE), because the 95% confidence intervals of this variable do <strong>not</strong> contain the value 0.05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -85,7 +85,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Education (EDUCYRS) and Age (AGE), because the 95% confidence intervals of this variable do <strong>not</strong> contain the value 0.05.
+Gender (SEX) and education (EDUCYRS), because the 95% confidence intervals of these variables contain the value 0.05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

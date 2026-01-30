@@ -53,26 +53,6 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Yes, because the number 0.05 lies within the interval.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Yes, because the number 0.00 lies within the interval.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Yes, because the number 0.025 lies within the interval.
 </p>]]></text>
 <feedback format="html">
@@ -83,7 +63,27 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Yes, because the number 0.05 lies within the interval.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 No, because the number 0.025 lies within the interval.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Yes, because the number 0.00 lies within the interval.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

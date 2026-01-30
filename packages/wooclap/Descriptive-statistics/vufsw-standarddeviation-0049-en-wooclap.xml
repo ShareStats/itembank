@@ -56,26 +56,6 @@ The table below shows: Students who received tutoring program “<em>Boost</em>�
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-In the tutoring program “<em>Boost</em>”, because the standard deviation there is smaller.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-In the tutoring program “<em>Enhance</em>”, because the standard deviation is closer to the mean score there.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 In the tutoring program “<em>Enhance</em>”, because the standard deviation there is larger.
@@ -88,7 +68,27 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+In the tutoring program “<em>Boost</em>”, because the standard deviation there is smaller.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 In the tutoring program “<em>Boost</em>”, because the standard deviation there is closer to the mean score.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+In the tutoring program “<em>Enhance</em>”, because the standard deviation is closer to the mean score there.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

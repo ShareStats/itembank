@@ -55,26 +55,6 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-R<sup>2</sup> hangt af van de gekozen meeteenheden.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-R<sup>2</sup> meet <strong>niet</strong> de sterkte van de relatie tussen X en Y.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 R<sup>2</sup> meet het percentage van de variantie in Y dat wordt verklaard door X. door X.
@@ -87,7 +67,27 @@ Waar
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+R<sup>2</sup> hangt af van de gekozen meeteenheden.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 R<sup>2</sup> neemt waarden aan tussen -1 en 1.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+R<sup>2</sup> meet <strong>niet</strong> de sterkte van de relatie tussen X en Y.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

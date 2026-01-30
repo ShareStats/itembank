@@ -70,16 +70,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-This is the intercept, this value is 0 if X<sub>1 </sub> has no effect on Y.<sub> </sub>
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 This is the constant, this is the value of Y if X<sub>1 </sub>is equal to 0.<sub> </sub>
@@ -93,6 +83,16 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 This is the alpha, this value belongs to a certain t-statistic and we have to look up in a table.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+This is the intercept, this value is 0 if X<sub>1 </sub> has no effect on Y.<sub> </sub>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

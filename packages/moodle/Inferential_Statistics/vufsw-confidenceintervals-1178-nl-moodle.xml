@@ -55,7 +55,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Het populatiegemiddelde
+Het aandeel van de steekproef
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -73,6 +73,16 @@ Onwaar
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het populatiegemiddelde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 De verhouding van de populatie
@@ -80,16 +90,6 @@ De verhouding van de populatie
 <feedback format="html">
 <text><![CDATA[<p>
 Waar
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Het aandeel van de steekproef
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
 </p>]]></text>
 </feedback>
 </answer>

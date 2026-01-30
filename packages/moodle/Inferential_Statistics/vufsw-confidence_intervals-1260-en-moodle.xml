@@ -68,16 +68,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The values of the interval are in the critical area, so we cannot reject the null hypothesis.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 In at least 95% of all possible samples, we will find an average weight loss between 1.6 and 2.8.
@@ -85,6 +75,16 @@ In at least 95% of all possible samples, we will find an average weight loss bet
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The values of the interval are in the critical area, so we cannot reject the null hypothesis.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

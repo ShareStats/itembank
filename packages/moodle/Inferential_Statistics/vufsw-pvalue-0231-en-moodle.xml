@@ -50,26 +50,6 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Assuming that the <strong>alternative</strong> hypothesis (H<sub>a</sub>) is true is true in the <strong>population</strong>, how (un)likely is it to have this observed t-value (or an even more extreme t-value)? If it is very unlikely, then we reject the null hypothesis.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Assuming that the <strong>zero hypothesis</strong> (H<sub>0</sub>) is TRUE in the <strong>sample</strong>, how (un)likely is it to be this observed t-value (or an even more extreme t-value)? If it is highly unlikely, then we reject the null hypothesis.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Assuming that the <strong>zero hypothesis</strong> (H<sub>0</sub>) is TRUE in the <strong>population</strong>, how (un)probable is it to obtain this observed t value (or an even more extreme t value)? If it is highly unlikely, then we reject the null hypothesis.
@@ -82,7 +62,27 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Assuming that the <strong>alternative</strong> hypothesis (H<sub>a</sub>) is true is true in the <strong>population</strong>, how (un)likely is it to have this observed t-value (or an even more extreme t-value)? If it is very unlikely, then we reject the null hypothesis.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Assuming that the <strong>alternative</strong> hypothesis (H<sub>a</sub>) is true is true in the <strong>sample</strong>, how (un)likely is it to have this observed t-value (or an even more extreme t-value)? If it is very unlikely, then we reject the null hypothesis.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Assuming that the <strong>zero hypothesis</strong> (H<sub>0</sub>) is TRUE in the <strong>sample</strong>, how (un)likely is it to be this observed t-value (or an even more extreme t-value)? If it is highly unlikely, then we reject the null hypothesis.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

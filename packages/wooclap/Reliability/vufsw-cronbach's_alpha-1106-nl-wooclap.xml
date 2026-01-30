@@ -54,6 +54,16 @@ zelfvertrouwen). De Cronbach’s alpha van deze schaal is 0,68.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Nog een extra item aan de schaal toe te voegen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Een item met een waarde van 0,65 bij “Cronbach’s alpha if item deleted” te verwijderen.
@@ -71,16 +81,6 @@ Alle genoemde antwoorden zijn juist.
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Nog een extra item aan de schaal toe te voegen.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

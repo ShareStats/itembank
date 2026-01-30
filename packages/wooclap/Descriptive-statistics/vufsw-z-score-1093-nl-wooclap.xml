@@ -50,19 +50,9 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Ze is onafhankelijk van de meeteenheid van X
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Waar
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Het is altijd een positief getal
+Hij varieert tussen -1,96 en 1,96
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -82,11 +72,21 @@ Onwaar
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Hij varieert tussen -1,96 en 1,96
+Het is altijd een positief getal
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Ze is onafhankelijk van de meeteenheid van X
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
 </p>]]></text>
 </feedback>
 </answer>

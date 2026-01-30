@@ -57,9 +57,19 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Wordt altijd lager.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Blijft altijd gelijk.
+Kan zowel hoger als lager worden.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -79,21 +89,11 @@ Onwaar
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Kan zowel hoger als lager worden.
+Blijft altijd gelijk.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 Onwaar
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Wordt altijd lager.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Waar
 </p>]]></text>
 </feedback>
 </answer>

@@ -65,16 +65,6 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-68% van de observaties ligt tussen 6.71 en 7.13.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 95% van de observaties ligt tussen 6.08 en 7.76.
@@ -82,6 +72,16 @@ False
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+95% van de observaties ligt tussen 6.82 en 7.03.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -97,7 +97,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-95% van de observaties ligt tussen 6.82 en 7.03.
+68% van de observaties ligt tussen 6.71 en 7.13.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

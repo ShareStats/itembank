@@ -55,6 +55,16 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Both statements are incorrect.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Statement 1 is correct and statement 2 is incorrect.
@@ -68,16 +78,6 @@ True
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Both statements are correct.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Both statements are incorrect.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

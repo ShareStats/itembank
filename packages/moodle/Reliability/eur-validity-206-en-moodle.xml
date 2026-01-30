@@ -52,13 +52,13 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Because malingering produces systematic variance, the reliability will be affected negatively. The validity is also negatively affected.
+Because malingering produces systematic variance, the reliability will be affected positively. The validity is however negatively affected.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -82,13 +82,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Because malingering produces systematic variance, the reliability will be affected positively. The validity is however negatively affected.
+Because malingering produces systematic variance, the reliability will be affected negatively. The validity is also negatively affected.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>

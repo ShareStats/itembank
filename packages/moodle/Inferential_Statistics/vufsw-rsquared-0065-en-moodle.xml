@@ -57,7 +57,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The value of R<sup>2</sup>is always between -1 and 1.
+R<sup>2</sup> = 1 if the B coefficients of all the independent variables in the regression model have the value 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -87,7 +87,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-R<sup>2</sup> = 1 if the B coefficients of all the independent variables in the regression model have the value 0.
+The value of R<sup>2</sup>is always between -1 and 1.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

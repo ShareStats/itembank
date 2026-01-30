@@ -59,13 +59,13 @@ kies het juiste antwoord.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Alleen stelling 2 is correct
+Alleen stelling 1 is correct
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -79,19 +79,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Alleen stelling 1 is correct
+Geen van beide stellingen is correct
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Geen van beide stellingen is correct
+Alleen stelling 2 is correct
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

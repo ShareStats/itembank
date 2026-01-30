@@ -51,26 +51,6 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Die mag iets lager zijn dan bij toetsing van individuen.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Goed
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Die moet hoger zijn dan bij toetsing van individuen
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Fout
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Die moet ongeveer even hoog zijn als bij toetsing van individuen.
@@ -84,6 +64,26 @@ Fout
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De vereiste betrouwbaarheid hangt af van de spreiding in de angstscores van de kinderen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Die mag iets lager zijn dan bij toetsing van individuen.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Goed
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Die moet hoger zijn dan bij toetsing van individuen
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -54,6 +54,16 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+If the predicted score on Post_Qol of a person still on the waiting list and who scores 0 on the “baseline” quality of life
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 As the lowest score on Postthat appears in the data
@@ -71,16 +81,6 @@ If the predicted score on the ‘baseline’ quality of life, Base|Qol, of someo
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-If the predicted score on Post_Qol of a person still on the waiting list and who scores 0 on the “baseline” quality of life
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

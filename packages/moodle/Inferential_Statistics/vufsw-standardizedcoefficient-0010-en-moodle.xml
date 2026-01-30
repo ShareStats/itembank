@@ -58,7 +58,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-What is the mean value of Y, when X has the value 0.
+How much the value of Y changes, when X increases by one, while the inverse influence of Y on X is held constant.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -76,6 +76,16 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+What is the mean value of Y, when X has the value 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 How much the value of Y changes, expressed in standard deviations of Y, when X increases by one standard deviation.
@@ -83,16 +93,6 @@ How much the value of Y changes, expressed in standard deviations of Y, when X i
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-How much the value of Y changes, when X increases by one, while the inverse influence of Y on X is held constant.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

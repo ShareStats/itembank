@@ -55,16 +55,6 @@ suited to test the difference in hair loss between the two groups?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-A t-test for independent samples, to test the effect of medicine use on hair loss.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 A chi square test, to test the association between medicine use and hair loss.
@@ -82,6 +72,16 @@ A t-test for paired (dependent) samples, to test the effect of medicine use on h
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+A t-test for independent samples, to test the effect of medicine use on hair loss.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

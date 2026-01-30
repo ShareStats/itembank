@@ -66,16 +66,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-If we assume that this sample is among the 95% of samples that contain the population value, the correlation in the population is between .230 and .385.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 For 95%, you can be confident that the population value is between .230 and .385.
@@ -93,6 +83,16 @@ With 95% confidence, the population value fluctuates between .230 and .385.
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+If we assume that this sample is among the 95% of samples that contain the population value, the correlation in the population is between .230 and .385.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

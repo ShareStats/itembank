@@ -154,16 +154,6 @@ Dus II is niet waar.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Geen van beide stellingen is juist.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Alleen Stelling I is waar.
@@ -177,6 +167,16 @@ Waar
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Alleen Stelling II is waar
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Geen van beide stellingen is juist.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

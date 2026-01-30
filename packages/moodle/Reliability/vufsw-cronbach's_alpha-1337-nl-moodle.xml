@@ -57,16 +57,6 @@ items?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Direct een schaal construeren van alle vijf items
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Item g51k ompolen (hercoderen)
@@ -74,6 +64,16 @@ Item g51k ompolen (hercoderen)
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Direct een schaal construeren van de items g51a, g51b, g51l, g51w
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -89,7 +89,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Direct een schaal construeren van de items g51a, g51b, g51l, g51w
+Direct een schaal construeren van alle vijf items
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

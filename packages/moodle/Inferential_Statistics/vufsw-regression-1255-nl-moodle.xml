@@ -55,17 +55,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De afhankelijke variabele
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Een verstorende variabele
+De onafhankelijke variabele
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -85,7 +75,17 @@ Waar
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De onafhankelijke variabele
+Een verstorende variabele
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+De afhankelijke variabele
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

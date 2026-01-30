@@ -65,16 +65,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Hat means we expect the influence of HOURS on CIFFER to be <em>the same</em> for any comparable increase in the number of HOURS will be <em>the same</em>.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 E assume that the number of HOURS will affect CIJFER, <em>but not the other way around</em>.
@@ -92,6 +82,16 @@ E expect the effect to be true for <em>all</em> students in our sample.
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Hat means we expect the influence of HOURS on CIFFER to be <em>the same</em> for any comparable increase in the number of HOURS will be <em>the same</em>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

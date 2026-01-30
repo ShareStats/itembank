@@ -83,16 +83,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-In hoeverre hangt de richting en sterkte van het effect van een oorzaakvariabele X op gevolgvariabele Y af van de waarde van variabele Z?
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 In hoeverre verloopt van het effect van een oorzaakvariabele X op gevolgvariabele Y via de mediërende variabele Z?
@@ -100,6 +90,16 @@ In hoeverre verloopt van het effect van een oorzaakvariabele X op gevolgvariabel
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+In hoeverre hangt de richting en sterkte van het effect van een oorzaakvariabele X op gevolgvariabele Y af van de waarde van variabele Z?
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

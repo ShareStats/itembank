@@ -55,13 +55,13 @@ according to the 95% confidence interval.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-does <strong>not</strong> contain 0.
+may contain or <strong>not</strong> contain 0 (we are not sure).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -75,19 +75,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-contains the true population slope.
+does <strong>not</strong> contain 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-may contain or <strong>not</strong> contain 0 (we are not sure).
+contains the true population slope.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

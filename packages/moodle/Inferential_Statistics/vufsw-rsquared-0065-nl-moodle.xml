@@ -60,6 +60,26 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+R<sup>2</sup> = 1 indien het regressiemodel geen enkele voorspellingsfout (‘prediction error’) maakt.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+R<sup>2</sup> = 1 indien de B-coëfficiënten van alle onafhankelijke variabelen in het regressiemodel de waarde 0 hebben.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 R<sup>2</sup> = 0 indien er geen enkele correlatie is tussen alle onafhankelijke variabelen in het regressiemodel.
@@ -77,26 +97,6 @@ De waarde van R<sup>2 </sup>ligt altijd tussen -1 en 1.
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-R<sup>2</sup> = 1 indien de B-coëfficiënten van alle onafhankelijke variabelen in het regressiemodel de waarde 0 hebben.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-R<sup>2</sup> = 1 indien het regressiemodel geen enkele voorspellingsfout (‘prediction error’) maakt.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

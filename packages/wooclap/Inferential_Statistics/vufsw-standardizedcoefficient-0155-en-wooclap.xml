@@ -68,7 +68,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Recodes each item’s scores to the standard range so that all scores fall between the minimum of -1.00 and maximum of +1.00. lie.
+Recodes the scores of each item without the outliers so that 95% of the scores are at most 2 standard deviations away from the mean.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -88,7 +88,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Recodes the scores of each item without the outliers so that 95% of the scores are at most 2 standard deviations away from the mean.
+Recodes each item’s scores to the standard range so that all scores fall between the minimum of -1.00 and maximum of +1.00. lie.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

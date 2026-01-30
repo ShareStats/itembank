@@ -60,6 +60,16 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+De correlatie tussen alle B-coëfficiënten in het regressiemodel.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 De gekwadrateerde Regression Sum of Squares.
 </p>]]></text>
 <feedback format="html">
@@ -71,16 +81,6 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 De gekwadrateerde voorspellingsfout (‘prediction error’).
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-De correlatie tussen alle B-coëfficiënten in het regressiemodel.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

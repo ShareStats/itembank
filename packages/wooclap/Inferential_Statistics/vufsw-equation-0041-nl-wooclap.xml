@@ -59,9 +59,19 @@ Wat is de juiste regressievergelijking voor de vrouwen?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Y = 3,762 – 0,002 * X
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Y = 3,763 – 0,003 * X
+Y = –1,645 + 0,108 * X
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -81,7 +91,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Y = 0,085 + 0,001 * X
+Y = 3,763 – 0,003 * X
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -89,19 +99,9 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Y = 3,762 – 0,002 * X
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Y = –1,645 + 0,108 * X
+Y = 0,085 + 0,001 * X
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

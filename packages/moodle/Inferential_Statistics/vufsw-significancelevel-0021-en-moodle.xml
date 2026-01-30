@@ -58,7 +58,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Age has <strong>no</strong> significant influence on Income, because the interval does <strong>not</strong> contain the number 0.
+Age has <strong>no</strong> significant influence on Income, because the interval does <strong>not</strong> contain the number 0.05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -78,7 +78,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Age does <strong>have</strong> a significant influence on Income, because the interval does <strong>not</strong> contain the number 0.05.
+Age has <strong>no</strong> significant influence on Income, because the interval does <strong>not</strong> contain the number 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -88,7 +88,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Age has <strong>no</strong> significant influence on Income, because the interval does <strong>not</strong> contain the number 0.05.
+Age does <strong>have</strong> a significant influence on Income, because the interval does <strong>not</strong> contain the number 0.05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
