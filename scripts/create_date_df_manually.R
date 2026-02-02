@@ -10,10 +10,10 @@ system(
 
 # Read and clean the output
 df <- readLines("date_df.txt") |>
-  (\(i) grep("\\.Rmd$", i, value = TRUE))() |> # keep only the Rmd files
-  (\(i)strsplit(i, "\\s+"))() |> #split the string
-  (\(i)lapply(i, \(x) c(x[1], x[4])))() |> #keep only the date and item sublists
-  (\(i)data.frame(do.call(rbind, i)))() 
+  grep(pattern = "\\.Rmd$",  value = TRUE) |> # keep only the Rmd files
+  strsplit("\\s+") |> #split the string
+  lapply(\(x) c(x[1], x[4]))  #keep only the date and item sublists
+df <- data.frame(do.call(rbind, df)) 
 #head(df)
-colnames(df) <- c("date", "item")
+colnames(df) <- c("date", "itempath")
 write.table(df, "date_df.txt", row.names = FALSE) # overwrite .txt file

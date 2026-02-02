@@ -52,9 +52,7 @@ for(i in 1:n){
     xQ <- gsub('\n\n', '\n', xQ)
     
     ## Create dataframe
-    df[[i]] <- data.frame('id' = i-1,
-                          'folder' = folders[i],
-                          #'url' = paste0("https://raw.githubusercontent.com/ShareStats/itembank/main/",all.item.paths[i]),
+    df[[i]] <- data.frame('folder' = folders[i],
                           'name'= names[i],
                           'question' = xQ)
   }, error = function(e){
@@ -91,7 +89,7 @@ metadf$`exextra[Language]`[grepl("ngl", metadf$`exextra[Language]`)] <- "English
 metadf$`exextra[Language]`[grepl('du',metadf$`exextra[Language]`) | grepl('Du',metadf$`exextra[Language]`)]<- 'Dutch'
 
 metadf$`exextra[Language]`[!grepl('Dutch',metadf$`exextra[Language]`) & !grepl('English',metadf$`exextra[Language]`)]<- NA
-metadf$extype
+#metadf$extype
 #unique(metadf$`exextra[Language]`)
 # -------------------------------------------------------------------------
 
@@ -137,15 +135,20 @@ identical(metadf$Name_KEY, url_name_quest_df$Name_KEY) #no
 #  by **excluding**# the mismatches using 'inner_join()' below
 fulldf <- inner_join(url_name_quest_df, metadf, by = 'Name_KEY')
 # Due to typos, the KEYS are not unique and produce many-to-many relations warning
-# As such the merged df has 9097 rows wheres the two tables that were merged have 9046 rows each.
+# As such the merged df has 9081 rows wheres the two tables that were merged have 9040 rows each.
 
 # -------------------------------------------------------------------------
 fulldf <- fulldf %>% 
   dplyr::select(-Name, -Name_KEY)
+# make short-section column -----------------------------------------------
+tmp <-  sub(",.*$", "", fulldf$Section) 
+fulldf$SectionShort <- paste(sub("/.*$", "", tmp), sub(".*/", "", tmp), sep = "/")
+
 # update Jan 2026: add time stamp column ----------------------------------
 datedf <- read.table("date_df.txt", header = TRUE)
 datedf$folder <- gsub('/[^/]+$','', datedf$item)
 datedf <- data.frame('folder' = datedf$folder, 'date' = datedf$date)
+
 # merge the 'datedf' to the 'fulldf' by folder
 fulldf_w_date <- inner_join(fulldf, datedf, by = 'folder')
-write.csv(fulldf, 'sharestats_website.csv')
+write.csv(fulldf_w_date, 'sharestats_website.csv')
