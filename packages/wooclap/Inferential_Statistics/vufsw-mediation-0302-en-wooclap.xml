@@ -55,7 +55,19 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-<em>c</em>
+<em>c’</em>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<ul>
+<li>and <em>b</em></li>
+</ul>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -70,6 +82,16 @@ His regression is incorrect.
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<em>c</em>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -108,28 +130,6 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 <em>b</em> and <em>c’</em>
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-<ul>
-<li>and <em>b</em></li>
-</ul>
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-<em>c’</em>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

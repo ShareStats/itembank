@@ -67,9 +67,19 @@ antwoordcategorieën; dit kunnen afrondingsfouten zijn.</em></p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+0.202
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-0.102
+0.100
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -87,19 +97,9 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-0.202
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-0.100
+0.102
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -66,6 +66,16 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Only the correlation changes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Both covariance and correlation do not change
 </p>]]></text>
 <feedback format="html">
@@ -81,16 +91,6 @@ Only the covariance changes
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Only the correlation changes
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

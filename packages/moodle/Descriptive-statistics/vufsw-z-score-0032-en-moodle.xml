@@ -55,7 +55,7 @@ In Germany, she can get a job where she earns a salary of 4,000 euros. The avera
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-In the United States. The standard error (<em>standard error</em>) of the offered salary is higher in the United States than in Germany.
+In the United States. The z-score of the offered salary is higher in the United States than in Germany.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -65,7 +65,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-In the United States. The z-score of the offered salary is higher in the United States than in Germany.
+In the Germany. The correlation coefficient of the offered salary is higher in the Germany than in the United States.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+In the Germany. The standard error (<em>standard error</em>) of the offered salary is higher in the Germany than in the United States.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -83,6 +93,16 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+In the United States. The standard error (<em>standard error</em>) of the offered salary is higher in the United States than in Germany.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 In the Germany. The z-score of the offered salary is higher in Germany than in the United States.
@@ -90,26 +110,6 @@ In the Germany. The z-score of the offered salary is higher in Germany than in t
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-In the Germany. The standard error (<em>standard error</em>) of the offered salary is higher in the Germany than in the United States.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-In the Germany. The correlation coefficient of the offered salary is higher in the Germany than in the United States.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

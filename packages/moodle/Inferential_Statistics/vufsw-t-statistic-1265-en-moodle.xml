@@ -123,7 +123,7 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Statement II is correct.
+None of the statements is correct.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -131,19 +131,9 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Statement I is correct.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-None of the statements is correct.
+Statement II is correct.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -158,6 +148,16 @@ Both statements are correct.
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Statement I is correct.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

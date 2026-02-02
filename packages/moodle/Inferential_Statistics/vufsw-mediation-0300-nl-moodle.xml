@@ -57,29 +57,19 @@ leermogelijkheden als onafhankelijke variabele weer?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+<em>c</em>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 <em>c’</em>
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Deze regressie is incorrect.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-<em>a</em> en <em>b</em>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -99,7 +89,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-<em>a</em> en <em>c’</em>
+Deze regressie is incorrect.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+<em>a</em>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -119,7 +119,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-<em>a</em>
+<em>a</em> en <em>b</em>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -127,13 +127,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-<em>c</em>
+<em>a</em> en <em>c’</em>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>

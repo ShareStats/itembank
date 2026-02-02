@@ -62,6 +62,16 @@ Standaardwaarde</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Moeten minstens vier onafhankelijke variabelen bevatten.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Kunnen geen repeated-measures en onafhankelijke designs combineren.
 </p>]]></text>
 <feedback format="html">
@@ -73,16 +83,6 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Bevatten alleen een mix van within-group en repeated-measures variabelen.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Moeten minstens vier onafhankelijke variabelen bevatten.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -66,6 +66,16 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Brenda has a higher score than Andrew. Brenda’s z-score is lower than 2.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Andrew has a higher score than Brenda. Andrew’s z-score is lower than 2.
 </p>]]></text>
 <feedback format="html">
@@ -81,16 +91,6 @@ Brenda has a higher score than Andrew. Brenda’s z-score is higher than 2.
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Brenda has a higher score than Andrew. Brenda’s z-score is lower than 2.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

@@ -55,13 +55,13 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-R<sup>2</sup> meet het percentage van de variantie in Y dat wordt verklaard door X. door X.
+R<sup>2</sup> neemt waarden aan tussen -1 en 1.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Waar
+Onwaar
 </p>]]></text>
 </feedback>
 </answer>
@@ -75,13 +75,13 @@ Onwaar
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-R<sup>2</sup> neemt waarden aan tussen -1 en 1.
+R<sup>2</sup> meet het percentage van de variantie in Y dat wordt verklaard door X. door X.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Onwaar
+Waar
 </p>]]></text>
 </feedback>
 </answer>

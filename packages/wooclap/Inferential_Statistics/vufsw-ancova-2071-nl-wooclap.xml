@@ -65,6 +65,16 @@ verstrekt in cultuurparticipatie van degenen die geen cjp krijgen</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alleen uitspraak 1 klopt
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Uitspraak 1 en 2 kloppen allebei
@@ -72,16 +82,6 @@ Uitspraak 1 en 2 kloppen allebei
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Geen van beide uitspraken klopt
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>
@@ -97,7 +97,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Alleen uitspraak 1 klopt
+Geen van beide uitspraken klopt
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

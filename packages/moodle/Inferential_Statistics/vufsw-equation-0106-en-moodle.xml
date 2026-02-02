@@ -52,27 +52,17 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-This is the significance level, this value is determined by the researcher. and is usually 0.05.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-This is the intercept, this value is 0 if X<sub>1 </sub> has no effect on Y.<sub> </sub>
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 This is the value of the alternative hypothesis (H<sub>a</sub>), this value is calculated by SPSS from the sample data.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+This is the significance level, this value is determined by the researcher. and is usually 0.05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -87,6 +77,16 @@ This is the constant, this is the value of Y if X<sub>1 </sub>is equal to 0.<sub
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+This is the intercept, this value is 0 if X<sub>1 </sub> has no effect on Y.<sub> </sub>
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

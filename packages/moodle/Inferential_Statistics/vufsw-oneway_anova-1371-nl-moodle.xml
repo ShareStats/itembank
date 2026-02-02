@@ -67,21 +67,11 @@ usage) zijn blootgesteld aan deze ‘phone microwaves’.<br />
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-H1: alle zes groepen wijken van elkaar af in de gemiddelde ‘ear-damage’
+H1: naarmate de groep meer uren is blootgesteld aan de mobiele telefoon, des groter de ‘ear-damage’ is
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-H1: ten minste één van de zes groepen wijkt af in gemiddelde ‘ear-damage’
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>
@@ -97,11 +87,21 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-H1: naarmate de groep meer uren is blootgesteld aan de mobiele telefoon, des groter de ‘ear-damage’ is
+H1: alle zes groepen wijken van elkaar af in de gemiddelde ‘ear-damage’
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+H1: ten minste één van de zes groepen wijkt af in gemiddelde ‘ear-damage’
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

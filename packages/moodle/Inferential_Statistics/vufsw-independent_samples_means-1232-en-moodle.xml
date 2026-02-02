@@ -61,19 +61,19 @@ H<sub>0</sub> is not rejected because …</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-p &gt; α.
+This conclusion is incorrect. H<sub>0</sub> has to be be rejected.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-This conclusion is incorrect. H<sub>0</sub> has to be be rejected.
+a and b are both correct.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -91,13 +91,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-a and b are both correct.
+p &gt; α.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

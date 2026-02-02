@@ -64,19 +64,19 @@ regressie-analyse of voor het uitvoeren van een Chi-kwadraattoets
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Een Chi-kwadraattoets, want we moeten in dit geval de <em>confounding</em> (‘verstorende’) variabelen juist wel constant houden.
+Een Chi-kwadraattoets, want de variabele stemvoorkeur is een categorische variabele met meerdere categorieën zonder rangordening.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Een enkelvoudige regressie-analyse, want de steekproef bestaat uit meer dan 100 respondenten.
+Een Chi-kwadraattoets, want we moeten in dit geval de <em>confounding</em> (‘verstorende’) variabelen juist wel constant houden.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -94,13 +94,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Een Chi-kwadraattoets, want de variabele stemvoorkeur is een categorische variabele met meerdere categorieën zonder rangordening.
+Een enkelvoudige regressie-analyse, want de steekproef bestaat uit meer dan 100 respondenten.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>

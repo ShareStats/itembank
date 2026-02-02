@@ -51,6 +51,26 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Een 99%-betrouwbaarheidsinterval.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Alle bovenstaande betrouwbaarheidsintervallen zijn even groot.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Een 95% betrouwbaarheidsinterval.
@@ -68,26 +88,6 @@ Een 90% betrouwbaarheidsinterval.
 <feedback format="html">
 <text><![CDATA[<p>
 Onjuist
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Alle bovenstaande betrouwbaarheidsintervallen zijn even groot.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Een 99%-betrouwbaarheidsinterval.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Waar
 </p>]]></text>
 </feedback>
 </answer>

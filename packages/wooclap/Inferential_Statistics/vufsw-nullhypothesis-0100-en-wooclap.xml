@@ -51,13 +51,13 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-H<sub>0</sub>: µ1 - µ2 = 0.
+H<sub>0</sub>: µ1 &lt; 0 and µ2 = 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -83,27 +83,27 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-H<sub>0</sub>: µ1 &lt; 0 and µ2 = 0.
+H<sub>0</sub>: µ1 + µ2 = 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+H<sub>0</sub>: µ1 - µ2 = 0.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 H<sub>0</sub>: µ1 &lt; µ2.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-H<sub>0</sub>: µ1 + µ2 = 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

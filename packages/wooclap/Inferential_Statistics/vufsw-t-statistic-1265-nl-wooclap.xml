@@ -109,19 +109,19 @@ II. Een secretaresse typt gemiddeld met een snelheid van 3,50 woorden per minuut
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Beide Stellingen zijn juist.
+Stelling I is juist.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Onwaar
+Waar
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Geen van de Stellingen is juist.
+Beide Stellingen zijn juist.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -139,13 +139,13 @@ Onwaar
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Stelling I is juist.
+Geen van de Stellingen is juist.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Waar
+Onwaar
 </p>]]></text>
 </feedback>
 </answer>

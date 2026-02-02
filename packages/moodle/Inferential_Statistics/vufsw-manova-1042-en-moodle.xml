@@ -59,6 +59,16 @@ explain with this model. So, again there is no need for a MANOVA.</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Weakly correlate.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Perfectly correlate.
 </p>]]></text>
 <feedback format="html">
@@ -69,7 +79,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Weakly correlate.
+Very strongly correlate.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -84,16 +94,6 @@ Moderately correlate.
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Very strongly correlate.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

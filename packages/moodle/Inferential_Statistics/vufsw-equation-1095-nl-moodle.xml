@@ -55,7 +55,27 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Y = 10 - 2 * X
+Y = 10 - 20 * X
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Y = 20 - 0,5 * X
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Y = 20 - 10 * X
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -75,27 +95,7 @@ Waar
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Y = 10 - 20 * X
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Y = 20 - 10 * X
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Y = 20 - 0,5 * X
+Y = 10 - 2 * X
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

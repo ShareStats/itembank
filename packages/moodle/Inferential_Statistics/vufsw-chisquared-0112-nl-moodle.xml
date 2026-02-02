@@ -78,13 +78,13 @@ residual</em>) tussen haakjes.<br />
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Er zijn minder respondenten in deze cel dan je zou verwachten als er <em>geen</em> enkele samenhang zou zijn tussen leeftijd en contact met politie. Dit verschil is echter niet significant (indien we een significantieniveau van 5% hanteren), want de waarde 4,2 is groter dan 1,96.
+Er zijn meer respondenten in deze cel dan je zou verwachten als er <em>geen</em> enkele samenhang zou zijn tussen leeftijd en contact met politie. Dit verschil is significant (indien we een significantieniveau van 5% hanteren), want de waarde 4,2 is groter dan 1,96.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -98,19 +98,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Er zijn meer respondenten in deze cel dan je zou verwachten als er <em>geen</em> enkele samenhang zou zijn tussen leeftijd en contact met politie. Dit verschil is significant (indien we een significantieniveau van 5% hanteren), want de waarde 4,2 is groter dan 1,96.
+Er zijn minder respondenten in deze cel dan je zou verwachten als er <em>geen</em> enkele samenhang zou zijn tussen leeftijd en contact met politie. Dit verschil is significant (indien we een significantieniveau van 5% hanteren), want de waarde 4,2 is groter dan 1,96.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Er zijn minder respondenten in deze cel dan je zou verwachten als er <em>geen</em> enkele samenhang zou zijn tussen leeftijd en contact met politie. Dit verschil is significant (indien we een significantieniveau van 5% hanteren), want de waarde 4,2 is groter dan 1,96.
+Er zijn minder respondenten in deze cel dan je zou verwachten als er <em>geen</em> enkele samenhang zou zijn tussen leeftijd en contact met politie. Dit verschil is echter niet significant (indien we een significantieniveau van 5% hanteren), want de waarde 4,2 is groter dan 1,96.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

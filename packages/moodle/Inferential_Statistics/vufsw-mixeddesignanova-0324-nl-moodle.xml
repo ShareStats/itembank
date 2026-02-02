@@ -57,13 +57,13 @@ voor spijbelen.  Welke analysemethode kan de onderzoeker
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Mixed Design ANOVA met de schaal van motivatie als afhankelijke variabele en met de participatie aan het programma als <em>within variable</em> en alle andere gemeten kenmerken als <em>between variables</em>
+Lineaire regressie spijbelen als afhankelijke variabele, de participatie aan het programma als onafhankelijke variabele en alle andere gemeten kenmerken als controle variabelen
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -77,19 +77,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-One-way ANOVA met spijbelen als afhankelijke variabele en deelname aan het programma als onafhankelijke variabele
+Mixed Design ANOVA met de schaal van motivatie als afhankelijke variabele en met de participatie aan het programma als <em>within variable</em> en alle andere gemeten kenmerken als <em>between variables</em>
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Lineaire regressie spijbelen als afhankelijke variabele, de participatie aan het programma als onafhankelijke variabele en alle andere gemeten kenmerken als controle variabelen
+One-way ANOVA met spijbelen als afhankelijke variabele en deelname aan het programma als onafhankelijke variabele
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

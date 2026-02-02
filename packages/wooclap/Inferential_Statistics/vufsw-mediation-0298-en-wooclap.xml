@@ -55,13 +55,13 @@ With high confidence, we can state that the indirect effect is higher than _____
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-[1] = -0.0134 [2] = 0.0036 "3” = insufficient
+[1] = -0.0134 [2] = 0.0196 "3” = insufficient
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
@@ -77,7 +77,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-[1] = 0.0081 [2] = 0.0196 \3” = adequate
+[1] = -0.0134 [2] = 0.0036 "3” = insufficient
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+[1] = -0.0134 [2] = 0.0081 "3” = insufficient
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -95,19 +105,9 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-[1] = -0.0134 [2] = 0.0196 "3” = insufficient
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-[1] = -0.0134 [2] = 0.0081 "3” = insufficient
+[1] = 0.0081 [2] = 0.0196 \3” = adequate
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

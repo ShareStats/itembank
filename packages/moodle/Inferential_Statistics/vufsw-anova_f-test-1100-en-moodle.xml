@@ -69,16 +69,6 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-The regression model with gender does significantly better in explaining the variance in empathy than a model without explanatory variables.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 The association between gender and empathy is positive and statistically significant.
@@ -86,6 +76,16 @@ The association between gender and empathy is positive and statistically signifi
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The regression model with gender does significantly better in explaining the variance in empathy than a model without explanatory variables.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

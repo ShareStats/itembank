@@ -61,19 +61,9 @@ best gebruiken?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Mixed design ANOVA met licht en duur als within variables en geslacht als between variable
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Repeated Measures ANOVA met licht en duur als within variables
+Repeated Measures ANOVA met licht,  duur en geslacht als within variables
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -93,11 +83,21 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Repeated Measures ANOVA met licht,  duur en geslacht als within variables
+Repeated Measures ANOVA met licht en duur als within variables
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Mixed design ANOVA met licht en duur als within variables en geslacht als between variable
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

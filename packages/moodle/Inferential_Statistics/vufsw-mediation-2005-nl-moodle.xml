@@ -65,6 +65,16 @@ model summary)?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+0.307
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 0.952
@@ -77,7 +87,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-0.307
+0.906
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -88,16 +98,6 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 .0693
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-0.906
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

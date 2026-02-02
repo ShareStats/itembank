@@ -52,6 +52,16 @@ What analysis technique should we use to determine which film was the most instr
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+MANOVA
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Repeated-measures ANOVA
@@ -59,16 +69,6 @@ Repeated-measures ANOVA
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-One-way ANOVA
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>
@@ -84,7 +84,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-MANOVA
+One-way ANOVA
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

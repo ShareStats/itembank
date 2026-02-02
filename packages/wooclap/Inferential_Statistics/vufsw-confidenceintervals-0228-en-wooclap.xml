@@ -55,7 +55,7 @@ The effect of / the effects of … </p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Gender (SEX) and age (AGE), because the 95% confidence intervals of these variables contain the value 0.
+Education (EDUCYRS) and Age (AGE), because the 95% confidence intervals of this variable do <strong>not</strong> contain the value 0.05.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -75,7 +75,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Education (EDUCYRS) and Age (AGE), because the 95% confidence intervals of this variable do <strong>not</strong> contain the value 0.05.
+Gender (SEX) and age (AGE), because the 95% confidence intervals of these variables contain the value 0.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

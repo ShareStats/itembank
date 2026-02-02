@@ -51,6 +51,16 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Als X1 groter wordt, dan wordt X2 ook groter (en omgekeerd). De correlatie is significant.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Als X1 groter wordt, dan wordt X2 kleiner (en omgekeerd). De correlatie is niet significant.
@@ -63,7 +73,7 @@ Waar
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Als X1 groter wordt, dan wordt X2 ook groter (en omgekeerd). De correlatie is significant.
+Als X1 groter wordt, dan wordt X2 ook groter (en omgekeerd). De correlatie is niet significant.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -74,16 +84,6 @@ Onwaar
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Als X1 groter wordt, dan wordt X2 kleiner (en omgekeerd). De correlatie is significant.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Als X1 groter wordt, dan wordt X2 ook groter (en omgekeerd). De correlatie is niet significant.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

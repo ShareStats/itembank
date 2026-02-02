@@ -163,16 +163,6 @@ Als je meer wilt weten over categorische associaties, kijk dan naar deze <a hre
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Een t-toets met 149 vrijheidsgraden
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Een chi-kwadraat toets met 2 vrijheidsgraden
@@ -196,6 +186,16 @@ Onwaar
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Een chi-kwadraat toets met 149 vrijheidsgraden
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Een t-toets met 149 vrijheidsgraden
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -60,19 +60,9 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-The intention to buy the juice is greater when the juice has many ‘likes’ than when the juice has few ‘likes’; the difference is not significant
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Intention to buy the juice is greater when the juice has many likes than when the juice has few likes; the difference is significant
+The intention to buy the juice is less when the juice has many likes’ than when the juice has few likes; the difference is significant
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -92,11 +82,21 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The intention to buy the juice is less when the juice has many likes’ than when the juice has few likes; the difference is significant
+Intention to buy the juice is greater when the juice has many likes than when the juice has few likes; the difference is significant
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The intention to buy the juice is greater when the juice has many ‘likes’ than when the juice has few ‘likes’; the difference is not significant
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

@@ -154,19 +154,19 @@ Dus II is niet waar.</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Alleen Stelling I is waar.
+Alleen Stelling II is waar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Waar
+Onwaar
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Alleen Stelling II is waar
+Beide stellingen zijn waar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -184,13 +184,13 @@ Onwaar
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Beide stellingen zijn waar
+Alleen Stelling I is waar.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Onwaar
+Waar
 </p>]]></text>
 </feedback>
 </answer>

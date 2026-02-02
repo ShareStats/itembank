@@ -57,27 +57,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The distribution is right-skewed. The mean happiness level is lower than the mode and lower than the median.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 The distribution is right-skewed. The mean happiness level is lower than the mode, but higher than the median.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The distribution is left-skewed. The mean happiness level is lower than the mode, but higher than the median.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -92,6 +72,26 @@ The distribution is left-skewed. The mean happiness level is lower than the mode
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The distribution is right-skewed. The mean happiness level is lower than the mode and lower than the median.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The distribution is left-skewed. The mean happiness level is lower than the mode, but higher than the median.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

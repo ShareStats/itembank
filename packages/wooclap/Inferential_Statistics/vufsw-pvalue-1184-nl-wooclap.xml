@@ -51,9 +51,19 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+De z-score is -1.88 of lager.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Waar
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De z-score is -1,88 of hoger.
+De z-score ligt tussen -1,96 en -1,88.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -71,19 +81,9 @@ Onwaar
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-De z-score is -1.88 of lager.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Waar
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De z-score ligt tussen -1,96 en -1,88.
+De z-score is -1,88 of hoger.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -51,9 +51,19 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Grades
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Number of hours of study per week
+The Vrije Universiteit Amsterdam
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -71,19 +81,9 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Grades
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The Vrije Universiteit Amsterdam
+Number of hours of study per week
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

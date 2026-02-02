@@ -50,13 +50,13 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Theorem I is **incorrect and theorem II is correct
+Both proposition I and proposition II are **incorrect
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -70,19 +70,19 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Both Theorem I and Theorem II are correct.
+Theorem I is **incorrect and theorem II is correct
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Both proposition I and proposition II are **incorrect
+Both Theorem I and Theorem II are correct.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

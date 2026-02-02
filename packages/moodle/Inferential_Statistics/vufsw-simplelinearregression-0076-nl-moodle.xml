@@ -60,6 +60,16 @@ Wat kun je zeggen over de <strong>causaliteit</strong> tussen X and Y? </p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Hoe vaak iemand per week nieuwsartikelen leest, is alleen causaal gerelateerd aan iemands politieke interesse indien er geen <em>prediction errors</em> (voorspellingsfouten) zijn.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 We kunnen op basis van een regressie-analyse geen harde conclusie trekken over de causaliteit en moeten goed nadenken over mogelijke alternatieve verklaringen voor het gevonden verband.
@@ -67,16 +77,6 @@ We kunnen op basis van een regressie-analyse geen harde conclusie trekken over d
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Hoe vaak iemand per week nieuwsartikelen leest, is alleen causaal gerelateerd aan iemands politieke interesse indien er geen <em>influential outliers</em> (invloedrijke uitbijters) zijn.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>
@@ -92,7 +92,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Hoe vaak iemand per week nieuwsartikelen leest, is alleen causaal gerelateerd aan iemands politieke interesse indien er geen <em>prediction errors</em> (voorspellingsfouten) zijn.
+Hoe vaak iemand per week nieuwsartikelen leest, is alleen causaal gerelateerd aan iemands politieke interesse indien er geen <em>influential outliers</em> (invloedrijke uitbijters) zijn.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

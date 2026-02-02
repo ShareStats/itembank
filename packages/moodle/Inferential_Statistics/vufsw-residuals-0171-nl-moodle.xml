@@ -63,16 +63,6 @@ Default value</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Het <em>prediction interval</em> (het voorspellingsinterval)
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 De conditionele standaarddeviatie
 </p>]]></text>
 <feedback format="html">
@@ -83,7 +73,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-De foutenkans
+Het intercept
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -113,7 +103,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Het intercept
+De foutenkans
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Het <em>prediction interval</em> (het voorspellingsinterval)
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

@@ -76,6 +76,16 @@ False
 </p>]]></text>
 </feedback>
 </answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Nee, want deze grafiek laat zien dat er geen lineaire relatie is tussen X en Y.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 We kunnen dat niet zeggen op basis van alleen deze informatie; we kunnen de assumpties bij een regressie-analyse niet beoordelen op basis van deze gegevens.
@@ -93,16 +103,6 @@ Nee, want uit deze grafiek blijkt dat de conditionele standaarddeviatie (s<sub>r
 <feedback format="html">
 <text><![CDATA[<p>
 False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Nee, want deze grafiek laat zien dat er geen lineaire relatie is tussen X en Y.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
 </p>]]></text>
 </feedback>
 </answer>

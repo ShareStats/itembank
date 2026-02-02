@@ -51,19 +51,19 @@ een lineair regressiemodel?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Ervan uitgaande dat de <strong>nulhypothese</strong> (H<sub>0</sub>) waar is in de <strong>populatie</strong>, hoe (on)waarschijnlijk is het dan om deze waargenomen t-waarde (of een nog extremere t-waarde) te krijgen? Als het zeer onwaarschijnlijk is, dan verwerpen we de nulhypothese.
+Ervan uitgaande dat de <strong>alternatieve</strong> hypothese (H<sub>a</sub>) waar is in de <strong>populatie</strong>, hoe (on)waarschijnlijk is het dan om deze waargenomen t-waarde (of een nog extremere t-waarde) te krijgen? Als het zeer onwaarschijnlijk is, dan verwerpen we de nulhypothese.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Ervan uitgaande dat de <strong>alternatieve</strong> hypothese (H<sub>a</sub>) waar is in de <strong>populatie</strong>, hoe (on)waarschijnlijk is het dan om deze waargenomen t-waarde (of een nog extremere t-waarde) te krijgen? Als het zeer onwaarschijnlijk is, dan verwerpen we de nulhypothese.
+Ervan uitgaande dat de <strong>alternatieve</strong> hypothese (H<sub>a</sub>) waar is in de <strong>steekproef</strong>, hoe (on)waarschijnlijk is het dan om deze waargenomen t-waarde (of een nog extremere t-waarde) te krijgen? Als het zeer onwaarschijnlijk is, dan verwerpen we de nulhypothese.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -81,13 +81,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Ervan uitgaande dat de <strong>alternatieve</strong> hypothese (H<sub>a</sub>) waar is in de <strong>steekproef</strong>, hoe (on)waarschijnlijk is het dan om deze waargenomen t-waarde (of een nog extremere t-waarde) te krijgen? Als het zeer onwaarschijnlijk is, dan verwerpen we de nulhypothese.
+Ervan uitgaande dat de <strong>nulhypothese</strong> (H<sub>0</sub>) waar is in de <strong>populatie</strong>, hoe (on)waarschijnlijk is het dan om deze waargenomen t-waarde (of een nog extremere t-waarde) te krijgen? Als het zeer onwaarschijnlijk is, dan verwerpen we de nulhypothese.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

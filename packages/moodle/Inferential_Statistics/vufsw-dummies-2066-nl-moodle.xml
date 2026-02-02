@@ -57,19 +57,19 @@ op te nemen?</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Nee, het is niet noodzakelijk, alleen als je niet-lineaire verbanden wilt onderzoeken. Het mag wel: je moet dan 4 dummy-variabelen opnemen
+J​​​​a, het is noodzakelijk want het is een nominale categorische variabele: je moet dan 4 dummy-variabelen opnemen
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Nee, het is niet noodzakelijk, alleen als je niet-lineaire verbanden wilt onderzoeken. Het mag wel: je moet dan 5 dummy-variabelen opnemen
+Nee, het is niet noodzakelijk, alleen als je niet-lineaire verbanden wilt onderzoeken. Het mag wel: je moet dan 4 dummy-variabelen opnemen
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -87,13 +87,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-J​​​​a, het is noodzakelijk want het is een nominale categorische variabele: je moet dan 4 dummy-variabelen opnemen
+Nee, het is niet noodzakelijk, alleen als je niet-lineaire verbanden wilt onderzoeken. Het mag wel: je moet dan 5 dummy-variabelen opnemen
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>

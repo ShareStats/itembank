@@ -57,7 +57,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-R<sup>2</sup> hangt af van de gekozen meeteenheden.
+R<sup>2</sup> meet <strong>niet</strong> de sterkte van de relatie tussen X en Y.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -75,16 +75,6 @@ Onwaar
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-R<sup>2</sup> meet <strong>niet</strong> de sterkte van de relatie tussen X en Y.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 R<sup>2</sup> meet het percentage van de variantie in Y dat wordt verklaard door X. door X.
@@ -92,6 +82,16 @@ R<sup>2</sup> meet het percentage van de variantie in Y dat wordt verklaard door
 <feedback format="html">
 <text><![CDATA[<p>
 Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+R<sup>2</sup> hangt af van de gekozen meeteenheden.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
 </p>]]></text>
 </feedback>
 </answer>

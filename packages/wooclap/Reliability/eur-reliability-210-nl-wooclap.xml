@@ -75,19 +75,19 @@ II. Omdat er een controle groep is, is hier geen sprake van regressie naar het g
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Stelling I en stelling II zijn beide niet waar
+Stelling I is waar en stelling II is niet waar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Goed
+Fout
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Stelling I is waar en stelling II is niet waar
+Stelling I is niet waar en stelling II is waar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -105,13 +105,13 @@ Fout
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Stelling I is niet waar en stelling II is waar
+Stelling I en stelling II zijn beide niet waar
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Fout
+Goed
 </p>]]></text>
 </feedback>
 </answer>

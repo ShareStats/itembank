@@ -55,16 +55,6 @@ gekwadrateerde residuen zo klein mogelijk is.</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Zowel stelling I als stelling II zijn <strong>on</strong>juist
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 Stelling I is juist en stelling II is <strong>on</strong>juist
 </p>]]></text>
 <feedback format="html">
@@ -75,7 +65,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Zowel stelling I als stelling II zijn juist
+Zowel stelling I als stelling II zijn <strong>on</strong>juist
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -90,6 +80,16 @@ Stelling I is <strong>on</strong>juist en stelling II is juist
 <feedback format="html">
 <text><![CDATA[<p>
 True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Zowel stelling I als stelling II zijn juist
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
 </p>]]></text>
 </feedback>
 </answer>

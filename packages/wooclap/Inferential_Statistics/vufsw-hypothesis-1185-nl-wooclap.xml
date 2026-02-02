@@ -57,16 +57,6 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-5.7%
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Fout
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 2.22%
 </p>]]></text>
 <feedback format="html">
@@ -87,11 +77,11 @@ Onwaar
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-19.78%
+5.7%
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-Onwaar
+Fout
 </p>]]></text>
 </feedback>
 </answer>
@@ -102,6 +92,16 @@ Onwaar
 <feedback format="html">
 <text><![CDATA[<p>
 Waar
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+19.78%
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
 </p>]]></text>
 </feedback>
 </answer>

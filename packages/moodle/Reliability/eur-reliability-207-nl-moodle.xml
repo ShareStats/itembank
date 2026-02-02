@@ -56,16 +56,6 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Dit kan komen doordat de true score variantie in de CITO scores hoog is.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Fout
-</p>]]></text>
-</feedback>
-</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Dit kan komen door steekproef fluctuatie in de schatting van Cronbach’s alpha.
@@ -78,7 +68,7 @@ Goed
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dit kan komen doordat de CITO toets een hoge betrouwbaarheid heeft.
+Dit kan komen doordat Cronbach’s alpha een overschatting geeft van de betrouwbaarheid in de populatie.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -88,7 +78,17 @@ Fout
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Dit kan komen doordat Cronbach’s alpha een overschatting geeft van de betrouwbaarheid in de populatie.
+Dit kan komen doordat de true score variantie in de CITO scores hoog is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Fout
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Dit kan komen doordat de CITO toets een hoge betrouwbaarheid heeft.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

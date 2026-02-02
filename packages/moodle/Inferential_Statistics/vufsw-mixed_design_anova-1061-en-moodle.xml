@@ -60,19 +60,19 @@ Standaardwaarde</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-None of the other answers is correct
+Only include a mixture of within-group and repeated-measures variables.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Only include a mixture of within-group and repeated-measures variables.
+Cannot combine repeated-measures and independent designs.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -90,13 +90,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Cannot combine repeated-measures and independent designs.
+None of the other answers is correct
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

@@ -55,6 +55,16 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Always gets lower.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Can go up as well as down.
@@ -67,7 +77,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Always gets lower.
+Always gets higher.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -78,16 +88,6 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Always stays the same.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Always gets higher.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

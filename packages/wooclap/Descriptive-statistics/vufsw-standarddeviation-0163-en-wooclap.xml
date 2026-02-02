@@ -54,7 +54,7 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The standard deviation is higher among the men, because the mean score of the men is much higher than the mean score of the women.
+The standard deviation is higher among men because the median score (median) of the men is much higher than the mean score (median) of the women.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -65,6 +65,16 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 The standard deviation is higher among the women, because the mean score of the women is much lower than the average score of the men.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The standard deviation is higher among females, because the scores in this group further away from the mean of this group.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -84,17 +94,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The standard deviation is higher among men because the median score (median) of the men is much higher than the mean score (median) of the women.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-The standard deviation is higher among females, because the scores in this group further away from the mean of this group.
+The standard deviation is higher among the men, because the mean score of the men is much higher than the mean score of the women.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

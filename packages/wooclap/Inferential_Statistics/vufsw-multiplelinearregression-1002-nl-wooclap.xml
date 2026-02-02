@@ -60,6 +60,16 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Geen van de andere opties is juist
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Onwaar
+</p>]]></text>
+</feedback>
+</answer>
 <answer fraction="100" format="html">
 <text><![CDATA[<p>
 Copingvaardigheid omdat deze de hoogste gestandaardiseerde coëfficiënt heeft
@@ -83,16 +93,6 @@ Onwaar
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 Waargenomen controle omdat het de hoogste niet-gestandaardiseerde coëfficiënt heeft
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Onwaar
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Geen van de andere opties is juist
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

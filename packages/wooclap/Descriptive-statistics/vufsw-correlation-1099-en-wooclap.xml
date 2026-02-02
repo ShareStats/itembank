@@ -55,17 +55,7 @@ z-scores)?</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-becomes 0.00.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-can become either lower or higher depending on whether the association between X and Y is negative or positive.
+becomes 1.00.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -85,7 +75,7 @@ True
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-becomes 1.00.
+can become either lower or higher depending on whether the association between X and Y is negative or positive.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -96,6 +86,16 @@ False
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
 can become either lower or higher depending on whether the difference between the means of X and Y is smaller or larger than 0.00.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+becomes 0.00.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>

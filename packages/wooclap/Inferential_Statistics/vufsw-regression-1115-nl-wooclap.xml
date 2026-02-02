@@ -67,6 +67,16 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+1: regression sum of squares (of model sum of squares), 2: residual sum of squares, 3: total sum of squares.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 1: residual sum of squares, 2: total sum of squares, 3: regression sum of squares (of model sum of squares).
 </p>]]></text>
 <feedback format="html">
@@ -82,16 +92,6 @@ False
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-1: regression sum of squares (of model sum of squares), 2: residual sum of squares, 3: total sum of squares.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

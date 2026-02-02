@@ -57,26 +57,6 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-The intercept = 61. This is a meaningless number and is only included in the regression equation for mathematical reasons.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-The intercept = 61. This is the predicted mental health if the job of the person scores 0 on psychological demands, 0 scores on lack of control over the job, and 0 scores on lack of social support.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
 The intercept = (61-13-9-3=) 36. This is a meaningless number and is included in the regression equation only for mathematical reasons.
 </p>]]></text>
 <feedback format="html">
@@ -92,6 +72,26 @@ The intercept = (61-13-9-3=) 36. This is the predicted mental health if the pers
 <feedback format="html">
 <text><![CDATA[<p>
 False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+The intercept = 61. This is a meaningless number and is only included in the regression equation for mathematical reasons.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+The intercept = 61. This is the predicted mental health if the job of the person scores 0 on psychological demands, 0 scores on lack of control over the job, and 0 scores on lack of social support.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
 </p>]]></text>
 </feedback>
 </answer>

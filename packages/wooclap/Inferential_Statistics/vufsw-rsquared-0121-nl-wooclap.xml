@@ -79,19 +79,19 @@ Default value</p>
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-Deze zal gelijk blijven, omdat de verklaarde variantie <em>niet</em> afhankelijk is van het aantal onafhankelijke variabelen in het model.
+Deze zal dalen, omdat deze onafhankelijke variabele een significante invloed heeft op Y.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Deze zal stijgen, omdat deze onafhankelijke variabele een negatieve invloed heeft op Y.
+Deze zal gelijk blijven, omdat de verklaarde variantie <em>niet</em> afhankelijk is van het aantal onafhankelijke variabelen in het model.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -119,13 +119,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-Deze zal dalen, omdat deze onafhankelijke variabele een significante invloed heeft op Y.
+Deze zal stijgen, omdat deze onafhankelijke variabele een negatieve invloed heeft op Y.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>

@@ -52,21 +52,11 @@
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-In a dichotomous variable, 50% of the observations are always above the mean and 50% below the mean.
+A dichotomous variable always consists of only one category.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 Incorrect
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="100" format="html">
-<text><![CDATA[<p>
-Although a dichotomous variable is actually nominal, you can still meaningfully average it.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-Correct
 </p>]]></text>
 </feedback>
 </answer>
@@ -82,11 +72,21 @@ Incorrect
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-A dichotomous variable always consists of only one category.
+In a dichotomous variable, 50% of the observations are always above the mean and 50% below the mean.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
 Incorrect
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Although a dichotomous variable is actually nominal, you can still meaningfully average it.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correct
 </p>]]></text>
 </feedback>
 </answer>

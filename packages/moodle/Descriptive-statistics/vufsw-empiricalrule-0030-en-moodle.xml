@@ -51,13 +51,13 @@
 <shuffleanswers>false</shuffleanswers>
 <single>true</single>
 <answernumbering>abc</answernumbering>
-<answer fraction="100" format="html">
+<answer fraction="0" format="html">
 <text><![CDATA[<p>
-68% of the observations are between 68 and 112 minutes.
+68% of the observations are between 24 and 156 minutes.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-True
+False
 </p>]]></text>
 </feedback>
 </answer>
@@ -73,7 +73,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-68% of the observations are between 24 and 156 minutes.
+68% of observations are between 89 and 91 minutes.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -81,13 +81,13 @@ False
 </p>]]></text>
 </feedback>
 </answer>
-<answer fraction="0" format="html">
+<answer fraction="100" format="html">
 <text><![CDATA[<p>
-68% of observations are between 89 and 91 minutes.
+68% of the observations are between 68 and 112 minutes.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
-False
+True
 </p>]]></text>
 </feedback>
 </answer>

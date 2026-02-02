@@ -59,7 +59,7 @@ zien: een <em>bar chart</em> (staafdiagram) of een histogram? Waarom?</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Een staafdiagram (<em>bar chart</em>), omdat het aantal studie-uren een continue kwantitatieve variabele is.
+Een histogram, omdat het aantal studie-uren een discrete categorische variabele is.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -69,7 +69,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Een histogram, omdat het aantal studie-uren een discrete categorische variabele is.
+Een staafdiagram (<em>bar chart</em>), omdat het aantal studie-uren een discrete categorische variabele is.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Een staafdiagram (<em>bar chart</em>), omdat het aantal studie-uren een continue kwantitatieve variabele is.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -84,16 +94,6 @@ Een histogram, omdat het aantal studie-uren een continue kwantitatieve variabele
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Een staafdiagram (<em>bar chart</em>), omdat het aantal studie-uren een discrete categorische variabele is.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

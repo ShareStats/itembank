@@ -61,7 +61,7 @@ item deleted” uit de schaal te verwijderen.</p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Antwoord II. is juist.
+Antwoord I. is juist.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -71,7 +71,17 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Antwoord I. is juist.
+Antwoord III. is juist.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
+Antwoord II. is juist.
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -86,16 +96,6 @@ Alle genoemde antwoorden zijn juist.
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Antwoord III. is juist.
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>

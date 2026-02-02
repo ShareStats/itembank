@@ -60,6 +60,16 @@ hebben een significante invloed op Y? </p>
 <answernumbering>abc</answernumbering>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
+Beide variabelen hebben <strong>geen </strong>significante invloed.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="0" format="html">
+<text><![CDATA[<p>
 Alleen Geslacht (X<sub>2</sub>).
 </p>]]></text>
 <feedback format="html">
@@ -70,7 +80,7 @@ False
 </answer>
 <answer fraction="0" format="html">
 <text><![CDATA[<p>
-Beide variabelen hebben <strong>geen </strong>significante invloed.
+Zowel Werkuren (X<sub>1</sub>) als Geslacht (X<sub>2</sub>).
 </p>]]></text>
 <feedback format="html">
 <text><![CDATA[<p>
@@ -85,16 +95,6 @@ Alleen Werkuren (X<sub>1</sub>).
 <feedback format="html">
 <text><![CDATA[<p>
 True
-</p>]]></text>
-</feedback>
-</answer>
-<answer fraction="0" format="html">
-<text><![CDATA[<p>
-Zowel Werkuren (X<sub>1</sub>) als Geslacht (X<sub>2</sub>).
-</p>]]></text>
-<feedback format="html">
-<text><![CDATA[<p>
-False
 </p>]]></text>
 </feedback>
 </answer>
