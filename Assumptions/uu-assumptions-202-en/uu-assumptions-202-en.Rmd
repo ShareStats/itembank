@@ -20,7 +20,7 @@ Answerlist
 
 Solution
 ========
-Cook's distance is used to determine whether there are outliers in XY-space. The rule of thumb is that values below 1 do not indicate outliers. The maximum value of Cook's distance in this analysis is .100. This is lower than 1, so the assumption is met.
+Cook's distance is used to determine whether there are outliers in XY-space. The rule of thumb is that values below 1 do not indicate outliers. The maximum value of Cook's distance in this analysis is 0.100. This is lower than 1, so the assumption is met.
 
 
 Meta-information
