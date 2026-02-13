@@ -1,5 +1,5 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("uu-linearity-001-nl-tabel.jpg", recursive = TRUE)
+include_supplement("uu-linearity-001-en-tabel.jpg", recursive = TRUE)
 ```
 
 Question
@@ -8,7 +8,7 @@ The scatterplot below is part of a study among MBO students on the relationship 
 
 Taking this scatterplot as a starting point, which assumption was clearly violated when analyzing the linear regression of guidance on independence?
 
-![](uu-linearity-001-nl-tabel.jpg)
+![](uu-linearity-001-en-tabel.jpg)
 
 Answerlist
 ----------
@@ -20,7 +20,7 @@ Answerlist
 
 Solution
 ========
-This figure shows that the linear solution has an explained variance of .24 (= $R^2$). However, the quadratic solution is better, with an explained variance of .31 (= $R^2$). This is actually higher, so the relationship between guidance and self-efficacy is seemingly not linear but quadratic. This violates the assumption of linearity.
+This figure shows that the linear solution has an explained variance of 0.24 (= $R^2$). However, the quadratic solution is better, with an explained variance of 0.31 (= $R^2$). This is actually higher, so the relationship between guidance and self-efficacy is seemingly not linear but quadratic. This violates the assumption of linearity.
 
 Meta-information
 ================
