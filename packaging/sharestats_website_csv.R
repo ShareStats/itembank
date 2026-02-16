@@ -45,16 +45,14 @@ for(i in 1:n){
     } else {
       lineTo <- lnMeta
     }
-
+    
     lnQ <- seq(lineQ[1] + 2, lineTo-1, 1)
     xQ <- x[lnQ]
     xQ <- paste0(xQ, collapse = "\n")
     xQ <- gsub('\n\n', '\n', xQ)
-
+    
     ## Create dataframe
-    df[[i]] <- data.frame('id' = i-1,
-                          'folder' = folders[i],
-                          #'url' = paste0("https://raw.githubusercontent.com/ShareStats/itembank/main/",all.item.paths[i]),
+    df[[i]] <- data.frame('folder' = folders[i],
                           'name'= names[i],
                           'question' = xQ)
   }, error = function(e){
@@ -91,7 +89,8 @@ metadf$`exextra[Language]`[grepl("ngl", metadf$`exextra[Language]`)] <- "English
 metadf$`exextra[Language]`[grepl('du',metadf$`exextra[Language]`) | grepl('Du',metadf$`exextra[Language]`)]<- 'Dutch'
 
 metadf$`exextra[Language]`[!grepl('Dutch',metadf$`exextra[Language]`) & !grepl('English',metadf$`exextra[Language]`)]<- NA
-unique(metadf$`exextra[Language]`)
+#metadf$extype
+#unique(metadf$`exextra[Language]`)
 # -------------------------------------------------------------------------
 
 metadf <- metadf %>% dplyr::select(exname,
@@ -100,8 +99,10 @@ metadf <- metadf %>% dplyr::select(exname,
                                    `exextra[Type]`,
                                    `exextra[Program]`,
                                    `exextra[Language]`,
-                                   `exextra[Level]`) %>%
-  rename('Name' = exname,
+                                   `exextra[Level]`,
+                                   `exextra[ID]`) %>%
+  rename('ID' = `exextra[ID]`,
+         'Name' = exname,
          'Item Type' = extype,
          'Section' = exsection,
          'Type' = `exextra[Type]`,
@@ -123,15 +124,31 @@ url_name_quest_df <- url_name_quest_df %>%
 # Merge tables ------------------------------------------------------------
 # check if common key is identical
 identical(metadf$Name_KEY, url_name_quest_df$Name_KEY) #no
-# Check differences!
-#setdiff(url_name_quest_df$Name_KEY, metadf$Name_KEY)
-#setdiff(metadf$Name_KEY, url_name_quest_df$Name_KEY)
-# continue anyway (This should be fixed! upd: 23/2/2024)
 
-fulldf <- url_name_quest_df %>% 
-  right_join(metadf, by = 'Name_KEY')
+# # Uncomment to Check differences locally ONLY
+#in_quest_not_in_meta <- setdiff(url_name_quest_df$Name_KEY, metadf$Name_KEY)
+#in_meta_not_in_quest <- setdiff(metadf$Name_KEY, url_name_quest_df$Name_KEY)
+#write.table(url_name_quest_df[url_name_quest_df$Name_KEY %in% in_quest_not_in_meta, "folder"], "~/in_quest_not_in_meta.txt")
+#write.table(metadf[metadf$Name_KEY %in% in_meta_not_in_quest, "Name"], "~/in_meta_not_in_quest.txt")
 
+# Edit: Since the KEYS do not match, we merge the two tables
+#  by **excluding**# the mismatches using 'inner_join()' below
+fulldf <- inner_join(url_name_quest_df, metadf, by = 'Name_KEY')
+# Due to typos, the KEYS are not unique and produce many-to-many relations warning
+# As such the merged df has 9081 rows wheres the two tables that were merged have 9040 rows each.
+
+# -------------------------------------------------------------------------
 fulldf <- fulldf %>% 
   dplyr::select(-Name, -Name_KEY)
-#which(is.na(fulldf$folder)) # still some cases missing
-write.csv(fulldf, 'sharestats_website.csv')
+# make short-section column -----------------------------------------------
+tmp <-  sub(",.*$", "", fulldf$Section) 
+fulldf$SectionShort <- paste(sub("/.*$", "", tmp), sub(".*/", "", tmp), sep = "/")
+
+# update Jan 2026: add time stamp column ----------------------------------
+datedf <- read.table("date_df.txt", header = TRUE)
+datedf$folder <- gsub('/[^/]+$','', datedf$item)
+datedf <- data.frame('folder' = datedf$folder, 'date' = datedf$date)
+
+# merge the 'datedf' to the 'fulldf' by folder
+fulldf_w_date <- inner_join(fulldf, datedf, by = 'folder')
+write.csv(fulldf_w_date, 'sharestats_website.csv')
