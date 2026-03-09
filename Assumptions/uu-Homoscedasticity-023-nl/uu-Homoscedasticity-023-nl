@@ -1,1 +1,30 @@
+Question
+========
+Eén van de voorwaarden voor het uitvoeren van een regressieanalyse is homoscedasticiteit. Welke grafiek is het meest geschikt om deze voorwaarde te controleren?
 
+Answerlist
+----------
+* Een spreidingsdiagram (scatterplot) met de voorspellers op de X-as en stressscores van verpleegkundigen op de Y-as.
+* Een spreidingsdiagram (scatterplot) met de residuen op de X-as en stressscores van verpleegkundigen op de Y-as.
+* Een spreidingsdiagram (scatterplot) met de residuen op de X-as en stressscores van verpleegkundigen op de Y-as.
+* Een spreidingsdiagram (scatterplot) met de gestandaardiseerde voorspelde stressscores van verpleegkundigen op de X-as en de gestandaardiseerde residuen op de Y-as.
+
+
+Solution
+========
+*  Een spreidingsdiagram (scatterplot) met de gestandaardiseerde voorspelde stressscores van verpleegkundigen op de X-as en de gestandaardiseerde residuen op de Y-as.
+
+Homoscedasticiteit betekent dat de spreiding van de residuen voor elke waarde van X ongeveer gelijk is. Met andere woorden: de variantie van de residuen is ongeveer constant voor elke voorspelde waarde.
+Je kunt deze voorwaarde controleren met een spreidingsdiagram waarin je de gestandaardiseerde voorspelde scores op de X-as plaatst en de gestandaardiseerde residuen op de Y-as.
+
+Meta-information
+================
+exname: uu-Homoscedasticity-023-nl
+extype: schoice
+exsolution: 0001
+exsection: Assumptions/Homoscedasticity
+exextra[ID]: 5b831
+exextra[Type]: Performing analysis
+exextra[Program]: 
+exextra[Language]: Dutch
+exextra[Level]: Statistical Literacy
