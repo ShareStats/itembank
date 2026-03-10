@@ -1,5 +1,5 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("uu-VIF-001-nl-tabel.jpg", recursive = TRUE)
+include_supplement("uu-VIF-001-en-tabel.jpg", recursive = TRUE)
 ```
 
 Question
@@ -7,7 +7,7 @@ Question
 Another researcher is also interested in nurses' stress levels but has different hypotheses. The table below shows the output of a regression analysis belonging to the question of whether stress in nurses can be predicted by the variables age, experience (in years) and gender. The researcher looks at the value of Tolerance to make a statement about possible collinearity of the variables. Which statement is correct given the results in the table below? 
 
 
-![](uu-VIF-001-nl-tabel.jpg)
+![](uu-VIF-001-en-tabel.jpg)
 
 I. The variable nurse gender should be removed from the regression model (Tolerance = .998). II. The variables nurse experience and age_nurses should both be removed from the regression model (Tolerance of both = .072).
 
