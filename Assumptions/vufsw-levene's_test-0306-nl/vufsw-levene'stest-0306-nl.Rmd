@@ -10,7 +10,7 @@ vakken: literatuur, essay writing en wiskunde (ze staan in deze volgorde
 in de dataset). Daarnaast onderzoeken wij of de eventuele verschillen
 tussen de 3 vakken variëren tussen mannelijke en vrouwelijke scholieren.
 Daarom gebruiken wij een Mixed Design ANOVA. De output van deze analyse
-staat hieronder. "**Female**" is gecodeerd als 0: man, 1: vrouw.  
+staat hieronder. Female (vrouw) is gecodeerd als 0: man als 1.  
 Is de assumptie van de homogeniteit van de varianties geschonden (zie
 onderstaande output)? 
   
@@ -27,21 +27,12 @@ Answerlist
 Solution
 ========
 
-
-
-
-
-
-
-
-
-
 Answerlist
 ----------
-* True
-* False
-* False
-* False
+* Waar
+* Onwaar
+* Onwaar
+* Onwaar
 
 Meta-information
 ================
