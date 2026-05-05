@@ -5,6 +5,8 @@ on:
   push:
     tags: ['*']
 
+  workflow_dispatch:
+
 env:
   SOURCE_BRANCH: main
   PACKAGES_BRANCH: packages # ensure that the branch and folder exist
@@ -15,15 +17,10 @@ jobs:
   item-folder:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v6
 
       - name: Install software
         run: sudo apt install make tree
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.12'
 
       - name: Set up R
         uses: r-lib/actions/setup-r@v2
