@@ -1,6 +1,6 @@
 ```{r, echo = FALSE, results = "hide"}
-include_supplement("eur-descriptive-122-nl-data.sav", recursive = TRUE)
-include_supplement("eur-descriptive-122-nl-data.csv", recursive = TRUE)
+include_supplement("eur-descriptive-122-en-data.sav", recursive = TRUE)
+include_supplement("eur-descriptive-122-en-data.csv", recursive = TRUE)
 ```
 
 Question
@@ -13,7 +13,7 @@ Open the data file.
 
 The researcher would like to divide the student's total scores into the following 2 percentile groups: 0-85% = 1; and >85% = 2. Create a new variable in which each student is assigned to the correct percentile group based on his or her percentile score for the variable [total score]. What is the proportion correct on item 8 [item8] for students belonging to percentile group 2? (2 decimal places)
 
-* Download**: [SPSS file](eur-descriptive-122-nl-data.sav), [CSV file](eur-descriptive-122-nl-data.csv)
+* Download**: [SPSS file](eur-descriptive-122-en-data.sav), [CSV file](eur-descriptive-122-en-data.csv)
 
 
 Solution
